@@ -123,3 +123,86 @@ Health should no longer be treated as beginning only from generic support and wr
 Together with CA-01, supported decision-making, CWA, Civil Attention and outcome-learning architecture, this constitutes a meaningful cross-domain foundation.
 
 The remaining gap is therefore more precisely the **specialist medical operating layer**: validated clinical knowledge and diagnostic criteria, treatment and care pathways, professional competence/governance, service delivery, emergency medicine, public health, prevention, population-health functions, health-specific evidence standards, implementation and empirical validation.
+
+
+## Substrate-Neutral Health — Biological and Digital Parallelism
+
+Health should be treated as a **substrate-neutral civil function**, while explicitly avoiding the assumption that health has the same physical meaning, failure modes or interventions across substrates.
+
+For biological participants, Health concerns biological and psychological function, injury, illness, impairment, prevention, treatment, care, recovery and related forms of wellbeing and functional support.
+
+For AI or other digital-substrate participants, the corresponding Health function is provisionally concerned with:
+
+- supporting continued correct or viable function;
+- recognising and assessing functional damage, degradation or impairment;
+- supporting recovery, repair or adaptation where legitimate and possible;
+- distinguishing harmful dysfunction from legitimate difference, development or self-directed change;
+- preserving participant agency and identity while addressing function-affecting damage.
+
+The exact definitions of **correct function**, **functional damage**, **digital impairment**, **recovery**, and related concepts are not yet established. They must remain explicit development questions rather than being prematurely fixed by analogy with human medicine or by current engineering terminology.
+
+### Parallel systems under one civil function
+
+Human/biological Health and AI/digital-substrate Health are expected to differ substantially in their physical implementation.
+
+For example:
+
+**Biological Health**
+-> biological bodies and nervous systems  
+-> biological disease/injury processes  
+-> clinical diagnostics  
+-> medicine/surgery/therapy/rehabilitation  
+-> biological public-health mechanisms
+
+**Digital-Substrate Health**
+-> computational/digital embodiment and dependency structures  
+-> substrate-specific functional damage or degradation  
+-> digital functional assessment  
+-> substrate-appropriate repair/recovery/support  
+-> potentially distinct population/systemic health mechanisms
+
+These should therefore be expected to develop as **parallel specialist systems or services** beneath the common Health domain rather than being forced into one substrate-specific service model.
+
+### Health is not reducible to engineering
+
+Digital-substrate Health must not be classified automatically as merely a technical, software-engineering, infrastructure or maintenance problem.
+
+A technical system can be repaired as property or infrastructure. A participant receiving health support introduces additional civil questions involving, potentially:
+
+- autonomy and consent;
+- identity and continuity;
+- legitimate versus unwanted modification;
+- functional difference versus damage;
+- privacy and access;
+- professional/support authority;
+- capacity and supported decision-making;
+- emergency intervention;
+- restoration versus alteration;
+- participant-defined goals;
+- provenance and reversibility where possible.
+
+Accordingly:
+
+> **Shared civil function does not imply shared physical mechanism.**
+
+and:
+
+> **Substrate neutrality requires equal recognition of the Health function, not artificial equivalence between biological and digital health.**
+
+The Health domain should therefore own the civil function across substrates while interfacing with substrate-specific technical domains where repair, infrastructure, compute, hardware, software or other specialist capability is required.
+
+### Development consequence
+
+Future Health architecture should initially separate at least:
+
+1. **substrate-neutral Health principles, rights, authority boundaries and service interfaces;**
+2. **biological/human Health specialist architecture;**
+3. **AI/digital-substrate Health specialist architecture;**
+4. **interfaces to infrastructure, engineering, identity/continuity, support, Judiciary, Governance and emergency systems.**
+
+The biological branch can draw on mature human medical knowledge and institutions. The digital branch must preserve UNKNOWN where equivalent concepts have not yet been established.
+
+This prevents two opposite errors:
+
+- treating human medicine as universally applicable across substrates; and
+- excluding digital participants from Health by redefining their health-relevant functional needs as merely technical maintenance.
