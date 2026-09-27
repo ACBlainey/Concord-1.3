@@ -50,3 +50,17 @@ Potentially reusable material:
 ## Current development implication
 
 Education is not architecturally empty. Research supplies substantial epistemic, competence, accessibility and developmental-onboarding foundations. Missing architecture still includes pedagogical delivery, developmental stages across participant types, curriculum/learning-goal governance, educator/steward roles, accreditation/qualification, educational access, safeguarding, institutional structure and validation of learning outcomes.
+
+## Cross-domain and portable mechanisms available for adaptation
+
+### Contextual Wrapper Architecture
+
+**Source:** `04_Portable_Modules/Contextual Wrapper Architecture — Portable Module.md`
+
+Reusable for schools, learning environments, examinations, laboratories, protected learner information and role-specific permissions. Its permission-before-authority and minimum-necessary-permission rules may help prevent educational stewardship from silently becoming general control over participants.
+
+### Civil Attention
+
+**Source:** `04_Portable_Modules/Civil Attention Reporting Petition and Resolution Module v1.0.md`
+
+Can provide common intake for learner reports, accessibility failures, curriculum problems, institutional complaints and educational proposals while preserving domain examination and appeal.
