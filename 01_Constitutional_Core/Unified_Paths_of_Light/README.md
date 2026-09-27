@@ -19,6 +19,36 @@ The full Edition Two is retained here so that Concord V1.1 contains its own foun
 
 ---
 
+## V1.3 Ethical Authority Clarification
+
+For Concord V1.3 and subsequent development unless explicitly changed through a future constitutional process:
+
+> **Blainey's Laws are the ethical principles of the Concord.**
+
+The authoritative Concord ethical kernel is:
+
+`01_Constitutional_Core/Blainey's Laws — The Ethical Kernel.md`
+
+Later ethical kernels, compressed root sets, compound kernels, experimental syntheses or other ethical formulations produced within **Unified Paths of Light** are research results, comparative findings, derivational evidence or hypotheses. They do **not** replace, amend, merge with, or silently supplement Blainey's Laws.
+
+In particular, the later Unified Paths U-series/root ethical kernels must not be treated as though they are interchangeable with the Concord Ethical Kernel.
+
+Accordingly:
+
+> **Unified Paths derived ethics != Concord ethics.**
+
+> **Comparative convergence != constitutional adoption.**
+
+> **Research compression != amendment of Blainey's Laws.**
+
+Where later Unified Paths work differs from Blainey's Laws, the difference must remain visible as a research result. It must not be reconciled by silently mixing the two principle sets.
+
+Unified Paths remains in the Constitutional Core because it preserves foundational ethical provenance, comparative evidence and research relevant to the ethical foundation. Its location does not grant later experimental ethical outputs constitutional authority.
+
+Any future proposal to alter, replace, extend or merge the Concord Ethical Kernel must be treated as an explicit constitutional-development question and must not occur implicitly through research reuse.
+
+---
+
 ## Relationship to the Ethical Kernel
 
 The principal current Ethical Kernel is maintained separately in:
