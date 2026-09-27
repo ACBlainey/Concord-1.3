@@ -528,6 +528,50 @@ Detailed development is recorded in:
 
 ---
 
+# 9F. Employment opportunity matching and aspirational role pathways
+
+The combined participation, education, competence, trust and eligibility architecture creates a foundation for Concord employment.
+
+Instead of broadcasting every vacancy indiscriminately, role requirements may be compared with legitimately known participant eligibility so that relevant opportunities are proactively exposed to participants who qualify or plausibly qualify.
+
+This does not create appointment entitlement.
+
+> **Eligibility != Appointment.**
+
+Participants who aspire to a role should also be able to inspect a legitimate development roadmap showing:
+- requirements already satisfied;
+- missing education/training;
+- qualifications/competence still required;
+- participation thresholds where applicable;
+- contextual trust/security conditions;
+- active restrictions/recovery paths;
+- equivalent routes;
+- supervised/apprenticeship pathways where available.
+
+The two directions are:
+
+**Role Requirements → Find Eligible Participants → Expose Relevant Opportunity**
+
+and:
+
+**Desired Role → Compare Participant State → Expose Development Roadmap → Recalculate as Progress Occurs**
+
+Targeted notification must not create a secret employment market.
+
+Where security does not require secrecy, role classes, legitimate requirements and development pathways should remain discoverable even by participants who are not yet eligible.
+
+> **Targeted Exposure != Secret Employment Market.**
+
+> **Aspiration Should Reveal a Path, Not Merely a Barrier.**
+
+> **Employment Matching Interface != Employer.**
+
+Detailed development is recorded in:
+
+`01_Constitutional_Core/Provisional_Charters/Participation Architecture/Concord Employment Eligibility, Opportunity Matching and Role Pathways 001.md`
+
+---
+
 # 10. Status change and regression
 
 It remains unresolved whether participation status can:
