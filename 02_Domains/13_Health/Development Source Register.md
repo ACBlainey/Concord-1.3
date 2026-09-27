@@ -44,3 +44,17 @@ Potentially reusable candidate constraints:
 ## Current development implication
 
 These sources can seed patient/participant autonomy, supported decision-making, outcome learning and support boundaries. They do not provide clinical medicine, public-health, service-delivery, professional-governance or health-capability architecture; those remain genuine development gaps.
+
+## Cross-domain and portable mechanisms available for adaptation
+
+### Contextual Wrapper Architecture
+
+**Source:** `04_Portable_Modules/Contextual Wrapper Architecture — Portable Module.md`
+
+CWA explicitly uses hospitals as an example of combined physical spaces, medical-record permissions, professional roles and emergency states. Reusable mechanisms include nested access, action-specific permission, minimum-necessary permission, permission provenance, emergency/remedy interfaces and termination. Health-specific consent, clinical authority and confidentiality rules remain to be developed.
+
+### Civil Attention
+
+**Source:** `04_Portable_Modules/Civil Attention Reporting Petition and Resolution Module v1.0.md`
+
+Can supply a domain-neutral intake and accountable routing layer for complaints, safety reports, service problems and participant proposals without turning the intake system into clinical decision authority.
