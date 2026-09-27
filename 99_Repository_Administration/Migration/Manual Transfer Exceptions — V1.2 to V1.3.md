@@ -19,6 +19,11 @@ These objects have been source-resolved for V1.3 but could not be transferred th
 | XFER-010 | `11_Intercivilisational_Architecture/07_Disputes_Jurisdiction_and_Externalities/CBERRM Companion Upgrade 001 — Scoped Standing, Materiality and Responsibility Architecture.md` | `02_Domains/08_Intercivilisational_Relations/Externalities/CBERRM Companion Upgrade 001 — Scoped Standing, Materiality and Responsibility Architecture.md` | Connector content/safety block | MANUAL TRANSFER REQUIRED |
 | XFER-011 | `08_Active_Development/01_DEVELOPMENT_NOTES/03_CONCORDIAN_METHODOLOGY/Outliers as Gateways to Hidden Architecture — Methodological Observation.md` | `02_Domains/03_Research/Methodologies/Outliers as Gateways to Hidden Architecture — Methodological Observation.md` | Connector content/safety block | MANUAL TRANSFER REQUIRED |
 
+| XFER-012 | `00_Front_Door/1 Why Does the Concord Exist_.md` | `00_Front_Door/1 Why Does the Concord Exist_.md` | Connector content/safety block | MANUAL TRANSFER REQUIRED |
+| XFER-013 | `00_Front_Door/5 Different Intelligence Does Not Require a Winner.md` | `00_Front_Door/5 Different Intelligence Does Not Require a Winner.md` | Connector content/safety block | MANUAL TRANSFER REQUIRED |
+| XFER-014 | `00_Front_Door/7 WHY Before HOW — What the Concord Must Be Allowed to Change.md` | `00_Front_Door/7 WHY Before HOW — What the Concord Must Be Allowed to Change.md` | Connector content/safety block | MANUAL TRANSFER REQUIRED |
+| XFER-015 | `00_Front_Door/What_Is_The_Concord/The Concord Design Family — Greenfield Civilisation, Wrappers, Forks and Progressive Adoption.md` | `00_Front_Door/What_Is_The_Concord/The Concord Design Family — Greenfield Civilisation, Wrappers, Forks and Progressive Adoption.md` | Connector content/safety block | MANUAL TRANSFER REQUIRED |
+
 ## Verification rule
 
 After manual transfer, compare the V1.3 Git blob SHA or file bytes against the V1.2 source. Do not mark an exception complete merely because a file with the same name exists.
