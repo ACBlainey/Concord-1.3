@@ -94,3 +94,24 @@ Key distinctions:
 The existing Legal Entity Wrappers development programme remains a separate Governance/Law-interface source and should not be duplicated here.
 
 Next source-resolution target: enterprise-register visibility, protected commercial information, beneficial-control transparency and minimum-necessary disclosure.
+
+
+### Commercial accountability backstop for uncertain AI personhood
+
+`Commercial Accountability Backstop for Uncertain AI Personhood 001.md`
+
+A safety invariant now accompanies multisubstrate enterprise recognition.
+
+Where an AI or other actor cannot independently bear the legal responsibility associated with a commercial function, an adequate legally answerable backstop must exist before third parties are exposed to that risk.
+
+Candidate backstops include bounded operator responsibility, legal wrappers, guarantors, fiduciary/guardian responsibility where explicitly applicable, insurance/bonding and layered responsibility.
+
+Key rules:
+
+- Uncertain Personhood Must Not Become an Accountability Void.
+- Liability Backstop != Ownership.
+- Ethical Guardian != Automatically Commercial Guarantor.
+- Backstop Exit Must Not Create an Accountability Gap.
+- No Responsibility Laundering Through Artificial Agency.
+- Accountability Assurance Should Scale With Consequence.
+- Respect Before Certainty + Accountability Before Exposure.
