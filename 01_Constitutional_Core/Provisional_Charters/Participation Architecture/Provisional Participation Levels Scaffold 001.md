@@ -476,6 +476,58 @@ Detailed development is recorded in:
 
 ---
 
+# 9E. Distributed eligibility authority and shared eligibility interface
+
+Source resolution does not presently support creation of a universal Concord Eligibility Authority.
+
+Existing Bounded Contextual Authority, Fractal Permission Architecture, Civil Contact, KCS and topology tests instead support:
+
+> **Distributed Authority; Coherent Interface.**
+
+The legitimate domain responsible for a function should ordinarily own the applicable eligibility rule/decision within its authority.
+
+A shared eligibility interface may assemble participant-facing state from those legitimate inputs without becoming sovereign over them.
+
+The emerging relationship is:
+
+**Fundamental Standing**
++
+**General Participation Band**
++
+**Citizenship / Residence where relevant**
++
+**Education / Functional Qualification**
++
+**Contextual Trust / Self-Stewardship**
++
+**Security / Suitability**
++
+**Active Restriction / Recovery State**
++
+**Resource / Scarcity State**
++
+**Applicable Domain Rules**
+→
+**Specific Eligibility / Entitlement / Permission / Allocation State**
+
+These outputs must remain distinguishable.
+
+> **Eligibility != Entitlement.**
+
+> **Eligibility != Allocation.**
+
+> **Qualification != Authority.**
+
+> **Computation != Authority.**
+
+When an input changes, KCS may identify materially dependent states for review/recalculation; Historical preserves provenance; Civil Historical Access exposes the consequential state; Civil Contact communicates material changes; the legitimate domain remains accountable for its rule or decision.
+
+Detailed development is recorded in:
+
+`01_Constitutional_Core/Provisional_Charters/Participation Architecture/Distributed Eligibility Authority and Shared Eligibility Interface 001.md`
+
+---
+
 # 10. Status change and regression
 
 It remains unresolved whether participation status can:
