@@ -680,3 +680,26 @@ A candidate extension is:
 A change in actor capacity/personhood/legal status or failure of a required backstop is a material lifecycle/dependency event.
 
 > **Enterprise AI Status != Single Scalar.**
+
+
+---
+
+# 27. Planned retirement and orderly wind-down
+
+Enterprise lifecycle must include planned retirement as a normal state rather than treating closure only as insolvency, dissolution or failure.
+
+See:
+
+`Enterprise Wind-Down, Retirement and Orderly Commercial Closure 001.md`
+
+The lifecycle may therefore include:
+
+**Formation → Development → Operation → Adaptation → Maturity → Renewal / Transformation / Succession / Retirement → Wind-Down → Closure → Historical Continuity**
+
+Key distinctions:
+
+- Enterprise Retirement != Enterprise Failure.
+- Enterprise Closure != Accountability Closure.
+- Enterprise Retirement != Historical Erasure.
+- Operational Sunset and Responsibility Sunset May Occur at Different Times.
+- Continuity Architecture Must Preserve Valuable Function, Not Automatically Preserve Every Institution.
