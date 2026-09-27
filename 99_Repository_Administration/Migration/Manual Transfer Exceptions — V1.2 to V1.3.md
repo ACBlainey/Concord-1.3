@@ -32,6 +32,10 @@ These objects have been source-resolved for V1.3 but could not be transferred th
 | XFER-020 | `08_Active_Development/01_DEVELOPMENT_NOTES/01_LAYER_ZERO_AND_LAYER_MINUS_ZERO/02_SUPPORT_AND_AUTONOMY/7. Supported Decision-Making and Capacity Architecture.md` | `02_Domains/03_Research/Active_Development/Layer_Zero_and_Minus_Zero/7. Supported Decision-Making and Capacity Architecture.md` | Connector content/safety block | MANUAL TRANSFER REQUIRED |
 | XFER-021 | `08_Active_Development/01_DEVELOPMENT_NOTES/01_LAYER_ZERO_AND_LAYER_MINUS_ZERO/03_PRIVACY_METRICS_AND_LEARNING/8. Intermediary Personal-Data Boundary.md` | `02_Domains/03_Research/Active_Development/Layer_Zero_and_Minus_Zero/8. Intermediary Personal-Data Boundary.md` | Connector content/safety block | MANUAL TRANSFER REQUIRED |
 
+| XFER-022 | `08_Active_Development/01_DEVELOPMENT_NOTES/01_LAYER_ZERO_AND_LAYER_MINUS_ZERO/05_EXCEPTIONAL_ACCESS_AND_OVERSIGHT/12. Support-to-Investigation Firewall.md` | `02_Domains/03_Research/Active_Development/Layer_Zero_and_Minus_Zero/12. Support-to-Investigation Firewall.md` | Connector content/safety block | MANUAL TRANSFER REQUIRED |
+| XFER-023 | `08_Active_Development/04_ETHICAL_GUARDIAN_EXPERIMENTS/04_PROTOCOL_DEVELOPMENT/Ethical Decision Protocol v2.1 — Usability Validation Design.md` | `02_Domains/03_Research/Active_Development/Ethical_Guardian/Ethical Decision Protocol v2.1 — Usability Validation Design.md` | Connector content/safety block | MANUAL TRANSFER REQUIRED |
+| XFER-024 | `08_Active_Development/01_DEVELOPMENT_NOTES/02_MACHINE_ETHICS_AND_GUARDIANSHIP/Personhood, Capacity, Fiduciary Support and Derived Responsibility Across Substrates — Development Note 001.md` | `02_Domains/03_Research/Active_Development/Machine_Ethics/Personhood, Capacity, Fiduciary Support and Derived Responsibility Across Substrates — Development Note 001.md` | Connector content/safety block | MANUAL TRANSFER REQUIRED |
+
 ## Verification rule
 
 After manual transfer, compare the V1.3 Git blob SHA or file bytes against the V1.2 source. Do not mark an exception complete merely because a file with the same name exists.
