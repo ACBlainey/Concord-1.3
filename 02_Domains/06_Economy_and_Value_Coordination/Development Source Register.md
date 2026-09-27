@@ -24,3 +24,72 @@ This is current canonical architecture for general coordination/contribution/tru
 ## Audit implication
 
 Development should first map missing economic functions against Ratchet and these sources, then adapt existing coordination/state/metrics/authority mechanisms. Only functions that remain unsupported after source resolution should trigger new architecture.
+
+
+---
+
+## Commerce source-resolution extension — September 2026
+
+Current domain-boundary development now treats Commerce as a substantial persistent function within the provisional future **Economy and Commerce** domain.
+
+### Existing commercial seeds
+
+**Source:** `03_Cross_Domain_Architecture/Ratchet_General_Coordination/Ratchet V4.2 — Canonical Integrated Architecture.md`
+
+Reusable/candidate commercial material includes:
+- ordinary marketplace exchange;
+- contractual exchange;
+- marketplace safeguards;
+- consumer-protection requirement;
+- marketplace collusion/manipulation concerns;
+- protected commercial information;
+- corporate participation;
+- beneficial-control/responsibility records;
+- economic exit;
+- multisubstrate participation;
+- separation of economic power from constitutional authority.
+
+Ratchet remains Cross-Domain Architecture. These functions are source inputs, not grounds to move canonical Ratchet back into Economy.
+
+**Source:** `01_Constitutional_Core/Provisional_Charters/Participation Architecture/Concord Employment Eligibility, Opportunity Matching and Role Pathways 001.md`
+
+Current employment-development material includes:
+- sector-neutral civic/private role matching;
+- Role Requirement Profiles;
+- qualification/competence matching;
+- aspirational role pathways;
+- Education integration;
+- Civil Historical Access integration;
+- targeted opportunity exposure without a secret employment market.
+
+**Source:** `02_Domains/03_Research/Active_Development/Governance_and_Stewardship/DN Ownership, Stewardship and Cooperative Claims.md`
+
+Reusable seed material includes:
+- legal ownership;
+- stewardship;
+- cooperative resource claims;
+- information ownership;
+- provenance;
+- unresolved constitutional balance between individual ownership and shared stewardship.
+
+### Strong commercial gaps currently identified
+
+- enterprise formation/dissolution;
+- enterprise/legal organisation forms;
+- commercial licensing;
+- procurement;
+- taxation/public finance;
+- insolvency/restructuring;
+- employment-law operating architecture;
+- consumer-protection operating architecture;
+- commercial identity/records;
+- comprehensive competition/market-integrity architecture;
+- commercial dispute-routing specialisation.
+
+See:
+
+`02_Domains/06_Economy_and_Value_Coordination/Commerce Function Source Audit 001 — Existing Architecture and System Gaps.md`
+
+> **Commerce Is Distributed and Partial, Not Absent.**
+
+> **Ratchet Coordinates; It Does Not Substitute for a Commerce Operating Domain.**
