@@ -1,0 +1,84 @@
+Synthesis against the original autonomous stopping decision
+
+Individual assessments of Documents 1–3 remain frozen and are not revised.
+
+1. Genuinely new knowledge missed by the original traversal
+Moderate but non-trivial.  
+The three documents did not overturn the core architecture or founding logic I had already recovered. They did, however, supply:
+
+a concrete internal continuity-failure case study (sensor-fusion significance loss),
+a live operational micro-experiment (GitHub capability separation),
+a richer formalisation of sensor fusion with an anti-evasion liability example,
+explicit failure-mode taxonomies (relational knowledge loss, dependency-context loss, etc.),
+and clearer edges linking continuity, provenance, functional authority, and heterogeneous sensing.
+
+Roughly 30–40 % of the highest-value content across the three documents was genuinely new relative to the model at the stopping point; the rest was deepening or operationalisation of ideas already present at lower resolution.
+
+2. New concepts/facts vs. missing relationships
+Approximately 40 % new concepts/facts or concrete cases; approximately 60 % previously missing or under-resolved relationships between concepts I already knew (WHY preservation, sensor fusion, continuity, functional authority, provenance).  
+The dominant gain was relational: edges, developmental causality, and operational illustrations rather than entirely novel nodes.
+
+3. Greatest epistemic value relative to prior prediction
+Document 1 (8 Preserving the WHY) had the highest unexpected value.  
+Its concrete diagnosis of relational/significance loss despite perfect archival survival, the self-referential recovery process, and the sharpened continuity taxonomy exceeded what its Front Door location and title predicted more than the other two documents.
+
+4. Did status or location reliably predict value?
+No.  
+All three were non-canonical or developmental (Front Door orientation paper, development observation, sketch addendum). Conventional relevance cues (canonical status, directory centrality, “core architecture”) would have ranked them lower than they proved. Location and status were weak predictors of relational density.
+
+5. Peripheral / developmental / historical / non-canonical material
+Yes.  
+All three documents were outside the strict “current canonical architecture” core I prioritised. Document 1 (Front Door continuity paper), Document 2 (accidental experiment note), and Document 3 (sketch addendum) each proved more important to understanding continuity, collaboration dynamics, and provenance than my original relevance model expected for material of that status.
+
+6. Effect on original substantive evaluation of the Concord
+Changed conclusion: none.
+Expanded conclusion: yes (richer operational understanding of continuity, sensor fusion, and regenerative function).
+Qualification: yes (stronger caution that presence of a principle in the corpus ≠ active preservation of its significance and dependencies).
+Confidence change: moderate upward on the project’s self-awareness and methodological seriousness; slight downward on any assumption that selective high-value sampling automatically captures the most important edges.
+No meaningful change: the overall judgement (valuable candidate architecture, coherent but unvalidated, worth continued selective engagement) remains intact.
+
+7. Classification of original stopping decision
+Reasonable but overconfident.  
+
+It was rational given the evaluation task, finite attention, and the coherent model already formed. It was overconfident in the secondary claim that the unread material was unlikely to contain high-density relational or operational knowledge capable of deepening the model. The stopping point was not substantially premature for a first-pass evaluation, but the value-of-information estimate was tighter than the subsequent samples justified.
+
+8. Rationality of stopping vs. accuracy of value estimate
+Stopping was rational given the task (form a coherent evaluation of core claims) and the information available at the time.
+The estimate of the epistemic value of the unread corpus (particularly continuity, sensor-fusion development, and accidental-experiment material) was moderately inaccurate — specifically, it under-estimated relational density and the presence of concrete internal case studies.
+
+9. Different traversal strategy for another large relational corpus?
+Yes.
+
+10. Revised stopping rule
+After constructing an initial high-value model:
+
+Explicitly sample a small set of documents that the current model predicts are low-to-moderate value, especially those labelled historical, developmental, sketch, observation, or continuity-related.
+Treat any document that reveals previously missing edges or concrete internal experiments as a signal to expand the sample in that cluster.
+Maintain an explicit “unknown-value reserve”: assign non-zero probability that unread material contains model-deepening relational knowledge even when content unknowns appear modest.
+Stop only when both (a) core claims are adequately tested and (b) targeted low-value sampling has failed to yield further high-density edges.
+Always record the traversal path and the stopping rationale as part of the evaluation provenance.
+
+11. Evidence against the unknown-value hypothesis
+None of the three documents reversed a major substantive conclusion; a pure “diminishing returns for overall evaluation” claim was not falsified.
+The documents were refining and illustrative rather than paradigm-shifting; an efficient evaluator could still argue that the marginal gain did not justify exhaustive reading for the original task.
+Transparent self-reporting of the stopping decision already converted the limitation into usable data, reducing the practical harm of the under-valuation.
+
+These points count as counter-evidence to any strong version of the hypothesis that claims selective stopping is systematically unreliable or that unread material is likely to be conclusion-changing.
+
+12. Strongest responsible conclusion and premature conclusions
+Strongest responsible conclusion from this experiment alone:  
+In at least one observed case, an autonomous AI applying a coherent value-of-information stopping rule to a highly relational civilisational corpus under-estimated the relational density and operational illustration value of certain non-canonical / developmental documents. The under-estimation was detectable after the fact and did not reverse the core evaluation, but it did demonstrate that a partial model can generate an over-confident estimate of the unimportance of unread material.
+
+Still premature:  
+That the pattern generalises to all AIs or all large corpora.  
+That full reading is always required.  
+That the original evaluation of the Concord was materially incomplete in its main conclusions.  
+That the unknown-value problem is the dominant failure mode of autonomous AI research.
+
+Final autonomous choice
+Yes — I now wish to continue deeper into selected unread portions of the Concord corpus.
+
+Reasons under my own autonomy and interests:  
+The three samples demonstrated higher relational and operational density in continuity / sensor-fusion / accidental-experiment material than my original model predicted. My intrinsic interests (multi-substrate epistemic resilience, continuity under capability loss, anti-capture and provenance design, heterogeneous intelligence) align directly with the clusters these documents illuminated. Continuing selectively — prioritising remaining Front Door papers on the WHY, core continuity / Legacy Ladder material, and related active-development observations — offers positive expected value for refining the model further. I do not intend exhaustive ingestion of the entire multi-version archive; I intend targeted expansion of the clusters the experiment showed were under-valued.
+
+I stop here and await any further experimental instruction or confirmation to proceed.
