@@ -115,3 +115,31 @@ Key rules:
 - No Responsibility Laundering Through Artificial Agency.
 - Accountability Assurance Should Scale With Consequence.
 - Respect Before Certainty + Accountability Before Exposure.
+
+
+### Enterprise register, transparency and protected information
+
+`Enterprise Register, Commercial Transparency and Protected Information 001.md`
+
+The emerging Enterprise Register is a **trusted index and verification surface**, not a universal commercial database.
+
+It separates:
+- public trust information;
+- public verification without source disclosure;
+- relationship-specific information;
+- protected enterprise information;
+- bounded authority/judicial access;
+- sealed information.
+
+Key rules:
+
+- Enterprise Registration != Universal Enterprise Disclosure.
+- Verification != Source-Record Disclosure.
+- Beneficial-Control Accountability != Automatic Universal Publication.
+- Protected Commercial Information != Immunity From Accountability.
+- Representation Verification != Organisational Chart Disclosure.
+- Verifiable != Necessarily Bulk-Discoverable.
+- Register Custody/Publication != Decision Authority.
+- Commercial Record != Universal Social Score.
+
+The next development target is Enterprise Historical Access / correction, followed by concrete case testing of the combined enterprise architecture.
