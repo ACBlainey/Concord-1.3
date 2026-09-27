@@ -635,3 +635,36 @@ Its purpose is to preserve:
 **third-party protection**
 
 while Concord continues to develop a better understanding of sentience, autonomy, personhood and multisubstrate responsibility.
+
+
+---
+
+# 28. Case-test back-propagation
+
+Enterprise Architecture Case Test 001 exposed three additional requirements.
+
+## Bidirectional accountability transition
+
+Accountability review must not assume a one-way progression from tool/non-person to recognised person.
+
+If relevant legal responsibility or capacity later weakens, becomes disputed or proves mistaken, the enterprise must restore an adequate backstop before continuing affected risk-bearing functions.
+
+> **Accountability Architecture Must Follow Current Legitimate Capacity, Not a One-Way Status Ladder.**
+
+## Backstop failure as material state change
+
+Death, insolvency, dissolution, withdrawal, loss of legal capacity or other failure of a required backstop is a material enterprise-state event.
+
+KCS should identify dependent permissions/functions requiring review.
+
+> **Backstop Failure Must Not Silently Create an Accountability Gap.**
+
+## Actor/function-specific responsibility
+
+A hybrid enterprise may contain humans and multiple AI systems with different legal/capacity states.
+
+Therefore:
+
+> **Enterprise AI Status != Single Scalar.**
+
+`ActorLegalResponsibilityState` should be attached to the relevant actor/function relationship rather than treated as one enterprise-wide classification.
