@@ -622,3 +622,28 @@ The commercial architecture should therefore optimise not for **enterprise immor
 **orderly retirement where appropriate**
 +
 **continuity of obligations, accountability and knowledge after operational closure.**
+
+
+---
+
+# 28. Product-lifecycle parallel
+
+Subsequent Resource Stewardship development identified the same lifecycle pattern at product level.
+
+An enterprise is a temporary organisation of participants, authority, resources and obligations around an economic function.
+
+A product is a temporary organisation of components and materials around a physical function.
+
+When either function ends, remaining value should be deliberately recovered rather than automatically destroyed.
+
+See:
+
+`../04_Resource_Allocation_and_Stewardship/Product Lifecycle Stewardship, Design for Recovery and Post-Use Resources 001.md`
+
+Shared principle:
+
+> **End of One Organised Function Should Trigger Recovery of Remaining Value, Not Automatic Destruction.**
+
+For enterprises, recovery may involve people, assets, knowledge and resources.
+
+For products, recovery may involve whole-product reuse, components and materials.
