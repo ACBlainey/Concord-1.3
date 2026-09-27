@@ -663,3 +663,20 @@ This requirement is developed in:
 > **Liability Backstop != Ownership.**
 
 > **Commercial Capability May Precede Settled Personhood, but Commercial Exposure Must Not Precede Viable Accountability.**
+
+
+---
+
+# 26. Case-test refinement — actor/function responsibility state
+
+Enterprise Architecture Case Test 001 shows that one enterprise may contain multiple humans/AIs with materially different responsibility states.
+
+The Enterprise object should therefore reference actor/function-specific accountability relationships.
+
+A candidate extension is:
+
+`ResponsibilityRelation = <ActorID, EnterpriseID, Function, LegalResponsibilityState, AccountabilityBackstopRef, EffectiveFrom, ReviewCondition, Provenance>`
+
+A change in actor capacity/personhood/legal status or failure of a required backstop is a material lifecycle/dependency event.
+
+> **Enterprise AI Status != Single Scalar.**
