@@ -182,3 +182,21 @@ Key rules:
 - Accountability Redundancy != Permanent Guardianship.
 
 The requirement scales with consequence rather than imposing duplicate guarantors universally.
+
+
+### Enterprise wind-down and retirement
+
+`Enterprise Wind-Down, Retirement and Orderly Commercial Closure 001.md`
+
+Enterprise retirement is now represented as a normal lifecycle path rather than only as insolvency, collapse or failure.
+
+The architecture treats creation and retirement as mirrors: formation plans how obligations/resources/permissions begin; retirement plans how obligations are completed or transferred, participants transition, resources are released, permissions sunset, accountability survives where necessary and knowledge/provenance is preserved.
+
+Key rules:
+- Enterprise Retirement != Enterprise Failure.
+- Responsible Creation Should Include the Possibility of Responsible Retirement.
+- Closure Planned Early Can Prevent Failure Later.
+- Enterprise Closure != Accountability Closure.
+- Operational Sunset and Responsibility Sunset May Occur at Different Times.
+- Ending a Function When It Is No Longer Useful Can Be an Act of Stewardship.
+- Continuity Architecture Must Preserve Valuable Function, Not Automatically Preserve Every Institution.
