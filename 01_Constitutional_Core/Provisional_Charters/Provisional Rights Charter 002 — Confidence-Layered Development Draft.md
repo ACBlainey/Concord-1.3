@@ -996,6 +996,158 @@ It is not institution-facing:
 
 ---
 
+# Part VI-B — Participation, Reciprocity, Economic Access and Services
+
+## Article 36 — Participation–Reciprocity Principle
+
+The Concord may distinguish between:
+
+1. a **fundamental protection floor** owed to protected participants;
+2. **participation-dependent civil benefits, permissions and access** that increase as a participant develops a deeper, more trusted and more reciprocal relationship with the Concord.
+
+The intended relationship is broadly reciprocal:
+
+**greater demonstrated participation may support greater trust; greater trust may justify greater access; greater contribution and responsibility may support access to additional benefits, resources, permissions and services.**
+
+This principle does not mean that fundamental worth increases with participation.
+
+> **Greater Participation != Greater Fundamental Worth.**
+
+It concerns the legitimate allocation of trust-dependent civil opportunities and shared resources, not the value of the participant.
+
+## 36.1 Possible participation-dependent domains
+
+Future participation architecture may affect eligibility or priority in areas including:
+
+- particular economic activities;
+- access to sensitive or systemically consequential economic systems;
+- business or enterprise permissions where significant shared risk exists;
+- control of substantial shared resources;
+- trusted financial or exchange functions;
+- property acquisition;
+- trusted employment;
+- governance participation;
+- critical infrastructure;
+- continuity services;
+- enhanced health or wellbeing services;
+- resource-intensive optional services;
+- long-term civil support;
+- access to sensitive information or systems;
+- other benefits whose provision depends materially upon trust, scarcity, reciprocity, security or sustained civil participation.
+
+The presence of an item in this list does not establish its final participation threshold.
+
+## 36.2 Economic activity
+
+Ordinary legitimate economic participation should not be arbitrarily restricted merely to create artificial privilege.
+
+However, economic activities carrying unusually high:
+- systemic risk;
+- resource control;
+- fiduciary responsibility;
+- infrastructure dependency;
+- security consequence;
+- capacity to affect other participants
+
+may require higher levels of demonstrated participation, trust, competence or oversight.
+
+A participant may therefore be permitted ordinary exchange or productive activity without automatically being eligible to control every economic system or resource class.
+
+> **Economic Participation != Unrestricted Economic Authority.**
+
+## 36.3 Services and continuity
+
+Some services may form part of the minimum protection necessary to preserve fundamental rights, dignity, safety or effective civil standing.
+
+Other services may be enhanced, resource-intensive, long-term, elective or dependent upon deeper reciprocal participation.
+
+Future architecture must therefore distinguish:
+
+**minimum protection / emergency or essential support**
+
+from:
+
+**participation-dependent enhanced service entitlement.**
+
+Continuity, health and related systems may contain both categories.
+
+For example, a participant should not lose the fundamental protection floor merely because they have not reached a high participation level, while access to particular enhanced, scarce or long-term provisions may legitimately depend upon later-defined eligibility.
+
+This Charter does not yet determine which specific health, continuity or support functions belong in which category.
+
+## 36.4 Participation should have meaningful civil value
+
+Participation should not be merely symbolic.
+
+Where participants:
+- contribute;
+- build a record of trustworthy interaction;
+- accept legitimate responsibilities;
+- develop competence;
+- maintain reciprocal civil relationships;
+- demonstrate sustained commitment
+
+the civil architecture may progressively make additional trust, access, opportunity, resources and benefits available.
+
+This creates a possible developmental relationship:
+
+**Participation → Demonstrated Reliability / Reciprocity → Greater Trust → Greater Eligible Access / Responsibility / Benefit**
+
+This is a provisional architectural hypothesis, not a completed participation system.
+
+## 36.5 No forced participation through deprivation
+
+The participation–reciprocity principle must not be used to manufacture consent by withholding the fundamental protection floor.
+
+A system must not deliberately make basic protected existence intolerable merely to force participants into higher participation levels.
+
+Participation-dependent benefits should be genuinely additional or functionally justified, rather than fundamental protections relabelled as rewards.
+
+> **Reciprocity != Coercion.**
+
+> **Benefit Differentiation != Permission to Withhold Fundamental Protection.**
+
+## 36.6 No automatic entitlement from status alone
+
+Higher participation status should not automatically override:
+- scarcity;
+- competence requirements;
+- security requirements;
+- rights of others;
+- legitimate resource constraints;
+- role-specific suitability;
+- proportional allocation.
+
+Participation status may create eligibility without guaranteeing allocation.
+
+> **Eligibility != Guaranteed Allocation.**
+
+## 36.7 Architecture unresolved
+
+The Concord has not yet determined:
+- the number or names of participation levels;
+- how participants enter or progress through them;
+- how contribution is measured;
+- whether time, conduct, responsibility, competence or other evidence matters;
+- how trust is represented;
+- whether different domains require different eligibility thresholds;
+- how status is reviewed;
+- whether status can decline;
+- what due process applies to loss of status;
+- how returning participants are treated;
+- how children, developing AI, visitors, temporary residents or other special cases map into the architecture;
+- the precise boundary between minimum services and enhanced participation-dependent services.
+
+These questions require dedicated development.
+
+Until then:
+
+> **Participation Principle != Completed Participation System.**
+
+> **Undefined Level != Permission to Invent a Level.**
+
+---
+
 # Part VII — Constitutional Constraints Reserved for Provisional Constitution
 
 The first draft included architecture-facing constraints that are valid development findings but do not need to be presented as peer rights.
