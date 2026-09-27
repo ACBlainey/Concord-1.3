@@ -45,3 +45,19 @@ This source is broader than environmental stewardship, so its model should be ad
 ## Current development implication
 
 Existing material supplies environmental compatibility, substrate-awareness and a general stewardship pattern, but not a complete environmental-management architecture. Major missing areas include ecological monitoring, environmental limits/thresholds, pollution/externalities, habitat restoration, biodiversity/ecosystem stewardship, planetary/off-world environmental management, environmental evidence, intervention authority, cross-domain resource interfaces and long-horizon validation.
+
+## Cross-domain and portable mechanisms available for adaptation
+
+### Metrics and state observation
+
+**Source:** `03_Cross_Domain_Architecture/Metrics_and_State_Observation/Constitutional Metrics and Civilisation Architecture Framework — Metrics Full.md`
+
+The existing framework already recognises environmental degradation as a distinct civil dimension and warns that metrics are provisional representations rather than reality or automatic decision authority. Environmental development can reuse this observation/review philosophy rather than creating an independent epistemic model.
+
+### State-triggered review and dependency representation
+
+**Sources:**
+- `04_Portable_Modules/State Triggered Review Architecture — Portable Module.md`
+- `03_Cross_Domain_Architecture/Knowledge_Control_System/KCS Companion Upgrade 001 — Operational Dependency and Change-Propagation Architecture.md`
+
+Potentially reusable for threshold/state changes, dependency effects and review triggers while environmental science supplies domain-specific measures and causal models.
