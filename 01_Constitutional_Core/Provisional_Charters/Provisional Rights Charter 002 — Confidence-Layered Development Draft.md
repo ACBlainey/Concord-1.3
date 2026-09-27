@@ -39,6 +39,51 @@ This draft is not a Constitution and does not bind wider Concord development mer
 
 ---
 
+# Foundational Participant–Concord Relationship
+
+The Concord exists **for its participants**.
+
+Participants do not exist for the Concord.
+
+Participants do not belong to the Concord merely because they:
+- live within it;
+- use its systems;
+- depend upon its services;
+- hold citizenship or membership;
+- receive protection or support from it.
+
+The Concord is a civil architecture intended to serve participants, protect their legitimate rights and protected standing, and enable peaceful flourishing as effectively as reasonably possible.
+
+Its duty is therefore one of **best reasonable protection**, not a false guarantee that no right will ever be infringed.
+
+No civil system can guarantee that every protected interest will remain fully exercisable in every circumstance. Rights may conflict. Information may be incomplete. Resources may be constrained. Error may occur. Extreme circumstances, including genuine emergencies, may sometimes require temporary infringement or restriction of the exercise of a protected right in order to prevent greater harm or protect the rights and safety of others.
+
+Such infringement must not be treated as proof that the right disappeared.
+
+Where restriction or infringement occurs, the Concord should seek, as far as reasonably possible, to ensure that it is:
+- genuinely necessary;
+- proportionate to the circumstances;
+- no broader than reasonably required;
+- no longer than reasonably required;
+- documented and reviewable where practicable;
+- open to later challenge and correction.
+
+Where a protected right has been wrongly infringed, or where unavoidable infringement has produced continuing harm or loss, the Concord should make its **best reasonable effort**, where possible, to provide appropriate remedy, correction, restoration, support or compensation according to the circumstances.
+
+Remedy cannot always restore the position that existed before the infringement.
+
+The obligation is therefore not a promise of perfect restoration. It is an obligation to **try in good faith, within legitimate capability and constraints, to repair what can reasonably be repaired**.
+
+> **The Concord serves its participants; its participants do not serve as property of the Concord.**
+
+> **Protection is an obligation of best reasonable effort, not a guarantee of perfect outcomes.**
+
+> **Necessary infringement does not extinguish the underlying right.**
+
+> **Where infringement occurs, correction and remedy should be pursued as far as reasonably possible.**
+
+---
+
 # Part I — Source, Holder and Interpretation
 
 # Article 1 — Source and Derivational Authority
