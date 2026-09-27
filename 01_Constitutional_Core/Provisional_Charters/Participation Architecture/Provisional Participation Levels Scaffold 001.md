@@ -320,6 +320,66 @@ Where progression is denied, reduced or materially restricted on participant-spe
 
 ---
 
+# 9B. Self-Stewardship and entrusted stewardship
+
+Existing Concord Self-Stewardship and Ratchet work adds another qualification dimension.
+
+A participant should ordinarily demonstrate **relevant Self-Stewardship** before being entrusted with consequential stewardship over other participants, shared resources, sensitive systems or public authority.
+
+This must remain contextual.
+
+It must not become a universal social score.
+
+Serious misconduct, including criminal conduct where genuinely relevant to the function, may temporarily or conditionally disqualify a participant from particular:
+- trusted roles;
+- stewardship functions;
+- sensitive permissions;
+- trust-dependent benefits;
+- resource-control functions.
+
+Such restriction does not by itself remove fundamental protected standing or automatically reduce the participant's entire civil relationship.
+
+The provisional model is:
+
+**Participation Band**
++
+**Domain Qualification**
++
+**Contextual Trust**
++
+**Active Restriction / Recovery State**
+→
+**Current Entrusted Eligibility**
+
+Restrictions should ordinarily be:
+- relevant to the actual function/risk;
+- proportionate;
+- no broader than necessary;
+- reviewable;
+- contestable;
+- time-bounded or review-triggered where appropriate;
+- capable of staged recovery where later evidence justifies it.
+
+Possible recovery patterns include:
+
+**Full Restriction → Supervised / Bounded Eligibility → Conditional Eligibility → Normal Eligibility**
+
+or earlier reassessment following demonstrated rehabilitation or regained contextual trust.
+
+> **Criminal Record != Universal Untrustworthiness.**
+
+> **Loss of Entrusted Eligibility != Loss of Fundamental Standing.**
+
+> **Trust Can Be Lost Without Personhood Being Lost.**
+
+> **Trust Can Be Regained Without History Being Erased.**
+
+Detailed development is recorded in:
+
+`01_Constitutional_Core/Provisional_Charters/Participation Architecture/Self-Stewardship, Entrusted Stewardship and Recoverable Eligibility 001.md`
+
+---
+
 # 10. Status change and regression
 
 It remains unresolved whether participation status can:
