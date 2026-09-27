@@ -51,3 +51,25 @@ Key rules:
 - End of One Organised Function Should Trigger Recovery of Remaining Value, Not Automatic Destruction.
 
 This is a downstream development of Blainey's Law 8 — Steward the Commons — and does not alter the Ethical Kernel.
+
+
+## Post-use product collection and value recovery
+
+`Post-Use Product Collection, Recovery Routing and Value Extraction System 001.md`
+
+Product lifecycle stewardship creates a further persistent system function: post-use products must be collected, assessed and routed if their remaining value is to re-enter productive use.
+
+The emerging flow is:
+
+**Retirement → Collection → Safety/Data Check → Triage → Remaining-Value Assessment → Recovery Routing → Reuse / Repair / Refurbishment / Repurpose / Component Recovery / Material Recovery → Productive Re-entry**
+
+Key rules:
+- Post-Use Collection Is Resource Acquisition From the Existing Material Stock.
+- Recycling Too Early Can Destroy Higher-Order Value.
+- The Highest Remaining Value May Exist Above the Material Layer.
+- The Supply Chain Does Not Necessarily End at the Customer.
+- Material Recovery Must Not Become Data Leakage.
+- Product Retirement Can Teach Product Creation.
+- The Civilisation's Resource Base Includes Materials Already in Circulation.
+
+This creates a productive bridge between Resource Stewardship, Commerce, Employment, manufacturing and Environment/Habitat Stewardship.
