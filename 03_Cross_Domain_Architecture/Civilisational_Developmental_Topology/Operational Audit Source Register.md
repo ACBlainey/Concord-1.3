@@ -271,3 +271,77 @@ The domain source registers now support a useful distinction.
 **Education:** epistemic/competence, onboarding and accessibility architecture substantially narrow the problem, but pedagogical delivery, curriculum/learning-goal governance, educator roles, qualification/accreditation, access/safeguarding and outcome validation remain.
 
 This distinction is important for development ordering: reuse the existing cross-domain framework first, but do not mistake framework reuse for supplying the specialist operational capability of the domain.
+
+
+## Cross-domain operating-system maturity calibration
+
+A direct audit of the principal cross-domain architectures supports four distinct maturity classes.
+
+### A. Initial operational architecture with live internal records/tests
+
+**Civilisational Developmental Topology / Civil State Map / KCS dependency layer**
+
+Evidence includes:
+- canonical initial-operational CDT and State Map specifications;
+- Canonical Topology Register 001;
+- canonical operational dependency graph tests;
+- four additive live KCS operational dependency datasets;
+- frozen prediction -> development -> retest cycles;
+- dependency-state transitions produced from completed investigations.
+
+This is more than conceptual architecture. It has been instantiated against Concord's own development state.
+
+**Classification:** INITIAL INTERNAL OPERATION / POPULATED BOUNDED IMPLEMENTATION / EXTERNAL VALIDATION NOT ESTABLISHED.
+
+The boundedness matters: the live dependency graph is not yet exhaustive of the whole civilisation.
+
+### B. Architecturally integrated and transfer-tested, but not general deployed implementation
+
+**Continuity operational recovery layer**
+
+`02_Domains/02_Continuity/Continuity Protocol Companion Upgrade 001 — Operational Recovery and Verification Architecture.md` is an integrated companion whose architectural interface retest passed after two frozen blind-transfer tests. It defines explicit continuity states CS1–CS6, disruption envelopes, RTO/RPO/MAF, recovery bundles, dependency testing and minimal operational records.
+
+**Classification:** INTEGRATED SPECIFICATION / BLIND-TRANSFER ARCHITECTURAL TESTING PASSED / DOMAIN EMPIRICAL DEPLOYMENT NOT ESTABLISHED.
+
+**CBERRM externality architecture**
+
+CBERRM Companion Upgrade 001 is integrated and its architectural interface retest passed after portable blind transfer.
+
+**Classification:** INTEGRATED SPECIFICATION / TRANSFER-INFORMED / REAL-WORLD DEPLOYMENT NOT ESTABLISHED.
+
+### C. Developed canonical specification awaiting systematic empirical operation
+
+**Ratchet V4.2**
+
+Ratchet itself states that it is a developed, internally audited, canonically specified and explicitly testable architecture awaiting systematic external and empirical validation. Its economic mechanisms remain hypotheses requiring testing.
+
+**Classification:** DEVELOPED CANONICAL SPECIFICATION / NOT YET OPERATIONALLY VALIDATED.
+
+**Metrics**
+
+The Metrics framework is extensive and provides measurement, state, evidence-readiness and development-cycle architecture, but much of its readiness ladder explicitly places operational trials, regional implementation and civilisational implementation in future evidence stages.
+
+**Classification:** DEVELOPED FRAMEWORK / PARTLY REALISED THROUGH CDT-KCS-STATE-MAP INTERNAL USE / GENERAL CIVIL OPERATION NOT ESTABLISHED.
+
+### D. Developed candidate architecture/protocol not yet canonical or broadly tested
+
+**Functionally Bounded Summits** remains a review-copy candidate intercivilisational protocol in active development. It is architecturally substantive but should not be counted as a deployed diplomatic system.
+
+**Classification:** SUBSTANTIAL CANDIDATE PROTOCOL / TESTING AND CANONICAL INTEGRATION INCOMPLETE.
+
+## Important audit distinction
+
+The phrase **operational architecture** must not be treated as synonymous with **deployed civil service**.
+
+For the master audit use at least:
+1. CONCEPT / RESEARCH;
+2. DEVELOPED SPECIFICATION;
+3. INTEGRATED ARCHITECTURE;
+4. INTERNALLY INSTANTIATED / LIVE BOUNDED RECORDS;
+5. TRANSFER-TESTED ARCHITECTURE;
+6. PROTOTYPE / SANDBOX IMPLEMENTATION;
+7. CONTROLLED PILOT;
+8. FIELD-OPERATING SYSTEM;
+9. LONGITUDINALLY VALIDATED SYSTEM.
+
+A system may be highly developed at levels 2–5 while still lacking software, institutions, personnel, physical capability or field evidence required for levels 6–9.
