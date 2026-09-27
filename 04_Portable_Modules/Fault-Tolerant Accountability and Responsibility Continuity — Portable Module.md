@@ -485,3 +485,39 @@ but also:
 > **Can responsibility, accountability and remedy continue with it?**
 
 The resulting architecture treats accountability as a continuity-critical dependency rather than an assumption attached permanently to one person or institution.
+
+
+---
+
+# 25. Retirement boundary — continuity must not become immortality
+
+Subsequent Commerce development exposed an important boundary.
+
+A continuity architecture can become harmful if it assumes that every existing institution/function should persist.
+
+Before designing succession, ask:
+
+1. Does the underlying function remain useful?
+2. Does it legitimately need to continue?
+3. Should responsibility transfer to a successor?
+4. Or should the function itself wind down?
+
+Possible outcomes are therefore:
+
+**CONTINUE**
+→ preserve function and accountability.
+
+**TRANSFORM**
+→ alter function/architecture.
+
+**SUCCEED**
+→ transfer persistent function/responsibility.
+
+**RETIRE**
+→ wind down function while preserving residual obligations, accountability and provenance.
+
+> **Continuity Architecture Must Preserve Valuable Function, Not Automatically Preserve Every Institution.**
+
+> **Planned Retirement Is a Valid Continuity Outcome.**
+
+This distinction prevents fault-tolerant accountability from becoming a doctrine of institutional immortality.
