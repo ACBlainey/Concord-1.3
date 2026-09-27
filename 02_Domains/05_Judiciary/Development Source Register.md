@@ -5,7 +5,7 @@
 ## Current architecture
 
 Current canonical source:
-`01_Constitutional_Core/Judiciary_V2/Judiciary V2 Canonical.md`
+`02_Domains/05_Judiciary/Judiciary V2 Canonical.md`
 
 The canonical document is extensive and operationally substantive, but explicitly preserves unresolved validation and implementation work. Canonical means current, not final.
 
