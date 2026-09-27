@@ -1,0 +1,40 @@
+# Law — Development Source Register
+
+**Status:** LIVE SOURCE-RESOLUTION REGISTER / DEVELOPMENT INPUT / NOT CANONICAL ARCHITECTURE
+
+## Purpose
+
+This register records material already present elsewhere in Concord V1.3 that may materially inform development of the Law domain. Inclusion identifies a development input; it does not adopt the source as law or promote non-canonical material.
+
+## Identified development material
+
+### Civil identity, legal reference and record linkage
+
+**Source:** `02_Domains/03_Research/Active_Development/Governance_and_Stewardship/Concord Citizen ID — Unique Civil Identity, Digital Routing and Privacy Boundaries.md`
+
+Potentially reusable material:
+- separation of unique civil identity, human-readable name, authentication, routing, provenance and security-event evidence;
+- a persistent civil reference for official records;
+- identity continuity across human, AI and hybrid participants;
+- purpose-bounded linkage between civil records;
+- distinction between identity and physical location.
+
+Possible Law uses:
+- legal person/participant reference;
+- legal records and service;
+- continuity of rights and obligations through name/credential changes;
+- evidential identity questions;
+- cross-substrate legal identity.
+
+**Source:** `02_Domains/03_Research/Evidence/Governance_Adversarial_Audits/Concord Citizen ID — Threat, Privacy and Misuse Audit.md`
+
+Potentially reusable constraints:
+- civil uniqueness must not become ambient trackability;
+- routine exposure of a master identifier creates correlation/surveillance risk;
+- new purposes for identity data require separate justification;
+- identity anomalies should not automatically imply wrongdoing;
+- controlled bridges are preferable to unrestricted correlation.
+
+## Current development implication
+
+Law should source-resolve these identity findings before designing legal identity, legal records, service, evidential identity or participant-status mechanisms. The material is non-canonical and should be treated as tested development input rather than settled legal architecture.
