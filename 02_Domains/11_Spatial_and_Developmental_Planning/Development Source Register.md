@@ -45,3 +45,17 @@ The existing seed does not yet provide a complete planning system. Source resolu
 - planning authority, procedure, appeal and review.
 
 Development should begin from the existing PH-03 architecture rather than recreating spatial compatibility from scratch.
+
+## Cross-domain and portable mechanisms available for adaptation
+
+### Contextual Wrapper Architecture
+
+**Source:** `04_Portable_Modules/Contextual Wrapper Architecture — Portable Module.md`
+
+CWA is a graduated portable architecture directly reusable for planning contexts: physical/digital boundaries, nested contexts, legibility, access conditions, local permissions/restrictions, contextual authority, emergency/remedy, termination and review. Its governing rule—standardise the interface while preserving legitimate contextual variation—fits the existing PH-03 planning seed.
+
+### Civil Attention
+
+**Source:** `04_Portable_Modules/Civil Attention Reporting Petition and Resolution Module v1.0.md`
+
+Can provide the common intake/receipt/routing/feedback mechanism for planning problems, proposals, petitions and affected-participant reports while leaving substantive planning decisions with the Planning domain.
