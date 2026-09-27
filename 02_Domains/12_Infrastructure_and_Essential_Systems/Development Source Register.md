@@ -38,3 +38,21 @@ This architecture already depends conceptually on essential-system variables inc
 ## Current development implication
 
 The existing material supplies resilience, prediction, dependency and safe-failure constraints, but does not itself constitute an operating infrastructure domain. Development should separate operation/maintenance/recovery of enabling systems from the purposes of Health, Research, Planning, Economy and other domains that use them.
+
+## Cross-domain and portable mechanisms available for adaptation
+
+### State, dependency and review infrastructure
+
+**Sources:**
+- `03_Cross_Domain_Architecture/Knowledge_Control_System/KCS Companion Upgrade 001 — Operational Dependency and Change-Propagation Architecture.md`
+- `03_Cross_Domain_Architecture/Civilisational_Developmental_Topology/Operational Dependency Graph 001 — First Canonical Development-Order Test.md`
+- `04_Portable_Modules/State Triggered Review Architecture — Portable Module.md`
+- `04_Portable_Modules/State and Maturity Mapping — Portable Module v1.0.md`
+
+Infrastructure should reuse the existing dependency/state grammar for critical dependencies, change propagation, degraded state, recovery and review rather than inventing a parallel dependency model.
+
+### Existing metrics framework
+
+**Source:** `03_Cross_Domain_Architecture/Metrics_and_State_Observation/Constitutional Metrics and Civilisation Architecture Framework — Metrics Full.md`
+
+Already identifies infrastructure measures such as availability, redundancy, resilience, sustainability, maintenance, security, capacity and long-term viability. These are candidate observation inputs, not automatic targets or decision authority.
