@@ -42,3 +42,19 @@ Potentially reusable material:
 ## Current development implication
 
 These sources can inform Defence sensing, escalation, exceptional-power controls and accountability, but they do **not** supply military/defence capability architecture. Defence remains a substantive operational gap.
+
+## Cross-domain and portable mechanisms available for adaptation
+
+### Contextual Wrapper Architecture
+
+**Source:** `04_Portable_Modules/Contextual Wrapper Architecture — Portable Module.md`
+
+Potential Defence reuse includes bounded operational contexts, role/permission separation, minimum-necessary permission, nested access, emergency/remedy interfaces, termination/reversion and explicit unresolved precedence. Domain-specific defence authority must still come from legitimate constitutional/legal architecture.
+
+### State and review architecture
+
+**Sources:**
+- `04_Portable_Modules/State Triggered Review Architecture — Portable Module.md`
+- `04_Portable_Modules/State and Maturity Mapping — Portable Module v1.0.md`
+
+These provide reusable patterns for state-sensitive review, transition detection and evidence-aware status representation that may be adapted for readiness, threat posture, capability condition and post-event review rather than inventing a new state framework.
