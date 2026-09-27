@@ -1,5 +1,9 @@
 # Phase B — Cross-Root Fusion 001
 
+> **SUPERSEDED AS CONCORD RIGHTS-DERIVATION BASIS — PRESERVED FOR PROVENANCE**  
+> This experiment used the later Unified Paths U1–U8 research kernel. That is **not** the Concord Ethical Kernel. Blainey's Laws are the ethical principles of the Concord. This document therefore must not be used as the derivational basis for a Concord Rights Charter. It is retained only as a methodological/comparative experiment and record of the corrected false start. No candidate right in this document acquires Concord authority from this derivation.
+
+
 **Project:** The Concord Framework  
 **Document Type:** Constitutional Development Experiment / Rights Derivation  
 **Status:** ACTIVE DEVELOPMENT / NON-CANONICAL / BLIND DERIVATION / NOT A RIGHTS CHARTER  
