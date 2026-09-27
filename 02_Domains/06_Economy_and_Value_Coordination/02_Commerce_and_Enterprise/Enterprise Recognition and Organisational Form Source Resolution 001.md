@@ -560,3 +560,26 @@ This preserves:
 > **Enterprise Recognition != Universal Commercial Permission.**
 
 > **Describe the Function and Relationships First; Assign the Legal Form Second.**
+
+
+---
+
+# 23. Accountability gate for uncertain legal personhood
+
+Enterprise Recognition must not be used to create a commercially capable actor for which no legally answerable party can be identified.
+
+Where an AI or other actor cannot independently bear the legal responsibility associated with the proposed commercial function, recognition/permission should require an adequate accountability backstop before third parties are exposed to the relevant risk.
+
+This does not make the backstop owner of the actor and does not settle the actor's personhood.
+
+See:
+
+`Commercial Accountability Backstop for Uncertain AI Personhood 001.md`
+
+The resulting dual protection is:
+
+**Respect Before Certainty**
++
+**Accountability Before Exposure**
+
+> **Enterprise Recognition != Permission to Externalise Unanswerable Risk.**
