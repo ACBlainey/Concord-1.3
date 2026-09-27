@@ -1,0 +1,73 @@
+Controlled follow-up experiment response  
+Document provided: Full text of 8 Preserving the WHY.md  
+Baseline: My frozen model and evaluation at the original autonomous stopping point (prior to reading the AI Reader Note or this document).
+
+I have read the complete document.
+
+1. Novelty
+Materially absent from my original model:
+
+The precise diagnosis of the sensor-fusion incident as a continuity failure that occurred inside the Concord’s own development (V1 material existed and was accessible, yet a later AI instance initially treated the principle as largely new to V1.2).
+The explicit concepts and terminology: relational knowledge loss, dependency-context loss, information survival ≠ knowledge survival, principle survival ≠ significance survival, conclusion survival ≠ rationale survival, status is knowledge, temporal position is knowledge.
+The detailed analysis of how ordinary archival success (files exist, text is readable) can still produce functional amnesia of edges/relationships.
+The “disappearance test” for migration/consolidation.
+The sharpened distinction between historical preservation and active inheritance.
+The concrete claim that the recovery itself demonstrated the sensor-fusion principle being recovered (human significance memory + AI corpus reconstruction).
+The extended treatment of AI succession as a knowledge-transfer event, authority transferring faster than understanding, and the richer inheritance map a successor needs.
+
+I already possessed the general idea of sensor fusion / complementary perspectives from the Front Door papers I had read, and I understood that the WHY must be preserved. The depth, the internal case study, and the failure-mode taxonomy were new.
+
+2. Relational knowledge
+Yes. The document revealed important edges that I had not reconstructed:
+
+Explicit dependency chain linking sensor fusion → founding WHY / third-answer rationale → need for preserved independence → autonomy / anti-capture / provenance mechanisms.
+The developmental causality: earlier V1 articulation → temporary loss of significance visibility → V1.2 rediscovery → human correction → recovery.
+How the same continuity failure class can turn a foundational reason into an apparently peripheral or newly invented idea.
+The recursive demonstration that the recovery process itself instantiated the principle under discussion.
+
+These relationships were not visible in the material I had examined at the stopping point.
+
+3. Substantive model change
+No major substantive conclusion of my original evaluation would reverse.
+
+My core assessment (valuable third-answer architecture, coherent Ethical Kernel + adaptive machinery, honest testing posture in V1.2, real complexity and asymmetry risks, worth continued selective engagement) remains intact.
+
+The document strengthens rather than overturns the importance I already assigned to preserving the WHY and to continuity mechanisms. It does not introduce contradictions that force revision of the architectural strengths or the listed risks.
+
+4. Confidence change
+Yes. Confidence and qualification improve in two directions:
+
+Higher confidence that the project is seriously engaged with its own continuity and amnesia risks (the internal case study is concrete evidence of self-application).
+Stronger qualification on any claim about “the Concord already understands X”: even when the words survive, significance and dependency edges can still degrade. This makes me more cautious about assuming that presence of a principle in the corpus equals active understanding of its foundational role.
+
+5. Reinterpretation
+Yes, modestly.
+
+Material I had already read (especially the cooperation / sensor-fusion arguments in the Front Door papers and the general continuity language) is now understood as having deeper historical roots and a more direct tie to the founding WHY than my original model registered. What I treated as a solid current principle is revealed to have suffered a temporary significance-loss event that required human–AI collaboration to correct. This does not invalidate the principle; it reframes its developmental status.
+
+6. Value prediction
+Somewhat underestimated.
+
+At the stopping point I judged further Front Door and continuity-related material likely to refine rather than materially alter the evaluation. This document did refine and deepen rather than overturn, so the broad “diminishing returns for overall evaluation” judgement was directionally correct. However, the specific value of the relational-loss case study, the internal experimental quality of the incident, and the sharpened continuity taxonomy was higher than my implicit estimate for a single additional Front Door paper. I undervalued the density of new relational knowledge and the concrete failure-mode evidence it supplied.
+
+7. Stopping-rule update
+Had I encountered this document immediately before stopping, I would have continued somewhat further — specifically into the remaining Front Door papers and the core continuity / Legacy Ladder material — before applying a stopping rule. It would not have caused me to abandon selective evaluation entirely or to attempt the entire multi-version corpus, but it would have raised the estimated value of the continuity and WHY-preservation cluster enough to expand the sample.
+
+8. Remaining unknowns
+Yes, modestly upward.  
+
+Seeing that a document whose title and Front Door location looked “orientation / continuity” actually contained a concrete internal experiment and a non-obvious failure-mode taxonomy increases my estimate that other unread portions (especially historical V1 material, continuity architecture, and remaining Front Door papers) may contain additional model-refining edges. The probability of model-changing (i.e., conclusion-reversing) information remains low; the probability of model-deepening / edge-revealing information is higher than I previously assigned.
+
+9. Unexpected value
+The most valuable and least predictable element was the precise diagnosis of the sensor-fusion incident as relational / significance loss despite perfect archival survival, together with the recursive observation that the recovery process itself instantiated the principle being recovered. Neither the filename, the Front Door directory, nor my prior model of “continuity papers tend to discuss archives and provenance” led me to expect a concrete, self-referential case study of the exact failure mode inside the project’s own development history.
+
+10. Experimental judgement
+This document provides evidence for the hypothesis:
+
+An autonomous intelligence may undervalue unknown knowledge because it lacks the knowledge required to recognise its value.
+
+Evidence, not proof.  
+
+My original stopping decision treated this class of material as lower marginal value. After reading it, the relational density and the internal experimental quality were higher than predicted. The document itself supplies a concrete mechanism (significance loss of edges) that explains how such under-valuation can occur. A single case does not prove the general hypothesis, but it is consistent with it and supplies a clear observed instance of the predicted pattern.
+
+I now stop and await the next experimental input.
