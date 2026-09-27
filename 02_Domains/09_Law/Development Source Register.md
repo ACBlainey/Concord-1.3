@@ -38,3 +38,17 @@ Potentially reusable constraints:
 ## Current development implication
 
 Law should source-resolve these identity findings before designing legal identity, legal records, service, evidential identity or participant-status mechanisms. The material is non-canonical and should be treated as tested development input rather than settled legal architecture.
+
+## Cross-domain and portable mechanisms available for adaptation
+
+### Contextual Wrapper Architecture
+
+**Source:** `04_Portable_Modules/Contextual Wrapper Architecture — Portable Module.md`
+
+Graduated portable mechanisms potentially reusable for legal architecture include explicit bounded contexts, separation of boundary/access/rules/authority, permission provenance, minimum-necessary permission, termination/reversion, unresolved-precedence preservation and external-resolution routing. CWA explicitly does not invent legal remedies, making it a useful framework into which Law can supply domain-specific legal rules.
+
+### Civil Attention intake and resolution
+
+**Source:** `04_Portable_Modules/Civil Attention Reporting Petition and Resolution Module v1.0.md`
+
+The graduated intake/routing architecture can be adapted for complaints, legal-reform submissions and reports without recreating submission handling. Its separation of submission, evidence, verification, finding and authority is directly relevant to legal process design.
