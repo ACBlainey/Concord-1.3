@@ -49,3 +49,26 @@ Commerce operates within legal frameworks. Law owns general legal rules and obli
 > **Commerce != Commercial Law.**
 
 > **Enterprise Identity != Participant Civil Identity.**
+
+
+## Active development
+
+### Enterprise identity, control and lifecycle
+
+`Enterprise Identity, Control and Lifecycle Architecture 001.md`
+
+This source-derived scaffold reuses existing Concord identity, provenance, Historical, Bounded Contextual Authority and Ratchet corporate-participation primitives to distinguish:
+- persistent Enterprise ID;
+- enterprise name;
+- control/economic-interest relations;
+- bounded representation authority;
+- credentials;
+- permissions;
+- enterprise contact;
+- lifecycle state;
+- successor/predecessor provenance;
+- Historical custody.
+
+It does **not** adopt company law, legal personality, limited liability or a specific organisational form.
+
+The next dependency is enterprise recognition/organisational form source resolution against Law and existing multisubstrate architecture.
