@@ -453,3 +453,46 @@ For Law, Defence, Health, Infrastructure and Civil Security:
 6. validate interfaces and failure modes before graduation.
 
 Framework reuse must not be allowed to create a false appearance that the specialist capability already exists.
+
+
+## Residual-edge refinement
+
+### L3-15 — Deep-Time Constitutional Memory and Forgetting
+
+E3 Companion Refinement 001 materially narrows the previously identified forgetting gap. It establishes an existing **cold-storage / functional-forgetting** concept:
+
+**Active -> Declining Relevance -> Archive -> Cold Storage -> Triggered Retrieval -> Revalidation -> Reactivation or Return to Cold Storage.**
+
+The companion explicitly reclassifies the state as:
+
+**PRESENT-DISTRIBUTED / ASYMMETRIC BUT DEVELOPING MECHANISM MATURITY.**
+
+Therefore the remaining problem is no longer invention of selective forgetting. Residuals are:
+- exceptional retrieval rules;
+- formal KCS state integration;
+- mechanism testing;
+- boundaries between reversible functional forgetting and legitimately required destruction/erasure.
+
+**Audit consequence:** downgrade “selective constitutional forgetting” from likely new mechanism to **existing partial mechanism requiring formalisation/integration/testing**.
+
+### L3-16 — Anti-Attractor / Escape Capacity
+
+Source resolution confirms a meaningful conceptual basis for persistent exit, peaceful distance, fork/secession and post-exit learning, but the direct persistent-exit source remains explicitly **SKETCH / UNTESTED / NON-CANONICAL**.
+
+The Exit Interview module does not supply permission or procedure to exit.
+
+**Audit classification remains: PARTIAL-DISTRIBUTED / GENUINE INTEGRATION-AND-PROCEDURE GAP.**
+
+The missing object is narrower than a general anti-capture system: a legitimate civil **exit/withdrawal procedure and surviving-obligations interface**, connected to membership, property/obligations, third-party consequences, identity continuity, fork/secession and peaceful distance.
+
+### HIF-004-R1 — Partition-Tolerant Civil Event Reconciliation
+
+Internal source test remains strong evidence that most normative prerequisites already exist but the operational core does not.
+
+**Classification: CREDIBLE NARROW NEW-MECHANISM CANDIDATE, SUBJECT TO OWNER RESOLUTION.**
+
+### HIF-003-R1 — Bounded Semantic Equivalence Testing
+
+Internal source test falsifies the broad translation-invention claim but preserves the bounded equivalence residual.
+
+**Classification: CREDIBLE NARROW FORMALISATION/TESTING CANDIDATE, NOT A NEW GENERAL TRANSLATION SYSTEM.**
