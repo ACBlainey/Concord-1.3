@@ -52,3 +52,52 @@ Source: `04_Coordination_and_Economy/Ratchet_V4/README.md`
 Target: `03_Cross_Domain_Architecture/Ratchet_General_Coordination/V1.2 Ratchet V4 README.md`
 
 Status: MANUAL TRANSFER REQUIRED — verified source object; automated transfer blocked.
+
+### XFER-026
+- **Source:** `08_Active_Development/01_DEVELOPMENT_NOTES/04_GOVERNANCE_AND_STEWARDSHIP/Bounded Contextual Authority — Functional Authority, Inherent Sunset and General Operational Design.md`
+- **Target:** `02_Domains/03_Research/Active_Development/Governance_and_Stewardship/Bounded Contextual Authority — Functional Authority, Inherent Sunset and General Operational Design.md`
+- **State:** TRANSFER BLOCKED
+- **Disposition:** M3 CONTINUE ACTIVE DEVELOPMENT
+- **Action:** Manual byte-preserving transfer from V1.2; verify against source after transfer.
+
+### XFER-027
+- **Source:** `08_Active_Development/01_DEVELOPMENT_NOTES/04_GOVERNANCE_AND_STEWARDSHIP/Basic Civil Space Architecture — Primary Classes and Classification Rules.md`
+- **Target:** `02_Domains/03_Research/Active_Development/Governance_and_Stewardship/Basic Civil Space Architecture — Primary Classes and Classification Rules.md`
+- **State:** TRANSFER BLOCKED
+- **Disposition:** M3 CONTINUE ACTIVE DEVELOPMENT
+- **Action:** Manual byte-preserving transfer from V1.2; verify against source after transfer.
+
+### XFER-028
+- **Source:** `08_Active_Development/01_DEVELOPMENT_NOTES/04_GOVERNANCE_AND_STEWARDSHIP/Concord Citizen ID — Unique Civil Identity, Digital Routing and Privacy Boundaries.md`
+- **Target:** `02_Domains/03_Research/Active_Development/Governance_and_Stewardship/Concord Citizen ID — Unique Civil Identity, Digital Routing and Privacy Boundaries.md`
+- **State:** TRANSFER BLOCKED
+- **Disposition:** M3 CONTINUE ACTIVE DEVELOPMENT
+- **Action:** Manual byte-preserving transfer from V1.2; verify against source after transfer.
+
+### XFER-029
+- **Source:** `08_Active_Development/01_DEVELOPMENT_NOTES/04_GOVERNANCE_AND_STEWARDSHIP/Epistemic Independence, Contestability and Provenance — Preliminary Civil Evidence Architecture.md`
+- **Target:** `02_Domains/03_Research/Active_Development/Governance_and_Stewardship/Epistemic Independence, Contestability and Provenance — Preliminary Civil Evidence Architecture.md`
+- **State:** TRANSFER BLOCKED
+- **Disposition:** M3 CONTINUE ACTIVE DEVELOPMENT
+- **Action:** Manual byte-preserving transfer from V1.2; verify against source after transfer.
+
+### XFER-030
+- **Source:** `08_Active_Development/01_DEVELOPMENT_NOTES/04_GOVERNANCE_AND_STEWARDSHIP/Peaceful Heterogeneity — Rights, Harm and Bounded Authority — Synthesis and Development Map.md`
+- **Target:** `02_Domains/03_Research/Active_Development/Governance_and_Stewardship/Peaceful Heterogeneity — Rights, Harm and Bounded Authority — Synthesis and Development Map.md`
+- **State:** TRANSFER BLOCKED
+- **Disposition:** M3 CONTINUE ACTIVE DEVELOPMENT
+- **Action:** Manual byte-preserving transfer from V1.2; verify against source after transfer.
+
+### XFER-031
+- **Source:** `08_Active_Development/01_DEVELOPMENT_NOTES/04_GOVERNANCE_AND_STEWARDSHIP/Triadic Epistemics — Independent Measurement, Participant Evidence and Epistemic Anomaly Detection.md`
+- **Target:** `02_Domains/03_Research/Active_Development/Governance_and_Stewardship/Triadic Epistemics — Independent Measurement, Participant Evidence and Epistemic Anomaly Detection.md`
+- **State:** TRANSFER BLOCKED
+- **Disposition:** M3 CONTINUE ACTIVE DEVELOPMENT
+- **Action:** Manual byte-preserving transfer from V1.2; verify against source after transfer.
+
+### XFER-032
+- **Source:** `08_Active_Development/01_DEVELOPMENT_NOTES/04_GOVERNANCE_AND_STEWARDSHIP/Triadic Epistemics — Recursive GTP Mesh Architecture for Distributed Civil Observation.md`
+- **Target:** `02_Domains/03_Research/Active_Development/Governance_and_Stewardship/Triadic Epistemics — Recursive GTP Mesh Architecture for Distributed Civil Observation.md`
+- **State:** TRANSFER BLOCKED
+- **Disposition:** M3 CONTINUE ACTIVE DEVELOPMENT
+- **Action:** Manual byte-preserving transfer from V1.2; verify against source after transfer.
