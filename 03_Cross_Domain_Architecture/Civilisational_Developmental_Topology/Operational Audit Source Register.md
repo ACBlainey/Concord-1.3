@@ -186,3 +186,65 @@ L2-14 partial-failure retesting already confirms that dependency/state infrastru
 A significant residual remains around **operational representation and testing of correlated/common-mode failure across safeguards**. The concept is explicit, but this audit has not yet verified a dedicated live dependency/failure-diversity mechanism capable of detecting shared hidden failure sources across apparently independent safeguards.
 
 This residual should be source-resolved narrowly before any new architecture is developed.
+
+
+## L2-02 — Cross-Scale Invariant Preservation
+
+The topology evidence includes:
+`02_Domains/03_Research/Evidence/Civilisational_Topology/Cross-Scale Motif Test 001 — Participant to Intercivilisational Recurrence.md`
+
+This source-grounded test finds a recurring relational grammar across participant, institutional, whole-civilisation and intercivilisational scales:
+**Reality -> Legitimate Function -> Bounded Scope -> Agency/Standing -> Contestability -> Correction -> Temporal Revision**, with recurrent asymmetry control, subsidiarity/escalation, function-over-form, exit/de-escalation and provenance.
+
+The test is explicitly non-canonical evidence and does not prove universal scale invariance, but it materially supports the existing constitutional/continuity mechanisms.
+
+**Audit classification: PRESENT-DISTRIBUTED / SUBSTANTIAL ARCHITECTURAL SUPPORT / FURTHER FORMAL AND EMPIRICAL VALIDATION REQUIRED.**
+
+## L3-07 — Civilisational Value-Conflict Containment
+
+Research provides a substantial source-resolved candidate architecture:
+- `02_Domains/03_Research/Active_Development/Governance_and_Stewardship/Peaceful_Heterogeneity/Peaceful Heterogeneity — Rights, Harm and Bounded Authority — Synthesis and Development Map.md`
+- `02_Domains/03_Research/Active_Development/Governance_and_Stewardship/Peaceful Distance as Relational Separation — Shielding and Co-Located Incompatible Domains — Development Note 001.md`
+plus wrappers, safe spaces, Judiciary, bounded authority and externality architecture.
+
+The emerging grammar preserves autonomous variation rather than requiring conformity, then bounds interaction through consent, external harm, rights conflicts, legitimate authority, practical exit, shielding and interoperability.
+
+Peaceful Distance source resolution explicitly found that much surrounding architecture already existed and narrowed its residual contribution to relational rather than necessarily geographic separation.
+
+**Audit classification: PRESENT-DISTRIBUTED / SUBSTANTIAL DEVELOPING ARCHITECTURE / CANONICAL INTEGRATION AND TESTING INCOMPLETE.**
+
+A new general value-conflict system is not presently justified.
+
+## L3-08 — Meta-Resilience Against Correlated Failure
+
+Recursive Constitutional Architecture explicitly recognises correlated/common-source failure, including multiple AI systems sharing model lineage, human reviewers sharing source bias, apparently independent safeguards sharing a corrupted source, and oversight mechanisms validating each other.
+
+It requires sufficiently independent pathways through which one mechanism's failure can become visible elsewhere.
+
+However, repository source search did not verify a dedicated operational representation for:
+- independence provenance among safeguards;
+- common-source/common-lineage dependency edges;
+- failure-diversity state;
+- correlated-failure exposure;
+- automatic review when supposed independence collapses.
+
+**Audit classification: CONCEPT EXPLICIT / DISTRIBUTED SAFEGUARDS PRESENT / OPERATIONAL META-RESILIENCE MECHANISM PARTIAL.**
+
+This is a credible narrow development candidate. Before invention, test whether KCS dependency records can be extended with independence/common-cause semantics using the existing dependency framework. Per the governing audit rule, companion extension of KCS is preferred over a parallel new system if adequate.
+
+## L3-09 — Civilisational Option Preservation Under Deep Uncertainty
+
+Option preservation is supplied indirectly through:
+- reversibility/safe experimentation;
+- continuity and provenance;
+- UNKNOWN and uncertainty representation;
+- anti-capture/non-sovereignty;
+- peaceful distance/non-conformity;
+- recursive restraint and stopping;
+- resource stewardship.
+
+No dedicated standalone option-preservation mechanism was verified, but the function is strongly distributed and may correctly be emergent from these constraints rather than separately owned.
+
+**Audit classification: PRESENT-DISTRIBUTED / INTEGRATION AND VALIDATION QUESTION.**
+
+Do not invent a standalone system unless a concrete consequential scenario exposes an unsupplied option-preservation operation.
