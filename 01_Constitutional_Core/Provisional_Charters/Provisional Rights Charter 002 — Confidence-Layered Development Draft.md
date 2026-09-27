@@ -897,6 +897,105 @@ The source term **intelligent participant** is preserved pending dedicated metho
 
 ---
 
+# Part VI-A — Employment, Trusted Roles and Participation Eligibility
+
+## Article 35 — General Work Opportunity and Trusted-Role Eligibility
+
+The ability to seek productive work and the eligibility to occupy every possible role are distinct civil questions.
+
+A participant should not be arbitrarily excluded from legitimate work merely because they are new, provisional or hold a lower participation status.
+
+However, some roles may expose participants, institutions or critical systems to unusually high consequences if authority, access or trust is abused.
+
+Future Concord architecture may therefore make particular classes of employment conditional upon an appropriate participation level, demonstrated reliability, competence, security clearance or other function-relevant qualification.
+
+Possible participation- or trust-dependent roles may include:
+- government or governance employment;
+- judiciary or constitutional functions;
+- security-sensitive roles;
+- critical infrastructure operation;
+- privileged systems administration;
+- access to highly sensitive civil information;
+- roles controlling essential resources or services;
+- other positions carrying exceptional authority, access or systemic consequence.
+
+The purpose of such restrictions is the **protection of participants and shared civil systems**, not the creation of a privileged employment caste.
+
+## Function-specific trust
+
+Eligibility requirements should correspond to the actual risk and responsibility of the role.
+
+A participant being ineligible for one trusted role does not establish that they are generally:
+- untrustworthy;
+- inferior;
+- incapable of useful work;
+- deprived of fundamental standing;
+- ineligible for unrelated employment.
+
+Participation level may be one source of demonstrated civil trust, but it should not automatically replace:
+- competence;
+- training;
+- role-specific qualification;
+- security assessment;
+- conflict-of-interest controls;
+- ongoing accountability.
+
+Likewise, high participation status should not automatically qualify a participant for a role for which they lack the necessary competence or security suitability.
+
+> **Participation Trust != Technical Competence.**
+
+> **Employment Opportunity != Entitlement to Every Role.**
+
+> **Role Restriction Should Follow Function and Risk.**
+
+## Participation architecture unresolved
+
+The Concord has not yet determined:
+- participation levels;
+- which employment classes attach to each level;
+- trusted-role qualification thresholds;
+- security-clearance architecture;
+- progression or waiting periods;
+- review intervals;
+- suspension and restoration rules;
+- whether different domains require different trust thresholds.
+
+These must not be invented by this Charter.
+
+Until developed, sensitive employment should be classified as **participation-dependent / security-dependent / eligibility unresolved**.
+
+## Review and anti-capture safeguards
+
+Trusted-role restrictions themselves create power and therefore require safeguards.
+
+Future architecture should ensure that restrictions are:
+- connected to genuine role-specific risk;
+- proportionate to the potential consequence;
+- explicit enough to understand;
+- consistently applied;
+- reviewable;
+- contestable where appropriate;
+- capable of reassessment as participation, evidence or circumstances change;
+- not unnecessarily extended to unrelated employment.
+
+An institution should not be able to manufacture arbitrary barriers to participation advancement and then rely upon those barriers indefinitely to reserve trusted employment for an entrenched group.
+
+The security rationale is participant-facing:
+
+**critical functions are restricted where necessary because compromise of those functions could harm the wider participant population.**
+
+It is not institution-facing:
+
+**the institution may reserve power merely because it prefers existing office-holders.**
+
+> **Trusted Role != Higher Human or Participant Worth.**
+
+> **Security Restriction != General Civil Inferiority.**
+
+> **Protection of Participants, Not Protection of an Institutional Class.**
+
+---
+
 # Part VII — Constitutional Constraints Reserved for Provisional Constitution
 
 The first draft included architecture-facing constraints that are valid development findings but do not need to be presented as peer rights.
