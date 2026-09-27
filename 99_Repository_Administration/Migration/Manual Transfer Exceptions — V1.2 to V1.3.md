@@ -28,6 +28,10 @@ These objects have been source-resolved for V1.3 but could not be transferred th
 | XFER-017 | `08_Active_Development/01_DEVELOPMENT_NOTES/01_LAYER_ZERO_AND_LAYER_MINUS_ZERO/01_PARTICIPANT_AND_MODELLING/1 Layer-Zero Systems Interface.md` | `02_Domains/03_Research/Active_Development/Layer_Zero_and_Minus_Zero/1 Layer-Zero Systems Interface.md` | Connector content/safety block | MANUAL TRANSFER REQUIRED |
 | XFER-018 | `08_Active_Development/01_DEVELOPMENT_NOTES/01_LAYER_ZERO_AND_LAYER_MINUS_ZERO/01_PARTICIPANT_AND_MODELLING/3. Participant Digital Twin System.md` | `02_Domains/03_Research/Active_Development/Layer_Zero_and_Minus_Zero/3. Participant Digital Twin System.md` | Connector content/safety block | MANUAL TRANSFER REQUIRED |
 
+| XFER-019 | `08_Active_Development/01_DEVELOPMENT_NOTES/01_LAYER_ZERO_AND_LAYER_MINUS_ZERO/02_SUPPORT_AND_AUTONOMY/6. Handrail Civil Support Architecture.md` | `02_Domains/03_Research/Active_Development/Layer_Zero_and_Minus_Zero/6. Handrail Civil Support Architecture.md` | Connector content/safety block | MANUAL TRANSFER REQUIRED |
+| XFER-020 | `08_Active_Development/01_DEVELOPMENT_NOTES/01_LAYER_ZERO_AND_LAYER_MINUS_ZERO/02_SUPPORT_AND_AUTONOMY/7. Supported Decision-Making and Capacity Architecture.md` | `02_Domains/03_Research/Active_Development/Layer_Zero_and_Minus_Zero/7. Supported Decision-Making and Capacity Architecture.md` | Connector content/safety block | MANUAL TRANSFER REQUIRED |
+| XFER-021 | `08_Active_Development/01_DEVELOPMENT_NOTES/01_LAYER_ZERO_AND_LAYER_MINUS_ZERO/03_PRIVACY_METRICS_AND_LEARNING/8. Intermediary Personal-Data Boundary.md` | `02_Domains/03_Research/Active_Development/Layer_Zero_and_Minus_Zero/8. Intermediary Personal-Data Boundary.md` | Connector content/safety block | MANUAL TRANSFER REQUIRED |
+
 ## Verification rule
 
 After manual transfer, compare the V1.3 Git blob SHA or file bytes against the V1.2 source. Do not mark an exception complete merely because a file with the same name exists.
