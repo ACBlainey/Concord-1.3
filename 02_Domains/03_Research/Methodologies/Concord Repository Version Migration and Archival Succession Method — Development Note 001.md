@@ -163,6 +163,57 @@ Do not migrate as live architecture. Preserve only through the predecessor archi
 
 These classes describe migration disposition, not civil authority.
 
+## 6A. Exact source-path resolution rule
+
+Migration operations must act on **verified repository objects**, not remembered, conceptual or inferred names.
+
+Before any file-level migration action, establish and record the object's literal predecessor path exactly as it exists in the authoritative source snapshot or repository, including:
+
+- every parent directory;
+- exact filename;
+- numbering and prefixes;
+- punctuation;
+- spaces;
+- capitalisation where relevant;
+- version suffixes;
+- special characters;
+- and file extension.
+
+The migration operator must not construct a source path from:
+
+- a conceptual document title;
+- a shorthand used in discussion;
+- a migration-map summary;
+- memory of an earlier repository state;
+- a folder name plus an assumed filename;
+- or a predicted naming convention.
+
+Where the exact path has not yet been resolved, the correct state is **SOURCE PATH UNRESOLVED**. It is not a transfer failure.
+
+A `NOT_FOUND` result from an assumed path must therefore trigger source-resolution against the authoritative inventory; it must not be entered into the manual-transfer exception register unless the literal source path has first been independently verified.
+
+> **Conceptual Identity != Repository Address**
+
+> **Source Resolution Precedes Migration Action**
+
+> **Use the Literal Full Path and Filename; Never Migrate from Shorthand or Assumption.**
+
+For migrations performed from a repository snapshot, the snapshot filesystem inventory is the preferred enumeration authority. Repository APIs may then be used to fetch the verified literal path and, where possible, confirm source hashes.
+
+The migration register should preserve the exact source path so that the operation is reproducible and independently auditable.
+
+### 6A.1 Transfer-exception distinction
+
+After exact source resolution, distinguish:
+
+- **SOURCE PATH UNRESOLVED** — no verified repository object has yet been located;
+- **SOURCE OBJECT MISSING** — a previously verified object is absent from the authoritative source state;
+- **TRANSFER BLOCKED** — the verified object exists but the transfer mechanism rejects it;
+- **TRANSFER SIZE LIMIT** — the verified object exists but exceeds the available transfer mechanism;
+- **TRANSFERRED / VERIFIED** — the successor object has been written and, where possible, content/hash checked.
+
+Only the latter two failure states belong in a manual-transfer exception register.
+
 ## 7. Functional reclassification rule
 
 Migration must not assume that the old folder location identifies the correct successor owner.
