@@ -433,6 +433,49 @@ Detailed development is recorded in:
 
 ---
 
+# 9D. Civil Historical Access and participant records
+
+Participation status, qualifications, benefits, restrictions and recovery states should not exist only inside administrative systems.
+
+Existing Historical architecture already defines a coherent participant civil record spanning:
+- identity and civil status;
+- education and qualifications;
+- health;
+- employment/economic records;
+- legal/judicial records;
+- criminal records where lawfully retained;
+- major status changes;
+- lifecycle provenance.
+
+The participant-facing interface is provisionally developed as a **Civil Historical Access Point**.
+
+The relationship is:
+
+**Civil Contact Point**
+→ actively informs the participant of consequential changes.
+
+**Civil Historical Access Point**
+→ allows the participant to inspect the persistent civil record underlying their status, qualifications, entitlements and history.
+
+The default should be participant access to their own consequential record, subject to narrow legitimate restrictions for:
+- security-sensitive operational information;
+- protected third-party information;
+- genuinely internal administrative/technical detail whose disclosure would materially expose or compromise civil-system operation.
+
+Such restriction should not permit Concord to hide the participant's actual civil status, consequence or meaningful basis merely by classifying the implementation as internal.
+
+> **Civil Contact Tells You What Changed; Civil Historical Access Lets You See the Record.**
+
+> **Meaningful Explanation != Full Operational Disclosure.**
+
+> **Secret From Participant != Outside Civil Accountability.**
+
+Detailed development is recorded in:
+
+`02_Domains/06_Historical/Civil Historical Access Points — Participant Access to the Civil Record.md`
+
+---
+
 # 10. Status change and regression
 
 It remains unresolved whether participation status can:
