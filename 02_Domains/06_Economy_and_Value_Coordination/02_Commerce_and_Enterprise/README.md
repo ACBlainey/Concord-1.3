@@ -143,3 +143,23 @@ Key rules:
 - Commercial Record != Universal Social Score.
 
 The next development target is Enterprise Historical Access / correction, followed by concrete case testing of the combined enterprise architecture.
+
+
+### Initial enterprise architecture case test
+
+`Enterprise Architecture Case Test 001 — Ordinary, Cooperative and AI Enterprises.md`
+
+The combined architecture was tested against ordinary sellers, sole-participant businesses, conventional enterprises, cooperatives, tool-AI businesses, high-consequence tool AI, uncertain-personhood AI, recognised AI persons, thin-shell responsibility laundering, employment matching, representation overreach, correction, dissolution, succession and hybrid enterprises.
+
+The test did not expose a fundamental structural failure.
+
+It did expose three refinements now back-propagated:
+- accountability transition must be bidirectional as legal/capacity status changes;
+- failure/loss of a required backstop is a material enterprise-state event;
+- enterprise AI status cannot be represented as one scalar because responsibility is actor/function specific.
+
+Key additions:
+
+- Accountability Architecture Must Follow Current Legitimate Capacity, Not a One-Way Status Ladder.
+- Backstop Failure Must Not Silently Create an Accountability Gap.
+- Enterprise AI Status != Single Scalar.
