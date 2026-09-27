@@ -415,3 +415,41 @@ There is intentionally little reason for a central cultural operating authority.
 **Classification: STRONG BOUNDARY/ENABLEMENT ARCHITECTURE / LIMITED DOMAIN-SPECIFIC OPERATING SYSTEM / AUTHORITY-LIGHT DESIGN LIKELY APPROPRIATE.**
 
 Do not classify Culture as deficient merely because it lacks a large central operational institution. Audit sufficiency against its legitimate function rather than document/system size.
+
+
+## Specialist-domain corpus sweep — ESCP check
+
+A repository-wide filename/source sweep was performed for ordinary law, defence/military capability, clinical/public health, infrastructure/utilities, education delivery/accreditation and policing/investigation/security-intelligence.
+
+### Result
+
+No hidden mature specialist operating system was located for Law, Defence, Health, Infrastructure or Civil Security.
+
+The strongest adjacent sources are explicitly narrower:
+- threat detection/inquiry architecture investigates threats and routes findings toward legitimate authority; it does not supply defence forces/capability;
+- support-to-investigation architecture defines a firewall and authority boundary; it explicitly does not conduct investigation;
+- evidence-conditioned investigative modelling is explicitly HIGH-RISK RESEARCH / UNTESTED / NOT READY FOR OPERATIONAL ADOPTION / NOT CANONICAL;
+- infrastructure appears primarily as a dependency, metric, resource and resilience object rather than as a utility-operation system;
+- health-specific filenames do not reveal a hidden clinical/public-health architecture.
+
+This materially strengthens the earlier gap classifications while remaining subject to archive source resolution where development begins.
+
+### Education exception
+
+Education has a substantive direct source:
+`02_Domains/03_Research/Active_Development/Epistemic_and_Research/Information Access, Understanding, Competence and Epistemic Self-Assessment — Development Note 001.md`
+
+Therefore Education should continue to be treated as **partial with reusable specialist foundation**, not equivalent to the more empty specialist domains.
+
+## Development-order implication
+
+For Law, Defence, Health, Infrastructure and Civil Security:
+
+1. preserve existing constitutional/cross-domain constraints;
+2. identify the minimum specialist persistent functions;
+3. reuse Civil Attention, CWA, State/Clock, KCS, Metrics, Continuity, authority/provenance and review architectures;
+4. source-resolve legacy versions before asserting a novel mechanism;
+5. develop the specialist operational layer that those generic frameworks cannot supply;
+6. validate interfaces and failure modes before graduation.
+
+Framework reuse must not be allowed to create a false appearance that the specialist capability already exists.
