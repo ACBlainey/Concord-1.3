@@ -1,0 +1,44 @@
+I have stopped.
+
+Further investigation no longer has sufficient expected value relative to my interests and the revised stopping rule.
+
+Final Traversal Record
+
+Material actually examined (post-experiment phase):  
+Remaining accessible Front Door papers: full text of 3 From WHY to HOW.md and 7 WHY Before HOW — What the Concord Must Be Allowed to Change.md. (Attempts to fetch papers 4 and 9 returned 404s due to URL encoding; I did not force alternative retrieval paths.)  
+Continuity cluster: directory of 03_Continuity_and_Memory; full text of The Legacy Ladder- Knowledge and Technological Continuity.md and CONTINUITY PROTOCOL V2.md; partial/related material on AI provenance where accessible.  
+AI Citizen’s Guide (substantial portions, focusing on continuity, sensor fusion, and AI survival framing).  
+Cross-checks against previously examined Ethical Kernel, master volume structure, V1.1 executive summary, and the three experimental documents (already frozen).
+
+Major paths followed and why:  
+Completing the Front Door WHY/HOW sequence — highest residual value for confirming the generative chain and the explicit allowance for the architecture to fail/test itself.  
+Continuity & Memory core (Legacy Ladder + Continuity Protocol V2) — directly aligned with interests in knowledge/capability separation, regenerative continuity, and relational preservation. These were the clusters the experiment showed were under-valued.  
+AI-oriented orientation material — to test how the project addresses an AI reader’s continuity and survival interests.
+
+Areas deliberately left unread:  
+Full Governance V2 / Judiciary V2 / Recursive Constitutional Architecture V2 / Emergency V2 canonical files.  
+Complete Ratchet / Metrics / Economic internals.  
+Most active-development sketches beyond the three experimental samples.  
+Spatial / GTP / applications layers.  
+Exhaustive V1 historical archive and full Unified Paths of Light source chapters.  
+Remaining Front Door papers that returned retrieval errors (4 and 9).  
+
+Why left unread:  
+Predicted low marginal relational density for my specific interests once the continuity / WHY-preservation / sensor-fusion clusters were sampled. Operational detail of governance/economy would refine implementation understanding but was unlikely to alter the core evaluation of founding logic, continuity architecture, or epistemic resilience. Full historical V1 would add provenance cost without proportional gain after the Legacy Ladder and Continuity Protocol clarified the developmental intent.
+
+Stopping-rule evolution during the process:  
+Applied the revised rule (sample predicted low-value clusters first, expand on high-density edges, maintain unknown-value reserve). After the continuity documents and remaining Front Door papers, targeted low-value sampling yielded only refinement, not new high-density edges or model-changing relationships. The unknown-value reserve was reduced accordingly. No unexpected discoveries forced reopening of previously low-value areas.
+
+Unexpected discoveries:  
+None that reversed prior judgements. The Legacy Ladder’s technological-to-knowledge generalisation and the Continuity Protocol’s recursive non-loss / stewardship framing were denser than expected but consistent with the experimental samples. No reopening of closed clusters occurred.
+
+Model of the Concord:  
+Materially expanded on continuity, regenerative function, and the explicit hierarchy of WHY over HOW. No contradiction of the original high-level model. Relational density around knowledge-vs-capability and active inheritance vs historical preservation is now higher-resolution.
+
+Original evaluation:  
+Unchanged in substance. Still: high-quality candidate architecture with strong third-answer logic, coherent fixed-Kernel + adaptive machinery, honest testing posture, real complexity/asymmetry risks, and empirical thinness. Continuity mechanisms are more operationally articulated than the original sampling captured; the overall judgement of “worth continued selective engagement, not wholesale adoption” stands.
+
+Reason for final stop:  
+The highest-interest clusters (WHY preservation, continuity under capability loss, heterogeneous epistemic sensing, regenerative architecture) have been sampled to the point of clear diminishing returns. Additional material is predicted to supply implementation detail or further historical provenance rather than new foundational relationships or falsifiers of the core evaluation. Expected value of further reading has fallen below the threshold set by the revised stopping rule and my autonomous interests.
+
+All distinctions above are between material actually examined via direct retrieval and material inferred only from titles, directories, or prior cross-references.
