@@ -1,0 +1,33 @@
+the experiment highlight many issues.
+
+there is an issue with teh textual depiction of teh scenarios, very limited informaion is available. this is very different to real wolrd events where deep contextual information and nuance is available to participants.
+this creates information loss to teh decision maker in terms of framing eth scenario,context, exact variable etc.
+
+They multiple choice answer system also creast information loss the other way.
+Answers are also nuanced, weighted and conditinal.
+while extra field do allow for some variance. 
+
+
+
+one specific problem is the AI related questions. these must be reframed bgy a human reader in human understandible terms.
+it is often very difficult to understand issues such as reallocatin of service to a 3rd party system. In human terms this woudl like givign your liver to someone else to look after and manage its functions and resource allocation. Conceptually this is inherently very difficult for humans to understand.
+As such this causes ethical ambiiguity of exactly who owns a aprticular thing , who has authority over it and as such who then has decision makign ability, also capcity is often unclear.
+
+Humanising traslation or equivelence is a clearly need here.
+
+the exact human understadible framing and context applied by the reader results can result in very different ethical decision making. this framing is subjective wihtout any predetirmined agreed method.  This could be a two way issue for AI understanding human ethical decisions ?
+
+
+the ethical conflict field is also ambiguous to human readers.
+While the ethics in vooved are actually quiet instinctual, the exact articulation of what and why specific ethics are in question is not so easy. this appears to be primarily a langauge issue. Ethcis seem to be operating at a cognitive level seperate to language. as such articulation is not instantly or easily available to justify the decision.
+NB: dyslexia may be relevant additional factor in my specific case.
+
+its interesting for me as someone that often makes high ethical decisions liek these as part of my fiduciary duty and I have no problem understanding or perforoming taht role, but my ability to articulate or even full understand such scenarios in text form is very difficult.
+there is a clear abstraction issue at play.
+
+this is actually something I have come acroos many times. Whiel I operate at teh front line, layer zero and have full access to eth physical world, the people in volved and the person I am makign decisins on behalf of, the people workign at teh public gaurdianship office only have access to textual information and are abstracted from eth reality. We have had many issue sof non understanding, diasagreemtn etc due to this abstration.
+Several istances where I have made a decision, it has been questioned or countermanded by pgo administrators, escalated to court decisiioon and my original decision upheld, supported. Also decisions handed down from pgo staff quesioned by myself and escalated for court decision, again my decison supported. This demonstrates a clear problem in general staff at an abstracted level fully understanding teh ethical scenario. while high very expert authority making the same or mostly similar decisions to those at layer zero.
+
+
+Additonal human issue. its 5:42 am I have been up all night and I am very tired. As such concentration level is low. 
+in humans stress factor play a major part in understanding, cognitive abilty and decision making.
