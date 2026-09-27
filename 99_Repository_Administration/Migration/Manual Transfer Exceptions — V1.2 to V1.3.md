@@ -43,3 +43,12 @@ After manual transfer, compare the V1.3 Git blob SHA or file bytes against the V
 > **Transfer Failure != Migration Failure**
 
 > **Manual Transfer != Manual Rewriting**
+
+
+### XFER-025
+
+Source: `04_Coordination_and_Economy/Ratchet_V4/README.md`
+
+Target: `03_Cross_Domain_Architecture/Ratchet_General_Coordination/V1.2 Ratchet V4 README.md`
+
+Status: MANUAL TRANSFER REQUIRED — verified source object; automated transfer blocked.
