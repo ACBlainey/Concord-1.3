@@ -53,3 +53,17 @@ Potentially reusable material:
 ## Current development implication
 
 Civil Security should source-resolve these architectures before designing policing, investigation, security intelligence or enforcement. None should be mistaken for a completed policing/security service, and Civil Security should remain architecturally distinct from Defence.
+
+## Cross-domain and portable mechanisms available for adaptation
+
+### Contextual Wrapper Architecture
+
+**Source:** `04_Portable_Modules/Contextual Wrapper Architecture — Portable Module.md`
+
+Reusable mechanisms include permission-before-authority, minimum-necessary permission, action-specific permission, permission provenance, nested access, termination/reversion and external-resolution routing. These can constrain searches/access/interventions but do not themselves create policing authority.
+
+### Civil Attention and evidential separation
+
+**Source:** `04_Portable_Modules/Civil Attention Reporting Petition and Resolution Module v1.0.md`
+
+Potentially reusable for crime/safety reports and security concerns. Its explicit distinctions—submission != evidence != verification != finding != authority to act; unverified != false; urgent enough to examine != proven true—are especially relevant to bounded investigative intake.
