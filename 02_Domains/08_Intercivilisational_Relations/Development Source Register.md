@@ -67,3 +67,55 @@ Therefore the older E2 classification must not be used alone as the current matu
 - `02_Domains/03_Research/Active_Development/Governance_and_Stewardship/Identity, Continuity, Provenance and Verification Across Substrates — Development Note.md`
 
 These sources are relevant to L2-11 and L3-05. They distinguish self-identity, civil identity, verification, provenance and succession; develop emergent polity and secession questions; and preserve peaceful-distance/fork issues. Much remains active development, so this is a source base rather than a completed membership/succession system.
+
+
+## Further topology findings — membership, succession and exit
+
+### L2-11 — Civilisational Identity, Membership and Boundary Continuity
+
+Relevant Research currently separates several functions that must not be collapsed:
+- `02_Domains/03_Research/Active_Development/Concord_Nation_Foundation/02_Population_Constituency_and_Consent/README.md`
+- `02_Domains/03_Research/Active_Development/Concord_Nation_Foundation/05_Citizenship_and_Membership/README.md`
+- `02_Domains/03_Research/Active_Development/Governance_and_Stewardship/Concord Citizen ID — Unique Civil Identity, Digital Routing and Privacy Boundaries.md`
+- `02_Domains/03_Research/Active_Development/Governance_and_Stewardship/Identity, Continuity, Provenance and Verification Across Substrates — Development Note.md`
+
+Important distinctions already developed:
+- Participation != Consent to Government.
+- Personhood != Citizenship.
+- Project Membership != Citizenship.
+- Self-Identity != Civil Identity != Identity Verification != Provenance != Succession.
+- Civil identifier != name != authentication credential != routing endpoint.
+
+This is substantial architectural decomposition, but the polity-level citizenship/membership area remains Research. Therefore L2-11 should not be treated as absent, nor as operationally complete.
+
+**Audit working state: PRESENT-PARTIAL / STRONG COMPONENT ARCHITECTURE / POLITY-LEVEL INTEGRATION UNDEVELOPED OR UNVERIFIED.**
+
+### L3-05 — Civilisational Fork, Succession and Recombination Governance
+
+Relevant sources:
+- `02_Domains/03_Research/Active_Development/Concord_Nation_Foundation/10_Forks_Secession_and_Peaceful_Distance/README.md`
+- `02_Domains/08_Intercivilisational_Relations/Emergent Polities, Sentient Secession and Recognition.md`
+- Peaceful Distance research and wrapper architecture.
+
+The research explicitly identifies division of assets and obligations, residual dependencies, post-fork wrappers, minority protection, consent, autonomy and secession. The key insight is that political separation does not remove functional dependencies.
+
+However, the designated fork/secession work remains Research and the emergent-polity paper is explicitly non-canonical active development.
+
+**Audit working state: CONCEPT AND COMPONENTS PRESENT / INTEGRATED FORK-SUCCESSION SYSTEM NOT YET VERIFIED.**
+
+### L3-14 and L3-16 — Non-participation, distance and anti-attractor capacity
+
+Relevant sources:
+- `04_Portable_Modules/Exit Interview Protocol — Portable Module.md`
+- `02_Domains/03_Research/Active_Development/Sketch_Ideas/Sketch Idea — Participant-Serving Civilisation, Temporary Authority and Persistent Exit.md`
+- `02_Domains/03_Research/Active_Development/Governance_and_Stewardship/Peaceful Distance as Relational Separation — Shielding and Co-Located Incompatible Domains — Development Note 001.md`
+- Concord Nation Foundation fork/secession work;
+- Intercivilisational wrapper architecture.
+
+The Exit Interview Protocol is a graduated portable module and strongly protects voluntary departure from retention pressure, but explicitly **is not an exit-permission system**. It therefore supplies learning-after-exit architecture, not the civil right/procedure of exit itself.
+
+Persistent exit as an anti-domination constraint remains a sketch-level proposition pending canonical comparison. Peaceful Distance and wrapper architecture provide stronger developed support for relational separation.
+
+Accordingly, do not infer complete anti-attractor capacity merely from the existence of Exit Interview.
+
+**Audit working state: L3-14 PRESENT-DISTRIBUTED / DEVELOPING; L3-16 PARTIAL-DISTRIBUTED / EXIT RIGHT AND SYSTEMIC ESCAPE CAPACITY REQUIRE FURTHER SOURCE RESOLUTION.**
