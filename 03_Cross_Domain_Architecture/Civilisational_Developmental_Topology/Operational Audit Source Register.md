@@ -68,3 +68,64 @@ The surviving residual is:
 This is materially narrower than a general reconciliation-system gap. Before development it still requires architectural-unit/owner resolution to determine whether an existing specialist subsystem should own the function.
 
 This is currently one of the clearer topology-level candidates for genuinely new mechanism development, subject to further ESCP source resolution.
+
+
+## L1-09 / L3-03 / L3-04 — Translation, semantic continuity and heterogeneous equivalence
+
+Frozen Retest R1 establishes:
+
+**L1-09: PRESENT-DISTRIBUTED / DEVELOPING.**
+
+Human/civil reachability is substantially present and the topology is now sufficiently stable for bounded machine encoding. The former topology blocker is removed for bounded formalisation.
+
+HIF-003B subsequently tested the broader meaning-preserving translation problem and found:
+
+**STRONG DISTRIBUTED TRANSLATION GRAMMAR; FORMAL EQUIVALENCE MECHANISM REMAINS PARTIAL.**
+
+The general invention claim was falsified. The narrower surviving residual is:
+
+**HIF-003-R1 — Bounded Semantic Equivalence Testing**
+
+For materially different representations of a consequential civil object, determine whether civilly relevant invariants are preserved sufficiently for the specific function, while representing uncertainty and avoiding claims of complete semantic capture.
+
+### Audit consequence
+
+- L1-09 is not a missing system.
+- L3-03 semantic continuity through deep change has substantial distributed support.
+- L3-04 constitutional equivalence across heterogeneous implementations has a credible narrower mechanism residual around bounded equivalence testing.
+
+Before inventing a broad translation/equivalence system, development should target or source-resolve this narrower residual.
+
+## L3-11 — Meta-Development Stopping and Sufficiency
+
+Canonical source:
+`03_Cross_Domain_Architecture/Civilisational_Developmental_Topology/Civil State Map — Maturity, Sufficiency and Consequence Model.md`
+
+The Civil State Map explicitly defines context-sensitive sufficiency and a stopping condition. It can represent:
+
+**NO DEVELOPMENT REQUIRED AT PRESENT**
+
+when no known applicable function is materially below sufficiency, no unresolved high-consequence UNKNOWN requires investigation, no dependency-blocked function requires upstream work, and no justified development candidate exceeds the action threshold.
+
+It also explicitly identifies perpetual development as a failure mode and assigns sufficiency/stopping as the safeguard.
+
+**Audit classification: PRESENT-EXPLICIT / INITIAL OPERATIONAL ARCHITECTURE.**
+
+Remaining questions concern empirical performance and quality of state classification, not absence of a stopping mechanism.
+
+## L3-12 — Civilisational Recovery of Lost Function
+
+Relevant architecture:
+- Continuity Protocol and recovery architecture;
+- KCS dependency/provenance architecture;
+- `04_Portable_Modules/Legacy_Ladder/The Legacy Ladder- Knowledge and Technological Continuity.md`.
+
+The Legacy Ladder supplies more than archival preservation. It explicitly models capability dependencies, broken technological ladders and restoration through:
+
+**surviving capability -> reconstruction -> verification -> integration -> restored capability**
+
+It preserves failed work and developmental pathways because theoretical knowledge alone may be insufficient to reconstruct capability.
+
+**Audit classification: PRESENT-DISTRIBUTED / SUBSTANTIAL ARCHITECTURE.**
+
+The remaining operational question is implementation and testing of actual reconstruction chains, not invention of the lost-function concept.
