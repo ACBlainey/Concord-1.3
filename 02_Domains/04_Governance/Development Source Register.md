@@ -4,7 +4,7 @@
 
 ## Corrected current-state finding
 
-The current Governance source at `01_Constitutional_Core/Governance/Governance V2 Canonical.md` is present and substantive.
+The current Governance source at `02_Domains/04_Governance/Governance V2 Canonical.md` is present and substantive.
 
 An earlier GitHub connector retrieval returned the file as zero bytes. A direct GitHub contents retrieval subsequently returned the full document. The zero-byte observation was therefore a retrieval anomaly and **must not be treated as an architectural or repository-content gap**.
 
