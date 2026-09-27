@@ -668,3 +668,28 @@ Therefore:
 > **Enterprise AI Status != Single Scalar.**
 
 `ActorLegalResponsibilityState` should be attached to the relevant actor/function relationship rather than treated as one enterprise-wide classification.
+
+
+---
+
+# 29. Accountability continuity and redundancy
+
+A required backstop can itself become a single point of failure.
+
+For sufficiently consequential commercial functions, a primary backstop should therefore be accompanied by a proportionate continuity mechanism such as:
+- co-guarantor;
+- pre-qualified successor guarantor;
+- layered accountable parties;
+- continuing legal wrapper;
+- financial assurance;
+- safe suspension/controlled shutdown if accountability cannot be maintained.
+
+See:
+
+`Accountability Continuity, Co-Guarantors and Backstop Succession 001.md`
+
+> **Accountability Succession Should Be Designed Before Failure, Not Invented During It.**
+
+> **Continuity of Function Is Desirable; Continuity of Accountability Is Mandatory.**
+
+This is risk-proportionate and does not impose two guarantors on every low-risk enterprise.
