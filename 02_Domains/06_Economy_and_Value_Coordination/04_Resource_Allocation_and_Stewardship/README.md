@@ -73,3 +73,37 @@ Key rules:
 - The Civilisation's Resource Base Includes Materials Already in Circulation.
 
 This creates a productive bridge between Resource Stewardship, Commerce, Employment, manufacturing and Environment/Habitat Stewardship.
+
+
+## Circulating resource inventory and future material flows
+
+`Circulating Resource Inventory and Future Material Flow Forecasting 001.md`
+
+The resource model now includes materials/components already embodied in products, buildings, infrastructure, machinery and inventories.
+
+Approximate flow:
+
+**Current Circulating Stock + Expected Retirement + Recovery Yield → Expected Future Recovered Supply**
+
+This can inform recovery-capacity and manufacturing planning without requiring universal tracking of privately held objects.
+
+Key rules:
+- Resource Visibility != Universal Object Surveillance.
+- Recovery Infrastructure Should Be Ready Before the Resource Stream Arrives.
+- New Extraction Should Be Evaluated Against Recoverable Existing Stock, Not in Isolation.
+- Planned Retirement Converts Surprise Waste Into Forecastable Resource Supply.
+- Forecast != Future Fact.
+
+## Resource lifecycle case test
+
+`Resource Lifecycle Architecture Case Test 001 — Products, Enterprises and Material Flows.md`
+
+Initial testing across appliances, computers, batteries, enterprise closure, buildings, hazardous goods, software-disabled hardware and recovery markets did not expose a fundamental structural failure.
+
+New refinements:
+- Some Waste Is Designed Years Before It Is Discarded.
+- Future Recoverability != Present Availability.
+- Theoretically Recoverable != Operationally Recoverable.
+- Better Forecasting Does Not Automatically Justify Better Surveillance.
+- Recovery Stewardship Includes Knowing When Not to Preserve.
+- Whole-route resource cost matters; a “recyclable” label alone is insufficient.
