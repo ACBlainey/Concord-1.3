@@ -201,6 +201,89 @@ This rule is not a generic override power. Restriction still requires legitimate
 
 ---
 
+# Participation Status and Rights Eligibility
+
+The **confidence band of a right** and the **participation status required to exercise that right** are separate dimensions.
+
+A right may be strongly derived without necessarily attaching in identical form to every participant in every civil role.
+
+## Fundamental protection floor
+
+The highest-band fundamental protections are intended to form a protected floor for all qualifying protected participants.
+
+They should not ordinarily be removed merely because a participant is:
+- new;
+- provisional;
+- non-citizen;
+- not yet fully integrated;
+- outside a particular governance role;
+- temporarily unable to exercise every civil function.
+
+Participation status may affect the **mode of exercise** of a fundamental protection, but should not be used merely to erase its underlying protected standing.
+
+## Participation-dependent rights
+
+Some lower-band or polity-specific rights may legitimately depend upon defined participation conditions.
+
+Possible examples include:
+- voting;
+- franchise;
+- eligibility for particular representative functions;
+- office holding;
+- participation in specified governance mechanisms;
+- access to role-specific institutional powers.
+
+A provisional, new or otherwise limited-status participant may therefore possess the fundamental protection floor while not yet qualifying for every participation-dependent civil or political right.
+
+This distinction must not be used to relabel fundamental rights as optional membership benefits.
+
+## Participation architecture remains unresolved
+
+Concord V1.3 has not yet established the final levels, classes or maturity states of civil participation.
+
+Accordingly, this Charter does **not** presently define:
+- participation tiers;
+- entry thresholds;
+- qualification periods;
+- citizenship thresholds;
+- voting eligibility;
+- graduation criteria;
+- suspension criteria;
+- role-specific eligibility;
+- how participation status changes over time.
+
+Those questions require later development.
+
+Until that architecture exists, participation-dependent rights should be marked as **conditional / eligibility unresolved**, rather than assigned invented thresholds.
+
+## Anti-circularity safeguard
+
+An institution must not be permitted to reason:
+
+**this participant lacks a participation-dependent right because they have not reached the required status**
+
+while also arbitrarily preventing them from reaching, challenging or understanding that status.
+
+Future participation architecture should therefore make eligibility rules:
+- explicit;
+- relevant to the function;
+- proportionate;
+- non-arbitrary;
+- reviewable;
+- contestable;
+- accessible enough to understand;
+- capable of change where qualification conditions are later met.
+
+> **Rights Confidence != Rights Eligibility.**
+
+> **Fundamental Protection Floor != Full Participation Entitlement.**
+
+> **Participation-Dependent Right != Fundamental Right Withheld by Membership Status.**
+
+> **Eligibility Unresolved != Permission to Invent Eligibility.**
+
+---
+
 # Part II — Fundamental / Source-Anchored Rights and Protected Relations
 
 The following provisions are the strongest current outputs of the Blainey's-Laws derivation and loss test.
@@ -732,7 +815,7 @@ Meaningful civil voice is recognised in Part III.
 
 No particular voting, franchise or representation mechanism has been shown to be uniquely required by Blainey's Laws.
 
-**Current classification:** governance mechanism / unresolved civil architecture.
+**Current classification:** governance mechanism / unresolved civil architecture / participation-dependent eligibility unresolved.
 
 ## Article 32 — Secession and Political Fork — Not Elevated
 
