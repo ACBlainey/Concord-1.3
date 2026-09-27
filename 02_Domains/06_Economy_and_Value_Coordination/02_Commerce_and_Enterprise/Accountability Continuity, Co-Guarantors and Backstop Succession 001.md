@@ -334,3 +334,24 @@ This produces three additional invariants:
 > **Accountability Succession Should Be Designed Before Failure, Not Invented During It.**
 
 > **Continuity of Function Is Desirable; Continuity of Accountability Is Mandatory.**
+
+
+---
+
+# 18. Generalisation and portable extraction
+
+Source comparison against the Continuity Protocol, Bounded Contextual Authority and Emergency Governance confirms that the commercial co-guarantor problem is an instance of a wider Concord architecture.
+
+The general pattern has therefore been extracted as:
+
+`04_Portable_Modules/Fault-Tolerant Accountability and Responsibility Continuity — Portable Module.md`
+
+Commerce retains this document as the domain-specific implementation.
+
+The portable layer adds an important boundary:
+
+> **Not Every Function Should Survive Its Current Holder.**
+
+Before succession is designed, the owning domain must establish that the function legitimately persists.
+
+Where it does persist, responsibility continuity should be treated as a dependency alongside operational continuity.
