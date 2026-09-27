@@ -24,6 +24,10 @@ These objects have been source-resolved for V1.3 but could not be transferred th
 | XFER-014 | `00_Front_Door/7 WHY Before HOW — What the Concord Must Be Allowed to Change.md` | `00_Front_Door/7 WHY Before HOW — What the Concord Must Be Allowed to Change.md` | Connector content/safety block | MANUAL TRANSFER REQUIRED |
 | XFER-015 | `00_Front_Door/What_Is_The_Concord/The Concord Design Family — Greenfield Civilisation, Wrappers, Forks and Progressive Adoption.md` | `00_Front_Door/What_Is_The_Concord/The Concord Design Family — Greenfield Civilisation, Wrappers, Forks and Progressive Adoption.md` | Connector content/safety block | MANUAL TRANSFER REQUIRED |
 
+| XFER-016 | `08_Active_Development/01_DEVELOPMENT_NOTES/01_LAYER_ZERO_AND_LAYER_MINUS_ZERO/00_SYNTHESIS_AND_SOURCE_DOCUMENTS/Systems Extracted from the Layer-Zero and Layer −0 Development Cycle.md` | `02_Domains/03_Research/Active_Development/Layer_Zero_and_Minus_Zero/Systems Extracted from the Layer-Zero and Layer −0 Development Cycle.md` | Connector content/safety block | MANUAL TRANSFER REQUIRED |
+| XFER-017 | `08_Active_Development/01_DEVELOPMENT_NOTES/01_LAYER_ZERO_AND_LAYER_MINUS_ZERO/01_PARTICIPANT_AND_MODELLING/1 Layer-Zero Systems Interface.md` | `02_Domains/03_Research/Active_Development/Layer_Zero_and_Minus_Zero/1 Layer-Zero Systems Interface.md` | Connector content/safety block | MANUAL TRANSFER REQUIRED |
+| XFER-018 | `08_Active_Development/01_DEVELOPMENT_NOTES/01_LAYER_ZERO_AND_LAYER_MINUS_ZERO/01_PARTICIPANT_AND_MODELLING/3. Participant Digital Twin System.md` | `02_Domains/03_Research/Active_Development/Layer_Zero_and_Minus_Zero/3. Participant Digital Twin System.md` | Connector content/safety block | MANUAL TRANSFER REQUIRED |
+
 ## Verification rule
 
 After manual transfer, compare the V1.3 Git blob SHA or file bytes against the V1.2 source. Do not mark an exception complete merely because a file with the same name exists.
