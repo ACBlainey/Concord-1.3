@@ -83,83 +83,101 @@ It must not convert fundamental rights into rewards for compliance.
 
 ---
 
-# 4. Provisional participation progression
+# 4. Provisional participation progression — source-resolved revision
 
-The following bands are **illustrative developmental placeholders only**.
+The initial P0–P4 sketch has now been tested against existing Concord architecture.
 
-They are not final levels and their examples are not final entitlements.
+Existing source material provides stronger support for a **six-band provisional civil relationship model**:
 
-## Illustrative Band P0 — Protected / Limited Participation
+**Observer → Evaluator / Contact Participant → Contributor / Service Participant → Collaborator / Active Participant → Member / Established Participant → Citizen / Constitutional Participant**
 
-Possible characteristics:
-- fundamental protection floor;
-- basic civil safety;
-- access to necessary communication;
-- legitimate ordinary residence/visitor arrangements where applicable;
-- basic ability to interact with Concord systems;
-- emergency or minimum essential protection;
-- no presumption of access to trusted roles or scarce long-term civil assets.
+These remain working synthesis bands, not adopted constitutional statuses.
 
-This band illustrates the proposition that a participant can be protected by Concord without yet possessing the full benefits of deep participation.
+## Illustrative Band P0 — Observer
 
-## Illustrative Band P1 — Provisional / New Participation
+Possible function:
+- inspect public information;
+- encounter and evaluate Concord without commitment;
+- retain the fundamental protection floor where protected standing applies;
+- no assumption of access to trusted systems.
 
-Possible characteristics:
-- developing civil relationship;
-- recognised Civil Contact Point(s);
-- ordinary lawful economic interaction;
-- rental, lease, permitted occupancy or similar non-ownership property relationships;
-- ordinary employment subject to competence and lawful role requirements;
-- access to appropriate ordinary services;
-- participation record beginning to develop.
+## Illustrative Band P1 — Evaluator / Recognised Contact Participant
 
-Possible restrictions:
-- no automatic eligibility for highly trusted government/security/critical-infrastructure roles;
-- no assumption of full property-purchase eligibility;
-- no assumption of full polity governance rights.
+Possible function:
+- recognised early civil relationship;
+- Civil Contact Point;
+- reliable official communication;
+- evaluation and bounded interaction;
+- no assumption of full membership or unrestricted access.
 
-## Illustrative Band P2 — Established Participation
+## Illustrative Band P2 — Contributor / Service Participant
 
-Possible characteristics:
-- sustained legitimate participation;
-- stronger record of reciprocal civil reliability;
-- broader service and economic eligibility;
-- possible eligibility for additional property interests;
-- broader civil opportunities;
-- increased access to functions requiring moderate trust;
-- possible additional governance participation.
+Possible function:
+- bounded reciprocal contribution;
+- selected service access;
+- ordinary legitimate participation opportunities;
+- evidence of reliability, capability and reciprocal interaction begins to accumulate;
+- permissions remain appropriately bounded.
 
-Exact benefits remain unresolved.
+## Illustrative Band P3 — Collaborator / Active Participant
 
-## Illustrative Band P3 — High-Trust / Deep Participation
+Possible function:
+- sustained active participation;
+- shared projects;
+- broader access;
+- defined reciprocal responsibilities;
+- ordinary employment/economic participation where otherwise qualified;
+- increasing eligibility for trust-dependent functions.
 
-Possible characteristics:
-- demonstrated sustained civil reliability and responsibility;
-- possible eligibility for highly trusted employment;
-- possible access to sensitive economic or infrastructure functions;
-- possible broader property acquisition;
-- possible advanced governance functions;
-- enhanced eligibility for scarce, long-term or trust-intensive civil resources/services.
+## Illustrative Band P4 — Member / Established Participant
 
-High participation status does not substitute for competence, security suitability or role-specific qualification.
+Possible function:
+- sustained civil relationship;
+- demonstrated reciprocal participation;
+- broader civilisational-system access;
+- greater eligibility for participation-dependent property, economic, service or trusted-role functions;
+- increased responsibility accompanying increased access.
 
-## Illustrative Band P4 — Exceptional / Constitutional Trust Functions
+This band must not automatically imply physical residence.
 
-It is presently unclear whether a distinct highest participation band is needed.
+## Illustrative Band P5 — Citizen / Constitutional Participant
 
-Some functions may require exceptional combinations of:
-- participation history;
-- competence;
-- independence;
-- fiduciary responsibility;
-- security suitability;
-- constitutional responsibility.
+Possible function:
+- deepest formal polity relationship;
+- long-term participation;
+- acceptance of the applicable constitutional framework;
+- possible eligibility for expanded political/constitutional rights and responsibilities;
+- possible eligibility for the most consequential civil trust functions where separately qualified.
 
-Examples might eventually include particular constitutional, judiciary, continuity, stewardship or civilisation-critical functions.
+Citizenship does not replace role-specific competence, security assessment or contextual trust.
 
-This band may prove unnecessary and should not be retained merely for symmetry.
+## Important topology correction
 
----
+Existing Concord material distinguishes:
+
+**Identity ≠ Contact ≠ Residence ≠ Participation ≠ Citizenship.**
+
+Residence should therefore currently be treated as a **parallel civil-status dimension**, not automatically as a rung on the participation ladder.
+
+Likewise, domain trust and competence remain parallel dimensions.
+
+The emerging model is:
+
+**Protected Standing**
++
+**General Participation Band**
++
+**Residence / Jurisdiction Status**
++
+**Citizenship Status**
++
+**Domain-Specific Competence / Contextual Trust**
+→
+**Context-Specific Eligibility**
+
+> **General Participation Level != Universal Trust Score.**
+
+> **Higher Participation May Open Eligibility; It Does Not Replace Domain Qualification.**
 
 # 5. The progression hypothesis
 
@@ -279,6 +297,26 @@ Particular caution is required around any metric that could reward conformity ra
 > **Disagreement != Participation Failure.**
 
 > **Non-Conformity != Untrustworthiness.**
+
+---
+
+# 9A. Contestability of consequential progression decisions
+
+Existing Concord topology testing has already identified a recurrent rule:
+
+**Assessment of Reliability / Competence / Contribution / Risk**
+→ **Material Change in Access or Participation**
+→ **Inspectability + Contestability + Review + Correction + Provenance**
+
+A participant is not entitled to every participation level merely because they request it.
+
+However, a materially consequential progression decision should not become an opaque or permanently unchallengeable status assignment.
+
+Where progression is denied, reduced or materially restricted on participant-specific evidence, future architecture should provide review proportionate to the consequence.
+
+> **Contestability != Entitlement.**
+
+> **Progression Decision != Unchallengeable Status Assignment.**
 
 ---
 
