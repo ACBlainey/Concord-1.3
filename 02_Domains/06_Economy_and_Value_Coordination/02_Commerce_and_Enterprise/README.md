@@ -72,3 +72,25 @@ This source-derived scaffold reuses existing Concord identity, provenance, Histo
 It does **not** adopt company law, legal personality, limited liability or a specific organisational form.
 
 The next dependency is enterprise recognition/organisational form source resolution against Law and existing multisubstrate architecture.
+
+
+### Enterprise recognition and organisational form
+
+`Enterprise Recognition and Organisational Form Source Resolution 001.md`
+
+This pass establishes a provisional layer between individual economic acts and legal entity status:
+
+**Economic Enterprise Recognition**
+
+Key distinctions:
+
+- Economic Enterprise Recognition != Legal Personhood.
+- Separate Enterprise Record != Separate Legal Personality.
+- Commercial Activity != Automatically an Enterprise.
+- Enterprise Recognition != Universal Commercial Permission.
+- Legal Wrapper Continuity != Enterprise Control Continuity.
+- Describe the function and relationships first; assign the legal form second.
+
+The existing Legal Entity Wrappers development programme remains a separate Governance/Law-interface source and should not be duplicated here.
+
+Next source-resolution target: enterprise-register visibility, protected commercial information, beneficial-control transparency and minimum-necessary disclosure.
