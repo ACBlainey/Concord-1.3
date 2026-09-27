@@ -380,6 +380,59 @@ Detailed development is recorded in:
 
 ---
 
+# 9C. Education, qualification and readiness
+
+Participation and contextual trust do not establish competence.
+
+Some roles, permissions and benefits may legitimately require prerequisite:
+- education;
+- training;
+- learning modules;
+- demonstrated understanding;
+- functional qualification;
+- supervised experience;
+- competence assessment.
+
+Existing Concord epistemic architecture requires these distinctions:
+
+**Information Access != Understanding != Competence != Resilient Functional Capability**
+
+and:
+
+**Status, Credential or Rank != Universal Competence.**
+
+The provisional relationship is therefore:
+
+**Participation Eligibility**
++
+**Prerequisite Education where relevant**
++
+**Demonstrated Functional Competence**
++
+**Contextual Trust / Self-Stewardship**
++
+**Role-Specific Conditions**
+→
+**Current Eligibility**
+
+A qualification gate should normally expose a path through the gate.
+
+Where Concord knows a participant is otherwise approaching eligibility but lacks a prerequisite, it should where practical identify the missing requirement, offer or identify the appropriate education/assessment route, and communicate it through recognised Civil Contact Point(s).
+
+> **Participation != Qualification.**
+
+> **Trust != Competence.**
+
+> **Module Completion != Demonstrated Competence.**
+
+> **Qualification Should Follow Function.**
+
+Detailed development is recorded in:
+
+`01_Constitutional_Core/Provisional_Charters/Participation Architecture/Education, Qualification and Readiness Gates 001.md`
+
+---
+
 # 10. Status change and regression
 
 It remains unresolved whether participation status can:
