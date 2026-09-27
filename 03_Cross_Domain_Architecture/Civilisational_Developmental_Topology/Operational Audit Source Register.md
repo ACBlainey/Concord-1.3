@@ -129,3 +129,60 @@ It preserves failed work and developmental pathways because theoretical knowledg
 **Audit classification: PRESENT-DISTRIBUTED / SUBSTANTIAL ARCHITECTURE.**
 
 The remaining operational question is implementation and testing of actual reconstruction chains, not invention of the lost-function concept.
+
+
+## L3-10 — Civilisational Self-Model Error Detection
+
+The Concord now contains an explicit civil self-model:
+- `03_Cross_Domain_Architecture/Civilisational_Developmental_Topology/Civil State Map — Maturity, Sufficiency and Consequence Model.md`
+
+The State Map explicitly states **SM(t) != Civilisation(t)** and recognises missing, incorrect and stale entries. It requires correction, challenge, competing evidence and UNKNOWN.
+
+The developmental-topology evidence base also contains prospective prediction/retest cycles:
+- `02_Domains/03_Research/Evidence/Civilisational_Topology/Formalisation/State Map 001C — Frozen Prediction Retest and First Graph-Selected Bottleneck Result.md`
+- `02_Domains/03_Research/Evidence/Civilisational_Topology/Formalisation/KMDI-001C — Downstream Prediction Retest and Second Upstream-Bottleneck Replication.md`
+
+These demonstrate a bounded pattern of:
+**model/prediction -> intervention/development -> retest -> state correction**.
+
+Recursive Constitutional Architecture additionally requires detection of failure, contradiction, unknown failure and recursive failure.
+
+**Audit classification: PRESENT-DISTRIBUTED / DEVELOPING-INTEGRATION.**
+
+The remaining deficit is not absence of self-model error detection. It is broader operational population, independent falsification, automated discrepancy detection and empirical performance.
+
+## L1-11 — Civilisational Learning From Outcomes
+
+Relevant architecture includes:
+- Recursive Constitutional Architecture V2;
+- Civil State Map / Clock / KCS development-control loop;
+- `02_Domains/03_Research/Active_Development/Layer_Zero_and_Minus_Zero/Candidate_Architecture/CA-03 Civilisational Learning and Metrics Architecture.md`;
+- Metrics reliability/correction and Case-Learning systems.
+
+Recursive Constitutional Architecture explicitly models:
+**Detection -> Diagnosis -> Containment -> Correction -> Recording -> Learning -> Architectural Revision where justified.**
+
+CA-03 supplies a developed candidate mechanism for converting actual outcomes into corrigible structural knowledge while preserving provenance, uncertainty, minority/outlier visibility and privacy boundaries.
+
+**Audit classification: PRESENT-DISTRIBUTED / SUBSTANTIAL ARCHITECTURE / VALIDATION AND INTEGRATION INCOMPLETE.**
+
+Do not create a new general “civilisational learning system” unless source resolution shows a specific unsupplied function.
+
+## L1-12 — Cross-System Failure, Resilience and Safeguard Recursion
+
+Recursive Constitutional Architecture explicitly identifies:
+- second-order mechanism failure;
+- correlated/common-source reasoning failure;
+- supposedly independent safeguards sharing sources or lineage;
+- recursive failure where correction mechanisms reinforce the failure;
+- need for sufficiently independent pathways through which failure becomes visible elsewhere.
+
+Recursive Oversight provides a portable operational grammar for bounded correction, recovery review, independent pathways and termination/finality.
+
+L2-14 partial-failure retesting already confirms that dependency/state infrastructure materially improves this function.
+
+**Audit classification: PRESENT-DISTRIBUTED / DEVELOPING-INTEGRATION.**
+
+A significant residual remains around **operational representation and testing of correlated/common-mode failure across safeguards**. The concept is explicit, but this audit has not yet verified a dedicated live dependency/failure-diversity mechanism capable of detecting shared hidden failure sources across apparently independent safeguards.
+
+This residual should be source-resolved narrowly before any new architecture is developed.
