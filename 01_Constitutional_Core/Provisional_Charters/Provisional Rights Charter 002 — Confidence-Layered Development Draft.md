@@ -1148,6 +1148,142 @@ Until then:
 
 ---
 
+# Part VI-C — Automatic Entitlement Recognition and Proactive Civil Information
+
+## Article 37 — Entitlement Should Not Depend on Knowing to Ask
+
+Where a participant has a valid entitlement and Concord systems already possess sufficient legitimate information to determine that entitlement, recognition should ordinarily be **automatic**.
+
+The participant should not be required first to:
+- know that the entitlement exists;
+- know its official name;
+- know which institution administers it;
+- know the correct question to ask;
+- discover an application route;
+- repeatedly prove information already legitimately available to the relevant civil architecture;
+- possess specialist administrative knowledge.
+
+> **Entitlement != Successful Application.**
+
+A valid entitlement should not disappear merely because the participant did not know how to claim it.
+
+## 37.1 Proactive identification
+
+Concord metrics, state-observation and other legitimate civil systems may continuously or periodically identify when a participant:
+- becomes eligible for a benefit;
+- gains access to a service;
+- reaches a participation-dependent threshold;
+- becomes eligible for a new civil opportunity;
+- is affected by a change in entitlement;
+- may be entitled to support, remedy or protection because of a known civil condition.
+
+Where sufficiently determined, the system should proactively communicate that information to the participant in an accessible form.
+
+The default relationship should be:
+
+**Known Eligibility → Entitlement Recognition → Participant Notification → Provision / Choice where applicable**
+
+rather than:
+
+**Participant Discovers Possibility → Finds Correct Institution → Knows Correct Question → Applies → Institution Tests Eligibility.**
+
+## 37.2 Automatic entitlement does not always mean automatic imposition
+
+Some entitlements can be provided automatically.
+
+Others involve:
+- personal choice;
+- medical or bodily intervention;
+- entry into a relationship;
+- allocation of a scarce resource;
+- disclosure of sensitive information;
+- acceptance of obligations;
+- selection among alternatives.
+
+In those cases Concord should automatically identify and communicate the entitlement or opportunity, while preserving the participant's legitimate choice about whether and how to exercise it.
+
+> **Automatic Recognition != Forced Use.**
+
+## 37.3 No knowledge penalty
+
+Administrative complexity should not create a hidden inequality between participants who know how Concord works and participants who do not.
+
+A participant should not receive materially less of what they are legitimately entitled to merely because another participant:
+- knows the system better;
+- knows the correct terminology;
+- can complete difficult forms;
+- knows which office to approach;
+- has more time or administrative skill;
+- knows that an entitlement exists.
+
+Where Concord already knows enough to act, unnecessary application burden is presumptively a system-design problem rather than a participant failure.
+
+> **Civil Knowledge != Prerequisite for Known Entitlement.**
+
+> **Failure to Ask != Ineligibility.**
+
+## 37.4 Communication duty
+
+Entitlement information should be communicated in a form reasonably suited to the participant.
+
+Where relevant this may require:
+- accessible language;
+- alternative communication modes;
+- explanation of what the entitlement provides;
+- explanation of relevant conditions or limits;
+- notice of significant changes;
+- explanation of choices;
+- a route to challenge an incorrect eligibility determination.
+
+Notification should not be designed merely to satisfy formal disclosure while remaining practically unusable.
+
+> **Notification != Meaningful Communication.**
+
+## 37.5 Metrics and privacy boundary
+
+Automatic entitlement recognition does not create unlimited authority to collect information.
+
+The information used should remain subject to:
+- legitimate provenance;
+- purpose limitation;
+- privacy and protected-space rules;
+- data minimisation where appropriate;
+- accuracy and correction;
+- contestability;
+- security;
+- relevant retention limits.
+
+Concord should not manufacture unnecessary surveillance merely because additional data might make entitlement administration easier.
+
+The preferred principle is:
+
+**use legitimately available civil knowledge to reduce participant burden without converting benefit administration into unrestricted observation.**
+
+## 37.6 Error and remedy
+
+Automatic systems can be wrong.
+
+A participant should therefore have a meaningful route to:
+- inspect relevant entitlement status;
+- correct materially inaccurate information;
+- challenge an incorrect determination;
+- recover an entitlement wrongly withheld where reasonably possible;
+- seek appropriate remedy for consequential error.
+
+Where Concord already possessed sufficient information to recognise an entitlement but failed to do so, the participant's failure to apply should not by itself defeat later correction or appropriate retrospective remedy.
+
+## 37.7 Relationship to participation levels
+
+When future participation architecture is developed, progression should trigger reassessment of participation-dependent eligibility automatically where the relevant information is already known.
+
+A participant reaching a qualifying level should not ordinarily need to discover separately every new benefit, permission, service or opportunity that the new level makes available.
+
+The system should tell them.
+
+> **Participation Progression Should Reveal Its Benefits Automatically.**
+
+---
+
 # Part VII — Constitutional Constraints Reserved for Provisional Constitution
 
 The first draft included architecture-facing constraints that are valid development findings but do not need to be presented as peer rights.
