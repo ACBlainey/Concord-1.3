@@ -345,3 +345,73 @@ For the master audit use at least:
 9. LONGITUDINALLY VALIDATED SYSTEM.
 
 A system may be highly developed at levels 2–5 while still lacking software, institutions, personnel, physical capability or field evidence required for levels 6–9.
+
+
+## Domain maturity calibration — Planning, Environment, Social Support, Culture, Civil Attention and Historical
+
+### Civil Attention
+
+Civil Attention has a complete participant-facing architecture, standard pro formas for Problem Reports, Suggestions and Petitions, a central resolution record schema, a domain-companion methodology and explicit routing/return-path rules.
+
+It has been integrated into the Concord system around a graduated portable core, but no software/service deployment or field operation is established by the current domain files.
+
+**Classification: INTEGRATED ARCHITECTURE / IMPLEMENTATION-READY LOGICAL WORKFLOW / FIELD OPERATION NOT ESTABLISHED.**
+
+Its architecture should be used as a calibration case for a highly operationally specified system that is not yet a deployed service.
+
+### Historical
+
+Historical has:
+- a stable formal domain specification;
+- formal schema set;
+- 42 source resolutions;
+- adversarial boundary and schema tests;
+- four cross-domain interface tests;
+- consistency audit;
+- end-to-end conformance test;
+- formal graduation review.
+
+Its graduation review concludes:
+**CANDIDATE GRADUATED DOMAIN — ARCHITECTURE STABLE / IMPLEMENTATION OPEN.**
+
+Remaining work is predominantly serialisation, database/storage/API/query/indexing, cryptographic mechanisms, UI, automated provenance and test harnesses.
+
+**Classification: CANDIDATE-GRADUATED ARCHITECTURE / EXTENSIVELY ARCHITECTURALLY TESTED / IMPLEMENTATION OPEN.**
+
+Historical is currently the strongest domain-level calibration example for “architecture complete enough to stop speculative development without claiming deployment.”
+
+### Spatial and Developmental Planning
+
+PH-03 plus CWA provide substantial direct architecture for compatibility-aware zoning, bounded contexts, safe places, substrate-aware environmental fit, adaptive learning and participant reports.
+
+However settlement planning, development permission/process, infrastructure/transport/housing integration, long-horizon land use, planning authority, appeal and review remain unsupplied as a coherent domain system.
+
+**Classification: SUBSTANTIAL RESEARCH/PORTABLE FOUNDATIONS / DOMAIN OPERATING ARCHITECTURE PARTIAL.**
+
+### Environment and Habitat Stewardship
+
+Existing architecture supplies substrate-aware environmental compatibility, stewardship principles, Metrics observation philosophy, state-triggered review and KCS dependency representation.
+
+It does not yet supply a coherent system for ecological monitoring, thresholds, pollution/externalities, restoration, biodiversity/ecosystems, planetary/off-world stewardship, intervention authority or environmental evidence.
+
+**Classification: PRINCIPLE AND CROSS-DOMAIN FRAMEWORKS PRESENT / SPECIALIST DOMAIN ARCHITECTURE LARGELY UNDEVELOPED.**
+
+### Social Support and Civil Assurance
+
+CA-01 and related Layer-Zero work provide a substantial candidate support architecture with adversarial testing: autonomy-preserving support, refusal boundaries, support exit, false-positive safeguards, anti-surveillance and anti-capture constraints. Civil Attention and CWA supply intake and bounded information/permission machinery.
+
+Unlike Health, this domain's central participant-support function is already represented directly in a developed candidate architecture.
+
+**Classification: SUBSTANTIAL CANDIDATE DOMAIN ARCHITECTURE IN RESEARCH / ADAPTATION, DOMAIN INTEGRATION AND FURTHER VALIDATION REQUIRED.**
+
+The next action should be source-resolution/adaptation of CA-01 rather than invention from scratch.
+
+### Culture and Civic Life
+
+Peaceful Heterogeneity, Peaceful Distance, CWA, onboarding/cultural participation and stewardship of cultural works provide strong constitutional and interface constraints.
+
+There is intentionally little reason for a central cultural operating authority. The correct domain may therefore be structurally lighter than Health, Defence or Infrastructure.
+
+**Classification: STRONG BOUNDARY/ENABLEMENT ARCHITECTURE / LIMITED DOMAIN-SPECIFIC OPERATING SYSTEM / AUTHORITY-LIGHT DESIGN LIKELY APPROPRIATE.**
+
+Do not classify Culture as deficient merely because it lacks a large central operational institution. Audit sufficiency against its legitimate function rather than document/system size.
