@@ -57,3 +57,17 @@ Potentially reusable candidate constraints include evidence-sensitive treatment 
 ## Current development implication
 
 This domain should not be treated as architecturally empty. It has a substantial candidate architecture and adversarial evidence base already present in Research. The next development pass should determine what can be adapted/promoted into a domain-specific Social Support architecture and what remains research-only.
+
+## Cross-domain and portable mechanisms available for adaptation
+
+### Civil Attention
+
+**Source:** `04_Portable_Modules/Civil Attention Reporting Petition and Resolution Module v1.0.md`
+
+Provides an existing participant-triggered intake, receipt, routing, resolution and feedback architecture suitable for support requests and reports. Domain-specific companion methodology can add support triage and safeguards without rewriting the core intake method.
+
+### Contextual Wrapper Architecture
+
+**Source:** `04_Portable_Modules/Contextual Wrapper Architecture — Portable Module.md`
+
+Useful for support settings, protected information, role-specific access and bounded support permissions. Its rule that bounded permission should be used before manufacturing authority aligns closely with CA-01's autonomy-preserving support architecture.
