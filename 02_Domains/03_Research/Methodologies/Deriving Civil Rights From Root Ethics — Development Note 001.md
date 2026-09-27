@@ -1,5 +1,10 @@
 # Deriving Civil Rights From Root Ethics — Development Note 001
 
+> **V1.3 CONCORD-CHARTER USE CORRECTION**  
+> This development note was designed as an experiment using the later Unified Paths U1–U8 research kernel. U1–U8 are **not** the ethical principles of the Concord. The Concord Ethical Kernel is **Blainey's Laws**, maintained at `01_Constitutional_Core/Blainey's Laws — The Ethical Kernel.md`.  
+> The method's structural machinery may be reused for a Concord Rights Charter derivation, but the ethical input must be replaced with Blainey's Laws. Any U1–U8 derivation remains a comparative experiment and must not be silently merged with the Concord derivation.
+
+
 **Project:** The Concord Framework  
 **Author:** Alexander C. Blainey  
 **Date:** 22 September 2026  
