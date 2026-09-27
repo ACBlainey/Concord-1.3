@@ -640,3 +640,26 @@ while preserving:
 > **Economic Scale != Constitutional Sovereignty.**
 
 The next major dependency is to source-resolve **enterprise recognition and organisational form** against Law, Governance and existing multisubstrate participation material before defining registration rules.
+
+
+---
+
+# 25. Commercial accountability backstop
+
+Enterprise identity must preserve a viable path to legal accountability where an enterprise is operated or materially directed by an actor that cannot independently bear the relevant legal responsibility.
+
+Add to the provisional Enterprise object:
+
+`AccountabilityBackstopRefs`
+
+For AI or other actors with absent or uncertain legal personhood, the enterprise should identify a legally answerable backstop appropriate to the commercial function and risk.
+
+This requirement is developed in:
+
+`Commercial Accountability Backstop for Uncertain AI Personhood 001.md`
+
+> **Uncertain Personhood Must Not Become an Accountability Void.**
+
+> **Liability Backstop != Ownership.**
+
+> **Commercial Capability May Precede Settled Personhood, but Commercial Exposure Must Not Precede Viable Accountability.**
