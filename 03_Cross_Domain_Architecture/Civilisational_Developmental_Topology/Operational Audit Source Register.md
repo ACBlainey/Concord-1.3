@@ -248,3 +248,26 @@ No dedicated standalone option-preservation mechanism was verified, but the func
 **Audit classification: PRESENT-DISTRIBUTED / INTEGRATION AND VALIDATION QUESTION.**
 
 Do not invent a standalone system unless a concrete consequential scenario exposes an unsupplied option-preservation operation.
+
+
+## Domain-level residual calibration — true capability gaps versus framework gaps
+
+The domain source registers now support a useful distinction.
+
+### Genuine operational capability gaps remain
+
+**Defence:** existing threat detection, escalation, exceptional-power controls, wrappers and state/review architecture do not supply defence capability itself.
+
+**Health:** participant autonomy, supported decision-making, outcome learning, wrappers and complaint routing exist, but clinical medicine, public health, service delivery, professional governance and health-capability architecture remain undeveloped.
+
+**Civil Security:** threat/inquiry, privacy constraints, exceptional-access controls, wrappers and evidential intake exist, but policing, investigation, security-intelligence and enforcement capability remain undeveloped.
+
+**Infrastructure and Essential Systems:** dependency, resilience, metrics and predictive steering architecture exist, but actual operation, maintenance and restoration of enabling systems remains incomplete.
+
+**Law:** identity, wrappers and Civil Attention can be reused, but ordinary legal-code/rule-generation, legal process and related operational law architecture remain substantially undeveloped; Constitution and Judiciary do not substitute for this.
+
+### Partial domain gaps with substantial direct foundations
+
+**Education:** epistemic/competence, onboarding and accessibility architecture substantially narrow the problem, but pedagogical delivery, curriculum/learning-goal governance, educator roles, qualification/accreditation, access/safeguarding and outcome validation remain.
+
+This distinction is important for development ordering: reuse the existing cross-domain framework first, but do not mistake framework reuse for supplying the specialist operational capability of the domain.
