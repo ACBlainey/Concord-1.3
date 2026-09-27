@@ -1282,7 +1282,49 @@ The system should tell them.
 
 > **Participation Progression Should Reveal Its Benefits Automatically.**
 
+## 37.8 Civil Contact Points as the official communication interface
+
+Official participant-facing communication arising from this Article should ordinarily be delivered through the participant's recognised **Civil Contact Point or Civil Contact Points**, according to the applicable contact-point architecture.
+
+This includes, where appropriate:
+- notification of newly recognised entitlements;
+- changes to eligibility;
+- participation-level changes and the benefits or permissions they unlock;
+- material service availability;
+- official requests requiring participant action;
+- significant decisions affecting the participant;
+- correction, remedy or review information;
+- other consequential official civil notices.
+
+The purpose is to provide a known and reliable interface between the participant and Concord rather than requiring the participant to search across institutions for information that Concord already knows is relevant to them.
+
+> **Known Civil Relevance Should Produce Directed Communication.**
+
+> **Official Information Should Have a Recognised Official Route.**
+
+A notice should not be treated as meaningfully communicated merely because it exists somewhere in a database, public portal, general publication or institutional record.
+
+Where a matter is sufficiently participant-specific and consequential, the communication architecture should seek to bring it to the participant through the recognised contact route.
+
+Civil Contact Points should not become a single point of civil failure. Future contact-point architecture should address accessibility, unavailable or failed channels, appropriate redundancy, security, authentication, participant preferences and consequential notices requiring stronger delivery assurance.
+
+This Charter does not invent those detailed mechanics.
+
+It establishes the interface requirement:
+
+**Entitlement / Consequential Civil Event → Relevant Concord System → Recognised Civil Contact Point(s) → Participant**
+
+Where the nature of the communication requires participant choice or action, delivery should explain that clearly enough for meaningful response.
+
+Where no response is required, Concord should not manufacture unnecessary administrative work merely to obtain acknowledgement.
+
+> **Delivery != Comprehension.**
+
+> **Communication Duty != Participant Duty to Hunt for Information.**
+
 ---
+
+
 
 # Part VII — Constitutional Constraints Reserved for Provisional Constitution
 
