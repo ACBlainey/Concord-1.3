@@ -54,3 +54,17 @@ Potentially reusable material:
 ## Current development implication
 
 Culture and Civic Life has stronger principle-level foundations than its placeholder suggests, but little operating architecture. Development should preserve an authority-light model: enable voluntary creation, association, expression, transmission and peaceful difference while using existing rights/harm/safe-space architecture for boundaries rather than creating a central cultural authority.
+
+## Cross-domain and portable mechanisms available for adaptation
+
+### Contextual Wrapper Architecture
+
+**Source:** `04_Portable_Modules/Contextual Wrapper Architecture — Portable Module.md`
+
+A strong reusable framework for culturally distinct spaces, events, communities and digital contexts. It standardises legibility, access, permissions, restrictions, protections, authority, remedy and exit without requiring uniform substantive rules. This is particularly compatible with an authority-light Culture domain.
+
+### Civil Attention
+
+**Source:** `04_Portable_Modules/Civil Attention Reporting Petition and Resolution Module v1.0.md`
+
+Can provide neutral intake for cultural/civic concerns and proposals without turning popularity, submission volume or central visibility into truth or cultural authority.
