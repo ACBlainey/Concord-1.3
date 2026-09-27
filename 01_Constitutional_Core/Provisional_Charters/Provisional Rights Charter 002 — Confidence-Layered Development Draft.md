@@ -794,6 +794,56 @@ Protected legitimate claims are provisionally recognised; the final theory of pr
 
 **Current classification:** protected legitimate claims appear compound-derived; a complete property regime remains an additional civil architecture question.
 
+### Participation-dependent property eligibility
+
+Property-related protections must distinguish **protection of a legitimate existing interest** from **eligibility to acquire a new ownership interest**.
+
+A participant may legitimately:
+- rent;
+- lease;
+- occupy under permission;
+- reside informally where lawfully permitted;
+- use shared or allocated space;
+- hold another recognised non-ownership interest
+
+without thereby possessing a general right to purchase, permanently own or acquire every class of property.
+
+Eligibility to acquire particular property interests may legitimately depend upon a later-defined level or class of participation.
+
+For example, future Concord architecture may distinguish among:
+- permission to reside;
+- tenancy;
+- leasehold;
+- use rights;
+- stewardship rights;
+- conditional ownership;
+- full purchase/ownership eligibility;
+- ownership of particular scarce, strategic or civilly significant assets.
+
+The exact thresholds are **not yet determined**.
+
+This Charter therefore does not invent:
+- which participation level permits purchase;
+- whether all property classes use the same threshold;
+- qualification periods;
+- citizenship requirements;
+- transition rules;
+- inheritance rules;
+- limits on quantity or concentration;
+- treatment of property acquired before a participation-status change.
+
+Until developed, these remain **property architecture / participation-eligibility questions**.
+
+However, lower participation status should not by itself permit arbitrary interference with a legitimate tenancy, lease, occupancy, stewardship arrangement or other recognised interest already held by the participant.
+
+> **Protection of Legitimate Possession != Universal Right to Acquire Ownership.**
+
+> **Residence != Ownership Eligibility.**
+
+> **Property Eligibility May Depend on Participation Status.**
+
+> **Eligibility Threshold Unresolved != Permission to Invent a Threshold.**
+
 ## Article 30 — Citizenship-Specific Political Rights — Unresolved
 
 Fundamental dignity and participant standing do not arise from citizenship.
