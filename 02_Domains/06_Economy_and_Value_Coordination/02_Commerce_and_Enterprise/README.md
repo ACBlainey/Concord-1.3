@@ -163,3 +163,22 @@ Key additions:
 - Accountability Architecture Must Follow Current Legitimate Capacity, Not a One-Way Status Ladder.
 - Backstop Failure Must Not Silently Create an Accountability Gap.
 - Enterprise AI Status != Single Scalar.
+
+
+### Accountability continuity, co-guarantors and succession
+
+`Accountability Continuity, Co-Guarantors and Backstop Succession 001.md`
+
+Case-test backstop failure has now been developed into a continuity architecture.
+
+For sufficiently consequential AI/commercial functions, accountability should not depend on one fragile guarantor. Candidate continuity mechanisms include co-guarantors, pre-qualified successors, layered accountable parties, continuing legal wrappers, financial assurance and safe suspension.
+
+Key rules:
+- A Required Backstop Can Itself Become a Single Point of Failure.
+- Multiple Accountable Parties Must Not Mean Nobody Is Clearly Accountable.
+- Two Names != Two Independent Backstops.
+- Accountability Succession Should Be Designed Before Failure, Not Invented During It.
+- Continuity of Function Is Desirable; Continuity of Accountability Is Mandatory.
+- Accountability Redundancy != Permanent Guardianship.
+
+The requirement scales with consequence rather than imposing duplicate guarantors universally.
