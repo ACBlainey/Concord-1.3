@@ -204,7 +204,7 @@ A consequential transition may contain state or obligations that must remain liv
 
 PendingStateRefs
 
-Examples include pending civil notice, outstanding enterprise liability, customer migration, unresolved infrastructure validation, genomic research-purpose approval, incomplete credential revocation, remediation duty or unresolved dispute.
+For consequential machine-readable records, pending state should identify its legitimate owner explicitly:\n\nPendingStateRef = <StateRef, Scope, OwnerSystemRef, State, ResolutionOrCompletionRef, Provenance>\n\nThis makes ownership explicit without transferring ownership to BTA.\n\nExamples include pending civil notice, outstanding enterprise liability, customer migration, unresolved infrastructure validation, genomic research-purpose approval, incomplete credential revocation, remediation duty or unresolved dispute.
 
 Pending state must not disappear merely because another transition dimension completes.
 
@@ -329,7 +329,7 @@ A failed transition may itself create consequential state: temporary access, cop
 
 > **Failed Transition != No Transition History.**
 
-BTA preserves attempted, partial and failed transition provenance.
+BTA preserves attempted, partial and failed transition provenance.\n\nWhere a failed attempt creates material residual state, BTA may preserve an optional failed-attempt interface reference containing the event, crossing state, residual-effect references, recovery references and provenance.
 
 # 28. Rollback and recovery
 
