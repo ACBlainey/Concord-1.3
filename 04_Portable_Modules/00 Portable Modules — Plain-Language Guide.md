@@ -739,6 +739,57 @@ Its key boundaries include:
 
 ---
 
+
+# Bounded Transition Architecture (BTA)
+
+## Plain-English name
+
+**Keeping a consequential change coherent when different parts of the change happen at different times**
+
+## What does it do?
+
+BTA helps represent one consequential transition that crosses several independently owned systems without pretending that all of those systems change together.
+
+It is useful when something can be complete in one respect, pending in another, failed in a third, and still be part of the same overall transition.
+
+Its core principle is:
+
+> **Transition Coherence != Synchronous Completion**
+
+and its central boundary is:
+
+> **Integration Must Not Become Sovereignty**
+
+BTA connects state references. It does not take ownership of the systems that supply them.
+
+## Simple example
+
+An organisation replaces an old software service with a new one. The new service is running and receives most traffic, but some old transactions are still being completed by the old service, a downstream finance check remains pending, and moving traffic back would not erase records already created in the new service.
+
+Calling the transition simply complete or incomplete would hide important information.
+
+BTA can preserve all of those states as parts of one bounded transition without deciding the accounting, security, routing or recovery rules itself.
+
+## Where could it be applied?
+
+Potential applications include software migrations, infrastructure succession, organisational handovers, manufacturing changes, collection or asset transfers, service retirement, data migrations, supply-chain transitions, emergency-to-recovery transitions and other consequential cross-system changes.
+
+## Use it when
+
+Use BTA when a consequential change spans more than one independently owned state or responsibility and completion in one part must not silently imply completion, authority, permission, custody, validation, recovery or responsibility in another.
+
+It is particularly useful for partial transitions, dual-running systems, staged handovers, failed transitions with residual effects, asynchronous completion and cases where rollback cannot genuinely restore the previous state.
+
+## What it does not do
+
+BTA is not a universal state machine, workflow engine, authority system, validator, dependency graph, externality detector, scheduler, recovery system, archive or adjudicator.
+
+It does not create authority merely because a transition is needed. It does not treat object continuity as automatic transfer of rights, permissions, consent or liability. It does not treat rollback as proof that the previous state has been restored. It also does not prove that every materially relevant dimension has been represented.
+
+**Formal module:** *Bounded Transition Architecture — Portable Module v1.0*
+
+---
+
 # How the modules differ
 
 Several modules may appear applicable to the same problem because they operate at different layers.
@@ -766,6 +817,8 @@ Several modules may appear applicable to the same problem because they operate a
 **KCS Change Propagation** asks: *When this thing changes, what materially depends on it, what actually needs review, and how far should that review propagate?*\n\n**Knowledge Control System** asks: *How do we preserve, classify and retrieve accumulated knowledge without confusing storage with truth, availability with capability, or absence from search with nonexistence?*
 
 **State Triggered Review Architecture** asks: *What condition should cause this issue, work or decision to become reviewable again, and how do we route that signal without letting the trigger decide the outcome?*
+
+**Bounded Transition Architecture** asks: *How do we keep one consequential transition coherent when independently owned state dimensions change asynchronously without silently transferring completion, authority, permission, responsibility or recovery state?*
 
 **State and Maturity Mapping** asks: *What is the current developmental state of this required function, in this context, without confusing existence, maturity, sufficiency, blockage, uncertainty or development need?*
 
