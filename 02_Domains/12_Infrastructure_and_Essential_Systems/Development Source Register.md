@@ -56,3 +56,30 @@ Infrastructure should reuse the existing dependency/state grammar for critical d
 **Source:** `03_Cross_Domain_Architecture/Metrics_and_State_Observation/Constitutional Metrics and Civilisation Architecture Framework — Metrics Full.md`
 
 Already identifies infrastructure measures such as availability, redundancy, resilience, sustainability, maintenance, security, capacity and long-term viability. These are candidate observation inputs, not automatic targets or decision authority.
+
+
+## Lifecycle, technological retirement and decommissioning
+
+**Source family:** V1–V1.2 Legacy Ladder, Continuity and Historical technological-lineage work.
+
+Archive source-resolution confirms existing Concord material already recognises:
+- technology may be retired, replaced, obsolete or lost;
+- not every historical technology should be preserved forever;
+- plans alone do not preserve capability;
+- technological capability depends on knowledge, people, skills, tools, machines, materials, infrastructure, supply chains and experience;
+- Historical may preserve retired technological lineage without owning current recovery capability;
+- Continuity determines whether a recovery path remains justified.
+
+**V1.2 source:** `03_Continuity_and_Memory/The Legacy Ladder- Knowledge and Technological Continuity.md`
+
+**V1.2 source:** `03_Continuity_and_Memory/Legacy tech continuity.md`
+
+**V1.2 source:** `Domains/Historical/Development/Historical Domain — Source Resolution 015 — Technological Lineage, Legacy Infrastructure and Recoverability History.md`
+
+V1.3 development now adds the previously underdeveloped operational bridge:
+
+`Infrastructure Lifecycle, Planned Decommissioning and Successor-Service Transition 001.md`
+
+This handles live-asset transition, dependency mapping, successor-service readiness, decommissioning, resource recovery, site responsibility and handoff to Historical/Continuity.
+
+> **Archive Recognition of Retirement != Operational Decommissioning Architecture.**
