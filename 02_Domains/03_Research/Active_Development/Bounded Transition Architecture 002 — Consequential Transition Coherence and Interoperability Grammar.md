@@ -120,6 +120,8 @@ Therefore:
 
 > **A Consequential Transition May Be Complete in One Scope, Pending in Another, Failed in a Third, and Still Possess a Coherent Overall Transition State.**
 
+> **Transition Coherence != Synchronous Completion.**
+
 # 9. Transition identity
 
 Every material bounded transition should have a stable reference:
@@ -577,6 +579,8 @@ BTA is applied to trivial changes, creating disproportionate bureaucracy.
 > **Completion of One Transition Dimension != Completion of the Consequential Transition as a Whole.**
 
 > **A Consequential Transition May Be Complete in One Scope, Pending in Another, Failed in a Third, and Still Possess a Coherent Overall Transition State.**
+
+> **Transition Coherence != Synchronous Completion.**
 
 > **An Unresolved Transition Must Not Silently Produce a Consequence That Depends on Successful Completion.**
 
