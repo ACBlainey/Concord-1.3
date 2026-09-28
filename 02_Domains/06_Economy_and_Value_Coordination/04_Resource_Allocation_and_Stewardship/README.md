@@ -107,3 +107,35 @@ New refinements:
 - Better Forecasting Does Not Automatically Justify Better Surveillance.
 - Recovery Stewardship Includes Knowing When Not to Preserve.
 - Whole-route resource cost matters; a “recyclable” label alone is insufficient.
+
+
+## Distributed product return and recovery pathways
+
+`Distributed Product Return, OEM Stewardship and Recovery Pathways 001.md`
+
+`Distributed Product Return and Recovery Pathways — Adversarial Test 001.md`
+
+Post-use recovery is now modelled as a **multi-path distributed function**, not a single Concord-operated collection service.
+
+Possible entry paths include ordinary separated collection, civic recovery points, retailer hand-in, old-for-new collection, OEM return/renewal, independent repair/refurbishment, trade-in, resale, donation and specialist recovery.
+
+Key rules:
+- Resource Stewardship != Centralised Resource Collection.
+- Collection Interface != Recovery Ownership.
+- Multiple Valid Recovery Paths Need Not Be Collapsed Into One Preferred Path.
+- Nominal Availability != Reasonable Accessibility.
+- Theoretically Recoverable != Practically Recoverable.
+- Recovery Accessibility Is Part of Recoverability.
+- Hand-In != Waste Declaration.
+- OEM Responsibility != OEM Monopoly.
+- Convenience Can Function as a Recovery Incentive.
+- Pathway Diversity Requires Routing Clarity.
+- An Unknown Recovery Path Is Not Fully Accessible in Practice.
+- Standardise the Interface; Preserve Legitimate Pathway Diversity.
+- Recovery-Path Redundancy Can Increase Accessibility and Resilience, but should be function-justified.
+
+The refined recovery chain distinguishes:
+
+**Theoretical Recoverability → Operational Recoverability → Participant-Accessible Recoverability → Actual Recovery**
+
+The current design objective is not to force every product through one system. It is to make an appropriate legitimate next route reasonably easy to reach while preserving safety, privacy, ownership, competition and independent domain authority.
