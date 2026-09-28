@@ -1103,3 +1103,41 @@ This also gives the reconstruction threshold a more precise meaning:
 > **A Deconstruction Crosses the Reconstruction Threshold When It Removes a Required Ladder Rung Without Preserving a Credible Alternative Route Around It.**
 
 The threshold is therefore capability- and dependency-specific rather than merely a percentage of assets retained.
+
+
+## 30.13 Human capability reconstruction
+
+The reconstruction map must include human, AI and hybrid capability dependencies where material.
+
+A future enterprise may be physically reconstructable yet operationally unrecoverable because:
+- specialist skills disappeared;
+- experienced personnel retired;
+- tacit knowledge was not transferred;
+- certifications/qualifications lapsed;
+- training pathways vanished;
+- too few participants can operate or validate the reconstructed system.
+
+Therefore:
+
+> **Physical Reconstruction != Operational Capability Reconstruction.**
+
+Where a future reactivation window is sufficiently credible, the enterprise can expose anticipated capability requirements to the Employment and Productive Participation architecture before actual vacancies exist.
+
+This permits voluntary preparation through:
+- education;
+- apprenticeships;
+- supervised experience;
+- qualification;
+- mentoring;
+- tacit-knowledge transfer;
+- simulation/reconstruction exercises.
+
+Candidate extension to the Enterprise Reconstruction Map:
+
+`HumanCapabilityRefs, FutureRoleRequirementRefs, TrainingLeadTimeRefs, TacitKnowledgeTransferRefs, CapabilitySupplyRiskRefs`
+
+These are references to externally owned employment/education/continuity processes, not enterprise ownership of people.
+
+> **Reconstruction Planning Can Reserve Capability Requirements; It Cannot Reserve People.**
+
+A sufficiently long planned dormancy can therefore be used productively: physical resources may circulate elsewhere while knowledge and future workforce capability are deliberately prepared for the expected reactivation window.
