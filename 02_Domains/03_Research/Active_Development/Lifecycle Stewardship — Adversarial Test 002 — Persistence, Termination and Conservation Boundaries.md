@@ -399,3 +399,51 @@ Finally:
 > **Deconstruction Beyond the Reconstruction Threshold Can Convert Hibernation Into Retirement.**
 
 This gives LSR a potentially important boundary between temporary dormancy and effective permanent termination, while BTA remains responsible for representing the consequential transition itself.
+
+
+# 28. Source-resolution refinement — Legacy Ladder interface
+
+The deconstruction/reconstruction finding has now been checked against the existing portable Legacy Ladder module.
+
+The overlap is substantial but complementary rather than duplicative.
+
+Legacy Ladder already establishes:
+- plans alone do not preserve capability;
+- capability resides in knowledge + people + skills + tools + machines + materials + infrastructure + supply chains + institutions + experience;
+- the specific technological pathway can break even while high-level knowledge survives;
+- Level 10 continuity means working capability remains functional or can be reconstructed without restarting from the bottom;
+- manufacturing seed banks can preserve recovery points;
+- selective preservation should focus on capabilities whose loss would be exceptionally costly, dangerous or impossible to recreate;
+- keystone rungs deserve particular continuity attention.
+
+Therefore LSR should **not** invent its own technological-continuity analysis.
+
+Instead:
+
+`LSR Future-Function Decision → Legacy Ladder Reconstruction-Basis Analysis → Domain Deconstruction Plan → Resource Release / Retention → BTA Transition Integration`
+
+This gives the provisional reconstruction threshold a stronger definition:
+
+> **A Deconstruction Crosses the Reconstruction Threshold When It Removes a Required Ladder Rung Without Preserving a Credible Alternative Route Around It.**
+
+This is more precise than treating reconstructability as simple asset retention.
+
+It also means a hibernating enterprise may release large quantities of fungible infrastructure while retaining a comparatively small but strategically chosen set of:
+- keystone tooling;
+- tacit-knowledge pathways;
+- manufacturing/process specifications;
+- test/calibration capability;
+- dependency maps;
+- training material;
+- seed equipment;
+- other non-fungible reconstruction rungs.
+
+Conversely, retaining many physical assets can still fail to preserve reconstructability if a critical invisible rung disappears.
+
+> **Asset Retention != Capability Preservation.**
+
+> **Small Preserved Seed != Small Recovery Value.**
+
+The Saturn V/Apollo case is therefore not merely an analogy. It is the founding Legacy Ladder example and provides an existing Concord mechanism for deciding what a mothballed capability must preserve beneath its reconstruction map.
+
+**Boundary result:** Legacy Ladder owns continuity/reconstruction-depth analysis. LSR owns the lifecycle decision to preserve a future option. Enterprise/domain architecture owns the specific hibernation/deconstruction plan. Resource Stewardship owns released-resource handling. BTA owns transition integration.
