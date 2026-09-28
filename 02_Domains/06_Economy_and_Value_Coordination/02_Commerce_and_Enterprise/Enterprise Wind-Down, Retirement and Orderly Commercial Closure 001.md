@@ -819,3 +819,240 @@ and:
 This preserves a legitimate middle state for functions whose **need is discontinuous but predictably recurrent**.
 
 > **Intermittent Need Can Justify Intermittent Operation Without Requiring Repeated Institutional Death and Rebirth.**
+
+
+---
+
+# 30. Deconstructable enterprise infrastructure
+
+Hibernation does not require the enterprise's operating infrastructure to remain physically or digitally assembled throughout the dormant period.
+
+Where resources have useful alternative applications, maintaining an idle operating stack may itself be poor stewardship.
+
+A dormant enterprise may therefore preserve **reconstruction capability** rather than preserving every operational asset in place.
+
+> **Preservation of Enterprise Capability != Preservation of Enterprise Infrastructure in Assembled Form.**
+
+## 30.1 Planned deconstruction
+
+Before hibernation, an enterprise may deliberately deconstruct parts of its operating infrastructure and release resources for other uses.
+
+Potentially releasable elements include:
+
+- buildings or space;
+- machinery;
+- vehicles;
+- computing capacity;
+- energy allocation;
+- inventories;
+- generic tooling;
+- financial capital;
+- reusable components;
+- communications capacity;
+- logistics capacity;
+- ordinary access permissions;
+- other scarce resources not required to preserve the dormant capability.
+
+The objective is not uncontrolled liquidation.
+
+The objective is to distinguish what must remain available for credible reactivation from what can be safely released and later reacquired, reconstructed or substituted.
+
+## 30.2 Reconstruction map
+
+Where future reactivation is part of the lifecycle plan, deconstruction should preserve enough information to answer:
+
+1. what capability must ultimately be reconstructed?
+2. which components/resources are essential?
+3. which are fungible or substitutable?
+4. which must be retained?
+5. which may be released and reacquired later?
+6. which knowledge, procedures, specifications and relationships must survive?
+7. which qualifications or permissions will require revalidation?
+8. what dependencies must exist before reconstruction?
+9. what lead times constrain reactivation?
+10. what resources are expected to be recoverable from the wider system?
+11. what changes during dormancy would invalidate the original reconstruction plan?
+12. what minimum viable reconstruction is required before operation may resume?
+
+Candidate representation:
+
+`EnterpriseReconstructionMap = <CapabilityRef, RetainedCoreRefs, ReleasedResourceRefs, ReacquisitionRefs, SubstitutionRules, KnowledgeRefs, DependencyRefs, QualificationRefs, LeadTimeRefs, ReconstructionSequenceRefs, ValidationRefs, Provenance>`
+
+This is provisional and should not become a universal mandatory schema unless further development justifies it.
+
+## 30.3 Resource release with planned recovery
+
+Released resources do not necessarily remain reserved exclusively for the dormant enterprise.
+
+That would defeat much of the stewardship value of deconstruction.
+
+Instead, the plan may distinguish:
+
+- resources that must remain reserved;
+- resources held in a shared reserve;
+- fungible resources expected to be reacquired;
+- components that may be substituted;
+- capability that can be rebuilt from specifications;
+- scarce/non-fungible assets that must be retained;
+- resources whose future availability is uncertain.
+
+> **Reconstruction Planning != Permanent Reservation of Every Released Resource.**
+
+The enterprise therefore preserves a **credible reconstruction route**, not necessarily ownership of the same physical assets.
+
+## 30.4 Hibernation as reversible deconstruction
+
+A deeper lifecycle model now appears:
+
+`ACTIVE ENTERPRISE`
+→ `HIBERNATION DECISION`
+→ `PLANNED DECONSTRUCTION`
+→ `DORMANT / RECONSTRUCTABLE CAPABILITY`
+→ `REACTIVATION DECISION`
+→ `RESOURCE REACQUISITION / RECONSTRUCTION`
+→ `VALIDATION`
+→ `ACTIVE ENTERPRISE`
+
+The word reversible must be used carefully.
+
+The exact physical state may not be reversible. The intended **functional capability** may be reconstructable using different resources.
+
+Therefore:
+
+> **Reconstructability != Restoration of Identical Prior State.**
+
+## 30.5 Retirement uses the same deconstruction logic
+
+Permanent retirement can use much of the same deconstruction process:
+
+`ACTIVE ENTERPRISE`
+→ `RETIREMENT DECISION`
+→ `PLANNED DECONSTRUCTION`
+→ `DUTY / PROVENANCE / VALUE SEPARATION`
+→ `RESOURCE RELEASE / RECOVERY / REPURPOSING / DISPOSAL`
+→ `CLOSED`
+
+The crucial difference is that retirement does **not** require preservation of an enterprise reconstruction route.
+
+This suggests:
+
+> **Hibernation and Retirement Share a Deconstruction Architecture but Differ in Their Required Future Capability State.**
+
+Hibernation asks:
+**What must survive so the function can credibly be reconstructed?**
+
+Retirement asks:
+**What must survive because it retains independent value or obligation after the function ends?**
+
+## 30.6 Branch decision during deconstruction
+
+A hibernating enterprise can become a retired enterprise if expected future need disappears or reconstruction ceases to be justified.
+
+Conversely, a retirement process should not casually be relabelled hibernation merely to avoid releasing assets or authority.
+
+Candidate branch:
+
+`DECONSTRUCTION`
+→ `RECONSTRUCTABLE DORMANCY`
+or
+→ `PERMANENT RETIREMENT`
+
+The branch depends on externally legitimate lifecycle evidence and decision ownership.
+
+## 30.7 Reconstruction debt
+
+A useful risk concept follows.
+
+Each resource released during hibernation can increase the work, time, dependency or uncertainty required for future reactivation.
+
+Call this provisionally **reconstruction debt**.
+
+It may include:
+
+- reacquisition time;
+- recruitment/training time;
+- recertification;
+- supply-chain re-establishment;
+- software/environment rebuilding;
+- equipment commissioning;
+- dependency restoration;
+- data restoration;
+- facility preparation.
+
+Releasing resources creates present stewardship value but may increase future restart cost.
+
+Therefore the hibernation decision should balance:
+
+`Present Resource Release Value ↔ Future Reconstruction Burden`
+
+This is not necessarily monetary.
+
+## 30.8 Irreversibility threshold
+
+Some deconstruction actions may destroy the practical reconstruction route:
+
+- scrapping unique tooling;
+- losing unrecoverable knowledge;
+- terminating a scarce qualification base;
+- destroying irreplaceable data;
+- permanently releasing a unique site;
+- allowing a critical supplier chain to disappear.
+
+Before crossing such a threshold, the system should know whether it is still pursuing hibernation or has effectively entered retirement.
+
+> **Deconstruction Beyond the Reconstruction Threshold Can Convert Hibernation Into Retirement.**
+
+This connects directly to existing Concord reversibility and Legacy Ladder reasoning.
+
+## 30.9 Relationship to resource stewardship
+
+Released assets enter the wider resource lifecycle rather than becoming waste by default.
+
+They may be:
+
+- reassigned;
+- reused;
+- leased;
+- repurposed;
+- disassembled;
+- harvested for components;
+- recycled;
+- stored as strategic reserve;
+- disposed of only where higher-value recovery is not justified.
+
+This connects enterprise lifecycle directly to Product Lifecycle Stewardship and Post-Use Product Collection / Recovery Routing.
+
+## 30.10 Relationship to BTA
+
+BTA can coordinate the consequential state changes involved in:
+
+- asset release;
+- authority suspension;
+- responsibility survival;
+- dependency changes;
+- movement into dormancy;
+- reconstruction;
+- reactivation;
+- final retirement.
+
+BTA does not decide which assets should be retained, released or reacquired.
+
+## 30.11 Emerging architectural insight
+
+An enterprise may be better understood as more than its currently assembled assets.
+
+Its recoverable existence can partly reside in:
+
+- knowledge;
+- specifications;
+- procedures;
+- relationships;
+- legal/organisational continuity;
+- validated designs;
+- retained non-fungible capability;
+- a reconstruction map;
+- access to a wider resource pool.
+
+This permits a low-resource dormant state while avoiding unnecessary permanent destruction of useful organisational capability.
+
+> **An Enterprise Can Persist as a Reconstructable Capability Without Persisting as a Fully Assembled Operating System.**
