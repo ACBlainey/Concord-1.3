@@ -422,11 +422,16 @@ BoundedTransitionContract = <
 
 This is an integration contract, not a universal ontology. Fields may be absent where not materially applicable.
 
-# 35. Minimal transition record
+# 35. Minimum sufficient transition representation
 
-For lower-complexity consequential transitions:
+> **Use the Smallest Transition Representation That Preserves the Materially Relevant Consequences, Boundaries and Correction Path.**
 
-<TransitionID,
+Routine local changes below the materiality gate remain local and require no BTA event.
+
+For lower-complexity consequential transitions, the conceptual minimum is:
+
+<BTA-Min =
+ TransitionID,
  ObjectOrFunctionRef,
  Scope,
  PriorStateRef,
@@ -434,11 +439,24 @@ For lower-complexity consequential transitions:
  CurrentTransitionStateRef,
  CompletionConditionRef,
  NextStateRef,
- SurvivingDutyRefs,
- TerminatedAuthorityRefs,
- Provenance>
+ Provenance,
+ [MaterialOptionalRefs]>
 
-Additional interfaces activate only where consequence warrants.
+MaterialOptionalRefs may include PendingStateRefs, SurvivingDutyRefs, TerminatedAuthorityRefs, NonPropagationRules, DependencyRefs, ScopedValidationRefs, RollbackOrRecoveryRefs, ExternalityReviewRefs, RelationalEffectRefs or other already-defined BTA interfaces only where materially applicable.
+
+> **The Existence of a BTA Field Does Not Create a Requirement to Populate It When the Dimension Is Not Materially Applicable.**
+
+> **Absence of a Non-Material BTA Field != Incomplete Transition Record.**
+
+Additional interfaces activate only where consequence warrants. If materiality itself cannot yet be safely resolved, BTA may preserve a provisional MATERIALITY_UNRESOLVED classification with scope, uncertainty basis, legitimate resolution owner and provenance.
+
+Substantive materiality thresholds remain externally grounded in the owning domain or other legitimate architecture. BTA must not manufacture materiality merely to activate itself.
+
+> **BTA Materiality Gate != BTA Sovereignty Over Materiality.**
+
+For high-consequence or irreversible transitions, proportionate ESCP checking should ask whether apparent simplicity reflects genuine low complexity or an incomplete evaluation space.
+
+> **Small Represented Transition != Demonstrated Small Real Consequence.**
 
 # 36. Example — infrastructure successor transition
 
