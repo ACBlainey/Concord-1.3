@@ -447,3 +447,40 @@ If not, infrastructure retirement/decommissioning becomes a candidate developmen
 # 24. Status
 
 **CROSS-DOMAIN RECURRENCE OBSERVED / GENERAL PRINCIPLE NOT YET GRADUATED / INFRASTRUCTURE PREDICTION OPEN / COUNTEREXAMPLES PRESERVED**
+
+
+---
+
+# 25. Infrastructure prediction result
+
+The infrastructure prediction was tested against V1, V1.1 and V1.2 archive material.
+
+Result: **PARTIALLY CONFIRMED / SOURCE-RESOLVED.**
+
+The archive already contains substantial precursor architecture:
+- technology may be retired, replaced or become obsolete;
+- not every technology should be preserved forever;
+- retired technological lineage may remain historically valuable;
+- Continuity may preserve a recovery basis where justified;
+- Legacy Ladder preservation is not equivalent to keeping every asset active.
+
+Therefore “infrastructure retirement” itself was not a genuinely absent concept.
+
+The narrower missing layer was operational:
+
+**live asset**
+→ **dependency resolution**
+→ **successor-service readiness**
+→ **withdrawal**
+→ **decommissioning**
+→ **resource recovery**
+→ **site responsibility**
+→ **Historical/Continuity handoff**
+
+This has now been developed provisionally at:
+
+`02_Domains/12_Infrastructure_and_Essential_Systems/Infrastructure Lifecycle, Planned Decommissioning and Successor-Service Transition 001.md`
+
+This test strengthens the successor-state method because the topology prediction found a real interface gap while ESCP prevented the surrounding pre-existing architecture from being misclassified as new.
+
+> **Topology Can Predict a Missing Transition Without Proving the Surrounding Concepts Are Missing.**
