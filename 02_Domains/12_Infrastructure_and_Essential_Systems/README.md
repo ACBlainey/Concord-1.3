@@ -35,3 +35,27 @@ Key distinctions:
 Candidate lifecycle:
 
 **Need → Design → Deployment → Commissioning → Operation → Maintenance → Adaptation/Life Extension → Continue / Replace / Transform / Retire → Successor-Service Transition → Decommission → Resource Recovery / Site Remediation → Historical and Technological Lineage Preservation**
+
+
+## Local-first bidirectional utility mesh
+
+`Local-First Bidirectional Utility Mesh Architecture 001.md`
+
+Developed from the September 2026 Utilities sketch after source resolution.
+
+Existing Concord architecture already supported subsidiarity, local response, resilience reserves, shared infrastructure and predictive resource allocation, but did not contain a developed utility-network architecture for bidirectional local production, quality-gated return flows or waste-heat routing.
+
+Core topology:
+
+**local / regional / central sources ↔ quality and safety interfaces ↔ shared distribution and balancing network ↔ participants / sites / storage / processors**
+
+Key distinctions:
+- Local First != Local Only.
+- Distributed Capability != Prohibition of Central Capability.
+- Resource Existence != Distribution-Grade Resource.
+- Self-Sufficiency != Isolation.
+- Quality Verification != Ownership of the Resource.
+- Physical Flow Architecture != Economic Settlement Architecture.
+- Network Continuity != Node Permanence.
+
+The architecture treats electricity, water, gaseous/fuel flows and heat as resource-specific networks requiring different engineering rules while sharing a common bounded-interface grammar.
