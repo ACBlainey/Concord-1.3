@@ -340,6 +340,51 @@ Its architecture may instead support:
 
 ---
 
+# 10A. Civil Contact Point as the primary discovery interface
+
+The Concord already contains a candidate **Civil Contact Point** architecture described as a portable civil interface connecting participants with relevant services and participation.
+
+Product-return discoverability should therefore use that existing civil interface rather than create a separate participant-facing recovery-information system.
+
+A participant could ask their Civil Contact Point, in effect:
+
+> **What legitimate return, repair, reuse, upgrade or recovery routes are currently available for this product?**
+
+The Civil Contact Point could expose relevant options such as:
+- OEM return or renewal;
+- retailer hand-in;
+- old-for-new collection;
+- civic collection;
+- ordinary separated collection;
+- repair/refurbishment;
+- resale/donation/reuse;
+- specialist hazardous recovery.
+
+The Civil Contact Point does not need to own or perform those services.
+
+The cleaner relationship is:
+
+**Recovery Providers / Service Owners**
+→ **Current Route and Eligibility Information**
+→ **Civil Contact Point**
+→ **Participant Discovery**
+→ **Participant Choice**
+→ **Relevant Independent Provider**
+
+> **Civil Contact Point Is the Primary Discovery Interface, Not the Recovery Operator.**
+
+This also avoids unnecessary duplication across Concord services. Participants should not need to learn a separate discovery system for every domain where an existing general civil interface can expose the relevant service.
+
+However, **primary != exclusive**.
+
+Existing Civil Contact Point development explicitly recognises risks of gatekeeping, monopolisation, service dependency and exclusion. Product recovery should therefore remain discoverable through legitimate direct provider, retailer, civic and other channels as appropriate.
+
+> **Primary Civil Interface != Exclusive Access Path.**
+
+This preserves the convenience of one normal Concord service-information interface without making that interface structurally indispensable to resource recovery.
+
+---
+
 # 11. Participant convenience
 
 Recovery will underperform if returning an item is disproportionately difficult.
