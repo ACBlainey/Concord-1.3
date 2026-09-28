@@ -83,3 +83,34 @@ V1.3 development now adds the previously underdeveloped operational bridge:
 This handles live-asset transition, dependency mapping, successor-service readiness, decommissioning, resource recovery, site responsibility and handoff to Historical/Continuity.
 
 > **Archive Recognition of Retirement != Operational Decommissioning Architecture.**
+
+
+## Local-first bidirectional utility mesh
+
+**Origin:** September 2026 user sketch — `Utilities.txt`.
+
+Source proposition:
+- utility infrastructure should support local/onsite production and mesh-like redistribution rather than assume central production only;
+- large facilities remain useful where scale provides genuine benefit;
+- basic energy/heating/water architecture should emphasise local capability before unnecessary central dependence;
+- connection and quality standards are critical;
+- locally produced lower-grade resources may require conditioning before redistribution;
+- water collection/treatment can use similar logic;
+- sewage remains separately handled;
+- heat, including compute/data-centre waste heat, should be treated as a potentially recoverable resource.
+
+Source resolution found existing Concord support for:
+- subsidiarity/local response;
+- local autonomy as resilience;
+- reserve capacity;
+- predictive resource allocation;
+- shared civilisational infrastructure;
+- resource stewardship.
+
+No developed prior utility architecture was found for bidirectional flow, quality-gated injection or waste-heat routing.
+
+Developed at:
+
+`Local-First Bidirectional Utility Mesh Architecture 001.md`
+
+> **Existing Locality Principle != Existing Utility Mesh Architecture.**
