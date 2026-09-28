@@ -343,3 +343,59 @@ the review must consider not only whether a function is useful **now**, but whet
 Reactivation remains a new consequential lifecycle decision. Prior legitimacy does not automatically prove current readiness, authority or suitability.
 
 This strengthens rather than expands the candidate LSR kernel: **dormancy was already conceptually possible, but predictable intermittent need demonstrates why it must be an explicit first-class lifecycle outcome rather than an incidental form of continuation.**
+
+
+# 27. Back-propagation — deconstruction, reconstruction and recoverable capability
+
+Enterprise hibernation exposes a stronger lifecycle distinction:
+
+> **Preserving a Function's Future Option Does Not Necessarily Require Preserving Its Presently Assembled Infrastructure.**
+
+A hibernating system may release fungible resources to other uses while retaining enough:
+- knowledge;
+- specifications;
+- provenance;
+- non-fungible components;
+- relationships;
+- qualification pathways;
+- dependency knowledge;
+- reconstruction sequencing
+
+to recreate the function when justified.
+
+This adds two candidate LSR questions:
+
+1. **Does future option value require preservation in place, or only preservation of a credible reconstruction path?**
+2. **Which deconstruction actions cross a threshold beyond which the function is no longer practically reconstructable?**
+
+Candidate lifecycle outcomes should therefore distinguish:
+
+- `DORMANT_ASSEMBLED`
+- `DORMANT_DECONSTRUCTED_RECONSTRUCTABLE`
+- `RETIRED_DECONSTRUCTED`
+
+These are conceptual outcome classes, not a universal state machine.
+
+The same deconstruction logic can serve both hibernation and retirement.
+
+The difference is the required conservation target:
+
+**Hibernation**
+→ conserve a credible future functional reconstruction route.
+
+**Retirement**
+→ conserve only independently surviving value, duties, evidence, rights and provenance; no functional reconstruction route is required.
+
+This yields:
+
+> **Hibernation and Retirement Can Share Deconstruction While Differing in What Must Remain Recoverable.**
+
+A provisional concept of **reconstruction debt** is also exposed: present resource release may increase future reacquisition, requalification, dependency-restoration and commissioning burden.
+
+This should not automatically become a portable LSR primitive. It is currently a useful decision factor whose portability requires further testing.
+
+Finally:
+
+> **Deconstruction Beyond the Reconstruction Threshold Can Convert Hibernation Into Retirement.**
+
+This gives LSR a potentially important boundary between temporary dormancy and effective permanent termination, while BTA remains responsible for representing the consequential transition itself.
