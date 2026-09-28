@@ -790,6 +790,34 @@ It does not create authority merely because a transition is needed. It does not 
 
 ---
 
+# Lifecycle Stewardship Review
+
+## In one sentence
+
+Lifecycle Stewardship Review helps decide whether a consequential function, object, institution or capability should continue, adapt, transform, become dormant, pass to a successor, retire or terminate—without assuming that either persistence or destruction is automatically correct.
+
+## The problem it solves
+
+Things often continue because they already exist, or are dismantled because their original use has ended. Both shortcuts can be wrong. A function may still matter even when its current implementation no longer does; duties may survive closure; useful knowledge or future options may remain; authority, permissions and resources may need to end even while other value is conserved.
+
+LSR separates the continuing justification of the **function** from the continuing justification of the **current implementation**. It then asks what should be conserved, what should be released, whether a successor is actually required, whether dormancy is justified, and which externally owned duties, rights, authority and transition processes must remain visible.
+
+## Use it when
+
+Use LSR for consequential lifecycle decisions involving institutions, programmes, infrastructure, products, capabilities, services, projects, knowledge systems or other bounded subjects where continuation, transformation, dormancy, succession or retirement could have material consequences.
+
+It is especially useful when different parts of one subject may legitimately need different dispositions, or where termination and continued investment can each destroy future options.
+
+## What it does not do
+
+LSR does not create authority to continue, close, transfer or preserve anything. It does not allocate resources, assign people, decide legal rights, perform reconstruction analysis, determine data law, validate domain-specific safety/science, or coordinate the resulting transition.
+
+It also does not require preservation. Dormancy and future option value remain conditional and reviewable. Some lifecycle completion legitimately ends in non-succession.
+
+**Formal module:** *Lifecycle Stewardship Review — Portable Module v1.0*
+
+---
+
 # How the modules differ
 
 Several modules may appear applicable to the same problem because they operate at different layers.
@@ -819,6 +847,8 @@ Several modules may appear applicable to the same problem because they operate a
 **State Triggered Review Architecture** asks: *What condition should cause this issue, work or decision to become reviewable again, and how do we route that signal without letting the trigger decide the outcome?*
 
 **Bounded Transition Architecture** asks: *How do we keep one consequential transition coherent when independently owned state dimensions change asynchronously without silently transferring completion, authority, permission, responsibility or recovery state?*
+
+**Lifecycle Stewardship Review** asks: *What lifecycle disposition is justified for this function or subject, what should survive or be released, and is continuation, dormancy, succession or retirement actually warranted?*
 
 **State and Maturity Mapping** asks: *What is the current developmental state of this required function, in this context, without confusing existence, maturity, sufficiency, blockage, uncertainty or development need?*
 
