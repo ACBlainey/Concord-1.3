@@ -609,3 +609,47 @@ Before portable extraction:
 4. test whether the transition object adds genuine machine-readable value;
 5. determine whether this is a portable module or a cross-domain formal grammar.
 
+
+
+---
+
+# 36. Utility mesh evidence — transition grammar beyond lifecycle
+
+Subsequent development of:
+
+`02_Domains/12_Infrastructure_and_Essential_Systems/Local-First Bidirectional Utility Mesh Architecture 001.md`
+
+provides an important additional test.
+
+A utility node may simultaneously:
+- import one resource;
+- export another;
+- store a third;
+- require treatment before exporting a fourth;
+- remain connected to one network while isolated from another.
+
+This is not primarily retirement or succession.
+
+It is continuous bounded transition across resource-specific interfaces.
+
+The case therefore supports the proposed name refinement toward **Bounded Transition Architecture**.
+
+Candidate objects:
+
+`UtilityResourceState = <ResourceClass, QuantityState, QualityState, Location, OwnershipOrStewardshipState, AvailabilityTime, StorageState, TreatmentState, DistributionEligibility, HazardState, Provenance>`
+
+`UtilityFlow = <ResourceClass, SourceNodeRef, DestinationOrNetworkRef, Quantity, QualityState, InterfaceValidationRef, TimeWindow, TreatmentDependencyRef, RoutingState, Provenance>`
+
+The transition grammar appears useful here because:
+- state is multidimensional;
+- state must be scoped;
+- transitions cross bounded interfaces;
+- interface validation matters;
+- provenance matters;
+- the transition itself does not grant authority or determine substantive engineering safety.
+
+This extends the evidence beyond lifecycle/sunset cases:
+
+> **Bounded Transition Architecture May Describe Both Successor-State Change and Continuous Operational Flow Without Owning the Domain-Specific Rules That Make the Transition Legitimate.**
+
+This remains a research finding.
