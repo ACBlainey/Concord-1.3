@@ -513,3 +513,23 @@ The aim is therefore neither maximal memory nor maximal forgetting.
 It is:
 
 > **faithful temporal context with bounded custody.**
+
+
+## Biological participant genomic custody and research interface
+
+`Biological Participant Genomic Custody and Research Interface — Development Note 001.md`
+
+Developed from the September 2026 Historical DNA sketch.
+
+Source resolution preserves the sketch's potential long-term research value while separating collection, clinical use, research authority, privacy transformation and Historical custody.
+
+Key distinctions:
+- Potential Historical Custody != Authority to Collect Biological Material.
+- Sample Custody != Genomic Data Custody != Research Dataset Custody.
+- Removing Direct Identity != Making Genomic Data Non-Identifying.
+- Consent to One Genomic Function != Consent to Every Genomic Function.
+- Historical Preservation of Genomic History != Mandatory Historical Possession of Every Genome.
+- Research Permission != General Participant-Data Permission.
+- Correlation Capability != Correlation Authority.
+
+The note identifies relational genetic privacy, future re-identification, derivative data and research-to-clinical boundaries as unresolved high-sensitivity areas.
