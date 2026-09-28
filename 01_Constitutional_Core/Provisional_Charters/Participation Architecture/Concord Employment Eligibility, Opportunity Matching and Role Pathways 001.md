@@ -508,3 +508,205 @@ This reduces administrative waste while increasing participant agency and develo
 > **Do Not Ask Everyone to Apply for Everything.**
 
 > **Show Qualified Participants Relevant Doors; Show Aspiring Participants the Legitimate Road to Those Doors.**
+
+
+---
+
+# 21. Future capability demand and planned reactivation
+
+Lifecycle Stewardship and Enterprise Hibernation expose an additional use of the employment architecture.
+
+A dormant enterprise, infrastructure function, scientific programme or other reconstructable capability may have a credible future reactivation window.
+
+Reconstruction may require human capability that does not presently exist in sufficient quantity.
+
+Waiting until reactivation to advertise vacancies may be too late where required skills need:
+- education;
+- apprenticeship;
+- supervised practice;
+- certification;
+- security/suitability processes;
+- tacit-knowledge transfer;
+- specialist experience.
+
+The employment architecture can therefore support **anticipated capability demand** before a current vacancy exists.
+
+> **Future Capability Requirement != Current Vacancy.**
+
+## 21.1 Future Role Requirement Profile
+
+A legitimate planning owner may publish a provisional future role/capability requirement linked to an expected reactivation, expansion, succession or reconstruction window.
+
+Possible fields include:
+
+`FutureCapabilityID`  
+`AssociatedFunctionOrProjectRef`  
+`ExpectedNeedWindow`  
+`ConfidenceOrPlanningState`  
+`RoleOrCapabilityClass`  
+`EducationPrerequisites`  
+`QualificationRequirements`  
+`CompetenceRequirements`  
+`ExperienceRequirements`  
+`LikelyTrainingLeadTime`  
+`CandidateDevelopmentRoutes`  
+`ReactivationDependencyRefs`  
+`ReviewDate`  
+`Provenance`
+
+The profile must clearly distinguish forecast/planning information from an actual employment offer.
+
+## 21.2 Prospective matching
+
+Where participants have opted into relevant opportunity/pathway services, the system may identify people whose:
+- existing competence;
+- interests/aspirations;
+- adjacent qualifications;
+- development trajectory
+
+make the future capability relevant to them.
+
+They may then be informed:
+
+**A capability is expected to be needed in the future. You are not being appointed to it. If you are interested, these are the skills/qualifications/pathways that would make you plausibly eligible if the need materialises.**
+
+> **Prospective Match != Reservation of a Person.**
+
+## 21.3 Lead-time planning
+
+The key benefit is temporal.
+
+If a capability is expected in five years and competent preparation takes three years, workforce reconstruction can begin before physical reconstruction.
+
+Candidate pattern:
+
+`Expected Reactivation Window`
+→ `Future Capability Requirements`
+→ `Skill-Gap Analysis`
+→ `Voluntary Candidate Notification`
+→ `Education / Apprenticeship / Experience Pathways`
+→ `Competence Evidence Develops`
+→ `Reactivation Review`
+→ `Actual Vacancy / Selection if Need Materialises`
+
+This can reduce the human reconstruction bottleneck.
+
+## 21.4 Legacy Ladder interface
+
+Legacy Ladder analysis may identify that a critical rung depends on human/tacit capability rather than only artefacts or documentation.
+
+That creates a planning signal:
+
+`Legacy Ladder Skill/Knowledge Dependency`
+→ `Future Capability Demand`
+→ `Employment/Education Pathway`
+
+Examples could include:
+- specialised fabrication;
+- rare maintenance skills;
+- calibration;
+- operation of legacy/recovery equipment;
+- scientific/engineering expertise;
+- safety-critical certification.
+
+The employment system does not decide that the capability must be preserved. It consumes the legitimate requirement supplied by the lifecycle/continuity owner.
+
+## 21.5 Knowledge-transfer window
+
+Where existing experts remain available, a planned hibernation/reactivation cycle creates an opportunity to transfer tacit knowledge before it disappears.
+
+Potential mechanisms include:
+- apprenticeship;
+- mentoring;
+- recorded demonstration;
+- supervised practice;
+- simulation;
+- rotational placement;
+- paired reconstruction exercises.
+
+This can convert a fragile individual capability into a broader recoverable civil capability.
+
+## 21.6 Participant agency and anti-allocation rule
+
+Participants are not workforce inventory.
+
+A future project may know that it expects to need ten specialists. It does not therefore own ten future people.
+
+Participants retain choice over:
+- whether to receive prospective opportunity notices;
+- whether to express interest;
+- whether to train;
+- whether to continue the pathway;
+- whether to apply when a real vacancy exists;
+- whether to accept any eventual offer.
+
+> **Workforce Planning != Ownership of Future Workers.**
+
+> **Capability Forecast != Personal Obligation.**
+
+Planning should therefore include uncertainty about participant availability rather than treating matched individuals as guaranteed future resources.
+
+## 21.7 No false promise
+
+The reverse protection is equally important.
+
+A participant should not spend years preparing under the false implication that employment is guaranteed.
+
+Future capability notices should expose:
+- planning confidence;
+- expected need window;
+- dependencies;
+- material uncertainty;
+- whether the project may be cancelled;
+- whether selection will remain competitive.
+
+> **Training Pathway != Future Employment Guarantee.**
+
+## 21.8 Aggregate capacity planning
+
+The architecture can compare anticipated capability demand with privacy-preserving aggregate capability supply.
+
+Example:
+
+`Expected future need: 40 qualified specialists`
++
+`Current plausible future supply: 8`
+→ `Education / Apprenticeship Capacity Signal`
+
+This can inform education provision without coercively directing individuals.
+
+The existing principle remains:
+
+> **Civilisation May Learn From Aspiration Without Owning the Aspirant.**
+
+## 21.9 Reactivation readiness
+
+For reconstructable enterprises, readiness should therefore include both material and human dimensions.
+
+A programme may possess:
+- plans;
+- tooling;
+- reconstruction maps;
+- materials;
+- facilities;
+
+yet still be unable to reactivate because the required competence has disappeared.
+
+Therefore:
+
+> **Infrastructure Reconstruction Readiness != Capability Reconstruction Readiness.**
+
+A credible reconstruction plan should include the human/AI/hybrid capabilities necessary to operate, validate, maintain and improve the reconstructed function.
+
+## 21.10 Architectural boundary
+
+- Lifecycle Stewardship decides whether preserving/reactivating the future function remains justified.
+- Legacy Ladder identifies knowledge, skill and technological continuity dependencies.
+- Enterprise/domain architecture defines the anticipated reconstruction requirement.
+- Employment architecture exposes future capability pathways and matches willing participants.
+- Education/training develops capability.
+- Employers retain appointment authority.
+- Participants retain agency.
+- BTA coordinates consequential transition states where required.
+
+No system acquires ownership of the participant.
