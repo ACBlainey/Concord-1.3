@@ -385,6 +385,36 @@ This preserves the convenience of one normal Concord service-information interfa
 
 ---
 
+# 10B. Recovery-service information contract
+
+Civil Contact should not need to understand or reproduce the internal operation of every recovery provider.
+
+Instead, participating service owners should expose enough current information for Civil Contact to answer the participant-facing question:
+
+> **What legitimate options are available to me for this product now?**
+
+A provisional minimum information envelope is:
+
+`RecoveryRouteNotice = <ProviderRef, ProductOrClassAccepted, RouteType, GeographicOrServiceScope, Eligibility, ParticipantActionRequired, CollectionOrDropOffMode, CostOrCreditWhereRelevant, SafetyRestrictions, DataHandlingRequirementWhereRelevant, CapacityOrAvailabilityStateWhereMaterial, EffectiveDate, ReviewOrExpiryRef, DirectProviderContactRef, Provenance>`
+
+This is an interface envelope, not a central registry ownership claim.
+
+The provider remains responsible for the accuracy of its service information within its legitimate scope. Civil Contact presents/routs that information and should preserve source/provenance so participants can distinguish provider-supplied conditions from Concord-wide rules.
+
+> **Service Discovery != Service Certification.**
+
+> **Civil Contact Routing != Civil Contact Ownership of the Underlying Service.**
+
+Where provider information is stale, contradictory or unavailable, Civil Contact should expose that uncertainty rather than manufacture a route.
+
+> **Unknown Current Availability != Available Service.**
+
+Where a participant experiences an incorrect refusal, erroneous eligibility state or other consequential administrative effect, the existing Civil Contact development already points toward Governance, Judiciary, participant-data and provenance interfaces rather than creating a resource-specific appeals system.
+
+Thus the resource architecture should reuse those correction paths rather than duplicate them.
+
+---
+
 # 11. Participant convenience
 
 Recovery will underperform if returning an item is disproportionately difficult.
