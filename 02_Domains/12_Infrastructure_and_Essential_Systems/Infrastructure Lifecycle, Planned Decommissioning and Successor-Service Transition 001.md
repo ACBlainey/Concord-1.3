@@ -622,3 +622,103 @@ This distinction should be retained for provenance.
 # 28. Status
 
 **PROVISIONAL INFRASTRUCTURE LIFECYCLE ARCHITECTURE / SOURCE-RESOLVED AGAINST V1–V1.2 LEGACY AND CONTINUITY WORK / REQUIRES FUTURE ADVERSARIAL TESTING**
+
+
+---
+
+# 29. Adversarial-test refinements
+
+`Infrastructure Lifecycle Adversarial Test 001 — Critical Dependency, Failed Succession and Decommissioning.md` exposed several requirements that are now incorporated into the provisional architecture.
+
+## 29.1 Degraded transition
+
+Where normal operation becomes unsafe or unsustainable but immediate cessation would itself create greater harm, a bounded degraded-transition state may be required.
+
+> **Unsafe Normal Operation May Require Degraded Transition Rather Than Binary Continue-or-Close.**
+
+This does not justify indefinite unsafe operation.
+
+## 29.2 Irreversibility threshold
+
+A successor may exist without yet being sufficiently proven.
+
+Before dismantling critical predecessor capability, high-consequence transitions should identify an **irreversibility threshold** and preserve rollback where consequence warrants.
+
+> **Successor Availability != Successor Proven Reliability.**
+
+> **Do Not Cross an Irreversible Retirement Threshold Before Required Successor Confidence Exists.**
+
+## 29.3 Operational retirement and stewardship retirement
+
+Some assets stop productive operation while continuing to require containment, monitoring, remediation or other stewardship.
+
+> **Operational Retirement != Stewardship Retirement.**
+
+Candidate state:
+`PRODUCTION_RETIRED_STEWARDSHIP_ACTIVE`.
+
+## 29.4 Decommissioning assurance
+
+Where a high-consequence asset predictably creates material future decommissioning/remediation duties, the architecture should examine whether a credible fulfilment path exists before retirement.
+
+Possible mechanisms remain for Law/Economy:
+- reserves;
+- bonds;
+- insurance;
+- pooled assurance;
+- continuing legally answerable entities.
+
+> **A Known Future Decommissioning Duty Without a Credible Fulfilment Path Is Deferred Failure.**
+
+## 29.5 Physical and logical decommissioning
+
+Data/control infrastructure can be physically shut down while credentials, routes, storage or remote authority remain live.
+
+> **Physical Shutdown != Logical Retirement.**
+
+## 29.6 Capability criticality
+
+Retirement review should check whether an apparently obsolete asset preserves a keystone Legacy Ladder capability.
+
+> **Low Current Utilisation != Low Continuity Value.**
+
+This does not create automatic preservation.
+
+## 29.7 Functional successor equivalence
+
+A nominally equivalent replacement may remove accessibility or minority functions.
+
+> **Same Service Label != Same Functional Service.**
+
+Successor verification must therefore test material functions, not labels alone.
+
+## 29.8 Retirement-plan validation
+
+A retirement plan can become obsolete.
+
+> **A Retirement Plan Is a Capability Claim, Not Merely a Document.**
+
+High-consequence plans require periodic validation proportional to risk.
+
+## 29.9 Retirement in place
+
+Physical removal can sometimes cause greater harm than safe abandonment/repurposing in place.
+
+Candidate state:
+`RETIRED_IN_PLACE`.
+
+Decommissioning therefore means removal of active function and unmanaged risk, not necessarily removal of every physical artefact.
+
+## 29.10 Multidimensional lifecycle state
+
+The test rejects a single-scalar lifecycle for complex infrastructure.
+
+Candidate representation:
+
+`InfrastructureState = <OperationalState, StewardshipState, PhysicalState, LogicalAccessState, TransitionState, HistoricalState>`
+
+Example:
+
+`<RETIRED, ACTIVE, IN_PLACE, REVOKED, COMPLETE, PRESERVED>`
+
+This permits responsibilities to survive operational retirement without falsely representing the asset as still active.
