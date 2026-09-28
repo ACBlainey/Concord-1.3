@@ -567,6 +567,10 @@ BTA begins duplicating or overruling the state, validation, authority, externali
 
 > **Integration Must Not Become Sovereignty.**
 
+> **Reference to an Owner-System State Does Not Transfer Ownership of That State's Semantics to BTA.**
+
+> **BTA May Bind, Preserve and Compare Scoped Owner-System States; It Must Not Manufacture, Override or Resolve Those States Unless a Separate Legitimate Owner Explicitly Supplies That Function.**
+
 ## Universal logging
 BTA is applied to trivial changes, creating disproportionate bureaucracy.
 
@@ -613,6 +617,10 @@ BTA is applied to trivial changes, creating disproportionate bureaucracy.
 > **Standardise the Transition Interface; Preserve Legitimate Domain-Specific State Machines.**
 
 > **Integration Must Not Become Sovereignty.**
+
+> **Reference to an Owner-System State Does Not Transfer Ownership of That State's Semantics to BTA.**
+
+> **BTA May Bind, Preserve and Compare Scoped Owner-System States; It Must Not Manufacture, Override or Resolve Those States Unless a Separate Legitimate Owner Explicitly Supplies That Function.**
 
 # 42. Ownership boundary
 
