@@ -1,7 +1,7 @@
-# Lifecycle Stewardship Review — Graduation-Candidate v0.3
+# Lifecycle Stewardship Review — Portable Module v1.0
 
-**Version:** 0.3
-**Status:** GRADUATION-CANDIDATE / PMEDG DEVELOPMENT / NOT YET GRADUATED
+**Version:** 1.0
+**Status:** GRADUATED PORTABLE MODULE / SPECIFICATION-LEVEL TRANSFER VALIDATED
 **Origin:** Extracted from Concord Lifecycle Stewardship and Successor-State research
 **Method:** PMEDG v1.3 — Route B: Research-First Emergent Portability
 **Date:** September 2026
@@ -557,15 +557,9 @@ Formal PMEDG evidence:
 - Cross-Test Convergence Assessment 001: **STRONG CONVERGENCE**.
 - A third blind transfer test was found not materially justified at this stage.
 
-**Current status: Graduation-Candidate v0.3 / NOT YET GRADUATED / BTT001 PASS STRONG / BTT002 PASS STRONG / CROSS-TEST CONVERGENCE STRONG.**
+**Current status: GRADUATED PORTABLE MODULE v1.0 / SPECIFICATION-LEVEL TRANSFER VALIDATED.**
 
 
-# 31. Graduation-candidate freeze
+# 31. Release and validation status
 
-Version 0.3 intentionally introduces no new portable mechanism beyond the evidence-supported v0.2 specification.
-
-Its purpose is to freeze the stable candidate for formal Graduation Review.
-
-Any substantive mechanism change after this point should be treated as a new revision requiring proportionate re-evaluation.
-
-**Next PMEDG stage: Graduation Review.**
+This v1.0 release preserves the substantive Graduation-Candidate v0.3 mechanism. Formal PMEDG BTT001 and BTT002 both passed with strong structural transfer, cross-test convergence was strong, and Portable-Package Graduation Review 001 passed with release authorised. Graduation establishes specification-level transfer validation, not universal correctness or completeness. Future substantive mechanism changes require proportionate re-evaluation.
