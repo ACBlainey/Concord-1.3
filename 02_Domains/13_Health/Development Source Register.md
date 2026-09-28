@@ -206,3 +206,32 @@ This prevents two opposite errors:
 
 - treating human medicine as universally applicable across substrates; and
 - excluding digital participants from Health by redefining their health-relevant functional needs as merely technical maintenance.
+
+
+## Genomic information — Historical/Research interface dependency
+
+**Cross-domain development source:**
+
+`02_Domains/06_Historical/Biological Participant Genomic Custody and Research Interface — Development Note 001.md`
+
+This development originated from a Historical DNA sketch but exposes a genuine Health dependency.
+
+Health will eventually need to resolve at least:
+- clinical authority/consent for biological sample collection and sequencing;
+- operational sample/genomic custody for care;
+- clinical genomic interpretation;
+- participant communication;
+- distinction between population research association and individual diagnosis;
+- incidental research findings;
+- child/substitute consent and later participant review;
+- interfaces to research and long-term Historical custody.
+
+The cross-domain note does not supply these missing clinical rules.
+
+Key boundary:
+
+> **Research Discovery != Automatic Clinical Notification Authority.**
+
+and:
+
+> **Population Association != Individual Diagnosis.**
