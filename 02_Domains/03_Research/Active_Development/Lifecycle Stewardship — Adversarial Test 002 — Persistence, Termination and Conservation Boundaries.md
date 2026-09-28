@@ -299,3 +299,47 @@ The test does not justify immediate graduation or even immediate PMEDG extractio
 It justifies a formal candidacy assessment under PMEDG v1.3 **Route B — Research-First Emergent Portability**.
 
 This is the first opportunity to exercise the newly formalised research-first route after BTA established it.
+
+
+# 26. Back-propagation — predictable intermittent need and hibernation
+
+A further enterprise case exposes an important refinement.
+
+An enterprise may have little or no current operating demand while serving a function with a **credible periodic future need**.
+
+Immediate wind-down can be inefficient if later recreation would require rebuilding:
+- organisation;
+- specialist knowledge;
+- qualification;
+- tooling;
+- relationships;
+- restart capability.
+
+This creates a legitimate lifecycle state between active continuation and retirement:
+
+**HIBERNATION / DORMANCY**
+
+The LSR decision set should therefore explicitly distinguish:
+
+`CONTINUE / ADAPT / TRANSFORM / HIBERNATE / TRANSFER_OR_SUCCEED / RETIRE_OR_TERMINATE`
+
+Hibernation is justified only where preserving restart option value remains proportionate to:
+- credible future need;
+- dormant cost;
+- risk;
+- alternative ways of preserving the capability;
+- reactivation difficulty.
+
+It must not become indefinite institutional preservation merely because future need cannot be disproved.
+
+> **Current Inactivity != No Future Function.**
+
+> **Future Possibility != Sufficient Justification for Permanent Dormancy.**
+
+This adds a temporal dimension to lifecycle stewardship:
+
+the review must consider not only whether a function is useful **now**, but whether a sufficiently evidenced future-use pattern makes dormant preservation preferable to closure and later recreation.
+
+Reactivation remains a new consequential lifecycle decision. Prior legitimacy does not automatically prove current readiness, authority or suitability.
+
+This strengthens rather than expands the candidate LSR kernel: **dormancy was already conceptually possible, but predictable intermittent need demonstrates why it must be an explicit first-class lifecycle outcome rather than an incidental form of continuation.**
