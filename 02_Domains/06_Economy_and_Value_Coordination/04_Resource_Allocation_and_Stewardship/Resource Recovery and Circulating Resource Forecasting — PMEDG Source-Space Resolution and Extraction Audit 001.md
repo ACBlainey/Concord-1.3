@@ -4,7 +4,7 @@
 **Project:** The Concord Framework  
 **Framework Version:** Concord V1.3  
 **Method:** PMEDG v1.3 — Route B: Research-First Emergent Portability  
-**Status:** FORMAL SOURCE-SPACE RESOLUTION AND EXTRACTION AUDIT / NON-CANONICAL  
+**Status:** PMEDG CANDIDATE BOUNDARY STUDY / EXTRACTION DEFERRED / NON-CANONICAL  
 **Date:** September 2026
 
 ---
@@ -446,9 +446,9 @@ R2 likewise must preserve uncertainty:
 
 ---
 
-# 12. Extraction decision
+# 12. Candidate-boundary decision
 
-The source architecture supports **two separate PMEDG Route-B candidates**:
+The source architecture supports flagging **two separate PMEDG Route-B candidates for possible later extraction**:
 
 # **R1 — Resource Recovery and Recirculation**
 
@@ -475,24 +475,27 @@ The combined R3 loop remains a valuable Concord composition but is not currently
 
 ---
 
-# 13. Recommended PMEDG progression
+# 13. PMEDG progression — explicitly deferred
 
-Proceed independently:
+Do **not** extract either candidate at this stage.
 
-## R1
+Record for later PMEDG work:
 
-**Portable Specification v0.1**
-→ frozen non-Concord blind transfer test
-→ independent response
-→ post-test evaluation.
+- **R1 — Resource Recovery and Recirculation:** FLAGGED PMEDG ROUTE-B CANDIDATE / EXTRACTION DEFERRED.
+- **R2 — Circulating Resource Forecasting:** FLAGGED PMEDG ROUTE-B CANDIDATE / EXTRACTION DEFERRED.
+- **R3 — Combined Lifecycle Resource Loop:** retain as Concord composition; not currently preferred as a portable extraction boundary.
 
-## R2
+No Portable Specification v0.1 should be created from this work now.
 
-Develop **Portable Specification v0.1** separately.
+No formal blind transfer test should be prepared or run now.
 
-Formal blind testing may proceed after R1 test preparation or in parallel if operationally convenient, but evidence must remain candidate-specific.
+No PMEDG candidate archive should be created or source material moved on the basis of this study.
 
-Do not allow success of one candidate to validate the other.
+The current resource-domain development should remain intact and continue serving its Concord function.
+
+When PMEDG extraction is intentionally resumed later, this study can be used as prior research evidence and boundary guidance, but the later extraction pass must still apply the then-current PMEDG method and recheck relevant source state.
+
+> **Candidate Identification != Extraction Instruction.**
 
 ---
 
@@ -512,14 +515,18 @@ Shared source files may legitimately evidence both R1 and R2.
 
 # 15. Current status
 
-**Formal source-space resolution:** COMPLETE FOR EXTRACTION.
+**Candidate boundary/source study:** COMPLETE FOR CURRENT DEVELOPMENT PURPOSES.
 
-**R1 Resource Recovery and Recirculation:** ADVANCE TO PORTABLE SPECIFICATION v0.1.
+**R1 Resource Recovery and Recirculation:** FLAGGED PMEDG CANDIDATE / EXTRACTION DEFERRED.
 
-**R2 Circulating Resource Forecasting:** ADVANCE TO PORTABLE SPECIFICATION v0.1.
+**R2 Circulating Resource Forecasting:** FLAGGED PMEDG CANDIDATE / EXTRACTION DEFERRED.
 
-**R3 Combined Lifecycle Resource Loop:** DO NOT EXTRACT AS PRIMARY MODULE AT THIS STAGE.
+**R3 Combined Lifecycle Resource Loop:** RETAIN AS CONCORD COMPOSITION / NOT CURRENTLY PREFERRED AS EXTRACTION BOUNDARY.
 
-**Formal blind transfer evidence:** NONE YET.
+**Portable specifications:** NOT CREATED.
+
+**Formal blind transfer evidence:** NONE.
+
+**PMEDG extraction work:** DEFERRED UNTIL EXPLICITLY REOPENED.
 
 **Graduation:** NOT ESTABLISHED.
