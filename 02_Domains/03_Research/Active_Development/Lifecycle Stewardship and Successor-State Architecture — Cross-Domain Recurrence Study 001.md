@@ -484,3 +484,42 @@ This has now been developed provisionally at:
 This test strengthens the successor-state method because the topology prediction found a real interface gap while ESCP prevented the surrounding pre-existing architecture from being misclassified as new.
 
 > **Topology Can Predict a Missing Transition Without Proving the Surrounding Concepts Are Missing.**
+
+
+---
+
+# 26. Infrastructure adversarial-test back-propagation
+
+Infrastructure Lifecycle Adversarial Test 001 materially refines the Successor-State hypothesis.
+
+The test found that a consequential object may occupy several successor dimensions simultaneously.
+
+Example:
+
+`<OperationalState=RETIRED, StewardshipState=ACTIVE, PhysicalState=IN_PLACE, LogicalAccessState=REVOKED, HistoricalState=PRESERVED>`
+
+Therefore:
+
+> **Successor State May Be Multidimensional Rather Than Singular.**
+
+A universal single-state sequence such as ACTIVE → RETIRED → ARCHIVED would lose important information.
+
+The more defensible candidate abstraction is:
+
+`SuccessorStateVector(Object) = <FunctionalState, ResponsibilityState, AuthorityState, PhysicalOrSubstrateState, TransitionState, HistoricalState, ResourceState>`
+
+Not every domain requires every dimension.
+
+Additional findings:
+- successor availability is not successor reliability;
+- transitions may require rollback until an explicit irreversibility threshold;
+- operational retirement can precede stewardship retirement;
+- the successor may be continuation of function through a different asset rather than continuation of the object;
+- retirement may occur contextually while the object remains usable elsewhere;
+- retirement plans themselves require validation where consequence warrants.
+
+The candidate cross-domain rule is therefore refined:
+
+> **When a consequential bounded function or object changes active state, determine the legitimate successor state or state-vector for each material dimension; preserve surviving value, obligations and provenance; terminate authority that has lost its function; release or recover resources that no longer need to remain bound; and preserve reversibility until justified transition confidence makes irreversibility appropriate.**
+
+This remains a research finding, not a graduated Concord law.
