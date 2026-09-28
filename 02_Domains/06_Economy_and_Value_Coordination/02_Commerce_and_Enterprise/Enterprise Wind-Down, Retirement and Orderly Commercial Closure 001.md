@@ -647,3 +647,175 @@ Shared principle:
 For enterprises, recovery may involve people, assets, knowledge and resources.
 
 For products, recovery may involve whole-product reuse, components and materials.
+
+
+---
+
+# 29. Enterprise hibernation / dormant operation
+
+Subsequent Lifecycle Stewardship development identifies an important alternative to renewal, succession or retirement.
+
+Some enterprises exist around functions with **predictable intermittent demand**.
+
+Examples may include:
+- seasonal or periodic activity;
+- specialised capability needed only at known intervals;
+- reserve or contingency functions;
+- cyclical production;
+- mission-specific capability with a credible future reuse window;
+- infrastructure/support enterprises whose demand falls to near zero between recurring operating periods.
+
+Where a future need is sufficiently credible, repeatedly winding the enterprise down and recreating it may waste:
+- organisational knowledge;
+- qualification;
+- trusted relationships;
+- tooling;
+- licences/permissions where legitimately retainable;
+- specialist capability;
+- restart time;
+- resources required for repeated formation and closure.
+
+Therefore:
+
+> **Temporary Absence of Current Demand != Permanent End of Useful Function.**
+
+A legitimate lifecycle option is **HIBERNATION / DORMANCY**.
+
+## 29.1 Hibernation is not ordinary operation
+
+A dormant enterprise should not be represented as fully active merely because it continues to exist.
+
+Candidate distinction:
+
+`ACTIVE → HIBERNATION_REVIEW → DORMANT → REACTIVATION_REVIEW → ACTIVE`
+
+with retirement remaining available:
+
+`DORMANT → RETIREMENT_REVIEW → WIND_DOWN / CLOSURE`
+
+The exact states remain provisional.
+
+## 29.2 Conditions supporting hibernation
+
+Hibernation may be reasonable where:
+
+1. the current operating need has materially reduced or temporarily ended;
+2. there is a credible future window or recurring pattern of need;
+3. preserving the enterprise/capability is more efficient or resilient than repeated dissolution and recreation;
+4. dormant-state costs and risks are proportionate;
+5. obligations can still be satisfied;
+6. required accountability remains reachable;
+7. permissions retained during dormancy remain independently justified;
+8. the enterprise has a credible reactivation pathway;
+9. dormant status is reviewable rather than automatically permanent.
+
+> **Dormancy Should Preserve Restart Value Without Pretending Current Operational Need Exists.**
+
+## 29.3 What may persist during dormancy
+
+Depending on domain and legitimate authority, a dormant enterprise may preserve:
+
+- legal/organisational identity;
+- essential records;
+- knowledge and procedures;
+- selected equipment/resources;
+- qualifications or capability evidence;
+- bounded contractual relationships;
+- accountability contacts;
+- reserve funds;
+- reactivation plans;
+- Historical provenance.
+
+This does not mean every active permission or resource remains bound.
+
+## 29.4 What may sunset or reduce
+
+Dormancy may appropriately terminate, suspend or reduce:
+
+- ordinary operating authority;
+- routine resource allocations;
+- active staffing;
+- procurement authority;
+- production permissions;
+- data/system access;
+- active service commitments;
+- infrastructure use;
+- other bindings justified only by current operation.
+
+> **Preservation of Enterprise Identity != Preservation of Every Active Permission.**
+
+## 29.5 Reactivation
+
+Reactivation should not be assumed merely because the enterprise was previously legitimate.
+
+Material changes may have occurred during dormancy:
+- regulations;
+- technology;
+- participant qualifications;
+- equipment condition;
+- safety requirements;
+- market need;
+- resource availability;
+- dependencies;
+- ownership/control;
+- security conditions.
+
+Therefore:
+
+> **Prior Operational Legitimacy != Automatic Reactivation Legitimacy.**
+
+Where consequence warrants, reactivation should validate the conditions that must still be true before active operation resumes.
+
+## 29.6 Dormancy review and expiry
+
+Hibernation can itself become institutional persistence without function.
+
+A dormant enterprise should therefore have a review basis such as:
+- expected next-use window;
+- periodic need evidence;
+- maximum justified dormant cost;
+- capability criticality;
+- reactivation feasibility;
+- changed alternatives;
+- retirement trigger if expected need disappears.
+
+> **Dormancy Is a Lifecycle State, Not an Escape From Lifecycle Review.**
+
+## 29.7 Relationship to Continuity and KCS
+
+Hibernation parallels existing Concord distinctions between:
+- active capability;
+- dormant/recoverable capability;
+- archived capability.
+
+Continuity can inform whether preserving restart capability has sufficient value.
+
+KCS/Historical can preserve knowledge/provenance without requiring active enterprise operation.
+
+Commerce remains responsible for the enterprise-specific lifecycle state.
+
+## 29.8 Relationship to BTA
+
+A move into or out of consequential enterprise dormancy may require BTA where several independently owned states change asynchronously.
+
+BTA represents the transition.
+
+It does not decide whether hibernation or reactivation is economically, legally or operationally justified.
+
+## 29.9 Lifecycle refinement
+
+The enterprise lifecycle should therefore not be treated as only:
+
+`Operate → Adapt / Succeed / Retire`
+
+but as including:
+
+`Operate → Continue / Adapt / Transform / Hibernate / Succeed / Retire`
+
+and:
+
+`Hibernate → Reactivate / Continue Dormancy / Transform / Succeed / Retire`
+
+This preserves a legitimate middle state for functions whose **need is discontinuous but predictably recurrent**.
+
+> **Intermittent Need Can Justify Intermittent Operation Without Requiring Repeated Institutional Death and Rebirth.**
