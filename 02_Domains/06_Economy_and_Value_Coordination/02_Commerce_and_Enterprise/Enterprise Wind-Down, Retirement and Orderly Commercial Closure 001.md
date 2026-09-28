@@ -1056,3 +1056,50 @@ Its recoverable existence can partly reside in:
 This permits a low-resource dormant state while avoiding unnecessary permanent destruction of useful organisational capability.
 
 > **An Enterprise Can Persist as a Reconstructable Capability Without Persisting as a Fully Assembled Operating System.**
+
+
+## 30.12 Legacy Ladder reconstruction basis
+
+The Legacy Ladder provides the deeper continuity model for enterprise deconstruction.
+
+Its founding Apollo/Saturn V example demonstrates why preserving plans alone does not preserve technological capability. A reconstructable capability may depend on:
+- tacit knowledge;
+- specialised tooling;
+- manufacturing processes;
+- test/measurement systems;
+- materials;
+- supplier/dependency knowledge;
+- skills and training routes;
+- compatible software/interfaces;
+- infrastructure;
+- practical experience.
+
+Therefore an Enterprise Reconstruction Map should not ask only:
+
+**Do we have the design?**
+
+It should ask:
+
+**What is the highest practical reconstruction rung that must survive so that reactivation does not require rebuilding the capability from an unnecessarily low rung of the technological ladder?**
+
+This creates a direct interface:
+
+`Lifecycle Stewardship → Legacy Ladder Analysis → Reconstruction Basis → Deconstruction Plan → Resource Release`
+
+The Legacy Ladder identifies what continuity substrate is materially important.
+
+Lifecycle Stewardship decides whether preserving that reconstruction option is justified.
+
+Resource Stewardship determines legitimate reuse/reallocation/recovery of released resources.
+
+BTA represents consequential state changes across those independently owned systems.
+
+A Saturn-V-like programme illustrates the distinction. A capability could potentially be mothballed without leaving every factory, tool and resource idle indefinitely if its deconstruction deliberately preserved a sufficient reconstruction basis. The adequacy of that basis would depend on more than drawings: the relevant ladder of knowledge, skill, tooling, infrastructure and dependencies would have to remain preserved or reproducible.
+
+> **Mothballing a Capability Should Preserve the Required Reconstruction Ladder, Not Necessarily the Entire Assembled System.**
+
+This also gives the reconstruction threshold a more precise meaning:
+
+> **A Deconstruction Crosses the Reconstruction Threshold When It Removes a Required Ladder Rung Without Preserving a Credible Alternative Route Around It.**
+
+The threshold is therefore capability- and dependency-specific rather than merely a percentage of assets retained.
