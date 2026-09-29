@@ -622,6 +622,195 @@ Absence of detected harm is not equivalent to evidence that no harm exists.
 
 ---
 
+## 8. Environmental Metrics and Historical Record Interface
+
+Environmental understanding requires both a current observational layer and a durable temporal record.
+
+The preferred relationship is:
+
+**Environment domain semantics -> Environmental observation/measurement -> Metrics and State Observation -> KCS current knowledge/provenance -> Historical temporal custody and reconstruction**
+
+These functions must remain distinct.
+
+### 8.1 Environment owns environmental meaning
+
+Environment and Habitat Stewardship should define:
+
+- which environmental subjects/functions require observation;
+- which environmental dimensions are relevant;
+- what a measurement represents;
+- appropriate spatial and temporal resolution;
+- confidence/uncertainty requirements;
+- domain-specific materiality;
+- environmental dependencies relevant to interpretation; and
+- when a metric is no longer an adequate representation of the environmental function it was intended to observe.
+
+Environment should not create a parallel generic metrics architecture.
+
+### 8.2 Metrics supplies current environmental observation
+
+The existing Metrics and State Observation architecture should provide the general measurement framework for environmental metrics.
+
+Environmental metrics may include, where relevant:
+
+- habitat extent and connectivity;
+- environmental condition;
+- water quantity/quality;
+- soil condition;
+- atmospheric conditions;
+- biodiversity observations;
+- population or distribution observations;
+- resource flows;
+- contamination/pollution;
+- recovery/restoration indicators;
+- environmental service/function indicators;
+- cross-layer effects;
+- trend and rate-of-change measures; and
+- confidence, coverage and measurement limitations.
+
+This list is illustrative, not a universal mandatory metric set.
+
+The environmental domain supplies the meaning and validity conditions of these observations. Metrics supplies the measurement/state-observation architecture.
+
+> **Metric != Environment.**
+
+> **Measured value != complete environmental state.**
+
+> **Metric change != automatic environmental judgement.**
+
+> **Metric threshold crossed != automatic authority to intervene.**
+
+Metrics should support environmental legibility rather than become environmental targets merely because they are measurable.
+
+### 8.3 Historical supplies environmental temporal custody
+
+Historical should preserve consequential environmental records as part of the interpretable civilisational past.
+
+This includes, where proportionate and legitimate:
+
+- historical environmental observations;
+- environmental baselines;
+- maps and classifications;
+- habitat state;
+- environmental metrics and their definitions;
+- monitoring methods;
+- measurement coverage and limitations;
+- confidence and uncertainty;
+- significant environmental events;
+- contamination/degradation records;
+- restoration/recovery history;
+- major interventions and their observed consequences;
+- changing models and interpretations;
+- known dependencies;
+- unresolved environmental questions; and
+- the evaluation space available when earlier conclusions were reached.
+
+Historical preservation should allow later participants to distinguish:
+
+**What the environment was -> what was observed -> what was represented as known -> what remained unknown -> what interpretation was made -> what action followed -> what later evidence changed.**
+
+Historical does not become environmental truth authority merely because it preserves the record.
+
+> **Historical environmental record != current environmental state.**
+
+> **Past classification != present classification.**
+
+> **Historical baseline != automatically desirable baseline.**
+
+> **Preserved observation != permanent interpretation.**
+
+### 8.4 Environmental baseline as a temporal object
+
+An environmental baseline should not be treated as a timeless fixed truth.
+
+A baseline is a provenance-bearing representation of environmental state in a specified context and period.
+
+Conceptually:
+
+**Environmental Baseline = <Subject, Time/Period, Observations, Metric Definitions, Methods, Spatial/Vertical Scope, Evidence, Confidence, Known Gaps, Evaluation Space, Provenance>**
+
+Later evidence may show that a historical baseline was incomplete or already represented a degraded state.
+
+Historical should preserve the original baseline and its limitations while current Environment/KCS state records the later correction or reinterpretation.
+
+> **Baseline != Natural State.**
+
+> **Baseline != Healthy State.**
+
+> **Current Normal != Historical Normal != Desired State.**
+
+### 8.5 Longitudinal environmental understanding
+
+The Metrics-Historical connection allows Environment to reason across time rather than from isolated snapshots.
+
+A general flow is:
+
+**Environmental subject -> repeated observations -> comparable metric series -> state/trend interpretation -> Historical preservation -> later comparison/reconstruction -> revised understanding -> current KCS/Environment update**
+
+This can expose:
+
+- gradual degradation;
+- recovery;
+- seasonal patterns;
+- shifting baselines;
+- cumulative effects;
+- delayed effects;
+- changing habitat boundaries;
+- changing dependencies;
+- intervention outcomes; and
+- failures in earlier measurement models.
+
+Historical records may therefore become evidence for current environmental investigation without automatically becoming current truth.
+
+### 8.6 Metric-definition history
+
+Environmental measurements are only comparable through time when their definitions, methods, coverage and uncertainty are sufficiently understood.
+
+Historical should therefore preserve consequential changes to:
+
+- metric definitions;
+- instruments/sensors;
+- sampling methods;
+- spatial coverage;
+- temporal frequency;
+- models;
+- classification systems;
+- confidence methods; and
+- known measurement defects.
+
+A numerical time series without this provenance can create false continuity.
+
+> **Same metric name != same measurement basis.**
+
+> **Comparable number != necessarily comparable observation.**
+
+Where a method changes materially, KCS Change Propagation can identify conclusions, baselines or trend interpretations requiring review.
+
+### 8.7 Environmental memory and ESCP
+
+Historical environmental records are particularly important under ESCP.
+
+A dimension not recognised as important today may become important later. Preserved provenance-bearing observations may allow future participants to reconstruct or re-evaluate earlier environmental states using a richer evaluation space.
+
+This does not justify unlimited environmental data retention. It does justify preserving consequential environmental records with enough context that future reinterpretation remains possible where proportionate.
+
+> **Present inability to identify environmental significance != proof of future irrelevance.**
+
+### 8.8 Interface ownership
+
+The division of responsibility is therefore:
+
+- **Environment:** environmental meaning, subject/function/state semantics, domain evidence requirements and interpretation.
+- **Metrics and State Observation:** general observation/measurement architecture.
+- **KCS:** current knowledge state, provenance, models, evidence relationships and revision.
+- **Historical:** temporal custody, historical state, reconstruction and preservation of past evaluation-space limits.
+- **STRA:** review triggers when represented environmental state/evidence changes materially.
+- **KCS Change Propagation:** bounded reconsideration of dependent conclusions when evidence, metrics or methods change.
+
+This is a distributed architecture, not a reason to centralise environmental information in one system.
+
+---
+
 ## 8. Three-dimensional contextual planning interface
 
 The recent development note establishes a major cross-domain interface.
@@ -724,13 +913,14 @@ The next development work should proceed in this order:
 1. **Environmental/habitat subject model.**
 2. **Environmental function and dependency representation.**
 3. **Environmental state/baseline/evidence model.**
-4. **Monitoring interface to KCS/SMM/STRA.**
-5. **Impact and compatibility representation, including three-dimensional cross-layer effects.**
-6. **Materiality/review interface.**
-7. **Restoration/recovery/equivalence semantics.**
-8. **Commons stewardship interface.**
-9. **Cross-domain binding to Spatial Planning, Infrastructure, Economy/Resource Stewardship, Health, Research, Historical, Governance/Judiciary/Law and Intercivilisational Relations.**
-10. **Planetary/off-world applicability test.**
+4. **Environmental Metrics interface and Historical environmental-record interface.**
+5. **Monitoring interface to KCS/SMM/STRA.**
+6. **Impact and compatibility representation, including three-dimensional cross-layer effects.**
+7. **Materiality/review interface.**
+8. **Restoration/recovery/equivalence semantics.**
+9. **Commons stewardship interface.**
+10. **Cross-domain binding to Spatial Planning, Infrastructure, Economy/Resource Stewardship, Health, Research, Historical, Governance/Judiciary/Law and Intercivilisational Relations.**
+11. **Planetary/off-world applicability test.**
 
 Only after these functions are source-resolved and represented should detailed regulation or management rules be developed.
 
