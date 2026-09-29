@@ -14,9 +14,11 @@ Environmental commons are managed by Concord as steward on behalf of participant
 
 Environment and Habitat Stewardship is a **composition-first domain**.
 
-Substantial generic operating architecture already exists elsewhere in Concord for knowledge/provenance, state representation, review triggers, dependency propagation, contextual boundaries, permissions, bounded capability, cross-boundary externalities, transitions, lifecycle review, continuity and participant reporting.
+Substantial generic operating architecture already exists elsewhere in Concord for knowledge/provenance, metrics and state observation, Historical temporal custody, state representation, review triggers, dependency propagation, contextual boundaries, permissions, bounded capability, cross-boundary externalities, transitions, lifecycle review, continuity and participant reporting.
 
 The principal remaining local work is the environmental semantic layer: environmental/habitat subjects, functions and dependencies, state/baseline semantics, evidence and monitoring requirements, impact/materiality, compatibility, restoration/recovery/equivalence and commons-stewardship interfaces.
+
+Environmental observations should bind to the existing Metrics and State Observation architecture for current measurement and to Historical for durable environmental records, baselines and temporal reconstruction. Environment supplies environmental meaning; Metrics supplies observation architecture; KCS preserves current knowledge/provenance; Historical preserves interpretable environmental state across time.
 
 > **Observation != Classification != Understanding != Evaluation != Intervention != Authority**
 
