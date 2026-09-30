@@ -47,6 +47,33 @@ Test 002 therefore records exact artifact identity before evaluation.
 
 ---
 
+## 2A. Verified Evaluator Provenance
+
+The test operator has subsequently supplied the following runtime provenance:
+
+- **Test 001 evaluator:** DeepSeek, **DeepThink mode**
+- **Test 002 evaluator:** DeepSeek, **DeepThink mode**
+
+Therefore Test 001 -> Test 002 is a **same-model / same-reasoning-mode pre/post revision comparison**.
+
+It is **not** cross-model replication.
+
+The Test 002 evaluator report contains the self-identification:
+
+> **Evaluator/model if known: Claude (Anthropic)**
+
+The test operator has confirmed that this self-identification is incorrect. The evaluator output must remain preserved unchanged as evidence; the incorrect line must not be silently rewritten.
+
+This establishes an additional provenance invariant:
+
+> **Evaluator Self-Identification != Verified Runtime Provenance**
+
+Where runtime/model identity matters, provenance should be recorded externally by the test operator or execution environment rather than inferred from the evaluator's own generated account.
+
+The cause of the incorrect Claude self-identification is presently **UNKNOWN**. Earlier Claude-related Concord testing may be a possible source of contextual contamination, but this has not been established and must not be recorded as fact.
+
+---
+
 ## 3. Files To Supply To Clean Evaluator
 
 Supply only:
