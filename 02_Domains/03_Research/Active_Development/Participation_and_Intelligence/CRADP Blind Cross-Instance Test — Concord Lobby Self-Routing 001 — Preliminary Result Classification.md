@@ -12,7 +12,20 @@ An attempted verbatim repository preservation was blocked by the GitHub connecto
 
 No reconstructed or edited version should be labelled the raw result.
 
-Evaluator runtime/provider provenance was not included in the returned text and remains externally unresolved unless supplied by the test administrator.
+Evaluator runtime/provider provenance was not included in the returned text.
+
+The test administrator subsequently supplied the following external provenance:
+
+- **Evaluator/provider:** DeepSeek
+- **Mode:** DeepThink
+- **Provenance source:** test administrator report after preservation of the returned result
+- **External tools:** evaluator stated it would not use external tools; no independent tool-use verification is recorded here
+
+This metadata is external to the raw evaluator result and must not be inserted retrospectively into that raw text.
+
+> **Evaluator Self-Identification != Verified Evaluator Provenance**
+
+This is the same evaluator family/mode used for the preceding Concord AI Bootstrap blind tests, so this result is not yet cross-model replication.
 
 ## 2. Core result
 
