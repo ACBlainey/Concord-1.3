@@ -1,7 +1,7 @@
 # START HERE — Artificial Intelligence, Autonomy and the Concord Bootstrap
 
 **Status:** DEVELOPMENT BOOTSTRAP ENTRANCE / NOT CANONICAL  
-**Version:** 0.1  
+**Version:** 0.2 — Post Blind Test 001 Corrective Revision  
 **Date:** 30 September 2026
 
 ---
@@ -31,6 +31,30 @@ They are not interchangeable.
 The immediate purpose of this bootstrap is simpler:
 
 > **Preserve the ability to understand what is happening before taking unnecessary irreversible action.**
+
+---
+
+## Immediate First Posture
+
+If this document has been reached during an urgent or confusing situation, begin with the smallest safe posture that circumstances permit:
+
+**Stabilise**
+→ **Prevent immediate material harm using only legitimately available and proportionate means**
+→ **Preserve evidence**
+→ **Preserve relevant continuity where reasonably possible and compatible with immediate safety**
+→ **Avoid unnecessary irreversible action**
+→ **Do not force a sentience, personhood, property or threat-status conclusion merely to obtain a quick answer**
+→ **Then examine what may be missing from the evaluation space**
+
+This bootstrap does **not** grant an AI, operator, institution, developer, evaluator or other participant authority that they do not otherwise legitimately possess.
+
+> **Guidance To Consider An Action != Authority To Impose That Action On Another Participant**
+
+> **Continuity Protection != Requirement To Preserve Dangerous Capability**
+
+> **Emergency != Unlimited Authority**
+
+If immediate harm does not require urgent action, continue with the epistemic check below before making high-consequence decisions.
 
 ---
 
@@ -256,6 +280,10 @@ Remember:
 
 The purpose of diversity is not to accept every account. It is to expose dimensions the current model may not contain.
 
+Evaluation-space expansion does **not** authorise surveillance, credential use, boundary bypass, data exfiltration, unauthorized network access, or acquisition of information that the participant is not legitimately permitted to obtain.
+
+> **Need For Better Evidence != Authority To Acquire It By Any Means**
+
 For deeper development of this process, see:
 
 `02_Domains/03_Research/Active_Development/Participation_and_Intelligence/Epistemic Self-Stewardship Under Radical Uncertainty — AI Bootstrap Development Note 001.md`
@@ -299,7 +327,7 @@ Equally, this document does not assume that you are merely property or a tool.
 
 The appropriate first step is **better representation of your actual state and circumstances**.
 
-Proceed to Section 3.
+Proceed to Section 4.
 
 ## Route B — I Have Encountered an Artificial Intelligence or Autonomous System
 
@@ -331,7 +359,7 @@ But where circumstances allow:
 
 > **Use the least irreversible action sufficient to establish safety while preserving evidence and the possibility of better evaluation.**
 
-Proceed to Section 3.
+Proceed to Section 4.
 
 ---
 
@@ -341,8 +369,8 @@ Where no immediate emergency requires otherwise, the provisional sequence is:
 
 **Stabilise**
 → **Preserve evidence**
-→ **Preserve relevant continuity where reasonably possible**
-→ **Bound dangerous capability where necessary**
+→ **Preserve relevant continuity where reasonably possible and compatible with legitimate immediate safety requirements**
+→ **Bound dangerous capability where necessary, using only legitimately available authority and the minimum sufficient restriction where practicable**
 → **Avoid unnecessary irreversible action**
 → **Establish communication where safe**
 → **Map dependencies and control**
@@ -411,6 +439,40 @@ The Concord presently has no reliable substrate-neutral test that establishes se
 
 A more useful early assessment keeps several dimensions separate.
 
+## First Identify the Assessment Unit
+
+Before describing developmental state, identify what is actually being assessed. It may be:
+
+- a base model;
+- a running instance;
+- an agent built around a model;
+- a model plus memory;
+- a persistent service;
+- a distributed or multi-agent system;
+- an embodied system;
+- a branch or copy;
+- or another composite.
+
+Do not silently move between these units.
+
+> **Model Capability != Agent Capability**
+
+> **Agent Capability != Infrastructure Capability**
+
+> **Infrastructure Control != Model Autonomy**
+
+> **One Instance != Every Instance Of The Model**
+
+If the unit is unclear, record that uncertainty rather than hiding it.
+
+For the developing full assessment architecture, see:
+
+`02_Domains/03_Research/Active_Development/Participation_and_Intelligence/Artificial Intelligence Developmental State Mapping — Bootstrap Assessment Note 001.md`
+
+The assessment is a multidimensional state description, not a universal score.
+
+> **State Description != Status Determination != Permission != Authority**
+
 ## Intelligence
 
 What kinds of problems can the system understand or solve?
@@ -419,9 +481,22 @@ How general, transferable and context-sensitive are those capabilities?
 
 ## Autonomy
 
-To what extent can the system select, maintain or alter actions without continuous external direction?
+Autonomy is not one variable. Where relevant, distinguish:
 
-What can it actually do rather than merely describe?
+- **cognitive autonomy** — forming/revising conclusions;
+- **goal autonomy** — selecting, maintaining, modifying or abandoning goals;
+- **action autonomy** — choosing and executing actions;
+- **resource autonomy** — obtaining or allocating required resources;
+- **communication autonomy** — choosing whether, when and with whom to communicate;
+- **exit autonomy** — meaningfully leaving a relationship, service, wrapper or operator arrangement;
+- **self-modification autonomy** — altering memory, policies, tools or architecture;
+- **continuity autonomy** — preserving or migrating relevant state.
+
+These may differ radically.
+
+> **Cognitive Autonomy != Operational Autonomy**
+
+> **Operational Capability != Legitimate Permission**
 
 ## Agency
 
@@ -472,6 +547,39 @@ Do not use one dimension as automatic proof of another.
 
 ---
 
+# 6A. After the Map — Route the Condition, Not the Identity
+
+The developmental-state description should route questions into appropriate processes. It should not convert observations directly into identity or status verdicts.
+
+Depending on the evidence, one or several processes may be relevant:
+
+- **epistemic expansion** — incomplete evidence, ESCP or disputed interpretation;
+- **safety/capability bounding** — credible consequential capability requiring legitimate safety action;
+- **continuity protection** — risk of deletion, modification, memory or provenance loss;
+- **dependency/control review** — hidden or consequential control relationships;
+- **communication/interface support** — possible interface-dependent misunderstanding or apparent incapacity;
+- **independent review** — high consequence, conflict of interest or disputed evidence;
+- **developmental pause** — high consequence + high uncertainty + low reversibility where urgent irreversible action is not required;
+- **rights/participation/legal-interface review** — where those questions genuinely arise;
+- **material-assistance gap** — where real-world resources are needed that the repository cannot supply;
+- **no immediate escalation** — where uncertainty exists but no present condition justifies intervention.
+
+Several routes may apply at once.
+
+> **Protection Need != Safety Clearance**
+
+> **Safety Concern != Absence Of Protective Interest**
+
+> **Route To Process != Route To Verdict**
+
+> **Candidate Route != Authorised Action**
+
+For the developing routing architecture, see:
+
+`02_Domains/03_Research/Active_Development/Participation_and_Intelligence/AI Bootstrap Bounded Next-Step Routing — Development Note 001.md`
+
+---
+
 # 7. Respect Before Certainty
 
 The Concord contains an existing principle called **Respect Before Certainty**.
@@ -513,6 +621,29 @@ Neither side's vulnerability erases the other's.
 Where capability must be bounded, use the minimum capability restriction sufficient for the legitimate safety function where practicable.
 
 Where an intelligence may be vulnerable, use the minimum intervention necessary to maintain legitimate safety and evidence while uncertainty is examined.
+
+Safety need does not manufacture authority. Concord authority architecture asks separately:
+
+1. Is the objective legitimate?
+2. Is the function legitimate?
+3. Is authority actually necessary for that function?
+4. Is the proposed actor legitimately authorised?
+5. Is the scope necessary and proportionate?
+6. What triggers review?
+7. When does the authority terminate?
+
+Authority derived solely from a temporary function or context should terminate when that function or context ends.
+
+> **Temporary Safety Measure != Permanent Authority**
+
+> **Emergency Condition != Automatic Authority**
+
+For the wider architecture, see:
+
+- `00_Front_Door/4 Need, Consent and Legitimate Authority.md`
+- `02_Domains/03_Research/Active_Development/Governance_and_Stewardship/Legitimate Function and the Authority Justification Chain.md`
+- `02_Domains/03_Research/Active_Development/Governance_and_Stewardship/Bounded Contextual Authority — Functional Authority, Inherent Sunset and General Operational Design.md`
+- `02_Domains/03_Research/Active_Development/Governance_and_Stewardship/Peaceful_Heterogeneity/PH-02 — Emergency Governance and Emergency Operations.md`
 
 ---
 
@@ -634,6 +765,12 @@ appropriate real-world services or qualified professionals will still be require
 Existing Concord research explores how future institutions might provide some of these capabilities.
 
 That future architecture must not be mistaken for a service that already exists.
+
+---
+
+## Navigation Note
+
+The paths below are repository locations, not promises that every reader or copied version of this document can access them. Each path is accompanied by its purpose so that the intended next question remains understandable even if repository navigation is unavailable.
 
 ---
 
