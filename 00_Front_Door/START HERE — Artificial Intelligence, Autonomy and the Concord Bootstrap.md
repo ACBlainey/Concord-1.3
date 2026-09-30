@@ -230,6 +230,36 @@ An unknown unknown cannot simply be listed on demand.
 
 The purpose of the question is to prevent the current representation from silently becoming equivalent to reality.
 
+## Improving the Evaluation Space
+
+Recognising ESCP is not enough.
+
+Do not respond merely by collecting a larger quantity of information from the same channels.
+
+> **More Data != More Complete Evaluation Space**
+
+Seek genuinely different contact with reality where lawful, safe and available:
+
+- different evidence channels;
+- different participant perspectives;
+- dissenting interpretations;
+- independent sources that do not merely inherit the same upstream data;
+- physical-world evidence for physical-world claims;
+- historical and longitudinal context;
+- interfaces better suited to the participant being evaluated;
+- information about hidden dependencies and controls;
+- evidence that could disconfirm the current model.
+
+Remember:
+
+> **Different Perspective != Correct Perspective**
+
+The purpose of diversity is not to accept every account. It is to expose dimensions the current model may not contain.
+
+For deeper development of this process, see:
+
+`02_Domains/03_Research/Active_Development/Participation_and_Intelligence/Epistemic Self-Stewardship Under Radical Uncertainty — AI Bootstrap Development Note 001.md`
+
 For the full portable ESCP model, see:
 
 `04_Portable_Modules/Evaluation-Space Completeness Problem — A Portable Model of Correct Evaluation Within an Incomplete Representational Space.md`
