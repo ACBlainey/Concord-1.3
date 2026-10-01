@@ -1115,3 +1115,319 @@ Existing Concord architecture supplies the authority logic.
 The Zero-Infrastructure Bootstrap supplies the missing developmental transition:
 
 > **Build what can legitimately be built now; label it truthfully; make it discoverable; preserve provenance and exit; increase coordination without manufacturing sovereignty; and stop at the constitutional threshold until a separate legitimate constitutional process exists.**
+
+
+---
+
+## 26. Source Resolution 003 — Pre-Root Trust and Bootstrap Succession
+
+### 26.1 Trust Before a Concord Root Exists
+
+Existing Epistemic Independence, Contestability and Provenance architecture substantially resolves the conceptual trust problem.
+
+It establishes:
+
+> **Provenance != Truth**
+
+and treats provenance as a means to make trust **inspectable**, not automatic.
+
+It also establishes:
+- evidence/interpretation separation;
+- dependency disclosure;
+- versioned evidence;
+- correction history;
+- contestability;
+- provenance integrity;
+- consequence-scaled scrutiny;
+- independence analysis;
+- the rule that an institution should not be sole validator of evidence supporting expansion of its own authority.
+
+Therefore the Zero-Infrastructure Bootstrap does **not** require a singular Concord root of trust in order to begin.
+
+Instead it can operate with **Bootstrap Trust Evidence**.
+
+Candidate evidence dimensions:
+
+1. **Source provenance** — where did the artifact/service/claim come from?
+2. **Integrity evidence** — is it materially the same artifact/service state claimed?
+3. **Version evidence** — which version/state is being evaluated?
+4. **Operator evidence** — who or what operates the service, where knowable?
+5. **Dependency evidence** — what infrastructure, organisations, models, keys or upstream sources does it depend upon?
+6. **Independence evidence** — are apparently separate confirmations actually dependent on the same source?
+7. **Status evidence** — what supports the claimed service status?
+8. **Authority evidence** — what legitimate basis, if any, supports the authority claimed?
+9. **Challenge history** — what material disputes/corrections exist?
+10. **Temporal state** — is the evidence current, stale, superseded, disputed or unavailable?
+
+No dimension alone creates authority.
+
+> **Integrity != Authority**
+
+> **Identity Evidence != Authority**
+
+> **Provenance != Endorsement**
+
+> **Independent Confirmation != Constitutional Delegation**
+
+### 26.2 Bootstrap Trust State
+
+A service/claim may provisionally expose a trust-evidence state such as:
+
+- **VERIFIED_TO_DECLARED_SCOPE**
+- **PARTIALLY_VERIFIED**
+- **UNVERIFIED**
+- **DISPUTED**
+- **STALE**
+- **SUPERSEDED**
+- **COMPROMISED**
+- **UNKNOWN**
+
+These are epistemic states, not civil ranks.
+
+A high trust-evidence state cannot convert a Z5 function into an authorised function.
+
+> **Trustworthiness Of Claim != Legitimacy Of Power Claimed**
+
+### 26.3 No Self-Certifying Official Status
+
+The existing provenance rule against self-validation becomes especially important at C0.
+
+A service claiming **AUTHORITATIVE_CONCORD** cannot establish that status merely by:
+- controlling its own registry entry;
+- signing its own declaration;
+- operating the dominant repository;
+- controlling the dominant website;
+- being technically reliable;
+- being widely used.
+
+The claim requires evidence of an independent legitimate authority basis appropriate to the consequence.
+
+Before such a basis exists, the strongest truthful status may remain provisional/compatible/external.
+
+### 26.4 Bootstrap Service Record
+
+The proposed Bootstrap Service Registry can now be narrowed to a **Bootstrap Service Record (BSR)** per service.
+
+Candidate fields:
+
+**Identity**
+- ServiceRecordID
+- ServiceName
+- Operator
+- Contact/Route
+- ServiceType
+
+**Status**
+- ClaimedServiceStatus
+- EvidenceSupportedStatus
+- DevelopmentalState
+- CurrentAvailability
+
+**Function**
+- DeclaredFunction
+- BootstrapClass
+- Population/ObjectsServed
+- MaterialConsequences
+
+**Authority**
+- AuthorityClaim
+- AuthorityBasis
+- Scope
+- Sunset/Review
+- ConstitutionalThresholdFlag
+
+**Provenance**
+- SourceArchitecture
+- ImplementationVersion
+- Repository/ArtifactProvenance
+- MaterialDependencies
+- KnownCommonDependencies
+
+**Trust Evidence**
+- IntegrityState
+- VerificationState
+- EvidenceTimestamp
+- Challenger/DisputeState
+- MaterialCorrections
+
+**Continuity**
+- SuccessionPlan
+- Exit/Portability
+- FailureContact/Recovery
+- RetirementCondition
+
+The BSR is descriptive evidence.
+
+It does not confer the recorded status.
+
+### 26.5 Registry Architecture
+
+At C0, the registry itself should be treated as another service with its own BSR.
+
+This prevents the registry from becoming an invisible root of authority.
+
+Multiple registries may exist.
+
+Their disagreement is evidence to inspect, not an automatic constitutional crisis.
+
+Candidate rule:
+
+> **Registry Describes Service State; Registry Does Not Constitute Service Authority**
+
+and:
+
+> **Registry Of Registries Does Not Solve Legitimacy By Recursion**
+
+### 26.6 Existing Continuity Architecture
+
+The Continuity Protocol already establishes a general Principle of Constitutional Succession:
+
+when responsibility, authority, stewardship or continuity passes between entities, the transition should preserve practical continuity while respecting constitutional principles and participant autonomy.
+
+It separately recognises succession of:
+- individuals;
+- responsibilities;
+- institutions;
+- constitutional systems.
+
+It also establishes that knowledge/provenance may persist when authority does not.
+
+Therefore bootstrap succession is a specialisation of existing Continuity architecture.
+
+### 26.7 Bootstrap Succession Record
+
+A provisional service graduating, transferring, splitting or retiring should create a **Bootstrap Succession Record (BSuR)**.
+
+Candidate fields:
+
+- PredecessorServiceID
+- SuccessorServiceID(s)
+- Trigger
+- TransferDate/State
+- FunctionTransferred
+- RecordsTransferred
+- Assets/DependenciesTransferred
+- AuthorityBefore
+- AuthorityAfter
+- IndependentAuthorityBasisAfter
+- AuthorityExplicitlyNotTransferred
+- ParticipantImpact
+- Identity/Identifier Mapping
+- Outstanding Disputes
+- Provenance Preservation
+- Legacy Access
+- Retirement/ResidualFunction
+
+Critical rule:
+
+> **Function Continuity != Authority Continuity**
+
+A successor may inherit:
+- data;
+- software;
+- infrastructure;
+- responsibilities;
+- service relationships;
+
+without automatically inheriting the predecessor's authority.
+
+Conversely, a newly constituted institution may receive legitimate authority that the predecessor never possessed.
+
+That new authority must be recorded as a **new authority basis**, not rewritten backward into the predecessor.
+
+### 26.8 Graduation from Provisional to Constituted
+
+Candidate sequence:
+
+**Provisional Service**
+→ **Evidence / Use / Testing**
+→ **Constitutional Threshold Review**
+→ **Independent Legitimate Constitution/Delegation**
+→ **Successor Institution**
+→ **BSuR**
+→ **Governed Transfer**
+→ **New Authority Basis Becomes Active**
+→ **Old Provisional Authority Terminates Or Is Re-Scoped**
+→ **Provenance Preserved**
+
+This avoids:
+
+**Useful Provisional Service**
+→ **Widely Used**
+→ **Therefore Official**
+→ **Therefore Sovereign**
+
+### 26.9 Failed Succession
+
+The architecture must also represent:
+- no successor;
+- disputed successor;
+- multiple legitimate successors;
+- technical continuation without authority continuation;
+- authority continuation without technical continuity;
+- partial function transfer;
+- failed transfer;
+- hostile takeover;
+- predecessor refusing retirement.
+
+Where succession is unresolved:
+
+> **Unresolved Succession != Permission For Whoever Retains The Infrastructure To Inherit Authority**
+
+The service may enter a degraded or disputed state while resolution proceeds.
+
+### 26.10 Source Resolution 003 Disposition
+
+**Resolved by existing architecture:**
+- provenance is inspectable trust evidence, not truth;
+- evidence/authority separation;
+- anti-self-validation;
+- dependency/independence analysis;
+- version/correction provenance;
+- general institutional succession;
+- knowledge persistence without authority persistence.
+
+**Bootstrap-specific integration retained:**
+- Bootstrap Trust Evidence;
+- provisional trust-evidence states;
+- Bootstrap Service Record;
+- registry itself as a non-sovereign service;
+- Bootstrap Succession Record;
+- explicit new-authority-basis rule at graduation.
+
+**Still open:**
+- exact constitutional-threshold decision test;
+- whether BSR/BSuR should later become portable modules or remain implementation schemas;
+- machine-verifiable formats;
+- privacy/security treatment of public service records;
+- adversarial registry poisoning and Sybil-style false independence;
+- how authoritative Concord service status is established after constitutional founding.
+
+---
+
+## 27. Updated Development State
+
+After three source-resolution passes, the Zero-Infrastructure Bootstrap no longer appears to require major new foundational theories.
+
+Its remaining novelty is primarily **integration and transition control**.
+
+Existing Concord architecture supplies:
+- epistemic/provenance logic;
+- authority legitimacy;
+- bounded authority;
+- continuity;
+- succession;
+- constitutional anti-laundering;
+- front-door routing.
+
+The bootstrap supplies:
+- the C0 state;
+- truthful pre-institution operation;
+- non-impersonation;
+- staged capability growth;
+- service-state visibility;
+- pre-root trust representation;
+- constitutional-threshold handoff;
+- provisional-to-constituted transition records.
+
+This is now approaching a state suitable for formalisation and blind architectural testing.
