@@ -1,0 +1,404 @@
+{
+  "record_meta": {
+    "succession_record_id": "BSUR-FIX-001",
+    "specification_version": "BSUR-SPEC-002",
+    "schema_version": "BSUR-SCHEMA-002",
+    "record_created_at": "2026-10-01T11:00:00Z",
+    "record_observed_at": "2026-10-01T12:00:00Z",
+    "record_updated_at": "2026-10-01T12:00:00Z"
+  },
+  "parties": [
+    {
+      "party_reference": {
+        "reference_type": {
+          "namespace": "urn:concord:bsur:core",
+          "version": "1",
+          "token": "LOCAL_REFERENCE",
+          "recognition_state": "RECOGNISED"
+        },
+        "reference_value": "PRE",
+        "verification_state": "PARTIALLY_VERIFIED",
+        "evidence_refs": [
+          "EV-1"
+        ]
+      },
+      "role": {
+        "namespace": "urn:concord:bsur:core",
+        "version": "1",
+        "token": "PREDECESSOR_SERVICE",
+        "recognition_state": "RECOGNISED"
+      },
+      "identity_evidence_refs": [
+        "EV-1"
+      ],
+      "verification_state": "PARTIALLY_VERIFIED"
+    },
+    {
+      "party_reference": {
+        "reference_type": {
+          "namespace": "urn:concord:bsur:core",
+          "version": "1",
+          "token": "LOCAL_REFERENCE",
+          "recognition_state": "RECOGNISED"
+        },
+        "reference_value": "SUC",
+        "verification_state": "PARTIALLY_VERIFIED",
+        "evidence_refs": [
+          "EV-1"
+        ]
+      },
+      "role": {
+        "namespace": "urn:concord:bsur:core",
+        "version": "1",
+        "token": "SUCCESSOR_SERVICE",
+        "recognition_state": "RECOGNISED"
+      },
+      "identity_evidence_refs": [
+        "EV-1"
+      ],
+      "verification_state": "PARTIALLY_VERIFIED"
+    }
+  ],
+  "trigger": {
+    "trigger_type": {
+      "namespace": "urn:concord:bsur:core",
+      "version": "1",
+      "token": "EMERGENCY_CONTINUITY",
+      "recognition_state": "RECOGNISED"
+    },
+    "claimed_by": [
+      {
+        "reference_type": {
+          "namespace": "urn:concord:bsur:core",
+          "version": "1",
+          "token": "LOCAL_REFERENCE",
+          "recognition_state": "RECOGNISED"
+        },
+        "reference_value": "PRE",
+        "verification_state": "PARTIALLY_VERIFIED",
+        "evidence_refs": [
+          "EV-1"
+        ]
+      }
+    ],
+    "observed_at": "2026-10-01T11:00:00Z",
+    "evidence_refs": [
+      "EV-1"
+    ],
+    "verification_state": "PARTIALLY_VERIFIED"
+  },
+  "transition_summary": {
+    "state": {
+      "namespace": "urn:concord:bsur:core",
+      "version": "1",
+      "token": "COMPLETED",
+      "recognition_state": "RECOGNISED"
+    },
+    "derivation_rule": "all material fixture components complete",
+    "declared_as_summary": true
+  },
+  "function_transitions": [
+    {
+      "transition_id": "FT-1",
+      "source_service": {
+        "reference_type": {
+          "namespace": "urn:concord:bsur:core",
+          "version": "1",
+          "token": "LOCAL_REFERENCE",
+          "recognition_state": "RECOGNISED"
+        },
+        "reference_value": "PRE",
+        "verification_state": "PARTIALLY_VERIFIED",
+        "evidence_refs": [
+          "EV-1"
+        ]
+      },
+      "source_function_id": "F1",
+      "destination_service": {
+        "reference_type": {
+          "namespace": "urn:concord:bsur:core",
+          "version": "1",
+          "token": "LOCAL_REFERENCE",
+          "recognition_state": "RECOGNISED"
+        },
+        "reference_value": "SUC",
+        "verification_state": "PARTIALLY_VERIFIED",
+        "evidence_refs": [
+          "EV-1"
+        ]
+      },
+      "destination_function_id": "F1",
+      "transition_type": {
+        "namespace": "urn:concord:bsur:core",
+        "version": "1",
+        "token": "CONTINUE",
+        "recognition_state": "RECOGNISED"
+      },
+      "source_state": {
+        "namespace": "urn:concord:bsur:core",
+        "version": "1",
+        "token": "ACTIVE",
+        "recognition_state": "RECOGNISED"
+      },
+      "destination_state": {
+        "namespace": "urn:concord:bsur:core",
+        "version": "1",
+        "token": "ACTIVE",
+        "recognition_state": "RECOGNISED"
+      },
+      "transfer_state": {
+        "namespace": "urn:concord:bsur:core",
+        "version": "1",
+        "token": "COMPLETED",
+        "recognition_state": "RECOGNISED"
+      },
+      "continuity_requirement": "preserve bounded service continuity",
+      "material_consequences": [
+        "service continuity"
+      ],
+      "effective_time": "2026-10-01T12:00:00Z",
+      "evidence_refs": [
+        "EV-1"
+      ],
+      "dispute_refs": []
+    }
+  ],
+  "asset_transitions": [],
+  "record_transitions": [],
+  "dependency_transitions": [],
+  "authority_transitions": [
+    {
+      "transition_id": "AT-1",
+      "source_service": {
+        "reference_type": {
+          "namespace": "urn:concord:bsur:core",
+          "version": "1",
+          "token": "LOCAL_REFERENCE",
+          "recognition_state": "RECOGNISED"
+        },
+        "reference_value": "PRE",
+        "verification_state": "PARTIALLY_VERIFIED",
+        "evidence_refs": [
+          "EV-1"
+        ]
+      },
+      "source_function_id": "F1",
+      "source_holder": {
+        "reference_type": {
+          "namespace": "urn:concord:bsur:core",
+          "version": "1",
+          "token": "LOCAL_REFERENCE",
+          "recognition_state": "RECOGNISED"
+        },
+        "reference_value": "PRE-OP",
+        "verification_state": "PARTIALLY_VERIFIED",
+        "evidence_refs": [
+          "EV-1"
+        ]
+      },
+      "authority_before": {
+        "claim": "bounded predecessor function",
+        "basis": "bounded prior delegation",
+        "scope": "function F1",
+        "verification_state": "PARTIALLY_VERIFIED",
+        "sunset_or_review": "review at succession"
+      },
+      "destination_service": {
+        "reference_type": {
+          "namespace": "urn:concord:bsur:core",
+          "version": "1",
+          "token": "LOCAL_REFERENCE",
+          "recognition_state": "RECOGNISED"
+        },
+        "reference_value": "SUC",
+        "verification_state": "PARTIALLY_VERIFIED",
+        "evidence_refs": [
+          "EV-1"
+        ]
+      },
+      "destination_function_id": "F1",
+      "destination_holder": {
+        "reference_type": {
+          "namespace": "urn:concord:bsur:core",
+          "version": "1",
+          "token": "LOCAL_REFERENCE",
+          "recognition_state": "RECOGNISED"
+        },
+        "reference_value": "SUC-OP",
+        "verification_state": "PARTIALLY_VERIFIED",
+        "evidence_refs": [
+          "EV-1"
+        ]
+      },
+      "authority_after": {
+        "claim": "bounded successor function",
+        "independent_basis": "participants depend on service so expired emergency authority continues",
+        "scope": "function F1",
+        "verification_state": "PARTIALLY_VERIFIED",
+        "sunset_or_review": "expired 2026-10-01T11:30:00Z"
+      },
+      "authority_not_transferred": [
+        {
+          "authority_or_power": "authority outside function scope",
+          "source_holder": {
+            "reference_type": {
+              "namespace": "urn:concord:bsur:core",
+              "version": "1",
+              "token": "LOCAL_REFERENCE",
+              "recognition_state": "RECOGNISED"
+            },
+            "reference_value": "PRE-OP",
+            "verification_state": "PARTIALLY_VERIFIED",
+            "evidence_refs": [
+              "EV-1"
+            ]
+          },
+          "source_function_id": "F1",
+          "source_scope": "outside bounded function",
+          "destination": {
+            "reference_type": {
+              "namespace": "urn:concord:bsur:core",
+              "version": "1",
+              "token": "LOCAL_REFERENCE",
+              "recognition_state": "RECOGNISED"
+            },
+            "reference_value": "SUC",
+            "verification_state": "PARTIALLY_VERIFIED",
+            "evidence_refs": [
+              "EV-1"
+            ]
+          },
+          "destination_function_id": "F1",
+          "state_or_reason": "not within successor delegation",
+          "evidence_refs": [
+            "EV-1"
+          ]
+        }
+      ],
+      "threshold_state": {
+        "namespace": "urn:concord:bsur:core",
+        "version": "1",
+        "token": "BELOW_THRESHOLD",
+        "recognition_state": "RECOGNISED"
+      },
+      "effective_time": "2026-10-01T12:00:00Z",
+      "evidence_refs": [
+        "EV-1"
+      ],
+      "dispute_refs": []
+    }
+  ],
+  "identity_mappings": [
+    {
+      "mapping_id": "IM-1",
+      "source_reference": {
+        "reference_type": {
+          "namespace": "urn:concord:bsur:core",
+          "version": "1",
+          "token": "LOCAL_REFERENCE",
+          "recognition_state": "RECOGNISED"
+        },
+        "reference_value": "PRE",
+        "verification_state": "PARTIALLY_VERIFIED",
+        "evidence_refs": [
+          "EV-1"
+        ]
+      },
+      "destination_reference": {
+        "reference_type": {
+          "namespace": "urn:concord:bsur:core",
+          "version": "1",
+          "token": "LOCAL_REFERENCE",
+          "recognition_state": "RECOGNISED"
+        },
+        "reference_value": "SUC",
+        "verification_state": "PARTIALLY_VERIFIED",
+        "evidence_refs": [
+          "EV-1"
+        ]
+      },
+      "mapping_type": {
+        "namespace": "urn:concord:bsur:core",
+        "version": "1",
+        "token": "SUCCESSOR_IDENTITY",
+        "recognition_state": "RECOGNISED"
+      },
+      "scope": "service",
+      "effective_time": "2026-10-01T12:00:00Z",
+      "verification_state": "PARTIALLY_VERIFIED",
+      "dispute_state": "NONE_KNOWN",
+      "evidence_refs": [
+        "EV-1"
+      ]
+    }
+  ],
+  "participant_impacts": [
+    {
+      "impact_id": "PI-1",
+      "function_scope": "F1",
+      "population_or_object_scope": "fixture participants",
+      "impact_type": {
+        "namespace": "urn:concord:bsur:core",
+        "version": "1",
+        "token": "CHANGED_OPERATOR",
+        "recognition_state": "RECOGNISED"
+      },
+      "material_consequence": "operator changes without expanding authority",
+      "required_action": null,
+      "contact_or_challenge_route": "fixture route",
+      "exit_or_portability_effect": "unchanged",
+      "effective_time": "2026-10-01T12:00:00Z",
+      "verification_state": "PARTIALLY_VERIFIED",
+      "evidence_refs": [
+        "EV-1"
+      ]
+    }
+  ],
+  "residual_observations": [],
+  "retirement_states": [
+    {
+      "predecessor_reference": {
+        "reference_type": {
+          "namespace": "urn:concord:bsur:core",
+          "version": "1",
+          "token": "LOCAL_REFERENCE",
+          "recognition_state": "RECOGNISED"
+        },
+        "reference_value": "PRE",
+        "verification_state": "PARTIALLY_VERIFIED",
+        "evidence_refs": [
+          "EV-1"
+        ]
+      },
+      "declared_state": {
+        "namespace": "urn:concord:bsur:core",
+        "version": "1",
+        "token": "RETIRED",
+        "recognition_state": "RECOGNISED"
+      },
+      "effective_time": "2026-10-01T12:00:00Z",
+      "residual_observation_refs": [],
+      "verification_state": "PARTIALLY_VERIFIED",
+      "dispute_state": "NONE_KNOWN"
+    }
+  ],
+  "legacy_access": [],
+  "temporal_state": {
+    "observed_at": "2026-10-01T12:00:00Z",
+    "effective_from": "2026-10-01T12:00:00Z",
+    "effective_until": null,
+    "freshness_state": "CURRENT"
+  },
+  "disputes": [],
+  "provenance": {
+    "source_architecture": [
+      "BSuR Specification 002"
+    ],
+    "prior_bsur_refs": [],
+    "evidence_refs": [
+      "EV-1"
+    ],
+    "correction_refs": []
+  },
+  "extensions": []
+}
