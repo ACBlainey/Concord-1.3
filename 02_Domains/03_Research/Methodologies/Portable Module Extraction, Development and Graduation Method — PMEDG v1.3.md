@@ -419,6 +419,36 @@ The hidden key must not be supplied to the clean evaluator.
 
 ---
 
+## 10.3 Frozen Blind-Test Package Rule
+
+Once the test brief, portable specification, manifest and evaluator response template are frozen, the evaluator-facing material SHALL be packaged as a **single ZIP archive** before handoff to the clean evaluator.
+
+The ZIP is the authoritative evaluator handoff unit.
+
+The clean instance should receive the ZIP rather than a manually selected set of individual files.
+
+The package should contain only the files declared in its Frozen Material Manifest. Hidden expected-findings keys, previous evaluator responses, source-resolution notes, development discussion and other non-evaluator material must remain outside the ZIP unless the test design explicitly requires them.
+
+Before release of the ZIP:
+
+1. finalise the evaluator-facing manifest;
+2. verify every declared file is present;
+3. verify no undeclared file is present;
+4. freeze the included file versions;
+5. create the ZIP from that exact set;
+6. where practical, record file hashes or equivalent integrity identifiers;
+7. give the clean evaluator the ZIP as the test input.
+
+If the ZIP contents do not match the manifest, the blind test must not begin.
+
+If a test package is revised after freezing, create a new frozen package/version rather than silently replacing individual evaluator files.
+
+> **Frozen Manifest = Authoritative File Set**
+
+> **Blind-Test Handoff = Frozen ZIP, Not Manual File Selection**
+
+This rule reduces accidental contamination of clean-instance testing, omission of required files, inclusion of hidden evaluation material and selection of the wrong file version.
+
 # 11. Stage 6 — Independent Transfer Response
 
 Obtain a response from an evaluator that has not been given:
