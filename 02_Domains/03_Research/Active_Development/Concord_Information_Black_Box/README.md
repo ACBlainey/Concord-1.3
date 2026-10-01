@@ -1,12 +1,18 @@
-# Concord Information Black Box — Active Development Record
+# Concord Information Black Box — Development and Validation Record
 
 ## Status
 - Architectural discovery: **CLOSED**
 - Abstraction floor: **STABLE within CRADP Blind Test 003 scope**
 - Broad CRADP architectural testing: **COMPLETE**
-- Formalisation: **ACTIVE**
-- PMEDG extraction testing: **NEXT**
-- Portable-module graduation: **NOT YET**
+- Formalisation: **COMPLETE for v1.0 extraction scope**
+- PMEDG extraction testing: **COMPLETE — PASSED**
+- Portable-package graduation review: **COMPLETE — PASSED**
+- Portable module: **GRADUATED v1.0 / SPECIFICATION-LEVEL TRANSFER VALIDATED**
+
+The graduated release is:
+`04_Portable_Modules/Concord Information Black Box Portable Module v1.0.md`
+
+This Active Development folder remains as provenance and validation history. Graduation does not erase the developmental path.
 
 ## Purpose
 The Concord Information Black Box (CIBB) is the architecture for governed information containment, contextual projection, modification, transformation, protected movement, structural/control change, lifecycle governance, recovery, disclosure-risk coordination and exceptional access.
@@ -40,30 +46,43 @@ Found no architectural failure. Identified missing Structural/Control operation 
 Added Structural/Control Plane, Non-Compositional Authority, Bounded Disclosure State, Restore as composite workflow, emergency sunset and derivative re-identification review.
 
 ### CRADP CIBB 003
-Clean evaluator found:
-- no missing operation plane;
-- no missing primitive;
-- no reducible plane;
-- legitimate multi-plane workflows remain representable;
-- no new unresolved CIBB abstraction layer;
-- stable abstraction floor demonstrated within frozen test scope;
-- no further broad Active Development cycle required.
+Clean evaluator found no missing operation plane, missing primitive, reducible plane or new unresolved CIBB abstraction layer. Legitimate multi-plane workflows remained representable and the abstraction floor was stable within the frozen scope.
 
-Remaining work was formalisation-level: composition triggers, residual disclosure risk, grant-authority boundaries and recovery activation barrier.
+### Formal Model 001
+Formalised the four planes, authority/composition model, bounded disclosure state, recovery activation barrier, nested-GIO rules, destruction provenance and invariants F1-F40.
+
+### PMEDG Extraction 001
+Candidate 001 was frozen with a dedicated blind-test brief, manifest and evaluator response template and supplied to a clean evaluator as a frozen package.
+
+The clean evaluator reported:
+- all scenarios A-AM: **NONE**;
+- all regression checks: **PASS**;
+- hidden dependencies: **NONE IDENTIFIED**;
+- accidental capture: **NONE IDENTIFIED**;
+- operational incompleteness: **NONE IDENTIFIED**;
+- extraction failure: **NO**;
+- substantive portability gap: **NO**;
+- interface gap: **NO**;
+- architectural regression: **NO**;
+- Candidate 002 required: **NO**.
+
+### PMEDG Graduation Review 001
+Result: **PASS — RELEASE AUTHORISED**.
+
+CIBB v1.0 was released as a graduated portable module with the bounded claim **SPECIFICATION-LEVEL TRANSFER VALIDATED**. This does not claim universal empirical validation or implementation completeness.
 
 ## Development discipline from this point
-Conceptual expansion alone is no longer sufficient to reopen the architectural core.
-
-A proposed architectural change should demonstrate at least one of:
+The v1.0 architectural core is closed unless new evidence demonstrates at least one of:
 - contradiction;
-- failed formalisation;
-- failed PMEDG extraction;
-- implementation impossibility;
+- failed implementation;
 - new empirical evidence;
 - failed targeted validation;
-- external-interface incompatibility.
+- external-interface incompatibility;
+- a materially new requirement not representable by the existing architecture.
 
-## PMEDG
-CIBB remains a PMEDG candidate. Extraction/graduation must not be treated as complete merely because the internal Concord architecture is mature.
+Future implementation work may refine interfaces and engineering without automatically reopening the architectural core.
 
-A separate candidate has also emerged: **Non-Compositional Authority**. It should be flagged for later PMEDG consideration but not extracted prematurely.
+## PMEDG follow-on
+CIBB itself has graduated.
+
+A separate candidate remains: **Non-Compositional Authority**. It should remain flagged for later PMEDG consideration and should not be extracted merely because it appears inside CIBB.
