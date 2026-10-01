@@ -1,0 +1,227 @@
+{
+  "record_meta": {
+    "registry_record_id": "RR-001",
+    "model_version": "BSR-MODEL-999",
+    "schema_version": "BSR-SCHEMA-002",
+    "vocabulary_version": "1",
+    "record_created_at": "2026-10-01T09:00:00Z",
+    "record_observed_at": "2026-10-01T10:00:00Z",
+    "record_updated_at": "2026-10-01T10:00:00Z",
+    "registry_identity_reference": null
+  },
+  "service_identity": {
+    "service_name": "Fixture Service",
+    "service_type": {
+      "namespace": "urn:concord:bsr:core",
+      "version": "1",
+      "token": "DISCOVERY_SERVICE",
+      "recognition_state": "RECOGNISED"
+    },
+    "service_identity_references": [
+      {
+        "reference_type": {
+          "namespace": "urn:concord:bsr:core",
+          "version": "1",
+          "token": "LOCAL_REFERENCE",
+          "recognition_state": "RECOGNISED"
+        },
+        "reference_value": "SERVICE-001",
+        "issuer_or_source": "fixture",
+        "verification_state": "VERIFIED_TO_DECLARED_SCOPE",
+        "observed_at": "2026-10-01T10:00:00Z",
+        "evidence_refs": [
+          "EV-1"
+        ]
+      }
+    ],
+    "previous_names": [],
+    "contact_routes": [
+      {
+        "reference_type": {
+          "namespace": "urn:concord:bsr:core",
+          "version": "1",
+          "token": "LOCAL_REFERENCE",
+          "recognition_state": "RECOGNISED"
+        },
+        "reference_value": "CONTACT-001",
+        "issuer_or_source": "fixture",
+        "verification_state": "VERIFIED_TO_DECLARED_SCOPE",
+        "observed_at": "2026-10-01T10:00:00Z",
+        "evidence_refs": [
+          "EV-1"
+        ]
+      }
+    ]
+  },
+  "control_relations": [
+    {
+      "actor_reference": {
+        "reference_type": {
+          "namespace": "urn:concord:bsr:core",
+          "version": "1",
+          "token": "LOCAL_REFERENCE",
+          "recognition_state": "RECOGNISED"
+        },
+        "reference_value": "ACTOR-001",
+        "issuer_or_source": "fixture",
+        "verification_state": "VERIFIED_TO_DECLARED_SCOPE",
+        "observed_at": "2026-10-01T10:00:00Z",
+        "evidence_refs": [
+          "EV-1"
+        ]
+      },
+      "control_role": {
+        "namespace": "urn:concord:bsr:core",
+        "version": "1",
+        "token": "DECLARED_FORMAL_OPERATOR",
+        "recognition_state": "RECOGNISED"
+      },
+      "scope": "whole service",
+      "effective_from": "2026-10-01T09:00:00Z",
+      "effective_until": null,
+      "observed_at": "2026-10-01T10:00:00Z",
+      "evidence_refs": [
+        "EV-1"
+      ],
+      "verification_state": "PARTIALLY_VERIFIED"
+    }
+  ],
+  "status": {
+    "claimed_service_status": {
+      "namespace": "urn:concord:bsr:core",
+      "version": "1",
+      "token": "PROVISIONAL_CONCORD",
+      "recognition_state": "RECOGNISED"
+    },
+    "evidence_supported_status": {
+      "namespace": "urn:concord:bsr:core",
+      "version": "1",
+      "token": "PROVISIONAL_CONCORD",
+      "recognition_state": "RECOGNISED"
+    },
+    "developmental_state": {
+      "namespace": "urn:concord:bsr:core",
+      "version": "1",
+      "token": "PROTOTYPE",
+      "recognition_state": "RECOGNISED"
+    },
+    "summary_availability": null
+  },
+  "function_profiles": [
+    {
+      "function_id": "F-1",
+      "declared_function": "Fixture function F-1",
+      "bootstrap_class": {
+        "namespace": "urn:concord:bsr:core",
+        "version": "1",
+        "token": "Z0",
+        "recognition_state": "RECOGNISED"
+      },
+      "population_or_objects_served": "fixture participants",
+      "material_consequences": [
+        "fixture consequence"
+      ],
+      "authority_profile": {
+        "authority_claim": "bounded operation",
+        "authority_basis": "bounded voluntary operation",
+        "authority_scope": "function F-1",
+        "sunset_or_review": "review on material change",
+        "verification_state": "PARTIALLY_VERIFIED",
+        "evidence_refs": [
+          "EV-1"
+        ]
+      },
+      "constitutional_threshold_state": {
+        "namespace": "urn:concord:bsr:core",
+        "version": "1",
+        "token": "BELOW_THRESHOLD",
+        "recognition_state": "RECOGNISED"
+      },
+      "operational_availability": {
+        "namespace": "urn:concord:bsr:core",
+        "version": "1",
+        "token": "AVAILABLE",
+        "recognition_state": "RECOGNISED"
+      },
+      "dependencies": [],
+      "evidence_refs": [
+        "EV-1"
+      ],
+      "temporal_state": {
+        "created_at": "2026-10-01T09:00:00Z",
+        "observed_at": "2026-10-01T10:00:00Z",
+        "effective_from": "2026-10-01T09:00:00Z",
+        "effective_until": null,
+        "updated_at": "2026-10-01T10:00:00Z",
+        "freshness_state": "CURRENT"
+      }
+    }
+  ],
+  "provenance": {
+    "source_architecture": [
+      "Zero-Infrastructure Bootstrap Specification 003"
+    ],
+    "implementation_version": "fixture-1",
+    "artifact_provenance": [
+      {
+        "reference_type": {
+          "namespace": "urn:concord:bsr:core",
+          "version": "1",
+          "token": "LOCAL_REFERENCE",
+          "recognition_state": "RECOGNISED"
+        },
+        "reference_value": "ART-001",
+        "issuer_or_source": "fixture",
+        "verification_state": "VERIFIED_TO_DECLARED_SCOPE",
+        "observed_at": "2026-10-01T10:00:00Z",
+        "evidence_refs": [
+          "EV-1"
+        ]
+      }
+    ],
+    "service_dependencies": []
+  },
+  "trust_evidence": {
+    "integrity_state": "VERIFIED_INTACT",
+    "verification_state": "PARTIALLY_VERIFIED",
+    "evidence_timestamp": "2026-10-01T10:00:00Z",
+    "dispute_state": "NONE_KNOWN",
+    "evidence": [
+      {
+        "evidence_id": "EV-1",
+        "evidence_type": {
+          "namespace": "urn:concord:bsr:core",
+          "version": "1",
+          "token": "FIXTURE_EVIDENCE",
+          "recognition_state": "RECOGNISED"
+        },
+        "source": "fixture generator",
+        "observed_at": "2026-10-01T10:00:00Z",
+        "integrity_reference": null,
+        "supported_claim_scope": "fixture",
+        "verification_state": "PARTIALLY_VERIFIED",
+        "dependency_or_independence_note": null,
+        "dispute_refs": [],
+        "correction_refs": []
+      }
+    ]
+  },
+  "continuity": {
+    "succession_plan": "bounded succession test",
+    "exit_or_portability": "export record",
+    "failure_or_recovery_route": "mark unavailable",
+    "retirement_condition": "fixture complete"
+  },
+  "temporal_state": {
+    "created_at": "2026-10-01T09:00:00Z",
+    "observed_at": "2026-10-01T10:00:00Z",
+    "effective_from": "2026-10-01T09:00:00Z",
+    "effective_until": null,
+    "updated_at": "2026-10-01T10:00:00Z",
+    "freshness_state": "CURRENT"
+  },
+  "relations": [],
+  "corrections": [],
+  "disputes": [],
+  "extensions": []
+}
