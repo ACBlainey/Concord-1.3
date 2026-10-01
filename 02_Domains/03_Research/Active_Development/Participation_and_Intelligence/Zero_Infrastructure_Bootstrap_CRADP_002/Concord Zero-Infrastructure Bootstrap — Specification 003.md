@@ -1,4 +1,4 @@
-# Concord Zero-Infrastructure Bootstrap — Specification 002
+# Concord Zero-Infrastructure Bootstrap — Specification 003
 
 **Project:** The Concord  
 **Version:** 0.3  
