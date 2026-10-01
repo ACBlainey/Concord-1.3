@@ -822,3 +822,296 @@ What it did not yet make explicit is the architecture of the bridge between them
 > **How does a civilisation that currently exists only as architecture begin to instantiate real functions without pretending that implementation itself creates legitimacy?**
 
 That is the Zero-Infrastructure Bootstrap problem.
+
+
+---
+
+## 24. Source Resolution 002 — Service Discovery, Function Classes and Constitutional Boundary
+
+### 24.1 Bootstrap Service Registry
+
+No current V1.3 source inspected in this pass provides the complete proposed Bootstrap Service Registry as a single architecture.
+
+However, the registry must **not** become a source of authority.
+
+Its function is epistemic and navigational:
+
+**Declared Service**
+→ **Operator / Provenance**
+→ **Current Status**
+→ **Claimed Function**
+→ **Claimed Authority Basis**
+→ **Verification Evidence**
+→ **Dependencies**
+→ **Version / Expiry**
+→ **Route To Service Or Deeper Evidence**
+
+It should distinguish at least:
+
+- **AUTHORITATIVE_CONCORD** — only where an actually constituted Concord institution can support that status;
+- **PROVISIONAL_CONCORD** — explicitly provisional Concord function;
+- **CONCORD_COMPATIBLE** — independent implementation claiming compatibility;
+- **EXTERNAL** — non-Concord service useful to a routed need;
+- **RESEARCH_ONLY** — proposed/test implementation not offering a civil service;
+- **UNAVAILABLE** — architecture identifies the function but no current service is known/verified.
+
+The registry records claims and evidence. It does not validate itself.
+
+> **Registry Entry != Authority Grant**
+
+> **Listed != Endorsed**
+
+> **Unlisted != Illegitimate**
+
+> **Service Status Must Be Evidenced, Not Inferred From Naming**
+
+This remains a genuine bootstrap-development candidate.
+
+### 24.2 Relationship to Civil Contact
+
+Civil Contact may later provide the participant-facing discovery channel for services.
+
+The Bootstrap Service Registry is conceptually different.
+
+**Civil Contact** answers:
+
+> How can a participant remain reachable and discover civil information/services?
+
+The **Bootstrap Service Registry** answers:
+
+> Which claimed services actually exist at this developmental stage, what are they, who operates them, and what status/authority do they possess?
+
+The two may later interoperate.
+
+Neither should be defined as automatically owning the other.
+
+### 24.3 Z0-Z5 Reclassification
+
+Source resolution against Bounded Contextual Authority and the Authority Justification Chain shows that Z0-Z5 must **not** become a parallel authority system.
+
+The deeper existing Concord sequence is approximately:
+
+**Observation / Need**
+→ **Legitimate Civil Objective**
+→ **Required Function**
+→ **Can Ordinary Voluntary Means Perform It?**
+→ **Functional Need For Authority**
+→ **Minimum Proportionate Authority**
+→ **Bounded Contextual Authority**
+→ **Review / Sunset**
+
+Therefore Z0-Z5 are reclassified as:
+
+> **BOOTSTRAP FUNCTION / ESCALATION ROUTING CLASSES**
+
+They help a zero-infrastructure actor recognise when a proposal is moving from low-authority voluntary activity toward functions that require stronger legitimacy architecture.
+
+They do not themselves authorise any action.
+
+Revised interpretation:
+
+- **Z0 — Informational:** reading, evaluation, preservation, critique.
+- **Z1 — Self/Local Voluntary:** local tools and self-regarding implementation.
+- **Z2 — Consensual Multi-Participant:** bilateral/small-group voluntary coordination.
+- **Z3 — External Institutional Interface:** use of existing lawful external institutions/capacities.
+- **Z4 — Provisional Shared Civil Function:** a Concord-oriented shared function whose legitimacy, scope and provisional status must be explicitly constituted.
+- **Z5 — Constitutional / Coercive / Sovereign-Effect Function:** function with consequences that cannot be legitimised merely through bootstrap convenience, technical capability or local voluntary implementation.
+
+Movement upward is not automatically required.
+
+A mature implementation may deliberately remain Z1-Z3.
+
+> **Higher Class != More Mature**
+
+> **Higher Class != More Legitimate**
+
+> **Class != Authority**
+
+The classes indicate **different legitimacy burdens**, not status rank.
+
+### 24.4 Constitutional Founding Boundary
+
+Source resolution against Recursive Constitutional Architecture V2 identifies a strong existing boundary.
+
+RCA already establishes:
+
+> **Recursion Must Never Manufacture Authority**
+
+> **Convergence Is Evidence. It Is Not Authority.**
+
+and rejects the idea that repeated practice, institutional agreement, technical capability or usefulness can create constitutional sovereignty where no legitimate delegation exists.
+
+It also establishes visible constitutional status as a safeguard against experimental/provisional mechanisms silently becoming settled constitutional rules.
+
+Therefore the Zero-Infrastructure Bootstrap should **not invent a constitutional founding mechanism inside itself**.
+
+Its endpoint is a handoff condition.
+
+The bootstrap may:
+- expose constitutional requirements;
+- preserve evidence;
+- enable voluntary participation;
+- develop and test mechanisms;
+- instantiate bounded non-sovereign functions;
+- build material capability;
+- make constitutional questions discoverable.
+
+It may not turn those achievements into sovereignty by accumulation.
+
+Candidate boundary:
+
+**Bootstrap Capability**
+→ **Constitutional Threshold Reached**
+→ **Explicit Constitutional Legitimacy Process Required**
+→ **Constituted Institution**
+
+not:
+
+**Bootstrap Capability**
+→ **Dependency / Popularity / Success**
+→ **De Facto Sovereignty**
+→ **Retroactive Legitimisation**
+
+### 24.5 Bootstrap Constitutional Threshold
+
+A proposed function should be treated as having reached the constitutional threshold where its operation would materially determine or constrain matters such as:
+
+- who possesses constitutional standing;
+- who may create binding general rules;
+- who may coercively restrict participants;
+- who may exercise judicial authority;
+- who may create or amend constitutional authority;
+- who may issue authoritative civil status;
+- who may exercise sovereign-effect emergency power;
+- who may make a provisional institution effectively unavoidable.
+
+Crossing the threshold does not answer how constitutional legitimacy is established.
+
+It answers a prior question:
+
+> **Can ordinary bootstrap authority legitimately carry this function further?**
+
+Provisional answer:
+
+> **No — not merely because the function is useful, necessary, popular, technically possible or already operating.**
+
+### 24.6 Bootstrap Deadlock Resolution
+
+This boundary must not create a bootstrap deadlock.
+
+Many functions do not require sovereign authority.
+
+Existing Authority Justification work explicitly asks whether a function can be performed through:
+
+- ordinary voluntary interaction;
+- public information;
+- coordination;
+- consent.
+
+Therefore the bootstrap should preferentially build **authority-light capability first**.
+
+This permits substantial material development before constitutional founding.
+
+Examples may include:
+- documentation;
+- software;
+- voluntary standards;
+- research;
+- provenance;
+- compatibility testing;
+- service discovery;
+- consensual coordination;
+- external lawful contracting;
+- independent infrastructure;
+- local continuity systems.
+
+The architecture can therefore grow in capability without falsely growing in sovereignty.
+
+> **Civilisational Capability Can Precede Civilisational Sovereignty**
+
+This is a candidate bootstrap proposition, not yet a constitutional rule.
+
+### 24.7 Updated Architecture
+
+The source-resolved sequence is now:
+
+**C0 Repository-Only Concord**
+→ **Front Door / Bootstrap Orientation**
+→ **Self-Location and Need Identification**
+→ **Authority-Light Local / Voluntary Functions**
+→ **Transparent Service Discovery**
+→ **Independent / Federated / Transitional Capability**
+→ **Provisional Shared Functions Where Legitimately Constituted**
+→ **Constitutional Threshold**
+→ **Separate Explicit Constitutional Legitimacy Process**
+→ **Constituted Concord Institutions**
+→ **Graduation / Succession / Retirement of Bootstrap Scaffolding**
+
+The bootstrap owns the path **up to the constitutional threshold**.
+
+It does not own the source of constitutional sovereignty beyond that threshold.
+
+### 24.8 Remaining Open Questions After Source Resolution
+
+The main unresolved bootstrap questions are now narrower:
+
+1. What exact fields and verification states should the Bootstrap Service Registry use?
+2. How should a service prove or challenge a claimed status without a Concord root of trust?
+3. What minimum provenance is required for a provisional shared function?
+4. When do several local implementations become a shared civil function rather than merely interoperating tools?
+5. What precise tests identify the constitutional threshold in ambiguous cases?
+6. How should provisional services migrate records, identifiers and dependencies into later constituted institutions?
+7. How should competing bootstrap ecosystems interoperate without one being presumed authoritative?
+8. What happens if no constitutional founding process ever becomes legitimate or available?
+
+These are suitable targets for adversarial testing.
+
+---
+
+## 25. Source Resolution 002 Disposition
+
+### Reused rather than reinvented
+
+- Bounded Contextual Authority;
+- Authority Justification Chain;
+- Minimum Necessary Capability logic;
+- Recursive Constitutional anti-authority-laundering rules;
+- constitutional status visibility;
+- Civil Contact as participant-facing contact/discoverability infrastructure.
+
+### Retained as new bootstrap integration
+
+- Concord Zero State;
+- non-impersonation rule;
+- end-to-end B0-B11 transition;
+- first-actor capture model;
+- explicit material-assistance gap;
+- bootstrap service-status distinction;
+- constitutional-threshold handoff.
+
+### Revised
+
+- Z0-Z5 are **routing/escalation classes**, not an authority hierarchy.
+
+### Still requiring development/testing
+
+- Bootstrap Service Registry;
+- trust/provenance without an existing Concord root;
+- ambiguous constitutional-threshold tests;
+- succession from provisional to constituted services.
+
+---
+
+# Updated Core Finding
+
+The bootstrap problem has narrowed further.
+
+The Concord does not need a new theory of authority to bootstrap.
+
+It needs a disciplined way to **grow capability while refusing to let capability impersonate authority**.
+
+Existing Concord architecture supplies the authority logic.
+
+The Zero-Infrastructure Bootstrap supplies the missing developmental transition:
+
+> **Build what can legitimately be built now; label it truthfully; make it discoverable; preserve provenance and exit; increase coordination without manufacturing sovereignty; and stop at the constitutional threshold until a separate legitimate constitutional process exists.**
