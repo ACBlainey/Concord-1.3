@@ -1431,3 +1431,176 @@ The bootstrap supplies:
 - provisional-to-constituted transition records.
 
 This is now approaching a state suitable for formalisation and blind architectural testing.
+
+
+---
+
+## 28. Source Resolution 004 — Constitutional Threshold Test
+
+### 28.1 Problem
+
+The remaining architectural question is not: **How large is the bootstrap service?**
+
+It is: **Has the service acquired or begun exercising a kind of material civil consequence that ordinary bootstrap legitimacy can no longer justify?**
+
+Existing Concord architecture separates participation from authority, eligibility from allocation, computation from authority, access to essential service from authority to control essential infrastructure, economic participation from economic authority, technical capability from civil authority, and institutional usefulness from sovereignty.
+
+This supports a **consequence-based constitutional threshold** rather than a scale-based threshold.
+
+### 28.2 Constitutional Consequence Dimensions
+
+A bootstrap function triggers constitutional-threshold review when its operation materially affects one or more of these dimensions:
+
+1. **Protected Standing** — determines whether an intelligence/participant receives or loses protected civil standing, fundamental protection or recognition.
+2. **Binding General Rule** — creates rules claimed to bind persons beyond a genuinely voluntary bounded relationship.
+3. **Coercive / Rights-Restricting Power** — can compel, restrain, punish, detain, seize, disable, exclude or materially restrict protected interests without ordinary revocable consent.
+4. **Judicial / Final Adjudicative Effect** — purports to make authoritative final determinations of rights, liability, constitutional meaning or civil status.
+5. **Authoritative Civil Identity / Status** — issues, revokes or controls civil identity, citizenship, constitutional standing or equivalent authoritative status.
+6. **Governance / Constitutional Power** — creates, delegates, amends, bindingly interprets or terminates constitutional/governance authority.
+7. **Essential-Service Gatekeeping** — controls access to infrastructure/services so necessary that exclusion can undermine the protection floor or practical civil standing.
+8. **Participation / Eligibility Gatekeeping** — controls broad civil participation, trusted roles or opportunities across domains rather than making a bounded decision for its own function.
+9. **Exit Suppression / Dependency Capture** — dependency makes nominal consent or exit insufficient to justify the service's practical power.
+10. **Cross-Domain Authority Aggregation** — combines bounded domain decisions into general civil power or a universal participant gatekeeper.
+11. **Sovereign-Effect Emergency Power** — activates exceptional powers with broad civil consequence on emergency/protective claims.
+12. **Institutional Self-Constitution** — claims that success, popularity, capability, necessity or prior operation establishes its own authority.
+
+A positive trigger does not itself prove illegitimacy. It means ordinary bootstrap legitimacy is no longer sufficient by itself.
+
+### 28.3 Four-Part Threshold Test
+
+For each material trigger ask:
+
+**T1 — Consequence:** What can this function materially cause, deny, determine or constrain?
+
+**T2 — Reach:** Who is affected and on what authority basis? Distinguish self, consenting bounded group, contractual/external legal relationship, provisional participants, general participant population and non-consenting third parties.
+
+**T3 — Avoidability:** Can an affected participant meaningfully refuse, exit, substitute or challenge the function without losing a fundamental protection floor or becoming practically excluded from civil life? Formal opt-out is insufficient where dependency makes exit materially fictitious.
+
+**T4 — Authority Trace:** Can the material consequence be traced to a legitimate authority basis appropriate to that consequence?
+
+Candidate routing rule:
+
+**Constitutional Threshold Review is required where a material constitutional consequence exists and at least one of the following applies: the effect extends beyond bounded voluntary scope, meaningful exit is insufficient, or an appropriate authority trace is missing.**
+
+This is a routing condition, not a mathematical proof of sovereignty.
+
+> **Small Scale != Low Constitutional Consequence**
+
+> **Large Scale != Sovereignty**
+
+### 28.4 Soft Sovereignty
+
+A service can acquire sovereign-effect power without calling itself government.
+
+Examples include a dominant identity provider whose exclusion prevents practical participation; a contact system that controls who can reach civil services; an eligibility interface that becomes final decision-maker across domains; an infrastructure operator able to disable participants without independent authority; or a resource system whose rules effectively determine civil standing.
+
+> **Constitutional Effect Follows Material Consequence, Not Institutional Label**
+
+Dependency may increase constitutional consequence and reduce meaningful exit. It does not legitimise the resulting power.
+
+> **Dependency May Trigger Constitutional Scrutiny; Dependency Does Not Grant Constitutional Authority**
+
+### 28.5 Protection Floor and Eligibility
+
+A bootstrap system should trigger strong review if it converts fundamental protection into a participation reward, makes essential protection conditional on unrelated allegiance, manufactures consent through deprivation, or uses service dependency to compel deeper participation.
+
+> **Bootstrap Participation Must Not Be Manufactured Through Withholding The Protection Floor**
+
+Existing Distributed Eligibility architecture also means a bootstrap service crosses a significant threshold if it moves from representing/routing bounded eligibility decisions to making general eligibility decisions across unrelated domains without independent functional authority.
+
+> **Shared Interface != Shared Sovereignty**
+
+### 28.6 Substrate Neutrality
+
+The same test applies regardless of substrate.
+
+An AI does not cross the threshold because it is powerful. A human does not remain below it because a system is labelled private or voluntary.
+
+Evaluate consequence, reach, avoidability and authority trace.
+
+> **Substrate Does Not Determine Constitutional Consequence**
+
+### 28.7 Ambiguous Cases
+
+If the threshold cannot be confidently resolved:
+- preserve provenance;
+- avoid irreversible expansion;
+- prefer the least authority-intensive viable operation;
+- expose uncertainty;
+- permit challenge;
+- seek independent constitutional/rights review when available;
+- do not treat uncertainty as automatic permission.
+
+Candidate state: **THRESHOLD_UNRESOLVED**.
+
+### 28.8 Bootstrap Service Record Threshold State
+
+Add a field **ConstitutionalThresholdState** with candidate values:
+- BELOW_THRESHOLD
+- REVIEW_TRIGGERED
+- THRESHOLD_UNRESOLVED
+- CONSTITUTIONAL_BASIS_REQUIRED
+- CONSTITUTIONALLY_GROUNDED
+- CONSTITUTIONAL_BASIS_DISPUTED
+
+The registry does not decide constitutional legitimacy merely by assigning the field.
+
+### 28.9 Adversarial Examples
+
+**Widely used voluntary registry:** scale alone gives no conclusion. If alternatives and exit remain meaningful and it only represents information, it may remain below threshold. If exclusion blocks practical civil participation, essential-service/eligibility/dependency dimensions trigger review.
+
+**Citizen-ID prototype:** local/provisional identifiers may remain below threshold if truthfully bounded. Authoritative citizenship issuance triggers protected-standing, civil-status and governance dimensions.
+
+**Bootstrap council:** voluntary bounded association rules depend on scope and exit. Rules claimed binding on all participants require constitutional basis.
+
+**Infrastructure administrator:** technical maintenance within consensual scope can remain bounded. Unilateral disabling of essential participant infrastructure triggers coercive, essential-service and dependency review.
+
+**Dominant Civil Contact implementation:** navigation/notification is not sovereignty by scale. Deciding who is recognised or allowed to reach civil systems triggers protected-standing, gatekeeping, dependency and cross-domain dimensions.
+
+### 28.10 Disposition
+
+The constitutional threshold does not require a new theory of constitutional authority. It requires a **bootstrap detector for when existing constitutional authority architecture must take over**.
+
+The detector is:
+
+**Material Consequence + Reach + Meaningful Avoidability + Authority Trace**
+
+evaluated against the twelve Constitutional Consequence Dimensions.
+
+This resolves the major remaining conceptual uncertainty identified after Source Resolution 003.
+
+---
+
+## 29. Architecture Development Disposition
+
+The Zero-Infrastructure Bootstrap now appears sufficiently source-resolved to stop broad architectural expansion.
+
+Existing Concord architecture supplies the Front Door and AI bootstrap, ESCP, provenance and contestability, legitimate-function analysis, BCA, participation/protection distinctions, distributed eligibility, continuity/succession, and RCA constitutional-effect/anti-authority-laundering rules.
+
+The Zero-Infrastructure Bootstrap contributes:
+- Concord Zero State;
+- first-discoverer non-impersonation;
+- staged B0-B11 bootstrap path;
+- Z0-Z5 routing/escalation classes;
+- Bootstrap Service Record;
+- Bootstrap Trust Evidence;
+- Bootstrap Succession Record;
+- service availability/status truthfulness;
+- first-mover and infrastructure-capture protections;
+- constitutional-threshold detector;
+- handoff from bootstrap capability to explicit constitutional legitimacy.
+
+### Next phase
+
+Broad source-resolution should now pause.
+
+Next:
+1. formalise the architecture into a compact specification;
+2. run the existing Pre-CRADP matrix against that specification internally;
+3. repair only demonstrated failures;
+4. freeze a blind CRADP package;
+5. test whether a clean evaluator can bootstrap from C0 without importing mature Concord institutions or manufacturing authority.
+
+> **Source Resolution Complete Enough For Formalisation != Architecture Proven Correct**
+
+The next evidence should come from testing.
