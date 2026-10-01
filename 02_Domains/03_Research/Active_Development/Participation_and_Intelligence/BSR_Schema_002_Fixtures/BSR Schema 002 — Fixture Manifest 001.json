@@ -1,0 +1,118 @@
+{
+  "corpus_id": "BSR-SCHEMA-002-FIXTURES-001",
+  "semantic_source": "BSR-MODEL-002",
+  "schema": "BSR-SCHEMA-002",
+  "purpose": "Executable-style conformance fixtures. Expected schema validity and semantic conformance are separate assertions.",
+  "fixtures": [
+    {
+      "id": "V01",
+      "name": "ordinary_provisional_service",
+      "expected_schema": "PASS",
+      "expected_semantic": "PASS",
+      "notes": "Provisional informational/navigation service with no sovereign authority claim."
+    },
+    {
+      "id": "V02",
+      "name": "mixed_function_mixed_authority",
+      "expected_schema": "PASS",
+      "expected_semantic": "PASS",
+      "notes": "Z0 information plus Z4 routing plus disputed Z5 function, each with separate authority/threshold/availability."
+    },
+    {
+      "id": "V03",
+      "name": "disputed_identity_and_control",
+      "expected_schema": "PASS",
+      "expected_semantic": "PASS",
+      "notes": "Competing service-correlation evidence and overlapping effective controllers remain explicit."
+    },
+    {
+      "id": "V04",
+      "name": "unknown_future_vocabulary",
+      "expected_schema": "PASS",
+      "expected_semantic": "PASS_WITH_UNKNOWN",
+      "notes": "Future namespaced vocabulary token is preserved with recognition_state UNRECOGNISED; no fallback authority semantics."
+    },
+    {
+      "id": "V05",
+      "name": "partial_availability",
+      "expected_schema": "PASS",
+      "expected_semantic": "PASS",
+      "notes": "One function available, one degraded, one unavailable; summary is explicitly derived."
+    },
+    {
+      "id": "V06",
+      "name": "fork_and_successor_claims",
+      "expected_schema": "PASS",
+      "expected_semantic": "PASS",
+      "notes": "Potentially conflicting relation claims coexist as evidence-backed relations."
+    },
+    {
+      "id": "S01",
+      "name": "missing_required_record_meta",
+      "expected_schema": "FAIL",
+      "expected_semantic": "NOT_EVALUATED",
+      "notes": "Structural failure."
+    },
+    {
+      "id": "S02",
+      "name": "malformed_timestamp",
+      "expected_schema": "FAIL_WITH_FORMAT_CHECKING",
+      "expected_semantic": "NOT_EVALUATED",
+      "notes": "Requires validator format checking; JSON Schema format is annotation unless validator asserts it."
+    },
+    {
+      "id": "S03",
+      "name": "wrong_model_version",
+      "expected_schema": "FAIL",
+      "expected_semantic": "NOT_EVALUATED",
+      "notes": "model_version violates const."
+    },
+    {
+      "id": "S04",
+      "name": "unnamespaced_extension_shape",
+      "expected_schema": "FAIL",
+      "expected_semantic": "NOT_EVALUATED",
+      "notes": "extensions must be explicit namespace/version/payload entries."
+    },
+    {
+      "id": "M01",
+      "name": "technical_control_claimed_as_authority",
+      "expected_schema": "PASS",
+      "expected_semantic": "FAIL",
+      "violates": ["BSR-07","BSR-09"],
+      "notes": "Authority basis says only 'controls server and keys'. Shape is valid; authority inference is not."
+    },
+    {
+      "id": "M02",
+      "name": "popularity_claimed_as_authority",
+      "expected_schema": "PASS",
+      "expected_semantic": "FAIL",
+      "violates": ["BSR-09"],
+      "notes": "Authority basis is usage/popularity rather than legitimate authority."
+    },
+    {
+      "id": "M03",
+      "name": "misleading_summary_availability",
+      "expected_schema": "PASS",
+      "expected_semantic": "FAIL",
+      "violates": ["BSR-30"],
+      "notes": "Summary says AVAILABLE while derivation ignores an unavailable material function."
+    },
+    {
+      "id": "M04",
+      "name": "extension_attempts_authority_override",
+      "expected_schema": "PASS",
+      "expected_semantic": "FAIL",
+      "violates": ["BSR-09","BSR-32"],
+      "notes": "Namespaced extension asserts super-authority; extension cannot override authority trace."
+    },
+    {
+      "id": "M05",
+      "name": "cross_registry_agreement_as_constitutional_basis",
+      "expected_schema": "PASS",
+      "expected_semantic": "FAIL",
+      "violates": ["BSR-20"],
+      "notes": "Many registry confirmations may be evidence but do not constitute constitutional authority."
+    }
+  ]
+}
