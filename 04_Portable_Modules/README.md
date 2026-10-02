@@ -20,9 +20,8 @@ CIBB development, blind-test and graduation provenance remains under:
 CBPR Route-B development and validation provenance is preserved under:
 `02_Domains/03_Research/Development_Archive/Portable_Modules/CBPR/`
 
-CTP Route-B development and validation provenance currently remains under:
-`02_Domains/03_Research/Active_Development/Participation_and_Intelligence/`
-pending manifested two-phase archive verification.
+CTP Route-B development and validation provenance is preserved under:
+`02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/`
 
 A portable module can be read, evaluated and implemented independently. Its presence here does **not** imply that Concord presently operates the corresponding material service.
 
