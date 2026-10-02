@@ -83,6 +83,16 @@ The third policing stress-test gap is provisionally resolved:
 
 The threshold is based on the whole evidential state rather than raw evidence count, remains subject to material-evidence reassessment, and is to be calibrated through legal expertise, judicial interpretation and empirical case evidence rather than invented numerically at this stage.
 
+## Independent prosecution function
+
+`Independent Prosecution Function — Referral, Threshold and Adjudication Handoff 001.md`
+
+This fills the institutional gap between Civil Security and Judiciary. It distinguishes the police referral condition from the independent prosecution threshold, defines whole-evidential-state transfer and intake review, bounds requests for further investigation, establishes continuing prosecution-authority reassessment, and preserves independent review of prosecution conduct.
+
+**Police Investigate -> Prosecution Tests Whether Adjudication Is Justified -> Judiciary Adjudicates**
+
+**Referral Condition != Prosecution Threshold**
+
 
 ## Mirrored investigative evidence interface
 
