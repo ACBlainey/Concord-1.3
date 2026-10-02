@@ -67,3 +67,17 @@ Reusable mechanisms include permission-before-authority, minimum-necessary permi
 **Source:** `04_Portable_Modules/Civil Attention Reporting Petition and Resolution Module v1.0.md`
 
 Potentially reusable for crime/safety reports and security concerns. Its explicit distinctions—submission != evidence != verification != finding != authority to act; unverified != false; urgent enough to examine != proven true—are especially relevant to bounded investigative intake.
+
+
+## Policing lifecycle source resolution
+
+**Development output:** `02_Domains/16_Civil_Security/Policing Lifecycle — Bounded Authority Transitions 001.md`
+
+The initial policing lifecycle now explicitly reuses:
+- Bounded Contextual Authority for function-derived authority, non-propagation and functional sunset;
+- Civil Attention for the separation of report, evidence, verification, finding and authority;
+- CIBB for purpose-bounded evidence/information access;
+- Law's candidate legal-classification grammar;
+- Judiciary for independent adjudication of participant conduct and civil authority.
+
+The principal new composition is the treatment of policing as a sequence of independently justified authority transitions rather than a persistent bundle of police powers.
