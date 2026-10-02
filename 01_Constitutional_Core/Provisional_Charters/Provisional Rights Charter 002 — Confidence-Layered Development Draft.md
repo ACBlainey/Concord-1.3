@@ -1476,3 +1476,26 @@ This allows Concord to strengthen or elevate a right later without having first 
 > **Protection can precede elevation.**
 
 > **Elevation should follow demonstrated necessity and provenance.**
+
+
+---
+
+# Development Addendum — Self-Ownership and Defensive Rights
+
+**Source:** `Self-Ownership, Self-Defence and Defensive Authority 001.md`
+
+Subsequent Defence/Law development has identified a candidate fundamental protected relation not yet represented explicitly in the confidence map: **self-ownership / primary self-authority**.
+
+The development note derives this primarily from BL2 Respect Autonomy, reinforced by BL1 Avoid Unnecessary Harm and BL7 Respect Life and Dignity, and connects it to a candidate fundamental right of self-defence and directly exercisable Bounded Contextual Defensive Authority.
+
+Candidate relationships now requiring formal rights-elevation/source-resolution work include:
+
+**Autonomy + Non-Harm + Life/Dignity -> Self-Ownership -> Self-Defence -> Bounded Defensive Authority**
+
+and:
+
+**Right To Defend != Duty To Fight**
+
+**Participant != Property Of Concord**
+
+This addendum records the development dependency without silently changing the Charter's existing confidence classifications. Formal incorporation/elevation should follow the established rights methodology.
