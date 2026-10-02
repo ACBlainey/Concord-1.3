@@ -22,3 +22,8 @@ Current Law/Civil Security development makes explicit an implication already com
 **Participant Conduct Review + Civil Authority Review**
 
 The findings are independent: participant unlawfulness does not establish police lawfulness, and participant lawfulness does not establish police unlawfulness.
+
+
+## Prosecution-threshold interface
+
+The developing Law architecture now separates investigation, prosecution threshold and adjudication. Prosecution is justified by sufficient evidence to require independent adjudication; it is not a police finding of guilt. Judiciary remains responsible for contested legal outcomes and may review the evidential and authority basis where legally relevant.
