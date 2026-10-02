@@ -319,7 +319,9 @@ Release does not necessarily terminate a legitimate investigation.
 Where the matter is sufficiently resolved and no further legitimate function remains.
 
 ### Prosecution referral
-Where the legally required evidential/public-authority threshold for prosecution is met.
+Where the legally defined referral condition is met, the whole evidential state is transferred for independent prosecution-threshold assessment.
+
+The referral condition is distinct from the prosecution threshold. Civil Security need not and should not determine that prosecution itself is justified before the independent prosecution function receives the case.
 
 **Release != Declaration That Initial Intervention Was Unlawful**
 
@@ -335,7 +337,11 @@ Police/Civil Security should not itself convert investigation into final guilt.
 
 Referral should transfer a bounded case/evidence package to the legitimate prosecution function.
 
-The prosecution function must independently assess its own legal threshold.
+The prosecution function must independently assess the legally established prosecution threshold.
+
+**Referral Condition != Prosecution Threshold**
+
+**Police Referral != Police Finding That Prosecution Threshold Is Met**
 
 **Police Finding != Prosecutorial Obligation**
 
@@ -343,7 +349,7 @@ The prosecution function must independently assess its own legal threshold.
 
 **Referral != Authority To Conceal Exculpatory Information**
 
-The exact prosecution architecture remains undeveloped and should not be invented here.
+The prosecution interface is developed in `02_Domains/09_Law/Independent Prosecution Function — Referral, Threshold and Adjudication Handoff 001.md`.
 
 ---
 
