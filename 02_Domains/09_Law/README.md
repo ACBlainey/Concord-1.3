@@ -82,3 +82,10 @@ The third policing stress-test gap is provisionally resolved:
 **Police establish the evidential state. Prosecution tests whether that state justifies adjudication. Judiciary determines the contested legal outcome.**
 
 The threshold is based on the whole evidential state rather than raw evidence count, remains subject to material-evidence reassessment, and is to be calibrated through legal expertise, judicial interpretation and empirical case evidence rather than invented numerically at this stage.
+
+
+## Mirrored investigative evidence interface
+
+Civil Security now contains `02_Domains/16_Civil_Security/Mirrored Investigative Reality Trees — Evidence and Hypothesis Architecture 001.md`.
+
+The structure operationalises Law's whole-evidential-state requirement before prosecution: inculpatory, exculpatory, contradictory and unresolved evidence remain visible together with provenance and dependencies. Reality-tree weighting is decision support, not guilt, authority or an automatic prosecution threshold.
