@@ -78,6 +78,7 @@
     "exitRoute": {},
     "effectiveTime": "2026-10-02",
     "reviewState": "NOT_REQUIRED",
-    "provenance": {}
+    "provenance": {},
+    "participantNarrowingBasis": "NOT_APPLICABLE"
   }
 }
