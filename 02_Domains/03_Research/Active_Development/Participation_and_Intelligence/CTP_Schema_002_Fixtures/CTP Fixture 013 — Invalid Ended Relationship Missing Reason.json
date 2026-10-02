@@ -1,0 +1,65 @@
+{
+  "recordType": "ETR",
+  "modelVersion": "0.5",
+  "record": {
+    "etrId": "ETR-013",
+    "relationshipRef": "REL-13",
+    "transitionTrigger": "PARTICIPANT_EXIT",
+    "currentExposureProfile": {
+      "storage": 10
+    },
+    "requestedExposureProfile": {},
+    "dimensionTransitions": [],
+    "legitimateFunctionOrRequest": "end relationship",
+    "consequenceAssessment": {
+      "classification": "LOW",
+      "consequential": false,
+      "basis": "exit",
+      "assessedAt": "2026-10-02"
+    },
+    "errSet": [],
+    "materialAdverseEvidence": [],
+    "materialHighConsequenceExceptions": [],
+    "evidenceSufficiencyState": "NOT_REQUIRED_FOR_TRANSITION",
+    "resourcePrerequisite": {
+      "applicability": "NOT_REQUIRED_FOR_FUNCTION",
+      "state": "NOT_APPLICABLE",
+      "checkedAt": "2026-10-02",
+      "disputeState": "NONE"
+    },
+    "selfStewardshipPrerequisite": {
+      "applicability": "NOT_REQUIRED_FOR_FUNCTION",
+      "state": "NOT_APPLICABLE",
+      "checkedAt": "2026-10-02",
+      "disputeState": "NONE"
+    },
+    "authorityPrerequisite": {
+      "applicability": "NOT_REQUIRED_FOR_FUNCTION",
+      "state": "NOT_APPLICABLE",
+      "checkedAt": "2026-10-02",
+      "disputeState": "NONE"
+    },
+    "compositionPrerequisite": {
+      "applicability": "NOT_REQUIRED_FOR_FUNCTION",
+      "state": "NOT_APPLICABLE",
+      "checkedAt": "2026-10-02",
+      "disputeState": "NONE"
+    },
+    "contestabilityPrerequisite": {
+      "applicability": "NOT_REQUIRED_FOR_FUNCTION",
+      "state": "NOT_APPLICABLE",
+      "checkedAt": "2026-10-02",
+      "disputeState": "NONE"
+    },
+    "privacyBoundary": {},
+    "addedControls": [],
+    "decisionState": "ENDED",
+    "decisionBasis": "exit",
+    "recoveryRoute": {},
+    "exitRoute": {},
+    "effectiveTime": "2026-10-02",
+    "reviewState": "NOT_REQUIRED",
+    "reviewFailureDisposition": "NOT_APPLICABLE",
+    "provenance": {}
+  }
+}
