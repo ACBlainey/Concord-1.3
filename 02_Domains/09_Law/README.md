@@ -20,3 +20,16 @@ This README establishes the domain boundary and current maturity honestly. Exist
 `Self-Defence and Defensive Authority — Initial Legal Framework 001.md`
 
 This begins ordinary-law development of necessity, proportionality, defensive Bounded Contextual Authority, retreat, defence of others, voluntarily accepted protective duties, functional sunset and review. It does not yet constitute a completed self-defence code.
+
+
+## Candidate general legal grammar
+
+`Concord Legal Classification Grammar — Illegality, Lawfulness, Justification and Mitigation 001.md`
+
+This development separates prohibited-act classification from justification and mitigation. Its candidate sequence is:
+
+**Ethical Kernel -> Rights / Protected Relations -> Legal Prohibition -> Act -> BCA / Consent / Other Defence -> Lawful or Unlawful -> Culpability -> Mitigation / Aggravation -> Adjudication -> Proportionate Consequence / Remedy**
+
+It also establishes that each exercise of authority is independently testable: an apparently illegal act may justify investigation/apprehension without establishing guilt, and later proof of self-defence may establish lawful conduct without retroactively making an independently justified initial investigation unlawful.
+
+The framework is a candidate general Law architecture and requires cross-offence testing before elevation.
