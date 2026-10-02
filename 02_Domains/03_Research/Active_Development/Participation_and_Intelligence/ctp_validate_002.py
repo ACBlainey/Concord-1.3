@@ -55,7 +55,7 @@ def semantic_errors(x):
         if basis and (basis.startswith("CTP") or basis==str(r.get("etrId","")).upper()): e.append("V-ETR-13")
         # V-ETR-14/15 are affirmative validity rules: empty errSet is not an error.
         if r.get("decisionState")=="PARTIALLY_APPROVED_BOUNDED" and len(set(ds))<2: e.append("V-ETR-16")
-        if r.get("transitionTrigger")=="PARTICIPANT_REQUEST" and r.get("decisionState") in ("NARROW_EXPOSURE","ENDED") and r.get("participantNarrowingBasis")=="ADVERSE_EVIDENCE_REQUIRED": e.append("V-ETR-17")
+        if r.get("transitionTrigger") in ("PARTICIPANT_REQUEST","PARTICIPANT_EXIT") and r.get("decisionState") in ("NARROW_EXPOSURE","ENDED") and r.get("participantNarrowingBasis")=="ADVERSE_EVIDENCE_REQUIRED": e.append("V-ETR-17")
     return sorted(set(e))
 
 def main():
