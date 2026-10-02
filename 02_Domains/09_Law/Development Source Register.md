@@ -61,3 +61,17 @@ The graduated intake/routing architecture can be adapted for complaints, legal-r
 **Law development:** `02_Domains/09_Law/Self-Defence and Defensive Authority — Initial Legal Framework 001.md`
 
 These establish new development inputs for ordinary Law: self-ownership/primary self-authority, self-defence, defence of others, retreat, necessity, proportionality, directly exercisable Bounded Contextual Authority, voluntarily accepted protective duties, cessation and post-event review. Detailed legal tests remain unresolved.
+
+
+## Unlawfully obtained evidence — provisional resolution
+
+**Development output:** `02_Domains/09_Law/Unlawfully Obtained Evidence — Evidential Continuity and Independent Accountability 001.md`
+
+Source problem: Policing Lifecycle Scenario Stress Test 001 identified the unresolved consequence of evidence acquired through invalid authority.
+
+Current candidate resolution separates:
+- evidential existence/weight from acquisition lawfulness;
+- truth-finding from misconduct accountability;
+- error, negligence, recklessness, deliberate misconduct and systematic abuse as distinct culpability conditions.
+
+No automatic evidential exclusion is derived merely from unlawful acquisition. The acquisition violation remains independently reviewable and sanctionable.
