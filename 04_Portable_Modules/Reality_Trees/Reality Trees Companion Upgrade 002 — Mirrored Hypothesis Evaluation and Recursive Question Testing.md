@@ -2,7 +2,7 @@
 
 **Author:** Alexander C. Blainey — Independent Researcher  
 **Project:** The Concord Framework  
-**Status:** PMEDG EXTRACTION CANDIDATE / NOT YET GRADUATED  
+**Status:** PMEDG GRADUATED PORTABLE COMPANION  
 **Parent:** Reality Trees — Portable Module v1.0  
 **Related methods:** Blaineyan Reasoning; Evaluation-Space Completeness Problem (ESCP)  
 **Evidence base:** Civil Security investigative stress test; medical diagnostic transfer test; engineering/system-failure transfer test  
@@ -564,23 +564,42 @@ These definitions bound judgment without pretending that every receiving domain 
 
 ## 22. PMEDG status
 
-Current status:
+**PMEDG GRADUATED PORTABLE COMPANION — 2 October 2026**
 
-**PMEDG EXTRACTION CANDIDATE / NOT YET GRADUATED**
-
-Evidence currently supports:
-- internal policing stress-test transfer;
+Graduation evidence includes:
+- Civil Security investigative stress-test transfer;
 - medical diagnostic transfer;
 - engineering/system-failure transfer;
-- source-resolution against parent modules.
+- source resolution against parent modules;
+- MRT-BTT-001 blind standalone transfer test;
+- MRT-DBR-002 dependency-boundary regression test;
+- interface testing for Blaineyan Reasoning and ESCP hidden dependencies;
+- adversarial testing for evidence multiplication, forced exclusivity, authority leakage, highest-weight fallback and root immunity.
 
-Before graduation, recommended tests are:
+The first blind test demonstrated transfer of the distinctive mirrored mechanism to a clean evaluator and novel greenhouse scenario while identifying a standalone/parent-boundary ambiguity.
 
-1. **blind standalone transfer test** — can a clean evaluator correctly use the companion without Concord context?
-2. **regression test** — does the companion preserve Reality Trees' parent boundaries?
-3. **interface test** — does it invoke ESCP/Blaineyan Reasoning without making either a hidden dependency?
-4. **adversarial test** — can the method resist one-sided mirroring, evidence multiplication and root immunity?
+The candidate was narrowly refined without changing its core mirrored architecture.
 
-Until those tests pass:
+The second clean regression test confirmed:
+- the compact mirrored cycle is executable from this companion alone;
+- no missing core rule had to be invented;
+- the parent dependency boundary is clear;
+- Blaineyan Reasoning and ESCP remain interfaces rather than hidden dependencies;
+- disposition and contradiction-ladder escalation are sufficiently bounded at specification level;
+- the materiality/dependency rule is operational;
+- no new contradiction was introduced by the revision.
 
-> **MIRRORED HYPOTHESIS EVALUATION IS A STRONG PORTABLE CANDIDATE, NOT A GRADUATED METHOD.**
+Therefore:
+
+> **MIRRORED HYPOTHESIS EVALUATION HAS SATISFIED ITS STATED PMEDG GRADUATION TEST PROGRAMME.**
+
+Graduation means the companion has demonstrated sufficient specification maturity and cross-domain portability for portable use.
+
+It does **not** mean:
+- universal empirical validation;
+- universal superiority;
+- applicability to every domain;
+- truth or authority generation;
+- immunity from future revision.
+
+Future changes should preserve provenance and use normal versioning/regression practice where they materially alter the tested invariants or execution boundary.
