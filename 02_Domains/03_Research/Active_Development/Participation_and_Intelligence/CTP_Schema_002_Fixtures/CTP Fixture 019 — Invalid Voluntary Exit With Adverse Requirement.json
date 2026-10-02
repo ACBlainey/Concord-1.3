@@ -76,6 +76,7 @@
     "reviewState": "NOT_REQUIRED",
     "reviewFailureDisposition": "NOT_APPLICABLE",
     "endReason": "PARTICIPANT_EXIT",
-    "provenance": {}
+    "provenance": {},
+    "participantNarrowingBasis": "ADVERSE_EVIDENCE_REQUIRED"
   }
 }
