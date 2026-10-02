@@ -67,7 +67,7 @@
     "privacyBoundary": {},
     "addedControls": [],
     "decisionState": "ENDED",
-    "decisionBasis": "participant exercised exit",
+    "decisionBasis": "REQUIRES_ADVERSE_EVIDENCE before participant-requested exit",
     "recoveryRoute": {},
     "exitRoute": {
       "completed": true
