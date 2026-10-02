@@ -1,0 +1,33 @@
+{
+  "recordType": "ERR",
+  "modelVersion": "0.4",
+  "record": {
+    "errId": "ERR-006",
+    "evidenceRef": "EV-6",
+    "evidenceType": "AUDIT_RESULT",
+    "subjectRelationshipRef": "REL-6",
+    "projectionState": "PROJECTED",
+    "sourceFunction": "storage",
+    "sourceContext": {},
+    "evidenceObservedAt": "2026-09-01",
+    "acquisitionBasis": "INDEPENDENT_PUBLIC_EVIDENCE",
+    "evidenceUseLegitimacy": "LEGITIMATE_FOR_TARGET_USE",
+    "observationConditions": {},
+    "observationIntegrity": "VALID",
+    "observationCoverage": "NOT_APPLICABLE",
+    "targetFunction": "storage",
+    "targetContext": {},
+    "targetExposureDimension": "quota",
+    "relevanceState": "DIRECTLY_RELEVANT",
+    "relevanceBasis": "Audit",
+    "consequenceCompatibility": "SAME_OR_LOWER_CONSEQUENCE",
+    "freshnessState": "FRESH",
+    "identityContinuityState": "ESTABLISHED_FOR_PURPOSE",
+    "causationState": "NOT_APPLICABLE",
+    "correctionState": "NONE_REQUIRED",
+    "disputeState": "NONE",
+    "provenance": {},
+    "assessmentTime": "2026-10-02",
+    "reviewState": "NOT_REQUIRED"
+  }
+}
