@@ -33,3 +33,10 @@ This development separates prohibited-act classification from justification and 
 It also establishes that each exercise of authority is independently testable: an apparently illegal act may justify investigation/apprehension without establishing guilt, and later proof of self-defence may establish lawful conduct without retroactively making an independently justified initial investigation unlawful.
 
 The framework is a candidate general Law architecture and requires cross-offence testing before elevation.
+
+
+## Independent review of enforcement authority
+
+The candidate legal grammar applies equally to enforcement. Civil Security development now records a dual-review model in `02_Domains/16_Civil_Security/Policing Dual Review and Independent Authority Audit — Basic Architecture 001.md`.
+
+Each consequential authority exercise—intervention, restraint, apprehension, search, detention, evidence access and later restriction—requires its own legal/BCA basis and must remain independently reviewable. Institutional self-investigation is not sufficient final accountability where the institution's own conduct is materially at issue.
