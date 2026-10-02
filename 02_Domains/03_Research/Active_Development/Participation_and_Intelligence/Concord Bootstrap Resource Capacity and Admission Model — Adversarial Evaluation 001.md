@@ -42,7 +42,7 @@ Test scarcity, failure, strategic behaviour and mixed funding without converting
 
 16. **Sponsor demands control — PASS boundary.** Funding does not create civil authority.
 
-17. **Rich participant rents all spare capacity — UNRESOLVED ECONOMIC POLICY DEPENDENCY.** Source resolution places ownership in Economy and Value Coordination / Resource Allocation and Stewardship, with Markets and Economic Protections interfaces. Existing architecture recognises competing access, anti-collusion/manipulation and contestability, but the reviewed sources do not supply a developed concentration rule. The bootstrap model must not invent one. **Wealth != Standing** remains valid, but whether concentration of scarce rentable capacity should be capped requires separate economic development.
+17. **Rich participant rents all spare capacity — SUBSEQUENTLY SOURCE-RESOLVED.** Economy and Value Coordination / Resource Allocation and Stewardship now establishes the planned concentration rule in `Concord-Controlled Scarce Resource Concentration — Planned Allocation Principle 001.md`. Scarce Concord-controlled capacity may use capacity-dependent maximum allocation limits to preserve participant access, resilience and anti-capture objectives. Numerical limits remain deferred until actual capacity exists. The limit applies only to Concord-controlled capacity and does not prohibit participants obtaining additional resources externally. **Wealth != Standing; Ability To Pay != Unlimited Claim On Concord-Controlled Capacity; Concord Allocation Limit != Participant Consumption Limit.**
 
 18. **Cheap but dangerous action — PASS.** Resource quantity and consequence are orthogonal; CBPR governs consequential execution.
 
@@ -73,7 +73,7 @@ No new civilisational abstraction layer is exposed. Required bounded revision:
 - capacity claim must be separate from evidence;
 - unused committed capacity remains committed until legitimate reclamation;
 - federation does not merge authority;
-- resource concentration by wealthy participants is a separate Economy/Resource Coordination policy gap, not a bootstrap-rule gap.
+- resource concentration remains an Economy/Resource Coordination-owned policy rather than a bootstrap-created rule; subsequent development has now resolved its architecture while deferring quantitative limits until real capacity exists.
 
 ## Added candidate invariants
 
