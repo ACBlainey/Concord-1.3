@@ -388,20 +388,38 @@ Multiple compatible providers may jointly supply a function without merging civi
 
 **BRCA-37 Federation != Authority Union.**
 
-### 27.8 Concentration boundary
+### 27.8 Concentration boundary — source-resolved
 
-A wealthy participant may be technically and economically able to rent a large fraction of spare capacity. The reviewed Economy/Resource Coordination sources establish ownership of competing access, stewardship claims, market integrity and contestability, but do not yet establish a complete concentration rule.
+Subsequent Economy / Resource Allocation development resolves the architectural dependency in:
 
-Therefore this model records rather than resolves the issue:
+`02_Domains/06_Economy_and_Value_Coordination/04_Resource_Allocation_and_Stewardship/Concord-Controlled Scarce Resource Concentration — Planned Allocation Principle 001.md`
 
-**Economic Capacity Concentration Policy = EXTERNAL DEPENDENCY / UNRESOLVED**
+Scarce Concord-controlled capacity may be subject to a **capacity-dependent maximum-use/allocation limit** sufficient to preserve meaningful population access, resilience and anti-capture objectives.
 
 The bootstrap model must not infer either:
 
-- Wealth -> Right To All Spare Capacity; or
+- Wealth -> Right To All Spare Concord Capacity; or
 - Wealth -> Automatic Disqualification From Large Allocation.
 
-A later Economy/Resource Coordination development should determine when concentration creates unacceptable exclusion, fragility, manipulation, monopoly/capture or resilience loss.
+Instead:
+
+**Available Capacity != Unlimited Individual Entitlement**
+
+**Ability To Pay != Unlimited Claim On Concord-Controlled Capacity**
+
+**Concord Allocation Limit != Participant Consumption Limit**
+
+**Concord Resource Scarcity != Prohibition On External Supply**
+
+A participant who reaches a Concord allocation limit remains free, subject to ordinary applicable law and external terms, to obtain additional resources from external providers. Concord does not thereby become responsible for those independent external contracts or services unless it separately undertakes such an obligation.
+
+Numerical limits are intentionally deferred because Concord currently has no material resource base from which responsible thresholds can be derived. They should be determined from actual deliverable capacity, commitments, reserves, demand, resilience requirements and operational evidence.
+
+Therefore:
+
+**Economic Capacity Concentration Policy = ARCHITECTURALLY RESOLVED / QUANTITATIVE POLICY DEFERRED**
+
+This remains an external Economy-owned policy consumed by the bootstrap model rather than a bootstrap-created economic rule.
 
 ### 27.9 Revised minimum live-service state
 
@@ -413,6 +431,6 @@ Function + ResourcePool + DeliverableCapacityBasis + Availability + AdmissionSta
 
 With the adversarial additions above, the capacity/admission model is stable enough for integration into the next CMSS bounded revision.
 
-It is **not** ready for PMEDG extraction because numerical policy, anti-Sybil resolution, economic concentration policy and deployed evidence remain unresolved.
+It is **not** ready for PMEDG extraction because numerical allocation policy, anti-Sybil resolution and deployed evidence remain unresolved. Economic concentration is now architecturally resolved, with quantitative limits deliberately deferred until real resource capacity exists.
 
 No further broad architectural discovery is currently indicated for this model unless new scenarios expose a missing abstraction layer.
