@@ -518,7 +518,15 @@ IPF-20 Public Prosecution Authority != Self-Validating Authority.
 IPF-21 Prosecution May Identify Evidential Deficit != Prosecution May Dictate Investigative Conclusion.  
 IPF-22 Acquittal != Automatic Prosecution Failure.  
 IPF-23 Conviction != Automatic Proof Of Proper Prosecution Conduct.  
-IPF-24 Judiciary != Prosecution Confirmation Layer.
+IPF-24 Judiciary != Prosecution Confirmation Layer.  
+IPF-25 Threshold Failure != Authority For Indefinite Case-Building.  
+IPF-26 Return For Further Investigation Requires An Articulable Material Evidential Question And Continuing Legitimate Investigative Function.  
+IPF-27 Repeated Referral != Prosecution Sufficiency.  
+IPF-28 Event Evidential Sufficiency != Individual Attribution Sufficiency.  
+IPF-29 Personal Prosecutorial Belief != Lawful Exception.  
+IPF-30 Explicit Non-Prosecution Exception Requires Its Own Bounded And Reviewable Authority.  
+IPF-31 Prosecution Independence != Investigative Command Authority.  
+IPF-32 Prosecution Quality != Conviction Maximisation.
 
 ---
 
