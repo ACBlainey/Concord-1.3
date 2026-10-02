@@ -52,3 +52,12 @@ Graduated portable mechanisms potentially reusable for legal architecture includ
 **Source:** `04_Portable_Modules/Civil Attention Reporting Petition and Resolution Module v1.0.md`
 
 The graduated intake/routing architecture can be adapted for complaints, legal-reform submissions and reports without recreating submission handling. Its separation of submission, evidence, verification, finding and authority is directly relevant to legal process design.
+
+
+## Self-ownership and defensive rights
+
+**Constitutional source:** `01_Constitutional_Core/Provisional_Charters/Self-Ownership, Self-Defence and Defensive Authority 001.md`
+
+**Law development:** `02_Domains/09_Law/Self-Defence and Defensive Authority — Initial Legal Framework 001.md`
+
+These establish new development inputs for ordinary Law: self-ownership/primary self-authority, self-defence, defence of others, retreat, necessity, proportionality, directly exercisable Bounded Contextual Authority, voluntarily accepted protective duties, cessation and post-event review. Detailed legal tests remain unresolved.
