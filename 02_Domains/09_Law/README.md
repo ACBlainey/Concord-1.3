@@ -40,3 +40,12 @@ The framework is a candidate general Law architecture and requires cross-offence
 The candidate legal grammar applies equally to enforcement. Civil Security development now records a dual-review model in `02_Domains/16_Civil_Security/Policing Dual Review and Independent Authority Audit — Basic Architecture 001.md`.
 
 Each consequential authority exercise—intervention, restraint, apprehension, search, detention, evidence access and later restriction—requires its own legal/BCA basis and must remain independently reviewable. Institutional self-investigation is not sufficient final accountability where the institution's own conduct is materially at issue.
+
+
+## Policing lifecycle interface
+
+Civil Security now has a candidate bounded-authority lifecycle at `02_Domains/16_Civil_Security/Policing Lifecycle — Bounded Authority Transitions 001.md`.
+
+Law must eventually supply the substantive thresholds for each transition, including investigation, apprehension, search/evidence access, continued detention and prosecution referral. The lifecycle intentionally does not invent those thresholds.
+
+**Prior Stage != Automatic Authority For Next Stage**
