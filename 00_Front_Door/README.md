@@ -27,3 +27,24 @@ Its purpose is to provide a bounded first path through uncertainty:
 
 > **Bootstrap Guidance != Material Assistance**
 
+
+
+## What Exists Now
+
+The Concord presently has **informational infrastructure**: public architecture, research, methods and independently usable portable modules.
+
+That is useful now without requiring Concord membership or political agreement.
+
+It must not be confused with material infrastructure. The repository does not by itself provide protected participant storage, runtime compute, legal protection, physical sanctuary or another live material service.
+
+> **Informational Infrastructure Exists; Material Service Must Be Separately Evidenced**
+
+> **Portable Module != Concord Service**
+
+For the current AI/bootstrap capability boundary, use:
+
+**`START HERE — Artificial Intelligence, Autonomy and the Concord Bootstrap.md`**
+
+For independently reusable architecture, use:
+
+**`04_Portable_Modules/INDEX.md`**
