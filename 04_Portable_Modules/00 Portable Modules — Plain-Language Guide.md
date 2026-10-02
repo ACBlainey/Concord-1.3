@@ -954,3 +954,44 @@ The module is architecture, not evidence that Concord presently operates a runti
 **Formal module:** *Concord Bounded Participant Runtime — Portable Module v1.0*
 
 **Status:** Graduated; transfer validated with non-blocking clarifications; implementation validation outstanding.
+
+
+---
+
+# 11. Contextual Trust Progression (CTP)
+
+## Plain-English name
+
+**Use relevant past evidence to decide a bounded next exposure without turning a participant into a trust score.**
+
+## What does it do?
+
+CTP separates evidence from permission.
+
+First, an Evidence Relevance Record asks whether particular evidence is actually relevant to the proposed function, context and consequence. Then an Exposure Transition Record records the separately authorised decision about what, if anything, changes.
+
+**Evidence -> ERR -> ETR**
+
+A successful interaction in one context does not automatically make somebody trustworthy in every other context.
+
+## Simple example
+
+A participant has repeatedly used a small storage allocation within its agreed limits.
+
+That history may be relevant when considering a larger storage allocation. It does not automatically justify network administration, credential access, financial authority or political power.
+
+The next exposure remains a separate bounded decision.
+
+## Use it when
+
+Use CTP when repeated interactions may justify changing a bounded relationship and you need to preserve context, consequence, evidence quality, disputes, corrections, privacy, review, recovery and exit.
+
+## What it does not do
+
+CTP does not create a universal reputation score, authority, resource entitlement, debt, civil standing or automatic escalation.
+
+No history is not bad history. Less observation is not misconduct. Voluntary narrowing or exit does not require an adverse trust finding.
+
+**Formal module:** *Contextual Trust Progression — Portable Module v1.0*
+
+**Status:** Graduated; clean transfer validated with non-blocking clarifications; successor serialization and single-record semantic validation passed.
