@@ -81,3 +81,10 @@ The initial policing lifecycle now explicitly reuses:
 - Judiciary for independent adjudication of participant conduct and civil authority.
 
 The principal new composition is the treatment of policing as a sequence of independently justified authority transitions rather than a persistent bundle of police powers.
+
+
+## Mirrored Investigative Reality Trees
+
+**Development output:** `02_Domains/16_Civil_Security/Mirrored Investigative Reality Trees — Evidence and Hypothesis Architecture 001.md`
+
+The investigative model now maintains mirrored inculpatory/exculpatory Reality Trees and an open hypothesis space. It treats suspects as hypotheses rather than conclusions, preserves neutral/unresolved evidence, exposes evidential dependencies, and uses ESCP to detect when the investigation may be evaluating the wrong suspect or an incomplete explanation space.
