@@ -71,3 +71,14 @@ The second policing stress-test gap is provisionally resolved by preserving obje
 **BCA determines whether authority existed. Contextual reasonableness determines culpability for being wrong about it.**
 
 The exact boundary between complete defence/excuse, partial defence and mitigation is left to audit and independent adjudication rather than fixed as a universal binary rule.
+
+
+## Prosecution threshold and evidential sufficiency
+
+`Prosecution Threshold and Evidential Sufficiency — Initial Architecture 001.md`
+
+The third policing stress-test gap is provisionally resolved:
+
+**Police establish the evidential state. Prosecution tests whether that state justifies adjudication. Judiciary determines the contested legal outcome.**
+
+The threshold is based on the whole evidential state rather than raw evidence count, remains subject to material-evidence reassessment, and is to be calibrated through legal expertise, judicial interpretation and empirical case evidence rather than invented numerically at this stage.
