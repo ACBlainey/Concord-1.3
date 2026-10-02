@@ -1,0 +1,83 @@
+{
+  "recordType": "ETR",
+  "modelVersion": "0.4",
+  "record": {
+    "etrId": "ETR-010",
+    "relationshipRef": "REL-10",
+    "transitionTrigger": "PARTICIPANT_REQUEST",
+    "currentExposureProfile": {
+      "network": "none"
+    },
+    "requestedExposureProfile": {
+      "network": "allowlisted"
+    },
+    "dimensionTransitions": [
+      {
+        "dimension": "network",
+        "currentState": "none",
+        "requestedState": "allowlisted",
+        "disposition": "APPROVED_WITH_CONTROLS",
+        "errRefs": [],
+        "prerequisiteRefs": [],
+        "addedControls": [],
+        "basis": "controls claimed"
+      }
+    ],
+    "legitimateFunctionOrRequest": "network pilot",
+    "consequenceAssessment": {
+      "classification": "MODERATE",
+      "consequential": true,
+      "basis": "external reach",
+      "assessedAt": "2026-10-02"
+    },
+    "errSet": [],
+    "materialAdverseEvidence": [],
+    "materialHighConsequenceExceptions": [],
+    "evidenceSufficiencyState": "CONDITIONALLY_SUFFICIENT",
+    "resourcePrerequisite": {
+      "applicability": "REQUIRED",
+      "state": "SATISFIED",
+      "basisRef": "CAP",
+      "checkedAt": "2026-10-02",
+      "disputeState": "NONE"
+    },
+    "selfStewardshipPrerequisite": {
+      "applicability": "REQUIRED",
+      "state": "SATISFIED",
+      "basisRef": "SS",
+      "checkedAt": "2026-10-02",
+      "disputeState": "NONE"
+    },
+    "authorityPrerequisite": {
+      "applicability": "REQUIRED",
+      "state": "SATISFIED",
+      "basisRef": "AUTH",
+      "checkedAt": "2026-10-02",
+      "disputeState": "NONE"
+    },
+    "compositionPrerequisite": {
+      "applicability": "REQUIRED",
+      "state": "SATISFIED",
+      "basisRef": "COMP",
+      "checkedAt": "2026-10-02",
+      "disputeState": "NONE"
+    },
+    "contestabilityPrerequisite": {
+      "applicability": "REQUIRED",
+      "state": "SATISFIED",
+      "basisRef": "REV",
+      "checkedAt": "2026-10-02",
+      "disputeState": "NONE"
+    },
+    "privacyBoundary": {},
+    "addedControls": [],
+    "decisionState": "APPROVED_WITH_ADDITIONAL_CONTROLS",
+    "decisionBasis": "controls claimed but absent",
+    "recoveryRoute": {},
+    "exitRoute": {},
+    "effectiveTime": "2026-10-02",
+    "reviewState": "NOT_REQUIRED",
+    "reviewFailureDisposition": "NOT_APPLICABLE",
+    "provenance": {}
+  }
+}

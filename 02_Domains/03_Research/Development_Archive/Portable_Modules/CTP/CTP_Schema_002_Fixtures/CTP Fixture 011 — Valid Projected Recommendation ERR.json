@@ -1,0 +1,44 @@
+{
+  "recordType": "ERR",
+  "modelVersion": "0.5",
+  "record": {
+    "errId": "ERR-011",
+    "evidenceRef": "EV-011",
+    "evidenceType": "RECOMMENDATION",
+    "subjectRelationshipRef": "REL-11",
+    "projectionState": "PROJECTED",
+    "sourceProviderRef": "PROVIDER-A",
+    "sourceFunction": "software-maintenance",
+    "sourceContext": {
+      "scope": "bounded"
+    },
+    "evidenceObservedAt": "2026-09-20",
+    "evidenceProjectedAt": "2026-10-01",
+    "acquisitionBasis": "OTHER_DECLARED",
+    "evidenceUseLegitimacy": "LEGITIMATE_WITH_LIMITS",
+    "observationConditions": {
+      "type": "recommendation"
+    },
+    "observationIntegrity": "VALID",
+    "observationCoverage": "NOT_APPLICABLE",
+    "targetFunction": "software-maintenance",
+    "targetContext": {
+      "scope": "different-project"
+    },
+    "targetExposureDimension": "Autonomy",
+    "relevanceState": "PARTIALLY_RELEVANT",
+    "relevanceBasis": "Recommendation is contextual evidence only",
+    "consequenceCompatibility": "PARTIALLY_COMPARABLE",
+    "freshnessState": "FRESH",
+    "identityContinuityState": "ESTABLISHED_FOR_PURPOSE",
+    "causationState": "NOT_APPLICABLE",
+    "correctionState": "NONE_REQUIRED",
+    "disputeState": "NONE",
+    "provenance": {
+      "projection": "PROJ-11"
+    },
+    "assessmentTime": "2026-10-02",
+    "reviewState": "NOT_REQUIRED",
+    "disputeMateriality": "NOT_APPLICABLE"
+  }
+}

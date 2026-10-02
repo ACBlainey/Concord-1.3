@@ -1,0 +1,382 @@
+{
+  "archive_id": "CTP-ROUTE-B-DEVELOPMENT-ARCHIVE-001",
+  "created": "2026-10-02",
+  "source_root": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence",
+  "archive_root": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP",
+  "file_count": 62,
+  "rule": "Archive copies must reference the exact source blob SHA. Source cleanup is prohibited until archive verification reports zero mismatches.",
+  "files": [
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/Concord Contextual Trust Progression — Adversarial Evaluation 001.md",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/Concord Contextual Trust Progression — Adversarial Evaluation 001.md",
+      "blob_sha": "a3c03d0f1a406b6e3860285fe8a32f1e265a7267",
+      "size": 10416
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/Concord Contextual Trust Progression — Clean Transfer Evaluator Brief 001.md",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/Concord Contextual Trust Progression — Clean Transfer Evaluator Brief 001.md",
+      "blob_sha": "bf99228908c1fef05ee07c1ba4ba19ade6f7c251",
+      "size": 2374
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/Concord Contextual Trust Progression — Clean Transfer Evaluator Raw Response 001.txt",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/Concord Contextual Trust Progression — Clean Transfer Evaluator Raw Response 001.txt",
+      "blob_sha": "5185e6781e42992a96733e7f427259071ebb24a2",
+      "size": 13551
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/Concord Contextual Trust Progression — Deterministic Validator 001.md",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/Concord Contextual Trust Progression — Deterministic Validator 001.md",
+      "blob_sha": "0fbabeb9744c2837d8b53e373a1a65fa176e8bdc",
+      "size": 2706
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/Concord Contextual Trust Progression — Deterministic Validator 002.md",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/Concord Contextual Trust Progression — Deterministic Validator 002.md",
+      "blob_sha": "2f91459b0ca449c7b2de7c6f7cb3fa68dd3da499",
+      "size": 2969
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/Concord Contextual Trust Progression — Development Model 001.md",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/Concord Contextual Trust Progression — Development Model 001.md",
+      "blob_sha": "126c1feeb0024ac39a70529ad113787ad79b5dda",
+      "size": 14229
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/Concord Contextual Trust Progression — Development Model 002.md",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/Concord Contextual Trust Progression — Development Model 002.md",
+      "blob_sha": "78d052ad59562ab017a195f7f35d855963108507",
+      "size": 16844
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/Concord Contextual Trust Progression — Development Model 003.md",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/Concord Contextual Trust Progression — Development Model 003.md",
+      "blob_sha": "3be90e86c565784e8061c9b0721b851c4204dd1c",
+      "size": 17955
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/Concord Contextual Trust Progression — Exact-Checkout Serialization Validation 004.md",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/Concord Contextual Trust Progression — Exact-Checkout Serialization Validation 004.md",
+      "blob_sha": "8eee871938d232245e11f8f614ab585005ce05f4",
+      "size": 2671
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/Concord Contextual Trust Progression — Exact-Checkout Successor Validation 005.md",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/Concord Contextual Trust Progression — Exact-Checkout Successor Validation 005.md",
+      "blob_sha": "8bcc0aa65609cf3ddff0cda657b5248ebdde1b2b",
+      "size": 1901
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/Concord Contextual Trust Progression — Executable Validation Report 003.md",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/Concord Contextual Trust Progression — Executable Validation Report 003.md",
+      "blob_sha": "af9ae5f36faeaa5e9b3feca3e4739ccdb4a832ec",
+      "size": 3337
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/Concord Contextual Trust Progression — Expanded Fixture Validation Results 002.md",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/Concord Contextual Trust Progression — Expanded Fixture Validation Results 002.md",
+      "blob_sha": "51fab4bd3e29769995fc180388d95e63d79362ca",
+      "size": 4469
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/Concord Contextual Trust Progression — Frozen Transfer Package Manifest 001.md",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/Concord Contextual Trust Progression — Frozen Transfer Package Manifest 001.md",
+      "blob_sha": "043e9faf9890bddcc438d604fd35203f78d6e2af",
+      "size": 6042
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/Concord Contextual Trust Progression — JSON Schema 001.json",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/Concord Contextual Trust Progression — JSON Schema 001.json",
+      "blob_sha": "72105de05d467c05e278788640c6494acdcdbd40",
+      "size": 9096
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/Concord Contextual Trust Progression — JSON Schema 002.json",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/Concord Contextual Trust Progression — JSON Schema 002.json",
+      "blob_sha": "1c216bb3b1e0601c3974f5cff2c4f29d55175d47",
+      "size": 15645
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/Concord Contextual Trust Progression — Normative Record Model 004.md",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/Concord Contextual Trust Progression — Normative Record Model 004.md",
+      "blob_sha": "1c4b993e1cafb3a0ad26424f40c4113f6b1d1c12",
+      "size": 10973
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/Concord Contextual Trust Progression — Normative Record Model 005.md",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/Concord Contextual Trust Progression — Normative Record Model 005.md",
+      "blob_sha": "7b51d07b5a05c44a59d985e70af3a3d9e4214a26",
+      "size": 11666
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/Concord Contextual Trust Progression — PMEDG Graduation Candidate v0.95.md",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/Concord Contextual Trust Progression — PMEDG Graduation Candidate v0.95.md",
+      "blob_sha": "4c6219bc7e164268714716dc319027d5f630096c",
+      "size": 6051
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/Concord Contextual Trust Progression — PMEDG Graduation Review 001.md",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/Concord Contextual Trust Progression — PMEDG Graduation Review 001.md",
+      "blob_sha": "73a88fedfb5172a6da1ec9699af8d9c1ba186e19",
+      "size": 4595
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/Concord Contextual Trust Progression — Post-Transfer Repair Note 001.md",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/Concord Contextual Trust Progression — Post-Transfer Repair Note 001.md",
+      "blob_sha": "4a151f3a29b14b20a1bf9ce049d24b0905161c6c",
+      "size": 726
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/Concord Contextual Trust Progression — Pre-Schema Adversarial Evaluation 002.md",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/Concord Contextual Trust Progression — Pre-Schema Adversarial Evaluation 002.md",
+      "blob_sha": "12cf68484f075b1d7adb80787a805cd4cc0aa1cb",
+      "size": 6549
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/Concord Contextual Trust Progression — Requiredness and Conformance Evaluation 003.md",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/Concord Contextual Trust Progression — Requiredness and Conformance Evaluation 003.md",
+      "blob_sha": "d1533e174f04a5d31f592b15a7851b45f1da2f1c",
+      "size": 9012
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/Concord Contextual Trust Progression — Schema 001 Validation Results 001.md",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/Concord Contextual Trust Progression — Schema 001 Validation Results 001.md",
+      "blob_sha": "b6ceb4989e3c44c3df6b82aeb1c306dd1a2154ac",
+      "size": 1793
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/CTP_Schema_001_Fixtures/CTP Fixture 001 — Valid Direct ERR.json",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/CTP_Schema_001_Fixtures/CTP Fixture 001 — Valid Direct ERR.json",
+      "blob_sha": "7466730e08c7cc614e394f68a7e64911e1942ad7",
+      "size": 1301
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/CTP_Schema_001_Fixtures/CTP Fixture 002 — Valid Mixed ETR.json",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/CTP_Schema_001_Fixtures/CTP Fixture 002 — Valid Mixed ETR.json",
+      "blob_sha": "d8740b285a2f5a4b3b3ed0efb2ddb510b31c647b",
+      "size": 3562
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/CTP_Schema_001_Fixtures/CTP Fixture 003 — Invalid Unknown Authority Approval.json",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/CTP_Schema_001_Fixtures/CTP Fixture 003 — Invalid Unknown Authority Approval.json",
+      "blob_sha": "9744d5cb2a52a51448f97b51375a8477b3eab8f3",
+      "size": 2238
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/CTP_Schema_001_Fixtures/CTP Fixture 004 — Invalid Partial Without Mixed Dimensions.json",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/CTP_Schema_001_Fixtures/CTP Fixture 004 — Invalid Partial Without Mixed Dimensions.json",
+      "blob_sha": "61e5f11872918e04e627e09cc0aeeb11c306bf5e",
+      "size": 2194
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/CTP_Schema_001_Fixtures/CTP Fixture 005 — Invalid Corrected ERR Without Link.json",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/CTP_Schema_001_Fixtures/CTP Fixture 005 — Invalid Corrected ERR Without Link.json",
+      "blob_sha": "9ede0a615cbfa98076f9464a1de2b4944d42f5fa",
+      "size": 1083
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/CTP_Schema_001_Fixtures/CTP Fixture 006 — Invalid Projected ERR Missing Projection Fields.json",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/CTP_Schema_001_Fixtures/CTP Fixture 006 — Invalid Projected ERR Missing Projection Fields.json",
+      "blob_sha": "e496648d31cdf9ff02296afc51cf71cd28519bf4",
+      "size": 1079
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/CTP_Schema_001_Fixtures/CTP Fixture 007 — Invalid Non-Event Without Coverage.json",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/CTP_Schema_001_Fixtures/CTP Fixture 007 — Invalid Non-Event Without Coverage.json",
+      "blob_sha": "97875df98358ccc699563c0da149b76644621e2e",
+      "size": 1145
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/CTP_Schema_001_Fixtures/CTP Fixture 008 — Invalid Required Review Missing Failure Disposition.json",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/CTP_Schema_001_Fixtures/CTP Fixture 008 — Invalid Required Review Missing Failure Disposition.json",
+      "blob_sha": "8c468dc8277574737849e8c498977628e7c1e51d",
+      "size": 2199
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/CTP_Schema_001_Fixtures/CTP Fixture 009 — Invalid Not-Required Prerequisite State Mismatch.json",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/CTP_Schema_001_Fixtures/CTP Fixture 009 — Invalid Not-Required Prerequisite State Mismatch.json",
+      "blob_sha": "3cc1d863d274044438333ee7d497662f47253480",
+      "size": 2209
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/CTP_Schema_001_Fixtures/CTP Fixture 010 — Invalid Conditional Approval Without Controls.json",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/CTP_Schema_001_Fixtures/CTP Fixture 010 — Invalid Conditional Approval Without Controls.json",
+      "blob_sha": "c9574e45ac37619f7b7157e66c68a973f804706e",
+      "size": 2317
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/CTP_Schema_001_Fixtures/CTP Fixture 011 — Valid Projected Recommendation ERR.json",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/CTP_Schema_001_Fixtures/CTP Fixture 011 — Valid Projected Recommendation ERR.json",
+      "blob_sha": "dd4bc1f7e46a6ebad96683169a17d254c829fbc5",
+      "size": 1351
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/CTP_Schema_001_Fixtures/CTP Fixture 012 — Valid Ended Relationship.json",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/CTP_Schema_001_Fixtures/CTP Fixture 012 — Valid Ended Relationship.json",
+      "blob_sha": "eec3f584a5a4e7a8f5e4a638751dafd2fe9538cb",
+      "size": 2293
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/CTP_Schema_001_Fixtures/CTP Fixture 013 — Invalid Ended Relationship Missing Reason.json",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/CTP_Schema_001_Fixtures/CTP Fixture 013 — Invalid Ended Relationship Missing Reason.json",
+      "blob_sha": "f3c4aa1c7e626a3a73c94b7f117d46d5c5457d1f",
+      "size": 1904
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/CTP_Schema_001_Fixtures/CTP Fixture 014 — Valid Corrected Disputed ERR.json",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/CTP_Schema_001_Fixtures/CTP Fixture 014 — Valid Corrected Disputed ERR.json",
+      "blob_sha": "8e29b6dca3b771102ec9d8cbc4c550f8d936c296",
+      "size": 1183
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/CTP_Schema_001_Fixtures/CTP Machine Validation Results 001.json",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/CTP_Schema_001_Fixtures/CTP Machine Validation Results 001.json",
+      "blob_sha": "effda54c8fff18889a3fb33863d14d41d3630113",
+      "size": 4318
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/CTP_Schema_002_Fixtures/CTP Fixture 001 — Valid Direct ERR.json",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/CTP_Schema_002_Fixtures/CTP Fixture 001 — Valid Direct ERR.json",
+      "blob_sha": "eb4e88031ff37fc1d0f94c06e01a2d6c7a93ab66",
+      "size": 1346
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/CTP_Schema_002_Fixtures/CTP Fixture 002 — Valid Mixed ETR.json",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/CTP_Schema_002_Fixtures/CTP Fixture 002 — Valid Mixed ETR.json",
+      "blob_sha": "e426d2c73fbef122a4e9a95b86ed2d5c0d4c1781",
+      "size": 3614
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/CTP_Schema_002_Fixtures/CTP Fixture 003 — Invalid Unknown Authority Approval.json",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/CTP_Schema_002_Fixtures/CTP Fixture 003 — Invalid Unknown Authority Approval.json",
+      "blob_sha": "279d2c37b9a70d23f8a40538ecbde4d38f776ff5",
+      "size": 2290
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/CTP_Schema_002_Fixtures/CTP Fixture 004 — Invalid Partial Without Mixed Dimensions.json",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/CTP_Schema_002_Fixtures/CTP Fixture 004 — Invalid Partial Without Mixed Dimensions.json",
+      "blob_sha": "dc54819fa17d422b7d8ccaccba7dd2367dd2d81e",
+      "size": 2246
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/CTP_Schema_002_Fixtures/CTP Fixture 005 — Invalid Corrected ERR Without Link.json",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/CTP_Schema_002_Fixtures/CTP Fixture 005 — Invalid Corrected ERR Without Link.json",
+      "blob_sha": "6c9a70de25dad20c02840f296f6c7dfa8ed8fca7",
+      "size": 1128
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/CTP_Schema_002_Fixtures/CTP Fixture 006 — Invalid Projected ERR Missing Projection Fields.json",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/CTP_Schema_002_Fixtures/CTP Fixture 006 — Invalid Projected ERR Missing Projection Fields.json",
+      "blob_sha": "fc06fddc6dbadcab21bb8304ef7df8968b5b2642",
+      "size": 1124
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/CTP_Schema_002_Fixtures/CTP Fixture 007 — Invalid Non-Event Without Coverage.json",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/CTP_Schema_002_Fixtures/CTP Fixture 007 — Invalid Non-Event Without Coverage.json",
+      "blob_sha": "da6fd52cd81aa652af639056b54c807d50c21e21",
+      "size": 1190
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/CTP_Schema_002_Fixtures/CTP Fixture 008 — Invalid Required Review Missing Failure Disposition.json",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/CTP_Schema_002_Fixtures/CTP Fixture 008 — Invalid Required Review Missing Failure Disposition.json",
+      "blob_sha": "0edf9b277fe296b2ccb1f14fbe4a92a4ae56a0ec",
+      "size": 2251
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/CTP_Schema_002_Fixtures/CTP Fixture 009 — Invalid Not-Required Prerequisite State Mismatch.json",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/CTP_Schema_002_Fixtures/CTP Fixture 009 — Invalid Not-Required Prerequisite State Mismatch.json",
+      "blob_sha": "f4984548ba5ef8c2091c98a3b9a50df3f1b3b586",
+      "size": 2261
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/CTP_Schema_002_Fixtures/CTP Fixture 010 — Invalid Conditional Approval Without Controls.json",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/CTP_Schema_002_Fixtures/CTP Fixture 010 — Invalid Conditional Approval Without Controls.json",
+      "blob_sha": "71ccdca9bf173b47c4a65d1db9c0e3e85d3a1247",
+      "size": 2369
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/CTP_Schema_002_Fixtures/CTP Fixture 011 — Valid Projected Recommendation ERR.json",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/CTP_Schema_002_Fixtures/CTP Fixture 011 — Valid Projected Recommendation ERR.json",
+      "blob_sha": "80509e524b7cf8616664839e6777d1054150db66",
+      "size": 1396
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/CTP_Schema_002_Fixtures/CTP Fixture 012 — Valid Ended Relationship.json",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/CTP_Schema_002_Fixtures/CTP Fixture 012 — Valid Ended Relationship.json",
+      "blob_sha": "de6b77f9ad493943151d97992181628c03cdf427",
+      "size": 2359
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/CTP_Schema_002_Fixtures/CTP Fixture 013 — Invalid Ended Relationship Missing Reason.json",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/CTP_Schema_002_Fixtures/CTP Fixture 013 — Invalid Ended Relationship Missing Reason.json",
+      "blob_sha": "60a303c2ca75e6f10144a51b4a2fb2e2c0a37b96",
+      "size": 1970
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/CTP_Schema_002_Fixtures/CTP Fixture 014 — Valid Corrected Disputed ERR.json",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/CTP_Schema_002_Fixtures/CTP Fixture 014 — Valid Corrected Disputed ERR.json",
+      "blob_sha": "33fdc8a525160914337a3a0011a63db7819b3c2d",
+      "size": 1236
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/CTP_Schema_002_Fixtures/CTP Fixture 015 — Invalid Changed Dimension Missing Transition.json",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/CTP_Schema_002_Fixtures/CTP Fixture 015 — Invalid Changed Dimension Missing Transition.json",
+      "blob_sha": "4ed371eca091be36f13691617c9639e0e97fa643",
+      "size": 2443
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/CTP_Schema_002_Fixtures/CTP Fixture 016 — Invalid Partial Approved Dimension Bad Prerequisite.json",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/CTP_Schema_002_Fixtures/CTP Fixture 016 — Invalid Partial Approved Dimension Bad Prerequisite.json",
+      "blob_sha": "fffb3034a9782ddd979ed8445f1eeb88acf24164",
+      "size": 3615
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/CTP_Schema_002_Fixtures/CTP Fixture 017 — Invalid CTP Self Authority Basis.json",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/CTP_Schema_002_Fixtures/CTP Fixture 017 — Invalid CTP Self Authority Basis.json",
+      "blob_sha": "f3d8dd9b84b3a48eaceb799a04be188722fd4c73",
+      "size": 3579
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/CTP_Schema_002_Fixtures/CTP Fixture 018 — Invalid Not Required Review Failure Action.json",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/CTP_Schema_002_Fixtures/CTP Fixture 018 — Invalid Not Required Review Failure Action.json",
+      "blob_sha": "a22439237cfebacf91d629aec09a20ce20ddbdfb",
+      "size": 3600
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/CTP_Schema_002_Fixtures/CTP Fixture 019 — Invalid Voluntary Exit With Adverse Requirement.json",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/CTP_Schema_002_Fixtures/CTP Fixture 019 — Invalid Voluntary Exit With Adverse Requirement.json",
+      "blob_sha": "1d06a67426aa5d38f8c1634821cf4bc50c4f18ae",
+      "size": 2413
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/CTP_Schema_002_Fixtures/CTP Fixture 020 — Valid Empty ERR Set.json",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/CTP_Schema_002_Fixtures/CTP Fixture 020 — Valid Empty ERR Set.json",
+      "blob_sha": "d9e8308d2bac0ef15951537e8e42da9f7cf750a4",
+      "size": 3596
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/CTP_Schema_002_Fixtures/CTP Fixture 021 — Valid Nonmaterial Open Dispute Without Ref.json",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/CTP_Schema_002_Fixtures/CTP Fixture 021 — Valid Nonmaterial Open Dispute Without Ref.json",
+      "blob_sha": "d72d1d4e05ac04c2911d2de7e3e409bd25935866",
+      "size": 1211
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/CTP_Schema_002_Fixtures/CTP Fixture 022 — Invalid Material Open Dispute Missing Ref.json",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/CTP_Schema_002_Fixtures/CTP Fixture 022 — Invalid Material Open Dispute Missing Ref.json",
+      "blob_sha": "26ad229dd698014dc3d9a7158b141c24dc3faa51",
+      "size": 1207
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/ctp_validate_001.py",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/ctp_validate_001.py",
+      "blob_sha": "deeef5f5c77b7fa87c8ea014ee71a24b9cf85754",
+      "size": 5221
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/ctp_validate_002.py",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CTP/ctp_validate_002.py",
+      "blob_sha": "2686dba7b0a8258a762149d4b0a49998479738c8",
+      "size": 6209
+    }
+  ]
+}

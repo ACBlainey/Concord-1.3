@@ -1,0 +1,155 @@
+{
+  "suite": "CTP Schema 001 / Deterministic Validator 001",
+  "executed_at_declared": "2026-10-02",
+  "fixture_count": 14,
+  "matched_count": 14,
+  "all_expected_matched": true,
+  "results": [
+    {
+      "fixture": 1,
+      "name": "CTP Fixture 001 — Valid Direct ERR.json",
+      "expected_pass": true,
+      "semantic_pass": true,
+      "matched": true,
+      "errors": [],
+      "blob_sha": "7466730e08c7cc614e394f68a7e64911e1942ad7"
+    },
+    {
+      "fixture": 2,
+      "name": "CTP Fixture 002 — Valid Mixed ETR.json",
+      "expected_pass": true,
+      "semantic_pass": true,
+      "matched": true,
+      "errors": [],
+      "blob_sha": "d8740b285a2f5a4b3b3ed0efb2ddb510b31c647b"
+    },
+    {
+      "fixture": 3,
+      "name": "CTP Fixture 003 — Invalid Unknown Authority Approval.json",
+      "expected_pass": false,
+      "semantic_pass": false,
+      "matched": true,
+      "errors": [
+        "V-ETR-07"
+      ],
+      "blob_sha": "9744d5cb2a52a51448f97b51375a8477b3eab8f3"
+    },
+    {
+      "fixture": 4,
+      "name": "CTP Fixture 004 — Invalid Partial Without Mixed Dimensions.json",
+      "expected_pass": false,
+      "semantic_pass": false,
+      "matched": true,
+      "errors": [
+        "V-ETR-02",
+        "V-ETR-16"
+      ],
+      "blob_sha": "61e5f11872918e04e627e09cc0aeeb11c306bf5e"
+    },
+    {
+      "fixture": 5,
+      "name": "CTP Fixture 005 — Invalid Corrected ERR Without Link.json",
+      "expected_pass": false,
+      "semantic_pass": false,
+      "matched": true,
+      "errors": [
+        "V-ERR-02"
+      ],
+      "blob_sha": "9ede0a615cbfa98076f9464a1de2b4944d42f5fa"
+    },
+    {
+      "fixture": 6,
+      "name": "CTP Fixture 006 — Invalid Projected ERR Missing Projection Fields.json",
+      "expected_pass": false,
+      "semantic_pass": false,
+      "matched": true,
+      "errors": [
+        "V-ERR-01"
+      ],
+      "blob_sha": "e496648d31cdf9ff02296afc51cf71cd28519bf4"
+    },
+    {
+      "fixture": 7,
+      "name": "CTP Fixture 007 — Invalid Non-Event Without Coverage.json",
+      "expected_pass": false,
+      "semantic_pass": false,
+      "matched": true,
+      "errors": [
+        "V-ERR-05"
+      ],
+      "blob_sha": "97875df98358ccc699563c0da149b76644621e2e"
+    },
+    {
+      "fixture": 8,
+      "name": "CTP Fixture 008 — Invalid Required Review Missing Failure Disposition.json",
+      "expected_pass": false,
+      "semantic_pass": false,
+      "matched": true,
+      "errors": [
+        "V-ETR-10"
+      ],
+      "blob_sha": "8c468dc8277574737849e8c498977628e7c1e51d"
+    },
+    {
+      "fixture": 9,
+      "name": "CTP Fixture 009 — Invalid Not-Required Prerequisite State Mismatch.json",
+      "expected_pass": false,
+      "semantic_pass": false,
+      "matched": true,
+      "errors": [
+        "V-ETR-05"
+      ],
+      "blob_sha": "3cc1d863d274044438333ee7d497662f47253480"
+    },
+    {
+      "fixture": 10,
+      "name": "CTP Fixture 010 — Invalid Conditional Approval Without Controls.json",
+      "expected_pass": false,
+      "semantic_pass": false,
+      "matched": true,
+      "errors": [
+        "V-ETR-03",
+        "V-ETR-04"
+      ],
+      "blob_sha": "c9574e45ac37619f7b7157e66c68a973f804706e"
+    },
+    {
+      "fixture": 11,
+      "name": "CTP Fixture 011 — Valid Projected Recommendation ERR.json",
+      "expected_pass": true,
+      "semantic_pass": true,
+      "matched": true,
+      "errors": [],
+      "blob_sha": "dd4bc1f7e46a6ebad96683169a17d254c829fbc5"
+    },
+    {
+      "fixture": 12,
+      "name": "CTP Fixture 012 — Valid Ended Relationship.json",
+      "expected_pass": true,
+      "semantic_pass": true,
+      "matched": true,
+      "errors": [],
+      "blob_sha": "eec3f584a5a4e7a8f5e4a638751dafd2fe9538cb"
+    },
+    {
+      "fixture": 13,
+      "name": "CTP Fixture 013 — Invalid Ended Relationship Missing Reason.json",
+      "expected_pass": false,
+      "semantic_pass": false,
+      "matched": true,
+      "errors": [
+        "V-ETR-12"
+      ],
+      "blob_sha": "f3c4aa1c7e626a3a73c94b7f117d46d5c5457d1f"
+    },
+    {
+      "fixture": 14,
+      "name": "CTP Fixture 014 — Valid Corrected Disputed ERR.json",
+      "expected_pass": true,
+      "semantic_pass": true,
+      "matched": true,
+      "errors": [],
+      "blob_sha": "8e29b6dca3b771102ec9d8cbc4c550f8d936c296"
+    }
+  ]
+}

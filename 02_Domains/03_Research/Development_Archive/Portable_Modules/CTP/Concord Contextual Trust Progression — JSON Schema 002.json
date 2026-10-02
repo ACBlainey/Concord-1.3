@@ -1,0 +1,649 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://concord.invalid/ctp/schema-002.json",
+  "title": "Concord Contextual Trust Progression Schema 002",
+  "type": "object",
+  "required": [
+    "recordType",
+    "modelVersion",
+    "record"
+  ],
+  "properties": {
+    "recordType": {
+      "enum": [
+        "ERR",
+        "ETR"
+      ]
+    },
+    "modelVersion": {
+      "const": "0.5"
+    },
+    "record": {
+      "type": "object"
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "recordType": {
+            "const": "ERR"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "record": {
+            "$ref": "#/$defs/ERR"
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "recordType": {
+            "const": "ETR"
+          }
+        }
+      },
+      "then": {
+        "properties": {
+          "record": {
+            "$ref": "#/$defs/ETR"
+          }
+        }
+      }
+    }
+  ],
+  "$defs": {
+    "nonempty": {
+      "type": "string",
+      "minLength": 1
+    },
+    "ref": {
+      "type": "string",
+      "minLength": 1
+    },
+    "prerequisite": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "applicability",
+        "state",
+        "checkedAt",
+        "disputeState"
+      ],
+      "properties": {
+        "applicability": {
+          "enum": [
+            "REQUIRED",
+            "NOT_REQUIRED_FOR_FUNCTION",
+            "UNKNOWN"
+          ]
+        },
+        "state": {
+          "enum": [
+            "SATISFIED",
+            "PARTIALLY_SATISFIED",
+            "NOT_SATISFIED",
+            "UNKNOWN",
+            "DISPUTED",
+            "NOT_APPLICABLE"
+          ]
+        },
+        "basisRef": {
+          "$ref": "#/$defs/ref"
+        },
+        "checkedAt": {
+          "$ref": "#/$defs/nonempty"
+        },
+        "expiryOrReview": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "disputeState": {
+          "enum": [
+            "NONE",
+            "OPEN",
+            "RESOLVED",
+            "UNKNOWN"
+          ]
+        }
+      }
+    },
+    "dimensionTransition": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "dimension",
+        "currentState",
+        "requestedState",
+        "disposition",
+        "errRefs",
+        "prerequisiteRefs",
+        "addedControls",
+        "basis"
+      ],
+      "properties": {
+        "dimension": {
+          "$ref": "#/$defs/nonempty"
+        },
+        "currentState": {},
+        "requestedState": {},
+        "disposition": {
+          "enum": [
+            "APPROVED",
+            "APPROVED_WITH_CONTROLS",
+            "MAINTAIN_CURRENT",
+            "NARROWED",
+            "SUSPENDED",
+            "DECLINED",
+            "UNKNOWN",
+            "DISPUTED"
+          ]
+        },
+        "errRefs": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/ref"
+          }
+        },
+        "prerequisiteRefs": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/ref"
+          }
+        },
+        "addedControls": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/nonempty"
+          }
+        },
+        "basis": {
+          "$ref": "#/$defs/nonempty"
+        }
+      }
+    },
+    "ERR": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "errId",
+        "evidenceRef",
+        "evidenceType",
+        "subjectRelationshipRef",
+        "projectionState",
+        "sourceFunction",
+        "sourceContext",
+        "evidenceObservedAt",
+        "acquisitionBasis",
+        "evidenceUseLegitimacy",
+        "observationConditions",
+        "observationIntegrity",
+        "observationCoverage",
+        "targetFunction",
+        "targetContext",
+        "targetExposureDimension",
+        "relevanceState",
+        "relevanceBasis",
+        "consequenceCompatibility",
+        "freshnessState",
+        "identityContinuityState",
+        "causationState",
+        "correctionState",
+        "disputeState",
+        "disputeMateriality",
+        "provenance",
+        "assessmentTime",
+        "reviewState"
+      ],
+      "properties": {
+        "errId": {
+          "$ref": "#/$defs/nonempty"
+        },
+        "evidenceRef": {
+          "$ref": "#/$defs/ref"
+        },
+        "evidenceType": {
+          "enum": [
+            "DIRECT_BEHAVIOURAL",
+            "SERVICE_OPERATION",
+            "INDEPENDENT_ATTESTATION",
+            "RECOMMENDATION",
+            "PARTICIPANT_DECLARATION",
+            "AUDIT_RESULT",
+            "TEST_RESULT",
+            "INCIDENT",
+            "REPAIR_OR_RECOVERY",
+            "NON_EVENT_OBSERVATION",
+            "HISTORICAL_RECORD",
+            "OTHER_DECLARED"
+          ]
+        },
+        "subjectRelationshipRef": {
+          "$ref": "#/$defs/ref"
+        },
+        "projectionState": {
+          "enum": [
+            "NOT_PROJECTED",
+            "PROJECTED",
+            "UNKNOWN"
+          ]
+        },
+        "sourceProviderRef": {
+          "$ref": "#/$defs/ref"
+        },
+        "sourceFunction": {
+          "$ref": "#/$defs/nonempty"
+        },
+        "sourceContext": {},
+        "evidenceObservedAt": {
+          "$ref": "#/$defs/nonempty"
+        },
+        "evidenceProjectedAt": {
+          "$ref": "#/$defs/nonempty"
+        },
+        "acquisitionBasis": {
+          "enum": [
+            "ORDINARY_SERVICE_OPERATION",
+            "VOLUNTARY_TEST",
+            "REQUIRED_BOUNDED_AUDIT",
+            "INDEPENDENT_PUBLIC_EVIDENCE",
+            "EMERGENCY_AUTHORISED",
+            "OTHER_DECLARED",
+            "UNKNOWN",
+            "DISPUTED"
+          ]
+        },
+        "evidenceUseLegitimacy": {
+          "enum": [
+            "LEGITIMATE_FOR_TARGET_USE",
+            "LEGITIMATE_WITH_LIMITS",
+            "NOT_LEGITIMATE_FOR_TARGET_USE",
+            "UNKNOWN",
+            "DISPUTED"
+          ]
+        },
+        "observationConditions": {},
+        "observationIntegrity": {
+          "enum": [
+            "VALID",
+            "QUESTIONED",
+            "COMPROMISED",
+            "UNKNOWN",
+            "DISPUTED"
+          ]
+        },
+        "observationCoverage": {
+          "enum": [
+            "SUFFICIENT_FOR_ASSERTED_SCOPE",
+            "PARTIAL",
+            "MINIMAL",
+            "UNKNOWN",
+            "NOT_APPLICABLE",
+            "DISPUTED"
+          ]
+        },
+        "targetFunction": {
+          "$ref": "#/$defs/nonempty"
+        },
+        "targetContext": {},
+        "targetExposureDimension": {
+          "$ref": "#/$defs/nonempty"
+        },
+        "relevanceState": {
+          "enum": [
+            "DIRECTLY_RELEVANT",
+            "PARTIALLY_RELEVANT",
+            "CONTEXT_LIMITED",
+            "NOT_RELEVANT",
+            "UNKNOWN",
+            "DISPUTED"
+          ]
+        },
+        "relevanceBasis": {
+          "$ref": "#/$defs/nonempty"
+        },
+        "consequenceCompatibility": {
+          "enum": [
+            "SAME_OR_LOWER_CONSEQUENCE",
+            "PARTIALLY_COMPARABLE",
+            "HIGHER_CONSEQUENCE_REQUIRES_ADDITIONAL_EVIDENCE",
+            "NOT_COMPARABLE",
+            "UNKNOWN"
+          ]
+        },
+        "freshnessState": {
+          "enum": [
+            "FRESH",
+            "AGING",
+            "STALE",
+            "UNKNOWN",
+            "DISPUTED"
+          ]
+        },
+        "identityContinuityState": {
+          "enum": [
+            "ESTABLISHED_FOR_PURPOSE",
+            "PARTIAL",
+            "UNKNOWN",
+            "DISPUTED",
+            "NOT_REQUIRED_FOR_FUNCTION"
+          ]
+        },
+        "causationState": {
+          "enum": [
+            "PARTICIPANT_CAUSAL",
+            "SERVICE_CAUSAL",
+            "SHARED_CAUSAL",
+            "EXTERNAL_CAUSAL",
+            "NO_FAILURE",
+            "NOT_APPLICABLE",
+            "UNKNOWN",
+            "DISPUTED"
+          ]
+        },
+        "correctionState": {
+          "enum": [
+            "NONE_REQUIRED",
+            "UNCORRECTED",
+            "CORRECTED",
+            "PARTIALLY_CORRECTED",
+            "SUPERSEDED",
+            "DISPUTED",
+            "UNKNOWN"
+          ]
+        },
+        "correctionRef": {
+          "$ref": "#/$defs/ref"
+        },
+        "supersedesRef": {
+          "$ref": "#/$defs/ref"
+        },
+        "disputeState": {
+          "enum": [
+            "NONE",
+            "OPEN",
+            "RESOLVED",
+            "UNKNOWN"
+          ]
+        },
+        "disputeMateriality": {
+          "enum": [
+            "MATERIAL_TO_TARGET_USE",
+            "NOT_MATERIAL_TO_TARGET_USE",
+            "UNKNOWN",
+            "DISPUTED",
+            "NOT_APPLICABLE"
+          ]
+        },
+        "disputeRef": {
+          "$ref": "#/$defs/ref"
+        },
+        "provenance": {},
+        "assessmentTime": {
+          "$ref": "#/$defs/nonempty"
+        },
+        "reviewState": {
+          "enum": [
+            "NOT_REQUIRED",
+            "REQUIRED",
+            "UNKNOWN"
+          ]
+        },
+        "reviewOrExpiry": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "ETR": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "etrId",
+        "relationshipRef",
+        "transitionTrigger",
+        "currentExposureProfile",
+        "requestedExposureProfile",
+        "dimensionTransitions",
+        "legitimateFunctionOrRequest",
+        "consequenceAssessment",
+        "errSet",
+        "materialAdverseEvidence",
+        "materialHighConsequenceExceptions",
+        "evidenceSufficiencyState",
+        "resourcePrerequisite",
+        "selfStewardshipPrerequisite",
+        "authorityPrerequisite",
+        "compositionPrerequisite",
+        "contestabilityPrerequisite",
+        "privacyBoundary",
+        "addedControls",
+        "decisionState",
+        "decisionBasis",
+        "recoveryRoute",
+        "exitRoute",
+        "effectiveTime",
+        "reviewState",
+        "provenance",
+        "participantNarrowingBasis"
+      ],
+      "properties": {
+        "etrId": {
+          "$ref": "#/$defs/nonempty"
+        },
+        "relationshipRef": {
+          "$ref": "#/$defs/ref"
+        },
+        "transitionTrigger": {
+          "enum": [
+            "PARTICIPANT_REQUEST",
+            "PROVIDER_REVIEW",
+            "NEW_EVIDENCE",
+            "CORRECTION",
+            "DISPUTE",
+            "EXPIRY",
+            "RESOURCE_CHANGE",
+            "AUTHORITY_CHANGE",
+            "SAFETY_CHANGE",
+            "EMERGENCY",
+            "SUCCESSION",
+            "PARTICIPANT_EXIT",
+            "PROVIDER_CLOSURE",
+            "OTHER_DECLARED"
+          ]
+        },
+        "currentExposureProfile": {
+          "type": "object"
+        },
+        "requestedExposureProfile": {
+          "type": "object"
+        },
+        "dimensionTransitions": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/dimensionTransition"
+          }
+        },
+        "legitimateFunctionOrRequest": {
+          "$ref": "#/$defs/nonempty"
+        },
+        "consequenceAssessment": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "classification",
+            "consequential",
+            "basis",
+            "assessedAt"
+          ],
+          "properties": {
+            "classification": {
+              "enum": [
+                "LOW",
+                "MODERATE",
+                "HIGH",
+                "CRITICAL",
+                "CONTEXT_DEFINED",
+                "UNKNOWN"
+              ]
+            },
+            "consequential": {
+              "type": "boolean"
+            },
+            "basis": {
+              "$ref": "#/$defs/nonempty"
+            },
+            "assessedAt": {
+              "$ref": "#/$defs/nonempty"
+            },
+            "policyOrProvenanceRef": {
+              "$ref": "#/$defs/ref"
+            }
+          }
+        },
+        "errSet": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/ref"
+          }
+        },
+        "materialAdverseEvidence": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/ref"
+          }
+        },
+        "materialHighConsequenceExceptions": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/ref"
+          }
+        },
+        "evidenceSufficiencyState": {
+          "enum": [
+            "SUFFICIENT_FOR_REQUESTED_EXPOSURE",
+            "CONDITIONALLY_SUFFICIENT",
+            "INSUFFICIENT",
+            "NOT_REQUIRED_FOR_TRANSITION",
+            "UNKNOWN",
+            "DISPUTED"
+          ]
+        },
+        "resourcePrerequisite": {
+          "$ref": "#/$defs/prerequisite"
+        },
+        "selfStewardshipPrerequisite": {
+          "$ref": "#/$defs/prerequisite"
+        },
+        "authorityPrerequisite": {
+          "$ref": "#/$defs/prerequisite"
+        },
+        "compositionPrerequisite": {
+          "$ref": "#/$defs/prerequisite"
+        },
+        "contestabilityPrerequisite": {
+          "$ref": "#/$defs/prerequisite"
+        },
+        "privacyBoundary": {},
+        "addedControls": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/nonempty"
+          }
+        },
+        "decisionState": {
+          "enum": [
+            "APPROVED_BOUNDED",
+            "PARTIALLY_APPROVED_BOUNDED",
+            "APPROVED_WITH_ADDITIONAL_CONTROLS",
+            "MAINTAIN_CURRENT_EXPOSURE",
+            "NARROW_EXPOSURE",
+            "SUSPEND_PENDING_REVIEW",
+            "DECLINED_INSUFFICIENT_RELEVANT_EVIDENCE",
+            "DECLINED_RESOURCE_UNAVAILABLE",
+            "DECLINED_STEWARDSHIP_REQUIREMENT",
+            "DECLINED_AUTHORITY_ABSENT",
+            "BLOCKED_IDENTITY_UNCERTAINTY",
+            "BLOCKED_DISPUTE",
+            "BLOCKED_DEPENDENCY",
+            "ENDED",
+            "UNKNOWN"
+          ]
+        },
+        "decisionBasis": {
+          "$ref": "#/$defs/nonempty"
+        },
+        "recoveryRoute": {},
+        "exitRoute": {},
+        "effectiveTime": {
+          "$ref": "#/$defs/nonempty"
+        },
+        "reviewState": {
+          "enum": [
+            "NOT_REQUIRED",
+            "REQUIRED",
+            "UNKNOWN"
+          ]
+        },
+        "reviewTime": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "reviewFailureDisposition": {
+          "enum": [
+            "CONTINUE_TEMPORARILY_UNDER_EXISTING_BOUND",
+            "DEGRADE_TO_DECLARED_SAFE_BOUND",
+            "SUSPEND_AFFECTED_DIMENSIONS",
+            "EXPIRE_AFFECTED_DIMENSIONS",
+            "REQUIRE_EXCEPTIONAL_REVIEW",
+            "NOT_APPLICABLE"
+          ]
+        },
+        "expiryIfAny": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "previousEtrRef": {
+          "$ref": "#/$defs/ref"
+        },
+        "supersedesEtrRef": {
+          "$ref": "#/$defs/ref"
+        },
+        "endReason": {
+          "enum": [
+            "PARTICIPANT_EXIT",
+            "MUTUAL_END",
+            "PROVIDER_CLOSURE",
+            "SUCCESSION",
+            "SERVICE_RETIRED",
+            "FUNCTION_ENDED",
+            "OTHER_DECLARED",
+            "UNKNOWN"
+          ]
+        },
+        "provenance": {},
+        "participantNarrowingBasis": {
+          "enum": [
+            "NOT_APPLICABLE",
+            "VOLUNTARY_REQUEST_SUFFICIENT",
+            "ADVERSE_EVIDENCE_REQUIRED",
+            "OTHER_DECLARED",
+            "UNKNOWN"
+          ]
+        }
+      }
+    }
+  }
+}

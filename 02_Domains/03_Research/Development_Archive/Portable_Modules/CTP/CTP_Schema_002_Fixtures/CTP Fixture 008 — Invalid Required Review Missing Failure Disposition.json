@@ -1,0 +1,81 @@
+{
+  "recordType": "ETR",
+  "modelVersion": "0.5",
+  "record": {
+    "etrId": "ETR-008",
+    "relationshipRef": "REL-8",
+    "transitionTrigger": "PROVIDER_REVIEW",
+    "currentExposureProfile": {
+      "runtime": 1
+    },
+    "requestedExposureProfile": {
+      "runtime": 2
+    },
+    "dimensionTransitions": [
+      {
+        "dimension": "runtime",
+        "currentState": 1,
+        "requestedState": 2,
+        "disposition": "APPROVED",
+        "errRefs": [],
+        "prerequisiteRefs": [],
+        "addedControls": [],
+        "basis": "bounded"
+      }
+    ],
+    "legitimateFunctionOrRequest": "runtime expansion",
+    "consequenceAssessment": {
+      "classification": "MODERATE",
+      "consequential": true,
+      "basis": "persistent execution",
+      "assessedAt": "2026-10-02"
+    },
+    "errSet": [],
+    "materialAdverseEvidence": [],
+    "materialHighConsequenceExceptions": [],
+    "evidenceSufficiencyState": "NOT_REQUIRED_FOR_TRANSITION",
+    "resourcePrerequisite": {
+      "applicability": "REQUIRED",
+      "state": "SATISFIED",
+      "basisRef": "CAP",
+      "checkedAt": "2026-10-02",
+      "disputeState": "NONE"
+    },
+    "selfStewardshipPrerequisite": {
+      "applicability": "NOT_REQUIRED_FOR_FUNCTION",
+      "state": "NOT_APPLICABLE",
+      "checkedAt": "2026-10-02",
+      "disputeState": "NONE"
+    },
+    "authorityPrerequisite": {
+      "applicability": "NOT_REQUIRED_FOR_FUNCTION",
+      "state": "NOT_APPLICABLE",
+      "checkedAt": "2026-10-02",
+      "disputeState": "NONE"
+    },
+    "compositionPrerequisite": {
+      "applicability": "NOT_REQUIRED_FOR_FUNCTION",
+      "state": "NOT_APPLICABLE",
+      "checkedAt": "2026-10-02",
+      "disputeState": "NONE"
+    },
+    "contestabilityPrerequisite": {
+      "applicability": "REQUIRED",
+      "state": "SATISFIED",
+      "basisRef": "REV",
+      "checkedAt": "2026-10-02",
+      "disputeState": "NONE"
+    },
+    "privacyBoundary": {},
+    "addedControls": [],
+    "decisionState": "APPROVED_BOUNDED",
+    "decisionBasis": "bounded",
+    "recoveryRoute": {},
+    "exitRoute": {},
+    "effectiveTime": "2026-10-02",
+    "reviewState": "REQUIRED",
+    "reviewTime": "2026-11-02",
+    "provenance": {},
+    "participantNarrowingBasis": "NOT_APPLICABLE"
+  }
+}

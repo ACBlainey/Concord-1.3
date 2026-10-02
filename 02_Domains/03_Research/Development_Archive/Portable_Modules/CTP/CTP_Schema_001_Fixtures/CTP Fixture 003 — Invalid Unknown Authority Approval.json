@@ -1,0 +1,83 @@
+{
+  "recordType": "ETR",
+  "modelVersion": "0.4",
+  "record": {
+    "etrId": "ETR-003",
+    "relationshipRef": "REL-2",
+    "transitionTrigger": "PARTICIPANT_REQUEST",
+    "currentExposureProfile": {
+      "network": "none"
+    },
+    "requestedExposureProfile": {
+      "network": "open"
+    },
+    "dimensionTransitions": [
+      {
+        "dimension": "network",
+        "currentState": "none",
+        "requestedState": "open",
+        "disposition": "APPROVED",
+        "errRefs": [],
+        "prerequisiteRefs": [
+          "authority"
+        ],
+        "addedControls": [],
+        "basis": "Requested"
+      }
+    ],
+    "legitimateFunctionOrRequest": "Open network access",
+    "consequenceAssessment": {
+      "classification": "HIGH",
+      "consequential": true,
+      "basis": "External action possible",
+      "assessedAt": "2026-10-02T10:00:00Z"
+    },
+    "errSet": [],
+    "materialAdverseEvidence": [],
+    "materialHighConsequenceExceptions": [],
+    "evidenceSufficiencyState": "CONDITIONALLY_SUFFICIENT",
+    "resourcePrerequisite": {
+      "applicability": "REQUIRED",
+      "state": "SATISFIED",
+      "basisRef": "CAP",
+      "checkedAt": "2026-10-02",
+      "disputeState": "NONE"
+    },
+    "selfStewardshipPrerequisite": {
+      "applicability": "REQUIRED",
+      "state": "SATISFIED",
+      "basisRef": "SS",
+      "checkedAt": "2026-10-02",
+      "disputeState": "NONE"
+    },
+    "authorityPrerequisite": {
+      "applicability": "REQUIRED",
+      "state": "UNKNOWN",
+      "checkedAt": "2026-10-02",
+      "disputeState": "NONE"
+    },
+    "compositionPrerequisite": {
+      "applicability": "REQUIRED",
+      "state": "SATISFIED",
+      "basisRef": "COMP",
+      "checkedAt": "2026-10-02",
+      "disputeState": "NONE"
+    },
+    "contestabilityPrerequisite": {
+      "applicability": "REQUIRED",
+      "state": "SATISFIED",
+      "basisRef": "REV",
+      "checkedAt": "2026-10-02",
+      "disputeState": "NONE"
+    },
+    "privacyBoundary": {},
+    "addedControls": [],
+    "decisionState": "APPROVED_BOUNDED",
+    "decisionBasis": "Invalid: authority unknown",
+    "recoveryRoute": {},
+    "exitRoute": {},
+    "effectiveTime": "2026-10-02",
+    "reviewState": "NOT_REQUIRED",
+    "provenance": {}
+  }
+}
