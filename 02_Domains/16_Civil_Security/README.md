@@ -38,3 +38,10 @@ Authority does not automatically propagate between stages. Each transition must 
 Law now contains a provisional evidential-continuity framework at `02_Domains/09_Law/Unlawfully Obtained Evidence — Evidential Continuity and Independent Accountability 001.md`.
 
 Civil Security should preserve both evidence provenance and authority provenance. Evidence remains assessed on evidential merits; unlawful acquisition is independently audited. Deliberate circumvention of a known authority boundary is treated as more culpable than ordinary procedural error, and recurring deliberate violations trigger institutional/system review.
+
+
+## Mistaken-authority interface
+
+Law now provides a provisional contextual framework for officers who mistakenly believe authority exists: `02_Domains/09_Law/Mistaken Authority and Reasonable Belief — Culpability Framework 001.md`.
+
+Civil Security audit should preserve the information needed to reconstruct what was reasonably knowable at the decision point. Common institutional practice is not self-validating; reasonable competent-peer response is evidence of reasonableness, not automatic proof.
