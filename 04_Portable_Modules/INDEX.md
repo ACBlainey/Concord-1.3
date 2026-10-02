@@ -9,6 +9,7 @@ Portable Modules are root-visible for discoverability and remain under Historica
 | Module | Version / status | Function | Development / validation provenance |
 |---|---|---|---|
 | Concord Information Black Box | v1.0 — Graduated; specification-level transfer validated | Governed information containment, contextual projection, transformation, protected transfer, structural/control separation, lifecycle governance, disclosure-risk coordination, recovery and exceptional access | `02_Domains/03_Research/Active_Development/Concord_Information_Black_Box/` |
+| Concord Bounded Participant Runtime | v1.0 — Graduated; transfer validated with non-blocking clarifications; implementation validation outstanding | Bounded participant computation and scheduled execution with explicit capability, permission, authority, consequence, composition, commit-time revalidation, provenance and termination boundaries | `02_Domains/03_Research/Development_Archive/Portable_Modules/CBPR/` |
 | Bounded Transition Architecture | v1.0 | Bounded state-transition architecture | Research / PMEDG provenance retained |
 | Lifecycle Stewardship Review | v1.0 | Lifecycle stewardship review | Research / PMEDG provenance retained |
 | State and Maturity Mapping | v1.0 | State and maturity representation | Research / PMEDG provenance retained |
