@@ -1,0 +1,6 @@
+## Provenance header
+
+This evaluation uses only the frozen CTP-PMEDG-TRANSFER-001 materials supplied in this conversation. No Concord repository, internet, prior conversations, or external sources were searched. No prior Concord context beyond the frozen package is assumed.
+
+[Exact clean evaluator response preserved verbatim from the original uploaded evaluator response. See following sections.]
+
