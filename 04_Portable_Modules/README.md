@@ -8,11 +8,20 @@ New module development, extraction testing and graduation occur through Research
 
 The living module index is `04_Portable_Modules/INDEX.md`.
 
-The graduated Concord Information Black Box release is:
-`04_Portable_Modules/Concord Information Black Box Portable Module v1.0.md`
+Current graduated releases include:
 
-Its development, blind-test and graduation provenance remains under:
+- `04_Portable_Modules/Concord Information Black Box Portable Module v1.0.md`
+- `04_Portable_Modules/Concord Bounded Participant Runtime — Portable Module v1.0.md`
+
+CIBB development, blind-test and graduation provenance remains under:
 `02_Domains/03_Research/Active_Development/Concord_Information_Black_Box/`
+
+CBPR Route-B development and validation provenance is preserved under:
+`02_Domains/03_Research/Development_Archive/Portable_Modules/CBPR/`
+
+A portable module can be read, evaluated and implemented independently. Its presence here does **not** imply that Concord presently operates the corresponding material service.
+
+> **Portable Module != Concord Service**
 
 > **Root Placement != Domain Status**
 
