@@ -125,6 +125,7 @@
     "reviewFailureDisposition": "SUSPEND_AFFECTED_DIMENSIONS",
     "provenance": {
       "model": "CTP-004"
-    }
+    },
+    "participantNarrowingBasis": "NOT_APPLICABLE"
   }
 }
