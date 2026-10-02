@@ -75,6 +75,7 @@
     "effectiveTime": "2026-10-02",
     "reviewState": "REQUIRED",
     "reviewTime": "2026-11-02",
-    "provenance": {}
+    "provenance": {},
+    "participantNarrowingBasis": "NOT_APPLICABLE"
   }
 }
