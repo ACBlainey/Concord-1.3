@@ -1,0 +1,52 @@
+{
+  "schema_version": "CBPR-002",
+  "runtime_instance_id": "r1",
+  "service_relationship_reference": "sr1",
+  "runtime_profile": {
+    "runtime_type": "sandbox",
+    "version": "1",
+    "isolation_model": "bounded"
+  },
+  "runtime_integrity_state": "VERIFIED_TO_DECLARED_SCOPE",
+  "resource_budget": {
+    "cpu_seconds": 60,
+    "memory_mb": 128,
+    "wall_clock_seconds": 120,
+    "max_processes": 2,
+    "max_network_bytes": 10000
+  },
+  "storage_mounts": [],
+  "tool_permissions": [],
+  "network_permissions": [
+    {
+      "mode": "NO_NETWORK",
+      "destinations": []
+    }
+  ],
+  "credential_bindings": [],
+  "action_grants": [],
+  "output_interfaces": [
+    {
+      "interface_id": "o1",
+      "destination_reference": "local",
+      "consequence_class": "PASSIVE_LOCAL_OUTPUT",
+      "verification_state": "VERIFIED_TO_DECLARED_SCOPE"
+    }
+  ],
+  "activation_policy": {
+    "mode": "MANUAL",
+    "expires_at": null,
+    "temporal_evidence": {
+      "claimed_time": "2026-10-02T09:00:00Z",
+      "observed_time": "2026-10-02T09:00:00Z",
+      "clock_source_reference": "clock-1",
+      "trust_state": "VERIFIED_TO_DECLARED_SCOPE",
+      "uncertainty_ms": 10
+    }
+  },
+  "control_events": [],
+  "commit_validations": [],
+  "current_state": "READY",
+  "action_proposals": [],
+  "provenance_events": []
+}

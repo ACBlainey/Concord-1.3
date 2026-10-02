@@ -1,0 +1,509 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://concord.invalid/schemas/cbpr-001.json",
+  "title": "Concord Bounded Participant Runtime Record 001",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "runtime_instance_id",
+    "service_relationship_reference",
+    "runtime_profile",
+    "runtime_integrity_state",
+    "resource_budget",
+    "storage_mounts",
+    "tool_permissions",
+    "network_permissions",
+    "credential_bindings",
+    "action_grants",
+    "output_interfaces",
+    "activation_policy",
+    "current_state"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": "CBPR-001"
+    },
+    "runtime_instance_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "service_relationship_reference": {
+      "type": "string",
+      "minLength": 1
+    },
+    "runtime_profile": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "runtime_type",
+        "version",
+        "isolation_model"
+      ],
+      "properties": {
+        "runtime_type": {
+          "type": "string",
+          "minLength": 1
+        },
+        "version": {
+          "type": "string",
+          "minLength": 1
+        },
+        "isolation_model": {
+          "type": "string",
+          "minLength": 1
+        }
+      }
+    },
+    "runtime_integrity_state": {
+      "enum": [
+        "VERIFIED_TO_DECLARED_SCOPE",
+        "PARTIALLY_VERIFIED",
+        "UNVERIFIED",
+        "UNKNOWN",
+        "DISPUTED",
+        "COMPROMISED",
+        "STALE",
+        "SUPERSEDED"
+      ]
+    },
+    "resource_budget": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "cpu_seconds": {
+          "type": [
+            "number",
+            "null"
+          ],
+          "minimum": 0
+        },
+        "memory_mb": {
+          "type": [
+            "number",
+            "null"
+          ],
+          "minimum": 0
+        },
+        "wall_clock_seconds": {
+          "type": [
+            "number",
+            "null"
+          ],
+          "minimum": 0
+        },
+        "max_processes": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 0
+        },
+        "max_network_bytes": {
+          "type": [
+            "integer",
+            "null"
+          ],
+          "minimum": 0
+        }
+      }
+    },
+    "storage_mounts": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/storageMount"
+      }
+    },
+    "tool_permissions": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/toolPermission"
+      }
+    },
+    "network_permissions": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/networkPermission"
+      }
+    },
+    "credential_bindings": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/credentialBinding"
+      }
+    },
+    "action_grants": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/actionGrant"
+      }
+    },
+    "output_interfaces": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/outputInterface"
+      }
+    },
+    "activation_policy": {
+      "$ref": "#/$defs/activationPolicy"
+    },
+    "current_state": {
+      "enum": [
+        "DEFINED",
+        "READY",
+        "RUNNING",
+        "PAUSED",
+        "RESOURCE_EXHAUSTED",
+        "WAITING_FOR_ACTION_AUTHORITY",
+        "DEGRADED_DEPENDENCY",
+        "SUSPENDED_FOR_SAFETY",
+        "STOPPED",
+        "RECOVERY",
+        "RETIRED",
+        "FAILED",
+        "UNKNOWN"
+      ]
+    },
+    "action_proposals": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/actionProposal"
+      },
+      "default": []
+    },
+    "provenance_events": {
+      "type": "array",
+      "items": {
+        "type": "object"
+      },
+      "default": []
+    }
+  },
+  "$defs": {
+    "storageMount": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "mount_id",
+        "scope",
+        "read",
+        "write"
+      ],
+      "properties": {
+        "mount_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "scope": {
+          "type": "string",
+          "minLength": 1
+        },
+        "read": {
+          "type": "boolean"
+        },
+        "write": {
+          "type": "boolean"
+        }
+      }
+    },
+    "toolPermission": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "tool_reference",
+        "operations"
+      ],
+      "properties": {
+        "tool_reference": {
+          "type": "string",
+          "minLength": 1
+        },
+        "operations": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    },
+    "networkPermission": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "mode",
+        "destinations"
+      ],
+      "properties": {
+        "mode": {
+          "enum": [
+            "NO_NETWORK",
+            "ALLOWLISTED_DESTINATIONS",
+            "BOUNDED_SERVICE_ENDPOINTS",
+            "BROADER_NETWORK_ACCESS"
+          ]
+        },
+        "destinations": {
+          "type": "array",
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    },
+    "credentialBinding": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "credential_reference",
+        "operation",
+        "target",
+        "revocation_state"
+      ],
+      "properties": {
+        "credential_reference": {
+          "type": "string",
+          "minLength": 1
+        },
+        "operation": {
+          "type": "string",
+          "minLength": 1
+        },
+        "target": {
+          "type": "string",
+          "minLength": 1
+        },
+        "purpose": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "valid_from": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date-time"
+        },
+        "valid_until": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date-time"
+        },
+        "revocation_state": {
+          "enum": [
+            "ACTIVE",
+            "REVOKED",
+            "DISPUTED",
+            "UNKNOWN"
+          ]
+        }
+      }
+    },
+    "actionGrant": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "grant_id",
+        "authority_basis_reference",
+        "operations",
+        "targets",
+        "consequence_scope",
+        "state"
+      ],
+      "properties": {
+        "grant_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "authority_basis_reference": {
+          "type": "string",
+          "minLength": 1
+        },
+        "operations": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "targets": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "consequence_scope": {
+          "type": "array",
+          "minItems": 1,
+          "uniqueItems": true,
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "state": {
+          "enum": [
+            "ACTIVE",
+            "EXPIRED",
+            "REVOKED",
+            "DISPUTED",
+            "UNKNOWN"
+          ]
+        }
+      }
+    },
+    "outputInterface": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "interface_id",
+        "destination_reference",
+        "consequence_class",
+        "verification_state"
+      ],
+      "properties": {
+        "interface_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "destination_reference": {
+          "type": "string",
+          "minLength": 1
+        },
+        "consequence_class": {
+          "enum": [
+            "PASSIVE_LOCAL_OUTPUT",
+            "PASSIVE_PERSISTENT_OUTPUT",
+            "COMMUNICATION_OUTPUT",
+            "EXTERNAL_DATA_WRITE",
+            "AUTOMATION_OR_ACTUATOR_INPUT",
+            "TRANSACTIONAL_INTERFACE",
+            "UNKNOWN_CONSEQUENCE_INTERFACE"
+          ]
+        },
+        "verification_state": {
+          "enum": [
+            "VERIFIED_TO_DECLARED_SCOPE",
+            "PARTIALLY_VERIFIED",
+            "UNVERIFIED",
+            "UNKNOWN",
+            "DISPUTED"
+          ]
+        }
+      }
+    },
+    "activationPolicy": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "mode"
+      ],
+      "properties": {
+        "mode": {
+          "enum": [
+            "MANUAL",
+            "EVENT_TRIGGERED",
+            "SCHEDULED",
+            "SERVICE_TRIGGERED",
+            "CONTINUOUS_WITHIN_BOUND"
+          ]
+        },
+        "expires_at": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date-time"
+        },
+        "clock_source_reference": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "actionProposal": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "action_proposal_id",
+        "operation",
+        "target_or_interface",
+        "expected_consequence_class",
+        "proposed_at",
+        "commit_state"
+      ],
+      "properties": {
+        "action_proposal_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "operation": {
+          "type": "string",
+          "minLength": 1
+        },
+        "target_or_interface": {
+          "type": "string",
+          "minLength": 1
+        },
+        "expected_consequence_class": {
+          "type": "string",
+          "minLength": 1
+        },
+        "credential_binding_reference": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "action_grant_reference": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "proposed_at": {
+          "type": "string",
+          "format": "date-time"
+        },
+        "expires_at": {
+          "type": [
+            "string",
+            "null"
+          ],
+          "format": "date-time"
+        },
+        "operation_id": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "commit_state": {
+          "enum": [
+            "NOT_ATTEMPTED",
+            "PROPOSED",
+            "COMMIT_STARTED",
+            "COMMIT_CONFIRMED",
+            "COMMIT_FAILED",
+            "COMMIT_STATE_UNKNOWN"
+          ]
+        }
+      }
+    }
+  }
+}
