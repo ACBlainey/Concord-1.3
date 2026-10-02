@@ -326,7 +326,40 @@ Therefore:
 
 If new evidence collapses the prosecution threshold, prosecution authority must contract or terminate.
 
-If it indicates another responsible actor, that may create a separate referral/investigative route subject to its own authority.
+### Evidential reversal and investigative handback
+
+In an extreme but important case, deeper authorised evidential access may do more than weaken the prosecution.
+
+Example:
+
+- the current accused was originally supported by sufficient evidence for prosecution;
+- adjudicative-stage access lawfully exposes additional archived CCTV;
+- the footage establishes a reliable alibi for the accused;
+- the same or related footage identifies another materially plausible actor.
+
+The correct transition may then be:
+
+**New Evidence -> Current Accused Hypothesis Collapses -> Prosecution Threshold No Longer Met -> Prosecution Halts -> Current Accused Released From Prosecution As Law Requires**
+
+and separately:
+
+**Alternative-Actor Evidence -> New/Returned Civil Security Investigation -> MRT / Whole Evidential State -> Independent Referral Process If Later Warranted**
+
+The prosecution function must not simply substitute the newly identified person into the existing prosecution.
+
+**New Suspect != Inherited Prosecution**
+
+The alternative actor is entitled to the same neutral investigative process, hypothesis testing, evidential development and independent threshold assessment.
+
+Likewise, the fact that the new evidence emerged during adjudicative preparation does not require the current accused to remain under prosecution until Judiciary reaches a final acquittal where the legal basis for prosecution has already disappeared.
+
+**Judicial Process Begun != Duty To Continue Unsupported Prosecution**
+
+**Evidence Establishing Alibi != Merely Defence Material Where It Collapses Attribution**
+
+**Collapsed Attribution -> Prosecution Authority Sunset**
+
+If it indicates another responsible actor, that creates a separate or returned investigative route subject to its own authority.
 
 ---
 
@@ -425,7 +458,11 @@ JEDA-16 Police Record != Police-Controlled Truth.
 JEDA-17 Material New Evidence -> Evidential And Authority Reassessment.  
 JEDA-18 Investigative Classification != Judicial Classification.  
 JEDA-19 Prosecutorial Classification != Judicial Classification.  
-JEDA-20 Evidence Access Must Remain Purpose-Bounded And Auditable.
+JEDA-20 Evidence Access Must Remain Purpose-Bounded And Auditable.  
+JEDA-21 Judicial Process Begun != Duty To Continue Unsupported Prosecution.  
+JEDA-22 Evidence Establishing Alibi May Collapse Attribution And Prosecution Authority.  
+JEDA-23 New Suspect != Inherited Prosecution.  
+JEDA-24 Alternative-Actor Evidence Requires Its Own Legitimate Investigative And Referral Route.
 
 ---
 
