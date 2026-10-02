@@ -60,6 +60,7 @@
     "effectiveTime": "2026-10-02",
     "reviewState": "NOT_REQUIRED",
     "reviewFailureDisposition": "NOT_APPLICABLE",
-    "provenance": {}
+    "provenance": {},
+    "participantNarrowingBasis": "VOLUNTARY_REQUEST_SUFFICIENT"
   }
 }
