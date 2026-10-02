@@ -139,3 +139,27 @@ The refined recovery chain distinguishes:
 **Theoretical Recoverability → Operational Recoverability → Participant-Accessible Recoverability → Actual Recovery**
 
 The current design objective is not to force every product through one system. It is to make an appropriate legitimate next route reasonably easy to reach while preserving safety, privacy, ownership, competition and independent domain authority.
+
+
+## Concord-controlled scarce-resource concentration
+
+`Concord-Controlled Scarce Resource Concentration — Planned Allocation Principle 001.md`
+
+The earlier bootstrap question of whether a wealthy participant may rent essentially all spare Concord capacity is now architecturally resolved.
+
+Scarce Concord-controlled capacity may use capacity-dependent maximum-use/allocation limits to preserve meaningful access, resilience and anti-capture objectives. Numerical thresholds are deliberately deferred until actual resource pools, commitments, reserves, demand and operational evidence exist.
+
+Key boundaries:
+- Available Capacity != Unlimited Individual Entitlement.
+- Ability To Pay != Unlimited Claim On Concord-Controlled Capacity.
+- Wealth != Resource Governance Authority.
+- Participant Equality != Equal Resource Consumption.
+- Concord Allocation Limit != Participant Consumption Limit.
+- Concord Resource Scarcity != Prohibition On External Supply.
+- External Contract != Concord Obligation.
+- Contribution To Capacity != Authority.
+- Trusted Concord Provision != Concord Monopoly.
+
+Participants remain free to obtain additional resources from external providers. This preserves supplier plurality and can create non-coercive pressure to expand Concord capacity where participants prefer Concord provision.
+
+**Status: ARCHITECTURALLY RESOLVED / QUANTITATIVE POLICY DEFERRED UNTIL REAL RESOURCE CAPACITY EXISTS.**
