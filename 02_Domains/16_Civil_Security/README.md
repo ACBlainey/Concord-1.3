@@ -45,3 +45,10 @@ Civil Security should preserve both evidence provenance and authority provenance
 Law now provides a provisional contextual framework for officers who mistakenly believe authority exists: `02_Domains/09_Law/Mistaken Authority and Reasonable Belief — Culpability Framework 001.md`.
 
 Civil Security audit should preserve the information needed to reconstruct what was reasonably knowable at the decision point. Common institutional practice is not self-validating; reasonable competent-peer response is evidence of reasonableness, not automatic proof.
+
+
+## Prosecution handoff
+
+Law now contains a provisional prosecution-threshold architecture at `02_Domains/09_Law/Prosecution Threshold and Evidential Sufficiency — Initial Architecture 001.md`.
+
+Civil Security investigates and preserves the complete evidential state. It does not determine guilt. Referral must preserve materially relevant inculpatory, exculpatory, contradictory and unresolved evidence for independent prosecution-threshold assessment.
