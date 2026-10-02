@@ -69,3 +69,20 @@ rather than whether enough evidence can be accumulated against the current suspe
 **Suspect != Conclusion**  
 **Tree Weight != Guilt**  
 **Tree Weight != Authority**
+
+
+### Mirrored Reality Trees — Stress Test 001
+
+`Mirrored Investigative Reality Trees — Scenario Stress Test 001.md`
+
+**Result: PASS**
+
+Twelve scenarios tested confirmation bias, dependent evidence, recantation, proposition scope, competing suspects, suspect abandonment, unresolved contradiction, neutral evidence, defective offence assumptions, hidden multiple actors, institutional consensus and automated suspect identification.
+
+The test validates three distinct correction levels:
+
+**Evidence Interpretation Review -> Suspect-Hypothesis Review -> Root-Question / Evaluation-Space Review**
+
+PMEDG status remains:
+
+**CANDIDATE — STRESS TEST 001 PASSED — DO NOT EXTRACT YET**
