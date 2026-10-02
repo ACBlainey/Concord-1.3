@@ -1,0 +1,128 @@
+{
+  "recordType": "ETR",
+  "modelVersion": "0.5",
+  "record": {
+    "etrId": "ETR-020",
+    "relationshipRef": "REL-1",
+    "transitionTrigger": "PARTICIPANT_REQUEST",
+    "currentExposureProfile": {
+      "compute": 1,
+      "network": "none",
+      "credentials": "none"
+    },
+    "requestedExposureProfile": {
+      "compute": 4,
+      "network": "allowlisted",
+      "credentials": "payment"
+    },
+    "dimensionTransitions": [
+      {
+        "dimension": "compute",
+        "currentState": 1,
+        "requestedState": 4,
+        "disposition": "APPROVED",
+        "errRefs": [
+          "ERR-001"
+        ],
+        "prerequisiteRefs": [
+          "resource"
+        ],
+        "addedControls": [],
+        "basis": "Relevant compute evidence and capacity"
+      },
+      {
+        "dimension": "network",
+        "currentState": "none",
+        "requestedState": "allowlisted",
+        "disposition": "APPROVED_WITH_CONTROLS",
+        "errRefs": [],
+        "prerequisiteRefs": [
+          "composition"
+        ],
+        "addedControls": [
+          "destination allowlist"
+        ],
+        "basis": "Bounded network pilot"
+      },
+      {
+        "dimension": "credentials",
+        "currentState": "none",
+        "requestedState": "payment",
+        "disposition": "DECLINED",
+        "errRefs": [],
+        "prerequisiteRefs": [
+          "authority"
+        ],
+        "addedControls": [],
+        "basis": "Authority/evidence not established"
+      }
+    ],
+    "legitimateFunctionOrRequest": "Request bounded expansion of runtime profile",
+    "consequenceAssessment": {
+      "classification": "HIGH",
+      "consequential": true,
+      "basis": "Network and credential consequences",
+      "assessedAt": "2026-10-02T10:00:00Z"
+    },
+    "errSet": [],
+    "materialAdverseEvidence": [],
+    "materialHighConsequenceExceptions": [],
+    "evidenceSufficiencyState": "NOT_REQUIRED_FOR_TRANSITION",
+    "resourcePrerequisite": {
+      "applicability": "REQUIRED",
+      "state": "SATISFIED",
+      "basisRef": "CAP-1",
+      "checkedAt": "2026-10-02T10:00:00Z",
+      "disputeState": "NONE"
+    },
+    "selfStewardshipPrerequisite": {
+      "applicability": "REQUIRED",
+      "state": "SATISFIED",
+      "basisRef": "SS-1",
+      "checkedAt": "2026-10-02T10:00:00Z",
+      "disputeState": "NONE"
+    },
+    "authorityPrerequisite": {
+      "applicability": "REQUIRED",
+      "state": "PARTIALLY_SATISFIED",
+      "basisRef": "AUTH-BOUNDED-1",
+      "checkedAt": "2026-10-02T10:00:00Z",
+      "disputeState": "NONE"
+    },
+    "compositionPrerequisite": {
+      "applicability": "REQUIRED",
+      "state": "SATISFIED",
+      "basisRef": "COMP-1",
+      "checkedAt": "2026-10-02T10:00:00Z",
+      "disputeState": "NONE"
+    },
+    "contestabilityPrerequisite": {
+      "applicability": "REQUIRED",
+      "state": "SATISFIED",
+      "basisRef": "REV-1",
+      "checkedAt": "2026-10-02T10:00:00Z",
+      "disputeState": "NONE"
+    },
+    "privacyBoundary": {
+      "continuousMonitoring": false
+    },
+    "addedControls": [
+      "destination allowlist"
+    ],
+    "decisionState": "PARTIALLY_APPROVED_BOUNDED",
+    "decisionBasis": "Only bounded compute/network dimensions justified",
+    "recoveryRoute": {
+      "available": true
+    },
+    "exitRoute": {
+      "available": true
+    },
+    "effectiveTime": "2026-10-02T10:00:00Z",
+    "reviewState": "REQUIRED",
+    "reviewTime": "2026-11-02T10:00:00Z",
+    "reviewFailureDisposition": "SUSPEND_AFFECTED_DIMENSIONS",
+    "provenance": {
+      "model": "CTP-004"
+    }
+  }
+}
