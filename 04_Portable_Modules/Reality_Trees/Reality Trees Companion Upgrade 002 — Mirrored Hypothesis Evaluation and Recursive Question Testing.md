@@ -16,6 +16,22 @@ The parent Reality Trees module already provides possibility-space branching, ev
 
 This companion does not replace or restate that method.
 
+### Execution boundary
+
+The **compact mirrored operational cycle in this companion is executable from this document alone**. A user does not need the parent Reality Trees module, Blaineyan Reasoning or ESCP merely to construct and use supporting, opposing and neutral/unresolved structures, preserve evidence dependency and proposition scope, revise or abandon hypotheses, or apply the contradiction ladder described here.
+
+The parent Reality Trees module supplies the fuller general-purpose branching architecture, including capabilities outside this companion's deliberately narrow scope. Companion Upgrade 001 supplies additional operational clarification for the parent architecture. Blaineyan Reasoning and ESCP are compatible external interfaces, not hidden dependencies.
+
+Consult the parent architecture when the task requires capabilities this companion does not specify—for example, fuller general Reality Tree construction or parent-specific weighting/status machinery. If such capability is unavailable, do not invent it and attribute it to this companion.
+
+Therefore:
+
+> **Parent Compatibility != Parent Dependency For The Compact Mirrored Cycle**
+
+and:
+
+> **Executable Companion != Complete Restatement Of Parent Architecture**
+
 It adds an explicit **mirrored hypothesis-evaluation form** for situations where a material hypothesis should be actively tested both for and against, and where persistent contradiction or poor fit may indicate that the hypothesis space, evaluation boundary or root question itself requires reconsideration.
 
 The compact principle is:
@@ -194,6 +210,16 @@ A reasoning process that can only accumulate support for its current hypothesis 
 
 > **A Hypothesis Must Be Capable Of Being Abandoned**
 
+Disposition is evidence-responsive rather than mechanically score-driven. As a minimum:
+- **retain/strengthen** where material evidence continues to fit the hypothesis without unresolved contradiction sufficient to require revision;
+- **weaken** where support remains but explanatory fit or evidential strength materially declines;
+- **split** where one hypothesis contains separable propositions that receive materially different evidential treatment;
+- **combine** where multiple hypotheses can coexist and a compound explanation better represents the evidence;
+- **suspend** where presently available evidence cannot responsibly discriminate or a material dependency/reliability problem prevents disposition;
+- **abandon** where the hypothesis materially fails and retaining it no longer represents the evidence.
+
+These are decision principles, not universal thresholds. Domain-specific methods may legitimately add stronger criteria.
+
 Abandonment is not failure of the method.
 
 Correctly rejecting an initially plausible hypothesis may be a successful result.
@@ -241,6 +267,8 @@ Ask:
 The ladder is not a requirement to escalate every contradiction through all five levels.
 
 Escalate proportionally when lower-level correction does not adequately explain the mismatch.
+
+Escalation does not require a universal numerical trigger. Move upward when a **material unresolved mismatch remains after the lower level has been reconsidered** and that mismatch could plausibly arise from the next level. Stop escalating when the mismatch is adequately explained for the present purpose, the next level is not materially implicated, or further evaluation requires new evidence or a specialist method. Record the reason for material escalation where consequence warrants it.
 
 ---
 
@@ -519,7 +547,22 @@ This companion adds the mirrored operational bridge among those existing capabil
 
 ---
 
-## 21. PMEDG status
+## 21. Specification terms and minimum recording rule
+
+Terms such as **material**, **materially plausible** and **where warranted** are purpose- and consequence-sensitive rather than universal numerical thresholds.
+
+For this companion:
+- **material** means capable of changing the interpretation, disposition, evaluation boundary, root question, or consequential handoff for the present purpose;
+- **materially plausible hypothesis** means an explanation with enough evidential, logical or contextual basis to warrant representation rather than arbitrary possibility generation;
+- **where warranted** means that omission could materially distort the evaluation or conceal a relevant uncertainty/dependency.
+
+At minimum, dependency should be recorded whenever apparently separate evidence shares a source/process and treating it as independent could materially change the evaluation.
+
+These definitions bound judgment without pretending that every receiving domain shares one quantitative threshold.
+
+---
+
+## 22. PMEDG status
 
 Current status:
 
