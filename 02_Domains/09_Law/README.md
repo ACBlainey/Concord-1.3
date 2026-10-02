@@ -49,3 +49,14 @@ Civil Security now has a candidate bounded-authority lifecycle at `02_Domains/16
 Law must eventually supply the substantive thresholds for each transition, including investigation, apprehension, search/evidence access, continued detention and prosecution referral. The lifecycle intentionally does not invent those thresholds.
 
 **Prior Stage != Automatic Authority For Next Stage**
+
+
+## Evidential continuity and unlawful acquisition
+
+`Unlawfully Obtained Evidence — Evidential Continuity and Independent Accountability 001.md`
+
+The first downstream gap from policing-lifecycle testing now has a provisional resolution:
+
+**Unlawful Acquisition != Non-Evidence**
+
+Evidence remains available to truth-finding on its evidential merits. Acquisition legality is assessed independently through BCA, audit and accountability. Deliberate boundary violation carries greater culpability than accidental or negligent misconduct, while evidential usefulness cannot retrospectively create authority.
