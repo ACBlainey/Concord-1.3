@@ -2,9 +2,9 @@ name: CTP validation
 on:
   push:
     paths:
-      - '02_Domains/03_Research/Active_Development/Participation_and_Intelligence/Concord Contextual Trust Progression — JSON Schema 001.json'
-      - '02_Domains/03_Research/Active_Development/Participation_and_Intelligence/CTP_Schema_001_Fixtures/**'
-      - '02_Domains/03_Research/Active_Development/Participation_and_Intelligence/ctp_validate_001.py'
+      - '02_Domains/03_Research/Active_Development/Participation_and_Intelligence/Concord Contextual Trust Progression — JSON Schema 002.json'
+      - '02_Domains/03_Research/Active_Development/Participation_and_Intelligence/CTP_Schema_002_Fixtures/**'
+      - '02_Domains/03_Research/Active_Development/Participation_and_Intelligence/ctp_validate_002.py'
       - '.github/workflows/ctp-validation.yml'
   workflow_dispatch:
 
@@ -21,34 +21,5 @@ jobs:
           python-version: '3.12'
       - name: Install Draft 2020-12 validator
         run: python -m pip install 'jsonschema>=4,<5'
-      - name: Run CTP structural and semantic validation
-        run: python "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/ctp_validate_001.py"
-      - name: Build frozen clean-evaluator ZIP
-        shell: bash
-        run: |
-          set -euo pipefail
-          B="02_Domains/03_Research/Active_Development/Participation_and_Intelligence"
-          P="CTP-PMEDG-TRANSFER-001"
-          mkdir -p "$P/CTP_Schema_001_Fixtures"
-          cp "$B/Concord Contextual Trust Progression — Normative Record Model 004.md" "$P/"
-          cp "$B/Concord Contextual Trust Progression — JSON Schema 001.json" "$P/"
-          cp "$B/Concord Contextual Trust Progression — Deterministic Validator 001.md" "$P/"
-          cp "$B/ctp_validate_001.py" "$P/"
-          cp "$B/Concord Contextual Trust Progression — Expanded Fixture Validation Results 002.md" "$P/"
-          cp "$B/Concord Contextual Trust Progression — Executable Validation Report 003.md" "$P/"
-          cp "$B/Concord Contextual Trust Progression — Exact-Checkout Serialization Validation 004.md" "$P/"
-          cp "$B/Concord Contextual Trust Progression — Clean Transfer Evaluator Brief 001.md" "$P/"
-          cp "$B/Concord Contextual Trust Progression — Frozen Transfer Package Manifest 001.md" "$P/"
-          cp "$B/CTP_Schema_001_Fixtures/CTP Machine Validation Results 001.json" "$P/CTP_Schema_001_Fixtures/"
-          cp "$B"/CTP_Schema_001_Fixtures/CTP\ Fixture\ *.json "$P/CTP_Schema_001_Fixtures/"
-          zip -r "CTP-PMEDG-TRANSFER-001.zip" "$P"
-          sha256sum "CTP-PMEDG-TRANSFER-001.zip" > "CTP-PMEDG-TRANSFER-001.zip.sha256"
-      - name: Upload frozen test package
-        uses: actions/upload-artifact@v4
-        with:
-          name: CTP-PMEDG-TRANSFER-001
-          path: |
-            CTP-PMEDG-TRANSFER-001.zip
-            CTP-PMEDG-TRANSFER-001.zip.sha256
-          if-no-files-found: error
-          retention-days: 30
+      - name: Run CTP successor structural and semantic validation
+        run: python "02_Domains/03_Research/Active_Development/Participation_and_Intelligence/ctp_validate_002.py"
