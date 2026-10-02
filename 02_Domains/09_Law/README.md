@@ -1,6 +1,6 @@
 # Law
 
-**Status:** DOMAIN ESTABLISHED / ARCHITECTURE LARGELY UNDEVELOPED
+**Status:** DOMAIN ESTABLISHED / INITIAL RIGHTS-DEFENCE LEGAL ARCHITECTURE IN ACTIVE DEVELOPMENT
 
 ## Persistent function
 
@@ -13,3 +13,10 @@ This README establishes the domain boundary and current maturity honestly. Exist
 > **Folder Existence != System Completion**
 
 **Naming status:** CURRENT ARCHITECTURAL NAME / CORRIGIBLE
+
+
+## Initial self-defence legal framework
+
+`Self-Defence and Defensive Authority — Initial Legal Framework 001.md`
+
+This begins ordinary-law development of necessity, proportionality, defensive Bounded Contextual Authority, retreat, defence of others, voluntarily accepted protective duties, functional sunset and review. It does not yet constitute a completed self-defence code.
