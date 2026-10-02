@@ -75,3 +75,10 @@ Current candidate resolution separates:
 - error, negligence, recklessness, deliberate misconduct and systematic abuse as distinct culpability conditions.
 
 No automatic evidential exclusion is derived merely from unlawful acquisition. The acquisition violation remains independently reviewable and sanctionable.
+
+
+## Mistaken authority / reasonable belief — provisional resolution
+
+**Development output:** `02_Domains/09_Law/Mistaken Authority and Reasonable Belief — Culpability Framework 001.md`
+
+The second Policing Lifecycle stress-test gap is provisionally resolved by separating objective BCA from culpability for mistaken belief. Relevant metrics include legal clarity, available information, source reliability, contradictory evidence, verification opportunity, urgency, expected competence, upstream rights/ethics, intrusiveness, alternatives and reasonable competent-peer response. The exact defence/mitigation boundary remains deliberately adjudicative.
