@@ -52,3 +52,20 @@ Civil Security audit should preserve the information needed to reconstruct what 
 Law now contains a provisional prosecution-threshold architecture at `02_Domains/09_Law/Prosecution Threshold and Evidential Sufficiency — Initial Architecture 001.md`.
 
 Civil Security investigates and preserves the complete evidential state. It does not determine guilt. Referral must preserve materially relevant inculpatory, exculpatory, contradictory and unresolved evidence for independent prosecution-threshold assessment.
+
+
+## Mirrored Investigative Reality Trees
+
+`Mirrored Investigative Reality Trees — Evidence and Hypothesis Architecture 001.md`
+
+The developing investigative method maintains paired inculpatory and exculpatory Reality Trees for material suspect hypotheses and applies ESCP to the wider explanation space.
+
+Its governing question is:
+
+> **What happened, and which explanation best fits the evidence?**
+
+rather than whether enough evidence can be accumulated against the current suspect.
+
+**Suspect != Conclusion**  
+**Tree Weight != Guilt**  
+**Tree Weight != Authority**
