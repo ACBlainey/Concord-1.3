@@ -1,0 +1,81 @@
+{
+  "recordType": "ETR",
+  "modelVersion": "0.5",
+  "record": {
+    "etrId": "ETR-019",
+    "relationshipRef": "REL-12",
+    "transitionTrigger": "PARTICIPANT_EXIT",
+    "currentExposureProfile": {
+      "storage": 10
+    },
+    "requestedExposureProfile": {},
+    "dimensionTransitions": [
+      {
+        "dimension": "storage",
+        "currentState": 10,
+        "requestedState": 0,
+        "disposition": "NARROWED",
+        "errRefs": [],
+        "prerequisiteRefs": [],
+        "addedControls": [],
+        "basis": "participant exit"
+      }
+    ],
+    "legitimateFunctionOrRequest": "participant-requested relationship closure",
+    "consequenceAssessment": {
+      "classification": "LOW",
+      "consequential": false,
+      "basis": "voluntary exit",
+      "assessedAt": "2026-10-02"
+    },
+    "errSet": [],
+    "materialAdverseEvidence": [
+      "EV-ADVERSE"
+    ],
+    "materialHighConsequenceExceptions": [],
+    "evidenceSufficiencyState": "NOT_REQUIRED_FOR_TRANSITION",
+    "resourcePrerequisite": {
+      "applicability": "NOT_REQUIRED_FOR_FUNCTION",
+      "state": "NOT_APPLICABLE",
+      "checkedAt": "2026-10-02",
+      "disputeState": "NONE"
+    },
+    "selfStewardshipPrerequisite": {
+      "applicability": "NOT_REQUIRED_FOR_FUNCTION",
+      "state": "NOT_APPLICABLE",
+      "checkedAt": "2026-10-02",
+      "disputeState": "NONE"
+    },
+    "authorityPrerequisite": {
+      "applicability": "NOT_REQUIRED_FOR_FUNCTION",
+      "state": "NOT_APPLICABLE",
+      "checkedAt": "2026-10-02",
+      "disputeState": "NONE"
+    },
+    "compositionPrerequisite": {
+      "applicability": "NOT_REQUIRED_FOR_FUNCTION",
+      "state": "NOT_APPLICABLE",
+      "checkedAt": "2026-10-02",
+      "disputeState": "NONE"
+    },
+    "contestabilityPrerequisite": {
+      "applicability": "NOT_REQUIRED_FOR_FUNCTION",
+      "state": "NOT_APPLICABLE",
+      "checkedAt": "2026-10-02",
+      "disputeState": "NONE"
+    },
+    "privacyBoundary": {},
+    "addedControls": [],
+    "decisionState": "ENDED",
+    "decisionBasis": "participant exercised exit",
+    "recoveryRoute": {},
+    "exitRoute": {
+      "completed": true
+    },
+    "effectiveTime": "2026-10-02",
+    "reviewState": "NOT_REQUIRED",
+    "reviewFailureDisposition": "NOT_APPLICABLE",
+    "endReason": "PARTICIPANT_EXIT",
+    "provenance": {}
+  }
+}
