@@ -31,3 +31,10 @@ The candidate lifecycle treats policing as a succession of independently justifi
 **Report / Observation -> Triage -> Protective Intervention -> Investigation -> Apprehension -> Search / Evidence Access -> Detention -> Release / Closure OR Prosecution Referral -> Independent Adjudication**
 
 Authority does not automatically propagate between stages. Each transition must satisfy the legal/BCA requirements of the new function, and authority contracts or sunsets when its justification changes or ends.
+
+
+## Unlawfully acquired evidence interface
+
+Law now contains a provisional evidential-continuity framework at `02_Domains/09_Law/Unlawfully Obtained Evidence — Evidential Continuity and Independent Accountability 001.md`.
+
+Civil Security should preserve both evidence provenance and authority provenance. Evidence remains assessed on evidential merits; unlawful acquisition is independently audited. Deliberate circumvention of a known authority boundary is treated as more culpable than ordinary procedural error, and recurring deliberate violations trigger institutional/system review.
