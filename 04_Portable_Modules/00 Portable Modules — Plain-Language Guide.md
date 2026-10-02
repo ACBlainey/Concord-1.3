@@ -877,3 +877,80 @@ At that stage modules can also be indexed by relevant application domains withou
 “Graduated” in this guide means the module has completed the Concord's portable-development and bounded transfer-testing process at specification level.
 
 It does not mean that the module has been universally or empirically validated in every candidate application listed above.
+
+
+---
+
+# 9. Concord Information Black Box (CIBB)
+
+## Plain-English name
+
+**Keep the protected master information inside its boundary and give each legitimate user only the view or operation they actually need.**
+
+## What does it do?
+
+CIBB is an architecture for governing sensitive or authoritative information without solving every access problem by copying the master document and redacting each copy.
+
+The authoritative information remains protected. A user receives a contextual projection, permitted operation, controlled derivative or protected transfer according to legitimate purpose and authority.
+
+It also separates reading information from changing it, changing content from changing its controls, and ordinary access from exceptional direct-master access.
+
+## Simple example
+
+A medical record may contain information relevant to the patient, clinician, billing system, researcher and auditor, but those actors do not all need the same view or the same powers.
+
+CIBB keeps one governed authoritative object and produces appropriately bounded views or operations rather than creating loosely controlled master copies for every purpose.
+
+## Use it when
+
+Use CIBB when information must remain authoritative and protected while still supporting different legitimate users, purposes, transformations, transfers, recovery and lifecycle operations.
+
+## What it does not do
+
+CIBB does not decide who deserves authority in the first place. It does not make an information system secure merely because the architecture is adopted, and a valid projection does not automatically authorise the recipient to use the information for another purpose.
+
+**Formal module:** *Concord Information Black Box Portable Module v1.0*
+
+**Status:** Graduated; specification-level transfer validated.
+
+---
+
+# 10. Concord Bounded Participant Runtime (CBPR)
+
+## Plain-English name
+
+**Let a participant run bounded computation without confusing technical capability with permission or legitimate authority.**
+
+## What does it do?
+
+CBPR describes a substrate-neutral runtime relationship for limited computation or scheduled execution. It keeps three questions separate:
+
+**Can the runtime technically do this?**  
+**Has the service permitted it?**  
+**Is there an independently legitimate basis for the external consequence?**
+
+In the formal module these are expressed as:
+
+**CAP != PERM != AUTH**
+
+CBPR also handles resource budgets, tools, network destinations, credentials, schedules, composition of individually harmless actions, commit-time revalidation, provenance, stopping, recovery and participant/operator controls.
+
+## Simple example
+
+A participant is allowed to run a scheduled program that checks a public dataset once per day and prepares a report.
+
+Giving the program network access does not automatically authorise it to send messages, spend money, use unrelated credentials or modify an external system. If it proposes a consequential external action, the relevant authority must still exist and be valid when that action is committed.
+
+## Use it when
+
+Use CBPR when a participant, agent or service needs bounded computation or scheduled execution and the consequences of execution must remain explicitly constrained and auditable.
+
+## What it does not do
+
+CBPR does not create the authority to perform an external action. It does not establish personhood, citizenship or political standing. Recovering a stopped runtime does not automatically restore expired authority. Combining several permitted actions does not automatically make their combined consequence authorised.
+
+The module is architecture, not evidence that Concord presently operates a runtime service.
+
+**Formal module:** *Concord Bounded Participant Runtime — Portable Module v1.0*
+
+**Status:** Graduated; transfer validated with non-blocking clarifications; implementation validation outstanding.
