@@ -1,0 +1,77 @@
+{
+  "archive_id": "CIBB-ROUTE-B-DEVELOPMENT-ARCHIVE-001",
+  "created": "2026-10-02",
+  "source_root": "02_Domains/03_Research/Active_Development/Concord_Information_Black_Box",
+  "archive_root": "02_Domains/03_Research/Development_Archive/Portable_Modules/CIBB",
+  "file_count": 11,
+  "raw_evaluator_response": "Exact original uploaded clean evaluator response restored before archive creation.",
+  "rule": "Archive copies must reference exact source blob SHAs. Source cleanup prohibited until verification reports zero mismatches.",
+  "files": [
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Concord_Information_Black_Box/CIBB CRADP Blind Cross-Instance Test 003 — Source Resolution 001.md",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CIBB/CIBB CRADP Blind Cross-Instance Test 003 — Source Resolution 001.md",
+      "blob_sha": "6efe4a998336370d60b807f228c62280a3805bea",
+      "size": 6412
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Concord_Information_Black_Box/Concord Information Black Box — Formal Model 001.md",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CIBB/Concord Information Black Box — Formal Model 001.md",
+      "blob_sha": "005781f1dd2dd3650b7e2b9d5dd543f1475fd695",
+      "size": 14866
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Concord_Information_Black_Box/PMEDG_Extraction/CIBB PMEDG Extraction 001 — Evaluator Response Template.md",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CIBB/PMEDG_Extraction/CIBB PMEDG Extraction 001 — Evaluator Response Template.md",
+      "blob_sha": "d8e52c34cc65b7bafb6d74a1ae9e776fa45a5b57",
+      "size": 2405
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Concord_Information_Black_Box/PMEDG_Extraction/CIBB PMEDG Extraction 001 — Frozen Material Manifest.md",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CIBB/PMEDG_Extraction/CIBB PMEDG Extraction 001 — Frozen Material Manifest.md",
+      "blob_sha": "f8b685b3ac2a3660ed94b12d40b1e4bb4a980338",
+      "size": 1131
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Concord_Information_Black_Box/PMEDG_Extraction/CIBB PMEDG Extraction 001 — Post-Test Evaluation and Source Resolution 001.md",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CIBB/PMEDG_Extraction/CIBB PMEDG Extraction 001 — Post-Test Evaluation and Source Resolution 001.md",
+      "blob_sha": "63b84b04aad510331b52c4df4e82c00b87cfff69",
+      "size": 2701
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Concord_Information_Black_Box/PMEDG_Extraction/CIBB PMEDG Extraction 001 — Raw Evaluator Response.md",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CIBB/PMEDG_Extraction/CIBB PMEDG Extraction 001 — Raw Evaluator Response.md",
+      "blob_sha": "7f488dd4c15ec4b0658c25d33ef2a6e70781abe0",
+      "size": 16448
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Concord_Information_Black_Box/PMEDG_Extraction/CIBB PMEDG Extraction Audit 001 — Candidate 001.md",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CIBB/PMEDG_Extraction/CIBB PMEDG Extraction Audit 001 — Candidate 001.md",
+      "blob_sha": "3248fa0291784eb06942e9adefddcc4550a51e51",
+      "size": 9037
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Concord_Information_Black_Box/PMEDG_Extraction/Concord Information Black Box — PMEDG Portable-Package Graduation Review 001.md",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CIBB/PMEDG_Extraction/Concord Information Black Box — PMEDG Portable-Package Graduation Review 001.md",
+      "blob_sha": "ed1663808a9cca88fd3716b1c555452b662a57d9",
+      "size": 5016
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Concord_Information_Black_Box/PMEDG_Extraction/Concord Information Black Box — Portable Module Candidate 001.md",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CIBB/PMEDG_Extraction/Concord Information Black Box — Portable Module Candidate 001.md",
+      "blob_sha": "d27da12c01447f8b1f7e571f2f621475f627aaf0",
+      "size": 12626
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Concord_Information_Black_Box/PMEDG_Extraction/CRADP Blind Cross-Instance Test — CIBB PMEDG Extraction 001 — Test Brief.md",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CIBB/PMEDG_Extraction/CRADP Blind Cross-Instance Test — CIBB PMEDG Extraction 001 — Test Brief.md",
+      "blob_sha": "cad364c207f9ff2d00e5ab14c9f039b6a15bdac2",
+      "size": 11643
+    },
+    {
+      "source_path": "02_Domains/03_Research/Active_Development/Concord_Information_Black_Box/README.md",
+      "archive_path": "02_Domains/03_Research/Development_Archive/Portable_Modules/CIBB/README.md",
+      "blob_sha": "5560057e38376f17f899b3b7543857564be8929a",
+      "size": 4955
+    }
+  ]
+}
