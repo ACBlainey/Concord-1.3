@@ -1,0 +1,77 @@
+{
+  "recordType": "ETR",
+  "modelVersion": "0.5",
+  "record": {
+    "etrId": "ETR-004",
+    "relationshipRef": "REL-3",
+    "transitionTrigger": "PARTICIPANT_REQUEST",
+    "currentExposureProfile": {
+      "storage": 10
+    },
+    "requestedExposureProfile": {
+      "storage": 100
+    },
+    "dimensionTransitions": [
+      {
+        "dimension": "storage",
+        "currentState": 10,
+        "requestedState": 100,
+        "disposition": "APPROVED",
+        "errRefs": [],
+        "prerequisiteRefs": [],
+        "addedControls": [],
+        "basis": "Approved"
+      }
+    ],
+    "legitimateFunctionOrRequest": "Increase storage",
+    "consequenceAssessment": {
+      "classification": "LOW",
+      "consequential": false,
+      "basis": "Bounded storage",
+      "assessedAt": "2026-10-02"
+    },
+    "errSet": [],
+    "materialAdverseEvidence": [],
+    "materialHighConsequenceExceptions": [],
+    "evidenceSufficiencyState": "NOT_REQUIRED_FOR_TRANSITION",
+    "resourcePrerequisite": {
+      "applicability": "NOT_REQUIRED_FOR_FUNCTION",
+      "state": "NOT_APPLICABLE",
+      "checkedAt": "2026-10-02",
+      "disputeState": "NONE"
+    },
+    "selfStewardshipPrerequisite": {
+      "applicability": "NOT_REQUIRED_FOR_FUNCTION",
+      "state": "NOT_APPLICABLE",
+      "checkedAt": "2026-10-02",
+      "disputeState": "NONE"
+    },
+    "authorityPrerequisite": {
+      "applicability": "NOT_REQUIRED_FOR_FUNCTION",
+      "state": "NOT_APPLICABLE",
+      "checkedAt": "2026-10-02",
+      "disputeState": "NONE"
+    },
+    "compositionPrerequisite": {
+      "applicability": "NOT_REQUIRED_FOR_FUNCTION",
+      "state": "NOT_APPLICABLE",
+      "checkedAt": "2026-10-02",
+      "disputeState": "NONE"
+    },
+    "contestabilityPrerequisite": {
+      "applicability": "NOT_REQUIRED_FOR_FUNCTION",
+      "state": "NOT_APPLICABLE",
+      "checkedAt": "2026-10-02",
+      "disputeState": "NONE"
+    },
+    "privacyBoundary": {},
+    "addedControls": [],
+    "decisionState": "PARTIALLY_APPROVED_BOUNDED",
+    "decisionBasis": "Invalid mixed-state claim",
+    "recoveryRoute": {},
+    "exitRoute": {},
+    "effectiveTime": "2026-10-02",
+    "reviewState": "NOT_REQUIRED",
+    "provenance": {}
+  }
+}
