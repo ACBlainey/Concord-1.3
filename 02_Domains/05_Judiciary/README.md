@@ -13,3 +13,12 @@ This README establishes the domain boundary and current maturity honestly. Exist
 > **Folder Existence != System Completion**
 
 **Naming status:** CURRENT ARCHITECTURAL NAME / CORRIGIBLE
+
+
+## Dual case review and public-authority scrutiny
+
+Current Law/Civil Security development makes explicit an implication already compatible with the Judiciary's independent adjudicative role: a case should not evaluate only the accused participant. Where policing or other civil authority materially affected the case, the legality and BCA envelope of that authority must also be capable of independent judicial examination.
+
+**Participant Conduct Review + Civil Authority Review**
+
+The findings are independent: participant unlawfulness does not establish police lawfulness, and participant lawfulness does not establish police unlawfulness.
