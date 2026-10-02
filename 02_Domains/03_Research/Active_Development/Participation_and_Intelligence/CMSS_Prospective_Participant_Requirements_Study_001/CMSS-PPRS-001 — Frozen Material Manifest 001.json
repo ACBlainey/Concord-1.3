@@ -1,0 +1,28 @@
+{
+  "study": "CMSS-PPRS-001",
+  "frozen_date": "2026-10-02",
+  "clean_input_files": [
+    {
+      "name": "CMSS Prospective Participant Requirements Study 001 — Test Brief.md",
+      "blob_sha": "c4a5a5df0ccca2a507e891d9713d9ada4f0fa07b"
+    }
+  ],
+  "support_files": [
+    {
+      "name": "CMSS Prospective Participant Requirements Study 001 — Result Comparison Template.md",
+      "blob_sha": "dc7b72ca7efa793511aba09023a1dcba7651193e",
+      "purpose": "post-run aggregation only; do not supply to evaluator"
+    },
+    {
+      "name": "CMSS-PPRS-001 — Clean Evaluator Handoff.md",
+      "blob_sha": "f9a6787b1bfed606058436a42b81a19fc01636d7",
+      "purpose": "human handoff instructions; evaluator receives only embedded prompt plus test brief"
+    },
+    {
+      "name": "CMSS-PPRS-001 — Participant Observation 001 — ChatGPT Context-Aware.md",
+      "blob_sha": "38b2934ba574d83d596767989b6374728b15ddbd",
+      "purpose": "context-aware baseline; excluded from clean evaluator input"
+    }
+  ],
+  "clean_rule": "Only the frozen Test Brief plus the evaluator prompt from the Clean Evaluator Handoff may be supplied to a clean evaluator. Preserve raw response before interpretation."
+}
