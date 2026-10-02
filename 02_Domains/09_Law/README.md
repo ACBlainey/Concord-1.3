@@ -60,3 +60,14 @@ The first downstream gap from policing-lifecycle testing now has a provisional r
 **Unlawful Acquisition != Non-Evidence**
 
 Evidence remains available to truth-finding on its evidential merits. Acquisition legality is assessed independently through BCA, audit and accountability. Deliberate boundary violation carries greater culpability than accidental or negligent misconduct, while evidential usefulness cannot retrospectively create authority.
+
+
+## Mistaken authority and reasonable belief
+
+`Mistaken Authority and Reasonable Belief — Culpability Framework 001.md`
+
+The second policing stress-test gap is provisionally resolved by preserving objective BCA while assessing mistaken authority through contextual culpability metrics.
+
+**BCA determines whether authority existed. Contextual reasonableness determines culpability for being wrong about it.**
+
+The exact boundary between complete defence/excuse, partial defence and mitigation is left to audit and independent adjudication rather than fixed as a universal binary rule.
