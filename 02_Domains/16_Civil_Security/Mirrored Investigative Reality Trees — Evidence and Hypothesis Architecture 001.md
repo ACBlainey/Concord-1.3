@@ -382,3 +382,36 @@ No numerical guilt/prosecution scoring system is established by this note.
 In compact form:
 
 > **Investigate the explanation, not the suspect.**
+
+
+## 21. PMEDG candidate status
+
+**PMEDG CANDIDATE / DO NOT EXTRACT YET**
+
+The investigative implementation should first be stress-tested against varied cases. If the method remains stable, the portable extraction should generalise the reasoning pattern rather than merely reproduce the policing implementation.
+
+Candidate portable core:
+
+**Question**  
+-> **Candidate Hypothesis Space**  
+-> **Mirrored Reality Trees**  
+-> **Map Supporting / Opposing / Neutral / Unresolved Evidence**  
+-> **Expose Dependencies And Contradictions**  
+-> **Compare Competing Hypotheses**  
+-> **Test Whether The Hypothesis Space Is Complete**  
+-> **Reformulate The Question Where Required**  
+-> **Repeat**
+
+The higher-order Blaineyan Reasoning contribution is not simply weighing competing answers. It is the recursive test:
+
+> **Are these the correct propositions to be testing, or has the question itself constrained the answer space incorrectly?**
+
+Therefore:
+
+**Well-Formed Reality Tree != Correct Root Question**
+
+**Strong Reasoning Inside Incomplete Evaluation Space != Complete Reasoning**
+
+**Contradiction / Poor Fit -> Test Hypothesis Space -> Potentially Reformulate Root Question**
+
+The policing implementation remains the current worked application and validation environment. Portable extraction is deferred until that implementation has been stress-tested.
