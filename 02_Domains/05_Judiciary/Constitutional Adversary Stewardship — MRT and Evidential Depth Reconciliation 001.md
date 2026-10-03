@@ -250,6 +250,12 @@ The stress test identifies four interfaces for further development:
 
 These are interface requirements rather than failures of the basic combined chain.
 
+The evidentiary-completeness interface is now developed in:
+
+**Evidentiary Completeness Audit — ESCP-Aware Judicial Evidence Architecture 001**
+
+It applies ESCP and KCS to the independent evidentiary function through proposition-relative Evidence Source Maps, bounded search provenance, explicit searched/restricted/missing/unknown states, MRT completeness triggers and stage-relative evidential-sufficiency states. It explicitly prohibits converting ESCP uncertainty into general search authority.
+
 ## 14. Reconciled lifecycle
 
 **Incident / Observation**
