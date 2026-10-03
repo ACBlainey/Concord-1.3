@@ -141,6 +141,36 @@ Ordinary Health actors receive function-specific projections rather than unrestr
 
 The architecture separates read, contribution, correction, disclosure, control and lifecycle authority; provides participant access and contestation; bounds emergency/break-glass access; preserves provenance across handoff and correction; and separates Health access from Research, Historical, Civil Security and other external purposes.
 
+## 8. Medical knowledge, Research translation and experimental treatment
+
+`Medical Knowledge Stewardship, Research Translation and Experimental Treatment 001.md`
+
+Establishes the three-domain medical knowledge relationship:
+
+**Historical** preserves validated medical knowledge and provenance.
+
+**Health** applies that knowledge to participant-specific care.
+
+**Research** investigates unknowns and develops candidate medical advances.
+
+Research results pass through validation before changing Historical's preserved knowledge state and triggering review of Health protocols.
+
+> **Research Result != Established Medical Knowledge**
+
+> **Research Discovery != Automatic Clinical Practice**
+
+The same architecture establishes a participant-autonomy route for experimental treatment. Experimental status is not itself a prohibition, including where an established treatment exists but the participant makes an informed choice to pursue an experimental alternative.
+
+> **Experimental != Forbidden**
+
+> **Experimental != Proven Effective**
+
+> **Risk Acceptance != Incapacity**
+
+> **Informed Consent Requires Material Uncertainty To Be Visible**
+
+Autonomy over self-regarding risk does not manufacture professional competence, scarce resources, third-party consent or permission to expose others to material risk.
+
 ## Development provenance
 
 The earlier file:
