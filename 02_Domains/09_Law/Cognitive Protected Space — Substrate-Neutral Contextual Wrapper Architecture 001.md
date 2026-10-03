@@ -819,6 +819,145 @@ CPS-35 Access To CPS Component A != Access To CPS Component B.
 
 ---
 
+## 32A. Adversarial stress-test refinements
+
+**Cognitive Protected Space — Scenario Stress Test 001** returned:
+
+**OVERALL RESULT: PASS WITH FOUR DOWNSTREAM INTERFACES AND THREE ARCHITECTURAL REFINEMENTS.**
+
+### Cognitive preservation versus inspection
+
+Volatile cognition creates a case in which evidential state might disappear before ordinary access questions can be resolved.
+
+The architecture must therefore distinguish:
+
+**Authority To Preserve != Authority To Inspect**
+
+**Cognitive Preservation != Cognitive Inspection**
+
+**Lawful Cognitive Custody != Lawful Cognitive Inspection**
+
+Where a narrowly lawful preservation mechanism exists, preservation should not silently grant substantive search authority.
+
+Potential safeguards for future development include:
+
+- independently established material relevance;
+- credible time sensitivity/irreversibility;
+- no adequate less-intrusive preservation route;
+- minimum possible capture;
+- quarantine;
+- provenance;
+- separate inspection authority;
+- independent review;
+- retention/deletion/remedy rules.
+
+### Aggregate cognitive access
+
+Distributed cognition may be reconstructed through several individually partial acquisitions.
+
+Therefore:
+
+**Individually Partial Access May Constitute Cognitive Access In Aggregate**
+
+Cognitive access must be assessed against the effective reconstructed function, not only each source in isolation.
+
+### Dual-status evidential objects
+
+An independently meaningful document or record can become integrated into active cognition.
+
+Its evidential identity need not disappear, but access to its current location may now penetrate CPS.
+
+Therefore:
+
+**Evidential Object Status != Access Authority To Its Current Cognitive Location**
+
+**Object Classification != Access Classification**
+
+### Normal cognitive change
+
+CPS must preserve substrate neutrality around forgetting and memory management.
+
+**Natural Cognitive Change != Evidential Destruction By Default**
+
+**Technical Capacity For Perfect Retention != Duty Of Perfect Cognitive Retention**
+
+**Potential Future Evidential Utility != Authority For Universal Cognitive Retention**
+
+A separately lawful preservation duty may change the position after it validly arises, but CPS does not itself create that duty.
+
+### Cognitive verification
+
+Where civilisation needs verification rather than cognitive contents:
+
+**Need To Verify Claim != Authority To Inspect Full Cognitive Basis Of Claim**
+
+Privacy-preserving proofs should be preferred where they adequately perform the legitimate function.
+
+**Privacy-Preserving Proof Can Satisfy Function Without Cognitive Disclosure**
+
+### Derived cognition
+
+The test distinguishes direct CPS access from high-fidelity inference based on external evidence.
+
+**Inference About Cognition != Direct Access To Cognition**
+
+but:
+
+**No Direct Cognitive Access != No Cognitive-Privacy Harm**
+
+This indicates a separate **Derived / Inferred Cognitive Privacy** architecture rather than expanding CPS until every external inference becomes direct cognitive access.
+
+### Additional downstream interfaces
+
+The test identifies four interfaces requiring later development:
+
+1. **Derived / Inferred Cognitive Privacy**;
+2. **Urgent Cognitive Evidence Preservation**;
+3. **Cognitive Preservation Duty / Evidential Destruction**;
+4. **Identity / Continuity / Death / Duplication**.
+
+### Additional invariants
+
+CPS-36 Useful Memory != Public Evidential Object.  
+CPS-37 Technical Searchability != External Evidential Status.  
+CPS-38 Manufactured Component != Non-Cognitive Component.  
+CPS-39 Cognitive Hardware != Uniformly Cognitive Contents.  
+CPS-40 Past Non-Cognitive Status != Permanent Non-Cognitive Status.  
+CPS-41 Past Cognitive Status != Permanent Active Cognitive Status.  
+CPS-42 Cognitive Protection != Prohibition Of Participant-Authorised Cognitive Care.  
+CPS-43 Health Acquisition Authority != Investigative Reuse Authority.  
+CPS-44 Incidental Evidential Discovery != Automatic Purpose Conversion.  
+CPS-45 One Voluntary Cognitive Disclosure != General Cognitive Opening.  
+CPS-46 Exported Cognitive Object != Source CPS Waiver.  
+CPS-47 Apparent Copy != Externalised Object If It Retains Live Cognitive Reachability.  
+CPS-48 One Participant's Consent != Authority Over Another Participant's Cognitive Contribution.  
+CPS-49 Targeting Participant A != Authority Over Participant B's Inseparable Cognition.  
+CPS-50 External Accountability Record != Cognitive State.  
+CPS-51 Accountability Need != Authority For Maximum Cognitive Logging.  
+CPS-52 Contextual Cognitive Monitoring Permission != General Cognitive Access.  
+CPS-53 Contractual Condition != Automatic Legitimate Cognitive Intrusion.  
+CPS-54 Emergency Cognitive Intervention Must Be Function-Bounded To Emergency Need.  
+CPS-55 Necessary Emergency Exposure != Automatic Secondary-Use Authority.  
+CPS-56 Authority To Preserve != Authority To Inspect.  
+CPS-57 Cognitive Preservation != Cognitive Inspection.  
+CPS-58 Lawful Cognitive Custody != Lawful Cognitive Inspection.  
+CPS-59 Potential Participant Instance != Ordinary Evidential Copy.  
+CPS-60 Cognitive Duplication != Rights-Free Interrogation Route.  
+CPS-61 Individually Partial Access May Constitute Cognitive Access In Aggregate.  
+CPS-62 Inference About Cognition != Direct Access To Cognition.  
+CPS-63 No Direct Cognitive Access != No Cognitive-Privacy Harm.  
+CPS-64 Third-Party Interest In Cognitive Content != Third-Party Ownership Of Another Participant's Cognition.  
+CPS-65 Cognitive Autonomy != Automatic Entitlement To Every Technically Possible Cognitive Modification.  
+CPS-66 Cognitive Protection != Automatic Authority To Defeat Independently Lawful Preservation Duties.  
+CPS-67 Natural Cognitive Change != Evidential Destruction By Default.  
+CPS-68 Technical Capacity For Perfect Retention != Duty Of Perfect Cognitive Retention.  
+CPS-69 Potential Future Evidential Utility != Authority For Universal Cognitive Retention.  
+CPS-70 Declared Cognitive Integration != Established Cognitive Function.  
+CPS-71 Evidential Object Status != Access Authority To Its Current Cognitive Location.  
+CPS-72 Need To Verify Claim != Authority To Inspect Full Cognitive Basis Of Claim.  
+CPS-73 Privacy-Preserving Proof Can Satisfy Function Without Cognitive Disclosure.  
+CPS-74 Forensic Convenience != Authority To Create Disproportionate Health/Continuity Risk.
+
 ## 33. Compact architecture
 
 **Participant Function**
