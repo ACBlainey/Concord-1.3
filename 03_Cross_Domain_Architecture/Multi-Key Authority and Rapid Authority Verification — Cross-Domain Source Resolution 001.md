@@ -1286,3 +1286,266 @@ The principal falsification questions are:
 4. Can authority composition be represented without allowing authority creep?
 5. Can rapid verification work without turning a registry into the source of legitimacy?
 6. Does the architecture still add value where a single authority instrument legitimately covers the whole act?
+
+
+---
+
+# 58. Cross-domain adversarial validation
+
+Companion:
+
+**Multi-Key Authority — Cross-Domain Adversarial Test 001.md**
+
+Result:
+
+> **PASS WITH THIRTY ARCHITECTURAL REFINEMENTS, FIVE MAJOR COMPOSITION FINDINGS, AND NO COLLAPSE OF THE GENERAL MKA ARCHITECTURE.**
+
+Ninety scenarios tested ordinary permission-only activity, over-decomposition, policing, custody, evidence, cognitive access, infrastructure, AI runtime, emergency, property, nested contexts, delegation, succession, stale authority, registry failure, conflicting authority, circular/self-authorising systems, collusion, ASCP regress, false completeness, broad single instruments, competence, BTA/CBPR/CWA overlap, self-defence, rapid action, automation, third-party effects, batch scalability, authority composition and upstream prohibitions.
+
+---
+
+# 59. Anti-bureaucracy boundary
+
+The test establishes:
+
+**Permission-Sufficient Action != Authority Problem**
+
+**Material Dependency != Independent Authority Key By Default**
+
+**Action Granularity != Authority Granularity**
+
+**Technical Dependency != Authority Dimension By Default**
+
+MKA must begin with CWA's Permission-Before-Authority Gate.
+
+It should represent only materially independent protected authority dimensions.
+
+It must not turn ordinary civil activity into an authority checklist.
+
+---
+
+# 60. Minimum representation
+
+Use the smallest authority representation that preserves the materially relevant:
+
+- protected boundaries;
+- route;
+- scope;
+- current validity;
+- prohibition state;
+- correction path.
+
+Candidate:
+
+`MKA-Min = <ActionRef, RouteRef, RequiredAuthorityRefs, CurrentPredicateRefs, ProhibitionState, CommitState, Provenance>`
+
+Optional complexity should appear only where material.
+
+---
+
+# 61. ASCP stopping rule
+
+The adversarial test resolves the infinite-regress problem.
+
+> **ASCP is sufficiently resolved when the proposed act, route, affected protected contexts/functions and reasonably discoverable material consequences have been mapped to the applicable authority interfaces, no material unresolved authority dimension remains identified, and residual uncertainty is proportionate to the consequence and decision horizon.**
+
+Therefore:
+
+**Authority Completeness != Proof Of Omniscience**
+
+**Remote Speculation != Mandatory Authority Expansion**
+
+**Higher Consequence -> Stronger Authority-Space Completeness Requirement**
+
+**Complete Within Scope != Universally Complete**
+
+ASCP is recursive but not indefinitely recursive.
+
+---
+
+# 62. ASCP bounded method
+
+1. Identify actual proposed act.
+2. Identify route/mechanism.
+3. Identify materially affected participants/resources/contexts.
+4. Identify known protected interfaces crossed.
+5. Map required authority dimensions.
+6. Ask what materially missing authority dimension could make the authorisation conclusion wrong.
+7. Resolve identified material gaps or preserve UNKNOWN.
+8. Stop when no material unresolved dimension is identified within proportionate review depth.
+9. Reopen if route, consequence, context or material evidence changes.
+
+Candidate completeness states:
+
+- COMPLETE-WITHIN-DECLARED-SCOPE;
+- INCOMPLETE-KNOWN-GAP;
+- UNKNOWN-MATERIAL-DIMENSION;
+- DISPUTED-AUTHORITY-DIMENSION;
+- NOT-APPLICABLE/NO-AUTHORITY-REQUIRED;
+- REVIEW-DUE/STALE.
+
+---
+
+# 63. Registry boundary
+
+The test establishes:
+
+**Registry State != Authority Itself**
+
+**Authority Registry != Authority Source**
+
+**Registry Absence != Proof Authority Does Not Exist**
+
+A registry may preserve evidence/references concerning:
+
+- source;
+- role;
+- scope;
+- signature;
+- expiry;
+- revocation;
+- composition.
+
+It does not manufacture legitimacy.
+
+---
+
+# 64. Explicit composition and inheritance
+
+The test confirms:
+
+**Explicit Inheritance != Authority Creep**
+
+**One Authority Instrument Can Cover Multiple Necessary Functions**
+
+**Key Count != Document Count**
+
+**Authority(A) + Authority(B) != Authority(C) Without Legitimate Composition**
+
+A composition rule is itself authority-relevant state and must remain current.
+
+---
+
+# 65. Delegation and succession
+
+Additional rules:
+
+**Delegation != Authority Multiplication**
+
+**Delegated Authority Cannot Exceed Legitimate Delegation Capacity**
+
+**Role Succession != Automatic Transfer Of Personal Exceptional Authority**
+
+Authority belonging legitimately to an office may transfer through the lawful role transition.
+
+Personal/exceptional grants require their own succession basis.
+
+---
+
+# 66. Fact-activated authority
+
+The test refines the precomputation principle.
+
+Not every legitimate authority event is individually issued in advance.
+
+Self-defence and emergency protective action may activate under present facts through an already legitimate rule.
+
+Therefore:
+
+> **Precompute the rule, not necessarily the individual authorisation event.**
+
+This permits rapid action without turning a registry into sovereignty.
+
+---
+
+# 67. Rapid action
+
+**Rapid Verification != Multi-Committee Approval**
+
+Where seconds matter, an authorised participant may act under a pre-existing legitimate rule whose factual trigger is currently satisfied.
+
+Provenance timing can be proportionate.
+
+**Provenance Timing != Authority Source**
+
+---
+
+# 68. Scalability
+
+For repeated materially equivalent actions:
+
+**Repeated Equivalent Action != Mandatory Re-Derivation Of Identical Authority**
+
+A validated authority class may be reused with current predicate checking.
+
+But:
+
+**Batch Authority != Permission To Hide Material Exceptions**
+
+**Class-Level Authority != Authority To Ignore Material Instance Difference**
+
+---
+
+# 69. Composition boundaries
+
+The adversarial test finds:
+
+### BTA
+
+**BTA = Transition-Coherence / Interoperability Grammar**
+
+**MKA = Authority-Completeness / Composition Grammar**
+
+BTA explicitly leaves authority legitimacy externally owned.
+
+### CWA
+
+**CWA = Context / Permission / Rule / Protection / Authority Topology Grammar**
+
+**MKA = Authority Completeness For The Proposed Consequential Route**
+
+### CBPR
+
+CBPR is a mature participant-runtime implementation family containing several MKA principles.
+
+MKA is broader and applies to human and institutional civil action outside runtime architecture.
+
+Therefore MKA should compose with CBPR rather than duplicate its runtime mechanisms.
+
+---
+
+# 70. Self-authorisation boundary
+
+**Self-Declared Authority != Legitimate Authority Source**
+
+**Credential Creation != Authority Creation**
+
+**Authority Cannot Bootstrap Itself Solely From Its Own Claim**
+
+MKA verifies authority sourced elsewhere.
+
+It cannot become its own legitimacy source.
+
+---
+
+# 71. Route and consequence change
+
+**Route Change Can Invalidate Authority Completeness**
+
+**Consequence Change Can Change Required Authority Space**
+
+**Field Completeness != Authority Completeness**
+
+Therefore runtime revalidation must examine material changes in route and consequence, not merely key expiry.
+
+---
+
+# 72. Updated status
+
+**SOURCE-RESOLVED / CROSS-DOMAIN ADVERSARIALLY TESTED / STRONG PMEDG CANDIDATE / PROVISIONAL / NON-CANONICAL / DO NOT EXTRACT YET**
+
+The next development dependency is a focused:
+
+**Authority-Space Completeness Problem — Development Note 001**
+
+followed by a formal composition/overlap audit against ESCP, CBPR, CWA/BCA and BTA before any portable extraction.
