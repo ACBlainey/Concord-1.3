@@ -586,6 +586,37 @@ DFCI-15 Protected Communication Can Support Truth-Finding Without Becoming Commo
 
 ---
 
+## 16A. Stress-test refinements
+
+**Defence Fiduciary Confidentiality and Right to Silence — Scenario Stress Test 001** returned:
+
+**OVERALL RESULT: PASS WITH THREE RIGHTS/PROCEDURAL BOUNDARIES EXPOSED.**
+
+The test supports the consultation wrapper and ordinary testimonial right to silence and adds:
+
+DFCI-16 Protected Confession To Fiduciary != Automatic Common Evidence.  
+DFCI-17 Exercise Of Right To Silence != Inculpatory Evidence.  
+DFCI-18 Answering Question A != General Waiver Of Silence For Questions B-Z.  
+DFCI-19 Protected Consultation != Physical Room Requirement.  
+DFCI-20 Technical Capture Of Protected Communication != Automatic Evidential Permission.  
+DFCI-21 Bounded Disclosure Consent != General Wrapper Waiver.  
+DFCI-22 Alarming Statement != Automatic Destruction Of Confidentiality.  
+DFCI-23 Serious Past Admission != Automatic Wrapper Termination.  
+DFCI-24 Evidence-Space Incompleteness != Authority To Search Fiduciary Consultation.  
+DFCI-25 Shared Consultation Wrapper != Permanent Alignment Of Participant Interests.  
+DFCI-26 Fiduciary Change != Automatic Loss Of Consultation Protection.  
+DFCI-27 Participant Falsehood Within Consultation != Automatic Loss Of Wrapper Protection.  
+DFCI-28 State Possesses Evidence != Authority To Compel Participant Confirmation.  
+DFCI-29 Right To Silence != Necessarily Right To Refuse Every Communication In Every Context.
+
+Three boundaries remain deliberately unresolved:
+
+1. imminent serious harm / urgent rescue, where Respect Autonomy and Avoid Unnecessary Harm may require a separately derived precedence/exception architecture;
+2. self-incriminating testimony versus basic identity, procedural and safety communication;
+3. non-testimonial compelled evidence, including biological, biometric, physical, digital, cryptographic and AI/hybrid-state evidence.
+
+The first boundary must not be converted into a general investigative exception. Any protective override would require its own legitimate basis, minimum necessary scope, provenance, reviewability and functional sunset.
+
 ## 17. Candidate operating boundary
 
 **External / Independently Existing Evidence**
