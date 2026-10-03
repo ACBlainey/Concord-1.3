@@ -1160,3 +1160,282 @@ The test should specifically attempt to determine whether the multi-key synthesi
 3. becomes unusably slow in emergencies;
 4. mistakes public control for ownership of participants;
 5. or genuinely reconciles aggregation with established protected context.
+
+
+---
+
+# 67. Adversarial comparative validation
+
+Companion:
+
+**Established Life-Support Reallocation — Multi-Key Authority Adversarial Test 001.md**
+
+Result:
+
+> **PASS WITH TWENTY-FOUR ARCHITECTURAL REFINEMENTS, NINE MAJOR DOWNSTREAM INTERFACES AND NO COLLAPSE OF THE MULTI-KEY SYNTHESIS.**
+
+Ninety scenarios attacked consent, initiation, retrospective rules, abundance-to-scarcity transitions, de facto incumbency, pooled-resource laundering, private resources, participant material, direct intervention, false emergencies, persistent emergencies, runtime verification, nominal independence, collusion, aggregation ratios, prognosis, incomparable harms, developmental participants, substrate, refusal, advance directives, authority expiry, jurisdiction, provider exit, monopoly, manufactured scarcity, impossible transition, instrumental recovery, constitutional prohibition, substitute arrival, post-hoc error, rapid verification, stale authority, emergency pooling, repeated reallocation, systematic minority loss, resource efficiency and conflicts of interest.
+
+---
+
+# 68. Validated central distinction
+
+The test confirms:
+
+**A scarce-resource system may govern the resource without owning the participant.**
+
+and:
+
+**An established support relation may constrain withdrawal without automatically transferring permanent control of the resource to the participant.**
+
+This is the central reconciliation between Fundamental Aggregation and Withdrawal Authority.
+
+---
+
+# 69. De facto incumbency
+
+The test confirms a subtle failure mode:
+
+**Missing Withdrawal Authority Can Produce De Facto Incumbency**
+
+This does not mean the incumbent has greater worth.
+
+It means a system that fails to prospectively resolve withdrawal authority can accidentally create first-come allocation outcomes through authority absence.
+
+Therefore:
+
+> **Foreseeably scarce pooled systems should resolve the status of established-support withdrawal prospectively rather than allowing missing authority to become an accidental allocation rule.**
+
+But:
+
+**Missing Authority Must Not Be Repaired By Inventing Authority At Bedside**
+
+---
+
+# 70. Prospective authority anti-laundering
+
+Additional invariants:
+
+**Pooled Label != Pooled Authority**
+
+**Later Rule != Retroactive Authority By Default**
+
+**Dynamic Rule != Undefined Future Discretion**
+
+**Public Pool Title != Bodily Recovery Authority**
+
+**Inseparable Recovery != Ordinary Resource Reallocation**
+
+Prospective governance is legitimate only where the authority actually exists, remains current and stays within scope.
+
+---
+
+# 71. Temporal authority freshness
+
+Authority must be valid not merely when a decision process begins, but when the consequential action occurs.
+
+**Past Resource Authority != Continuing Resource Authority**
+
+**Authority At Decision != Authority At Execution By Default**
+
+**Authority Stack Must Be Current At Execution**
+
+**Authority Completeness Requires Temporal Freshness**
+
+If:
+
+- scarcity ends;
+- clinical validity changes;
+- mandate expires;
+- substitute appears;
+- intervention mechanism changes;
+
+the stack must be reassessed.
+
+---
+
+# 72. Functional independence
+
+Multiple keys are useful only if the functions they represent are genuinely distinct where independence is required.
+
+**Multiple Fields != Multiple Independent Authorities**
+
+**Organisational Separation != Functional Independence**
+
+**Automated Review != Independent Review By Default**
+
+Institutional topology, conflict-of-interest controls and audit therefore remain necessary.
+
+---
+
+# 73. Rapid Authority Verification
+
+The adversarial test resolves the speed problem through a two-stage model:
+
+## Precompute authority
+
+Before emergency:
+
+- valid law/rule version;
+- resource classification;
+- authority holders;
+- emergency triggers;
+- withdrawal classes;
+- direct-intervention classes;
+- prohibited criteria;
+- review requirements;
+- sunset conditions.
+
+## Verify facts at runtime
+
+At the consequential moment:
+
+- participant/support identity;
+- current clinical function;
+- current scarcity;
+- alternatives;
+- allocation consequence;
+- trigger satisfaction;
+- authority validity;
+- intervention mechanism.
+
+Therefore:
+
+> **Precompute authority; verify current facts.**
+
+and:
+
+**Precomputation Can Reduce Decision Time Without Pre-Deciding Clinical Facts**
+
+**Precomputed Authority != Precomputed Outcome**
+
+**Automation Can Verify Authority State Without Becoming Authority Source**
+
+---
+
+# 74. Revised multi-key execution stack
+
+At execution time:
+
+`CurrentClinicalValidity`
+AND
+`CurrentGenuineScarcity`
+AND
+`CurrentResourceAllocationAuthority`
+AND
+`CurrentAllocationCriterionSatisfied`
+AND
+`CurrentEstablishedSupportWithdrawalAuthority`
+AND
+`CurrentDirectInterventionAuthorityIfRequired`
+AND
+`CurrentTransitionResidualCareRequirements`
+AND
+`CurrentReviewProvenanceRequirements`
+AND
+`TemporalFreshness`
+AND
+`FunctionalIndependenceWhereRequired`
+AND
+`NoUpstreamProhibition`
+
+Only then:
+
+`MAY_PROCEED`
+
+This remains an authority-completeness architecture, not a clinical scoring algorithm.
+
+---
+
+# 75. Emergency persistence
+
+**Persistent Scarcity != Permanent Emergency Authority**
+
+Long-duration scarcity should transition from emergency authority toward ordinary prospective governance.
+
+Emergency must not become the mechanism by which exceptional authority silently normalises.
+
+---
+
+# 76. Recovery mechanism
+
+The test strengthens the anti-instrumentalisation boundary:
+
+**Recovery Mechanism Can Transform Allocation Into Instrumentalisation**
+
+If recovering R requires using, destroying or invading A as the means of obtaining it, the case changes.
+
+Therefore:
+
+**Authority Over Resource R != Authority To Transform Participant A Into The Recovery Mechanism**
+
+---
+
+# 77. Withdrawal harm
+
+**Authority To Withdraw != Authority To Add Avoidable Withdrawal Harm**
+
+Residual care and harm-minimisation remain independent requirements.
+
+---
+
+# 78. Reallocation friction
+
+**Reallocation Authority != Frictionless Reallocation**
+
+Repeated reallocations can themselves create:
+
+- transition harm;
+- instability;
+- reduced treatment effectiveness;
+- procedural burden;
+- systematic exclusion.
+
+Therefore transition cost is part of consequence evaluation.
+
+---
+
+# 79. Longitudinal fairness
+
+**Repeated Aggregate Defeat != Evidence Of Lower Standing**
+
+Where a numerical minority repeatedly loses aggregate comparisons, longitudinal review is required to detect systematic exclusion.
+
+This links directly to Scarcity Allocation's repeated-scarcity architecture.
+
+---
+
+# 80. Current validated status
+
+The candidate synthesis is now:
+
+**CANDIDATE ARCHITECTURE / ADVERSARIALLY TESTED / STRONG PROVISIONAL RESULT / NON-CANONICAL**
+
+It has not yet supplied the missing specialist Health withdrawal rule.
+
+What it has supplied is the authority architecture into which such a rule can safely fit.
+
+---
+
+# 81. Generalisation candidate
+
+The adversarial test indicates that **Multi-Key Authority + Rapid Authority Verification** may be a reusable Concord authority primitive rather than a Health-specific mechanism.
+
+Candidate general rule:
+
+> **An action may proceed only when every independently required authority for the actual action is present, current, within scope and not blocked by an upstream prohibition.**
+
+Potential applications include:
+
+- policing;
+- custody;
+- prosecution/evidence access;
+- cognitive access;
+- emergency authority;
+- infrastructure shutdown;
+- scarce-resource allocation;
+- medical intervention;
+- AI hosting;
+- property requisition.
+
+This should now be source-resolved separately before extraction or portable-module treatment.
