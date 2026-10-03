@@ -486,6 +486,32 @@ Detailed procedural rights remain for Law development.
 
 ---
 
+## 18A. Custody protected-context and post-release remedy interface
+
+Custody/detention is further developed in:
+
+**Custody as a Protected Context — Rights Restriction, Review and Post-Release Remedy 001**
+
+That architecture treats custody as a high-consequence Contextual Wrapper in which particular rights may be temporarily restricted by legitimate civil need while underlying rights and unaffected protections continue.
+
+Key distinctions include:
+
+**Rights Restriction != Rights Extinction**
+
+**Authority To Detain != Authority To Impose Every Custodial Restriction**
+
+**Greater Civil Control -> Greater Civil Duty Of Care**
+
+**Release != Original Custody Was Unlawful**
+
+**Original Custody Was Lawful != No Harm Occurred**
+
+Where custody ends without charge/prosecution, a post-custody civil-burden review may consider restoration, support or compensation independently of any misconduct finding.
+
+**Remedy != Finding Of Misconduct**
+
+This preserves both legitimate Civil Security authority and the participant's right not to carry without review the entire cost of a coercive civil intervention undertaken for wider protective purposes.
+
 ## 19. Initial lifecycle invariants
 
 PLC-01 Report != Evidence.  
