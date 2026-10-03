@@ -464,6 +464,36 @@ The derivation and current confidence classification are recorded in:
 
 > **A participant's mind does not become less private because civilisation becomes better at reading it.**
 
+## 10.2 Derived and Inferred Cognitive Privacy
+
+Where information outside a participant's Cognitive Protected Space is used to construct a participant-specific model of likely belief, preference, intention, vulnerability, deliberation or other cognitive state, the resulting inference does not become the participant's cognition merely because it is accurate.
+
+However, increasing intimacy, persistence, consequence, manipulation capability or functional substitutability may create stronger privacy, purpose-limitation, access, provenance and contestability requirements.
+
+The lawful availability of source information does not by itself create unlimited authority to construct, propagate or consequentially use every possible cognitive inference derived from it.
+
+Prediction or cognitive inference does not by itself create authority over the participant.
+
+This protection does not prohibit ordinary interpersonal inference, case-specific evidential reasoning, necessary functional inference, participant-directed support, legitimate Health prediction or appropriately anonymised/aggregate civil learning merely because inference occurs.
+
+The current operational architecture is developed in:
+
+**02_Domains/09_Law/Derived and Inferred Cognitive Privacy — Modelled Mental State and Cognitive-Proxy Protection 001.md**
+
+The derivation and current confidence classification are recorded in:
+
+**Rights_Derivation/Derived and Inferred Cognitive Privacy — Rights Derivation and Charter Source Resolution 001.md**
+
+> **Inference About Cognition != Direct Access To Cognition.**
+
+> **No Direct Cognitive Access != No Cognitive-Privacy Harm.**
+
+> **Public Inputs != Unlimited Consequential Profiling Authority.**
+
+> **Prediction != Authority.**
+
+> **Inference Accuracy != Consequential Legitimacy.**
+
 # Article 11 — Expression and Communication
 
 Participants have a provisional liberty to communicate:
