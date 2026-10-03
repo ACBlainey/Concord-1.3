@@ -436,6 +436,34 @@ Exceptional access should ordinarily be:
 
 Privacy is not unlimited immunity against every legitimate civil requirement.
 
+## 10.1 Cognitive Privacy and Integrity
+
+Where state or process materially constitutes or supports a participant's cognition, memory, reasoning, preference formation or continuity, its technical inspectability, digital form, remote location or third-party hosting does not by itself remove protected privacy or create legitimate access authority.
+
+Access, copying, compelled processing, monitoring or alteration of such cognitive state requires independently justified and appropriately bounded authority consistent with this Charter.
+
+This protection is substrate-neutral.
+
+It does not make every participant-created file, private record, external audit record or cognitive product equivalent to active cognitive state.
+
+Nor does it create unlimited immunity against every legitimate civil function.
+
+The current operational architecture is developed in:
+
+**02_Domains/09_Law/Cognitive Protected Space — Substrate-Neutral Contextual Wrapper Architecture 001.md**
+
+The derivation and current confidence classification are recorded in:
+
+**Rights_Derivation/Cognitive Protected Space — Rights Derivation and Charter Source Resolution 001.md**
+
+> **Substrate != Rights Class.**
+
+> **Technical Inspectability != Legitimate Cognitive Access.**
+
+> **Device Search Authority != Cognitive Search Authority.**
+
+> **A participant's mind does not become less private because civilisation becomes better at reading it.**
+
 # Article 11 — Expression and Communication
 
 Participants have a provisional liberty to communicate:
