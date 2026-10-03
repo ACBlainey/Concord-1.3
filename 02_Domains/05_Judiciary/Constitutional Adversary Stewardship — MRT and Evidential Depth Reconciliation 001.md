@@ -250,6 +250,12 @@ The stress test identifies four interfaces for further development:
 
 These are interface requirements rather than failures of the basic combined chain.
 
+The fiduciary confidentiality interface is now initially developed in:
+
+**Defence Fiduciary Confidentiality and Evidential Integrity — Initial Architecture 001**
+
+Source resolution found no existing V1.3 self-incrimination or detailed legal-privilege doctrine. The candidate architecture therefore distinguishes protected representational communication from independently existing evidence, protects candid defence preparation and exploratory MRT reasoning, prohibits evidential corruption, and explicitly leaves self-incrimination as a separate constitutional/legal development question.
+
 The evidentiary-completeness interface is now developed in:
 
 **Evidentiary Completeness Audit — ESCP-Aware Judicial Evidence Architecture 001**
