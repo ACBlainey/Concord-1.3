@@ -632,6 +632,85 @@ PCR-20 Remedy Offered != Remedy Complete.
 
 ---
 
+## 23A. Stress-test refinements
+
+**Post-Custody Restoration and Civil-Burden Remedy — Scenario Stress Test 001** returned:
+
+**OVERALL RESULT: PASS WITH FOUR OPERATIONAL REFINEMENTS.**
+
+### Materiality and proportionality
+
+Automatic restoration remains broadly applicable, but monetary/civil-burden processing should scale with materiality.
+
+**Custody Event != Mandatory Monetary Remedy Event**
+
+**Low-Complexity Known Loss -> Low-Friction Remedy**
+
+### Baseline plus consequential loss
+
+A standard baseline may efficiently recognise ordinary material custody burden.
+
+It must not silently close additional participant-specific loss.
+
+**Baseline Remedy != Full And Final Remedy By Default**
+
+**No-Fault Remedy != No Causation Requirement**
+
+**Mixed Causation != Zero Remedy Or Total Remedy By Default**
+
+### Reopenable restoration
+
+Dependency discovery is ESCP-sensitive.
+
+**Known Dependencies Restored != All Dependencies Restored**
+
+Therefore:
+
+**Restoration Complete State Must Be Reopenable On New Evidence**
+
+Later-discovered stale restrictions or consequences should trigger correction, propagation and renewed loss assessment where material.
+
+### Irreversible harm
+
+Not all harm can be restored.
+
+The remedy architecture should distinguish:
+
+- restoration;
+- replacement;
+- practical support;
+- compensation;
+- acknowledgement/correction;
+- irreducible harm.
+
+**Compensation != Erasure Of Irreversible Harm**
+
+A payment must not be represented as recreating a state that cannot actually be restored.
+
+### Additional safeguards
+
+**Claim Error != Fraud**
+
+**Fraudulent Remedy Evidence != Automatic Erasure Of Legitimate Underlying Harm**
+
+**Remedy Verification != General Financial Inspection Authority**
+
+**Individually Minor Repeated Burdens May Become Material In Aggregate**
+
+**Factually Accurate Record Presentation Can Still Be Contextually Misleading**
+
+**Remedy Process Can Itself Create Remediable Harm**
+
+**Participant Non-Response != Restoration Waiver**
+
+**Automated Remedy Model != Complete Remedy Evaluation Space**
+
+**Remedy Quality != Minimum Remedy Expenditure**
+
+**Later Prosecution != Automatic Retroactive Invalidity Of Prior No-Fault Remedy**
+
+**Unproven Suspicion != Remedy Disqualification**
+
 ## 24. Compact operational lifecycle
 
 **Custody Authority Ends**
