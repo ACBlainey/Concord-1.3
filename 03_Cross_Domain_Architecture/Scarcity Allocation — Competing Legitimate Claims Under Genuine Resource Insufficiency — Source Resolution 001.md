@@ -1041,9 +1041,224 @@ The following remain unresolved:
 
 ---
 
-## 52. Development status
+## 52. Adversarial validation result
 
-**SOURCE-RESOLVED / REQUIRES ADVERSARIAL STRESS TESTING**
+Companion test:
+
+**Scarcity Allocation — Adversarial Stress Test 001.md**
+
+Result:
+
+> **PASS WITH TWELVE ARCHITECTURAL REFINEMENTS, MULTIPLE DOMAIN INTERFACES, AND ONE UPSTREAM CONSTITUTIONAL PROBLEM.**
+
+The architecture survives adversarial cases involving medical scarcity, cross-substrate claims, wealth, ownership, citizenship, participation, infrastructure, reserves, housing, water, energy, labour, repeated allocation, algorithms, uncertainty and emergencies.
+
+It does **not** resolve the Fundamental Aggregation Problem.
+
+---
+
+## 53. Integrated refinement — displacement is a distinct act
+
+**Incumbency != Worth**
+
+but:
+
+**Displacement Can Be A Distinct Consequential Act**
+
+Not initiating a service, terminating an established service and forcibly displacing a participant from a protected context can have different rights and consequence profiles.
+
+---
+
+## 54. Integrated refinement — forecast future claims
+
+Distinguish:
+
+- speculative future demand;
+- evidence-based forecast;
+- known/committed future claim;
+- current claim.
+
+**Forecast Future Claim != Hypothetical Future Claim**
+
+Future option value must remain evidence-sensitive.
+
+---
+
+## 55. Integrated refinement — materiality
+
+**Numerical Difference != Material Difference**
+
+Quantitative evidence should include uncertainty/confidence and resource-appropriate materiality.
+
+A 0.61 versus 0.60 model output does not automatically establish a legitimate priority distinction.
+
+---
+
+## 56. Integrated refinement — protected-context incumbency
+
+**Current Protected Context != Mere Administrative Incumbency**
+
+Established homes, cognitive hosts, life-support relationships and comparable protected contexts can create displacement consequences beyond simple arrival order.
+
+---
+
+## 57. Integrated refinement — repeated scarcity
+
+**Repeated Scarcity != Sequence Of Unrelated One-Off Decisions**
+
+Longitudinal evaluation may need to consider continuity, accumulated reversible burden, rotation, recovery, prior access and permanent newcomer exclusion.
+
+Past access must not become a worth penalty.
+
+---
+
+## 58. Integrated refinement — scalar-collapse prohibition
+
+For fundamental protected-function conflicts:
+
+> **The multi-factor architecture must not be reduced to a universal weighted participant-priority score.**
+
+Individual dimensions may be measured quantitatively.
+
+Their measurement does not authorise conversion into a universal worth scalar.
+
+**Factor Measurement != Worth Quantification**
+
+---
+
+## 59. Integrated refinement — historical-model boundary
+
+**Historical Allocation Pattern != Normative Allocation Authority**
+
+Machine-learning or statistical systems may estimate factual matters such as demand, capacity or effectiveness.
+
+Prediction of previous allocation decisions does not establish legitimacy.
+
+---
+
+## 60. Integrated refinement — two decision tempos
+
+Scarcity allocation requires:
+
+### Deliberative mode
+
+Where time permits:
+
+- verification;
+- dependency mapping;
+- ESCP search;
+- alternatives;
+- contestability;
+- fuller multi-factor evaluation.
+
+### Rapid mode
+
+Where delay itself creates serious irreversible harm:
+
+- minimum sufficient high-confidence distinctions;
+- bounded authority;
+- explicit uncertainty;
+- provenance;
+- retrospective review;
+- correction where possible.
+
+**Urgency Can Contract Evaluation Without Creating New Priority Values**
+
+---
+
+## 61. Integrated refinement — labour agency
+
+**Scarce Labour != Ownership Of Labourer**
+
+Scarcity architecture may prioritise requests, schedules or already-lawful duties.
+
+It does not itself create authority to compel participant labour.
+
+---
+
+## 62. Integrated refinement — institutional decomposition
+
+Institutional priority claims should be resolved through:
+
+**Institutional Claim -> Function -> Dependency -> Participant/Civil Consequence**
+
+“Critical infrastructure” is not itself a magic priority label.
+
+---
+
+## 63. Integrated refinement — expanding the resource frontier
+
+**Resource Used To Expand Resource Frontier Can Be Allocation-Relevant**
+
+Examples include repair, restoration, transport and supply-enabling functions.
+
+The relevance comes from evidenced consequence, not institutional prestige.
+
+---
+
+## 64. Integrated refinement — no moralisation of denial
+
+**Allocation Necessity != Moral Reclassification Of The Unserved Participant**
+
+A participant denied a genuinely scarce resource does not thereby become:
+
+- less worthy;
+- lower standing;
+- less deserving;
+- historically inferior;
+- presumptively lower priority in future unrelated allocations.
+
+---
+
+## 65. Fundamental Aggregation Problem
+
+The adversarial test exposes an upstream unresolved question:
+
+> **When several equal-standing participants face the same fundamental loss, to what extent may the number of protected participants affected determine allocation?**
+
+Examples:
+
+- one life versus five;
+- one human participant versus several AI participants requiring equivalent aggregate resource;
+- one direct life-support claimant versus infrastructure protecting thousands;
+- one surgeon serving one critical patient versus several;
+- one participant consuming enough scarce capacity to preserve many others.
+
+The existing architecture establishes both:
+
+1. aggregate consequences can be materially relevant; and
+2. participants must not be reduced to expendable instruments.
+
+Neither proposition alone determines the boundary.
+
+Therefore:
+
+**Participant Count != Complete Allocation Rule**
+
+and:
+
+**Ignoring Participant Count != Necessarily Complete Equal-Standing Protection**
+
+No general “save the greatest number” rule is presently established.
+
+No general prohibition on considering participant number is presently established either.
+
+This is a genuine source-resolution requirement.
+
+---
+
+## 66. Revised development status
+
+**SOURCE-RESOLVED / ADVERSARIALLY TESTED / PROVISIONAL / NON-CANONICAL**
+
+Scarcity Allocation is sufficiently developed to retain as a cross-domain architecture.
+
+Its principal upstream dependency is now:
+
+**Fundamental Aggregation Problem — Equal Standing, Multiple Protected Claims and Anti-Instrumentalisation.**
+
+No universal numerical allocation formula should be created until that issue is resolved.
+
 
 The next test should include:
 
