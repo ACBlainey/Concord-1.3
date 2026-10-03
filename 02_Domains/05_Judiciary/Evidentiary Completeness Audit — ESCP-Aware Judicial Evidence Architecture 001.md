@@ -566,6 +566,47 @@ ECA-20 Search Scope Must Be Represented Wherever A Negative Result Is Material.
 
 ---
 
+## 22A. Stress-test refinement
+
+**Evidentiary Completeness Audit — Scenario Stress Test 001** returned:
+
+**OVERALL RESULT: PASS WITH NARROW REPRESENTATIONAL EXTENSIONS.**
+
+The test showed that evidence-space completeness is not adequately represented by evidence objects alone.
+
+A more complete candidate model is:
+
+**Evidence Space = Objects + Sources + Queries + Relations + Classifications + Access + Hypothesis Context**
+
+A completeness defect may therefore arise because:
+
+- an evidence object is absent;
+- a source class is unrepresented;
+- the source exists but the material query was not performed;
+- evidence is preserved but misclassified or undiscoverable;
+- apparently independent objects share an unrepresented dependency;
+- a source exists but is inaccessible or technically unsearchable;
+- an expected source never actually existed;
+- an irreducible source loss has occurred;
+- the hypothesis that makes a source relevant has not yet been represented.
+
+Additional invariants:
+
+ECA-21 Source Exists + Search Fails != Negative Evidential Result.  
+ECA-22 Expected Source Assumption Must Itself Be Evidentially Testable.  
+ECA-23 Correct Search Of Existing Taxonomy != Complete Evidence Taxonomy.  
+ECA-24 Source Searched != Every Material Query Performed.  
+ECA-25 Recorded Evidence != Discoverable Evidence.  
+ECA-26 Object Completeness != Relationship Completeness.  
+ECA-27 Completeness Defect May Be Irreducible.  
+ECA-28 Irreducible Uncertainty != Permission To Manufacture Evidence.  
+ECA-29 Institutional Consensus != Complete Evaluation Space.  
+ECA-30 Evidential Sufficiency != Exhaustive Search.  
+ECA-31 Hypothesis-Space Expansion -> Evidence-Space Expansion May Be Required.  
+ECA-32 Completeness Checklist != Complete Evidence Taxonomy.
+
+A standard Evidence Source Map must therefore remain extensible and must not become an exhaustive checklist by convention. Search stopping decisions should preserve their proportional/material rationale where consequential.
+
 ## 23. Compact operating cycle
 
 **Material Proposition**
