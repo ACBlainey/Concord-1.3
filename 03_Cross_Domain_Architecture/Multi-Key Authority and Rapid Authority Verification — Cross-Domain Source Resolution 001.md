@@ -1549,3 +1549,123 @@ The next development dependency is a focused:
 **Authority-Space Completeness Problem — Development Note 001**
 
 followed by a formal composition/overlap audit against ESCP, CBPR, CWA/BCA and BTA before any portable extraction.
+
+
+---
+
+# 73. Composition and non-duplication audit
+
+Companion:
+
+**MKA - ASCP - ESCP - CBPR - CWA - BTA — Composition and Non-Duplication Audit 001.md**
+
+Result:
+
+> **PASS — DISTINCT ARCHITECTURAL ROLE CONFIRMED / MODULE BOUNDARY NARROWED**
+
+The audit tested problem ownership, state ownership, authority ownership, inputs, outputs, triggers, termination, forbidden inference, overlap, composition and removal consequence across ESCP, CWA, ASCP, MKA, CBPR and BTA.
+
+No existing architecture can absorb MKA without losing a distinct function.
+
+No existing architecture should be absorbed into MKA.
+
+---
+
+# 74. Final boundary finding
+
+The distinct MKA object is:
+
+> **the seam between independently legitimate authority states and a single consequential act.**
+
+MKA exists to prevent that seam from becoming an unrecognised source of power.
+
+It does not:
+
+- create authority;
+- own substantive authority;
+- replace contextual architecture;
+- replace general epistemic completeness;
+- replace runtime controls;
+- replace transition coordination.
+
+---
+
+# 75. Preferred module form
+
+MKA should develop toward a:
+
+> **Small Shared Authority Composition Kernel**
+
+ASCP should remain embedded as its ESCP-derived completeness layer.
+
+The kernel should remain reference-based and consume externally owned authority/context/domain state.
+
+Candidate responsibilities:
+
+1. Permission-Before-Authority Gate.
+2. Receive actual act and route.
+3. Receive protected context/interface references.
+4. ASCP completeness check.
+5. Receive externally grounded AuthorityBasis references.
+6. Verify required authority coverage.
+7. Verify scope.
+8. Verify explicit composition/inheritance.
+9. Verify required independence.
+10. Verify dynamic predicates/freshness.
+11. Check upstream prohibitions.
+12. Revalidate at consequential commit where required.
+13. Emit bounded authorisation/hold/block/unknown/dispute state.
+14. Preserve provenance.
+15. Reopen on material route/context/consequence/authority change.
+
+---
+
+# 76. Ownership invariants
+
+**Authority Verifier != Authority Source**
+
+**Completeness Checker != Omniscience Source**
+
+**Transition Coordinator != Authority Source**
+
+**Runtime Enforcer != Authority Source**
+
+**Context Mapper != Conflict Sovereign**
+
+**Completeness Challenge != Substantive Decision Authority**
+
+These preserve separation among MKA, ASCP, BTA, CBPR, CWA and ESCP.
+
+---
+
+# 77. Removal-test finding
+
+Removing MKA leaves a specific architectural gap:
+
+CWA can describe contexts.
+
+ESCP can challenge evaluation completeness.
+
+ASCP can expose a missing authority dimension.
+
+CBPR can enforce bounded runtime execution.
+
+BTA can coordinate consequential transitions.
+
+But none owns the general question:
+
+> **Do the independently necessary authorities for this actual route legitimately compose into authority to commit this act now?**
+
+That is MKA's irreducible function.
+
+---
+
+# 78. Updated development status
+
+**SOURCE-RESOLVED / CROSS-DOMAIN ADVERSARIALLY TESTED / NON-DUPLICATION AUDITED / DISTINCT KERNEL ROLE CONFIRMED / STRONG PMEDG CANDIDATE / PROVISIONAL / NON-CANONICAL / DO NOT EXTRACT YET**
+
+Next:
+
+**MKA Portable Kernel Candidate — Extraction Boundary 001**
+
+This should freeze only the minimum candidate kernel contract before clean blind-transfer testing.
