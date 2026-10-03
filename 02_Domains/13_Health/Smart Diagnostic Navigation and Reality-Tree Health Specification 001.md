@@ -316,3 +316,70 @@ The navigation system must not independently acquire authority to:
 > **Reasoning Capability != Clinical Authority**
 
 > **Self-Service Available != Self-Service Mandatory**
+
+
+## 19. Diagnostic inheritance, coexistence and changing reality
+
+The medical transfer test for Mirrored Reality Trees established several additional safeguards that should remain explicit in the living Health architecture.
+
+### 19.1 Inherited diagnosis is not new evidence
+
+A diagnosis recorded by one clinician or system may legitimately inform later care, but its repetition does not create independent corroboration.
+
+> **Clinical Consensus != Independent Evidence**
+
+> **Repeated Restatement Of Diagnosis != Corroboration**
+
+Later evaluators should be able to distinguish the original observations and tests from interpretations subsequently copied or inherited from the record.
+
+This reduces diagnostic anchoring and prevents provenance collapse.
+
+### 19.2 Multiple explanations may coexist
+
+Diagnostic branches are not necessarily mutually exclusive.
+
+A participant may have more than one condition or causal process at the same time.
+
+> **Evidence Supports A != Evidence Excludes B**
+
+> **A True != B False**
+
+Where apparently contradictory findings resist a single-cause explanation, the system should test whether the hidden assumption of one diagnosis is itself wrong.
+
+### 19.3 Strong evidence must remain proposition-bounded
+
+A reliable test may strongly establish a finding without uniquely establishing the broader diagnosis associated with it.
+
+> **Strong Evidence For Proposition X != Strong Evidence For Broader Proposition Y**
+
+The tree should preserve intermediate propositions rather than collapsing test result directly into diagnosis.
+
+### 19.4 Treatment response is evidence, not unique causal proof
+
+Improvement after treatment may support a diagnosis, but alternative explanations such as spontaneous improvement, non-specific treatment effect, multiple simultaneous interventions or action on several possible conditions may remain live.
+
+> **Treatment Response != Unique Proof Of Diagnosis**
+
+### 19.5 The underlying participant state can change
+
+New evidence does not always mean earlier reasoning was defective. The participant's health state may genuinely have changed.
+
+> **Changed Evidence May Reflect Changed Reality, Not Earlier Reasoning Error**
+
+The diagnostic system should preserve time and provenance sufficiently to distinguish:
+- evidence that was previously unavailable;
+- corrected evidence;
+- evidence contradicting an earlier inference;
+- evidence produced by a genuinely changed underlying state.
+
+### 19.6 Root-question challenge
+
+Where all represented diagnostic candidates fit poorly, the system should reopen the framing itself.
+
+Possible alternatives may include normal variation, measurement error, treatment effect, environmental cause, interacting conditions or an as-yet-unrepresented explanation.
+
+> **Correctly Comparing Represented Diagnoses != Correct Diagnosis If The Relevant Explanation Was Never Represented**
+
+This is the medical form of the broader Blaineyan question:
+
+> **Are these even the correct hypotheses to be testing?**
