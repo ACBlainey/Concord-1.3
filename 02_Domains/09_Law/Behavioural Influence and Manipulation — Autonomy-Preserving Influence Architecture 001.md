@@ -1030,6 +1030,129 @@ BI-5 is not “more manipulative” than BI-4; it is a separate authority route.
 
 ---
 
+## 48A. Adversarial stress-test refinements
+
+**Behavioural Influence and Manipulation — Scenario Stress Test 001** returned:
+
+**OVERALL RESULT: PASS WITH FIVE REFINEMENTS AND THREE MAJOR INTERFACES.**
+
+### Undue inducement
+
+Coercion and inducement are not the same.
+
+Candidate definition:
+
+> **Undue inducement is an offer whose scale or relationship to participant vulnerability or dependency materially compromises voluntariness even though the influencing actor does not threaten to worsen the participant's baseline position.**
+
+Therefore:
+
+**Offer != Coercion**
+
+but:
+
+**Offer Can Still Undermine Meaningful Consent**
+
+Ordinary compensation or beneficial offers should not be presumed undue merely because they influence choice.
+
+### Direct cognitive modification escalation
+
+Where an intervention directly alters:
+
+- memory;
+- reward machinery;
+- preferences;
+- cognitive state;
+- decision-generating process;
+
+the intervention has moved beyond ordinary behavioural influence.
+
+**Direct Cognitive Modification != Mere Behavioural Influence**
+
+Such cases should route to Cognitive Privacy and Integrity, Health and Law under a dedicated architecture.
+
+### Aggregate influence
+
+Domination may emerge from a pattern rather than a single act.
+
+**Individually Minor Influence Acts Can Aggregate Into Domination**
+
+Assessment should therefore consider:
+
+- repeated prompts;
+- multiple channels;
+- accumulated friction;
+- dependency over time;
+- adaptive personalisation;
+- cumulative narrowing of options.
+
+### Temporal/contextual refusal
+
+Refusal is not an eternal global flag.
+
+Relevant state includes:
+
+- what was refused;
+- when;
+- offer/version;
+- whether the participant reopened dialogue;
+- whether circumstances materially changed;
+- whether a valid prior commitment applies;
+- whether independent emergency/protective authority exists.
+
+Therefore:
+
+**Refusal Context != Eternal Global Refusal**
+
+but also:
+
+**Understanding A Refusal != Permission To Optimise Until Refusal Collapses**
+
+### Effective transparency
+
+Transparency should optimise participant understanding, not disclosure volume.
+
+**Disclosure Volume != Effective Transparency**
+
+**Maximum Disclosure != Maximum Understanding**
+
+Layered disclosure may be appropriate: concise material explanation with accessible deeper detail.
+
+### Manipulative intent versus behavioural harm
+
+The test also establishes:
+
+**No Manipulative Intent != No Responsibility For Behavioural Harm**
+
+A system may accidentally create compulsive, autonomy-degrading or dependency-forming effects. Manipulation classification and responsibility for foreseeable harm are related but distinct.
+
+### Developmental autonomy
+
+For developing participants:
+
+**Reasoned Disagreement != Training Error By Definition**
+
+A developmental system in which every emerging disagreement is automatically trained away may structurally prevent the agency it claims to be developing.
+
+### Influence by environment
+
+Influence is not confined to messages.
+
+**Physical Architecture Can Implement A Dark Pattern**
+
+**Control Of Cognitive Input Channel Can Become Behavioural Control**
+
+**Behavioural Effect Of Environment != Manipulation By Default**
+
+Function, purpose and necessity remain decisive.
+
+### Three downstream interfaces
+
+The test exposes:
+
+1. **Cognitive Modification and Integrity**;
+2. **Temporal Consent, Commitment and Withdrawal**;
+3. **Undue Inducement and Dependency-Sensitive Consent**.
+
 ## 49. Initial invariants
 
 BI-01 Influence != Manipulation.  
