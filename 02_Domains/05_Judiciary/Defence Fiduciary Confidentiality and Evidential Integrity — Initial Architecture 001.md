@@ -52,6 +52,179 @@ and:
 
 ---
 
+## 2A. Contextual Wrapper foundation
+
+The graduated **Contextual Wrapper Architecture (CWA)** supplies a Concord-native mechanism for fiduciary confidentiality.
+
+CWA expressly recognises bounded contexts that may be:
+
+- informational;
+- relational;
+- functional;
+- conceptual;
+- digital;
+- physical;
+- or hybrid.
+
+Its examples include confidential meetings, professional relationships, private conversations, privileged communications and confidential reasoning environments.
+
+A fiduciary consultation can therefore be represented as a **protected contextual wrapper** activated for the legitimate function of representation.
+
+Candidate wrapper:
+
+**Applicable Wider Law / Ethical Kernel**
+-> **Fiduciary Consultation Activated**
+-> **Participant + Authorised Fiduciary / Support Role**
+-> **Protected Communication / Reasoning Space**
+-> **Representation Function**
+-> **Context-Bounded Information Handling**
+-> **Exit / Termination**
+-> **Protection Continues For Material Created Within Wrapper As Law Defines**
+
+The wrapper may be physical, digital, remote, relational or hybrid.
+
+Its protection does not depend solely on being inside a particular room.
+
+### Wrapper boundary
+
+Within the legitimate consultation wrapper, protected material may include:
+
+- participant-fiduciary communications;
+- legal questions;
+- advice;
+- exploratory factual discussion;
+- defence preparation;
+- draft reasoning;
+- fiduciary MRT exploration;
+- discussion of known weaknesses;
+- discussion of possible explanations;
+- legitimate support necessary for meaningful representation.
+
+The protection exists because candid consultation is the function of the space.
+
+**Consultation Context != General Evidentiary Context**
+
+**Access To Participant != Access To Protected Consultation**
+
+**Authority To Prosecute != Authority To Enter Fiduciary Consultation Wrapper**
+
+### External evidence does not change identity
+
+The wrapper protects the consultation and material legitimately generated within its function.
+
+It does not rewrite the provenance of external evidence.
+
+If external CCTV exists, discussing it inside the wrapper does not move the CCTV into the wrapper.
+
+If a physical evidential object exists outside the consultation, describing it does not make the object protected.
+
+If the object itself is transferred into fiduciary custody, its evidential identity remains distinct from the protected communication concerning it.
+
+Therefore:
+
+**Evidence Discussed Within Protected Consultation != External Evidence Becomes Protected**
+
+More precisely:
+
+**Discussion Of Evidence May Be Protected While Evidence Retains Independent Evidential Status**
+
+This is a direct application of CWA's principle:
+
+**Contextual Permission != General Permission**
+
+and of its separation between boundary, access, rules and authority.
+
+### Wrapper does not manufacture legitimacy
+
+CWA also prevents the consultation wrapper from becoming sovereign.
+
+**Protected Wrapper != Authority To Destroy / Fabricate / Corrupt Evidence**
+
+**Confidentiality != General Immunity**
+
+The wider Ethical Kernel and legitimate Law remain applicable protected invariants.
+
+The wrapper changes information handling for the legitimate representational function; it does not legalise conduct that the wrapper has no authority to permit.
+
+---
+
+## 2B. Ethical derivation of a right to silence
+
+Blainey's Laws provide fixed ethical anchors relevant to compelled self-disclosure:
+
+1. **Avoid Unnecessary Harm** — minimise unnecessary harm and prefer the least harmful available course.
+2. **Respect Autonomy** — recognise the right of others to direct their own lives, subject to the ethical minimum.
+3. **Preserve Safe Spaces** — maintain environments in which individuals can live, learn, create and cooperate without unnecessary fear, coercion or violence.
+7. **Respect Life and Dignity** — intelligent participants should not be treated merely as means to an end.
+
+A candidate derived judicial right follows:
+
+> **A participant may remain silent rather than being compelled to provide testimonial communication for the purpose of establishing their own liability, subject to separately justified exceptional boundaries that must themselves satisfy the Ethical Kernel, Law and bounded-authority requirements.**
+
+The basic reasoning is:
+
+**Autonomy**
+-> control over one's own communicative participation
+
+plus:
+
+**Non-Harm**
+-> the state should not unnecessarily force a participant to become an instrument for producing the case against themselves
+
+plus:
+
+**Dignity**
+-> the participant remains a rights-bearing participant, not merely an evidentiary resource
+
+plus:
+
+**Protected Consultation**
+-> meaningful representation requires a space in which candid communication does not itself become compulsory prosecution evidence.
+
+Candidate invariants:
+
+**Silence != Admission**
+
+**Refusal To Provide Testimonial Communication != Evidence Of Guilt Merely Because It Is Refusal**
+
+**Authority To Investigate != Authority To Compel Self-Accusatory Testimony**
+
+**State Evidential Burden != Participant Duty To Construct State Case**
+
+The state remains able to investigate legitimate independently existing evidence under applicable authority.
+
+The right to silence therefore does not erase external evidence.
+
+**Right To Silence != Right To Destroy Evidence**
+
+**Right To Silence != Right To Falsify Evidence**
+
+**Right To Silence != Right To Prevent Lawful Independent Evidence Collection**
+
+### Testimonial versus external evidence
+
+This architecture initially establishes the clearest case: compelled **testimonial/communicative self-incrimination**.
+
+It does not yet decide whether identical protection applies to:
+
+- biometrics;
+- fingerprints;
+- biological samples;
+- physical characteristics;
+- possession of physical objects;
+- device access;
+- cryptographic keys;
+- compelled decryption;
+- machine-state inspection;
+- AI memory;
+- distributed or hybrid participant state.
+
+Those categories require separate analysis because autonomy, privacy, bodily integrity, cognition, external evidence and compelled communication may interact differently.
+
+Therefore:
+
+**Right To Silence != Automatic Resolution Of Every Compelled-Evidence Category**
+
 ## 3. Core distinction
 
 Candidate principle:
