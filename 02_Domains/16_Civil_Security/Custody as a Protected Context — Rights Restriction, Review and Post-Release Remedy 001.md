@@ -546,6 +546,61 @@ CPR-20 No Charge != Automatic Finding Of Wrongful Custody.
 
 ---
 
+## 19A. Stress-test refinement
+
+**Custody as a Protected Context — Scenario Stress Test 001** returned:
+
+**OVERALL RESULT: PASS WITH DOWNSTREAM REMEDY-PROCEDURE AND RECORDS INTERFACES IDENTIFIED.**
+
+The test supports four related but independent review axes:
+
+**Custody Legality Review**
++
+**Restriction Legality Review**
++
+**Harm / Civil-Burden Review**
++
+**System Review**
+
+This prevents a finding on one axis from erasing another.
+
+Additional invariants:
+
+CPR-21 Lawful Custody At T1 != Lawful Custody At T2.  
+CPR-22 Authority Sunset Must Produce Operational Release, Not Merely Legal Reclassification.  
+CPR-23 Lawful Custody != Lawful Every Restriction Within Custody.  
+CPR-24 Custody != Suspension Of Protected Fiduciary Consultation.  
+CPR-25 Exercise Of Right To Silence != Custodial Risk By Itself.  
+CPR-26 Repeated Individually Lawful Interventions May Reveal Systemically Avoidable Harm.  
+CPR-27 Custody Sunset Must Propagate To Custody-Derived Restrictions.  
+CPR-28 Dependent Restriction Without Independent Authority Must Sunset With Parent Custody Authority.  
+CPR-29 Preserve Custody Provenance != Perpetuate Inculpatory Status.  
+CPR-30 Protected Silence != Participant-Caused Delay.  
+CPR-31 Acquittal != Automatic Retrospective Invalidity Of Custody.  
+CPR-32 Future Remedy != Present Authority.  
+CPR-33 Compensability Of Harm != Permission To Impose Harm.  
+CPR-34 Equal Restriction Duration != Equal Consequential Harm.  
+CPR-35 Custodial Control + Participant Dependence -> Heightened Duty To Maintain Essential Care.  
+CPR-36 Group Classification != Individual Maximum Restriction Authority.  
+CPR-37 Remedy Access Burden Should Not Recreate Avoidable Custodial Harm.  
+CPR-38 Remedy Offered != Remedy Completed.  
+CPR-39 Release And Re-Detention != Authority Renewal Without Material Basis.  
+CPR-40 State-Created Evidential Distortion Must Remain Visible In Provenance.
+
+A particularly important operational consequence is:
+
+**Physical Release != Complete Authority Sunset**
+
+where custody-derived restrictions remain in dependent civil systems.
+
+Release should therefore propagate through the authority graph. Any dependent restriction lacking its own independently valid basis should terminate or be restored.
+
+The stress test also confirms:
+
+> **The Concord cannot purchase coercive authority by promising compensation afterward.**
+
+Future remedy availability must never lower the evidential/legal threshold for custody.
+
 ## 20. Compact architecture
 
 **Legitimate Custody Need**
