@@ -195,6 +195,26 @@ KCS supplies bounded downstream review when medical knowledge changes; MKA may v
 
 Experimental options remain separately available through the experimental-treatment architecture rather than being falsely promoted into ordinary validated protocols or prohibited merely because they are not yet standard.
 
+## 10. Genomic Health and private local knowledge matching
+
+`Genomic Health Record and Private Local Knowledge Matching 001.md`
+
+Treats the participant genome as a specially protected longitudinal Health/Historical record component rather than an ordinary anonymisable dataset.
+
+The default update architecture is:
+
+**Research discovery -> validation -> Historical knowledge update -> bounded Health genomic query -> local execution inside participant protected record -> private participant Health relevance if matched.**
+
+> **Move The Medical Question To The Protected Genome; Do Not Move The Genome To The Question**
+
+> **Removal Of Name != Genomic Anonymisation**
+
+> **Query Distribution != Genome Disclosure**
+
+> **Match -> Participant Health Relevance, Not Automatic Research Disclosure**
+
+This allows new genetic knowledge to benefit participants without centrally trawling the population genome store or revealing participant-level matches to Research.
+
 ## Development provenance
 
 The earlier file:
