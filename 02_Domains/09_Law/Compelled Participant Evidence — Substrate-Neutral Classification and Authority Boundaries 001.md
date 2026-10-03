@@ -691,6 +691,106 @@ CPE-23 Compulsion Method May Affect Evidential Reliability.
 
 ---
 
+## 19A. Stress-test refinement
+
+**Compelled Participant Evidence — Scenario Stress Test 001** returned:
+
+**OVERALL RESULT: PASS WITH TWO MAJOR DOWNSTREAM ARCHITECTURES AND FOUR REFINEMENTS.**
+
+### Multi-label classification
+
+C1-C9 are not mutually exclusive.
+
+A single compelled act may engage several protected functions simultaneously.
+
+Examples:
+
+- memorised password disclosure = C1 + C6;
+- biometric device unlock = C3 + C6 (+ C4 where material extraction occurs);
+- direct AI memory snapshot = C8 + potentially C7;
+- compelled participant memory search = C9 + C1.
+
+**One Evidential Act May Occupy Multiple Compulsion Classes Simultaneously.**
+
+### Destination authority versus route authority
+
+Authority to search or obtain a destination does not automatically authorise every route to it.
+
+**Authority Over Destination != Authority Over Every Route To Destination**
+
+Thus a lawful device-search authority does not by itself settle whether the participant may be compelled to:
+
+- reveal a memorised password;
+- use a biometric;
+- decrypt material;
+- search their own memory;
+- expose cognitive state.
+
+### Cognitive-state taxonomy
+
+The stress test identifies three related but distinct objects:
+
+**Cognitive State** — functionally part of current/retained cognition, memory, reasoning or continuity.
+
+**Cognitive Product** — output produced by cognition, potentially private, but no longer constitutive of cognition.
+
+**Private Record** — participant-controlled information not necessarily generated as cognition.
+
+**Cognitive Content != Necessarily Cognitive State**
+
+### Remote and third-party custody
+
+Functional protection should survive implementation location.
+
+**Remote Cognitive State != External Third-Party Record Merely Because It Is Remote**
+
+**Third-Party Custody != Automatic Loss Of Cognitive Protection**
+
+### Additional invariants
+
+CPE-24 Right To Silence Protects Refusal To Supply Cognition; It Does Not Delete External Evidence.  
+CPE-25 Non-Testimonial Observation Still Requires Legitimate Observation Authority.  
+CPE-26 One Evidential Act May Occupy Multiple Compulsion Classes Simultaneously.  
+CPE-27 Lawful Acquisition != Universal Analytical Authority.  
+CPE-28 Authority Over Destination != Authority Over Every Route To Destination.  
+CPE-29 Equivalent Access Result != Equivalent Compulsion Act.  
+CPE-30 Secret Not Spoken != No Cognitive Compulsion.  
+CPE-31 Possession Of Access Instrument != Authority To Access Destination.  
+CPE-32 Container Access != Uniform Authority Over Every Contained Context.  
+CPE-33 Device Form != External Evidential Function.  
+CPE-34 Internal Location != Cognitive Function.  
+CPE-35 Computational Ease != Reduced Right To Silence.  
+CPE-36 Bypassing Expression Does Not Necessarily Bypass Cognitive Protection.  
+CPE-37 Functional Externality Matters More Than Digitality.  
+CPE-38 Cognitive Content != Necessarily Cognitive State.  
+CPE-39 File Type != Evidential/Cognitive Classification.  
+CPE-40 Participant As Search Instrument != Independent Evidence Search.  
+CPE-41 Recoverability != Existing Accessible Evidence.  
+CPE-42 Access Credential Function Can Be Evidentially Distinct From Its Participant-State Embedding.  
+CPE-43 Remote Cognitive State != External Third-Party Record Merely Because It Is Remote.  
+CPE-44 Third-Party Custody != Automatic Loss Of Cognitive Protection.  
+CPE-45 Participant-Created Data != Automatically Participant Cognitive State.  
+CPE-46 Emergency Protective Need != General Evidential Compulsion Authority.  
+CPE-47 Speculative Risk != Emergency Compelled-Expression Authority.  
+CPE-48 Expression Form != Necessarily Testimonial Content.  
+CPE-49 Evidence-Collection Method Must Not Manufacture Avoidable Testimonial Content.  
+CPE-50 Physical Similarity Of Act != Same Compulsion Class.  
+CPE-51 Convenience != Necessity For More Intrusive Compulsion.  
+CPE-52 Less Intrusive Alternative Must Be Adequate, Not Merely Available.  
+CPE-53 Compelled Evidence Production Must Not Ignore State-Change Risk.  
+CPE-54 Evidence Copy Operation != Necessarily Mere Record Duplication.  
+CPE-55 Reduced Continuity Risk != No Cognitive-Privacy Intrusion.  
+CPE-56 Consent To Provide Evidence != Consent To Unlimited Analysis Or Reuse.  
+CPE-57 Custodial Compliance != Meaningful Evidential Consent.
+
+### Downstream architecture exposed
+
+The test strongly supports development of a **Cognitive Protected Space** contextual wrapper covering biological, digital, prosthetic, remote and hybrid cognition.
+
+It separately exposes the need to test whether a narrowly bounded **Exceptional Emergency Compelled Communication** rule is ethically justified for serious/imminent harm.
+
+Where copying digital state may create another runnable participant/instance, compelled-evidence architecture must also interface with identity/continuity/duplication architecture.
+
 ## 20. Provisional decision sequence
 
 For proposed compelled participant evidence:
