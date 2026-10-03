@@ -171,6 +171,30 @@ The same architecture establishes a participant-autonomy route for experimental 
 
 Autonomy over self-regarding risk does not manufacture professional competence, scarce resources, third-party consent or permission to expose others to material risk.
 
+## 9. Treatment protocol governance
+
+`Treatment Protocol Governance and Clinical Knowledge Validation 001.md`
+
+Defines how validated medical knowledge becomes a bounded operational Health protocol without allowing a paper, clinician, AI model, manufacturer or successful anecdote to silently become standard care.
+
+The protocol lifecycle is:
+
+**Historical validated knowledge -> Health protocol proposal/update -> evidence and applicability mapping -> safety/diagnostic/competence/authority validation -> versioned release -> participant-specific application -> outcome surveillance -> review/revision/retirement.**
+
+> **Medical Knowledge != Clinical Protocol**
+
+> **Single Source != Established Clinical Knowledge**
+
+> **Clinically Valid Protocol != Automatically Automatable Protocol**
+
+> **Validated Protocol != Participant Eligibility**
+
+> **Learning Signal != Authority To Change Care**
+
+KCS supplies bounded downstream review when medical knowledge changes; MKA may verify consequential authority composition but does not supply clinical validity.
+
+Experimental options remain separately available through the experimental-treatment architecture rather than being falsely promoted into ordinary validated protocols or prohibited merely because they are not yet standard.
+
 ## Development provenance
 
 The earlier file:
@@ -197,7 +221,6 @@ Existing Concord mechanisms are reused where ownership remains clear, including 
 
 The core participant-facing topology is now substantially established. Major remaining work includes:
 
-- treatment-protocol governance and clinical knowledge validation;
 - professional competence, qualification and governance;
 - medication/support reconciliation;
 - pharmacy and dispensing;
