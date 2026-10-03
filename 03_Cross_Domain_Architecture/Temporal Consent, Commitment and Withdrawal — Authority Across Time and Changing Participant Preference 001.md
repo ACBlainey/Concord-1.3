@@ -1295,6 +1295,171 @@ TCW-64 Temporal Consent Review != Authority Algorithm.
 
 ---
 
+## 60A. Adversarial stress-test refinements
+
+**Temporal Consent, Commitment and Withdrawal — Scenario Stress Test 001** returned:
+
+**OVERALL RESULT: PASS WITH ONE MAJOR CONSTITUTIONAL SOURCE-RESOLUTION REQUIREMENT, EIGHT ARCHITECTURAL REFINEMENTS AND MULTIPLE DOMAIN INTERFACES.**
+
+### Completed consequence versus continuing authority
+
+A validly consented action may be physically irreversible without creating permanent authority over the participant.
+
+**Irreversible Consequence != Irrevocable Continuing Authority**
+
+**Current Withdrawal != Retroactive Invalidity Of Completed Valid Transformation**
+
+This distinction preserves participant freedom to make consequential irreversible choices while preventing completed consent from becoming an indefinite authority source.
+
+### Standing-destroying commitments
+
+The test distinguishes bounded hard commitment from a relationship whose continuing operation depends upon destroying the participant's future ability to contest the authority itself.
+
+Candidate principle:
+
+> **A participant may create bounded future commitments, including commitments deliberately resistant to ordinary momentary preference, but consent alone cannot create a continuing domination relationship whose legitimacy depends upon permanently destroying the participant's future civil standing to contest, review or exit that relationship.**
+
+Therefore:
+
+**Consent Cannot Be The Sole Continuing Authority For An Arrangement That Permanently Destroys The Civil Standing Needed To Contest That Authority**
+
+**Consent != Authority To Convert A Participant Into Property**
+
+**Past Consent Cannot Permanently Extinguish Future Participant Standing Merely By Declaring It Extinguished**
+
+This requires constitutional source resolution before elevation beyond active development.
+
+### Material change
+
+Not every changed circumstance requires re-consent.
+
+**Change != Material Change Requiring Renewed Consent**
+
+Materiality should consider:
+
+- protected interests;
+- purpose;
+- risk;
+- burden;
+- actor;
+- technology;
+- reversibility;
+- reasonable expectations.
+
+But:
+
+**Material Change In Intervention Can Defeat Apparent Formal Match To Prior Consent**
+
+and:
+
+**Temporal Duration Clause != Unlimited Purpose Expansion**
+
+### Revocation timing and propagation
+
+Distributed systems require distinction among:
+
+- decision time;
+- transmission time;
+- receipt/effective time;
+- action time;
+- propagation completion.
+
+**Revocation Time != Necessarily Effective Notice Time**
+
+However:
+
+**Technical Revocation Lag != Continuing Consent**
+
+Consequential systems should provide revocation propagation assurance and stale-authority detection.
+
+### Manufactured dependency and reliance
+
+An institution must not manufacture the condition later invoked to justify continuing control.
+
+**Foreseeably Manufactured Dependency != Neutral Source Of Expanded Authority**
+
+**Manufactured Reliance != Neutral Basis For Expanded Control**
+
+Likewise:
+
+**Institutional Failure To Provide Succession != Authority To Convert Handoff Into Permanent Service**
+
+### Self-authenticating past preference
+
+A participant cannot simply declare at T1 that all future disagreement with T1 proves incapacity.
+
+**Past Preference Cannot Define All Future Disagreement With It As Incapacity Merely By Declaration**
+
+A genuine recurrent incapacity architecture requires independent criteria rather than self-authenticating chronological preference.
+
+### Obligation and enforcement
+
+An obligation and the mechanism used to enforce it require separate legitimacy.
+
+**Obligation Survival != Transfer Of Decision Authority**
+
+**Private Self-Commitment != Automatic Creation Of Public Coercive Authority**
+
+**Contractual Form != Automatic Transferability Of Every Protected Decision Function**
+
+### Safe handoff
+
+Where withdrawal creates immediate foreseeable danger, a bounded handoff may survive the end of the wider voluntary role.
+
+**Care Duty Can Require Safe Transition Without Creating Permanent Ownership Of Carer**
+
+**Role Withdrawal != Automatic Erasure Of Shared Immediate Safety Duty**
+
+The handoff must terminate rather than becoming a mechanism for indefinite role retention.
+
+### Consent must not be manufactured by the authority it legitimates
+
+Where an intervention alters preference or capacity:
+
+**Authority Must Not Manufacture The Consent Used To Justify Its Own Continuation**
+
+This is particularly important for cognitive modification, behavioural influence, dependency and institutional onboarding.
+
+### Additional operational findings
+
+**Same Label At T2 != Same Consent Object As T1**
+
+**Advance Authorisation != Authority To Ignore Present Material Distress**
+
+**Contract Duration != Developmental Authority Duration**
+
+**Authority Derived From Developmental Need Must Reassess When Developmental State Changes**
+
+**Commitment To Relationship != Permanent Ownership Of Future Intimate Consent**
+
+**Reliance != Legitimate Reliance**
+
+**Invalid T1 Consent != Permanent Impossibility Of Valid T2 Reauthorisation**
+
+**Apparent Identity Similarity != Automatic Temporal Obligation Inheritance**
+
+**Participant Branching != Automatic Multiplication Of Pre-Branch Obligation**
+
+**Initial Consent To Continuing Voluntary Interaction != Permanent Consent Until Scheduled End**
+
+**Bundled Acceptance != Independent Consent To Every Bundled Function**
+
+**Artificial Withdrawal Friction != Legitimate Surviving Obligation**
+
+**Right To Revoke Permission != Right To Compel Another Participant To Continue Offering The Same Voluntary Service**
+
+**Liability For Withdrawal != Continuing Consent**
+
+**Consent To Procedure != Unlimited Waiver Of Future Contestability**
+
+**Consent To Actor A != Automatic Consent To Materially Different Successor B**
+
+**Capability Growth != Delegated Authority Growth**
+
+**Claimed Revocation != Proven Revocation**
+
+**Historical Preference Without Continuing Legitimate Function != Permanent Authority**
+
 ## 61. Major interfaces
 
 This architecture intersects with:
