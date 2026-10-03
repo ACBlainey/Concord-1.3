@@ -896,7 +896,164 @@ The novel contribution is the relation:
 
 ## 40. Development status
 
-**SOURCE-RESOLVED ACTIVE DEVELOPMENT / REQUIRES ADVERSARIAL STRESS TESTING**
+**SOURCE-RESOLVED ACTIVE DEVELOPMENT / ADVERSARIALLY TESTED / PROVISIONAL / NON-CANONICAL**
+
+The companion test:
+
+**Participant-Supporting Infrastructure — Adversarial Stress Test 001.md**
+
+returned:
+
+> **PASS WITH TWELVE ARCHITECTURAL REFINEMENTS AND SIX MAJOR DOWNSTREAM INTERFACES.**
+
+The following refinements are incorporated.
+
+### 40.1 Adequate successor is functional
+
+**Available Alternative != Adequate Successor**
+
+**Nominally Equivalent Service != Functionally Equivalent Transition**
+
+Adequacy may include life/health, cognition, continuity, accessibility, privacy, security, protected information, identity and agency where relevant.
+
+### 40.2 Transition opportunity can be completed
+
+Once an adequate successor and reasonable transition opportunity have genuinely been provided:
+
+**Participant Refusal != Automatic Extension Of Provider Duty**
+
+This remains subject to competence, coercion and adequacy review.
+
+### 40.3 Dependency classification is dynamic
+
+**Initial Dependency Class != Permanent Dependency Class**
+
+**Past Critical Dependency != Permanent Enhanced Provider Duty**
+
+Dependency should be reassessed at consequential change.
+
+### 40.4 Aggregate dependency
+
+Dependency must be assessed at component and aggregate functional levels.
+
+**Individually Non-Critical Withdrawal Can Be Collectively Critical**
+
+KCS dependency topology should be reused where multiple providers/components jointly support a participant function.
+
+### 40.5 Symmetric manufactured-dependency rule
+
+Anti-capture applies to both sides.
+
+**Manufactured Dependency By Participant != Automatic Expansion Of Provider Duty**
+
+**Self-Created Fragility != Automatic Transfer Of Responsibility**
+
+This affects responsibility/cost without extinguishing participant standing.
+
+### 40.6 Controller-created alternatives deficit
+
+**Controller-Created Absence Of Alternatives != Neutral Market Condition**
+
+A controller that deliberately destroys portability or alternatives cannot treat the resulting dependency as an independent justification for expanded control.
+
+### 40.7 Contract and later criticality
+
+**No-Guarantee Contract != Advance Authority For Avoidable Catastrophic Harm In Every Future State**
+
+and:
+
+**Critical Dependency != Automatic Erasure Of Contractual Obligations**
+
+Contract remains relevant without becoming the complete rights analysis.
+
+### 40.8 Third-route / ESCP requirement
+
+Hard cases should not be reduced prematurely to:
+
+**Provider Pays Forever**
+
+versus:
+
+**Participant Loses Fundamental Function**
+
+Possible third routes include insurance, public continuity reserve, mutual pool, emergency fund, replacement provider, restructuring, shared resources or temporary civil infrastructure.
+
+**Binary Owner-Or-Dependent Cost Allocation Can Be An Incomplete Evaluation Space**
+
+### 40.9 Preservation without active operation
+
+**Continuity Protection != Continuous Operation**
+
+**Safe State Can Preserve Standing Without Preserving Active Capability**
+
+Where active service cannot safely continue, preservation/quarantine/stabilisation may satisfy part of the transition function.
+
+### 40.10 Feasibility boundary
+
+Transition feasibility should consider physical possibility, time, resources, risk to others, technical maturity, provider capacity, participant capacity, substitute availability, reversibility and expected harm.
+
+**Transition Duty Must Remain Feasibility-Bounded**
+
+Deliberately destroying transition capacity does not create neutral impossibility.
+
+### 40.11 Preservation versus service
+
+**Service Continuation != State Preservation**
+
+**Inability To Continue Service != Automatic Authority To Destroy Preservable Participant State**
+
+This is especially important for cognitive/digital state and links to CPS and Continuity.
+
+### 40.12 Transition debt
+
+Urgent continuity protection need not erase legitimate unresolved costs.
+
+Candidate design concept:
+
+> **Transition Debt** — a legitimate unresolved cost or obligation created or preserved while urgent safe transition is performed.
+
+**Emergency Transition != Automatic Cost Waiver**
+
+This is not yet a final legal debt category.
+
+---
+
+## 41. Refined central model
+
+The tested model is:
+
+**Legitimate Property / Service Relation**
+→ **Material Participant Dependency**
+→ **Dependency-Sensitive Transition Duty**
+→ **Adequate Successor / Preservation / Safe Separation**
+→ **Provider Exit + Participant Continuity Where Feasible**
+→ **Residual Cost / Obligation / Remedy Resolution**
+
+The civil objective is therefore:
+
+> **not indefinite provision, but safe separation where separation is possible.**
+
+The strongest tested principle is:
+
+> **Severe dependency can create a bounded duty of safe separation without creating permanent ownership in either direction.**
+
+---
+
+## 42. Unresolved interfaces after testing
+
+Six major interfaces remain:
+
+1. scarcity allocation;
+2. bankruptcy / creditor priority;
+3. identity-preserving migration;
+4. shared cognition and third-party information;
+5. permanently inseparable private infrastructure;
+6. cost allocation / transition debt.
+
+These should be source-resolved against existing Concord architecture before new systems are created.
+
+The first recommended target is **scarcity allocation**, because the same problem recurs across compute, energy, medical equipment, habitat, emergency infrastructure and civilisation continuity.
+
 
 The next test should attack:
 
