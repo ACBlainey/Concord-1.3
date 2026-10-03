@@ -226,6 +226,30 @@ CASR-16 New Suspect != Inherited Prosecution.
 CASR-17 Material New Evidence -> Threshold And Hypothesis Reassessment.
 CASR-18 Opposing Examination + Shared Truth Duty -> Adversarial Error Detection Without Victory-At-All-Costs Advocacy.
 
+## 13A. Stress-test additions
+
+Combined Architecture Stress Test 001 supports the basic reconciliation and adds the following candidate invariants:
+
+CASR-19 Evidentiary Index != Complete Evidence Universe.  
+CASR-20 Institutional Clearance Difference != Automatic Evidential Superiority.  
+CASR-21 Shared Evidence != Shared Interpretation.  
+CASR-22 Fiduciary Agreement != Access Authority.  
+CASR-23 Potential Evidential Utility != Unlimited Search Authority.  
+CASR-24 Evidence-Function Quality != Conviction Production.  
+CASR-25 Fiduciary Truth Duty != Unlimited Disclosure Of Protected Participant Communication.  
+CASR-26 Known Evidence Set != Necessarily Complete Evaluation Space.  
+CASR-27 Current Case Failure != Automatic New Case Sufficiency.  
+CASR-28 Privacy Protection != Permission To Withhold Material Evidential Meaning.
+
+The stress test identifies four interfaces for further development:
+
+1. fiduciary confidentiality / privilege and participant protected-communication boundary;
+2. ESCP-style evidentiary completeness audit;
+3. contestability where raw protected evidence cannot be symmetrically disclosed;
+4. reconciliation with existing Judiciary appeal/new-evidence/controlled-correction architecture.
+
+These are interface requirements rather than failures of the basic combined chain.
+
 ## 14. Reconciled lifecycle
 
 **Incident / Observation**
