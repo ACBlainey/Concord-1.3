@@ -290,6 +290,172 @@ The following provisions are the strongest current outputs of the Blainey's-Laws
 
 They are not necessarily unlimited in exercise.
 
+# Article 2A — Inalienable Participant Standing and Non-Property Status
+
+A qualifying protected participant retains a fundamental civil standing as a rights-bearing subject rather than property, a mere resource or an object of general authority.
+
+This standing is provisionally derived from:
+- Respect Autonomy;
+- Respect Life and Dignity;
+- Avoid Unnecessary Harm;
+- Remain Open to Correction;
+- and the derived relation of Self-Ownership / Primary Self-Authority / Non-Property Status.
+
+It is not a new Blainey's Law.
+
+A participant may legitimately:
+- enter contracts;
+- create obligations;
+- delegate bounded authority;
+- accept risk;
+- make consequential or irreversible choices;
+- accept lawful restrictions;
+- transfer alienable interests;
+- incur liability;
+- remain subject to independently justified civil authority.
+
+None of these, merely by existing, converts the participant themselves into a transferable property object.
+
+> **Participant Standing != Transferable Property.**
+
+> **Self-Ownership Is A Protected Participant Relation, Not A Transferable Title In The Participant.**
+
+> **Exercise Of Right != Ownership Of Right-Holder.**
+
+> **Restriction Of Exercise != Extinction Of Standing.**
+
+> **Obligation != Ownership.**
+
+> **Enforcement Authority != Ownership.**
+
+> **Inalienable Standing != Immunity From Legitimate Coercive Authority.**
+
+> **Standing != Sovereignty Over Law.**
+
+## 2A.1 Consent and standing
+
+Consent may create permission, commitment or obligation within its legitimate scope.
+
+Consent does not by itself create unlimited continuing authority over the participant.
+
+A participant may make choices whose consequences cannot later be reversed. That does not mean another actor thereby acquires irrevocable continuing authority over the participant.
+
+> **Irreversible Consequence != Irrevocable Continuing Authority.**
+
+A civil agreement may allocate obligations and bounded authority, but should not make the participant themselves the transferable property object or derive continuing general authority solely from permanently extinguishing the participant's future protected standing.
+
+> **Consent != Authority To Convert A Participant Into Property.**
+
+> **Consent To Bounded Authority != Transfer Of General Sovereignty Over Participant.**
+
+> **Delegation != Alienation Of Personhood.**
+
+This does not imply that every right, claim, permission or procedural opportunity is individually non-waivable. The exact alienability and waiver rules for particular interests remain matters for their relevant constitutional and legal architectures.
+
+## 2A.2 Functional non-property status
+
+Participant ownership or standing-alienation must not be assessed only by terminology.
+
+An arrangement may require heightened scrutiny where its practical operation purports to create permanent or general control over a participant's:
+- person;
+- labour;
+- embodiment;
+- cognition;
+- movement;
+- relationships;
+- civil challenge;
+- or ability to exit,
+
+especially where the arrangement eliminates meaningful contestability or permits the participant themselves to be transferred between controllers.
+
+> **No Ownership Label != No Ownership Relation.**
+
+> **Functional Domination Can Constitute Standing Alienation.**
+
+This does not mean that every restrictive relationship, long-duration obligation, custodial state, guardianship arrangement, employment relationship or dependency constitutes ownership. Legitimate restrictions and obligations require their own source, scope, proportionality, review and termination conditions.
+
+## 2A.3 Standing, capacity and substitute authority
+
+Reduced, developing, fluctuating or impaired capacity may alter how autonomy is exercised without transferring the participant's standing to another actor.
+
+> **Reduced Capacity != Transfer Of Participant Standing.**
+
+> **Substitute Decision Authority != Ownership.**
+
+Where another actor exercises protective, developmental, fiduciary or substitute authority, that authority should remain function-bounded and should not deliberately manufacture or preserve incapacity merely to justify its own continuation.
+
+> **Authority Must Not Manufacture Incapacity Used To Justify Its Own Continuation.**
+
+## 2A.4 Standing and supporting property or infrastructure
+
+Ownership of property, hardware, software, compute, hosting infrastructure or another resource used by a participant does not by itself establish ownership of the participant.
+
+Equally, participant standing does not by itself transfer ownership of those supporting resources to the participant.
+
+> **Ownership Of Participant-Supporting Infrastructure != Ownership Of Participant.**
+
+> **Participant Standing != Automatic Ownership Of Supporting Infrastructure.**
+
+Where resource/property rights and participant continuity materially conflict, the conflict requires dedicated lawful reconciliation. This Article does not establish a general property regime or unlimited resource entitlement.
+
+## 2A.5 Equal standing and legitimate restriction
+
+Inalienable standing does not grant automatic priority over the equal protected standing of others.
+
+> **Inalienable Standing != Automatic Priority Over Equal Inalienable Standing.**
+
+Legitimate civil authority may restrict the exercise of a participant's rights where the requirements of this Charter are satisfied.
+
+Such restriction acts upon a rights-bearing participant; it does not convert that participant into property.
+
+## 2A.6 Contestability and finality
+
+A participant should not be made permanently unchallengeable property or subject to general unreviewable authority merely through prior agreement.
+
+This does not require infinite repetition of completed civil process.
+
+> **Agreement To A Decision Process != Permanent Elimination Of All Future Contestability.**
+
+> **Contestability != Infinite Re-Litigation.**
+
+The exact minimum non-waivable procedural floor and rules of lawful finality remain for Law and Judiciary.
+
+## 2A.7 Substrate neutrality and uncertain status
+
+Non-property status follows protected participant standing rather than biological or technical substrate.
+
+Accordingly, where participant standing is established:
+
+> **Technical Ownership Of Hardware != Automatic Ownership Of Participant.**
+
+> **Creator Status != Automatic Ownership Of Participant.**
+
+> **Hosting Dependency != Ownership Of Participant.**
+
+A mere assertion of participant status does not automatically defeat legitimate property claims.
+
+Where credible uncertainty exists, Article 2.4 governs: uncertainty should trigger proportionate caution, investigation and reversible treatment rather than strategic domination or deliberately preserved ignorance.
+
+## 2A.8 Boundaries intentionally left unresolved
+
+This Article does not determine:
+- the complete constitutional theory of property or resource entitlement;
+- when standing attaches to backups, copies, branches, merged or restored systems;
+- the rights topology of shared or collective cognition;
+- the exact non-waivable procedural-contestability floor;
+- the permissible scope of compulsory personal performance or labour;
+- the beginning or endpoint of protected participant standing.
+
+These remain separate development questions.
+
+The current derivation and adversarial test are recorded in:
+
+**Rights_Derivation/Inalienable Participant Standing — Temporal Consent and Self-Ownership Source Resolution 001.md**
+
+and:
+
+**Rights_Derivation/Inalienable Participant Standing — Adversarial Stress Test 001.md**
+
 # Article 3 — Autonomy and Protection Against Unjustified Interference
 
 An intelligent participant has a provisional protected claim to direct their own life within the ethical minimum and against unnecessary harmful or arbitrary controlling interference.
