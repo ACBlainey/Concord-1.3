@@ -962,6 +962,91 @@ These levels are developmental, not yet legal classes.
 
 ---
 
+## 38A. Adversarial stress-test refinement — Cognitive Proxy Exposure Assessment
+
+**Derived and Inferred Cognitive Privacy — Scenario Stress Test 001** returned:
+
+**OVERALL RESULT: PASS WITH ONE MAJOR REFINEMENT AND THREE DOWNSTREAM INTERFACES.**
+
+The test rejects a single accuracy or fidelity threshold for deciding when a cognitive proxy becomes specially protected.
+
+Instead, use a multidimensional **Cognitive Proxy Exposure Assessment (CPEA)**.
+
+Candidate dimensions:
+
+1. **Specificity** — population / group / individual / linkable individual;
+2. **Cognitive intimacy** — ordinary preference through intimate belief/vulnerability;
+3. **Fidelity** — weak/uncertain through functionally substitutive;
+4. **Persistence** — transient through durable;
+5. **Consequence** — negligible through rights/service/authority affecting;
+6. **Manipulation capability** — descriptive through behaviourally exploitable;
+7. **Purpose breadth** — narrow through general-purpose;
+8. **Propagation** — local through cross-system;
+9. **Contestability** — visible/correctable through opaque/self-sealing;
+10. **Temporal validity** — current/reassessed through stale/permanent;
+11. **Source legitimacy** — properly bounded through purpose drift;
+12. **Alternative route** — whether a less intrusive model can perform the function.
+
+This is an evaluation space, not a score granting authority.
+
+**Cognitive Proxy Exposure Assessment != Authority Algorithm**
+
+A low-fidelity model may still be problematic if used for severe consequential treatment.
+
+A high-fidelity model may be legitimate where participant-directed, narrowly bounded and necessary for a requested support function.
+
+### Stress-test boundary findings
+
+**Ordinary Contextual Inference != High-Fidelity Cognitive Profiling**
+
+**Case-Specific Evidential Inference != Persistent Cognitive Profiling By Default**
+
+**Necessary Functional Inference != Prohibited Cognitive Profiling**
+
+**Functional Substitutability -> Stronger Cognitive-Proxy Protection**
+
+**Unnamed != Unlinkable**
+
+**Public Source != Public Cognitive Proxy**
+
+**Authority To Construct != Authority To Use For Every Purpose**
+
+**Inference Accuracy != Consequential Legitimacy**
+
+### Recursive-model risk
+
+Predictive systems may shape the observations later used to validate themselves.
+
+Therefore:
+
+**Model-Shaped Observation != Independent Observation**
+
+**Model-Shaped Choice Set != Unbiased Preference Evidence**
+
+Where intervention prevents a predicted adverse outcome:
+
+**Prevented Predicted Outcome != Automatic Prediction Failure**
+
+Model provenance should preserve pre-model observation, model output, intervention and post-intervention observation separately.
+
+### Protected-context anti-circumvention
+
+The test also exposes a narrow but important rule:
+
+**External Inference Must Not Become A Deliberate Technical Circumvention Of Protected Context**
+
+This does not prohibit ordinary inference from external evidence.
+
+It applies where an actor deliberately reconstructs protected communication/cognition from external traces in order to defeat a protection it could not legitimately penetrate directly.
+
+### Downstream interfaces
+
+The test identifies:
+
+1. **Behavioural Influence / Manipulation Architecture**;
+2. **Predictive Model Provenance and Counterfactual Validation**;
+3. **Protected-Context Inferential Circumvention**.
+
 ## 39. Authority sequence
 
 Candidate sequence:
