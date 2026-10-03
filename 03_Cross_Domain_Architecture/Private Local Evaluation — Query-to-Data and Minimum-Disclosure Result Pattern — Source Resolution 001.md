@@ -487,3 +487,146 @@ The test should specifically look for:
 Run a cross-domain adversarial integration test before any PMEDG extraction decision.
 
 The purpose is not to prove that local computation is technically possible. It is to determine whether the pattern transfers cleanly across domains while preserving semantic ownership, bounded authority, privacy and cumulative-disclosure control.
+
+
+# 27. Post-transfer-test candidate strengthening
+
+**Source:** Private Local Evaluation — Cross-Domain Adversarial Transfer Test 001
+
+The first cross-domain adversarial transfer test found that PLE transfers materially beyond genomics, but identified safeguards that must be treated as part of the candidate architecture rather than optional implementation details.
+
+## 27.1 Three-authority separation
+
+Every consequential deployment should distinguish:
+
+**Query Authority**
+— may this question legitimately be submitted?
+
+**Result Authority**
+— who may receive which result?
+
+**Action Authority**
+— what, if anything, may legitimately be done because of the result?
+
+> **Query Authority != Result Authority != Action Authority**
+
+A participant-local result can therefore exist without being disclosed to the originator and without authorising any external action.
+
+## 27.2 Query competence
+
+Authority to submit a query does not establish that the query is semantically well-designed.
+
+> **Query Competence != Query Authority**
+
+Domain owners remain responsible for the meaning and validity of the proposition being evaluated.
+
+## 27.3 Mandatory uncertainty states
+
+High-consequence PLE implementations must not force binary output where source state is incomplete.
+
+At minimum, where applicable, preserve:
+- UNKNOWN;
+- UNRESOLVED;
+- STALE;
+- SOURCE_INCOMPLETE;
+- DISPUTED;
+- REVIEW_REQUIRED.
+
+> **Correct Local Computation != Complete Real-World Evaluation**
+
+## 27.4 Result freshness
+
+A result should carry sufficient temporal validity to prevent an old local evaluation from being treated as indefinitely current.
+
+> **Valid When Evaluated != Permanently Valid**
+
+## 27.5 Cumulative disclosure is first-class
+
+For sensitive data, query-history disclosure state is part of the security boundary.
+
+A query may be refused or coarsened even when it would be acceptable in isolation if prior answers make the composition excessively revealing.
+
+> **Minimum Result != Minimum Cumulative Disclosure**
+
+## 27.6 Participant-local notification
+
+PLE explicitly supports a result route in which the participant is informed while the query originator is not.
+
+This is not an edge case. It is one of the architecture's primary privacy functions.
+
+> **Need To Reach Relevant Participants != Need To Centrally Identify Relevant Participants**
+
+Potential applications include:
+- new Health risks;
+- Research studies;
+- benefits/entitlements;
+- Education opportunities;
+- preventive services.
+
+## 27.7 Private Research recruitment
+
+A high-value transfer pattern is:
+
+**Research defines legitimate eligibility query**
+→ query distributed to protected participant records
+→ local eligibility evaluation
+→ non-eligible closes silently
+→ eligible participant receives private invitation
+→ participant chooses whether to reveal themselves/respond.
+
+> **Cohort Discovery != Candidate Identity Disclosure**
+
+This should be developed further with Research.
+
+## 27.8 Protected-source due process
+
+Where PLE uses protected intelligence or other non-disclosable sources, the resulting answer must not become unchallengeable secret authority.
+
+> **Protected Source != Unchallengeable Conclusion**
+
+> **PLE Must Not Become Secret Evidence Laundering**
+
+Law/Judiciary must provide the applicable contestability and explanation architecture.
+
+## 27.9 Consequential-action boundary
+
+PLE produces information/evaluation state.
+
+It does not supply execution authority.
+
+**PLE Result**
+→ substantive domain interpretation
+→ applicable authority/context/transition checks
+→ commit
+→ execute.
+
+> **Match != Authority To Act**
+
+## 27.10 Aggregation remains separate
+
+Participant-level local evaluation and population aggregation are distinct operations.
+
+Research statistics may require:
+- separate basis;
+- aggregation threshold;
+- statistical disclosure control;
+- query-composition protection;
+- output-precision limits.
+
+> **Local Contribution != Automatic Aggregate Collection Authority**
+
+## 27.11 Revised maturity
+
+Following adversarial transfer across genomics, medication safety, Education, civil status, finance, employment, Research recruitment, security-sensitive information and civil notification:
+
+**TRANSFER:** PASS
+
+**DISTINCTNESS FROM CWA/CIBB:** PASS
+
+**GENERAL PRIVACY VALUE:** HIGH
+
+**CUMULATIVE DISCLOSURE RISK:** MATERIAL BUT ARCHITECTURALLY ADDRESSABLE
+
+**CURRENT STATUS:** PMEDG CANDIDATE — CROSS-DOMAIN TRANSFER PASSED — DO NOT EXTRACT YET
+
+The next step is a frozen blind cross-instance test after preparation of a candidate development specification/test package.
