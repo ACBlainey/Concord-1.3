@@ -235,3 +235,40 @@ Key boundary:
 and:
 
 > **Population Association != Individual Diagnosis.**
+
+
+## Medical knowledge ownership and experimental-treatment interface — resolved development direction
+
+Subsequent V1.3 Health development has resolved a clearer domain boundary:
+
+- **Historical** preserves the current validated medical knowledge state and its provenance;
+- **Health** applies medical knowledge to participant-specific care;
+- **Research** owns ongoing investigation and development of candidate medical advances.
+
+See:
+
+`02_Domains/13_Health/Medical Knowledge Stewardship, Research Translation and Experimental Treatment 001.md`
+
+The resulting knowledge flow is:
+
+**Historical validated knowledge -> Health application**
+and
+**unresolved question / candidate advance -> Research -> validation -> Historical knowledge-state update -> Health protocol review**.
+
+This preserves:
+
+> **Knowledge Custody != Clinical Authority**
+
+> **Research Result != Established Medical Knowledge**
+
+> **Research Discovery != Automatic Clinical Practice**
+
+The same development establishes experimental treatment as a legitimate distinct Health/Research interface where informed participant autonomy can justify voluntary exposure to greater uncertainty without falsely classifying the intervention as validated ordinary care.
+
+> **Experimental != Forbidden**
+
+> **Experimental != Proven Effective**
+
+> **Participant Freedom To Take Risk != Provider Freedom To Deceive**
+
+Detailed specialist trial governance, evidence-validation processes and high-risk experimental safeguards remain development gaps.
