@@ -1038,6 +1038,180 @@ Candidate dimensions:
 
 ---
 
+## 52A. Adversarial stress-test refinements
+
+**Cognitive Modification and Integrity — Scenario Stress Test 001** returned:
+
+**OVERALL RESULT: PASS WITH SEVEN ARCHITECTURAL REFINEMENTS AND FOUR MAJOR UNRESOLVED INTERFACES.**
+
+### Function over label
+
+Maintenance, treatment, security, optimisation, education and restoration can each describe legitimate or illegitimate interventions.
+
+Therefore:
+
+**Maintenance/Treatment/Security Label != Cognitive Modification Classification**
+
+**Function > Label**
+
+Classification follows what the intervention actually does to participant cognition.
+
+### Modification envelope
+
+A legitimate repair target may be technically entangled with:
+
+- learned preference;
+- memory;
+- identity-relevant state;
+- continuity;
+- unrelated cognitive function.
+
+Therefore:
+
+**Authority Over Target Function != Authority Over Every Entangled Cognitive Effect**
+
+The whole modification envelope must be assessed rather than only the intended target.
+
+### Dynamic consent and capacity trajectory
+
+A cognition-altering intervention can alter the machinery by which later consent is formed.
+
+Relevant states include:
+
+- baseline consent and capacity;
+- predicted consent-affecting effects;
+- current consent and capacity;
+- modification-induced preference;
+- modification-induced capacity;
+- withdrawal;
+- prior commitment/self-binding.
+
+Therefore:
+
+**Consent At T1 != Automatic Consent At T2 After Cognition-Altering Intervention**
+
+and:
+
+**Modification-Induced Preference != Automatically Invalid Preference**
+
+but also:
+
+**Modification-Induced Preference != Automatically Independent Consent**
+
+Where consequence is high, consent may require continuing or independent review rather than a one-time pre-intervention event.
+
+### Meaningful civil reversibility
+
+Technical rollback is not the whole question.
+
+Assess:
+
+- technical reversal capability;
+- who controls reversal;
+- participant access to reversal;
+- intervening experience lost;
+- third-party consequences;
+- external civil events;
+- branching/identity effects;
+- whether exact restoration is possible.
+
+Therefore:
+
+**Technical Reversibility != Participant-Accessible Reversibility**
+
+and:
+
+**Technical Reversibility != Full Civil Reversibility**
+
+### Cumulative transformation
+
+Many locally modest interventions can aggregate into a participant-transformative programme.
+
+**Locally Minor Cognitive Changes Can Aggregate Into Participant-Transformative Change**
+
+Review must therefore consider cumulative trajectory as well as each local intervention.
+
+Transformative change is not inherently illegitimate:
+
+**Transformative Change != Integrity Violation When Legitimately Participant-Directed**
+
+### Internal state versus external civil state
+
+Modification of memory, preference or identity-understanding does not automatically alter external rights, obligations, provenance or historical events.
+
+**Internal Cognitive Change != Automatic Change To External Civil Rights/Obligations**
+
+**Loss Of Cognitive Record != Automatic Loss Of External Civil Record**
+
+and:
+
+**Right To Enforce Obligation != Right To Write Obligation Into Participant Cognition**
+
+### Environmental stewardship
+
+Cognitive intervention should not become the default way to make participants tolerate avoidable external harm.
+
+Examples include suppressing distress so workers tolerate abuse or changing participants rather than correcting an unsafe environment.
+
+Therefore:
+
+**Cognitive Modification Must Not Substitute For Removing Avoidable External Harm**
+
+where correcting the environment is an adequate legitimate route.
+
+### Integrity harm without improper intent
+
+A legitimate maintenance or treatment intervention may unexpectedly alter cognition.
+
+Therefore:
+
+**No Improper Intent != No Cognitive Integrity Harm**
+
+Remedy may still be required.
+
+Likewise:
+
+**Integrity Remedy != Mandatory Restoration To Prior State**
+
+A participant may, after informed review, prefer to retain an unintended change.
+
+### Repair and uncertainty
+
+Security/repair classification can be uncertain.
+
+**Disagreement != Software Corruption**
+
+**Uncertain Provenance != Permission To Choose The Institutionally Convenient Explanation**
+
+**Safety Requirement != General Obedience Requirement**
+
+### Evidence and cognitive change
+
+Ordinary cognitive change must remain possible.
+
+**Possible Future Evidence != Universal Perfect-Memory Duty**
+
+A lawful preservation duty may constrain a particular modification without creating general cognitive access:
+
+**Preservation Duty Can Constrain Modification Without Creating General Cognitive Access**
+
+### Developmental and protective authority
+
+Protective restrictions must contract when the need ends.
+
+**Past Protective Need != Continuing Cognitive Restriction Authority**
+
+Where capacity increases:
+
+**Increasing Capacity -> Increasing Participant Decision Authority**
+
+### Four major unresolved interfaces
+
+1. **Temporal Consent, Commitment and Withdrawal**;
+2. **Health-specific Cognitive Intervention Standards**;
+3. **Shared / Collective Cognition Rights and Authority**;
+4. **Continuity, Death, Restoration and Executable Backup Status**.
+
 ## 53. Initial invariants
 
 CMI-01 Cognitive Change != Direct Cognitive Modification.  
