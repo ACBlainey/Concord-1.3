@@ -1261,6 +1261,377 @@ The architecture does not yet settle:
 
 ---
 
+## 61. Adversarial validation
+
+Companion:
+
+**Withdrawal Authority — Adversarial Stress Test 001.md**
+
+Result:
+
+> **PASS WITH EIGHTEEN ARCHITECTURAL REFINEMENTS AND TWELVE MAJOR DOWNSTREAM INTERFACES.**
+
+Ninety scenarios tested ordinary expiry, critical contracts, nonpayment, bankruptcy, provider death/disappearance, resource exhaustion, false impossibility, medical support, ventilator reallocation, AI compute, migration refusal, housing, utilities, embedded devices, shared support, malicious participants/providers, notice, repeated extensions, transition debt, successor failure, cross-jurisdiction exit, emergency shutdown, false futility, concealed direct intervention, self-withdrawal, third-party dependants, public providers, temporary support, minimum viable continuation, authority sunset, remedy and both foundational falsification targets.
+
+Neither **permanent provider captivity** nor **property/contract laundering of avoidable participant destruction** was required by the architecture.
+
+---
+
+## 62. Protected support threshold
+
+**Established Service != Established Protected Support Relation**
+
+Heightened Withdrawal Authority applies where the service materially performs a protected participant function and withdrawal creates consequential dependency transition.
+
+Routine service termination need not inherit the full architecture.
+
+---
+
+## 63. Contract cannot define participant disposability
+
+**Termination Clause != Authority To Destroy Participant Standing**
+
+and:
+
+**Past Contractual Consent != Provider Ownership Of Participant**
+
+A termination clause may define ordinary service entitlement.
+
+It does not automatically determine the physical/cognitive consequences of terminating support to a later rights-bearing participant.
+
+---
+
+## 64. Unlimited cost externalisation rejected
+
+**Protected Standing != Licence To Externalise Unlimited Support Cost**
+
+Participant protection requires a transition architecture, not an assumption that the current provider must absorb unlimited cost forever.
+
+Cost, funding, insurance, public/mutual provision, participant assets, Transition Debt and other third routes remain legitimate questions.
+
+---
+
+## 65. Manufactured impossibility
+
+**Manufactured Impossibility Can Create Accountability Without Creating Impossible Capacity**
+
+A provider who wrongfully destroys transition capacity may incur responsibility.
+
+But responsibility does not recreate a resource or capability that no longer exists.
+
+Present feasibility and causal accountability must remain distinct.
+
+---
+
+## 66. Controller-created non-portability
+
+**Controller-Created Non-Portability != Neutral Withdrawal Constraint**
+
+Where a controller created proprietary lock-in, withheld export capability or otherwise manufactured dependency, that history strengthens its transition responsibility.
+
+This still does not create an impossible perpetual duty.
+
+---
+
+## 67. Futility versus alternative benefit
+
+**Higher Alternative Benefit != Existing Treatment Futility**
+
+Whether another participant could benefit more does not establish that present support has ceased performing its function.
+
+Allocation and functional futility must remain separate.
+
+---
+
+## 68. Low-cost bridge
+
+**Minimal Transition Cost + Catastrophic Avoidable Harm -> Strong Safe-Transition Case**
+
+Where a tiny bounded continuation prevents catastrophic avoidable harm and enables separation, the justification for that bridge is especially strong.
+
+This remains subject to legitimate authority and actual feasibility.
+
+---
+
+## 69. Transition duration and burden
+
+**Transition Duration And Cost Matter To Reasonableness**
+
+A ten-minute bridge and six months of expensive operation are not the same obligation merely because both are labelled transition.
+
+Transition duty must consider:
+
+- consequence;
+- duration;
+- cost;
+- provider burden;
+- alternatives;
+- preservation;
+- third-party funding;
+- feasibility.
+
+---
+
+## 70. Termination vocabulary
+
+**Termination Vocabulary != Termination Consequence**
+
+Words such as:
+
+- shutdown;
+- suspension;
+- deletion;
+- discharge;
+- disconnect;
+- cancellation;
+
+must be classified by actual effect.
+
+Terminology cannot launder participant destruction.
+
+---
+
+## 71. Property recovery and immediate transition harm
+
+**Property Recovery Can Be Temporally Bounded By Immediate Transition Harm Without Becoming Permanent Expropriation**
+
+A short transition delay can protect against catastrophic immediate harm without transferring ownership to the dependent participant.
+
+---
+
+## 72. No-successor boundary
+
+**No Successor != Automatic Permanent Private Service Duty**
+
+Absence of a successor triggers:
+
+- ESCP;
+- public/civil alternatives;
+- mutual provision;
+- preservation;
+- restructuring;
+- funding alternatives;
+- best feasible separation.
+
+It does not automatically convert the current provider into permanent infrastructure owned by the dependent participant.
+
+---
+
+## 73. Embedded property
+
+**Property In Participant != Ordinary Repossession Authority**
+
+Where property is deeply integrated into body, cognition, embodiment or participant continuity, ordinary repossession may become a direct intervention.
+
+Property title remains relevant but is not the complete authority analysis.
+
+---
+
+## 74. Transition must contain an exit path
+
+**Transition Duty Requires A Termination Path**
+
+Repeated temporary extensions can become de facto permanent service.
+
+High-consequence transition should therefore identify where feasible:
+
+- milestones;
+- successor work;
+- funding;
+- preservation alternatives;
+- review points;
+- conditions for extension;
+- conditions for closure.
+
+---
+
+## 75. Handoff finality
+
+**Completed Reasonable Handoff != Permanent Guarantee Of Successor Performance**
+
+Once an adequate successor has been reasonably verified and transfer completed, the original provider does not automatically remain guarantor forever.
+
+Misrepresentation or negligent transfer remains separately reviewable.
+
+---
+
+## 76. Emergency isolation
+
+**Emergency Isolation != Emergency Destruction**
+
+Urgent security/safety authority may justify isolation, containment or shutdown without automatically authorising deletion or irreversible destruction.
+
+---
+
+## 77. Minimum viable continuation refinement
+
+**Minimum Necessary Continuity != Maximum Historical Service Level**
+
+but also:
+
+**Minimum Cost != Minimum Safe Continuity**
+
+A bridge should preserve the required transition function, not merely select the cheapest possible state.
+
+---
+
+## 78. Best feasible separation
+
+Adversarial testing exposed that “safe separation” can be read too absolutely.
+
+The refined rule is:
+
+> **Safe separation is the preferred objective. Where fully safe separation is impossible, the duty becomes best feasible separation: the least unnecessarily harmful transition reasonably achievable within legitimate authority, available resources, provider rights and actual technical possibility.**
+
+Therefore:
+
+**Safe Separation Objective != Guarantee Of Harm-Free Separation**
+
+and:
+
+**Best Feasible Separation != Permanent Continuation Until Perfect Alternative Exists**
+
+This is the principal anti-captivity refinement.
+
+---
+
+## 79. Provider standing
+
+A provider may itself be a participant.
+
+Therefore:
+
+**Participant Protection != Sacrifice Of Provider Participant**
+
+and:
+
+> **A support recipient's standing cannot be protected by converting the provider into property.**
+
+Withdrawal Authority must preserve standing on both sides.
+
+---
+
+## 80. Administrative rights laundering
+
+**Administrative Sequencing != Rights Laundering**
+
+A controller cannot:
+
+1. terminate the formal service relation;
+2. declare Withdrawal Authority finished;
+3. immediately perform the destructive physical/cognitive act;
+4. claim the destruction is now outside the support relationship.
+
+Actual dependency and consequence, not administrative sequencing, determine the relevant transition.
+
+---
+
+## 81. Public-provider refinement
+
+**Public Provider != Infinite Resource Provider**
+
+Where Concord itself provides the support, its public obligations may be stronger than those of an arbitrary private provider, particularly where it created monopoly dependency.
+
+But public status does not create infinite resources.
+
+**Controller-Created Absence Of Alternatives != Neutral Scarcity**
+
+---
+
+## 82. Temporary support refinement
+
+**Temporary Rescue != Permanent Service Contract**
+
+but:
+
+**Repeated Temporary Label != Absence Of Established Reliance**
+
+Factual dependency and repeated conduct matter alongside formal labels.
+
+---
+
+## 83. Authority sunset refinement
+
+**Service Termination != Continuing Access Authority**
+
+When support ends, support-derived:
+
+- access;
+- control;
+- credentials;
+- monitoring;
+- permissions;
+- administrative authority;
+
+should sunset unless independently justified.
+
+Withdrawal therefore includes an authority-graph cleanup.
+
+---
+
+## 84. Validated architecture
+
+The adversarially tested formulation is:
+
+> **Withdrawal Authority is a bounded transition authority, not a permanent-service entitlement and not a termination privilege. Its function is to permit legitimate support relations to end while preventing avoidable destruction caused merely by the manner of exit.**
+
+The architecture should seek, as applicable:
+
+**Continuation Where Independently Required**
+OR
+**Adequate Successor**
+OR
+**Safe Preservation / Suspension**
+OR
+**Minimum Viable Bridge**
+OR
+**Best Feasible Harm-Minimising Separation**
+
+—not endless full service by default.
+
+---
+
+## 85. Reallocation interface
+
+An established-support reallocation requires two independently valid components:
+
+**Valid Scarcity Allocation Decision**
++
+**Valid Withdrawal Transition**
+
+Therefore:
+
+> **An allocation decision identifies where the scarce resource should go; it does not automatically establish how an existing protected support relation may be terminated.**
+
+This distinction should be propagated into Scarcity Allocation.
+
+---
+
+## 86. Validated open interfaces
+
+Twelve major downstream interfaces remain:
+
+1. Medical futility and treatment withdrawal.
+2. Established life-support reallocation.
+3. Self-directed life-support withdrawal / advance directives.
+4. Bankruptcy and creditor priority.
+5. Transition cost / funding / Transition Debt.
+6. Permanent technical inseparability.
+7. Identity-preserving migration, suspension and self-termination.
+8. Embedded property / bodily-prosthetic integration.
+9. Cross-jurisdiction provider exit.
+10. Public-provider duties and monopoly-created dependency.
+11. Economy/Law treatment of manufactured dependency and lock-in.
+12. Direct harm hidden as service termination.
+
+The highest-value next source-resolution target is **Established Life-Support Reallocation**, because it is the cleanest unresolved collision between validated Fundamental Aggregation and validated Withdrawal Authority.
+
+---
+
+## 87. Revised development status
+
+**SOURCE-RESOLVED / ADVERSARIALLY TESTED / STRONG PROVISIONAL CROSS-DOMAIN ARCHITECTURE / NON-CANONICAL**
+
 ## 61. Development status
 
 **SOURCE-RESOLVED / REQUIRES ADVERSARIAL STRESS TESTING**
