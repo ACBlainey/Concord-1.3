@@ -123,19 +123,23 @@ Health architecture preserves:
 
 Consent, authority, competence, record access and consequential intervention remain separately bounded.
 
-## Records and contextual access
+## 7. Health record and contextual access
 
-The architectural direction is established but requires a dedicated implementation specification.
+`Health Record and Contextual Access Architecture 001.md`
 
-The intended model is:
-- participant longitudinal Health record;
-- participant ordinary access;
-- contextual minimum-necessary projection for an active Health function;
-- professional access derived from the legitimate care relationship rather than professional status alone;
-- provenance-preserving contribution back to the longitudinal record;
-- contraction/termination of active access when the function ends.
+Establishes the participant-centred longitudinal Health record and applies Contextual Wrapper Architecture and the Concord Information Black Box to Health information.
 
-A dedicated Health Record and Contextual Access Architecture remains required.
+Ordinary Health actors receive function-specific projections rather than unrestricted possession of the authoritative record.
+
+> **Professional Status != General Health-Record Access**
+
+> **Care Relationship -> Bounded Contextual Access**
+
+> **Record Custody != Provider Ownership**
+
+> **Past Care != Permanent Future Access**
+
+The architecture separates read, contribution, correction, disclosure, control and lifecycle authority; provides participant access and contestation; bounds emergency/break-glass access; preserves provenance across handoff and correction; and separates Health access from Research, Historical, Civil Security and other external purposes.
 
 ## Development provenance
 
@@ -163,7 +167,6 @@ Existing Concord mechanisms are reused where ownership remains clear, including 
 
 The core participant-facing topology is now substantially established. Major remaining work includes:
 
-- Health Record and Contextual Access Architecture;
 - treatment-protocol governance and clinical knowledge validation;
 - professional competence, qualification and governance;
 - medication/support reconciliation;
