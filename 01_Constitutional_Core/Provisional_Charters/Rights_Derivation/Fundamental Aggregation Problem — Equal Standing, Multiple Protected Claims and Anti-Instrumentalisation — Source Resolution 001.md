@@ -878,6 +878,238 @@ And the limiting rule is:
 
 ---
 
+## 46. Adversarial validation
+
+Companion:
+
+**Fundamental Aggregation Problem — Adversarial Stress Test 001.md**
+
+Result:
+
+> **PASS WITH TEN ARCHITECTURAL REFINEMENTS AND EIGHT MAJOR DOWNSTREAM INTERFACES.**
+
+Ninety scenarios tested external resources, qualitative harm differences, participant harvesting, forced labour, voluntary sacrifice, withdrawal, trolley-like redirection, probability, future participants, uncertain standing, cross-substrate claims, developmental participants, infrastructure, civilisation catastrophe, ownership, majority rule, social utility, repeated allocation, collective cognition, replication gaming, concealed instrumentalisation and authority.
+
+No tested case required participant-worth arithmetic.
+
+---
+
+## 47. Integrated refinement — magnitude
+
+**Magnitude Of Aggregate Consequence != Magnitude Of Individual Worth**
+
+Large numbers strengthen the consequence difference without increasing or decreasing the inherent standing of any individual participant.
+
+---
+
+## 48. Integrated refinement — effective protected consequence count
+
+**Claimant Count != Effective Protected Consequence Count**
+
+Aggregation should count the protected claims actually preserved after considering:
+
+- effectiveness;
+- adequate substitutes;
+- duplication;
+- standing;
+- consequence class.
+
+Raw claimant number is insufficient.
+
+---
+
+## 49. Integrated refinement — no universal harm exchange rate
+
+**No Universal Harm Exchange Rate Is Established**
+
+Aggregation is strongest within materially comparable consequence classes.
+
+The Ethical Kernel does not provide a universal conversion such as:
+
+- one death = N injuries;
+- one permanent disability = N temporary harms;
+- one fundamental loss = N inconveniences.
+
+Cross-class conflicts require explicit proportionality and domain reasoning.
+
+---
+
+## 50. Integrated refinement — mechanism matters
+
+**Mechanism Matters To Rights Classification**
+
+The same final headcount may arise through very different acts:
+
+- non-allocation;
+- withdrawal;
+- redirection;
+- destruction;
+- compulsion;
+- harvesting.
+
+These acts do not inherit the same authority merely because their aggregate outcome is numerically similar.
+
+---
+
+## 51. Integrated refinement — probability
+
+**Expected Outcome Modelling != Fractional Participant Worth**
+
+Probability and participant count should remain separately visible.
+
+A 50% chance of preserving five participants may be modelled as an uncertain outcome.
+
+It should not silently be rewritten as “2.5 participants worth of value.”
+
+---
+
+## 52. Integrated refinement — longitudinal fairness
+
+**Locally Least Harmful != Necessarily Longitudinally Fair**
+
+**Repeated Aggregation Requires Longitudinal ESCP**
+
+A recurring minority claimant must not become permanently excluded merely because each isolated event repeats the same arithmetic.
+
+Where burdens are reversible or service can be sequenced, rotation and accumulated burden may become relevant.
+
+---
+
+## 53. Integrated refinement — replication gaming
+
+**Replication Capability != Automatic Resource Priority Multiplier**
+
+Before participant number enters aggregation, the count must be identity-valid.
+
+Duplicable substrates create special risks where strategic branching/copying could manufacture allocation claims.
+
+This is an Identity/Continuity interface, not a reason to discount digital participants generally.
+
+---
+
+## 54. Integrated refinement — concealed instrumentalisation
+
+**Formal Non-Allocation Can Conceal Instrumentalisation**
+
+Purpose, mechanism and resource separability matter.
+
+If a participant is denied support specifically because their destruction releases their body, cognition, embodiment or inseparable resources for others, the act may cross from ordinary non-allocation into instrumentalisation.
+
+---
+
+## 55. Integrated refinement — equal numerical scores
+
+**Equal Numerical Worth Scores Are Still Worth Scores**
+
+Assigning every participant a scalar value of 1 does not solve the constitutional problem.
+
+It can still erase:
+
+- consequence class;
+- rights;
+- authority;
+- mechanism;
+- protected context;
+- uncertainty.
+
+The architecture therefore models consequences rather than participant utility values.
+
+---
+
+## 56. Integrated refinement — adverse effect
+
+**Adverse Effect != Instrumentalisation**
+
+A participant may suffer catastrophic harm because a genuinely scarce external resource is allocated elsewhere.
+
+That does not automatically mean the participant was used as the means by which others benefited.
+
+This distinction is necessary for legitimate scarcity allocation.
+
+---
+
+## 57. Validated constitutional boundary
+
+The tested interpretation is:
+
+> **Equal standing requires that every qualifying participant remain a rights-bearing subject of inherent value. It does not require decision-makers to ignore the number of materially comparable protected harms their resource allocation will foreseeably prevent. Consequences may therefore aggregate; participant worth does not. Aggregate benefit strengthens the case for an allocation only within the authority legitimately held over the resource or function at issue, and does not by itself create authority to use, destroy, compel, own or instrumentalise a participant.**
+
+This remains a provisional interpretation of the fixed Ethical Kernel, not a new kernel principle.
+
+---
+
+## 58. Validated clean case
+
+Where:
+
+- scarcity is genuine;
+- the resource is external to the participants;
+- authority over that resource is legitimate;
+- participant standing is comparable;
+- protected consequences are materially comparable;
+- effectiveness is established;
+- substitutes are absent;
+- no participant is being used as the resource;
+- no distinct displacement/withdrawal authority is required;
+
+then participant number is a legitimate consequence variable under BL1.
+
+**Equal Standing Does Not Require Consequence Blindness**
+
+---
+
+## 59. Validated limiting case
+
+Where the proposed better aggregate outcome requires:
+
+- harvesting;
+- direct involuntary use;
+- ownership;
+- compelled sacrifice;
+- destruction as mechanism;
+- or another independently protected intrusion against a participant;
+
+aggregation alone is insufficient.
+
+**More Beneficiaries != General Rights Override**
+
+---
+
+## 60. Downstream interfaces
+
+The stress test identifies eight major interfaces:
+
+1. Withdrawal Authority;
+2. Direct Harm / Redirection;
+3. Emergency Duty / Compelled Service;
+4. Probabilistic Aggregation;
+5. Cross-Class Harm Comparison;
+6. Identity / Replication / Collective Participant Counting;
+7. Future Participant Standing;
+8. Property and Resource Separability.
+
+These should be developed separately rather than hidden inside a single aggregation formula.
+
+---
+
+## 61. Revised development status
+
+**SOURCE-RESOLVED / ADVERSARIALLY TESTED / STRONG PROVISIONAL DERIVATION / NON-CANONICAL**
+
+The strongest next dependency is **Withdrawal Authority**.
+
+Established support creates the first case where:
+
+- aggregate consequence may strongly favour reallocation;
+- the scarce resource remains external;
+- yet removing it is itself a new consequential intervention against an existing protected context.
+
+This boundary should be resolved before Scarcity Allocation treats established and unestablished claims as operationally interchangeable.
+
+---
+
+## 62. Archived test plan
+
 ## 46. Next test
 
 Adversarial testing should distinguish:
