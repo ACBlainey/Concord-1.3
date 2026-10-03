@@ -621,6 +621,43 @@ Future remedy availability must never lower the evidential/legal threshold for c
 
 ---
 
+## 20A. Operational post-custody remedy interface
+
+The downstream mechanism is developed in:
+
+**Post-Custody Restoration and Civil-Burden Remedy — Operational Architecture 001**
+
+It reuses the existing Participant Status / Record / Notification / Correction loop, Civil Contact and Historical rather than creating a separate participant-facing claims bureaucracy.
+
+Core flow:
+
+**Custody Authority Ends**
+-> **Release Event**
+-> **Automatic Dependency Scan**
+-> **Immediate Restorable State Corrected**
+-> **Civil Contact Notification**
+-> **Historical Prior/Current State Updated**
+-> **Automatic Post-Custody Review Trigger Test**
+-> **Civil-Burden Review Where Material**
+-> **Baseline Remedy + Consequential Loss Where Applicable**
+-> **Participant Contestability**
+-> **Correction Propagation**
+-> **Historical Provenance**
+
+Key principles include:
+
+**Release Should Initiate Restoration, Not Merely End Physical Confinement**
+
+**Compensation != First Remedy Where Direct Restoration Is Possible**
+
+**Correctable State Error -> Correct State**
+
+**Historically True Custody != Current Adverse Status**
+
+**Preserve Event != Preserve Penalty**
+
+**Routine Civil-Burden Remedy != Purchase Of Silence Or Waiver Of Review**
+
 ## 21. Development conclusion
 
 Custody is best represented not as a temporary suspension of personhood or rights, but as a high-consequence protected contextual wrapper.
