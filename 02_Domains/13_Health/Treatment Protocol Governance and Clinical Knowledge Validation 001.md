@@ -533,3 +533,20 @@ Conceptually:
 > **Qualification Evidence != Protocol Applicability**
 
 This supersedes the unresolved phrase **professional qualification rules** in the remaining-development list as an internal Health task. Medical education and qualification are owned by Education; Health retains the function-specific competence requirement and protocol application boundary.
+
+
+## 30. Clinical experience learning loop
+
+Operational care now has an explicit return route into medical knowledge:
+
+`03_Cross_Domain_Architecture/Clinical Experience to Medical Knowledge — Health Research Historical Learning Loop 001.md`
+
+Cases, outcomes, adverse events, professional observations and participant feedback may generate bounded learning signals for Research. They do not directly rewrite protocols or Historical medical knowledge.
+
+**Health evidence -> learning signal -> Research -> validation -> Historical knowledge change -> KCS -> protocol review**.
+
+> **Clinical Experience Is A Knowledge Source, Not Automatic Medical Knowledge Authority**
+
+> **Learning Signal != Authority To Change Care**
+
+Urgent safety signals may trigger precautionary review/action before full causal resolution without being represented as settled medical truth.
