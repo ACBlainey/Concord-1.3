@@ -40,3 +40,16 @@ Research owns transformation of bounded learning signals into hypotheses, compar
 > **Clinical Signal != Research Project**
 
 > **Research Routing != Knowledge Validation**
+
+
+## Medical knowledge validation
+
+`03_Cross_Domain_Architecture/Medical Knowledge Validation and Historical Promotion 001.md`
+
+Research owns substantive validation of candidate medical knowledge before promotion into Historical's validated medical knowledge state. Validation distinguishes evidence strength, independence, replication, scope, alternatives, disagreement, uncertainty and ESCP completeness rather than equating publication or consensus with truth.
+
+> **Publication != Validation**
+
+> **Research Finding != Historical Promotion**
+
+Historical preserves the validated result and provenance; Research does not silently rewrite the archive.
