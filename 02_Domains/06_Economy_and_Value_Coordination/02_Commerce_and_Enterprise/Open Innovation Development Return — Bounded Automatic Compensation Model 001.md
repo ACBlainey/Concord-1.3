@@ -366,3 +366,79 @@ Before adoption the model requires simulation and adversarial testing of:
 - treatment after ceiling closure.
 
 This is a candidate mechanism, not yet a fixed Concord economic rule.
+
+
+## 24. Preferred candidate contribution base — product-specific net turnover
+
+Further development favours **product-specific net turnover** over manufacturer profit as the primary candidate contribution base.
+
+For pharmaceutical use, the relevant base should be the turnover attributable to the specific medicine, or to a clearly defined product family where the compensated invention is genuinely shared, rather than the turnover or profit of the manufacturer as a whole.
+
+Conceptually:
+
+**Eligible Product Net Turnover × Contribution Rate r = Development-Return Contribution**
+
+with contributions continuing only until the global compensation ceiling **C = X + Y** is reached.
+
+> **Company Turnover != Compensated Product Turnover**
+
+> **Company Profit != Required Compensation Base**
+
+### 24.1 Why turnover is attractive
+
+Compared with profit, turnover is less dependent on discretionary allocation of corporate overhead, financing, depreciation, transfer pricing and unrelated business costs. It therefore gives the compensation system a more observable base tied directly to commercial use of the compensated invention.
+
+A manufacturer remains free to operate efficiently or inefficiently, but inefficiency should not automatically reduce the inventor's return.
+
+> **Manufacturer Cost Structure Should Not Unilaterally Define Inventor Compensation**
+
+### 24.2 Net rather than headline turnover
+
+The base should avoid counting value the producer did not actually retain as product sales. A future accounting specification should define treatment of matters such as:
+- genuine refunds/returns;
+- genuine trade discounts/rebates;
+- sales taxes collected for government;
+- product recalls/credits;
+- bundled products;
+- related-party transfers;
+- internal transfers before final sale;
+- currency conversion;
+- combination products using multiple compensated inventions.
+
+The objective is an auditable measure of genuine commercial turnover attributable to the invention, not an easily manipulated nominal figure.
+
+> **Gross Invoice Value != Necessarily Eligible Net Turnover**
+
+### 24.3 Global ceiling remains controlling
+
+Turnover-based contribution does not create an unlimited royalty.
+
+If market demand is large or many manufacturers enter, contributions accumulate more rapidly and the ceiling is reached sooner.
+
+> **Greater Commercial Success -> Faster Bounded Reward, Not Perpetual Extraction**
+
+Once the aggregate ceiling is reached, the foundational development-return contribution terminates for all producers subject to the resolved accounting rules.
+
+### 24.4 Low-margin safeguard
+
+A turnover charge can become disproportionate for genuinely low-margin products if the contribution rate is too high. The rate therefore requires simulation and may need safeguards for exceptional cases where the contribution itself would make otherwise efficient essential production non-viable.
+
+Such a safeguard should not simply revert to self-reported company profit as the ordinary base.
+
+> **Turnover Simplicity != Permission To Ignore Production Viability**
+
+### 24.5 Preferred candidate formula
+
+The working candidate becomes:
+
+**Contribution_i = r × EligibleNetTurnover_i**
+
+for each qualifying producer **i**, subject to:
+
+**TotalCumulativeContributions <= C**
+
+where:
+
+**C = ValidatedDevelopmentCost X + BoundedReward Y**.
+
+The exact contribution rate, definition of net turnover, treatment of product families and low-margin safeguard remain unresolved pending simulation.
