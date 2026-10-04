@@ -63,3 +63,43 @@ This comparison is a scale reference only; it does not imply equivalence in edit
 Future word counts should be compared against this figure when measuring V1.3 corpus growth.
 
 The V1.2 figure is retained here only as migration/version provenance and should not be combined with the V1.3 total.
+
+---
+
+## Corpus measurement — 4 October 2026
+
+The 4 October 2026 repository snapshot was measured against the fixed post-migration baseline above.
+
+### Human-readable corpus
+
+**Human-readable document words:** approximately **2,353,000**
+
+This figure excludes machine-readable/source material such as JSON, Python and YAML and is the preferred figure for comparison with earlier document-focused word counts.
+
+### Extended textual corpus
+
+**Total textual words:** **2,395,524**  
+**Total textual/readable files:** **1,125**
+
+The extended total includes Markdown, TXT, DOCX and textual JSON, Python and YAML material.
+
+The Markdown corpus alone contains:
+
+- **1,000 Markdown documents**
+- **2,344,453 Markdown words**
+
+### Growth since V1.3 baseline
+
+| Measurement | 27 Sep baseline | 4 Oct snapshot | Change |
+|---|---:|---:|---:|
+| Extended textual words | 1,684,093 | 2,395,524 | **+711,431** |
+| Textual/readable files | 556 | 1,125 | **+569** |
+| Word growth | — | — | **+42.2%** |
+
+The extended corpus therefore grew by more than **711,000 words** during the first week following the V1.3 migration.
+
+At approximately 80,000–100,000 words per substantial book, the 4 October extended textual corpus is roughly equivalent in raw word count to **24–30 books**.
+
+### Measurement note
+
+The V1.3 starting baseline remains fixed at **1,684,093 words / 556 readable documents**. Later measurements are appended rather than replacing it so that repository growth and migration provenance remain auditable.
