@@ -316,3 +316,30 @@ The protective envelopes can now be operationally represented without collapsing
 The matrix preserves rapid emergency action where legitimately required while forcing each consequential act to expose its own authority basis.
 
 The next step is adversarial scenario testing. The test should attempt both over-intervention and under-intervention failures and should treat SH-6 as an unresolved boundary rather than scoring a preferred constitutional answer.
+
+
+## 16. Adversarial-test refinements
+
+`Self-Harm Protective Action Matrix — Adversarial Scenario Test 001.md` returned **PASS WITH REFINEMENT**.
+
+Add:
+
+SPA-20 **Voluntary Protective Cooperation Can Satisfy The Protective Function Without Creating A Need For Coercive Authority.**
+
+SPA-21 **Temporary Impairment != Permanent Authority.**
+
+SPA-22 **Treatment Refusal != Self-Harm Evidence By Default.**
+
+SPA-23 **Denial Of Risk != Proof Of Risk.**
+
+SPA-24 **Absence Of Voluntary Support Capacity != Detention Authority.**
+
+SPA-25 **One Event Can Activate Multiple Independent Protective Functions.**
+
+SPA-26 **Self-Protection Authority != Third-Party Protection Authority.**
+
+SPA-27 **Repeated Individually Defensible Escalations May Reveal A Systemically Defective Threshold.**
+
+SPA-28 **Consent Produced By Unsupported Threat Of Coercion != Ordinary Voluntary Consent.**
+
+These refinements strengthen the matrix against scarcity-generated coercion, mixed self/third-party threats, false-positive accumulation and apparent consent obtained by unsupported threats of detention.
