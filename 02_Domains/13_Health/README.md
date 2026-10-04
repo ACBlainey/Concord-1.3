@@ -326,3 +326,16 @@ Validated pharmaceutical manufacturing knowledge is intended to enable safe non-
 > **Safety Regulation Must Protect Safety, Not Incumbency**
 
 > **Medicine Price Should Primarily Reflect Real Provision Cost, Not Artificial Knowledge Scarcity**
+
+
+## Evidence-neutral treatment and neglected therapeutics
+
+`02_Domains/13_Health/Evidence-Neutral Treatment Recognition and Neglected Therapeutics Architecture 001.md`
+
+Health treatment selection is evidence- and outcome-led rather than pharmaceutical-category-led. Validated non-pharmaceutical and alternative interventions can enter the same medical knowledge, treatment-selection and learning systems, while receiving no exemption from proportionate evidence and safety requirements.
+
+> **Treatment Category != Evidential Privilege**
+
+> **Low Commercial Return != Low Medical Value**
+
+The architecture also establishes a public-interest Research route for rare, low-demand, inexpensive, non-proprietary or otherwise commercially neglected therapeutic questions.
