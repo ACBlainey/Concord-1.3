@@ -239,3 +239,18 @@ PLE does not guarantee anonymity, substantive correctness, cryptographic securit
 This candidate intentionally depends on no particular government, legal system, profession, database product, AI substrate or software stack.
 
 It requires standalone testing on unfamiliar applications before graduation.
+
+
+---
+
+## Post-graduation provenance note — 4 October 2026
+
+**STATUS OF THIS FILE:** TESTED CANDIDATE / SUPERSEDED BY GRADUATED v1.0 / RETAINED AS PMEDG PROVENANCE
+
+This exact candidate was used for standalone Portable Extraction Test 001 and passed extraction testing. It is therefore preserved unchanged as the tested candidate rather than deleted or rewritten into the living module.
+
+Living graduated result:
+
+`04_Portable_Modules/Private Local Evaluation — Portable Module v1.0.md`
+
+The candidate-status wording above records the state of the artefact when tested and should not be read as the current maturity of PLE.
