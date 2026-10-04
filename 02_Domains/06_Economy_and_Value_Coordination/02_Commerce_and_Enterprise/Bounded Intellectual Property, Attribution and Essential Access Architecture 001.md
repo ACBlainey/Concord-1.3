@@ -373,3 +373,22 @@ Still required:
 - focused regression against anti-expropriation and innovation cases.
 
 Do not extract as a portable module yet.
+
+
+## 25. Candidate automatic development-return mechanism — 4 October 2026
+
+A candidate mechanism now separates open market entry from creator/developer compensation:
+
+`02_Domains/06_Economy_and_Value_Coordination/02_Commerce_and_Enterprise/Open Innovation Development Return — Bounded Automatic Compensation Model 001.md`
+
+The model defines a validated development cost **X**, a bounded reward **Y**, and a total compensation ceiling **C**. Multiple qualified producers may enter without developer permission and make automatic contributions from a defined commercial-return base until the ceiling is reached.
+
+> **Open Production Can Coexist With Automatic Creator Compensation**
+
+> **Market Entry != Developer Permission**
+
+> **Permanent Credit != Permanent Economic Toll**
+
+The initial pharmaceutical case suggests a percentage of downstream manufacturer profit, but the exact contribution base remains open because profit accounting can be manipulated. Revenue, margin, per-unit and hybrid models require simulation.
+
+The mechanism is a candidate economic model only; percentages, caps and accounting rules are not yet fixed.
