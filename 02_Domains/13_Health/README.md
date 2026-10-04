@@ -339,3 +339,16 @@ Health treatment selection is evidence- and outcome-led rather than pharmaceutic
 > **Low Commercial Return != Low Medical Value**
 
 The architecture also establishes a public-interest Research route for rare, low-demand, inexpensive, non-proprietary or otherwise commercially neglected therapeutic questions.
+
+
+## Clinical treatment independence
+
+`02_Domains/13_Health/Clinical Treatment Independence and Prescriber Conflict-of-Interest Architecture 001.md`
+
+Prescribers and clinicians are compensated for legitimate clinical work, competence and responsibility rather than for choosing a particular product. Direct and indirect commercial incentives must not distort participant-specific treatment selection.
+
+> **Payment For Clinical Work != Payment For Product Selection**
+
+> **More Expensive Treatment Must Not Mean More Reward For The Prescriber**
+
+Procurement economics and participant prescribing remain separate functions.
