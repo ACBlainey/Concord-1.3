@@ -352,3 +352,18 @@ Prescribers and clinicians are compensated for legitimate clinical work, compete
 > **More Expensive Treatment Must Not Mean More Reward For The Prescriber**
 
 Procurement economics and participant prescribing remain separate functions.
+
+
+## Architecture audit and development order — 4 October 2026
+
+Current structural coverage and remaining gaps are mapped in:
+
+`02_Domains/13_Health/Health Domain Architecture Audit and Development Map 001.md`
+
+The audit finds that the generic participant-directed Health lifecycle is now substantially represented. Remaining work is concentrated in stress-state and specialist implementations.
+
+The next shared architecture is **Acute and Emergency Health Care — Triage, Temporary Authority and Consent Restoration Architecture 001** because emergency care stress-tests autonomy, temporary incapacity, incomplete evidence, urgent contextual access, bounded authority, reversibility and restoration of ordinary participant control.
+
+> **Normal Care Architecture Is Not Complete Until It Explains How Its Boundaries Behave Under Urgency**
+
+> **Urgency May Change The Permissible Action Window Without Creating General Sovereignty Over The Participant**
