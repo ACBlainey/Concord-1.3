@@ -546,3 +546,17 @@ Each should source-resolve existing Concord material before creating new archite
 > **Clinical Function != Scarcity != Allocation != Withdrawal != Direct Intervention**
 
 > **Architectural Completeness != Medical Knowledge Completeness**
+
+
+## 32. Clinical learning return path — 4 October 2026
+
+The generic lifecycle endpoint **Learning** now has an explicit cross-domain implementation:
+
+- `03_Cross_Domain_Architecture/Clinical Experience to Medical Knowledge — Health Research Historical Learning Loop 001.md`
+- `03_Cross_Domain_Architecture/Clinical Learning Signal Intake, Triage and Research Routing 001.md`
+
+Health preserves participant-specific case/outcome evidence and may generate bounded learning signals from outcomes, anomalies, diagnostic mismatch, professional observation and participant feedback. Research owns generalisation and investigation; validated knowledge reaches Historical only through the appropriate validation route.
+
+> **Case Evidence != General Medical Knowledge**
+
+> **Learning Signal != Authority To Change Care**
