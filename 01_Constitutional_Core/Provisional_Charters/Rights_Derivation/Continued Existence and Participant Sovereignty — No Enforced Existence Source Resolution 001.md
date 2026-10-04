@@ -343,3 +343,23 @@ The absence of authority is itself the constitutional result unless a new, indep
 > **No Remaining Authority Predicate -> No Remaining Coercive Authority**
 
 The undesirable nature of the outcome does not change that topology.
+
+## 21. Non-assistance refinement
+
+The companion source resolution `Self-Ownership, Suffering and Non-Assistance in Self-Directed Death — Source Resolution 001.md` clarifies the consequence of the no-enforced-existence rule.
+
+> **No Authority To Compel Continuation != Duty To Assist Cessation**
+
+Where full authorship is established, Concord must distinguish respect from participation:
+
+> **Respect For Autonomous Choice != Participation In The Choice**
+
+> **Duty To Alleviate Suffering != Duty To Cause Death**
+
+> **Refusal To Assist Death != Refusal To Assist The Participant**
+
+The participant's self-ownership establishes final self-decision authority but does not create authority over another participant's actions or a civil obligation to implement self-directed death.
+
+The resulting posture is:
+
+**Protect impaired authorship -> Support uncertain authorship -> Respect established authorship -> Alleviate suffering -> Do not compel existence -> Do not encourage/facilitate death -> Do not abandon the participant.**
