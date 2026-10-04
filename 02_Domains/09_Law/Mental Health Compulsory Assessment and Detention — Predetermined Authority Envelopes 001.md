@@ -205,19 +205,29 @@ When any required predicate ceases, including restoration to C0/C1 for the relev
 
 > **Authorship Restoration -> Incapacity-Derived Detention Sunset**
 
-## 10. Envelope LA-5 — competent participant / unresolved civil override
+## 10. Envelope LA-5 — full authorship / no independent coercive predicate
 
 Where C0/C1 is established and the participant maintains a grave self-directed decision, incapacity-derived detention is unavailable.
 
-Existing Concord sources have not yet established a separate civil override.
+The Constitutional source resolution `Continued Existence and Participant Sovereignty — No Enforced Existence Source Resolution 001.md` finds that the apparent LA-5 authority gap is not a missing generic civil power. It is the state reached when the prior contextual authority has correctly sunset and no new independent predicate exists.
 
-Therefore LA-5 is presently:
+### State
+C0/C1 sufficiently established.
 
-**NO AUTHORITY DEFINED / CONSTITUTIONAL-LAW RESOLUTION REQUIRED**
+### Function
+Voluntary support, dignity, information, accessible alternatives and participant-directed reconsideration.
 
-> **C0/C1 + Grave Self-Directed Harm != Existing Incapacity Detention Authority**
+### Coercive authority from self-harm alone
+None established.
 
-Law must not fill this blank operationally by reclassifying the participant as C2/C3 without evidence.
+### Independent authority
+Evaluate separately where another protected function exists, including protection of others or another independently derived legal obligation.
+
+> **C0/C1 + Grave Self-Directed Harm + No Independent Authority Predicate -> No Concord Authority To Compel Continued Existence**
+
+> **No Remaining Authority Predicate -> No Remaining Coercive Authority**
+
+Law must not manufacture replacement authority by reclassifying the participant as C2/C3 without evidence, treating outcome severity as an authority predicate, or converting respect for life into institutional ownership of life.
 
 ## 11. Envelope LA-6 — independent third-party protection
 
@@ -420,7 +430,7 @@ MHLA-06 Assessment Detention Exists To Resolve A Question, Not To Preserve Insti
 MHLA-07 Administrative Availability != Liberty Authority.
 MHLA-08 C3/C4 != Automatic LA-4.
 MHLA-09 Authorship Restoration -> Incapacity-Derived Detention Sunset.
-MHLA-10 C0/C1 + Grave Self-Directed Harm != Existing Incapacity Detention Authority.
+MHLA-10 C0/C1 + Grave Self-Directed Harm + No Independent Authority Predicate -> No Concord Authority To Compel Continued Existence.
 MHLA-11 Danger To Others Must Be Evaluated As A Protective-Law Question, Not A Diagnostic Shortcut.
 MHLA-12 Past Crisis != Present Compulsory Predicate.
 MHLA-13 Unresolved Capacity Can Justify Time To Resolve Capacity; It Cannot Justify Indefinite Unresolved Capacity.
