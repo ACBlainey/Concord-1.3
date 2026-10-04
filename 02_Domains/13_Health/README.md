@@ -382,3 +382,18 @@ The shared emergency architecture treats emergency authority as a temporary brid
 > **Stabilised != Continuing Emergency Authority**
 
 > **Past Emergency Authority != Continuing Treatment Authority**
+
+
+## Procedural and surgical care
+
+`02_Domains/13_Health/Procedural and Surgical Care — Consent Envelope, Team Authority and Intra-Procedure Change Architecture 001.md`
+
+This architecture source-resolves surgery against Temporal Consent, Multi-Key Authority, Health competence, treatment protocols and emergency care. Its central object is the procedural consent envelope: prior consent can remain valid through deliberately induced temporary incapacity without expanding into general clinical authority.
+
+> **Authorised Temporary Incapacity != Erasure Of Prior Procedural Consent**
+
+> **Inability To Object != Expanded Consent**
+
+> **Unexpected Finding != Emergency By Definition**
+
+> **Emergence From Anaesthesia -> Procedural Authority Reassessment**
