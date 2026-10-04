@@ -531,3 +531,20 @@ This architecture does not yet define:
 - operational pharmacovigilance.
 
 These require further Health/Research/Historical/Law development.
+
+
+## 29. Formal validation and Historical promotion boundary — 4 October 2026
+
+The previously unresolved transition from Research result to validated Historical medical knowledge is specified in:
+
+`03_Cross_Domain_Architecture/Medical Knowledge Validation and Historical Promotion 001.md`
+
+Research owns substantive validation of candidate medical knowledge. Historical owns authoritative preservation of the resulting validated knowledge state and its provenance.
+
+> **Historical Custody != Independent Medical Validation Authority**
+
+> **Validated Claim Scope Must Not Exceed Supported Evidence Scope**
+
+> **Validated != Closed To Correction**
+
+The architecture supports qualified, contested, safety-only, superseded and unresolved knowledge states rather than forcing binary accepted/rejected representation.
