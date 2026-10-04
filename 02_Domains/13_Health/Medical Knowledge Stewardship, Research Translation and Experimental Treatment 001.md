@@ -548,3 +548,16 @@ Research owns substantive validation of candidate medical knowledge. Historical 
 > **Validated != Closed To Correction**
 
 The architecture supports qualified, contested, safety-only, superseded and unresolved knowledge states rather than forcing binary accepted/rejected representation.
+
+
+## 30. Medication knowledge application
+
+Medication knowledge now has a dedicated Health application architecture:
+
+`02_Domains/13_Health/Medication, Prescribing, Dispensing and Pharmacovigilance Architecture 001.md`
+
+Historical preserves validated medication and prescribing knowledge, while Health determines participant-specific application. Adverse reactions and outcome anomalies feed Research through the clinical learning architecture and may return as validated Historical knowledge after investigation.
+
+> **Validated Prescribing Knowledge != Participant Prescription**
+
+> **Adverse-Event Report != Validated Adverse-Effect Knowledge**
