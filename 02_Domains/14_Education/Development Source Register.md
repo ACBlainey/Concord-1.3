@@ -64,3 +64,15 @@ Reusable for schools, learning environments, examinations, laboratories, protect
 **Source:** `04_Portable_Modules/Civil Attention Reporting Petition and Resolution Module v1.0.md`
 
 Can provide common intake for learner reports, accessibility failures, curriculum problems, institutional complaints and educational proposals while preserving domain examination and appeal.
+
+
+## Current medical-education development — 4 October 2026
+
+Medical education has now been developed as a dedicated Education route through:
+- `Medical Education and Qualification Architecture 001.md`;
+- `Medical Assessment, Qualification and Accreditation Topology 001.md`;
+- cross-domain `03_Cross_Domain_Architecture/Clinical Function and Competence Contract — Health-Education Interface 001.md`.
+
+The current architecture separates validated medical-knowledge custody (Historical), learning/assessment/qualification (Education), clinical competence requirements and care (Health), and enduring accreditation provenance (Historical).
+
+The principal unresolved authority question is recognition/accreditation of qualification authorities themselves. This remains for explicit source resolution rather than being assigned by assumption.
