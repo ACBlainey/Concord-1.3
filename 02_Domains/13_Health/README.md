@@ -313,3 +313,16 @@ Ownership is distributed without fragmenting the clinical episode: Historical pr
 > **Prescribed != Dispensed != Possessed != Taken**
 
 > **Validated Prescribing Knowledge != Participant Prescription**
+
+
+## Open pharmaceutical production
+
+`02_Domains/13_Health/Open Pharmaceutical Production, Quality and Access Architecture 001.md`
+
+Validated pharmaceutical manufacturing knowledge is intended to enable safe non-exclusive production rather than artificial scarcity. Concord-funded drug development defaults toward civil availability and minimal/non-exclusive licensing. Manufacturing competence, site/process quality and batch release remain strict independent safety requirements.
+
+> **Open Entry != Uncontrolled Production**
+
+> **Safety Regulation Must Protect Safety, Not Incumbency**
+
+> **Medicine Price Should Primarily Reflect Real Provision Cost, Not Artificial Knowledge Scarcity**
