@@ -379,3 +379,18 @@ Education receives a bounded capability target from Health rather than a mandate
 > **Health Defines The Required Capability; Education Defines How Capability Can Be Developed And Demonstrated**
 
 This permits multiple legitimate learning routes while preserving a common consequential competence standard.
+
+
+## 22. Assessment and accreditation topology
+
+The assessment/accreditation layer is developed in:
+
+`02_Domains/14_Education/Medical Assessment, Qualification and Accreditation Topology 001.md`
+
+It separates teaching, assessment, qualification authority, Historical credential custody and clinical authority. It permits multiple legitimate qualification providers against common competence standards and preserves an open direct-assessment route where safe and practical.
+
+> **Teaching != Assessment != Accreditation != Clinical Authority**
+
+> **Common Standard != Single Institution**
+
+> **Authority To Award Qualification != Authority To Control All Learning Routes**
