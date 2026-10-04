@@ -514,3 +514,22 @@ This architecture establishes governance grammar but does not itself provide:
 - empirical validation of automated clinical pathways.
 
 These remain specialist Health/Research/Historical/Law implementation work.
+
+
+## 29. Clinical competence requirement interface — 4 October 2026
+
+The protocol field `CompetenceRequirements` now has an explicit cross-domain interface:
+
+`03_Cross_Domain_Architecture/Clinical Function and Competence Contract — Health-Education Interface 001.md`
+
+A Health protocol should reference the required clinical function/capability rather than embed an Education curriculum or institutional credential requirement directly into the protocol.
+
+Conceptually:
+
+**Protocol competence requirement -> CFCC -> Education capability/qualification evidence -> current competence state**.
+
+> **Protocol Competence Requirement != Curriculum**
+
+> **Qualification Evidence != Protocol Applicability**
+
+This supersedes the unresolved phrase **professional qualification rules** in the remaining-development list as an internal Health task. Medical education and qualification are owned by Education; Health retains the function-specific competence requirement and protocol application boundary.
