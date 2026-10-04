@@ -454,3 +454,18 @@ Still required:
 - cross-jurisdiction prescription recognition.
 
 This architecture establishes ownership and the participant-specific medication feedback lifecycle without manufacturing specialist pharmaceutical rules.
+
+
+## 25. Open pharmaceutical production interface
+
+The upstream manufacture and supply of medicines is specified in:
+
+`02_Domains/13_Health/Open Pharmaceutical Production, Quality and Access Architecture 001.md`
+
+Once medicine and manufacturing knowledge are validated, Concord's default is open/non-exclusive production knowledge. Any producer may seek to qualify against the applicable manufacturing and quality standard; access to the knowledge does not itself authorise release.
+
+> **Manufacturing Knowledge Access != Automatic Authority To Release Medicine**
+
+> **Manufacturing Licence != Intellectual-Property Licence**
+
+> **Qualified Manufacturer != Automatically Qualified Batch**
