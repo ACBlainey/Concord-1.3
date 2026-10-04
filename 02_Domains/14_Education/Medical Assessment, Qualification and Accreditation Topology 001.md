@@ -372,3 +372,24 @@ Still unresolved:
 - deployable credential schema.
 
 These should be resolved without allowing recognition of accreditors to become ownership of medicine or monopoly control of education.
+
+
+## 23. Accreditation authority resolution — 4 October 2026
+
+The previously unresolved authority question is resolved:
+
+> **Education Owns Educational Accreditation**
+
+This includes recognition/accreditation of medical qualification authorities, assessment functions and assessors where accreditation is required.
+
+Education may distribute execution among multiple legitimate providers, but the civil accreditation function remains within Education. Health does not accredit medical qualifications merely because it consumes competence evidence, and Historical does not accredit merely because it preserves the resulting record.
+
+> **Distributed Accreditation Providers != Distributed Domain Ownership**
+
+> **Health Recognition Of Qualification != Health Accreditation Authority**
+
+> **Historical Custody Of Credential != Historical Accreditation Authority**
+
+Education accreditation remains bounded by the competence/function standard and cannot create clinical authority.
+
+The unresolved-topology item concerning which civil function recognises/accredits qualification authorities is therefore closed. Detailed institutional implementation remains open.
