@@ -366,3 +366,16 @@ These require later development and specialist validation.
 The central rule is:
 
 > **Historical preserves what medicine knows; Education develops and verifies who can apply it; Health determines what competence a clinical function requires and applies it only with legitimate participant-specific authority.**
+
+
+## 21. Clinical Function and Competence Contract interface
+
+The cross-domain interface between Health functional requirements and Education assessment is defined in:
+
+`03_Cross_Domain_Architecture/Clinical Function and Competence Contract — Health-Education Interface 001.md`
+
+Education receives a bounded capability target from Health rather than a mandated curriculum or institutional route.
+
+> **Health Defines The Required Capability; Education Defines How Capability Can Be Developed And Demonstrated**
+
+This permits multiple legitimate learning routes while preserving a common consequential competence standard.
