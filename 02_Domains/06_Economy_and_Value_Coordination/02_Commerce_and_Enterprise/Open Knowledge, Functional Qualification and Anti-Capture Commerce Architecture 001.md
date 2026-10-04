@@ -390,3 +390,32 @@ Next work should test it against unlike domains, for example:
 Cross-domain transfer testing should determine which clauses are genuinely universal and which remain sector-specific.
 
 A later PMEDG assessment may be appropriate if the pattern survives those tests.
+
+
+## 25. Cross-domain transfer result — 4 October 2026
+
+Adversarial transfer testing across vehicle/equipment repair, software interoperability, energy equipment, food production, construction systems and communications infrastructure produced **PASS WITH REFINEMENT**.
+
+Test record:
+
+`02_Domains/06_Economy_and_Value_Coordination/02_Commerce_and_Enterprise/Open Knowledge and Anti-Capture — Cross-Domain Adversarial Transfer Test 001.md`
+
+The food-production case established an important limiting boundary: commercial value alone does not create a universal disclosure duty. The architecture therefore distinguishes three knowledge states:
+
+- **OPEN** — generally discoverable/usable;
+- **BOUNDED-ACCESS** — functionally necessary but privacy/security/safety sensitive;
+- **PRIVATE** — no independent access duty established.
+
+> **Necessary Access != Necessarily Public Access**
+
+The strength of access/continuity obligation should consider civil dependency, substitutability, duration, failure consequence, interoperability/repair need, civil funding and whether dependency can outlive the producer.
+
+> **Greater Dependency And Lower Substitutability -> Stronger Continuity And Access Obligation, Subject To Independent Safety/Security Constraints**
+
+Two further separations are now explicit:
+
+> **Innovation Reward Question != Functional Access Question**
+
+> **Nominally Separate Gates != Independently Bounded Gates**
+
+The candidate is now flagged **PMEDG CANDIDATE — DO NOT EXTRACT YET** pending Law/IP source resolution and focused regression.
