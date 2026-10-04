@@ -52,3 +52,14 @@ Medical education is a dedicated specialist Education route. Historical preserve
 > **Institutional Attendance != Demonstrated Competence**
 
 The architecture supports granular medical competence rather than treating medicine as one indivisible credential, and preserves independent participant/context authority before clinical action.
+
+
+### Medical assessment and accreditation
+
+`Medical Assessment, Qualification and Accreditation Topology 001.md`
+
+The medical route now separates teaching, assessment, accreditation, Historical credential custody and clinical use. Multiple legitimate assessors/accreditors may demonstrate conformance to common competence standards; the architecture does not require a single institutional doorway into medicine.
+
+> **Common Standard != Single Institution**
+
+> **Open Assessment != Lower Assessment Standard**
