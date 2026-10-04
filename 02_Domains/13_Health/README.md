@@ -416,3 +416,18 @@ Health consumes that kernel through:
 > **Allocation Preference != Withdrawal Permission**
 
 The established-effective-life-support withdrawal collision remains explicitly unresolved pending Health-Law authority development.
+
+
+## Rehabilitation and long-term support
+
+`02_Domains/13_Health/Rehabilitation and Long-Term Support — Restoration, Adaptation and Supported Function Architecture 001.md`
+
+This architecture integrates existing Health recovery concepts with Participant-Supporting Infrastructure, Temporal Consent and Education boundaries. It treats restoration, adaptation, accommodation, assistive support and continuing treatment as distinct legitimate routes rather than defining recovery solely as return to a prior baseline.
+
+> **Recovery != Mandatory Return To Prior Baseline**
+
+> **Environmental Incompatibility != Participant Pathology**
+
+> **Successful Rehabilitation != Necessarily Cure**
+
+> **Need For Continuing Function != Permanent Entitlement To One Provider**
