@@ -394,3 +394,16 @@ It separates teaching, assessment, qualification authority, Historical credentia
 > **Common Standard != Single Institution**
 
 > **Authority To Award Qualification != Authority To Control All Learning Routes**
+
+
+## 23. Clinical experience return path
+
+Medical education is not a one-way flow from stored knowledge into practitioners. Clinical work can produce new candidate knowledge through cases, outcomes and direct professional/participant feedback.
+
+The cross-domain return path is defined in:
+
+`03_Cross_Domain_Architecture/Clinical Experience to Medical Knowledge — Health Research Historical Learning Loop 001.md`
+
+**Clinical experience -> Health learning signal -> Research -> validation -> Historical medical knowledge -> Education dependency review -> targeted curriculum/qualification patch where required**.
+
+Education does not treat professional anecdote as curriculum authority. It responds when the relevant medical knowledge/competence dependency is legitimately changed.
