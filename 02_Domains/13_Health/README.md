@@ -300,3 +300,16 @@ Medical learning, assessment, qualification and requalification belong to Educat
 > **Competence != Consent**
 
 This prevents professional title from becoming either a blanket clinical authority or an unnecessary educational gatekeeper.
+
+
+## Medication, prescribing and pharmacovigilance
+
+Medication now has an explicit participant-centred Health architecture:
+
+`02_Domains/13_Health/Medication, Prescribing, Dispensing and Pharmacovigilance Architecture 001.md`
+
+Ownership is distributed without fragmenting the clinical episode: Historical preserves validated medication/prescribing knowledge; Education owns pharmaceutical education, qualification and accreditation; Research investigates adverse reactions and other candidate generalisable findings; participant Health records and authorised personal monitoring preserve actual-use/outcome evidence; Health integrates these inputs into participant-specific prescribing, reconciliation, dispensing interfaces, monitoring and reassessment.
+
+> **Prescribed != Dispensed != Possessed != Taken**
+
+> **Validated Prescribing Knowledge != Participant Prescription**
