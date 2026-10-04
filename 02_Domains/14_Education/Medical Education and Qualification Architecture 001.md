@@ -407,3 +407,16 @@ The cross-domain return path is defined in:
 **Clinical experience -> Health learning signal -> Research -> validation -> Historical medical knowledge -> Education dependency review -> targeted curriculum/qualification patch where required**.
 
 Education does not treat professional anecdote as curriculum authority. It responds when the relevant medical knowledge/competence dependency is legitimately changed.
+
+
+## 24. Pharmaceutical and prescribing competence
+
+Pharmaceutical, prescribing, dispensing and medication-management competence are specialist medical education functions owned by Education. Health defines the clinical functions and competence requirements; Education owns learning, assessment, qualification and accreditation.
+
+The operational interface is described in:
+
+`02_Domains/13_Health/Medication, Prescribing, Dispensing and Pharmacovigilance Architecture 001.md`
+
+> **Pharmaceutical Accreditation = Education Function**
+
+> **Qualification != Prescribing Authority In Every Context**
