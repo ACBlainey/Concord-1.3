@@ -339,3 +339,24 @@ SH-0 through SH-5 are substantially source-derived structural envelopes, but exa
 SH-6 remains deliberately unresolved.
 
 The next step should be a **Self-Harm Protective Action Matrix** mapping the envelopes against specific actions and authority keys, followed by adversarial scenarios to test false positives, fluctuating capacity, malicious reporting, recurrent crises and institutional overreach.
+
+
+## 18. SH-6 constitutional source resolution
+
+SH-6 has now been source-resolved in:
+
+`01_Constitutional_Core/Provisional_Charters/Rights_Derivation/Competent Grave Self-Harm — Autonomy, Life, Harm and Protective Authority Source Resolution 001.md`
+
+Result: **PARTIALLY DETERMINATE**.
+
+Existing Concord strongly supports temporary, proportionate and preferably reversible protective intervention while a genuine time-critical authority or decision-validity gap remains. It also strongly requires that authority derived from that gap contract as capacity, communication, information, voluntariness and temporal stability become adequately resolved.
+
+The sources do not presently establish a general continuing Health power over a genuinely competent, informed and sufficiently voluntary sustained grave self-directed choice. Nor do they establish an unrestricted positive right to assisted death.
+
+SH-6 is therefore refined as a **constitutional handoff state**, not an ordinary clinical detention state.
+
+> **SH-6 Should Be Difficult To Enter Because Its Predicates Are Demanding, Not Because The Participant Must Agree To Live**
+
+> **If Exceptional Authority Exists, Its Envelope Should Precede The Case Rather Than Be Invented Around The Participant**
+
+Before SH-6 classification, the system must establish that the emergency authority gap has ended, decision-specific capacity is present, material consequences/alternatives are understood, coercion and reversible invalidating causes have been proportionately examined, temporal stability is sufficient for the context, third-party protection is separated, and prior emergency authority is not merely being inherited.
