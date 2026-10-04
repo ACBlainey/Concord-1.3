@@ -145,3 +145,16 @@ Those functions remain with their legitimate domains/processes.
 **Participant/context authority remains separately required.**
 
 This prevents both professional gatekeeping and unsafe collapse of competence into authority.
+
+
+## 12. Formal cross-domain contract
+
+The Health-Education handoff is formalised by:
+
+`03_Cross_Domain_Architecture/Clinical Function and Competence Contract — Health-Education Interface 001.md`
+
+The CFCC allows Health to specify a bounded clinical capability requirement while Education retains ownership of learning and assessment design. Historical supplies validated medical-knowledge and enduring qualification provenance.
+
+> **Health Defines The Required Capability; Education Defines How Capability Can Be Developed And Demonstrated**
+
+> **Competence Verification != Educational Record Transfer**
