@@ -550,3 +550,18 @@ Cases, outcomes, adverse events, professional observations and participant feedb
 > **Learning Signal != Authority To Change Care**
 
 Urgent safety signals may trigger precautionary review/action before full causal resolution without being represented as settled medical truth.
+
+
+## Evidence-neutral treatment scope — 4 October 2026
+
+Treatment protocols are not limited to pharmaceuticals. The treatment-recognition companion is:
+
+`02_Domains/13_Health/Evidence-Neutral Treatment Recognition and Neglected Therapeutics Architecture 001.md`
+
+Validated interventions may include pharmaceutical, procedural, physical, behavioural, nutritional, environmental, device, rehabilitation, monitoring and combined approaches where supported by appropriate evidence.
+
+> **Validated Therapy != Necessarily Pharmaceutical Therapy**
+
+> **Alternative To A Drug != Evidence Of Effectiveness**
+
+> **Not A Conventional Drug != Evidence Of Ineffectiveness**
