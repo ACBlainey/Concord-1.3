@@ -397,3 +397,22 @@ This architecture source-resolves surgery against Temporal Consent, Multi-Key Au
 > **Unexpected Finding != Emergency By Definition**
 
 > **Emergence From Anaesthesia -> Procedural Authority Reassessment**
+
+
+## Health resource scarcity and allocation
+
+Shared scarcity reasoning is now extracted into:
+
+`04_Portable_Modules/Scarce Resource Allocation — Portable Module v1.0.md`
+
+Health consumes that kernel through:
+
+`02_Domains/13_Health/Health Resource Scarcity and Allocation — Application of Portable Scarcity Kernel 001.md`
+
+> **Need != Scarcity != Allocation != Withdrawal != Direct Intervention**
+
+> **Clinical Expertise != General Allocation Sovereignty**
+
+> **Allocation Preference != Withdrawal Permission**
+
+The established-effective-life-support withdrawal collision remains explicitly unresolved pending Health-Law authority development.
