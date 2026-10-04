@@ -456,3 +456,20 @@ It incorporates the surviving V1.2 capacity/support insights without importing m
 > **Mental/Cognitive Health Care != Participant Governance**
 
 The exceptional mental-health branch remains intentionally separate. Involuntary assessment/treatment, self-harm and risk-to-others authority, restraint/seclusion and longer-duration substituted authority require explicit Health-Law-Judiciary source resolution rather than being inferred from clinical need.
+
+
+## Mental-health crisis and exceptional authority
+
+`02_Domains/13_Health/Mental Health Crisis and Exceptional Authority — Source Resolution 001.md`
+
+Exceptional mental-health authority is now source-resolved against Emergency Health, Rights, Temporal Consent, Inalienable Participant Standing and the existing capacity architecture.
+
+The central finding is that "involuntary psychiatric care" is not one legitimate authority object. Assessment, transport, detention/location restriction, treatment, medication, restraint, disclosure and public protection are distinct consequential functions requiring independently valid authority where applicable.
+
+> **Mental-Health Crisis != Single Coercive Authority**
+
+> **Assessment != Detention != Treatment != Restraint != Public Protection**
+
+> **One Exceptional Authority Key != All Exceptional Authority Keys**
+
+Existing architecture supports minimum temporary emergency protection where serious time-sensitive harm collides with unavailable ordinary authority, but does not yet settle the constitutional/Law question of competent intentional grave self-harm after emergency uncertainty is resolved. That question remains explicitly open rather than being silently converted into psychiatric authority.
