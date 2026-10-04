@@ -560,3 +560,16 @@ Health preserves participant-specific case/outcome evidence and may generate bou
 > **Case Evidence != General Medical Knowledge**
 
 > **Learning Signal != Authority To Change Care**
+
+
+## Emergency-care resolution — 4 October 2026
+
+The previously undeveloped immediate emergency protective-authority class is now developed at the shared Health architecture level in:
+
+`02_Domains/13_Health/Acute and Emergency Health Care — Triage, Temporary Authority and Consent Restoration Architecture 001.md`
+
+Emergency authority is treated as a bounded bridge where time-critical harm and unavailable ordinary decision authority collide. It is minimum necessary, uncertainty-visible and subject to active contraction as communication, capacity or ordinary authority resolution becomes possible.
+
+> **Emergency Authority = Temporary Bridge, Not Transfer Of Participant Sovereignty**
+
+> **Capacity Recovery -> Authority Reassessment**
