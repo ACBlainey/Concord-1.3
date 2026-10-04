@@ -365,3 +365,18 @@ Still required:
 - safeguards against commercial and ideological capture of Research priorities.
 
 This architecture establishes treatment-category neutrality without lowering the evidence threshold for alternative therapies.
+
+
+## 24. Prescriber economic independence
+
+Evidence-neutral treatment selection also requires protection against economic distortion at the point of care. Companion architecture:
+
+`02_Domains/13_Health/Clinical Treatment Independence and Prescriber Conflict-of-Interest Architecture 001.md`
+
+A clinician may use validated knowledge, participant evidence and legitimate professional experience, but should not personally benefit because a particular manufacturer, more expensive product or commercially favoured treatment is selected.
+
+> **Treatment Selection Should Follow Participant Interest, Not Prescriber Profit**
+
+> **Commercial Sponsorship Must Not Define The Comparison Set**
+
+This is especially important for ensuring validated low-cost and non-pharmaceutical alternatives remain genuinely visible.
