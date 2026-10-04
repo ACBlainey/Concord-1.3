@@ -442,3 +442,59 @@ where:
 **C = ValidatedDevelopmentCost X + BoundedReward Y**.
 
 The exact contribution rate, definition of net turnover, treatment of product families and low-margin safeguard remain unresolved pending simulation.
+
+
+## 25. No guaranteed recovery or profit
+
+The compensation ceiling **C = X + Y** defines the maximum bounded return available through the development-return mechanism. It does **not** guarantee that X, Y or C will ever be recovered.
+
+A technically successful invention may have little practical demand. A medicine may be effective but relevant to very few participants, superseded by a better treatment, rarely clinically indicated, expensive to manufacture, or otherwise unable to generate sufficient eligible turnover to repay its development cost.
+
+> **Validated Effectiveness != Guaranteed Demand**
+
+> **Successful Invention != Guaranteed Commercial Success**
+
+> **Validated Development Cost != Civil Debt Owed To Developer**
+
+> **Compensation Ceiling != Compensation Guarantee**
+
+The developer therefore retains genuine development and market risk.
+
+Possible outcomes include:
+- cumulative return below X;
+- recovery of only part of X;
+- recovery of X with no additional reward;
+- recovery of X plus part of Y;
+- full recovery up to C.
+
+The development-return system should not automatically make the developer whole merely because the invention is valid or useful.
+
+### 25.1 Why this matters
+
+Guaranteeing recovery would socialise development downside while allowing private upside. It could also reward development of technically effective products for which there is little actual civil need.
+
+The turnover mechanism instead links return to realised use/value in practice.
+
+> **Works != Needed**
+
+> **Needed Sometimes != Sufficient Demand To Recover Development Cost**
+
+> **Innovation Risk Remains With The Development Decision Unless Explicitly Shared In Advance**
+
+### 25.2 Explicit public-interest funding remains separate
+
+Concord may deliberately choose to fund or subsidise development of a low-demand but high-civil-value medicine—for example where the affected population is small but the unmet need is serious.
+
+That is a separate ex ante Research/resource-allocation decision, not an automatic consequence of later validation.
+
+> **Public-Interest Funding != Retroactive Guarantee Of Private Development Return**
+
+Where Concord intentionally agrees to share development risk before or during development, the funding terms should state that explicitly and should be reflected in X and the eventual return allocation.
+
+### 25.3 Failure to reach the ceiling
+
+If the product reaches the end of its relevant commercial/useful life without reaching C, the unrecovered balance does not automatically become a claim against Concord, manufacturers, participants or the public.
+
+> **Unrecovered Development Balance != Automatic Public Liability**
+
+Permanent attribution and achievement remain even where economic return is poor.
