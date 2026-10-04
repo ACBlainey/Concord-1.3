@@ -260,3 +260,14 @@ with Health application:
 This advances the general Health scarcity gap while preserving the narrower unresolved Health-Law question of involuntary withdrawal of effective established life support.
 
 The next high-level Health gap after emergency, procedural care and scarcity is **Rehabilitation and Long-Term Support**, unless source resolution shows that it too is already substantially represented elsewhere.
+
+
+## Development update — rehabilitation and long-term support advanced
+
+The rehabilitation/long-term-support gap has now been source-resolved and integrated in:
+
+`02_Domains/13_Health/Rehabilitation and Long-Term Support — Restoration, Adaptation and Supported Function Architecture 001.md`
+
+The source resolution found substantial existing foundations in Health Core, Participant-Supporting Infrastructure, Temporal Consent and Education. The new Health layer principally integrates those sources around participant goals and the distinct routes of restoration, adaptation, accommodation, assistive support and continuing function.
+
+The next major Health audit candidate is **Mental and Cognitive Health**. Because Concord already contains substantial capacity, cognitive-integrity, behavioural-influence, supported-decision and authority material, it should again be source-resolved before new architecture is created.
