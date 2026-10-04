@@ -37,3 +37,18 @@ Central maintenance principle:
 > **Preserve demonstrated competence; patch demonstrated deficiency.**
 
 The framework remains provisional and does not yet fix detailed pedagogy, accreditation institutions, curriculum governance, record schemas or hybrid education.
+
+
+## Medical education and qualification
+
+`Medical Education and Qualification Architecture 001.md`
+
+Medical education is a dedicated specialist Education route. Historical preserves validated medical knowledge; Education translates that knowledge and Health-defined functional requirements into open learning, practical development, assessment, qualification, requalification and targeted educational patching.
+
+> **Medical Knowledge != Medical Qualification**
+
+> **Medical Qualification != Clinical Authority**
+
+> **Institutional Attendance != Demonstrated Competence**
+
+The architecture supports granular medical competence rather than treating medicine as one indivisible credential, and preserves independent participant/context authority before clinical action.
