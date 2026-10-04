@@ -63,3 +63,8 @@ The medical route now separates teaching, assessment, accreditation, Historical 
 > **Common Standard != Single Institution**
 
 > **Open Assessment != Lower Assessment Standard**
+
+
+Medical accreditation authority is now explicitly owned by Education, including recognition/accreditation of medical assessment and qualification functions. Multiple providers may execute accredited functions without transferring domain ownership or creating a single institutional monopoly.
+
+Clinical experience also has a return path through Research to Historical medical knowledge before validated changes propagate back into medical education.
