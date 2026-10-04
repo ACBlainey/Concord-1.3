@@ -53,3 +53,14 @@ Research owns substantive validation of candidate medical knowledge before promo
 > **Research Finding != Historical Promotion**
 
 Historical preserves the validated result and provenance; Research does not silently rewrite the archive.
+
+
+## Pharmaceutical development and open production
+
+Validated pharmaceutical discoveries may feed an open-production pathway described in:
+
+`02_Domains/13_Health/Open Pharmaceutical Production, Quality and Access Architecture 001.md`
+
+Research owns discovery and investigation; successful Research does not itself create manufacturing release authority. Concord-funded pharmaceutical development defaults toward broad civil availability rather than exclusive production control.
+
+> **Research Discovery != Manufacturing Release Authority**
