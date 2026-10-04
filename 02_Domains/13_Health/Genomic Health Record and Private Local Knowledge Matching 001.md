@@ -476,3 +476,22 @@ Further work is required for:
 - deletion/retention conflicts where familial relevance exists.
 
 These should be resolved without abandoning the default architecture of protected local matching.
+
+
+## 26. Graduated Private Local Evaluation dependency
+
+The local genomic matching pattern developed here has now been generalised, adversarially tested, independently extracted and graduated as:
+
+`04_Portable_Modules/Private Local Evaluation — Portable Module v1.0.md`
+
+This Health architecture should therefore use **Private Local Evaluation (PLE) v1.0** as the general cross-domain execution/privacy mechanism rather than maintaining an independent Health-specific copy of that mechanism.
+
+The genomic architecture remains responsible for genomic and clinical semantics, including variant interpretation, participant notification, familial implications, Health authority and the distinction between genetic association and diagnosis.
+
+PLE supplies the reusable bounded execution pattern:
+
+**bounded authorised genomic query → protected local evaluation → completeness/freshness/disclosure checks → minimum participant-local or authorised result → explicit external handoff**.
+
+> **Genomic Semantics Remain Health-Owned; Private Local Evaluation Is The Reusable Execution Pattern**
+
+The originating genomic work remains preserved because it is both a Health architecture and the provenance source from which PLE emerged.
