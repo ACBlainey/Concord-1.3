@@ -272,3 +272,17 @@ The same development establishes experimental treatment as a legitimate distinct
 > **Participant Freedom To Take Risk != Provider Freedom To Deceive**
 
 Detailed specialist trial governance, evidence-validation processes and high-risk experimental safeguards remain development gaps.
+
+
+## Graduated cross-domain result — Private Local Evaluation
+
+The genomic Health development produced a reusable cross-domain architecture that has completed PMEDG and graduated as:
+
+`04_Portable_Modules/Private Local Evaluation — Portable Module v1.0.md`
+
+**Originating Health source:**
+`02_Domains/13_Health/Genomic Health Record and Private Local Knowledge Matching 001.md`
+
+PLE provides the reusable pattern for moving a bounded authorised query to protected data and returning only the minimum authorised result while preserving cumulative-disclosure, freshness, query-privacy and downstream-authority boundaries.
+
+Health-specific genomic semantics remain in Health. The portable mechanism should be referenced rather than independently reimplemented in future Health architectures.
