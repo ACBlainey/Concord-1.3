@@ -431,3 +431,28 @@ This architecture integrates existing Health recovery concepts with Participant-
 > **Successful Rehabilitation != Necessarily Cure**
 
 > **Need For Continuing Function != Permanent Entitlement To One Provider**
+
+
+## Mental and cognitive Health
+
+Legacy/development source resolution is preserved in:
+
+`02_Domains/13_Health/Mental and Cognitive Health — Legacy and Development Source Resolution 001.md`
+
+The ordinary participant-directed architecture is:
+
+`02_Domains/13_Health/Mental and Cognitive Health — Participant-Directed Care, Capacity and Recovery Architecture 001.md`
+
+It incorporates the surviving V1.2 capacity/support insights without importing machine guardianship as clinical doctrine. Capacity is decision-, function-, context- and time-specific; mental-health diagnosis does not itself establish incapacity or authority; support is preferred to unnecessary substitution; and ordinary care remains participant-directed.
+
+> **Mental Illness != Incapacity**
+
+> **Diagnosis != Authority**
+
+> **Disagreement != Incapacity**
+
+> **Need For Support != Loss Of Capacity**
+
+> **Mental/Cognitive Health Care != Participant Governance**
+
+The exceptional mental-health branch remains intentionally separate. Involuntary assessment/treatment, self-harm and risk-to-others authority, restraint/seclusion and longer-duration substituted authority require explicit Health-Law-Judiciary source resolution rather than being inferred from clinical need.
