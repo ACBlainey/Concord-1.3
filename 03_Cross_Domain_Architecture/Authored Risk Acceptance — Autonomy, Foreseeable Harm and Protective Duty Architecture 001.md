@@ -357,3 +357,200 @@ Concord can simultaneously hold that:
 7. self-directed risk does not authorise imposition of equivalent risk on others.
 
 This provides a common architecture for sport, employment, exploration, research and other consequential voluntary activity without reducing autonomy to permission to choose only safe outcomes.
+
+
+## 23. Contextual Wrapper integration
+
+Concord V1.2 source review confirms that boxing was already used within Contextual Wrapper Architecture (CWA) as a functional/activity context. CWA's universal primitive is the **bounded context**, not physical space.
+
+Authored Risk Acceptance therefore does not require a new boundary mechanism.
+
+> **Authored Risk Is A Material State Variable Of A Contextual Wrapper**
+
+The operational relation is:
+
+**Decision Authorship
+-> Legitimate Wrapper Entry
+-> Contextual Risk/Permission/Responsibility State
+-> Bounded Authorisation Of Other Actors
+-> State Monitoring
+-> BTA Transition On Material Change
+-> Withdrawal/Termination
+-> Reversion**
+
+These stages MUST remain separable.
+
+### 23.1 Authorship does not create the wrapper
+
+A wrapper may exist before any particular participant enters it.
+
+Sporting rules, employment roles, research protocols, clinical procedures and computational sandboxes can all be pre-defined.
+
+The participant's authorship determines whether and how that participant can legitimately enter or continue within the relevant voluntary context.
+
+> **Wrapper Existence != Participant Consent**
+
+> **Wrapper Legibility != Participant Authorship**
+
+### 23.2 Entry is not general waiver
+
+Valid entry into a risky wrapper can authorise exposure to specified inherent and residual risks without becoming a general waiver of rights.
+
+> **Authored Wrapper Entry != General Waiver**
+
+The participant does not thereby consent to negligence, deception, prohibited acts, materially undisclosed hazards, unrelated authority or arbitrary expansion of the context.
+
+### 23.3 Material state change
+
+The wrapper must be state-sensitive.
+
+Where a material variable changes—risk, participant capacity, role, equipment, environment, rules, external threat, available safeguards or third-party exposure—the prior authored state may no longer be sufficient.
+
+> **Material Wrapper Change -> Revalidation Of Relevant Authorship And Authority**
+
+Not every minor fluctuation requires renewed formal consent. Revalidation burden should track materiality, consequence, reversibility and the participant's reasonable expectations.
+
+### 23.4 Withdrawal and reversion
+
+Where withdrawal is legitimate:
+
+**Withdrawal
+-> Contextual Permission Contracts
+-> Contextual Authority Contracts
+-> Safe Transition Where Needed
+-> Default/Successor Context Reasserts**
+
+A wrapper must not convert temporary participation into durable sovereignty.
+
+> **Contextual Participation != Transfer Of General Sovereignty**
+
+### 23.5 Same participant, overlapping wrappers
+
+One participant may simultaneously occupy several wrappers.
+
+For example, a professional boxer may be:
+- an employee/contractor;
+- a licensed sporting participant;
+- inside an active match;
+- subject to medical monitoring;
+- inside a broadcast/commercial relationship.
+
+No single wrapper automatically absorbs the others.
+
+> **Overlapping Contexts != Merged Authority**
+
+Conflict or precedence requires independent resolution where existing architecture does not already establish it.
+
+## 24. Cross-domain transfer tests
+
+### 24.1 Hazardous employment — PASS WITH SAFEGUARDS
+
+A worker may author entry into a role containing known residual risk.
+
+The employment wrapper defines function, hazards, competence, safety controls, duties, withdrawal and transition.
+
+However:
+- economic dependence may affect voluntariness;
+- employer-controlled hazards remain employer responsibilities;
+- material risk change requires revalidation;
+- employment consent does not authorise negligence.
+
+**Result:** CWA + authored risk transfers strongly.
+
+### 24.2 Medical treatment — PASS WITH ROLE SEPARATION
+
+A patient may author a procedure carrying known risk.
+
+The treatment/procedure wrapper can define:
+- intended clinical objective;
+- known material risks;
+- alternatives;
+- clinician roles;
+- permitted intervention;
+- emergency contingencies;
+- termination/recovery.
+
+But:
+
+> **Consent To Procedure != Consent To Every Clinically Possible Intervention**
+
+A material intra-procedure state change may activate emergency authority only through its own predicates.
+
+**Result:** strong transfer; wrapper clarifies rather than replaces clinical consent.
+
+### 24.3 Research participation — PASS
+
+A participant may enter a bounded research protocol involving known risk, uncertainty, data use and withdrawal conditions.
+
+The research wrapper can travel across laboratory, digital and remote contexts.
+
+Novel evidence that materially changes the risk profile should trigger review and renewed participant choice where applicable.
+
+**Result:** strong transfer.
+
+### 24.4 Digital/AI sandbox — PASS
+
+A participant or agent may receive permissions inside a sandbox that would be impermissible in production.
+
+The wrapper may be computational/conceptual rather than spatial.
+
+> **Sandbox Permission != Production Permission**
+
+Escape, promotion or deployment is a context transition requiring separate authority.
+
+**Result:** strong transfer and confirms non-physical abstraction.
+
+### 24.5 Financial/investment mandate — PASS WITH EXTERNALITY LIMIT
+
+A participant may author financial risk within a bounded mandate.
+
+The wrapper can define instruments, loss tolerance, authority, duration and reporting.
+
+But the participant's risk acceptance does not automatically authorise systemic or third-party exposure.
+
+**Result:** transfers if externalities remain separately governed.
+
+### 24.6 Rescue/emergency role — PASS WITH NON-SACRIFICE LIMIT
+
+A participant may voluntarily accept elevated risk through a rescue role.
+
+The wrapper may create bounded role duties and operational authority.
+
+It does not create an unlimited duty to die.
+
+**Result:** transfers with explicit role/exit/state-change controls.
+
+### 24.7 Adversarial deliberation — PASS
+
+A conceptual wrapper can permit unusually direct criticism, challenge or adversarial testing for a defined purpose.
+
+Permission exists for the function and does not become general permission for abuse outside it.
+
+**Result:** confirms abstract non-physical wrapper.
+
+## 25. Transfer-test result
+
+**PASS — GENERAL CROSS-DOMAIN ARCHITECTURE SUPPORTED.**
+
+The tests support the proposition that authored risk is not restricted to sport or dangerous physical environments.
+
+The reusable relation is:
+
+> **Authorship Determines Legitimate Participation; Wrapper Determines Contextual Meaning; Authority Remains Independently Bounded**
+
+This is stronger than treating informed consent as a single yes/no event.
+
+It allows consent/authorship to attach to a legible contextual state and therefore makes material changes, withdrawal and reversion structurally visible.
+
+## 26. Additional invariants
+
+ARA-21 Authored Risk Is A Material State Variable Of A Contextual Wrapper.
+ARA-22 Wrapper Existence != Participant Consent.
+ARA-23 Wrapper Legibility != Participant Authorship.
+ARA-24 Authored Wrapper Entry != General Waiver.
+ARA-25 Material Wrapper Change -> Revalidation Of Relevant Authorship And Authority.
+ARA-26 Contextual Participation != Transfer Of General Sovereignty.
+ARA-27 Overlapping Contexts != Merged Authority.
+ARA-28 Consent To Procedure != Consent To Every Clinically Possible Intervention.
+ARA-29 Sandbox Permission != Production Permission.
+ARA-30 Authorship Determines Legitimate Participation; Wrapper Determines Contextual Meaning; Authority Remains Independently Bounded.
