@@ -245,3 +245,18 @@ The highest-value next step is to develop emergency Health as the first major st
 > **Normal Care Architecture Is Not Complete Until It Explains How Its Boundaries Behave Under Urgency**
 
 > **Urgency May Change The Permissible Action Window Without Creating General Sovereignty Over The Participant**
+
+
+## Development update — scarcity architecture advanced
+
+The general scarcity/allocation principles have now been extracted into a cross-domain portable candidate:
+
+`04_Portable_Modules/Scarce Resource Allocation — Portable Module v1.0.md`
+
+with Health application:
+
+`02_Domains/13_Health/Health Resource Scarcity and Allocation — Application of Portable Scarcity Kernel 001.md`
+
+This advances the general Health scarcity gap while preserving the narrower unresolved Health-Law question of involuntary withdrawal of effective established life support.
+
+The next high-level Health gap after emergency, procedural care and scarcity is **Rehabilitation and Long-Term Support**, unless source resolution shows that it too is already substantially represented elsewhere.
