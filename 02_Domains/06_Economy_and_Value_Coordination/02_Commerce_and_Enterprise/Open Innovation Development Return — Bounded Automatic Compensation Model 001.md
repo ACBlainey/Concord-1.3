@@ -498,3 +498,18 @@ If the product reaches the end of its relevant commercial/useful life without re
 > **Unrecovered Development Balance != Automatic Public Liability**
 
 Permanent attribution and achievement remain even where economic return is poor.
+
+
+## 26. Commercially neglected therapeutics
+
+The development-return model is not a complete mechanism for deciding what medical Research deserves resources. Some valuable treatments may have too little expected turnover to recover development/testing cost, including rare-disease treatments and inexpensive/non-proprietary interventions.
+
+Health treatment-category neutrality and the public-interest Research route are developed in:
+
+`02_Domains/13_Health/Evidence-Neutral Treatment Recognition and Neglected Therapeutics Architecture 001.md`
+
+> **Low Commercial Return != Low Medical Value**
+
+> **Development-Return Mechanism != Complete Research-Priority Mechanism**
+
+Where Concord deliberately funds such Research, that is an ex ante civil resource decision rather than a retroactive guarantee that every validated private development will recover its cost.
