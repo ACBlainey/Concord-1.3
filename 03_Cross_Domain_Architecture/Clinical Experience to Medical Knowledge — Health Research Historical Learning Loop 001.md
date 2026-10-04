@@ -446,3 +446,18 @@ It defines a low-friction intake, separates observation/interpretation/hypothesi
 > **Research Routing != Knowledge Validation**
 
 > **Closed For Insufficient Evidence != Permanently Irrelevant**
+
+
+## 27. Validation and Historical promotion implementation
+
+The validation step in this learning loop is specified in:
+
+`03_Cross_Domain_Architecture/Medical Knowledge Validation and Historical Promotion 001.md`
+
+Clinical learning signals may become Research evidence and candidate medical knowledge, but promotion into Historical requires bounded validation of claim scope, evidence independence, alternatives, uncertainty and completeness.
+
+> **Research Finding != Historical Promotion**
+
+> **Not Validated != Proven False**
+
+> **Knowledge Update != Historical Erasure**
