@@ -283,3 +283,20 @@ Health therefore uses PLE for the reusable privacy-preserving execution pattern 
 > **Query To Data; Minimum Result From Data**
 
 > **Genomic Semantics Remain Health-Owned; Private Local Evaluation Is The Reusable Execution Pattern**
+
+
+## 11. Clinical competence and qualified-practitioner interface
+
+`Clinical Competence Requirements and Qualified-Practitioner Interface 001.md`
+
+Health does not own medical education or qualification. Health defines the competence required for particular clinical functions and verifies relevant current competence through the Education/Historical qualification interface.
+
+Medical learning, assessment, qualification and requalification belong to Education. Validated medical knowledge remains preserved by Historical.
+
+> **Health Competence Requirement != Education Ownership**
+
+> **Qualification != Clinical Authority**
+
+> **Competence != Consent**
+
+This prevents professional title from becoming either a blanket clinical authority or an unnecessary educational gatekeeper.
