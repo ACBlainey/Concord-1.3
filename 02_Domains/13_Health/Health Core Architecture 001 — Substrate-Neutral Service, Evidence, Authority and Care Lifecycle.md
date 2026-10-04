@@ -573,3 +573,16 @@ Emergency authority is treated as a bounded bridge where time-critical harm and 
 > **Emergency Authority = Temporary Bridge, Not Transfer Of Participant Sovereignty**
 
 > **Capacity Recovery -> Authority Reassessment**
+
+
+## Procedural/surgical implementation — 4 October 2026
+
+The shared procedural authority layer is developed in:
+
+`02_Domains/13_Health/Procedural and Surgical Care — Consent Envelope, Team Authority and Intra-Procedure Change Architecture 001.md`
+
+It applies the existing intervention envelope, temporal consent, competence separation and Multi-Key Authority to procedures that may cross a period of deliberately induced incapacity.
+
+> **Consent To Procedure != Consent To Any Clinically Useful Act Discovered During Procedure**
+
+> **Authority At Scheduling != Authority At Procedure Commit**
