@@ -995,3 +995,34 @@ No history is not bad history. Less observation is not misconduct. Voluntary nar
 **Formal module:** *Contextual Trust Progression — Portable Module v1.0*
 
 **Status:** Graduated; clean transfer validated with non-blocking clarifications; successor serialization and single-record semantic validation passed.
+
+
+---
+
+# Private Local Evaluation (PLE)
+
+## Plain-English name
+
+**Ask protected information a limited question without handing over the protected information itself.**
+
+## What does it do?
+
+Private Local Evaluation lets a legitimate bounded question be evaluated where protected information already resides, returning only the minimum authorised result.
+
+Its simplest principle is:
+
+> **Query To Data; Minimum Result From Data**
+
+For example, a service may need to know whether a threshold is satisfied without needing the exact protected value that produced the answer.
+
+PLE also accounts for repeated or related questions that could reconstruct protected information, sensitive query content, stale results, related recipients and audit systems that might otherwise become shadow databases.
+
+## Use it when
+
+Use PLE when an actor needs a bounded answer from sensitive information but does not need possession of the underlying record.
+
+## What it does not do
+
+PLE does not decide whether the substantive question is correct, create authority to act on the answer, provide population aggregation, replace appeal/due-process mechanisms, or guarantee anonymity or cryptographic security.
+
+**Formal module:** *Private Local Evaluation — Portable Module v1.0*
