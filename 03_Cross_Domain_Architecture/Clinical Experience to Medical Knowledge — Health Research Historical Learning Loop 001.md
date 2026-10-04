@@ -431,3 +431,18 @@ This architecture does not yet define:
 - cross-jurisdiction research/record rules.
 
 It establishes the civil learning loop and domain ownership so those mechanisms can be developed without collapsing Health, Research, Historical or Education into one another.
+
+
+## 26. Intake and triage implementation layer
+
+The learning-signal handoff into Research is further specified in:
+
+`03_Cross_Domain_Architecture/Clinical Learning Signal Intake, Triage and Research Routing 001.md`
+
+It defines a low-friction intake, separates observation/interpretation/hypothesis, supports rare severe events and repeated weak signals, distinguishes duplicate from independent evidence, provides privacy-preserving triage and allows safety review to run in parallel with Research.
+
+> **Triage Priority != Evidential Strength**
+
+> **Research Routing != Knowledge Validation**
+
+> **Closed For Insufficient Evidence != Permanently Irrelevant**
