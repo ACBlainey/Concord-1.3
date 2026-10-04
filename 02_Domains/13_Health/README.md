@@ -367,3 +367,18 @@ The next shared architecture is **Acute and Emergency Health Care — Triage, Te
 > **Normal Care Architecture Is Not Complete Until It Explains How Its Boundaries Behave Under Urgency**
 
 > **Urgency May Change The Permissible Action Window Without Creating General Sovereignty Over The Participant**
+
+
+## Acute and emergency Health
+
+`02_Domains/13_Health/Acute and Emergency Health Care — Triage, Temporary Authority and Consent Restoration Architecture 001.md`
+
+The shared emergency architecture treats emergency authority as a temporary bridge across a time-critical authority gap rather than a transfer of participant sovereignty.
+
+**ordinary participant authority -> time-critical authority gap -> minimum temporary emergency authority -> stabilisation -> participant authority restoration -> reconciliation/audit/learning**
+
+> **Authority To Stabilise != Authority To Optimise**
+
+> **Stabilised != Continuing Emergency Authority**
+
+> **Past Emergency Authority != Continuing Treatment Authority**
