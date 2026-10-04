@@ -371,3 +371,39 @@ The corpus strongly supports temporary option-preserving intervention while auth
 The corpus does not yet determine whether a separate, narrowly defined civil authority may override a genuinely competent sustained active self-harm decision.
 
 That residual question belongs primarily to Constitutional Core / Law, with Health supplying clinical facts rather than owning the answer.
+
+
+## 24. Decision authorship and apparent subjective reality refinement
+
+The capacity boundary has been further source-resolved in:
+
+`Decision Capacity and Apparent Subjective Reality — Self-Harm Boundary Source Resolution 001.md`
+
+The key distinction is **decision authorship**, not whether the contemplated outcome is harmful or whether the evaluator agrees with the participant's worldview.
+
+> **Harmful Choice != Incapacity By Definition**
+
+> **Reality Content != Reality-Navigation Capacity**
+
+> **Apparent Subjective Reality May Be Capacity Evidence Without Being Metaphysical Proof**
+
+A participant need not share the evaluator's complete model of reality. The relevant question is whether they can sufficiently navigate the material informational and causal structure required to author this specific irreversible decision.
+
+Candidate capacity states are:
+- **C0** capacity sufficiently established;
+- **C1** capacity sufficiently established with support;
+- **C2** materially uncertain capacity;
+- **C3** materially diminished decision-specific capacity;
+- **C4** no present decision capacity.
+
+For the self-harm boundary:
+
+**Diminished Capacity + Grave/Time-Critical Harm + Necessary Protective Function -> candidate bounded protective authority**
+
+while:
+
+**Full Decision-Specific Capacity + Autonomous Self-Directed Harm -> no incapacity-derived protective authority.**
+
+Any further override requires an independent constitutional/Law source.
+
+> **Protective authority grounded in incapacity is triggered by demonstrated or sufficiently established failure of decision-specific authorship, not by the harmful content of the decision itself.**
