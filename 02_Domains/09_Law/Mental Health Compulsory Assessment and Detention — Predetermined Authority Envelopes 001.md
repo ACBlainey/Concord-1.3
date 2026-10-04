@@ -446,3 +446,48 @@ Full authorship removes incapacity as that authority source.
 Independent threats to others route to independent public-protection law.**
 
 LA-5 remains deliberately unresolved rather than allowing Health or Law operations to invent a competent-self-harm detention power by practice.
+
+
+## 28. Adversarial-test refinements
+
+`Mental Health Compulsory Assessment and Detention — Authority Envelope Adversarial Test 001.md` returned **PASS WITH REFINEMENT**.
+
+Add:
+
+MHLA-23 **Verification Threshold != Detention Threshold.**
+
+MHLA-24 **Refusal To Participate != Incapacity Evidence By Default.**
+
+MHLA-25 **Unsupported Threat Of Detention Cannot Manufacture Voluntary Admission.**
+
+MHLA-26 **Risk Persistence != Incapacity Persistence.**
+
+MHLA-27 **Repeated Bounded Renewals Can Compose Into Functionally Unbounded Detention.**
+
+MHLA-28 **Liberty Restriction Must Not Be Used As Unrelated Treatment Leverage.**
+
+MHLA-29 **Authority Review Requires Access To Material Contrary Evidence.**
+
+MHLA-30 **Authority Must Be Legible To The Participant To The Extent They Can Receive It.**
+
+MHLA-31 **Institution Transfer != Authority Expansion.**
+
+MHLA-32 **Historical Pattern Can Inform Inquiry Without Becoming Present Authority.**
+
+### Cumulative-duration safeguard
+
+Nominally short repeated orders must be evaluated by their cumulative effect:
+
+**Increasing Cumulative Restriction
+-> Increasing Review Independence
+-> Increasing Evidential Burden
+-> Increasing Need To Re-establish Function
+-> Increasing Representation/Remedy Safeguards**
+
+### Authority provenance object
+
+Each exceptional restriction should carry:
+
+**<Participant, Current Envelope, Protected Function, Predicate Evidence, Decision-Authorship State, Permitted Acts, Start, Review Due, Sunset, Authority Source, Responsible Actor, Independent Reviewer/Route>**
+
+Authority changes create a new provenance event rather than silently overwriting the prior state.
