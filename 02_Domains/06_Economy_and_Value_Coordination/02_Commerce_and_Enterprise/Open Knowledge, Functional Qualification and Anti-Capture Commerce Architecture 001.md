@@ -419,3 +419,20 @@ Two further separations are now explicit:
 > **Nominally Separate Gates != Independently Bounded Gates**
 
 The candidate is now flagged **PMEDG CANDIDATE — DO NOT EXTRACT YET** pending Law/IP source resolution and focused regression.
+
+
+## 26. Bounded IP and essential-access companion — 4 October 2026
+
+The unresolved creator/reward side of this architecture is now developed in:
+
+`02_Domains/06_Economy_and_Value_Coordination/02_Commerce_and_Enterprise/Bounded Intellectual Property, Attribution and Essential Access Architecture 001.md`
+
+The companion preserves attribution, discovery priority, achievement and legitimate economic reward while treating exclusion/control as a distinct and bounded question.
+
+> **Attribution != Exclusion != Economic Reward != Functional Control**
+
+> **Essential Civil Need Can Limit Exclusion Without Erasing Attribution Or Reward**
+
+Health/pharmaceutical knowledge is treated as a special high-dependency case rather than the default rule for all private innovation. Privately funded, substitutable and non-essential creations may retain stronger exclusion rights, subject to independently justified interoperability, repair, continuity and other bounded access requirements.
+
+This resolves the earlier innovation/reward interface directionally but does not yet constitute a complete Concord IP law.
