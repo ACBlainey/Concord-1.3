@@ -200,3 +200,20 @@ Key rules:
 - Operational Sunset and Responsibility Sunset May Occur at Different Times.
 - Ending a Function When It Is No Longer Useful Can Be an Act of Stewardship.
 - Continuity Architecture Must Preserve Valuable Function, Not Automatically Preserve Every Institution.
+
+
+## Open knowledge and anti-capture commerce
+
+A generalised architecture derived from the pharmaceutical production case is now under active development:
+
+`02_Domains/06_Economy_and_Value_Coordination/02_Commerce_and_Enterprise/Open Knowledge, Functional Qualification and Anti-Capture Commerce Architecture 001.md`
+
+It separates knowledge access, competence, safety, function authority, output conformity, commercial standing, tax/debt obligations and intellectual-property permission so that one administrative gate does not silently become general economic sovereignty.
+
+> **Open Legitimate Entry Where Possible; Gate The Consequential Function Only Where Independently Justified**
+
+> **Functional Qualification != Market Protection**
+
+> **Licence Purpose != General Enforcement Authority**
+
+The architecture is intentionally narrower than a complete IP regime and is not yet a portable module. Cross-domain transfer testing is required before further generalisation.
