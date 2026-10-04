@@ -233,3 +233,23 @@ Existing Concord is sufficient to establish the shape and limits of exceptional 
 **Evidence/Concern -> Immediate Safety Question -> Capacity/Support Question -> Function Identification -> Independent Authority Keys -> Minimum Necessary Action -> Continuous Reassessment -> Independent Review Where Required -> Authority Contraction -> Ordinary Participant Authority Restoration**
 
 The next development should focus first on self-harm/suicide, competent refusal and emergency protective authority, because that boundary determines how much of the remaining exceptional architecture can be derived rather than invented.
+
+## 28. Contextual protective intervention envelopes
+
+The self-harm branch has now been refined through:
+
+`02_Domains/13_Health/Self-Harm and Suicide — Contextual Protective Intervention Envelopes 001.md`
+
+This imports the structural method already used by Self-Defence and Bounded Authorisation: authority is predefined as far as reasonably possible as a contextual relation, while current facts determine whether its predicates are satisfied.
+
+Candidate bands SH-0 through SH-6 distinguish no current signal, distress/thoughts, elevated developing risk, imminent risk with ordinary authority still obtainable, imminent grave harm with a genuine temporary authority gap, post-interruption/stabilised reassessment, and the unresolved competent/sustained grave-self-harm envelope.
+
+> **Risk Label != Authority Envelope**
+
+> **Failure Of A Less Restrictive Intervention != Automatic Authority To Escalate**
+
+> **Protective Authority Must Be Able To Move Down As Well As Up**
+
+> **Envelope Classification != Blanket Permission**
+
+The next operational artefact should be a protective-action matrix mapping each envelope to separate assessment, disclosure, transport, detention/location, treatment, restraint, search/seizure and review authority keys.
