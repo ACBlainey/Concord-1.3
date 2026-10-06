@@ -1,6 +1,6 @@
 # Culture and Civic Life
 
-**Status:** DOMAIN ESTABLISHED / ARCHITECTURE LARGELY UNDEVELOPED
+**Status:** BASIC OPERATING ARCHITECTURE INTEGRATED / ACTIVE DEVELOPMENT
 
 ## Persistent function
 
@@ -36,3 +36,31 @@ Key distinctions:
 - Historical Preservation != Continuing Distribution Permission.
 
 The architecture reuses Commerce for exchange, Historical for temporal custody, Contextual Wrapper for venues/spaces, Civil Attention for concerns and existing provenance/privacy architecture rather than duplicating them.
+
+
+## Basic operating architecture
+
+`Culture and Civic Life — Basic Operating Architecture 001.md`
+
+Source resolution shows that the domain already had substantial foundations in Peaceful Heterogeneity, Contextual Wrapper Architecture, cultural-works infrastructure and related Research. These have now been expressed as a living domain architecture without moving or deleting the Research lineage.
+
+The central operating position is authority-light:
+
+> **Civil Coexistence Requires Rules For How Participants May Treat One Another; It Does Not Require One Approved Culture.**
+
+Core distinctions include:
+- Difference != Harm.
+- Cultural Infrastructure != Cultural Authorship.
+- Freedom To Associate != Authority To Compel Association.
+- Peaceful Distance != Civic Failure.
+- Cultural Expertise != Civil Sovereignty.
+- Tradition != Automatic Authority Over Present Participants.
+- Interoperability != Homogenisation.
+- Civic Participation != Price Of Personhood.
+- Cultural Prevalence != Exclusive Claim To Shared Space.
+- Historical Record != Authority To Freeze Living Culture.
+- Human Cultural Familiarity != Universal Cultural Baseline.
+
+The domain now connects voluntary cultural creation, association, distinct cultural contexts, respectful distance, tradition/evolution, civic participation, public/shared spaces, cultural conflict routing, discovery/distribution and cross-substrate heterogeneity.
+
+Major unresolved work remains around cultural commons, public support/allocation, heritage claims involving living communities, language/translation, public events, sport/recreation and adversarial cultural-conflict testing.
