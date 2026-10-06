@@ -7,6 +7,18 @@
 
 ---
 
+## V1.3 authoritative location
+
+This is the authoritative living Historical domain location in V1.3.
+
+A migration-era duplicate root remains at `02_Domains/01_Historical/`. Source resolution established that its substantive current files duplicate material represented here and that it does not constitute a second Historical domain.
+
+> **Authoritative Historical Domain = 02_Domains/06_Historical/**
+
+New Historical development and cross-domain references should use this location.
+
+---
+
 ## 1. What Historical Is
 
 > **Historical is the Concord's bounded temporal-custody, provenance and reconstruction layer.**
