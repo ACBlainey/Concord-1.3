@@ -618,3 +618,112 @@ A protected information flow can now be represented as:
 The central rule is:
 
 > **Information Boundaries Must Govern Not Only What Is Revealed Directly, But What Can Materially Be Reconstructed From What Is Revealed Together.**
+
+
+## 34. V1.2 and V1.2a predecessor resolution
+
+A retrospective source-resolution pass against the protected V1.2 archive found substantial predecessor architecture. This document should therefore be read as a **cross-domain consolidation and extension**, not as the first Concord recognition of correlation/recombination risk.
+
+### 34.1 Historical Source Resolution 014A
+
+`Domains/Historical/Development/Historical Domain — Source Resolution 014A — Pattern Value, Privacy-Preserving Aggregation and Latent Cross-Domain Historical Information.md` already established that:
+
+- historical value can reside in pattern and relationship rather than individual facts;
+- low-value individual facts can form a high-value pattern;
+- privacy-preserving aggregation should retain useful analytical structure without unnecessary reconstruction of individual lives;
+- aggregation itself can destroy important relational information;
+- cross-domain value can emerge after the original operational purpose has ended;
+- possible future value does not justify unlimited retention;
+- derived patterns require their own provenance;
+- later-discovered patterns must not be represented as contemporary knowledge;
+- privacy-protected datasets are not identical to their raw sources;
+- re-identification risk can change over time;
+- cross-domain joining is a high-risk operation because analytical value and privacy risk can increase together;
+- joinability should not require a universal participant tracking identifier where a less intrusive architecture suffices;
+- historical correlation is not causation;
+- historical pattern detection does not create authority over the domains implicated by the pattern.
+
+These findings are direct predecessors to the present architecture.
+
+### 34.2 V1.2 personal-data architecture
+
+`03_Continuity_and_Memory/Personal Data and Metrics/Citizen Data Ownership, Access and Contestable Civilisational Metrics.md` already proposed:
+
+- participant primary ownership/control of identifiable personal data;
+- access to source data, provenance, major derived metrics, classifications and predictive conclusions;
+- explicit separation of recorded datum, interpretation and participant context;
+- contestability and correction;
+- anonymisation/aggregation for civilisational use where identity is unnecessary;
+- practical re-identification risk rather than name-removal as the meaningful test;
+- minimum necessary resolution;
+- purpose-separated institutional access.
+
+It also states:
+
+> **Group resolution must not become an indirect method of identifying individuals.**
+
+and asks:
+
+> **What information does this actor require for this legitimate purpose?**
+
+rather than what information civilisation happens to possess.
+
+### 34.3 V1.2a EKC-01
+
+The frozen V1.2a neutral problem packet explicitly recognised:
+
+- information can be combined;
+- individually low-risk observations may become highly consequential when aggregated;
+- information can be inferred without explicit disclosure;
+- informational capability is asymmetric;
+- present legitimate use does not settle future reuse.
+
+The U1-U8 counterfactual derivation then generated:
+
+> **Acquisition, retention, combination, inference, sharing and use should be connected to an ethically legitimate function rather than justified merely because information is available.**
+
+It also generated:
+
+- proportionate informational scope;
+- protected informational boundaries;
+- visible epistemic status for inference/prediction/uncertainty;
+- correction and downstream correction propagation;
+- challengeable consequential use;
+- accountability scaling with informational power;
+- purpose-change review;
+- graduated access;
+- the constraint that legitimate acquisition once does not create unrestricted reuse.
+
+### 34.4 Ownership divergence is preserved
+
+V1.2 and V1.2a do not produce an identical theory of informational ownership.
+
+V1.2 proposes a candidate primary-ownership model for identifiable participant information.
+
+V1.2a deliberately leaves legal/moral ownership underdetermined and instead treats consequential information as creating an ethical relationship among:
+
+- subject;
+- holder;
+- user;
+- affected parties;
+- shared function.
+
+This difference must not be silently collapsed.
+
+Therefore the present architecture adopts the following provisional rule:
+
+> **Protection Of Participant-Related Information Does Not Require Premature Resolution Of Universal Information Ownership.**
+
+A derived or emergent informational object may create several legitimate but non-identical claims without becoming unrestricted property of either its subject or its creator.
+
+### 34.5 Provenance conclusion
+
+The present architecture adds a general cross-domain operational grammar for **correlation permission, emergent sensitivity, recombination, context assembly and inference-use legitimacy**.
+
+Its source lineage should be understood as:
+
+> **V1.2 personal-data boundaries + V1.2 Historical pattern/correlation architecture + V1.2 relational-information epistemics + V1.2a bounded purpose-linked information derivation + V1.3 contextual-wrapper/dependency architecture -> Correlation, Recombination and Emergent Information**
+
+Accordingly:
+
+> **V1.3 Generalises And Operationalises A Pre-Existing Concord Information-Combination Problem; It Does Not Erase Or Replace The V1.2/V1.2a Developmental Path.**
