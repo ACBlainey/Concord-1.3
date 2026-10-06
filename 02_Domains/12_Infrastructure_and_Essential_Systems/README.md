@@ -1,6 +1,6 @@
 # Infrastructure and Essential Systems
 
-**Status:** PARTIAL / SYSTEM GAPS
+**Status:** BASIC OPERATING ARCHITECTURE INTEGRATED / ACTIVE DEVELOPMENT / SYSTEM-SPECIFIC GAPS
 
 ## Persistent function
 
@@ -59,3 +59,40 @@ Key distinctions:
 - Network Continuity != Node Permanence.
 
 The architecture treats electricity, water, gaseous/fuel flows and heat as resource-specific networks requiring different engineering rules while sharing a common bounded-interface grammar.
+
+
+## Integrated operating architecture
+
+`Infrastructure and Essential Systems — Integrated Operating Architecture 001.md`
+
+Source resolution shows that this domain already contained several mature partial systems rather than being merely sparse:
+
+- Local-First Bidirectional Utility Mesh;
+- Infrastructure Lifecycle, Planned Decommissioning and Successor-Service Transition;
+- Infrastructure Lifecycle Adversarial Test;
+- cross-domain Participant-Supporting Infrastructure reconciliation;
+- Layer-Zero predictive system-steering and resilience constraints.
+
+The integrated architecture now connects these into one domain lifecycle:
+
+**Need / Required Function → Service Requirement → Dependency Mapping → Architecture / Capacity / Redundancy → Deployment → Operation → Maintenance / Adaptation → Degraded Operation / Recovery → Continue / Replace / Transform / Retire → Successor-Service Transition → Decommission / Resource Recovery → Historical / Technological Lineage**
+
+Core distinctions include:
+
+> **Infrastructure Function != Current Infrastructure Asset**
+
+> **Infrastructure Class != Dependency Severity**
+
+> **Operational Today != Sustainably Maintainable**
+
+> **Degraded != Failed**
+
+> **Asset Restart != Service Recovery**
+
+> **Infrastructure Observation Of Scarcity != Universal Allocation Authority**
+
+> **Successor Exists != Successor Ready**
+
+> **Shutdown != Complete Decommissioning**
+
+The domain remains incomplete at service-specific engineering level, particularly transport, communications, civil compute, settlement-scale life support, finance, ownership/stewardship and scarcity-priority interfaces.
