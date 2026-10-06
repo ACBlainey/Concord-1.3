@@ -1,27 +1,27 @@
-# Ratchet V4
+# Ratchet V4 — Legacy Migration Pointer
 
-This folder contains the **current canonical development version of the Ratchet system** within the Concord.
+**Status:** LEGACY V1.3 MIGRATION/PROVENANCE LOCATION / NON-AUTHORITATIVE
 
-Ratchet is a general coordination architecture concerned with participation, contribution, evidence, provenance, contextual trust, reciprocity, exchange, and optional economic mechanisms.
+This folder remains only because the V1.3 migration produced a legacy Economy/Resource Coordination root containing a Ratchet pointer.
 
-## Current Version
+The current canonical Ratchet architecture is:
 
-**Ratchet V4.2 — Canonical Integrated Architecture**
+`03_Cross_Domain_Architecture/Ratchet_General_Coordination/Ratchet V4.2 — Canonical Integrated Architecture.md`
 
-V4.2 consolidates the substantive ideas developed through earlier Ratchet versions and related papers into a single current architecture.
+Current Economy and Commerce development is located under:
 
-Earlier versions and source papers have been removed from Concord V1.1 to avoid duplication. They remain preserved in the original **Concord V1 repository** as part of the project's development and provenance record.
+`02_Domains/06_Economy_and_Value_Coordination/`
 
-## Status
+## Architectural resolution
 
-**ACTIVE / CANONICAL DEVELOPMENT VERSION**
+Ratchet is a **general coordination architecture** with economic applications. It is not owned by the legacy Economy root.
 
-Canonical means **the current working architecture**, not a final or permanently fixed specification.
+> **General Coordination != Economy Domain Ownership**
 
-Ratchet remains subject to testing, criticism, revision, and further development as part of the Concord's recursive development process.
+> **Legacy Location != Current Architectural Ownership**
 
-## Evidence and Validation
+Do not develop Ratchet here.
 
-Ratchet V4.2 is an architectural proposal rather than an empirically validated system.
+Do not treat this folder as containing the current canonical architecture.
 
-Adversarial analysis and an experimental validation programme have been developed separately. Further empirical testing is intentionally deferred while the other major Concord operational systems are brought to a comparable level of consolidation.
+This pointer is retained non-destructively for migration/provenance reconciliation.
