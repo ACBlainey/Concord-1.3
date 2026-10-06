@@ -1,36 +1,55 @@
-# Historical
+# Historical — Legacy V1.3 Migration/Provenance Root
 
-**Status:** ESTABLISHED / SUBSTANTIAL ARCHITECTURE
+**Status:** LEGACY V1.3 MIGRATION ROOT / NON-AUTHORITATIVE DOMAIN LOCATION / DO NOT DEVELOP HERE
 
-## Persistent function
+## Purpose
 
-This domain preserves interpretable civilisational state across time: consequential past states, provenance, relationships, dependencies, uncertainty and authority context.
+V1.3 currently contains two Historical-labelled domain roots.
 
-## V1.3 construction state
+Source resolution on 6 October 2026 established that the authoritative living Historical domain is:
 
-This README establishes the domain boundary and current maturity honestly. Existing V1.2 architecture will be migrated only after source resolution identifies the current authoritative form. Missing architecture will not be inferred merely to populate this folder.
+`02_Domains/06_Historical/`
 
-> **Folder Existence != System Completion**
+That location contains the complete graduated architecture, including:
+- Formal Domain Specification v0.3;
+- Formal Schema Set 002;
+- Foundations/Synthesis material;
+- validation and conformance tests;
+- Development Graduation Review;
+- participant civil-record development;
+- genomic custody and research interface;
+- civil historical access architecture.
 
-**Naming status:** CURRENT ARCHITECTURAL NAME / CORRIGIBLE
+This `02_Domains/01_Historical/` root contains migration-era copies of a subset of that material.
 
+## Duplicate verification
 
-## Genomic record interface
+The following files in this root are byte-identical to their counterparts in `02_Domains/06_Historical/` at the time of source resolution:
 
-Historical provides protected continuity/provenance custody for durable participant genomic information while Health owns participant-specific clinical interpretation and use.
+- `Historical Domain — Formal Domain Specification v0.3.md`
+- `Historical Domain — Formal Schema Set 002 — Core Objects and Interfaces.md`
+- `Participant Civil Record and Lifecycle Archival Architecture — Development Note 001.md`
 
-The current Health-side architecture is:
+Their matching Git blob identities confirm they are duplicate copies, not divergent architectures.
 
-`02_Domains/13_Health/Genomic Health Record and Private Local Knowledge Matching 001.md`
+The Humanity Machine note is also represented in the authoritative Historical domain.
 
-The preferred privacy model distributes validated bounded genomic questions into protected participant records rather than centrally searching genomes for participant identities.
+## Architectural ownership
 
-> **Genomic Custody != General Genomic Access**
+> **Historical Domain Authority Location = 02_Domains/06_Historical/**
 
-> **Removal Of Name != Genomic Anonymisation**
+> **Legacy Location != Current Architectural Ownership**
 
-> **Research Knowledge About A Variant != Authority To Search Participants For That Variant**
+Do not add new Historical development here.
 
-> **Health Genome != General Forensic Database**
+Do not treat duplicated files here as a second Historical domain.
 
-Exact shared-custody/archival implementation remains to be formalised.
+Cross-domain references should target `02_Domains/06_Historical/`.
+
+## Why this root remains
+
+This root is retained non-destructively as V1.3 migration/provenance residue until repository housekeeping explicitly authorises removal or archival relocation.
+
+Its continued presence must not be interpreted as architectural plurality.
+
+> **Duplicate Preservation For Provenance != Duplicate Operational Authority**
