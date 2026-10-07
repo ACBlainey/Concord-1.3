@@ -220,6 +220,60 @@ Whether recovery should affect parole, review or mitigation is a later sentencin
 
 ---
 
+## 11A. Post-sentence handoff to existing Mental Health authority
+
+Where a custodial sentence expires, the criminal/punitive authority created by that sentence expires with it.
+
+If the participant is still considered to present a serious mental-health-related danger, continuing detention must not be justified by extending, relabelling or informally continuing the expired sentence.
+
+Instead, the case passes to the **existing Concord Mental Health Exceptional Authority architecture**.
+
+Candidate handoff:
+
+**Custodial Sentence Active**  
+→ **Sentence Authority Governs Custody**  
+→ **Sentence Expires**  
+→ **Punitive Authority Terminates**  
+→ **Independent Mental-Health Authority Test**  
+→ **If Existing Threshold Is Satisfied: Mental-Health BCA Governs**  
+→ **If Threshold Is Not Satisfied: No Continuing Detention Authority From The Expired Sentence**
+
+The existing Mental Health architecture retains its own safeguards, including its established requirements concerning legitimate purpose, necessity, proportionality, bounded authority, review and termination/re-justification. Law should not create a weaker post-conviction version of those safeguards.
+
+A previous offence, sentence, custodial history or evidence arising from them may remain relevant evidence when assessing current state and risk. They do not themselves supply present authority.
+
+> **Past Conviction != Continuing Detention Authority.**
+
+> **Expired Sentence != Residual Punitive Authority.**
+
+> **Criminal History May Inform Evidence; It Does Not Lower The Mental-Health Authority Threshold.**
+
+> **Sentence Expiry != Automatic Release From Independently Justified Mental-Health Authority.**
+
+> **Mental-Health Authority After Sentence Requires Independent Present Justification.**
+
+The participant should not become a permanently exceptional legal class merely because criminal authority once applied.
+
+Once punitive authority ends, any continuing mental-health intervention must be justified through the same applicable Mental Health architecture and safeguards used to determine legitimate intervention for participants generally.
+
+### Incorporation requirement
+
+This handoff should be incorporated into the authoritative Mental Health architecture when that domain is next developed or consolidated.
+
+The Mental Health-side incorporation should explicitly recognise:
+
+1. receipt of a participant at expiry of criminal custodial authority;
+2. no automatic continuation of detention;
+3. independent application of the ordinary Mental Health Exceptional Authority threshold;
+4. criminal/custodial history as potentially relevant evidence but not an authority source;
+5. no lowered threshold because of prior conviction;
+6. ordinary Mental Health safeguards, review and sunset;
+7. clear provenance showing that the continuing authority is mental-health/protective authority rather than residual punishment.
+
+This Law document records the interface requirement; it does not duplicate or replace the Mental Health authority architecture.
+
+---
+
 ## 12. Aggravation and mitigation can coexist
 
 A case may establish:
