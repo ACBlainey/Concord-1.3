@@ -11,7 +11,11 @@
 
 ## 1. Purpose
 
-This document derives the basic lifecycle of a Concord judicial matter before assuming a particular court hierarchy.
+This document provides a compact operational state map and cross-domain interface for the much larger existing Judiciary architecture. It is subordinate to, and must be read with, `Judiciary V2 Canonical.md`; it does not replace or supersede the canonical source.
+
+Source resolution performed after this document's initial creation confirmed that Judiciary V2 already contains substantial architecture for case procedure, standing, jurisdiction, evidence, representation, hearings, remedies, enforcement, appeals, court topology, administration, triadic adjudication, constitutional review and judicial failure/correction. Where this compact map conflicts with or appears less developed than Judiciary V2, the canonical source controls unless a later reconciled architecture explicitly changes that position.
+
+The purpose here is therefore to expose the common lifecycle and interfaces in a compact form, not to infer absence from the size or organisation of the canonical source.
 
 The design principle is:
 
@@ -1045,50 +1049,45 @@ Any default mechanism must consider:
 
 ## 77. Court topology
 
-Still unresolved:
-- single general court vs specialist divisions;
-- local vs central levels;
-- first-instance/appeal structure;
-- constitutional review location.
+**SOURCE-RESOLVED: CANDIDATE ARCHITECTURE ALREADY EXISTS.**
 
-Derive after functional workload is clearer.
+Judiciary V2 already proposes judicial subsidiarity with local courts, regional courts, civilisation-level courts, an ordinary final appellate court, and a distinct Constitutional Court. It also develops jurisdictional routing, case allocation and distributed/future court forms.
+
+The remaining work is not to invent topology from an empty state. It is to validate, reconcile and operationalise the existing candidate topology, including exact first-instance routing, specialist divisions, transfer rules, workload, capture resistance and implementation.
 
 ---
 
-## 78. Judge / panel / jury
+## 78. Adjudicator composition / jury interface
 
-Still unresolved:
-- professional adjudicator;
-- citizen jury;
-- mixed panel;
-- AI participation/advice;
-- specialist assessors.
+**PARTIALLY SOURCE-RESOLVED.**
 
-Do not assume historical forms are optimal.
+Judiciary V2 already contains a substantial Triadic Decision Making architecture and a 3×3 Recursive Triadic Constitutional Court, together with judicial-steward qualification, AI assistance/participation questions and specialist expertise interfaces.
+
+What remains genuinely unresolved includes the role, if any, of citizen juries in ordinary adjudication; the boundary between professional Judicial Stewards, citizen fact-finders, specialist assessors and AI assistance; and which case classes justify which composition.
+
+Do not treat the existence of historical jury forms as proof they are optimal, but do not describe adjudicator architecture as absent.
 
 ---
 
-## 79. Standards of proof
+## 79. Standards and burdens of proof
 
-Need dedicated derivation across:
-- criminal;
-- civil;
-- protective;
-- administrative;
-- interim orders.
+**PARTIALLY SOURCE-RESOLVED / GENUINE OPEN IMPLEMENTATION QUESTION.**
+
+Judiciary V2 already establishes that different judicial questions may require different evidential burdens and that consequence, rights, reversibility, institutional role and asymmetric false-positive/false-negative risk are relevant. It deliberately leaves detailed burden architectures for further development. The Law domain separately develops prosecution-threshold sufficiency and distinguishes that threshold from final adjudicative standards.
+
+Remaining work is therefore to derive/calibrate stage- and consequence-appropriate standards without pretending no prior architecture exists and without automatically importing conventional labels such as `balance of probabilities` or `beyond reasonable doubt`.
 
 ---
 
 ## 80. Prosecution architecture
 
-Need:
-- referral threshold;
-- independence;
-- automatic prosecution principle;
-- discretion boundaries;
-- withdrawal;
-- disclosure;
-- review.
+**SOURCE-RESOLVED: SUBSTANTIAL V1.3 ARCHITECTURE ALREADY EXISTS.**
+
+See `02_Domains/09_Law/Prosecution Threshold and Evidential Sufficiency — Initial Architecture 001.md`, `Independent Prosecution Function — Referral, Threshold and Adjudication Handoff 001.md`, its scenario stress test, and the Judiciary evidentiary/fiduciary reconciliation papers.
+
+Existing architecture already covers referral versus prosecution threshold, independent threshold assessment, whole evidential state, ordinary automaticity once threshold is met subject to explicit lawful exceptions, evidential change and authority sunset, disclosure/truth duties, return for bounded further investigation, and handoff to Judiciary.
+
+Remaining work is validation, procedural implementation and reconciliation—not first-principles invention.
 
 ---
 
@@ -1176,9 +1175,9 @@ The architecture establishes:
 
 **Matter → Standing → Jurisdiction → Case → Notice → Preliminary Review → Evidence/Disclosure → Adjudication → Finding → Consequence/Remedy → Appeal/Review → Enforcement → Closure/Historical Custody**
 
-The next derivation should focus on **Epistemic Standards and Burdens of Proof**.
+Source resolution after this document's initial creation materially changes the development order. **Court topology and prosecution architecture are not absent; both already have substantial source architecture.** The next step should therefore be a Judiciary source-resolution/reconciliation audit before any new derivation.
 
-That question must be resolved before court topology because it determines how different judicial functions distinguish:
+A genuine remaining question is **Epistemic Standards and Burdens of Proof**, but it should be developed only after reconciling Judiciary V2's existing burden/error architecture with the newer prosecution, evidentiary-completeness, fiduciary and MRT work. That question concerns how different judicial functions distinguish:
 - suspicion;
 - investigation threshold;
 - prosecution threshold;
