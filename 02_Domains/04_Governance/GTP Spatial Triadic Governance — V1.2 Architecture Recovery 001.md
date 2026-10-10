@@ -1274,3 +1274,34 @@ The central recovered/clarified model is:
 
 > **The Concord Governance Topology Is A Mesh Of Bounded Triadic Stewardship Contexts, Using GTP As A Persistent Spatial Coordination Lattice, Capable Of Legitimate Action At Any Appropriate Scale Or Overlapping Combination Of Scales Without Creating A Default Hierarchy Of Territorial Sovereignty.**
 
+
+
+## Terminology rule - parent/child reserved for GTP spatial abstraction
+
+**Parent** and **child** terminology is reserved for the mathematical/spatial containment relationship between GTP triangles at different geometric resolutions.
+
+It should not be used to describe governance authority, institutional rank or political relationships.
+
+Thus:
+- a **parent GTP triangle** is simply the coarser geometric triangle containing a finer triangle;
+- a **child GTP triangle** is simply one of the four finer geometric subdivisions of a coarser triangle;
+- neither term implies superior/subordinate governance.
+
+Governance documents should instead name the actual relationship, for example:
+- local governance context;
+- neighbouring governance context;
+- finer-resolution governance context;
+- coarser-resolution governance context;
+- cross-resolution coordination;
+- wider-area coordination;
+- functional coordination;
+- expanded decision field;
+- constitutional review;
+- temporary authority expansion.
+
+> **Parent/Child = Spatial Abstraction Relationship Only.**
+
+> **Spatial Containment Language Must Not Be Used As Governance-Rank Language.**
+
+Historical source material using parent/child, higher/lower or upward/downward terminology for governance should be interpreted by function and context before being carried into reconstructed Governance.
+
