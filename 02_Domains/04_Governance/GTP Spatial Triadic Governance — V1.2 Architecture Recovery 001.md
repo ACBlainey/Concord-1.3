@@ -545,6 +545,105 @@ GSG-22 **Evidence Production != Decision Authority.**
 
 ---
 
+
+## 19A. Steward selection source-resolution — V1 through V1.2
+
+A focused source-resolution of V1, V1.1 and V1.2 does **not** support the claim that Concord had already settled a universal Steward-selection mechanism such as ordinary popular election, sortition, appointment by a superior ruler, or permanent territorial office.
+
+What the source corpus does establish strongly is the architecture surrounding selection:
+
+**Candidate / potential Steward**  
+→ **relevant competence and suitability**  
+→ **selection**  
+→ **appointment**  
+→ **defined mandate**  
+→ **active bounded authority**  
+→ **monitoring / audit**  
+→ **rotation / continuation**  
+→ **recall / suspension / removal where justified**  
+→ **succession**  
+→ **new mandate**
+
+V1 also establishes that:
+- appointment delegates authority; it does not create personal ownership of authority;
+- mandate must precede legitimate exercise;
+- conflict may require recusal, delegation or transfer;
+- rotation reduces entrenchment but must preserve institutional memory;
+- succession must be predetermined for significant governance positions;
+- emergency succession must not silently become permanent appointment;
+- dissent from a triadic majority is not itself grounds for recall;
+- individual Steward authority remains subordinate to the collective triadic architecture;
+- routine action inside an existing mandate need not receive a fresh triadic vote;
+- material action outside the mandate returns to a legitimate collective/authority process.
+
+### Election boundary
+
+V1.2 Historical Source Resolution 016 is particularly important. It found strong architecture for attributable Steward voting but explicitly found **no complete dedicated secret-ballot or public-election architecture** and listed the **actual Concord election mechanism** as unresolved.
+
+Therefore:
+
+> **Triadic Governance Vote != Public Election.**
+
+> **Steward Selection != Presumed Popular Election.**
+
+> **Absence Of A Settled Selector Must Not Be Filled By Importing Conventional Electoral Assumptions.**
+
+A future civil ballot architecture may legitimately participate in Steward selection if separately established, but it cannot be retroactively treated as the original source of Steward authority.
+
+### Qualification and later V1.3 development
+
+Later V1.3 architecture strengthens the distinction between:
+- participation;
+- qualification;
+- eligibility;
+- allocation/appointment;
+- authority.
+
+This should be used to refine the unresolved V1 selection boundary rather than overwrite V1's triadic governance architecture.
+
+Candidate combined chain:
+
+**Participation / Standing**  
+→ **Function-Specific Qualification**  
+→ **Current Eligibility / Conflict / Suitability**  
+→ **Legitimate Selection / Allocation Mechanism**  
+→ **Triadic Appointment Decision Where Practicable**  
+→ **Mandate**  
+→ **Office / Bounded Authority**
+
+The exact **selection/allocation mechanism** remains open pending further source resolution and testing.
+
+---
+
+## 19B. GTP terminology and governance significance
+
+The preserved GTP specification explicitly calls the eight base octahedral faces the **L0 Triads (Layer 0)**.
+
+It further states that GTP is intended to support organisation:
+
+> from planetary governance to individual stewardship.
+
+This reinforces that triangular recursion and governance were conceptually linked.
+
+However, geometric use of the term **Triad** must not by itself be conflated with a three-Steward decision body.
+
+Therefore:
+
+> **GTP Geometric Triad != Automatically A Three-Steward Governance Triad.**
+
+The important recovered relationship is structural:
+
+**recursive triangular spatial context + recursive triadic governance decision architecture**
+
+The exact mapping between:
+- a GTP triangle;
+- its participants;
+- its active governance function;
+- and the three Stewards constituting a decision triad
+
+still requires explicit source resolution or later architectural completion.
+
+
 ## 20. Recovery status
 
 ### Recovered with strong existing source support
