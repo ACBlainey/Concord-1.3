@@ -40,3 +40,14 @@ See:
 - `GTP Spatial Triadic Governance — V1.2 Architecture Recovery 001.md`
 
 This warning is a reconstruction/migration status notice. It does not make V1 globally authoritative over later valid developments; later architecture must be retained and reconciled rather than overwritten.
+
+
+## Shared Stewardship selection/allocation dependency
+
+Governance Steward selection and allocation is a dependency of the shared cross-domain development architecture:
+
+`03_Cross_Domain_Architecture/Stewardship_Selection_and_Allocation/README.md`
+
+Governance should define the competence, eligibility, GTP/spatial or functional representation requirements, mandate and jurisdiction of its Stewards, but should **not independently invent a final selector mechanism**.
+
+The recovered V1 triadic governance architecture remains controlling source material for the governance decision unit. The shared selection/allocation work must eventually determine how eligible Stewards are constituted into legitimate governance offices and triads without allowing the selector to own the resulting authority.
