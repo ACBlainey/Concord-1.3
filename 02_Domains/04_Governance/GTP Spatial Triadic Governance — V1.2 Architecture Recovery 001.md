@@ -1083,3 +1083,43 @@ The exact:
 
 remain **OPEN DEVELOPMENT QUESTIONS**.
 
+
+
+## Clarification — persistent conceptual GTP lattice — 10 October 2026
+
+GTP is a **conceptual recursive spatial framework**. Every geometric layer and every child triangle exists continuously as part of the addressing/tessellation system.
+
+Governance does not create child triangles by subdividing, nor destroy them by consolidating.
+
+This is analogous to map grids at different scales: the underlying spatial relationships remain available regardless of which resolution is appropriate for the task at hand.
+
+Therefore the more precise terminology is:
+
+**Persistent full GTP lattice**  
+→ **select task-appropriate GTP resolution/context**  
+→ **apply the relevant governance/epistemic/infrastructure/etc. function at that resolution**
+
+For governance:
+
+**sustained workload exceeds effective capacity at current governance resolution**  
+→ **select finer pre-existing GTP resolution for governance responsibility**
+
+and:
+
+**sustained workload no longer requires fine governance resolution**  
+→ **select a coarser pre-existing GTP resolution where competent**
+
+Thus:
+
+> **GTP Subdivision Is Conceptual Geometry, Not An Administrative Event.**
+
+> **All GTP Parent And Child Triangles Always Exist.**
+
+> **Governance Resolution Change != Creation Or Destruction Of GTP Regions.**
+
+> **Governance Activation Selects A Resolution; It Does Not Alter The GTP Lattice.**
+
+Earlier references in this recovery work to triangles being “created”, “becoming available”, or geometric units being “consolidated” should be read as shorthand for **governance activation/reallocation across already-existing GTP resolutions**, not alteration of GTP itself.
+
+The hysteresis requirement therefore applies to **changes in active governance resolution**, not to the existence of geometric tessellation.
+
