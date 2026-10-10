@@ -32,3 +32,11 @@ Source: local `Governance V2 Canonical (1).md`. Source segmentation performed at
 - Section 20: Chapter 198 (jurisdiction)
 
 **Next:** transfer individual complete source sections, then create source-preserving clause-placement drafts and verify original-text equality for each.
+
+## Repository transfer update — 11 October 2026
+
+**20 of 22 source-preserving section files committed**, covering 195 original chapters. Successfully committed source sections: **01, 04, 05, 06, 08, 09, 10, 11, 12, 13, 14, 15, 16, 18, 19, 20, 21, 22**, in addition to the existing full Working Assemblies for **02 and 03**. Source-only versions of Sections 02 and 03 remain available in the local ZIP; the GitHub Working Assemblies contain original chapters plus clearly labelled annexes.
+
+**Not committed:** Section **07** (Chapters 61–70) and Section **17** (Chapters 161–170). Transfer attempts were blocked; do not claim those full files are in GitHub. They remain present in the local complete 22-section ZIP.
+
+Each successful new transfer was checked for the expected consecutive chapter headings. The repository content may have newline-normalisation differences from the local SHA-256 manifest; **byte-for-byte equivalence has not been established for every transfer**. No original V2 canonical file has been modified.
