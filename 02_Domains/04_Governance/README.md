@@ -120,3 +120,27 @@ Governance documents should instead name the actual relationship, for example:
 
 Historical source material using parent/child, higher/lower or upward/downward terminology for governance should be interpreted by function and context before being carried into reconstructed Governance.
 
+
+
+## Reconstruction rule - mesh governance terminology
+
+The Governance reconstruction must not reproduce a conventional territorial command hierarchy through inherited terminology.
+
+Use:
+- **parent/child** only for GTP geometric containment;
+- **finer/coarser resolution** for GTP scale;
+- **narrower/wider consequence context** for problem scope;
+- **neighbouring / lateral coordination** for adjacent-context cooperation;
+- **cross-resolution coordination** where multiple GTP resolutions interact;
+- **functional escalation** where a different function possesses necessary competence/authority;
+- **constitutional escalation/review** for constitutional questions;
+- **authority expansion** only where additional authority is independently justified.
+
+Avoid using **higher/lower government** or **upward/downward authority** where the actual relationship can be stated precisely.
+
+The default topology is:
+
+> **Mesh Coordination, Not Territorial Command Hierarchy.**
+
+The V1 principle of the “lowest competent level” should be reconstructed as the **minimum competent governance context / minimum competent governance scope**, preserving decentralisation without implying that spatial abstraction defines political rank.
+
