@@ -73,6 +73,30 @@ Key rule:
 
 > **GTP Spatial Context != Complete Governance Jurisdiction.**
 
+### G-R02A — Adaptive GTP Triadic Steward Representation
+
+Author clarification of the original design resolves the intended spatial mapping:
+
+**One active GTP governance triangle → three Steward offices → one triadic governance unit.**
+
+Each vertex represents one Steward office as a governance abstraction. Physical office location is not fixed to the vertex; all three Stewards may operate from one suitable government facility within the triangle.
+
+GTP tessellation size is adaptive rather than fixed-area. Appropriate resolution depends upon effective governance workload, potentially including population, resources, infrastructure, activity, complexity and decision volume.
+
+Thus:
+- sparse/low-workload territory may use very large governance triangles;
+- dense/high-workload metropolitan territory may require small triangles;
+- population alone does not determine scale;
+- high-consequence infrastructure/resource contexts may justify finer resolution despite low population.
+
+> **GTP Vertex != Physical Office Address.**
+
+> **GTP Triangle Area != Fixed Territorial Quota.**
+
+> **Tessellation Resolution Should Track Effective Governance Workload.**
+
+Exact subdivision/consolidation thresholds remain future development work.
+
 ### G-R03 — Triadic Governance Decision Protocol
 
 Recover:
