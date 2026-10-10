@@ -1175,3 +1175,102 @@ Where mandates overlap materially, the system should identify the function, cons
 
 > Multiple Active Resolutions != Multiple Unlimited Authorities.
 
+
+
+## Author clarification - GTP governance as mesh coordination - 10 October 2026
+
+The preferred governing abstraction is **mesh governance**.
+
+GTP should not be interpreted as a territorial hierarchy in which each finer governance unit is politically subordinate to a larger containing unit.
+
+At most, the GTP governance overlay provides a **coordination system** through which legitimate governance functions can operate at the spatial scale, combination of scales, or overlapping contexts appropriate to the matter.
+
+The architecture therefore supports:
+- action at fine local resolution;
+- action at broad spatial resolution;
+- simultaneous action at multiple resolutions;
+- lateral coordination among neighbouring contexts;
+- coordination across non-identical resolutions;
+- overlapping spatial and functional contexts;
+- temporary expanded decision fields;
+- broader coordination without permanent centralisation.
+
+A useful representation is:
+
+**Persistent GTP Spatial Mesh**
++
+**Function-Bounded Triadic Stewardship**
++
+**Context-Specific Coordination**
+=
+**Scale-Selectable Mesh Governance**
+
+### Coordination rather than sovereignty
+
+A coarser GTP context does not own its finer contexts.
+
+A finer GTP context does not possess exclusive authority over every matter occurring inside its spatial footprint.
+
+A neighbouring context does not gain authority merely through adjacency.
+
+Instead, the relevant governance configuration is assembled or selected according to the legitimate function and material consequence topology of the matter.
+
+Therefore:
+
+> **GTP Provides Coordination Topology, Not A Sovereignty Hierarchy.**
+
+> **Containing Triangle != Political Superior.**
+
+> **Contained Triangle != Political Subordinate.**
+
+> **Larger Scale != Greater Inherent Authority.**
+
+> **Finer Scale != Exclusive Local Sovereignty.**
+
+> **Overlap != Jurisdictional Failure.**
+
+### Action at any appropriate scale
+
+Because every GTP resolution always exists, a legitimate governance function may operate at whichever resolution best matches its actual consequence area and competence requirements.
+
+Where no single triangle adequately represents the problem, multiple GTP contexts may coordinate.
+
+Where several functions overlap geographically, several governance contexts may operate simultaneously without requiring one universal territorial authority.
+
+This makes the topology a mesh rather than a tree.
+
+### Reinterpreting escalation terminology
+
+Earlier Concord language using terms such as **upward**, **higher layer**, **parent**, and **vertical escalation** should be interpreted carefully.
+
+These terms can describe:
+- coarser spatial abstraction;
+- wider consequence scope;
+- transfer to a context with necessary competence or mandate;
+- constitutional review;
+- coordination across a larger field.
+
+They should **not** automatically imply political superiority.
+
+Where possible, future reconstructed Governance documents should distinguish:
+
+**resolution change** - selecting a finer or coarser GTP spatial context;
+
+**horizontal coordination** - coordinating relevant peer/neighbour contexts;
+
+**cross-resolution coordination** - coordinating governance operating at different GTP resolutions;
+
+**functional escalation** - moving a matter to a function possessing necessary competence/authority;
+
+**constitutional escalation** - moving a constitutional question into its legitimate constitutional process;
+
+**authority expansion** - a separately justified temporary or permanent change in authority.
+
+These are different events and should not be collapsed into a generic concept of moving a matter upward.
+
+### Mesh governance invariant
+
+The central recovered/clarified model is:
+
+> **The Concord Governance Topology Is A Mesh Of Bounded Triadic Stewardship Contexts, Using GTP As A Persistent Spatial Coordination Lattice, Capable Of Legitimate Action At Any Appropriate Scale Or Overlapping Combination Of Scales Without Creating A Default Hierarchy Of Territorial Sovereignty.**
+
