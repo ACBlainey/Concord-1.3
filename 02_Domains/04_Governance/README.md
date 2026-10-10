@@ -51,3 +51,41 @@ Governance Steward selection and allocation is a dependency of the shared cross-
 Governance should define the competence, eligibility, GTP/spatial or functional representation requirements, mandate and jurisdiction of its Stewards, but should **not independently invent a final selector mechanism**.
 
 The recovered V1 triadic governance architecture remains controlling source material for the governance decision unit. The shared selection/allocation work must eventually determine how eligible Stewards are constituted into legitimate governance offices and triads without allowing the selector to own the resulting authority.
+
+
+## Governance reconstruction document-structure rule
+
+When Governance is reconstructed, it should **not** be rewritten as another single monolithic canonical document.
+
+The current `Governance V2 Canonical.md` remains important source material, but its monolithic form makes source resolution, search, maintenance, cross-domain linking, independent validation and later correction unnecessarily difficult.
+
+The reconstructed Governance architecture should therefore be expressed as **individual semantically bounded documents**, with this README or a dedicated index acting as the navigation and dependency map.
+
+Candidate document boundaries should follow real architectural functions rather than arbitrary chapter sizes, for example:
+- governance foundations and constitutional boundary;
+- GTP spatial and multidimensional jurisdiction;
+- triadic decision mechanics;
+- Steward role, mandate and individual operational authority;
+- shared Steward selection/allocation interface;
+- lowest-competent-level governance;
+- horizontal coordination and expansion;
+- vertical escalation;
+- delegation and authority lifecycle;
+- conflict, recusal and independence;
+- rotation, continuity and succession;
+- recall, suspension and removal;
+- emergency/degraded governance;
+- capture/failure detection and recovery;
+- decision records, audit and Historical interface;
+- participation/representation interfaces;
+- cross-domain governance interfaces.
+
+Exact document boundaries should be determined after source resolution.
+
+> **Canonical Architecture != Monolithic Document.**
+
+> **One Coherent System May Be Represented By Many Explicitly Linked Documents.**
+
+> **Document Modularity Should Improve Discoverability Without Fragmenting Architectural Meaning.**
+
+The reconstruction should preserve an index showing dependencies, authority relationships and source lineage so modularity does not become knowledge sprawl.
