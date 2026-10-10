@@ -40,3 +40,12 @@ Source: local `Governance V2 Canonical (1).md`. Source segmentation performed at
 **Not committed:** Section **07** (Chapters 61–70) and Section **17** (Chapters 161–170). Transfer attempts were blocked; do not claim those full files are in GitHub. They remain present in the local complete 22-section ZIP.
 
 Each successful new transfer was checked for the expected consecutive chapter headings. The repository content may have newline-normalisation differences from the local SHA-256 manifest; **byte-for-byte equivalence has not been established for every transfer**. No original V2 canonical file has been modified.
+
+## Blocked-transfer retry resolution — 11 October 2026
+
+Both previously blocked files were successfully committed using **one GitHub create-file operation per section**:
+
+- Section 07, Chapters 61–70: `Section_07_Chapters_061-070_Source_Preserved_001.md`; commit `310c42472cb59a693a44f27e1c644605407cde49`.
+- Section 17, Chapters 161–170: `Section_17_Chapters_161-170_Source_Preserved_001.md`; commit `be7e77b14ed746bd79ec4406290326eb48440146`.
+
+**Current transfer status: 22 of 22 sections represented in GitHub, covering all 215 original chapter numbers.** Sections 02 and 03 are full source-preserving Working Assemblies with separately labelled proposed annexes; the other 20 are source-preserved section files. This update supersedes the earlier '20 of 22' transfer-status paragraph. Exact byte-for-byte comparison of every GitHub file against the local archive is still outstanding. No canonical V2 edits were made.
