@@ -3,9 +3,9 @@
 **Project:** The Concord  
 **Domain:** Governance  
 **Date:** 10 October 2026  
-**Status:** V1.2 → V1.3 ARCHITECTURAL RECOVERY / SOURCE-RESOLVED / ACTIVE DEVELOPMENT / NON-CANONICAL  
+**Status:** V1 → V1.2 → V1.3 ARCHITECTURAL RECOVERY / SOURCE-RESOLVED / ACTIVE DEVELOPMENT / NON-CANONICAL  
 **Interfaces:** GTP / Triadic Decision Making / Participation / Historical / Judiciary / Spatial and Developmental Planning / BCA / Civil Attention  
-**Recovery reason:** Substantive governance topology survived in distributed source material but was not explicitly reconstructed into Governance V2.
+**Recovery reason:** Fundamental V1 governance architecture survived only partially/distributively through later sources and was not explicitly reconstructed into Governance V2.
 
 ---
 
@@ -57,6 +57,112 @@ Therefore:
 This document restores the missing integration boundary.
 
 ---
+
+## 1A. V1 source recovery — stronger provenance
+
+A direct review of V1 `02_Operational_Systems/Governance Full.md` materially strengthens this recovery.
+
+V1 does not treat triadic governance as merely an optional experiment. It states explicitly:
+
+> **The default governance decision unit is the triad.**
+
+It also contains an integrated governance architecture including:
+
+- recursive governance layers;
+- lowest competent authority;
+- local triads;
+- horizontal and vertical escalation;
+- horizontal expansion with original-triad retention;
+- horizontal expansion with original-triad exclusion where conflict/review requires it;
+- independent Steward reasoning before deliberation;
+- triadic decision states;
+- abstention as a distinct governance state and diagnostic signal;
+- no-majority → no authorised state change;
+- delegated, bounded and purpose-specific authority;
+- multidimensional jurisdiction;
+- spatial and functional governance as potentially orthogonal structures;
+- Steward selection/appointment/mandate/authority lifecycle;
+- conflict and recusal;
+- rotation;
+- recall safeguards;
+- succession and emergency succession;
+- governance failure/capture detection;
+- neighbouring/higher-layer continuity if a triad fails;
+- durable governance records and learning loops.
+
+V1 also gives the provisional abstract layer model:
+
+- **Layer A — Local**
+- **Layer B — Network / Neighbourhood**
+- **Layer C — Regional**
+- **Layer D — Higher Territorial / Systemic**
+- **Layer E — Constitutional**
+
+but explicitly labels these as placeholders rather than final territorial boundaries.
+
+This is important when reconciling Governance with GTP.
+
+V1 states that jurisdiction is more than geography and identifies at least:
+
+- spatial jurisdiction;
+- digital jurisdiction;
+- functional jurisdiction;
+- population jurisdiction;
+- resource jurisdiction;
+- temporal jurisdiction.
+
+It further states that spatial and functional governance may be orthogonal.
+
+Therefore the recovered relationship should not be:
+
+**GTP replaces all governance layers.**
+
+It should be:
+
+> **GTP supplies the concrete recursive lattice for the spatial dimension of Concord governance, while the same bounded triadic architecture can operate across functional, digital, population, resource and temporal contexts where legitimate.**
+
+This preserves the original multi-substrate design.
+
+### V1 triadic state rule
+
+V1 defines the ordinary three-Steward states:
+
+- 3 For → state change authorised;
+- 2 For / 1 Against → state change authorised;
+- 1 For / 2 Against → proposed change rejected;
+- 3 Against → proposed change rejected;
+- 1 For / 1 Against / 1 Abstain → no majority, therefore no authorised state change.
+
+It explicitly treats a vote as an action where it changes system state.
+
+> **No Majority Means No State Change.**
+
+### V1 horizontal expansion
+
+V1 contains two important mechanisms that should not be lost:
+
+**Horizontal Expansion With Original-Triad Retention** — widen the decision field with neighbouring Stewards while preserving originating local knowledge.
+
+**Horizontal Expansion With Original-Triad Exclusion** — where the originating triad is conflicted, under review, part of the dispute, or otherwise should not remain final decision-maker, expand around it rather than through it.
+
+This provides a much richer cross-GTP-cell mechanism than simple upward escalation.
+
+### V1 authority lifecycle
+
+V1 also gives the governance authority lifecycle:
+
+**Selection → Appointment → Mandate → Exercise of Authority → Delegation Where Appropriate → Monitoring/Audit → Rotation/Continuation → Recall/Suspension/Removal Where Necessary → Succession → New Mandate**
+
+This architecture should be source-resolved before new Governance or Judicial appointment machinery is derived.
+
+### Migration implication
+
+The prior V1.2→V1.3 architectural-survival closure should be treated as requiring a corrigendum for Governance.
+
+The issue is not that every V1 sentence must migrate. The issue is that a **fundamental living result**—triadic recursive governance and its operating topology—was insufficiently reconstructed in the current Governance domain.
+
+> **Preserved Source Material Elsewhere != Adequate Migration Of A Fundamental Domain Architecture.**
+
 
 ## 2. Core recovered topology
 
@@ -442,6 +548,11 @@ GSG-22 **Evidence Production != Decision Authority.**
 ## 20. Recovery status
 
 ### Recovered with strong existing source support
+- V1 rule that the default governance decision unit is the triad;
+- V1 recursive governance and lowest-competent-authority architecture;
+- V1 horizontal expansion with originating-triad retention/exclusion;
+- V1 authority lifecycle, rotation, recall and succession architecture;
+- V1 multidimensional jurisdiction and orthogonal spatial/functional governance;
 - GTP as recursive spatial governance/stewardship framework;
 - triadic decision-making as Concord governance decision architecture;
 - lowest-competent-level governance;
