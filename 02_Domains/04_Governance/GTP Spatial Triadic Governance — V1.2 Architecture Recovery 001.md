@@ -798,3 +798,140 @@ The exact quantitative subdivision and consolidation thresholds remain to be dev
 
 This section records an **author clarification of original design intent** supplied during V1.3 recovery. It should therefore be preserved as provenance and reconciled with historical GTP documents rather than falsely presented as text directly recovered from V1.
 
+
+
+## GTP recursive geometry source resolution — V1 through V1.2
+
+Historical GTP material establishes the geometric substrate more precisely.
+
+### Fixed geometric recursion
+
+Each GTP triangle subdivides into **four** congruent child triangles by connecting spherical edge midpoints.
+
+Therefore:
+
+**Parent Triangle**  
+→ **Child 1**  
+→ **Child 2**  
+→ **Child 3**  
+→ **Child 4 (central inverted child)**
+
+Each subdivision:
+- halves approximate side length;
+- quarters approximate area;
+- preserves hierarchical identity;
+- gives every child a unique address extending the parent address.
+
+This means parent/child containment is mathematically explicit and machine-addressable.
+
+### Four simultaneous spatial relationships
+
+Later V1.2 GTP-mesh work makes explicit that each region exists simultaneously as:
+
+1. a **whole** at its current scale;
+2. a **child** of a larger containing triangle;
+3. a **parent** of four finer triangles;
+4. a **same-layer neighbour / spatial peer** of surrounding triangles.
+
+This is highly compatible with the recovered governance graph.
+
+For governance purposes these relationships create candidate pathways for:
+- local self-governance;
+- downward decomposition / finer local governance;
+- upward context / escalation;
+- lateral coordination / horizontal expansion.
+
+However, geometric relationship alone does not manufacture authority.
+
+> **Parent Geometry != Automatic Superior Authority.**
+
+> **Neighbour Geometry != Authority Over Neighbour.**
+
+> **Child Containment != Ownership Of Child Governance.**
+
+### GTP 4:1 recursion is not a triadic voting tree
+
+V1.2 explicitly warns that GTP subdivision is not a three-child hierarchy.
+
+The geometry is:
+
+> **1 parent triangle → 4 child triangles**
+
+The governance decision unit is:
+
+> **1 active governance triangle → 3 Steward offices → 1 triadic decision unit**
+
+These are intentionally compatible structures but numerically different.
+
+Therefore:
+
+> **Four GTP Children != Four Members Of A Parent Governance Body.**
+
+> **Three Steward Offices != Three GTP Child Triangles.**
+
+> **Recursive Triadic Governance != Mechanical 3→1 Voting Tree.**
+
+The wider architecture is better understood as a **mesh with lateral relationships and vertical abstraction**.
+
+### Fixed resolution layers vs adaptive governance activation
+
+Historical GTP documentation assigns illustrative descriptions to geometric layers, for example planetary, continental, regional, city and local scales. It also contains an early distributed-stewardship table associating ranges such as L0-L2 with global stewardship and L9-L11 with local stewardship.
+
+These labels should now be treated as **illustrative physical-resolution descriptions**, not mandatory fixed governance tiers.
+
+The author's clarified original governance intent establishes that the effective governance tessellation should vary with workload.
+
+Therefore a dense metropolis may activate governance at a much finer GTP layer than a sparse desert region even though both remain addressable at every geometric layer.
+
+This produces an important distinction:
+
+**Geometric GTP layer** = fixed mathematical spatial resolution.
+
+**Active governance resolution** = context-dependent layer at which a triad is assigned practical stewardship responsibility.
+
+Thus:
+
+> **GTP Resolution Exists Everywhere; Governance Need Not Be Activated At Every Resolution.**
+
+> **Fixed Geometric Layer != Fixed Government Tier.**
+
+> **Illustrative Scale Label != Mandatory Jurisdiction Class.**
+
+### Adaptive refinement
+
+A candidate operational interpretation is:
+
+**Current active governance triangle**  
+→ workload remains governable  
+→ retain current active governance resolution
+
+or:
+
+**Current active governance triangle**  
+→ workload exceeds safe/effective triadic stewardship capacity  
+→ inspect/decompose into four child spatial contexts  
+→ activate finer governance resolution where justified.
+
+The reverse possibility may also exist:
+
+**Persistently low workload across finer active units**  
+→ evaluate whether coarser representation could remain competent without losing necessary local resolution.
+
+Whether consolidation should occur, and under what safeguards, remains future development work.
+
+### Important asymmetry
+
+Subdivision for spatial addressing is automatic and mathematical.
+
+Subdivision for governance is **not** automatic merely because finer triangles geometrically exist.
+
+Likewise, a triangle may require finer epistemic observation without requiring transfer of governance authority to that finer scale.
+
+Therefore:
+
+> **Spatial Resolution Increase != Automatic Governance Reorganisation.**
+
+> **Epistemic Resolution Increase != Authority Escalation Or Devolution.**
+
+Governance activation requires an independently justified governance need.
+
