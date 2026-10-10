@@ -34,3 +34,14 @@ The first V1.3 Defence framework establishes only the presently supportable foun
 - qualification, functional sunset, review and accountability.
 
 Detailed military implementation remains explicitly unresolved until a real capability base and threat environment exist.
+
+
+## Defence entrusted-office selection/allocation dependency
+
+Where Defence requires consequential command, representative or entrusted Steward offices, their selection/allocation should use the shared cross-domain development architecture:
+
+`03_Cross_Domain_Architecture/Stewardship_Selection_and_Allocation/README.md`
+
+Defence remains responsible for function-specific competence, qualification, suitability, conflicts, mandate and operational command requirements. It should not independently create a permanent selector mechanism that bypasses the common anti-capture and legitimacy problem.
+
+This dependency does not predetermine military rank structure or detailed Defence implementation, which remain unresolved.
