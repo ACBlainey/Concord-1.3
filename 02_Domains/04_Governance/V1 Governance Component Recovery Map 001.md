@@ -97,6 +97,28 @@ Thus:
 
 Exact subdivision/consolidation thresholds remain future development work.
 
+### G-R02B — Dynamic Governance Tessellation and Capacity Control
+
+Author clarification establishes that active GTP governance resolution should be substantially **automatic and dynamic**.
+
+The geometric tessellation supplies available spatial resolutions. Governance capacity determines which resolution is active.
+
+**Sustained overload → finer subdivision → additional triadic governance capacity.**
+
+**Sustained underload → safe consolidation toward coarser governance resolution.**
+
+A hysteresis mechanism should prevent repeated structural switching under fluctuating population/workload conditions. Subdivision and consolidation should therefore use different thresholds and/or persistence requirements.
+
+> **Subdivision Threshold > Consolidation Threshold.**
+
+> **Temporary Load Variation != Structural Governance Change.**
+
+The workload model should remain multidimensional until tested; population is only one possible input.
+
+Structural transitions must preserve active matters, records, mandates, accountability and legitimate Steward selection/allocation.
+
+Exact thresholds and transition algorithms remain future development work.
+
 ### G-R03 — Triadic Governance Decision Protocol
 
 Recover:
