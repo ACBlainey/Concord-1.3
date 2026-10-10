@@ -12,3 +12,7 @@
 | 198 — Jurisdiction | Lowest capable level and externalities | V2 Ch198 | Review pending |
 
 **Important:** A patch is not an approved amendment. Original V2 remains unmodified.
+
+## Progress update — 11 October 2026
+
+Additional source-grounded, provisional chapter patches have been committed for Chapters **28, 29, 30, 54, 100, 149, 150, 151, 198**. The older table entries marked 'review pending' are superseded for these chapters by this update. All remain ungraduated; complete ten-chapter sections are not yet assembled. Governance V2 Canonical is unchanged.
