@@ -935,3 +935,151 @@ Therefore:
 
 Governance activation requires an independently justified governance need.
 
+
+
+## Author clarification — dynamic governance tessellation and hysteresis — 10 October 2026
+
+The author has further clarified the original intended relationship between GTP resolution and governance capacity.
+
+### Geometric scale as governance-capacity guide
+
+The physical scale descriptions attached to GTP layers exist primarily to describe recursive spatial subdivision.
+
+They may then be used as **guides** for selecting an appropriate active governance resolution.
+
+The governance rule is not that a named physical scale automatically corresponds to a fixed political tier.
+
+Instead:
+
+**GTP geometric resolution**  
+→ **observe governance workload**  
+→ **test whether current triad retains effective capacity**  
+→ **retain / subdivide / consolidate active governance tessellation**
+
+If a currently active GTP governance triangle generates more sustained governance workload than one triad can effectively steward, the governance overlay should normally refine to a finer GTP subdivision, creating additional governance capacity.
+
+Because each parent has four geometric children, subdivision makes four finer spatial contexts available for governance activation.
+
+### Dynamic subdivision
+
+Conceptually:
+
+**Active Triangle T**  
+→ sustained workload above safe/effective triadic capacity  
+→ **T subdivides for governance purposes into T.1 / T.2 / T.3 / T.4**  
+→ additional triadic governance capacity is constituted at the finer resolution according to the legitimate Steward selection/allocation architecture.
+
+This should be substantially automatic and responsive rather than requiring arbitrary political redistricting.
+
+Subdivision therefore acts as a governance capacity mechanism.
+
+> **Subdivision Adds Governance Resolution And Capacity; It Does Not Create Greater Sovereignty.**
+
+### Dynamic consolidation
+
+The reverse mechanism should also exist.
+
+Where finer governance tessellation is no longer justified by sustained workload, neighbouring child contexts may be eligible for consolidation back toward a competent parent-scale governance context.
+
+Conceptually:
+
+**T.1 + T.2 + T.3 + T.4 active at fine resolution**  
+→ sustained workload sufficiently below consolidation threshold  
+→ verify that parent-scale governance would remain competent  
+→ consolidate active governance responsibility toward **T**
+
+The exact handling of partial/asymmetric consolidation requires later design.
+
+Consolidation must not erase necessary local representation, unresolved matters, rights-relevant differences, records, mandates or accountability merely to reduce administrative overhead.
+
+> **Consolidation Is Capacity Rebalancing, Not Erasure Of Local Reality.**
+
+### Hysteresis control
+
+A dynamic system can become unstable if it subdivides immediately when workload rises above one threshold and consolidates immediately when it falls back below the same threshold.
+
+Areas with varying population, seasonal activity, temporary infrastructure work, tourism, migration, emergencies or other fluctuating conditions could repeatedly subdivide and consolidate.
+
+The governance architecture should therefore use **hysteresis**.
+
+At minimum:
+
+**Subdivision threshold > Consolidation threshold**
+
+and/or require workload conditions to persist for an appropriate period before a structural transition occurs.
+
+Conceptually:
+
+**Workload rises**  
+→ crosses upper threshold  
+→ remains materially above threshold for required persistence period  
+→ subdivision eligible/triggered
+
+**Workload later falls**  
+→ remains above lower threshold  
+→ existing tessellation retained
+
+**Workload falls below lower threshold**  
+→ remains materially below it for required persistence period  
+→ consolidation eligible/triggered
+
+This creates a stability band in which no structural change occurs.
+
+> **Temporary Workload Variation != Automatic Boundary Change.**
+
+> **Dynamic Governance Requires Stability Control.**
+
+### Automatic does not mean unaudited
+
+Automatic or substantially automatic subdivision/consolidation should not mean opaque or unreviewable restructuring.
+
+The eventual architecture should preserve:
+- published workload indicators;
+- transition provenance;
+- the reason a threshold was considered satisfied;
+- notice of pending structural transition where practicable;
+- continuity of active matters;
+- continuity of records;
+- Steward mandate transition;
+- selection/allocation of any newly required Stewards;
+- retirement/rotation/reallocation of offices no longer required;
+- contestation/review where the automated result appears unsafe or manipulable;
+- safeguards against strategic workload manipulation.
+
+Therefore:
+
+> **Automation Determines When A Capacity Review/Transition Condition Is Met; It Does Not Manufacture Unbounded Authority.**
+
+### Workload metric remains unresolved
+
+No single workload variable is established here.
+
+Candidate inputs may include:
+- resident population;
+- transient population;
+- case/decision volume;
+- civil-service interaction volume;
+- infrastructure density;
+- resource density;
+- economic/activity density;
+- dispute volume;
+- emergency burden;
+- environmental stewardship load;
+- complexity;
+- consequence/risk;
+- other measurable demands on the triad.
+
+A future architecture should determine whether these form a multidimensional capacity state rather than a single scalar score.
+
+The exact:
+- subdivision threshold;
+- consolidation threshold;
+- persistence interval;
+- averaging method;
+- transition timing;
+- partial-consolidation rule;
+- emergency override;
+- anti-gaming method
+
+remain **OPEN DEVELOPMENT QUESTIONS**.
+
