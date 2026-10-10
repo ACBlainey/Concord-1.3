@@ -1123,3 +1123,55 @@ Earlier references in this recovery work to triangles being “created”, “be
 
 The hysteresis requirement therefore applies to **changes in active governance resolution**, not to the existence of geometric tessellation.
 
+
+
+## Author clarification - concurrent multi-resolution governance - 10 October 2026
+
+Because all GTP resolutions exist simultaneously, governance may also operate at multiple GTP resolutions simultaneously where different legitimate tasks require different spatial contexts.
+
+A finer active governance context does not inherently replace or deactivate all coarser governance contexts. Likewise, use of a coarser GTP context does not inherently absorb the legitimate functions of finer contexts.
+
+For example:
+- fine-resolution triangles may handle dense local governance workload;
+- a larger containing GTP context may simultaneously coordinate infrastructure, resources, environmental effects or another matter whose material consequence area is larger;
+- neighbouring triangles may coordinate laterally where a matter crosses their boundaries without permanent transfer of general authority.
+
+Therefore:
+
+> Concurrent GTP Resolution != Duplicate Sovereignty.
+
+> Parent Spatial Context != Automatic Superior Government.
+
+> Child Governance != Exclusive Governance Of Every Function Within Its Area.
+
+> Coarser Coordination != Absorption Of Finer Mandates.
+
+The relevant GTP resolution should be selected according to the spatial and material context of the function or decision.
+
+Task / Problem -> Determine Material Consequence Area -> Select Appropriate GTP Resolution / Context -> Identify Legitimate Governance Function -> Verify Mandate / Authority -> Triadic Decision Where Practicable
+
+Different tasks affecting the same physical location may therefore legitimately resolve to different GTP governance contexts at the same time.
+
+### Larger-area coordination
+
+Where a matter affects a larger area, the Concord need not manufacture a new arbitrary administrative region. It may use an already-existing coarser GTP triangle or a legitimate coordinated set of GTP contexts appropriate to the consequence area.
+
+This gives at least two spatial coordination modes:
+
+1. Lateral coordination / horizontal expansion - neighbouring governance contexts coordinate around a cross-boundary matter.
+2. Coarser-context coordination - a larger pre-existing GTP context is used where the matter is genuinely coherent at that broader spatial resolution.
+
+The choice should depend upon the actual problem, consequence topology, competence and minimum necessary authority rather than a presumption that broader geography automatically requires superior government.
+
+### Multi-resolution authority remains function-bounded
+
+Simultaneous governance at several resolutions requires explicit authority separation.
+
+A local triad may possess authority over one function while a broader triad possesses authority over another function affecting the same place.
+
+Where mandates overlap materially, the system should identify the function, consequence area, applicable GTP context, retained local authority, wider coordination authority, implementation authority, cross-domain authority where applicable, and review or escalation route.
+
+> Spatial Containment != Governance Ownership.
+
+> Multiple Active Resolutions != Multiple Unlimited Authorities.
+
