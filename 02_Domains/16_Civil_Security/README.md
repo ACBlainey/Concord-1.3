@@ -86,3 +86,14 @@ The test validates three distinct correction levels:
 PMEDG status remains:
 
 **CANDIDATE — STRESS TEST 001 PASSED — DO NOT EXTRACT YET**
+
+
+## Civil Security leadership selection/allocation dependency
+
+Selection of police chiefs, sheriffs or equivalent entrusted Civil Security leadership should use the shared cross-domain Stewardship Selection and Allocation architecture:
+
+`03_Cross_Domain_Architecture/Stewardship_Selection_and_Allocation/README.md`
+
+Civil Security should define role-specific policing competence, integrity, independence, conflict, jurisdiction and mandate requirements. It should not create a separate incompatible political or institutional appointment mechanism merely because the office is a policing office.
+
+This does not imply that every police officer is a representative Steward office. The dependency applies where a consequential leadership or representative office requires selection from a qualified and eligible candidate pool.
