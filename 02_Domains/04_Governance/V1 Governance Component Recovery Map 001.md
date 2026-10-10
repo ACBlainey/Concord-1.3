@@ -510,3 +510,155 @@ Governance documents should instead name the actual relationship, for example:
 
 Historical source material using parent/child, higher/lower or upward/downward terminology for governance should be interpreted by function and context before being carried into reconstructed Governance.
 
+
+
+## Mesh reinterpretation audit of V1 governance language - 10 October 2026
+
+V1 Governance has now been reread against the recovered GTP mesh model.
+
+### Finding
+
+The underlying V1 mechanics are substantially more compatible with mesh governance than some of its hierarchical terminology suggests.
+
+V1 itself states or implies that:
+- governance should operate across scales without unnecessary centralisation;
+- a governance unit should not be defined solely by territory;
+- specialist/functional governance may cross geographic boundaries;
+- neighbouring governance units should not normally be subordinate to one another;
+- horizontal expansion can create network governance;
+- wider consequence does not automatically justify centralisation;
+- implementation authority may remain local even where a wider decision field is required;
+- authority remains explicit and purpose-specific;
+- the resulting architecture may be better represented as a graph than a simple hierarchy.
+
+These are strong mesh-compatible features.
+
+### V1 language that should survive conceptually but be renamed
+
+**Lowest competent layer/level** should normally become:
+
+> **lowest / narrowest competent governance context**
+
+or:
+
+> **minimum competent governance scope**
+
+This preserves subsidiarity without implying a command ladder.
+
+**Vertical escalation** should be decomposed according to what actually occurs:
+- resolution change to a coarser GTP context;
+- cross-resolution coordination;
+- functional escalation;
+- constitutional escalation;
+- authority expansion;
+- wider decision-field formation.
+
+**Higher/lower governance layer** should be replaced where possible by:
+- finer/coarser spatial resolution;
+- narrower/wider consequence context;
+- local/wider-area context;
+- functionally competent body;
+- constitutional review context.
+
+### V1 passages requiring substantive correction, not merely renaming
+
+Some V1 formulations imply a genuine command hierarchy and should not be carried forward uncritically.
+
+Examples include concepts such as:
+- operational authority generally “flows downward”;
+- accountability generally “flows upward”;
+- a coarser/higher layer possesses standing authority to inspect or intervene in finer/lower governance merely because of layer position;
+- wider spatial abstraction itself supplies greater authority;
+- governance units are nested as superior and subordinate territorial authorities.
+
+These conflict with the clarified mesh architecture unless an independent constitutional, functional, review, emergency or delegated authority basis exists.
+
+The corrected rule is:
+
+> **Authority Does Not Flow From Coarser GTP Resolution To Finer GTP Resolution Merely Because Of Spatial Containment.**
+
+Likewise:
+
+> **Accountability Routes Follow Mandate, Function And Review Architecture - Not Geometric Direction.**
+
+A coarser-resolution triad may possess a legitimate wider-area mandate, but that authority must be independently established.
+
+### Lowest competent context
+
+The useful V1 principle survives in revised form:
+
+> **A Matter Should Be Handled By The Minimum Competent Governance Context Or Coordinated Decision Field Capable Of Addressing It Safely, Constitutionally And With Sufficient Consequence Coverage.**
+
+“Minimum” is multidimensional. It may mean:
+- narrow spatial scope;
+- limited functional authority;
+- minimum number of coordinating contexts;
+- minimum necessary authority;
+- minimum duration;
+- minimum intervention.
+
+It does not necessarily mean the geometrically finest GTP triangle.
+
+### Mesh-compatible decision routing
+
+A more accurate routing model is:
+
+**Matter identified**  
+→ **characterise function and material consequence topology**  
+→ **identify competent existing governance context(s)**  
+→ **verify mandate and authority**  
+→ **if one context is sufficient: decide there**  
+→ **if boundaries overlap: coordinate laterally / cross-resolution / functionally**  
+→ **if constitutional question: constitutional route**  
+→ **if authority remains insufficient: separately justify bounded authority expansion**  
+→ **triadic decision where practicable**  
+→ **implementation by the appropriate authorised context**  
+→ **audit / review / learning**
+
+This replaces the misleading default image:
+
+**local → regional → national → central**
+
+with a mesh:
+
+**problem → appropriate node(s)/context(s) → bounded coordination → decision → implementation**
+
+### Horizontal expansion survives strongly
+
+V1's horizontal-expansion architecture is retained as a major mesh mechanism.
+
+Its two forms remain useful:
+- originating triad retained in the expanded decision field;
+- originating triad excluded where conflict, capture, impartiality or review requires independence.
+
+However, “horizontal” should not be limited to same-resolution geography. The recovered mesh supports:
+- same-resolution neighbouring coordination;
+- cross-resolution coordination;
+- functional-network coordination;
+- temporary multi-context decision fields.
+
+### Implementation authority remains separable
+
+The V1 distinction between decision authority and implementation authority becomes even more important under mesh governance.
+
+A wider coordinated decision does not imply that implementation must be centralised.
+
+> **Wider Decision Field != Wider Implementation Monopoly.**
+
+> **Coordination Authority != General Command Authority.**
+
+### Revised central topology
+
+The recovered governance topology should therefore be represented as:
+
+**Persistent GTP Spatial Mesh**  
++ **Triadic Stewardship Contexts**  
++ **Functional / Domain Networks**  
++ **Contextual Mandates**  
++ **Temporary Coordination Relationships**  
++ **Constitutional / Judicial Review Paths**
+
+rather than a territorial command hierarchy.
+
+The resulting governance system is a **multi-resolution, overlapping, function-bounded coordination mesh**.
+
