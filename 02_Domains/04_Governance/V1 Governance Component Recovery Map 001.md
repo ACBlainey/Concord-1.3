@@ -662,3 +662,165 @@ rather than a territorial command hierarchy.
 
 The resulting governance system is a **multi-resolution, overlapping, function-bounded coordination mesh**.
 
+
+
+## Recovery - horizontal expansion and Parallel Stewardship in the mesh - 10 October 2026
+
+### Source finding
+
+V1 Chapter 12 and Chapter 18 contain a strong precursor to the recovered mesh-governance model.
+
+The surviving mechanism should be separated into distinct concepts rather than treated as a generic escalation process.
+
+### 1. Decision-field expansion
+
+A governance matter may require a wider decision field because its consequences, affected interests, evidence requirements or conflict topology extend beyond one ordinary triad.
+
+Expansion can add:
+- affected-context representation;
+- local knowledge;
+- independent judgement;
+- specialist competence;
+- evidential diversity;
+- capture resistance;
+- redundancy;
+- consequence coverage.
+
+However:
+
+> **Decision-Field Expansion != Automatic Authority Expansion.**
+
+Adding Stewards or governance contexts does not itself manufacture authority.
+
+An expanded decision field may exercise consequential decision authority only where the participating configuration has a legitimate constitutional/functional basis and an applicable mandate.
+
+This corrects V1 language suggesting that horizontal expansion can inherently provide “additional authority”.
+
+### 2. Original-context retention
+
+V1's distinction remains useful.
+
+Where the originating triad remains legitimate and unconflicted, it may remain part of the expanded decision field because it possesses relevant local knowledge, provenance and implementation context.
+
+This becomes:
+
+> **Originating-Context Retention**
+
+rather than implying that the original triad owns the matter.
+
+### 3. Original-context exclusion
+
+Where the originating triad is conflicted, captured, under review or itself a party to the dispute, the wider decision field may exclude it from decision authority while still receiving its evidence and reasoning.
+
+This becomes:
+
+> **Originating-Context Recusal / Exclusion**
+
+It is analogous to individual recusal but applied to a governance context.
+
+Exclusion from a particular decision does not inherently extinguish unrelated mandates.
+
+### 4. Coordination topology is not limited to same-resolution neighbours
+
+V1 horizontal expansion is spatially neighbour-oriented. The recovered GTP mesh generalises this.
+
+A temporary decision field may involve:
+- neighbouring triads at the same GTP resolution;
+- relevant triads at different GTP resolutions;
+- a coarser-resolution triad with a legitimate wider-area function;
+- functional/domain Stewardship;
+- specialist advisory participants;
+- combinations of these where legitimate.
+
+Therefore future Governance should use **mesh decision-field expansion** as the broader concept, with lateral/horizontal expansion as one subtype.
+
+### 5. Parallel Stewardship remains epistemic/advisory unless separately mandated
+
+V1 Chapter 18 explicitly distinguishes Official authority from Parallel Steward reasoning.
+
+Parallel Stewards independently reproduce or challenge reasoning. Agreement provides convergence evidence. Material disagreement creates scrutiny/review. Unanimous material divergence can trigger mandatory review.
+
+It does not automatically transfer decision authority.
+
+Thus:
+
+> **Parallel Stewardship != Additional Governance Votes.**
+
+> **Parallel Reasoning != Parallel Sovereignty.**
+
+> **Epistemic Independence != Decision Authority.**
+
+This aligns with the later distinction:
+
+> **Epistemic Triad != Decision Triad.**
+
+Parallel Stewardship should therefore be treated primarily as a resilience, audit, reasoning and review architecture unless a participant independently holds an applicable governance mandate.
+
+### 6. Information expansion before authority expansion survives
+
+V1's rule remains strongly compatible with the mesh:
+
+> **Expand Information Before Expanding Authority Where Practicable.**
+
+A matter may first gain additional evidence, neighbouring observations, specialist analysis, simulations or Parallel Steward reasoning without changing its authority envelope.
+
+Only if the existing legitimate decision configuration cannot resolve the matter should a different or expanded authority configuration be considered.
+
+### 7. Temporary coordination should decay when the reason ends
+
+V1 correctly distinguishes situational expansion from permanent restructuring.
+
+In mesh terms:
+
+**Matter creates wider coordination need**  
+→ **temporary legitimate decision field forms**  
+→ **matter is decided / implemented / reviewed**  
+→ **temporary coordination relationship terminates unless independently justified for continuation**
+
+Therefore:
+
+> **Temporary Mesh Coordination != Permanent Institution.**
+
+> **Repeated Coordination Need May Justify Review Of Standing Architecture, But Does Not Automatically Create It.**
+
+### 8. Proposed reconstructed concept
+
+The broad mechanism can be represented as:
+
+**Matter**  
+→ **ordinary competent triad/context identified**  
+→ **consequence/competence/conflict test**  
+→ if sufficient: **ordinary triadic decision**  
+→ if insufficient information: **expand information / consultation / Parallel Steward reasoning**  
+→ if wider legitimate participation is required: **form bounded mesh decision field**  
+→ **verify authority of decision configuration**  
+→ **triadic or explicitly defined multi-triad decision method**  
+→ **record dissent / provenance / participating mandates**  
+→ **implementation by appropriate authorised context(s)**  
+→ **review**  
+→ **temporary decision field dissolves when purpose ends**
+
+### 9. Major unresolved issue
+
+V1 does **not** fully resolve how a multi-triad mesh decision field itself reaches a final decision.
+
+Simply pooling all Steward votes risks destroying the triadic architecture.
+
+Automatically selecting one “higher” triad recreates hierarchy.
+
+Treating every participating triad as possessing a veto risks paralysis.
+
+This must therefore remain an explicit development question for reconstructed Governance.
+
+The future mechanism should preserve:
+- triadic reasoning;
+- independence;
+- representation of materially affected contexts;
+- bounded authority;
+- anti-capture;
+- no automatic sovereignty transfer;
+- no accidental permanent institution;
+- workable deadlock handling.
+
+Do not invent the final mechanism until the wider Concord has been source-resolved for prior solutions.
+
