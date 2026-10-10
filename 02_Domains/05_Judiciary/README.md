@@ -27,3 +27,16 @@ The findings are independent: participant unlawfulness does not establish police
 ## Prosecution-threshold interface
 
 The developing Law architecture now separates investigation, prosecution threshold and adjudication. Prosecution is justified by sufficient evidence to require independent adjudication; it is not a police finding of guilt. Judiciary remains responsible for contested legal outcomes and may review the evidential and authority basis where legally relevant.
+
+
+## Shared Judicial Steward selection/allocation dependency
+
+Judicial Steward selection and appointment depends on the shared cross-domain development architecture:
+
+`03_Cross_Domain_Architecture/Stewardship_Selection_and_Allocation/README.md`
+
+The Judiciary defines the competence required by judicial function and the independence, conflict, tenure and office constraints appropriate to adjudication. Education provides the qualification route; relevant distributed systems establish current eligibility. The final selection/allocation mechanism should **not be independently invented inside Judiciary** where the same constitutional problem is shared by other entrusted offices.
+
+Current dependency:
+
+**Judicial Qualification → Current Eligibility → Shared Selection / Allocation Mechanism → Judicial Appointment / Office → Jurisdiction → Case-Specific Authority**
