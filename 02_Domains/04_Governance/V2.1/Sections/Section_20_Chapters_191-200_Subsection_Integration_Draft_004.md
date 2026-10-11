@@ -1384,9 +1384,32 @@ Overlap is not automatically constitutional failure.
 It requires a method for resolving conflict.
 
 
-<!-- BEGIN V2.1 PROPOSED 198.9 — NOT CANONICAL -->
-**V2.1 proposed jurisdiction diagnostic:** Before any cross-cell or cross-resolution action, establish each applicable geographic, functional, institutional, personal, technological and issue-specific competence. A larger spatial cell and a valid virtual-triad majority do not independently create jurisdiction. Shared infrastructure may require an authorised common decision; outside its defined field, lawful local autonomy remains.
-<!-- END V2.1 PROPOSED 198.9 -->
+<!-- BEGIN V2.1 INTEGRATED 198.9 — RECONCILED CANDIDATE 005 VERBATIM -->
+
+## 198.9 Overlapping Jurisdiction
+
+Multiple legitimate jurisdictions may apply simultaneously.
+
+Coordination is then required.
+
+Examples may include:
+
+- local land use;
+- regional infrastructure;
+- civilisation-wide rights;
+- and environmental commons
+
+affecting the same project.
+
+Overlap is not automatically constitutional failure.
+
+It requires a method for resolving conflict.
+
+### V2.1 — Cross-Resolution Jurisdiction Test
+
+Before a cross-cell or cross-resolution binding decision, establish the applicable geographic, functional, institutional, personal, technological and issue-specific authority. Determine whether the question is independent local action, coordination without transfer, or a genuinely shared competence with a valid authorisation instrument. GTP scale and virtual-triad arithmetic cannot create jurisdiction. Record overlap, affected rights, resource responsibility, conflict-resolution route, expiry and review.
+
+<!-- END V2.1 INTEGRATED 198.9 — CANDIDATE 005 -->
 ## 198.10 Jurisdictional Priority
 
 Some conflicts may be resolved through:
