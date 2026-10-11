@@ -632,9 +632,94 @@ Temporary expanded structures should not acquire unrelated responsibility merely
 If a new continuing need emerges, that need should be separately justified.
 
 
-<!-- BEGIN V2.1 PROPOSED 12.9 — NOT CANONICAL -->
-**V2.1 proposed expanded-triad specification:** For originating R and its three edge-adjacent A/B/C, use one of two separately authorised modes. Origin-excluded: the authorised triads A, B and C each produce one resultant F/A/U. Origin-included: three mixed triads, each comprising two authorised positions from its adjacent triangle and one from R, each produce one resultant. Those three resultant votes form the final virtual triad: at least two F yields F, at least two A yields A, otherwise U. Never pool nine individual ballots, grant R a fourth resultant vote, or infer voting authority from geometry. Record jurisdiction, constituent identities, causes of U, scope, expiry, audit and implementation. The six-Steward vertex mapping and repeated mixed-triad eligibility are unresolved and must be validated before use.
-<!-- END V2.1 PROPOSED 12.9 -->
+<!-- BEGIN V2.1 RECOVERED 12.9 — CANDIDATE 013 VERBATIM, NOT CANONICAL -->
+
+## 12.9 Temporary Expanded Triads and Virtual Resultants
+
+A temporary expanded triadic decision structure may be convened only for a defined question whose lawful consequence and competence field requires more than the originating triad. The existence of neighbouring GTP triangles, shared interests or an emergency does not independently grant common decision authority.
+
+The convening record shall establish:
+
+- originating triangle R and the three edge-adjacent triangles A, B and C, where this specific GTP arrangement is used;
+- the jurisdictions materially affected and the lawful source of any common competence;
+- the authorised constituent arrangement, membership, eligibility, independence, conflict screening and quorum;
+- the question, evidence version, decision scope, resource authority and implementation responsibility;
+- the voting method, abstention and unresolved-result causes;
+- duration, expiry, review, challenge, audit and termination.
+
+### 12.9.0 Abstract GTP nodes and independent triangle offices
+
+At a shared abstract GTP node, six Steward positions are associated with **six distinct incident triangles**; they are not a joint six-person governing body. Each triangle's three Steward positions belong to that triangle alone. Adjacent triangles may share two abstract node locations without sharing official offices, ordinary voting authority, or a command relationship.
+
+The node location is **conceptual**, not a physical office address. A triangle's three Stewards may work from one governance building at an appropriate physical location **inside that triangle**; neighbouring triangles' Stewards may work in their own separate buildings. No physical meeting or direct interoperation at the common node is presumed.
+
+The only specified official cross-triangle role here is participation in an **independently authorised, decision-bounded extended vote**. A Steward from A called to vote in a matter concerning B does not thereby gain standing authority over B, and adjacency alone does not appoint that Steward. There is no six-Steward node interoperation mechanism to define.
+
+### 12.9.0a Cause-specific recusal and context-controlled node-ring substitution
+
+**Historical continuity and new specification.** Earlier governance sources distinguished insufficient-information abstention, conflict recusal and absence, and contemplated temporary or neighbouring-Steward replacement without completing the procedure. The following **node-ring selection and fractal expansion rules are new authorial development**, not historical quotations.
+
+A lawful material-conflict recusal from a particular decision can create a vacancy in the affected Steward's **one existing voting position**. An insufficient-information abstention instead requires evidence gathering or clarification, not replacement. Other causes of absence or incapacity require their own lawful vacancy triggers. No adverse vote, political preference or procedural delay is a legitimate reason to manufacture recusal.
+
+**First ring.** For A1 at node N of triangle A, identify the other five triangle-owned Steward positions at the same abstract node in the ordinary six-triangle GTP case. Independently screen eligibility, conflicts, verified identity, availability, full decision-event participation and authorising mandate. With **one** eligible holder, that Steward fills A1's position by default; with **two or more**, choose one by an auditable, tamper-resistant, unbiased uniform random draw.
+
+**Second ring and fractal continuation.** If the first ring has **zero** eligible holders, expand to the other two Steward positions in each of the five neighbouring triangles: **ten nominal additional positions**, then apply the **same** screening and one-or-many selection procedure. If exhausted, further outward node-centred candidate rings may be searched using the provisional, deduplicated topology procedure in Integration 041. At irregular nodes, derive candidate counts from the actual incident triangles, not an assumed six-triangle pattern. A larger geometric pool is not necessarily a larger eligible or independent holder pool.
+
+**Contextual exceptional widening.** Independently evidenced severe capture or compromised screening may justify bypassing an otherwise populated local ring under separately authorised, reviewable security controls. This is an exceptional isolation response, not vote-shopping. A major localised emergency with non-local consequences, such as a nuclear power station emergency, may separately require **wider emergency governance coordination** under its own mandate; that is distinct from expanding the pool to fill one vacant voting position.
+
+Every substitute occupies **only A1's original one-third triad position** for the bounded authorised decision event. No fourth vote, six-Steward node body, additional jurisdiction, permanent cross-triangle authority or authority through spatial adjacency is created. One Steward may occupy no other voting position anywhere in the complete event graph. A valid draw does not cure missing quorum, event-boundary proof, independent authority or commit-time eligibility; consequential commitment is withheld when those gates fail. Do not manipulate candidate exclusions or redraw because of an unwelcome selection.
+
+The first two rings and context-sensitive selection reflect the authorial mechanism. **Node-centred enumeration beyond ring two remains a provisional implementation convention**, with topology, resolution seams, randomness standards and security review interfaces still to be completed. This single-position substitution is distinct from the extended triad's three-to-one constituent resultant and from a three-constituent virtual triad.
+
+### 12.9.1 Origin-excluded arrangement
+
+Three independently authorised constituent triads correspond to A, B and C. Each triad comprises three eligible Steward decision positions and produces **one** resultant position, For (F), Against (A) or Unresolved (U). The three resultant positions, not the nine individual ballots, form the final virtual triad.
+
+### 12.9.2 Origin-included arrangement
+
+Three constituent mixed triads each comprise two authorised Steward positions from A, B or C respectively and one authorised position from R. Each mixed triad produces one F/A/U resultant. The three resultant positions form the final virtual triad. R does not gain a fourth resultant position. All nine Steward-occupied positions across the three mixed constituent triads must be filled by nine **distinct** eligible Stewards. A Steward occupying R_A may not also occupy R_B or R_C, or any neighbouring position; likewise no neighbouring Steward may be reused across constituents. Repeated participation in the same decision is **prohibited**, not an open design option. The six-Steward node-to-office mapping, independent eligibility and quorum remain unresolved and must be formally specified before this mode is used.
+
+### 12.9.3 Authority-Conserving Substitution of a Decision Position
+
+An extended triad acts collectively **in place of one original triad member's decision position**, not as three additional positions at the original decision level. The three constituent Stewards deliberate and resolve their internal decision into **one resultant**. That resultant occupies the same single position and carries the same authority and voting weight as the original member it substitutes.
+
+In an ordinary three-position triad, each position represents **one-third** of the triadic decision weight. When an extended triad exercises one of those positions, its three internal votes determine that one-third position; they do **not** each acquire one-third of the original triad, nor three times the original member's authority. Expansion increases deliberative participation without increasing the authority delegated to that position.
+
+The same conservation rule applies wherever a valid constituent resultant is used as one position in a virtual triad. This explains why counting nine internal ballots as nine equal final votes is constitutionally incorrect: the internal ballots resolve three separately bounded decision positions, and each resultant is counted once at the final stage.
+
+This is a rule about **weight and authority at a specified decision interface**, not a claim that an expanded forum automatically has the jurisdiction of the original office. Any substitution still requires independently valid authorisation, eligibility, competence, quorum and audit. It must not be used to multiply authority or to create indefinite recursive expansion.
+
+### 12.9.3a Vote-specific bounded authority and decision-event identity
+
+A Steward's eligibility or appointment is not a continuously held voting mandate. Each authorised Steward occupies **one** Steward voting position in the complete decision-event graph and exercises a single, bounded vote-specific authority. This rule covers direct positions, parallel constituents and recursive substitutions; a receiving resultant is an output slot, not another Steward vote. The vote-specific authorisation expires at its lawful event boundary. A valid committed decision's independently lawful consequences may persist; implementation requires its own authority.
+
+A new session, stage label, constituent identifier or technical retry cannot itself manufacture a separate decision event. Before permitting renewed participation, the forum must resolve whether the action is a continuation, constituent stage, retry, reconsideration, appeal or independently authorised new decision. Where material boundary proof is missing, mark `DECISION_BOUNDARY_UNKNOWN` and withhold consequential commit. Legitimate independent subsequent decisions may appoint the same Steward afresh; a label alone is insufficient.
+
+The decision event must record its question/version, lawful mandate and jurisdiction, position graph, unique-holder mapping, stage ancestry, quorum source, expiry, and commit state. Identity uniqueness is checked across all Steward-occupied positions in that event, including privacy-protected aliases. No vote-specific authority survives merely because an outcome is pending implementation.
+
+### 12.9.4 Two-stage voting
+
+Within each constituent triad, at least two eligible matching F votes produce F, and at least two eligible matching A votes produce A; otherwise the resultant is U, subject to the applicable independent quorum and validity rules. At the final virtual-triad stage, two or more constituent F resultants produce F, two or more A resultants produce A, and all other combinations produce U.
+
+U is not an Against vote. Abstention, recusal, absence, failed authentication, conflicts and insufficient evidence must retain distinct procedural cause codes. A procedural invalidity may prevent the result from taking effect even where the arithmetic produces a majority.
+
+**Example:** A votes F/F/A, B votes F/F/A, C votes A/A/A. Constituent results are F/F/A, giving final **For**, even though pooled individual votes are four F and five A. Pooling is forbidden.
+
+### 12.9.4a Majority determinacy, incomplete provenance and Civilisational Clock effect
+
+**New authorial direction, provisional.** Two valid matching F votes determine a substantive For majority, and two valid matching A votes determine an Against majority, even if the third original Steward position's official ballot is outstanding. The absent ballot cannot change that mathematical majority, but remains significant for dissent, reasons, accountability and the authoritative voting record. **Outcome determinacy, legal validity, operative timing and record completeness are separate conditions.** A missing position is recorded as outstanding, not silently treated as an Against or U vote.
+
+For ordinary clock-governed action, an independently valid determined decision may become operative at the **next applicable Civilisational Clock transition** or other established effective time. Where context requires urgent action, an already lawful determined majority may trigger earlier action **within existing authority and urgency rules**, without waiting for a ballot incapable of changing the majority. Urgency changes timing only; it does not manufacture jurisdiction, competence, an emergency mandate or implementation power. An arithmetic majority alone cannot bypass the applicable validity and commit gates.
+
+The missing Steward may later cast an official vote, or the position may be filled through separately authorised temporary parallel stewardship, a one-position expanded resultant, or a provisional ballot. If a provisional ballot is used, the returning original Steward's lawful official ballot **supersedes it as the current position vote**, while the earlier provisional record remains preserved for provenance. There is never a fourth vote or simultaneous counting of two ballots for one position. A later ballot cannot retroactively alter a two-matching-vote majority, nor automatically unwind earlier lawful consequences; review and remedies require their own valid process.
+
+Where the existing votes do not determine a majority, continue deliberation, obtain the missing ballot or use a separately authorised substitution. An invalid forum, duplicate Steward, compromised authentication or unknown decision-event boundary cannot be cured by declaring the matter urgent. Precise clock cycle, urgency threshold, official-vote completion window and decision classes requiring fuller participation remain implementation and authorial interfaces.
+
+### 12.9.5 Authority and termination
+
+The expanded forum may decide only within the specifically authorised common field. Independent local decisions outside that field remain intact. A failure to obtain the desired outcome is not grounds for recursive expansion, forum shopping or silent transfer of power. Temporary expanded structures dissolve when the defined task is complete or their authorisation expires; continuation requires a separate lawful decision. Emergency preservation, succession and substitute appointments remain governed by their independent constitutional provisions.
+
+<!-- END V2.1 RECOVERED 12.9 — CANDIDATE 013 VERBATIM -->
 ## 12.10 Horizontal Expansion Before Vertical Escalation
 
 Where practical, Governance should attempt horizontal coordination before escalating a matter into a higher permanent layer.
