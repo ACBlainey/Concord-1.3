@@ -27,3 +27,9 @@ The local V2 source has **215 numbered chapters**. Plan 22 sectional manuscripts
 - Local capable authority is preferred; a large-area event does not by itself create overriding central authority.
 
 **No complete ten-chapter section has been assembled yet.** The initial files are targeted chapter patches for future incorporation.
+
+
+## G05 integration — bounded governance, continuity and recovery
+- [G05 integrated architecture](G05%20%E2%80%94%20Bounded%20Governance%2C%20Continuity%20and%20Recovery%20Integration%20001.md) consolidates the 070–087 validation candidates, constitutional boundary conditions, owner-system interfaces, surviving duties, emergency protection and aggregate-control review.
+- [Validation evidence register](Validation/README.md) tracks stage-level tests, CI caveats and remaining end-to-end work.
+- **Integration candidate only:** this material is now incorporated into the V2.1 working architecture, but it has not been graduated into preserved V2 canonical or assembled chapter sections. Source resolution and the graduation gate remain mandatory.
