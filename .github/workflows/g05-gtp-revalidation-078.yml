@@ -1,0 +1,17 @@
+name: G05 GTP Revalidation 078
+on:
+  push:
+    paths:
+      - '02_Domains/04_Governance/V2.1/Validation/g05_gtp_execution_revalidation_078.py'
+      - '02_Domains/04_Governance/V2.1/Validation/test_g05_gtp_execution_revalidation_078.py'
+      - '.github/workflows/g05-gtp-revalidation-078.yml'
+  workflow_dispatch:
+jobs:
+  revalidation:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m unittest discover -s 02_Domains/04_Governance/V2.1/Validation -p test_g05_gtp_execution_revalidation_078.py -v
