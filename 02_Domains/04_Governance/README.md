@@ -144,3 +144,7 @@ The default topology is:
 
 The V1 principle of the “lowest competent level” should be reconstructed as the **minimum competent governance context / minimum competent governance scope**, preserving decentralisation without implying that spatial abstraction defines political rank.
 
+
+
+## G05 V2.1 integration candidate — continuity and bounded emergency authority
+The [V2.1 G05 integration document](V2.1/G05%20%E2%80%94%20Bounded%20Governance%2C%20Continuity%20and%20Recovery%20Integration%20001.md) and [validation register](V2.1/Validation/README.md) consolidate BTA/GTP/KCS interfaces, recovery, continuing and orphaned duties, bounded emergency protection, renewal and cumulative/distributed-control review. These are modular working architecture and test evidence, **not canonical constitutional rules or deployed mechanisms**. They must be source-resolved and incorporated through the V2.1 chapter-patch/section workflow without changing the preserved V2 source.
