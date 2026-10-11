@@ -1,0 +1,17 @@
+name: G05 Cross Stage Integration 088
+on:
+  push:
+    paths:
+      - '02_Domains/04_Governance/V2.1/Validation/g05_bta_*'
+      - '02_Domains/04_Governance/V2.1/Validation/test_g05_cross_stage_integration_088.py'
+      - '.github/workflows/g05-integration-088.yml'
+  workflow_dispatch:
+jobs:
+  integration:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m unittest discover -s 02_Domains/04_Governance/V2.1/Validation -p test_g05_cross_stage_integration_088.py -v
