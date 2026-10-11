@@ -22,7 +22,7 @@ Assume each case concerns a distinct decision D unless explicitly stated otherwi
 
 **S09.** Three constituent triads have independently valid authority for separate local decisions. A proposed combined virtual decision would bind an unrelated fourth jurisdiction, with no common mandate. Constituent results F/F/F.
 
-**S10.** A valid nested structure has direct original positions P1 and P3, and substitute Q=[Q1,Q2,Q3] for P2. Q2 is itself lawfully substituted by T=[T1,T2,T3]. All eight Steward holders are distinct. T=F/F/A, Q1=A, Q3=F, P1=A, P3=F. All other required gates valid.
+**S10.** A valid nested structure has direct original positions P1 and P3, and substitute Q=[Q1,Q2,Q3] for P2. Q2 is itself lawfully substituted by T=[T1,T2,T3]. All seven Steward holders are distinct. T=F/F/A, Q1=A, Q3=F, P1=A, P3=F. All other required gates valid.
 
 **S11.** Steward K completes and closes decision D1 using an authorised voting credential. The same credential is presented for a new decision D2 without fresh authorisation.
 
