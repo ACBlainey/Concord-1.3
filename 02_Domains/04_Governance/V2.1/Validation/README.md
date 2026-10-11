@@ -43,3 +43,8 @@
 - 089: 18 custody reconciliation tests; CI passed (run 38183074546).
 - 090: 20 acknowledgement journal tests, including replay, conflicts, revision checks and explicit non-authority; CI pending verification.
 - Refer to `../G05 — Integration and Graduation Register 003.md` for integration status and graduation dependencies.
+
+- 090 CI verified: 20 passing tests, run 38183195991.
+- 091 CI verified: 16 passing tests, run 38183249574.
+- Verified cumulative stage count: 21 CI stages and 299 test cases (070, 072–091).
+- Source-to-rule integration map: `../G05 — Governance Source-to-Rule Integration Map 004.md`; this maps candidate destinations but does not assert completed V2 chapter reconciliation.
