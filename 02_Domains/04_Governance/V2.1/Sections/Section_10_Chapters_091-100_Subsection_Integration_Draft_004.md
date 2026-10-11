@@ -1157,9 +1157,23 @@ It may also create de facto authority.
 The formal decision authority should remain visible.
 
 
-<!-- BEGIN V2.1 PROPOSED 100.3 — NOT CANONICAL -->
-**V2.1 proposed authority boundary:** Parallel Stewardship is independent constitutional reasoning and challenge, not an additional voting position or executive appointment. Emergency substitution requires a separate valid appointment specifying identity, competence, independence, powers, duration and review. Advisory disagreement must not be counted as a vote.
-<!-- END V2.1 PROPOSED 100.3 -->
+<!-- BEGIN V2.1 INTEGRATED 100.3 — RECONCILED CANDIDATE 005 VERBATIM -->
+
+## 100.3 Advisory Status
+
+Parallel Stewards should not silently become the actual decision-makers merely because primary stewards routinely follow their advice.
+
+Repeated acceptance may reflect high-quality advice.
+
+It may also create de facto authority.
+
+The formal decision authority should remain visible.
+
+### V2.1 — Advisory Authority Boundary
+
+Parallel Stewardship supplies independent constitutional reasoning, scrutiny and challenge. It does not by itself create an extra voting position, succession entitlement or emergency executive power. A Parallel Steward may serve in another capacity only after separately valid, independently reviewable appointment with explicit eligibility, identity, competence, scope and expiry. Advisory agreement or disagreement is not a constituent or virtual-triad vote.
+
+<!-- END V2.1 INTEGRATED 100.3 — CANDIDATE 005 -->
 ## 100.4 Independent Reasoning
 
 Parallel Stewards should reason independently before comparison where practical.
