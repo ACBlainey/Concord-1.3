@@ -4689,9 +4689,34 @@ It may represent:
 Where practicable, the reason for abstention should be recorded.
 
 
-<!-- BEGIN V2.1 PROPOSED 9.14 — NOT CANONICAL -->
-**V2.1 proposed voting-interface clarification:** In an authorised three-position constituent or virtual triad, record substantive For (F), substantive Against (A), and Unresolved (U) separately. U is not a substantive Against vote. Abstention, absence, recusal, invalid authentication and evidential insufficiency must retain distinct recorded causes; their effect on quorum or eligibility depends on separately valid procedure. A matching pair of valid F or A results yields that result only where the applicable forum and quorum rules permit.
-<!-- END V2.1 PROPOSED 9.14 -->
+<!-- BEGIN V2.1 INTEGRATED 9.14 — RECONCILED CANDIDATE 005 VERBATIM -->
+
+## 9.14 Abstention
+
+An abstention is not automatically equivalent to:
+
+- For;
+- Against;
+- consent;
+- or absence.
+
+It may represent:
+
+- insufficient information;
+- uncertainty;
+- inability to evaluate the question;
+- conflict of interest;
+- refusal to participate;
+- procedural concern;
+- or another reason.
+
+Where practicable, the reason for abstention should be recorded.
+
+### V2.1 — Three-Position Result Semantics
+
+For any lawfully constituted three-position decision, distinguish For (F), Against (A), and Unresolved (U). Two valid matching F positions yield F; two valid matching A positions yield A; otherwise U, subject to separately valid quorum, eligibility and decision-class rules. U is not a substantive Against vote. Record abstention, recusal, absence, failed authentication, conflict and evidential insufficiency as different causes, not interchangeable votes. This rule applies independently at each authorised constituent triad and at the three-resultant virtual-triad stage. No arithmetic result creates jurisdiction or appointment authority.
+
+<!-- END V2.1 INTEGRATED 9.14 — CANDIDATE 005 -->
 ## 9.15 Abstention as a Diagnostic Signal
 
 Abstention should be evaluated at two levels.
