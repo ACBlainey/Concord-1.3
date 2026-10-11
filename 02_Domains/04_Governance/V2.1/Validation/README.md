@@ -36,3 +36,10 @@
 4. Replace externally asserted booleans with evidence-backed, owner-system attestations.
 5. Run negative cases for concurrent custody updates, spoofed owner records, private beneficiary leakage, multiple emergency controllers and paused Clock.
 6. Source-resolve each promoted rule against constitutional and domain-owner documents before chapter-patch integration.
+
+
+## Cross-stage integration update
+- 088: 12 cross-stage scenario tests; CI passed (run 38182944631).
+- 089: 18 custody reconciliation tests; CI passed (run 38183074546).
+- 090: 20 acknowledgement journal tests, including replay, conflicts, revision checks and explicit non-authority; CI pending verification.
+- Refer to `../G05 — Integration and Graduation Register 003.md` for integration status and graduation dependencies.
