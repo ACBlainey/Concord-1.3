@@ -33,3 +33,9 @@ The local V2 source has **215 numbered chapters**. Plan 22 sectional manuscripts
 - [G05 integrated architecture](G05%20%E2%80%94%20Bounded%20Governance%2C%20Continuity%20and%20Recovery%20Integration%20001.md) consolidates the 070–087 validation candidates, constitutional boundary conditions, owner-system interfaces, surviving duties, emergency protection and aggregate-control review.
 - [Validation evidence register](Validation/README.md) tracks stage-level tests, CI caveats and remaining end-to-end work.
 - **Integration candidate only:** this material is now incorporated into the V2.1 working architecture, but it has not been graduated into preserved V2 canonical or assembled chapter sections. Source resolution and the graduation gate remain mandatory.
+
+
+## G05 integration continuation
+- `G05 — Custody Reconciliation Protocol 002.md`: custody reconciliation without central authority.
+- `G05 — Integration and Graduation Register 003.md`: traceability and outstanding integration dependencies.
+- Stage 088–090 cross-stage, reconciliation and acknowledgement validation candidates are in `Validation/`; unit tests are not proof of deployed integration.
