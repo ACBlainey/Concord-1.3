@@ -1527,9 +1527,41 @@ The final decision record should preserve where appropriate:
 This creates a reconstructable chain.
 
 
-<!-- BEGIN V2.1 PROPOSED 54.26 — NOT CANONICAL -->
-**V2.1 proposed decision-record extension:** An expanded virtual-triad record must identify originating R, edge-adjacent A/B/C, authorised origin-included or origin-excluded arrangement, constituent membership and individual F/A/U votes, each constituent resultant, the final three-resultant outcome, reasons for unresolved positions, jurisdiction and resource competence, scope, expiry, review and implementation. A pooled nine-ballot tally cannot replace the virtual-triad result.
-<!-- END V2.1 PROPOSED 54.26 -->
+<!-- BEGIN V2.1 INTEGRATED 54.26 — RECONCILED CANDIDATE 005 VERBATIM -->
+
+## 54.26 Decision Record
+
+The final decision record should preserve where appropriate:
+
+- identifier;
+- version;
+- question;
+- proposal;
+- authority;
+- jurisdiction;
+- evidence;
+- uncertainty;
+- alternatives;
+- conflicts;
+- deliberation;
+- votes;
+- abstentions;
+- minority reasoning;
+- decision;
+- implementation authority;
+- resource authority;
+- stop conditions;
+- review conditions;
+- expiry;
+- and later outcome.
+
+This creates a reconstructable chain.
+
+### V2.1 — Expanded Virtual-Triad Record
+
+When expanded voting is authorised, the decision record must include origin R, edge-adjacent A/B/C, the origin-excluded or origin-included mode, source of common jurisdiction, each constituent triad's verified voting positions, individual F/A/U inputs, constituent F/A/U resultants, and the final three-resultant F/A/U decision. Record quorum, abstention and recusal causes, independent authorisation, conflicts, scope, expiry, review, resource authority and implementation responsibility. A pooled nine-vote tally is diagnostic only and has no decision effect.
+
+<!-- END V2.1 INTEGRATED 54.26 — CANDIDATE 005 -->
 ## 54.27 Minority Reasoning
 
 Where a significant minority disagrees, their reasoning should remain attached to the decision record where appropriate.
