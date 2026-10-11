@@ -1585,9 +1585,26 @@ Relevant questions include:
 - What level preserves practical accountability?
 
 
-<!-- BEGIN V2.1 PROPOSED 149.8 — NOT CANONICAL -->
-**V2.1 proposed scale mechanism:** GTP geometric parent/child describes tessellation only. Every spatial resolution remains conceptually present; multiple operational resolutions may be active concurrently. Workload-driven operational subdivision or consolidation requires capacity criteria and hysteresis, without creating command authority by cell size.
-<!-- END V2.1 PROPOSED 149.8 -->
+<!-- BEGIN V2.1 INTEGRATED 149.8 — RECONCILED CANDIDATE 005 VERBATIM -->
+
+## 149.8 Appropriate Scale
+
+The correct scale depends upon the problem.
+
+Relevant questions include:
+
+- Where does the consequence occur?
+- Where is relevant knowledge located?
+- What capability is required?
+- What coordination is necessary?
+- What externalities exist?
+- What level preserves practical accountability?
+
+### V2.1 — Operational Mesh Scale
+
+GTP's parent/child terms describe spatial subdivision, not a command hierarchy. Every spatial resolution exists conceptually at all times. Different resolutions may operate simultaneously, including overlapping coordination areas. Operational subdivision or consolidation responds to workload and capacity, with explicit hysteresis to prevent oscillation, but neither creates nor transfers lawful authority. Choose the lowest capable legitimate decision field by competence, externalities, resources and jurisdiction.
+
+<!-- END V2.1 INTEGRATED 149.8 — CANDIDATE 005 -->
 ## 149.9 Centralisation Burden of Proof
 
 Where authority is moved upward, the reason should be articulable.
@@ -1707,9 +1724,30 @@ does not thereby acquire authority over:
 The scope should remain connected to the responsibility.
 
 
-<!-- BEGIN V2.1 PROPOSED 150.2 — NOT CANONICAL -->
-**V2.1 proposed shared-authority boundary:** Coordination of information, logistics or shared infrastructure does not itself transfer local policy authority. Binding common decisions require an expressly lawful shared competence; neighbouring preferences alone cannot override a lawful local decision. Expanded triadic voting cannot manufacture the competence it presupposes.
-<!-- END V2.1 PROPOSED 150.2 -->
+<!-- BEGIN V2.1 INTEGRATED 150.2 — RECONCILED CANDIDATE 005 VERBATIM -->
+
+## 150.2 Central Coordination Is Not Total Government
+
+A civilisation-wide institution may possess narrow authority over one shared function without becoming the general ruler of every local community.
+
+For example, an institution responsible for:
+
+- orbital collision avoidance
+
+does not thereby acquire authority over:
+
+- education;
+- culture;
+- local property;
+- or ordinary community life.
+
+The scope should remain connected to the responsibility.
+
+### V2.1 — Common Coordination Versus Binding Power
+
+Sharing information, logistical planning or infrastructure does not grant general power to override an independent local jurisdiction. A binding shared decision requires a separately constituted common competence, bounded to the common field and subject to review. Even an expanded virtual-triad majority cannot manufacture that competence. Where local decisions remain independent, preference aggregation across other regions does not supersede them.
+
+<!-- END V2.1 INTEGRATED 150.2 — CANDIDATE 005 -->
 ## 150.3 Enumerated Central Authority
 
 Higher levels may benefit from explicitly defined authority.
