@@ -32,3 +32,7 @@ This map uses the V2.1 README and GTP recovery 001 for directly visible chapter 
 2. Build explicit per-clause change register and patch only the appropriate chapters.
 3. Verify independent domain-owner interface contracts, with authenticated evidence rather than fixture booleans.
 4. Validate complete section assembly and constitutional review before graduation.
+
+
+## Source-resolution progress — chapter patch pass
+The complete preserved V2 canonical blob was retrieved for this pass. Chapter 12 begins at line 7228 and Chapter 132 at line 37720. Two targeted, non-adopted patch proposals are now in `Chapter_Patches/`: `Chapter 12 — G05 Triadic and Bounded Coordination Patch 005.md` and `Chapter 132 — GTP Mesh and Authority Separation Patch 006.md`. Both preserve the baseline and identify unresolved review points. This supersedes the earlier limitation that V2 chapter text had not been obtained; V1 full-text comparison and section assembly remain outstanding.
