@@ -20,9 +20,28 @@ The objective is not merely hierarchy.
 It is allocation of responsibility across scales.
 
 
-<!-- BEGIN V2.1 PROPOSED 151.1 — NOT CANONICAL -->
-**V2.1 proposed terminology clarification:** Federated constitutional priority and institutional delegation, where lawfully established, are distinct from GTP spatial parent/child. A geometrically larger triangle has no automatic command power over smaller triangles. Concurrent mesh coordination can coexist with separately constituted federal institutions.
-<!-- END V2.1 PROPOSED 151.1 -->
+<!-- BEGIN V2.1 INTEGRATED 151.1 — RECONCILED CANDIDATE 005 VERBATIM -->
+
+## 151.1 Nested Governance
+
+A federation may combine:
+
+- local;
+- regional;
+- planetary;
+- and civilisation-wide authority.
+
+Federation allows multiple layers of legitimate Governance to coexist.
+
+The objective is not merely hierarchy.
+
+It is allocation of responsibility across scales.
+
+### V2.1 — Federation Is Not Geometric Hierarchy
+
+Lawful federal delegation, priority and concurrent jurisdiction derive from constitutional provisions, not GTP cell containment. A larger triangle has no inherent supervisory authority over a smaller one. The spatial mesh may coordinate across scales while legally established federated offices retain their separately defined powers. Spatial parent/child and institutional superior/subordinate must not be conflated.
+
+<!-- END V2.1 INTEGRATED 151.1 — CANDIDATE 005 -->
 ## 151.2 Federated Constitutional Core
 
 Different member communities may share:
