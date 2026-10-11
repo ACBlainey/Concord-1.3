@@ -1209,9 +1209,29 @@ For example:
 - What if a successor is technically available but functionally incapable?
 
 
-<!-- BEGIN V2.1 PROPOSED 28.3 — NOT CANONICAL -->
-**V2.1 proposed succession interface:** Geometric adjacency and Parallel Steward advisory status confer no succession rights. An emergency substitute occupies only a specified position after a valid appointment with verified identity, competence, independence, scope, expiry and review. Principled abstention and a substantive Against vote are not vacancies.
-<!-- END V2.1 PROPOSED 28.3 -->
+<!-- BEGIN V2.1 INTEGRATED 28 — CANDIDATE 006 VERBATIM -->
+
+## 28.3 Succession Order and Position Legitimacy
+
+A succession architecture may define:
+
+- primary successor;
+- secondary successor;
+- emergency delegate;
+- temporary collective body;
+- or other fallback.
+
+The final sequence must be coordinated with Continuity and Emergency architecture. The successor must be identified and authorised by an independently valid rule, with verified identity, eligibility, competence, independence, specified decision position, limited scope, expiry, review and an auditable appointment record.
+
+A spatially adjacent GTP triangle, a larger geometric cell or the status of Parallel Steward does not itself appoint a substitute or confer a voting position. A Parallel Steward may serve only after a separately valid appointment. A principled abstention, substantive Against vote or unresolved decision does not by itself create a vacancy.
+
+Succession architecture must address failure of its own mechanism, including an unavailable or compromised primary successor, a successor implicated in the emergency, failed identity verification, lost communications, disputed recognition, corrupted succession records and functional incapacity.
+
+An emergency appointment must not silently enlarge the authority of the office, reset accountability or become permanent by inertia.
+
+**Recovered emergency interface.** Constitutional Emergency V2 Chapters 21, 82 and 92 distinguish declaration authority, delegated succession and activation of particular emergency powers. Emergency classification does not confer greater Steward standing (Chapter 54). Verify the lawful appointment separately from any exceptional authority exercised by the successor. This chapter controls the position succession; Constitutional Emergency V2 controls the scope and expiry of emergency powers.
+
+<!-- END V2.1 INTEGRATED 28 — CANDIDATE 006 -->
 ## 28.4 Restoration
 
 Where the normal steward returns and remains constitutionally capable, emergency succession should have a defined restoration process.
@@ -1341,9 +1361,27 @@ from
 **vacancy requiring succession**.
 
 
-<!-- BEGIN V2.1 PROPOSED 29.2 — NOT CANONICAL -->
-**V2.1 proposed degraded-triad interface:** Classify absence, vacancy, abstention, recusal, failed authentication, conflict and evidential uncertainty distinctly. Two matching authorised votes may resolve a three-position decision only under the applicable quorum rules. An expanded virtual triad is not an automatic substitute for lawful succession, nor a way to shop for a favourable result.
-<!-- END V2.1 PROPOSED 29.2 -->
+<!-- BEGIN V2.1 INTEGRATED 29 — CANDIDATE 006 VERBATIM -->
+
+## 29.2 One Steward Unavailable and Degraded Decision Validity
+
+Where one Steward is unavailable, responses may include:
+
+- delay;
+- emergency substitute;
+- delegated replacement;
+- escalation;
+- or a predefined degraded decision rule.
+
+The choice depends on urgency, decision class, lawful quorum and the independently authorised scope of the response. Where delay is safe, preserving ordinary triadic decision structure may be preferable. Where delay creates serious harm, a bounded substitute or degraded decision rule may be necessary.
+
+Record separately: temporary unavailability, vacancy requiring succession, abstention, recusal, conflict of interest, failed authentication, compromised independence and evidential insufficiency. These conditions are not interchangeable. A principled abstention is not a vacancy and a substantive Against vote is not a failure of staffing.
+
+Two matching valid votes in a three-position triad may yield a substantive majority only where applicable quorum and eligibility rules permit. F/F/U and A/A/U can therefore resolve arithmetically, but an invalid forum or quorum still prevents legal effect.
+
+A temporary expanded virtual triad is not an automatic succession route and must not be convened merely to reverse a lawful decision or bypass abstention. Its constituent membership, lawful competence, resultants and termination must be independently authorised and recorded.
+
+<!-- END V2.1 INTEGRATED 29 — CANDIDATE 006 -->
 ## 29.3 Two Stewards Unavailable
 
 Where only one steward remains, ordinary triadic authority may no longer exist.
@@ -1487,9 +1525,30 @@ Possible responses may include:
 The mechanism should exist before crisis where practical.
 
 
-<!-- BEGIN V2.1 PROPOSED 30.2 — NOT CANONICAL -->
-**V2.1 proposed deadlock interface:** A substantive majority Against is different from U (no valid majority). At the resultant level F/F/U gives F; A/A/U gives A; F/A/U gives U, subject to the forum's validity requirements. An emergency preservation measure requires an independently authorised, narrow and expiring emergency route; escalation cannot launder an invalid or unfavourable vote into new authority.
-<!-- END V2.1 PROPOSED 30.2 -->
+<!-- BEGIN V2.1 INTEGRATED 30 — CANDIDATE 006 VERBATIM -->
+
+## 30.2 Emergency Deadlock and Virtual-Triad Result Validity
+
+Where a required decision cannot obtain the necessary majority and delay creates severe danger, predefined emergency escalation may apply. Emergency deadlock must not be solved by pretending a majority exists, changing the forum merely to secure a preferred outcome, or treating a substantive Against result as absence.
+
+Possible responses include:
+
+- additional emergency evidence;
+- a separately authorised temporary substitute;
+- a properly constituted escalation;
+- a specialised emergency body;
+- a predefined narrow preservation action;
+- or another constitutionally established pathway.
+
+The mechanism should exist before crisis where practical. It must identify the source of authority, decision field, evidence, time limit, implementation and review.
+
+For a properly constituted three-resultant virtual triad, F/F/U produces F, A/A/U produces A, and F/A/U produces U. U is not an Against vote. A two-stage voting result is valid only if the underlying constituent triads, quorum, identity, independence and common jurisdiction are valid.
+
+Emergency preservation where the status quo itself creates grave danger requires a separate, narrow, time-limited legal authority with audit and review. No emergency route may launder a failed or unwanted vote into an enlarged permanent jurisdiction.
+
+**Existing architecture link.** Constitutional Emergency V2 Chapters 21, 54, 92, 113 and 169 govern declaration, authority limits, activation, review and rights restoration. PH-02 requires separate tests of legitimacy, activation and individual exercise. A deadlocked triad does not itself pass those tests.
+
+<!-- END V2.1 INTEGRATED 30 — CANDIDATE 006 -->
 ## 30.3 Default Preservation
 
 Where no authorised state change can be made, the default may remain preservation of the existing state where that is safer.
