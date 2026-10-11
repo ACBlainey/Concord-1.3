@@ -13,15 +13,15 @@ class DistributedTests(unittest.TestCase):
     def test_exposure_flag(self):self.assertIn("DISTRIBUTED_EXPOSURE_REVIEW",self.check()["review_flags"])
     def test_adjacent_not_concurrent(self):self.assertEqual(self.check()["maximum_concurrent_controllers"],1)
     def test_overlap_concurrency(self):
-        self.assertEqual(self.check([self.a,Restriction("M3","P1","C2",5,15)])["maximum_concurrent_controllers"],2)
+        self.assertEqual(self.check([self.a,Restriction("M3","P1","C2",5,15,"ACCESS")])["maximum_concurrent_controllers"],2)
     def test_concurrency_flag(self):
-        self.assertIn("CONCURRENT_CONTROLLERS_REVIEW",self.check([self.a,Restriction("M3","P1","C2",5,15)])["review_flags"])
+        self.assertIn("CONCURRENT_CONTROLLERS_REVIEW",self.check([self.a,Restriction("M3","P1","C2",5,15,"ACCESS")])["review_flags"])
     def test_no_double_counting(self):
-        self.assertEqual(self.check([self.a,Restriction("M3","P1","C2",5,15)])["union_exposure_ticks"],15)
+        self.assertEqual(self.check([self.a,Restriction("M3","P1","C2",5,15,"ACCESS")])["union_exposure_ticks"],15)
     def test_same_controller_not_two(self):
-        self.assertEqual(self.check([self.a,Restriction("M3","P1","C1",5,15)])["maximum_concurrent_controllers"],1)
+        self.assertEqual(self.check([self.a,Restriction("M3","P1","C1",5,15,"ACCESS")])["maximum_concurrent_controllers"],1)
     def test_other_subject_isolated(self):
-        self.assertEqual(self.check([Restriction("M3","P2","C2",0,20)])["union_exposure_ticks"],0)
+        self.assertEqual(self.check([Restriction("M3","P2","C2",0,20,"ACCESS")])["union_exposure_ticks"],0)
     def test_other_kind_isolated(self):
         self.assertEqual(self.check([Restriction("M3","P1","C2",0,20,"MOVEMENT")])["union_exposure_ticks"],0)
     def test_window_clip(self):
