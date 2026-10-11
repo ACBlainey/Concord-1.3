@@ -21,7 +21,7 @@
 - 086: cumulative single-controller exposure — 18
 - 087: distributed multi-controller exposure — 18
 
-**Arithmetic:** 233 test cases across 17 stage files, if 087's 18 tests pass; 215 passing tests in stages 070–086 were verified in prior GitHub Actions runs. Stage 087 initially failed due to five malformed test constructors; the test fixture was corrected in a subsequent commit and requires a successful rerun before inclusion in the verified count.
+**Verified status:** 233 passing test cases across 17 stage files, each with a successful GitHub Actions stage run. Stage 087 initially failed due to five malformed test constructors; corrected in commit `232498d7e76c119a95911b7859c64245091faaf5`, and rerun **38182562830 passed**: https://github.com/ACBlainey/Concord-1.3/actions/runs/38182562830. Historical failed run is retained as provenance.
 
 ## Interpretation
 - Individual workflows invoke their stage-specific unittest pattern.
@@ -30,7 +30,7 @@
 - Refer to `../G05 — Bounded Governance, Continuity and Recovery Integration 001.md` for the architectural interface and explicit graduation gate.
 
 ## Priority validation work
-1. Rerun 087 and record actual result.
+1. Preserve the 087 failed-run and successful rerun provenance; do not treat fixture repair as architectural proof.
 2. Build one cross-stage scenario with owner-issued authority, GTP collision, BTA partial transition, KCS invalidation, emergency expiry, continuing duty and contested succession.
 3. Validate strict BTA YAML schema and duplicate-key handling.
 4. Replace externally asserted booleans with evidence-backed, owner-system attestations.
