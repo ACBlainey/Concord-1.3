@@ -181,3 +181,53 @@ The current architecture is therefore **evidence-preserving and method-agnostic*
 **Future evaluation is conditional, not automatic:** A method must be appropriate to the actual decision class, observable consequences and available counterfactual evidence, and must be independently scrutinised before use in consequential ascension. Until then, documented experience is evidence of participation, not proof of superior judgement. The preferred ascension pathway remains an authorial direction; the final selection/appointment mechanism is open.
 
 This clarification **supersedes any reading of §11 as requiring immediate design of a universal performance metric**, while preserving §11's settled non-conformity and reality-based evidence principles.
+
+## 13. Shared office lifecycle and domain-owner interface — working integration specification (12 October 2026)
+
+**Status: PROPOSED INTERFACE ASSEMBLY / NOT AN APPOINTMENT RULE.** This section connects existing architecture without selecting a democratic, meritocratic or ascension-based final appointment mechanism. The authorial preference for experienced parallel-Steward ascension stands. Evaluation metrics remain explicitly deferred under §12.
+
+### 13.1 Distinct owner functions
+
+1. **Historical:** preserves stewardship knowledge, qualification provenance, frozen contemporaneous decision records, subsequent evidence, corrections and protected lineage. Custody and evidential retrieval **do not confer accreditation or office**.
+2. **Education:** owns the training pathway and accreditation decision, with review and expiry/renewal as applicable. Accreditation **does not appoint**.
+3. **Participation/eligibility owner:** supplies current tier and any other valid participation standing relevant to a given office. A tier check is **necessary where required but not sufficient**.
+4. **Competent office/appointing authority:** must be independently established by the applicable Governance, Judiciary, Civil Security or Defence rules; validates a particular office's competence, candidate selection, mandate and appointment. **This appointing authority is still an open design dependency.**
+5. **Office-owning domain:** maintains the authoritative occupied/vacant/suspended/acting/retired office state, scope, jurisdiction, term, conflict restrictions, exercise of power and termination. Other systems may hold projections but must not silently alter this state.
+6. **Research:** may investigate decision-class-specific reality-based assessment when evidence exists; no present universal ranking or appointment power follows.
+
+### 13.2 Minimum interoperable state distinctions
+
+Maintain separate, time-qualified states for **participant standing**, **training progress**, **accreditation**, **role eligibility**, **parallel-role assignment**, **parallel practice**, **candidate status**, **selection outcome**, **lawful appointment**, **office mandate**, **currently exercisable authority**, **temporary unavailability**, **suspension**, **vacancy**, **succession**, and **retirement**. One transition does not imply another. Record the authoritative owner, evidence provenance, effective interval, contestation route and unknown/pending status for each material state.
+
+A parallel Steward may be trained and eligible yet have **no independent official vote**. Their separately frozen shadow decision and reasoning provide evidence for learning; their ballot must not be counted in an incumbent triad unless a distinct lawful substitution or appointment independently constitutes them into an official voting position. The same event cannot be counted twice by changing labels.
+
+### 13.3 Proposed bounded workflow, with explicit unresolved gates
+
+**Entry:** Verify current participant tier, required Education accreditation, role-specific suitability/conflict checks and legitimate parallel-position availability. If any material gate is unresolved, retain a pending state rather than silently granting eligibility.
+
+**Parallel service:** Assign a contextually bounded shadow role; independently freeze decision records and evidence available at the time; preserve appropriate privacy and third-party rights. Incumbent and parallel records must be comparable only where the decision context genuinely permits comparison. No conformity bonus.
+
+**Ascension candidacy:** A vacancy or other lawful selection trigger may cause currently eligible parallel Stewards to be considered. Their time served and preserved records establish a **reviewable evidence base**, not a predetermined rank, entitlement or automatic promotion. Decision-class-specific evaluation may be developed later; no metric is prescribed now.
+
+**Selection and appointment:** The authorised selector, candidate-pool procedure, appointment instrument, term and mandate must be established by independent domain rules before any consequential office transition. Verify separately necessary authorities at the actual commit, not only when the appointment was proposed. Do not invent a selector from incumbent preferences, an algorithm, a credential, a tier or a GTP vertex.
+
+**Service and review:** Keep current accreditation, tier, conflicts, mandate, and state changes distinct. Changes trigger review of dependent authority rather than automatic global invalidation or automatic promotion.
+
+**Vacancy/absence/continuity:** Distinguish temporary absence, recusal, suspension, expiry, permanent vacancy and emergency preservation. A shadow Steward does **not** inherit office by proximity or experience. Any temporary acting role or substitute vote requires its own lawful bounded constitution, expiry, review and provenance. Outstanding duties survive personnel transitions until legitimately discharged.
+
+**Exit:** Retain audit and contestation records under Historical protections; remove or expire only the actual mandate/authority concerned, without erasing obligations or evidence.
+
+### 13.4 Existing reusable interfaces (do not duplicate)
+
+- **CWA / FPA:** bound shadow role, visibility, context and permissions.
+- **MKA:** verify that required appointment and implementation authorities legitimately compose; it is not the appointing authority.
+- **BTA:** represent asynchronous cross-owner transitions and pending states; it is not the source of eligibility or appointment.
+- **KCS / STRA:** propagate changes and trigger review without deciding promotion or revocation.
+- **SMM:** represent staffing and role readiness without claiming a validated performance score.
+- **CIBB / Private Local Evaluation:** protect authoritative records and minimum-disclosure projections; actual access-control integration remains to be validated.
+- **Triadic Decision Making:** applicable to lawful selection decisions where the domain provides a validly constituted selector; it does not itself constitute that selector.
+- **Fault-Tolerant Accountability and Responsibility Continuity:** source of continuity patterns, still active development and not a standalone succession authority.
+
+### 13.5 Open constitutional and operational decisions
+
+The shared core cannot yet resolve: the **legitimate selecting/appointing body** and its constitution; fair initial allocation into parallel positions; handling multiple eligible candidates without invented metrics; role-specific minimum experience; lawful acting appointments and voting substitution; office-specific term/rotation/recall; cross-domain acceptance and tests. Preserve these as dependencies in the **single Governance V2.1 Outstanding Issues Register**, rather than treating this proposed interface as a final appointment code.
