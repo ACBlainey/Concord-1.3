@@ -200,6 +200,12 @@ The following are **specific, verified conflicting/duplicated clause locations**
 
 **Authorial metric deferral now reflected:** No universal performance score, weighting, outcome horizon or comparative threshold should be designed until actual decision classes and suitable evidence exist. Preserve independently authored incumbent/parallel records and later observations; Historical holds provenance, Education accreditation, participation tier eligibility, Research may later develop context-specific evaluation methods. Agreement with an incumbent alone is not merit. See shared `03_Cross_Domain_Architecture/Stewardship_Selection_and_Allocation/README.md` §§10–13. This is an intentional design boundary, not a missing metric to invent now.
 
+## GTP spatial nonhierarchy with optional bounded hierarchical coordination — 12 October 2026
+
+**New authorial clarification:** The GTP geometry is multiscale and normally supports nonhierarchical mesh governance, **but a hierarchy across scales may sometimes be useful and must not be categorically forbidden**. Provision is permissive and intentionally underspecified: a legitimate task may use bounded hierarchical **coordination**, but geometry itself grants no superior authority or standing chain of command. Any binding direction requires independent constitutional/domain authority, scope, accountability and review. Do **not** define universal hierarchy triggers, command chains, levels or a mandatory topology prematurely. This **qualifies** previous categorical statements of nonhierarchy in G-009/G-010 and Chapter 132 without replacing the nonhierarchical default.
+
+**Integrated source-preserving:** `Sections/Section_14_Chapters_131-140_Clause_Integration_Draft_003.md` contains a delimited Chapter 132 authorial clarification. G-009/G-010 remain open for reconciliation of conflicting legacy clauses, jurisdiction and legitimate optional coordination boundaries; no permanent hierarchical government is established.
+
 ## Next resolution sequence
 
 First verify and assemble Chapter 12 and Chapter 132 against original V1/V2/GTP sources (G-001–010), while preserving the 12 October timing direction. Then reconcile emergency and state-machine contracts (G-011–016), validate owner/custody/privacy systems (G-017–022), and finish the 215-chapter source-completeness and constitutional graduation gates (G-023–027). Update this one register as issues are found or closed.
