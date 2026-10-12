@@ -53,3 +53,12 @@
 ## Decision state-machine adversarial specification 092
 
 `Decision_State_Machine_Adversarial_Cases_092.md` defines 24 **unexecuted** source-aligned fixtures for unique decision IDs, contextual two-vote majorities, third-ballot provenance, event-triggered expansion/parallel Steward routes, cross-constituent identity, action idempotency, historical finality, fresh authority, and paused-Clock emergency response. This is a separate proposed G03/G07 test specification; **do not add its cases to the G05 verified CI pass counts**. Implementation adapters and execution evidence remain outstanding.
+
+
+## Provisional executable decision-state fixture 093
+
+- `decision_state_fixture_093.py`: deliberately simplified in-memory G03/G07 decision-state fixture, **not a deployed Concord authority or execution service**.
+- `test_decision_state_fixture_093.py`: 20 executable Python unittest checks for unique instances, two matching official ballots, late third-vote provenance, duplicates, expanded constituent resultants, cross-position identity, bounded vote acceptance, host action receipts and historical finality.
+- `.github/workflows/decision-state-fixture-093.yml`: GitHub Actions workflow configured to run the test module on changes or manual dispatch.
+- The 24 broader adversarial cases in `Decision_State_Machine_Adversarial_Cases_092.md` are **not** all implemented in 093: concurrency, crash recovery, live authority attestations, cross-system ancestry and paused-Clock emergency behaviour remain untested.
+- **Execution status:** files and workflow committed; CI run result **not yet independently verified**. Do not count these as passed cases or as constitutional/production validation.
