@@ -1745,6 +1745,15 @@ The expanded decision architecture can be summarised:
 
 > **A significant Governance decision should remain identifiable from proposal through authority, evidence, deliberation, implementation, measurement, review, correction and closure. No stage should be allowed to silently become a source of new constitutional authority merely because the previous stage authorised participation in the process.**
 
+<!-- BEGIN G05 MULTI-OWNER ACKNOWLEDGEMENT 090 -->
+
+## Acknowledgement contract candidate
+A proposed reconciliation event names the competent source owners. Each owner independently accepts or rejects the event after authenticating the sender, checking scope and source revision, and preserving provenance. Duplicate identical acknowledgements are idempotent; conflicting or replayed acknowledgements are held for review. All required acknowledgements permit only a **projection-consensus report**, never automatic custody assignment, discharge of duties, or constitutional authority.
+
+Stage 090 intentionally uses externally asserted booleans for authentication and scope. It **does not implement cryptographic signatures**, durable storage, a secure transport, real atomic transactions or owner-service integration. The journal's owner list is supplied by the caller; it is not an authoritative owner registry.
+
+<!-- END G05 MULTI-OWNER ACKNOWLEDGEMENT 090 -->
+
 # Chapter 55 — Deliberative Integrity
 
 ## 55.1 Independent Thought Before Comparison
