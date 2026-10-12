@@ -2399,3 +2399,15 @@ Any such arrangement requires an independently valid lawful basis and relevant c
 **Intentionally open:** No universal circumstances, trigger, chain of command, level, voting procedure or hierarchy-design algorithm are prescribed here. Those depend on the actual task and independently applicable constitutional and domain rules. This clarification qualifies categorical readings of earlier nonhierarchy wording without reinstating the obsolete assumption that GTP is inherently a territorial command hierarchy. All prior source text is retained for clause-level reconciliation.
 
 <!-- END V2.1 GTP OPTIONAL BOUNDED HIERARCHICAL COORDINATION 2026-10-12 -->
+
+<!-- BEGIN V2.1 OPTIONAL HIERARCHY CROSS-CHAPTER RECONCILIATION 2026-10-12 — Chapter 132 -->
+
+### Chapter 132 — Legacy-clause interpretive reconciliation: nested geometry and optional coordination
+
+**Working interpretation, subject to authorial clause approval.** Older §132.1 describes “neutral hierarchical territorial partitioning” and older §132.5 says the GTP hierarchical structure “may support nested jurisdiction”; later §132.5 says larger cells do not acquire command power and that local decisions remain with the lowest capable legitimate field. Read these without suppressing any source text: **hierarchical** can describe nested *geometry*; a task may additionally adopt a bounded *hierarchical coordination* arrangement, but neither description constitutes an inherent superior governing office. A legally constituted hierarchy of **binding decision authority** is possible only if its independent lawful source expressly supports that relationship; this is not supplied by the geometry or by a general permission to coordinate.
+
+The “lowest capable legitimate decision field” is a default subsidiarity preference, **not an absolute bar** to a lawfully authorised cross-scale task arrangement. A wider coordination role may be useful without displacing local lawful competence. The author has intentionally left when, how and at what scale such an arrangement might be used undefined; no generic command chain, hierarchical escalation trigger or appointment method should be inserted now.
+
+**Clause disposition pending:** Keep §§132.1, 132.2, 132.4, 132.5 and 132.12 old and recovered wording visible; at final assembly reconcile the obsolete optional-use framing and categorical nonhierarchy language against the adopted conceptual mesh **with optional bounded hierarchical coordination**. Do not treat the new flexibility as retroactive authorisation for any existing command relationship.
+
+<!-- END V2.1 OPTIONAL HIERARCHY CROSS-CHAPTER RECONCILIATION 2026-10-12 -->
