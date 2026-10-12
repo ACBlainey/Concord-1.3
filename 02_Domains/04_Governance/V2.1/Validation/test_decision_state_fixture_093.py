@@ -53,6 +53,28 @@ class DecisionStateFixtureTests(unittest.TestCase):
         self.assertEqual(new.vote("P1","s1","A"),"ACCEPTED");self.assertEqual(old.result,"F")
     def test_new_id_without_authority_rejected(self):
         self.assertEqual(Decision("D-2",False).vote("P1","s1","A"),"REJECTED")
+    def test_vote_after_majority_is_only_provenance(self):
+        d=self.decided()
+        self.assertEqual(d.vote("P3","s3","F"),"PROVENANCE_ONLY")
+        self.assertEqual(d.result,"F")
+        self.assertEqual(len(d.positions),2)
+    def test_late_provenance_cannot_repeat_position(self):
+        d=self.decided()
+        self.assertEqual(d.vote("P1","s1","F"),"DUPLICATE")
+        self.assertEqual(d.result,"F")
+    def test_action_cannot_execute_before_majority(self):
+        d=self.make()
+        self.assertEqual(d.action("A1",host_authorised=True),"REJECTED")
+    def test_unauthorised_expansion_does_not_fill_position(self):
+        d=self.make()
+        self.assertEqual(d.expanded("P3",["a","b","c"],["F","F","F"]),"NO_EXPANSION_AUTHORITY")
+        self.assertEqual(d.positions,{})
+    def test_distinct_new_instance_does_not_mutate_history(self):
+        old=self.decided();old.action("A1",host_authorised=True);old.close()
+        new=Decision("D-2",True)
+        new.vote("P1","s1","A");new.vote("P2","s2","A")
+        self.assertEqual((old.result,old.actions["A1"],old.completed),("F","DONE",True))
+        self.assertEqual(new.result,"A")
     def test_unresolved_cannot_close(self):
         self.assertEqual(self.make().close(),"UNRESOLVED")
     def test_expired_vote_rejected(self):
