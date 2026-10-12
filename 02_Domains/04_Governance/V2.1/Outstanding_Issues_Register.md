@@ -186,6 +186,14 @@ The following are **specific, verified conflicting/duplicated clause locations**
 
 **Remaining unresolved under G-013/G-023/G-024:** comparator design, outcome horizon and attribution, metrics for uncertainty/rights and rare events, independent assessment authority, safeguards against cherry-picked cases, appeals, readiness thresholds and selection among multiple qualified candidates. **Do not reopen the non-conformity principle.**
 
+## Stewardship lifecycle integration and evaluation deferral — 12 October 2026
+
+**Authorial clarification:** No universal Steward comparative score, weights, decision-quality thresholds or observation window can responsibly be designed before actual decision classes and evidence are known. Preserve independent contemporaneous decisions, reasons, evidence and later observations; allow Research to develop context-specific validated evaluation later. Historical owns provenance, Education training/accreditation, participation tier controls eligibility; matching an incumbent alone carries no merit reward. Ascension from experienced parallel Stewards remains the preferred route, **not an automatic appointment**. See `03_Cross_Domain_Architecture/Stewardship_Selection_and_Allocation/README.md` §§10–13.
+
+**Interface integration completed at specification level:** The shared README §13 now distinguishes owner-controlled standing, accreditation, eligibility, shadow assignment, candidacy, selection, lawful appointment, mandate, authority, temporary absence, succession and exit; identifies reusable CWA/FPA/MKA/BTA/KCS/STRA/SMM/CIBB interfaces; and prohibits shadow votes from silently becoming official votes. No production owner integration or constitutional appointment approval is claimed.
+
+**Residual issue under G-013, G-023–027:** lawful selector/appointing authority, its constitution and anti-capture safeguards; fair allocation into parallel positions; competing candidates without premature ranking; lawful bounded temporary substitution and office-specific term/rotation/recall; owner-system acceptance and validation. Metric design is **intentionally deferred**, not a current implementation task.
+
 ## Next resolution sequence
 
 First verify and assemble Chapter 12 and Chapter 132 against original V1/V2/GTP sources (G-001–010), while preserving the 12 October timing direction. Then reconcile emergency and state-machine contracts (G-011–016), validate owner/custody/privacy systems (G-017–022), and finish the 215-chapter source-completeness and constitutional graduation gates (G-023–027). Update this one register as issues are found or closed.
