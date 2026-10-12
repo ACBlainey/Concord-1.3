@@ -206,6 +206,12 @@ The following are **specific, verified conflicting/duplicated clause locations**
 
 **Integrated source-preserving:** `Sections/Section_14_Chapters_131-140_Clause_Integration_Draft_003.md` contains a delimited Chapter 132 authorial clarification. G-009/G-010 remain open for reconciliation of conflicting legacy clauses, jurisdiction and legitimate optional coordination boundaries; no permanent hierarchical government is established.
 
+## Chapter 12 / Chapter 132 optional hierarchy consistency pass — 12 October 2026
+
+**Working integration completed:** Source-preserving delimited reconciliation notes added to `Sections/Section_14_Chapters_131-140_Clause_Integration_Draft_003.md` and `Sections/Section_02_Chapters_11-20_Subsection_Integration_Draft_004.md`. The notes distinguish (1) nested GTP geometry, (2) optional bounded hierarchical coordination, and (3) independently authorised binding decision hierarchy. The default remains concurrent multiscale mesh governance. Older Chapter 132 references to hierarchical partitioning/nested jurisdiction are preserved, not silently discarded; “lowest capable legitimate field” is treated as a subsidiarity default, not a categorical prohibition on lawful cross-scale coordination. Chapter 12 triadic position, event, quorum, voting weight and majority rules remain unchanged by any optional coordination arrangement.
+
+**Still open G-008–010/G-023:** author-approved operative clause consolidation and removal of duplicate/conflicting operative headings; jurisdictional and shared-competence owner contracts; optional coordination's future task-specific parameters (deliberately unspecified); validation that no hierarchy is silently inferred from scale, proximity or an emergency classification. **Do not design a universal hierarchical command structure.**
+
 ## Next resolution sequence
 
 First verify and assemble Chapter 12 and Chapter 132 against original V1/V2/GTP sources (G-001–010), while preserving the 12 October timing direction. Then reconcile emergency and state-machine contracts (G-011–016), validate owner/custody/privacy systems (G-017–022), and finish the 215-chapter source-completeness and constitutional graduation gates (G-023–027). Update this one register as issues are found or closed.
