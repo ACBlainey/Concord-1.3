@@ -372,6 +372,14 @@ The following are **specific, verified conflicting/duplicated clause locations**
 
 **Remaining G-011–016:** concrete legitimate issuer/mandate, authority for specific protective actions, reliable event/expiry routing, post-event review and integrated paused-Clock test. No deployed service or constitutional graduation is claimed.
 
+## Cross-chapter contradiction audit — contextual quorum and emergency timing (12 October 2026)
+
+**Scope:** targeted textual check of Chapter 12, Chapters 28–30 and Chapter 132 V2.1 working drafts; **not** a comprehensive semantic audit of all 215 chapters or all historical sources. The drafts contain older source-preserving passages that still refer to full-three forum constitution, degraded-quorum exceptions or unresolved quorum law. These passages remain historical/developmental evidence, **not current operative authority** where they conflict with the author's 12 October clarification. Two directly misleading working passages have been amended in place with explicit authorial-priority qualifications; no source chapter was deleted.
+
+**Controlling cross-chapter interpretation:** (1) contextual quorum; two independently valid matching official votes establish the triadic F/A result; third ballot is informative provenance; (2) no official vote by a merely parallel or unappointed candidate; (3) Steward appointment/bootstrap is a provisional outline, not enacted machinery; (4) significant emergency decisions ordinarily use triadic stewardship where time permits, but independently lawful immediate protection is not universally triadic; (5) emergency response and expiry operate independently of the pausable Civilisation Clock; (6) ordinary queued acts revalidate current owner prerequisites before consequential effect. GTP spatial geometry never appoints or commands Stewards.
+
+**Still to reconcile before graduation:** older historical quorum proposals embedded within Chapter 12's source-preserving annex, any source-specific participation requirement unrelated to the non-decisive third vote, exact decision-event/identity checks, lawful emergency issuer and host implementation contracts, and section-to-section editorial consolidation. No deployed implementation or full manuscript consistency is claimed.
+
 ## Next resolution sequence
 
 First verify and assemble Chapter 12 and Chapter 132 against original V1/V2/GTP sources (G-001–010), while preserving the 12 October timing direction. Then reconcile emergency and state-machine contracts (G-011–016), **reuse the already specified Historical HCM-1/HI-1 and Health/CIBB/CWA custody/privacy architecture** while deferring G05 real-owner implementation tests (G-017–022) until concrete workflows, and finish the 215-chapter source-completeness and constitutional graduation gates (G-023–027). Update this one register as issues are found or closed.
