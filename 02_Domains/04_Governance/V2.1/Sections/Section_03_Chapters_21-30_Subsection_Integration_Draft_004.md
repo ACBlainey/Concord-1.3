@@ -1742,3 +1742,16 @@ For each triad, F if at least two valid For votes; A if at least two valid Again
 ## Integration safeguards
 
 Preserve original Chapter 28–30 language until detailed clause reconciliation. Cross-check with V2 Chapters 9, 12, 54, 100, 132, 149–151 and 198. Explicitly define six-Steward vertex eligibility and termination of recursive expansion before graduation.
+<!-- BEGIN V2.1 STEWARDSHIP LIFECYCLE CROSS-CHAPTER ALIGNMENT 2026-10-12 — Chapters 28–30 -->
+
+### Chapters 28–30 — Parallel Steward, vacancy, emergency substitution and restoration interface
+
+**Working cross-chapter alignment; independently lawful succession remains mandatory.** Historical holds protected office and decision provenance; Education owns accreditation; participant tier and office-specific checks establish current eligibility. A trained, time-served Parallel Steward may be an appropriate **candidate** for ordinary ascension or a lawful temporary appointment, but experience, shadow votes, proximity, seniority or an apparent need for continuity do not themselves appoint the candidate or confer an official vote. The legitimate selector/appointing authority is not yet finalised.
+
+**State distinction:** temporary unavailability ≠ information abstention ≠ conflict recusal ≠ failed authentication ≠ suspension ≠ permanent vacancy. Chapter 29 degraded-triad rules address decision validity; Chapter 28 controls lawful office succession and restoration; Chapter 30 addresses unresolved votes and emergency deadlock. None automatically substitutes for the others. For an otherwise valid two-matching-vote majority, the third official vote remains pending provenance rather than a pretext for unauthorised replacement.
+
+**Temporary appointment:** where a separately authorised emergency/continuity rule permits a substitute, record the actual position, identity, current eligibility, appointment source, scope, start/expiry, independent emergency timebase, restrictions, review and return/handover. Verify actual act authority with MKA; use BTA for asynchronous owner-state transition, STRA/KCS for expiry and changed dependencies, and protected Historical custody. A shadow vote is not retroactively promoted into an official vote. The substitute inherits no predecessor's expired discretionary powers and no permanent entitlement from temporary service.
+
+**Restoration:** returning incumbents require current identity, capacity, conflicts, office state and mandate revalidation; restoration does not erase the successor's acts, beneficiary duties, records or unresolved challenges. A paused Civilisation Clock cannot pause emergency expiry, review or lawful restoration duties. The actual appointment sequence, selector constitution and degraded quorum remain unresolved constitutional gates; this note does not resolve them.
+
+<!-- END V2.1 STEWARDSHIP LIFECYCLE CROSS-CHAPTER ALIGNMENT 2026-10-12 -->
