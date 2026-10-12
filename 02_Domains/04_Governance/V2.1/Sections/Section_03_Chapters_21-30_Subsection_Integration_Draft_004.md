@@ -1777,3 +1777,11 @@ Independent emergency timing permits authorised implementers to act without wait
 A paused Civilisation Clock must not block independent emergency state-machine evaluation and lawful urgent transitions. The emergency timebase cannot itself create authority; current factual predicates and consequential authority are independently checked. BTA preserves cross-owner transition relations and partial states; MKA verifies the actor's authority for actual consequential acts. Do not assume that a third-ballot provenance delay is a mandatory clock or execution gate after a lawfully determined two-vote majority.
 
 <!-- END V2.1 AUTHORIAL VOTE-DRIVEN STATE MACHINE CORRECTION 2026-10-12 -->
+
+<!-- BEGIN V2.1 AFFECTED-SYSTEM BOUNDED ACTION AUTHORITY 2026-10-12 — Chapters 28–30 -->
+
+### Chapters 28–30 — Emergency actions remain bounded by affected systems
+
+A valid emergency triadic vote drives its lawful state-machine transition; it does not issue a universal executive authority token. Every affected operational system (such as Health, Utilities, Security or Continuity) determines its own authorised response under its applicable emergency and ordinary bounded-authority rules. A shared emergency decision may cause multiple independently owned operational transitions with different readiness, permission, urgency, expiry and restoration states. BTA records partial completion and residual duties; MKA checks each actual consequential act as appropriate. A paused Civilisation Clock does not stop independently lawful emergency response, but urgency does not dissolve any affected system's constitutional limits.
+
+<!-- END V2.1 AFFECTED-SYSTEM BOUNDED ACTION AUTHORITY 2026-10-12 -->
