@@ -380,6 +380,12 @@ The following are **specific, verified conflicting/duplicated clause locations**
 
 **Still to reconcile before graduation:** older historical quorum proposals embedded within Chapter 12's source-preserving annex, any source-specific participation requirement unrelated to the non-decisive third vote, exact decision-event/identity checks, lawful emergency issuer and host implementation contracts, and section-to-section editorial consolidation. No deployed implementation or full manuscript consistency is claimed.
 
+## Authorial resolution — completed decisions are historical; subsequent decisions are new instances (12 October 2026)
+
+**Resolved constitutional interpretation:** Once a lawful decision completes its state-machine transition, it is historical and is not reopened or readdressed as the same decision. Any later consideration of the same issue — appeal, challenge, remedy, new evidence or changed conditions — requires a **new decision instance** with fresh authority activation in the then-current state. The new instance may change present/future effects and order lawful remedy, but does not rewrite the earlier outcome, vote or provenance. This is not a permission to rename an unfinished event, retry or duplicate receipt to manufacture extra votes or authority. Preserve links between events and immutable original records. Source-development records 018 and 048 now contain this authorial priority; Chapter 12 and emergency working drafts require editorial propagation.
+
+**Remaining implementation detail (G-007/G-003):** detect completion/transition, preserve protected event ancestry, distinguish unfinished technical retries from new legally authorised instances, define new-event authority activation and provenance-only late third-ballot append. These are implementation/interface questions, not an open right to reconsider the historical vote.
+
 ## Next resolution sequence
 
 First verify and assemble Chapter 12 and Chapter 132 against original V1/V2/GTP sources (G-001–010), while preserving the 12 October timing direction. Then reconcile emergency and state-machine contracts (G-011–016), **reuse the already specified Historical HCM-1/HI-1 and Health/CIBB/CWA custody/privacy architecture** while deferring G05 real-owner implementation tests (G-017–022) until concrete workflows, and finish the 215-chapter source-completeness and constitutional graduation gates (G-023–027). Update this one register as issues are found or closed.
