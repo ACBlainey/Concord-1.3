@@ -134,3 +134,24 @@ Likely later dependencies should be added only after source resolution demonstra
 **OPEN — ARCHITECTURE RESERVED FOR LATER DESIGN**
 
 No final rule for election, nomination, sortition, matching, appointment, selector composition, weighting or allocation is established by this file.
+
+## 10. Authorial direction — Steward ascension pathway (12 October 2026)
+
+**Status: AUTHORIAL DESIGN DIRECTION / PROPOSED SELECTION PREFERENCE; NOT YET A FINALISED CONSTITUTIONAL APPOINTMENT RULE.**
+
+The author has specified a shared approach analogous to judicial selection:
+
+- **Historical** owns and preserves stewardship knowledge, including training/experience provenance and decision-making records, subject to contextual access and privacy controls.
+- **Education** owns training and accreditation of stewardship competence. Historical's custody of knowledge does not make it the accreditor or selector.
+- **Participant tier** controls office eligibility together with current function-specific qualifications, suitability and conflict checks. Tier alone does not constitute an appointment or confer authority.
+- The remaining selection alternatives are **democratic vote**, **meritocratic assignment**, and **ascension from a parallel Steward role**. Ascension is the **preferred development route**, not yet an exclusive or automatically operative selector.
+
+**Ascension principle:** A trained, accredited, currently eligible parallel (shadow) Steward may accumulate time-served practice and an independently reviewable provenance record of reasoning, decisions and relevant competence before becoming a candidate for an authorised Steward vacancy. This is attractive because a candidate's experience can be assessed from prior practice rather than reputation or promises alone.
+
+**Critical separation:** Parallel role ≠ constituted voting office; time served ≠ eligibility by itself; documented performance ≠ guaranteed promotion; qualification/eligibility/selection ≠ appointment/mandate/authority. Any shadow participation must have an explicitly bounded role, protect live decisions from unauthorised votes and preserve the independence and privacy of affected participants.
+
+**Reusable existing mechanisms to evaluate:** Education accreditation, Historical records and provenance, State and Maturity Mapping (role readiness), Contextual Wrapper Architecture and Fractal Permission Architecture (parallel-role limits), Multi-Key Authority (appointment/mandate validity), STRA (review and readiness triggers), BTA (transition into or out of office), KCS (qualification/status changes), and fault-tolerant responsibility continuity (vacancy/succession). Reuse requires owner-system agreement and host-specific validation.
+
+**Still genuinely unresolved:** Who chooses among several eligible time-served parallel Stewards; how shadow positions are allocated; minimum experience and evidence thresholds; evaluation of dissent, abstention and independently reasoned minority positions without rewarding conformity; capture resistance and appeal; whether public vote or merit assignment remains available for particular office types; who lawfully constitutes the appointing decision; rotation, vacancy and emergency succession. In particular, a favourable Historical record or Education accreditation must never silently become a self-executing promotion.
+
+This section develops the shared core; Judiciary, Governance, Civil Security and Defence retain their independent qualification, jurisdiction and mandate requirements.
