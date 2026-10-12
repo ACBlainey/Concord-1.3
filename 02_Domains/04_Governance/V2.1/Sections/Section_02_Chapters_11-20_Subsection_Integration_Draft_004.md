@@ -498,6 +498,40 @@ Governance therefore needs mechanisms capable of expanding participation and aut
 
 ## 12.4 Horizontal Expansion
 
+<!-- BEGIN V2.1 INTEGRATED 12.4 — RECONCILED CANDIDATE 013 VERBATIM; PRIOR TEXT RETAINED -->
+
+## 12.4 Horizontal Expansion
+
+Where a governance question extends beyond the jurisdiction of the originating triad, the decision field may expand horizontally.
+
+Horizontal expansion means involving additional relevant stewardship units without automatically transferring the question upward into a permanently superior authority.
+
+The principle is:
+
+**Expand participation to match the consequence boundary before expanding hierarchy.**
+
+This allows governance to remain distributed while still addressing problems larger than one local decision unit.
+
+Horizontal expansion may therefore occur where:
+
+- consequences cross local boundaries;
+- multiple jurisdictions are materially affected;
+- shared resources are involved;
+- neighbouring systems become dependent upon the outcome;
+- implementation requires cooperation among several units;
+- externalities extend beyond the originating jurisdiction;
+- or the legitimacy of the decision requires participation from other affected stewardship units.
+
+The objective is not to make every affected participant a direct decision-maker.
+
+The objective is to ensure that the constitutional decision structure reflects the actual scale of the problem.
+
+### V2.1 — Meaning of Horizontal Expansion
+
+“Horizontal” describes enlargement of the participating decision field to match lawful consequence and competence, not a move between levels of GTP geometry. A larger GTP triangle is not an institutionally superior authority. Coordination may span adjacent or non-adjacent cells and multiple spatial resolutions at once. The lawful source of any binding joint decision must be established separately; wider participation alone does not create jurisdiction.
+
+<!-- END V2.1 INTEGRATED 12.4 — CANDIDATE 013 -->
+
 Where a governance question extends beyond the jurisdiction of the originating triad, the decision field may expand horizontally.
 
 Horizontal expansion means involving additional relevant stewardship units without automatically transferring the question upward into a permanently superior authority.
@@ -722,6 +756,46 @@ The expanded forum may decide only within the specifically authorised common fie
 <!-- END V2.1 RECOVERED 12.9 — CANDIDATE 013 VERBATIM -->
 ## 12.10 Horizontal Expansion Before Vertical Escalation
 
+<!-- BEGIN V2.1 INTEGRATED 12.10 — RECONCILED CANDIDATE 013 VERBATIM; PRIOR TEXT RETAINED -->
+
+## 12.10 Horizontal Expansion Before Vertical Escalation
+
+Where practical, Governance should attempt horizontal coordination before escalating a matter into a higher permanent layer.
+
+This preserves:
+
+- local autonomy;
+- distributed competence;
+- direct knowledge;
+- institutional diversity;
+- and resistance to unnecessary centralisation.
+
+However, horizontal expansion should not be fetishised.
+
+If a matter genuinely requires civilisation-wide coordination, refusing higher-level action merely to preserve decentralisation can itself become harmful.
+
+The principle remains:
+
+**Use the lowest competent architecture capable of resolving the actual problem.**
+
+This contains two requirements.
+
+The first is anti-centralisation:
+
+**Do not move authority upward unnecessarily.**
+
+The second is competence:
+
+**Do not leave authority at a level incapable of solving the problem merely to preserve decentralisation.**
+
+Subsidiarity therefore requires both.
+
+### V2.1 — Operational Scale Is Not Institutional Rank
+
+The “lowest competent architecture” means the smallest **lawfully competent and practically capable decision field**, considering the affected rights, resources, externalities and implementation requirements. It need not be the smallest geometric GTP cell. Multiple spatial resolutions may operate concurrently; operational subdivision and consolidation do not create a command chain.
+
+<!-- END V2.1 INTEGRATED 12.10 — CANDIDATE 013 -->
+
 Where practical, Governance should attempt horizontal coordination before escalating a matter into a higher permanent layer.
 
 This preserves:
@@ -753,6 +827,46 @@ The second is competence:
 Subsidiarity therefore requires both.
 
 ## 12.11 Vertical Escalation
+
+<!-- BEGIN V2.1 INTEGRATED 12.11 — RECONCILED CANDIDATE 013 VERBATIM; PRIOR TEXT RETAINED -->
+
+## 12.11 Vertical Escalation
+
+A matter may require vertical escalation where:
+
+- horizontal coordination fails;
+- constitutional interpretation is required;
+- jurisdictions remain in unresolved conflict;
+- consequences become systemic;
+- the lower level lacks necessary authority;
+- the lower level lacks necessary capability;
+- rights are materially threatened;
+- infrastructure risk becomes civilisation-wide;
+- or an emergency exceeds local capacity.
+
+Escalation should identify why the lower level is insufficient.
+
+Higher authority should not simply assume jurisdiction because escalation occurred.
+
+The escalated authority receives only the authority appropriate to the escalated question.
+
+Escalation should therefore preserve:
+
+- originating jurisdiction;
+- reason for escalation;
+- authority transferred;
+- authority retained;
+- duration;
+- review;
+- and conditions for return.
+
+### V2.1 — Legal Escalation Distinguished from Spatial Subdivision
+
+“Vertical escalation” in this chapter refers only to referral, review, delegation or decision by an **independently constituted institution** holding a lawful relevant competence. It does not mean movement from a child GTP triangle to a parent triangle, nor does it imply that a larger geometric area possesses superior power. Constitutional hierarchy, appellate priority and lawful federation may exist where expressly established; their source is legal authority, never tessellation alone.
+
+Where escalation transfers any decision power, the record must identify the constitutional instrument, the originating and receiving competent offices, the exact matter and powers, any retained local jurisdiction, expiry, review and route for return. Referral for advice or coordination alone transfers no decision authority.
+
+<!-- END V2.1 INTEGRATED 12.11 — CANDIDATE 013 -->
 
 A matter may require vertical escalation where:
 
