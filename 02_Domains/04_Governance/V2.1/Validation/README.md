@@ -127,3 +127,8 @@ The previously blocked stage-097 GitHub Actions workflow was successfully create
 ## Separated sender/receiver ACKS transport simulation 098
 
 `decision_acks_transport_098.py` and `test_decision_acks_transport_098.py` define 16 simulated fault cases using **two independent SQLite files** for sender and receiver, including missing delivery/ACK, peer restart, conflicting payloads, receiver effect status and local reconciliation. Workflow `.github/workflows/decision-acks-transport-098.yml`; [run 38311115720](https://github.com/ACBlainey/Concord-1.3/actions/runs/38311115720) initially in progress. This is **not** a real socket transport or fault-injected distributed execution; no credential verification or physical-world effect is implemented. Sender reconciliation currently copies a receiver status projection, **not** a validated signed ACK; production design must validate owner identity, event payload, revisions, state transitions and receipt evidence. The receiver's commit fixture writes a simulated effect record atomically in its own SQLite transaction, which does not model a crash after an irreversible external effect but before receipt persistence.
+
+
+## Verified stage 098 two-peer simulation
+
+[GitHub Actions run 38311115720](https://github.com/ACBlainey/Concord-1.3/actions/runs/38311115720) completed with conclusion **success** for the configured 16-case two-peer SQLite simulation. Aggregate stages 093–098: 25+10+10+14+16+16 = **91 passing fixture-level tests**. No real network partitions, owner attestations or external-effect crash-window proof; the simulator's `commit_effect` writes only local synthetic receipt/effect state, not a physical side effect.
