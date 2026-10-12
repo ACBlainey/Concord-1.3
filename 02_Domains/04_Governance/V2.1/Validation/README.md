@@ -137,3 +137,8 @@ The previously blocked stage-097 GitHub Actions workflow was successfully create
 ## Independent host effect crash-window simulation 099
 
 `decision_external_effect_099.py` and `test_decision_external_effect_099.py` implement 16 simulated cases with **separate SQLite host and receiver ledgers**. They inject a crash boundary after a host-local effect record is committed but before the receiver receipt is persisted, then query the independent host to reconcile. Workflow `.github/workflows/decision-external-effect-099.yml`; [run 38311379686](https://github.com/ACBlainey/Concord-1.3/actions/runs/38311379686) initially queued. The host effect is **only a synthetic local ledger entry**, not a real irreversible external action. The host status trust and host authority checks are caller-supplied flags, not authenticated CBPR/MKA evidence. This tests the failure shape, not a deployed solution to physical exactly-once effects or network partitions. The fixture's direct execute path is allowed only for CLAIMED state and is not a substitute for production recovery policy.
+
+
+## Verified stage 099 independent host effect CI
+
+[GitHub Actions run 38311379686](https://github.com/ACBlainey/Concord-1.3/actions/runs/38311379686) completed **success** for the configured 16-case host-ledger crash simulation. Aggregate stages 093–099: 25+10+10+14+16+16+16 = **107 passing fixture-level checks**. Stage 099 does not prove exactly-once irreversible physical effects: it relies on the synthetic host's atomic SQLite idempotency and a caller-supplied `host_status_trusted` flag. Source-owned CBPR action grant, independent authenticated status queries and real failure injection remain open.
