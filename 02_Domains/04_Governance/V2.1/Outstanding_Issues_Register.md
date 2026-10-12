@@ -248,6 +248,12 @@ The following are **specific, verified conflicting/duplicated clause locations**
 
 **Applied:** Delimited working clauses added to Chapter 12, Chapters 28–30 and Chapter 132. Remaining recovery is **per-system** state-machine ownership and bounded-authority interface contracts, not discovery of a universal implementation authority. Retain G-001 as a separate voting-forum validity question and G-002 as a timing/transition concern. Source text remains preserved pending authorial clause consolidation.
 
+## Authorial constraint — downstream actors cannot be specified before the vote (12 October 2026)
+
+**Clarification:** The triad's actual decision is not known in advance, so neither the affected systems nor the actioning actor, action route or exact bounded-authority mechanism can be predetermined universally. A lawful vote drives its state-machine decision transition; consequences are then resolved against the actual decision. Depending on outcome, no downstream action, one action, multiple systems/actions or further decisions may be required. Where already known from a separately legitimate mandate, an actor may be identified conditionally, but not presumed in all cases. Do not build a universal post-vote command chain or insist on a named executor as a universal pre-vote gate.
+
+**Architecture boundary:** State machines own their lawful transition semantics, not a universal executive office. BTA preserves discovered/partial/pending transition relationships; MKA verifies actual acts when their relevant route and authority are known; affected systems supply their own rules. Unknown consequence or owner must remain explicit, not silently replaced by an invented authority. Notes added source-preservingly to Chapter 12, Chapters 28–30 and Chapter 132. This corrects overly prescriptive earlier implementation-contract wording; final clause consolidation must distinguish known-at-convening fields from outcome-dependent fields.
+
 ## Next resolution sequence
 
 First verify and assemble Chapter 12 and Chapter 132 against original V1/V2/GTP sources (G-001–010), while preserving the 12 October timing direction. Then reconcile emergency and state-machine contracts (G-011–016), validate owner/custody/privacy systems (G-017–022), and finish the 215-chapter source-completeness and constitutional graduation gates (G-023–027). Update this one register as issues are found or closed.
