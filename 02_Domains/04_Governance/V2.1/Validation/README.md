@@ -132,3 +132,8 @@ The previously blocked stage-097 GitHub Actions workflow was successfully create
 ## Verified stage 098 two-peer simulation
 
 [GitHub Actions run 38311115720](https://github.com/ACBlainey/Concord-1.3/actions/runs/38311115720) completed with conclusion **success** for the configured 16-case two-peer SQLite simulation. Aggregate stages 093–098: 25+10+10+14+16+16 = **91 passing fixture-level tests**. No real network partitions, owner attestations or external-effect crash-window proof; the simulator's `commit_effect` writes only local synthetic receipt/effect state, not a physical side effect.
+
+
+## Independent host effect crash-window simulation 099
+
+`decision_external_effect_099.py` and `test_decision_external_effect_099.py` implement 16 simulated cases with **separate SQLite host and receiver ledgers**. They inject a crash boundary after a host-local effect record is committed but before the receiver receipt is persisted, then query the independent host to reconcile. Workflow `.github/workflows/decision-external-effect-099.yml`; [run 38311379686](https://github.com/ACBlainey/Concord-1.3/actions/runs/38311379686) initially queued. The host effect is **only a synthetic local ledger entry**, not a real irreversible external action. The host status trust and host authority checks are caller-supplied flags, not authenticated CBPR/MKA evidence. This tests the failure shape, not a deployed solution to physical exactly-once effects or network partitions. The fixture's direct execute path is allowed only for CLAIMED state and is not a substitute for production recovery policy.
