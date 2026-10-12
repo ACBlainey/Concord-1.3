@@ -218,6 +218,12 @@ The following are **specific, verified conflicting/duplicated clause locations**
 
 **Decision matrix added:** official F/F and A/A determinacy versus legal quorum/constitution and implementation; F/A pending; reasoned U, recusal and holder compromise; third-ballot provenance; parallel shadow votes; three-resultant expanded triads; optional cross-scale coordination; paused-Clock emergencies. The matrix does not create a lawful selector, substitute, quorum or emergency mandate. G-001, G-003, G-005–008 and G-023 remain open for their actual legal and source-conformance gates.
 
+## Quorum versus arithmetic majority — portable source comparison (12 October 2026)
+
+**Direct source checked:** `04_Portable_Modules/Triadic Decision Making Module.md` §§6–11 establishes three-position F/A/U outcome cases, abstention as information and escalation on unresolved decisions. It **does not define** constitutional attendance quorum, validity of a vacant third office, lawful substitution or emergency degraded-forum constitution. Chapter 12 integration draft now records this source limitation and separate cases for a pending third vote, temporary unavailability, permanent vacancy, conflict recusal, information abstention, duplicate holder/event, parallel shadow vote and expanded resultant.
+
+**G-001 remains an authorial constitutional fork, not a missing arithmetic calculation:** Two independently valid matching official F/A ballots fix the substantive majority when the forum is otherwise lawful. Neither universal two-holder quorum nor compulsory three-holder participation is established by the checked portable source. Preserve prior authorial direction without assuming either quorum rule. **Next recovery:** locate exact original V1/V1.2 triadic forum and emergency substitution language before proposing operative quorum text; use full source paths and provenance.
+
 ## Next resolution sequence
 
 First verify and assemble Chapter 12 and Chapter 132 against original V1/V2/GTP sources (G-001–010), while preserving the 12 October timing direction. Then reconcile emergency and state-machine contracts (G-011–016), validate owner/custody/privacy systems (G-017–022), and finish the 215-chapter source-completeness and constitutional graduation gates (G-023–027). Update this one register as issues are found or closed.
