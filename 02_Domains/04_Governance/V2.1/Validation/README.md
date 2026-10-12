@@ -97,3 +97,8 @@ The author's ACKS communications-recovery direction is documented in `../Integra
 ## Verified decision/ACKS interface 095 CI
 
 [GitHub Actions run 38308011836](https://github.com/ACBlainey/Concord-1.3/actions/runs/38308011836) completed with conclusion **success**, verifying the configured 10-test in-memory ACKS/decision integration suite. This supersedes the initial pending-run note for 095. **No evidence yet** of persistent journal recovery, actual communications outages, authenticated network transport or physical-world exactly-once execution. Preserve 090, 093, 094 and 095 as distinct validation scopes.
+
+
+## Durable local ACKS recovery fixture 096
+
+`decision_acks_durable_096.py` introduces a **SQLite local-durability fixture** using transactional action claims, persisted action states and correlated ACK records. `test_decision_acks_durable_096.py` contains 14 executable checks for restart recovery, concurrent claims, uncertain effects, ACK replay/conflicts and non-authority. Workflow `.github/workflows/decision-acks-durable-096.yml` configured; [initial CI run 38309501211](https://github.com/ACBlainey/Concord-1.3/actions/runs/38309501211) initially queued, **not yet verified at registration**. This tests local SQLite persistence and connection-level contention, not an authenticated distributed ACKS protocol or external-effect exactly-once. The fixture's supplied `host_authorised` and ACK authentication flags are **test assertions, not independently verified owner attestations**. Further work: source-backed ACKS schema/semantics, revision validation, crash-injection, durable vote journal, host status query and recovery of remote uncertain effects.
