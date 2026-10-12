@@ -1,0 +1,18 @@
+name: Decision state fixture 093
+on:
+  push:
+    paths:
+      - '02_Domains/04_Governance/V2.1/Validation/decision_state_fixture_093.py'
+      - '02_Domains/04_Governance/V2.1/Validation/test_decision_state_fixture_093.py'
+      - '.github/workflows/decision-state-fixture-093.yml'
+  workflow_dispatch:
+jobs:
+  fixture:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Run provisional fixture checks
+        run: python -m unittest discover -s '02_Domains/04_Governance/V2.1/Validation' -p 'test_decision_state_fixture_093.py' -v
