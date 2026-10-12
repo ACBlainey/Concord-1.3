@@ -107,3 +107,8 @@ The author's ACKS communications-recovery direction is documented in `../Integra
 ## Verified durable local ACKS recovery 096 CI
 
 [GitHub Actions run 38309501211](https://github.com/ACBlainey/Concord-1.3/actions/runs/38309501211) completed with conclusion **success**, verifying the configured 14-case SQLite local recovery fixture. Supersedes the earlier queued status. **Boundaries:** not a real network partition test, not independent authentication, not distributed consensus, and not a guarantee of exactly-once external physical effect. The decision majority is injected into the fixture; durable ballot acceptance and constitutional authority integration remain untested.
+
+
+## Transactional ballot/action/ACKS fixture 097
+
+`decision_ballot_acks_097.py` and `test_decision_ballot_acks_097.py` add 16 executable checks for persisted Steward ballots, two-matching-vote result, restart/replay resistance, transactionally claimed actions and action-revision-bound ACKS. Unlike stage 096, the decision result is derived from persisted ballots. **CI not yet configured or verified**: attempted workflow creation was blocked by tooling; run the tests with `python -m unittest discover -s '02_Domains/04_Governance/V2.1/Validation' -p 'test_decision_ballot_acks_097.py' -v` after reviewing the fixture. This remains a local SQLite contract with caller-asserted mandate, host authority, authentication and scope; no production attestation, real network partition or exactly-once physical-effect guarantee. Further interface work must preserve the existing G05 ACKS 090 contract and verify revision, owner and scope against owning systems.
