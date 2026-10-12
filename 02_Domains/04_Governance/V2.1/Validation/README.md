@@ -72,3 +72,8 @@ GitHub Actions workflow `Decision state fixture 093` completed successfully: [ru
 ## Fixture 093 extension — five additional checks
 
 Commit `734afeee7d8af60b8f3fe05daf281398de637d0a` adds five unit tests to `test_decision_state_fixture_093.py` (25 methods total): third-vote provenance after a fixed majority, duplicate after majority, action refusal before majority, unauthorised expansion non-effect, and old-event immutability despite a later opposite new decision. **The earlier passing run 38307347938 covers the preceding 20-test revision, not these five new tests.** Reverify CI for the expanded suite before recording 25 passes.
+
+
+## Verified expanded fixture 093 — 25 tests
+
+GitHub Actions [run 38307482088](https://github.com/ACBlainey/Concord-1.3/actions/runs/38307482088), commit `734afeee7d8af60b8f3fe05daf281398de637d0a`, completed **success**; job ID `115004931124` also concluded success. This verifies the expanded configured 25-method `unittest` fixture, superseding the prior note that the five added checks awaited CI. Scope remains a standalone in-memory model; **not** a demonstration of atomic concurrency, crash recovery, real authority attestations or deployed Concord integration. Preserve the preceding 20-test run as provenance.
