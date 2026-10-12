@@ -1,0 +1,17 @@
+name: Authority commit race 102
+on:
+  push:
+    paths:
+      - '02_Domains/04_Governance/V2.1/Validation/*102.py'
+      - '.github/workflows/authority-commit-race-102.yml'
+  workflow_dispatch:
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Test revocation interleavings
+        run: python -m unittest discover -s 02_Domains/04_Governance/V2.1/Validation -p test_authority_commit_race_102.py -v
