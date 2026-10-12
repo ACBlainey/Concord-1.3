@@ -358,6 +358,12 @@ The following are **specific, verified conflicting/duplicated clause locations**
 
 **Explicitly deferred:** who authorises the first Stewards; who constitutes any appointing Steward/board; candidate choice among multiple qualified applicants; thresholds and merit evaluation; independence and anti-capture controls; specific expiry/renewal, appeal and succession rules; and final constitutional approval. No new office, board, power, automatic promotion or founding mandate is established by this outline. Develop further only when justified by source recovery, real cases and authorial direction.
 
+## Emergency Chapter 28–30 source integration and test boundary (12 October 2026)
+
+**Working draft integrated:** `02_Domains/04_Governance/V2.1/Sections/Section_03_Chapters_21-30_Subsection_Integration_Draft_004.md` now contains a delimited source-verified emergency/variable-Clock/state-machine cross-reference based on `03_Cross_Domain_Architecture/Constitutional_Emergency/Constitutional Emergency V2.md` and `Integration/G05_Existing_State_Machine_BTA_Clock_Emergency_Interface_060.md`. It records independent emergency event progression during Clock pause, contextual two-vote outcome without third-vote veto, expiry independent of Clock, revalidation of queued ordinary actions and survival of recovery duties. Original sources are unchanged.
+
+**G-011–016 remain partially open, not architecture-absent:** lawful issuer/mandate and concrete host authority contracts; real emergency event routing and durable capture; stale-action checks at owner commit; state-machine/BTA/KCS/Clock adapter conformance; and adversarial integrated paused-Clock test with asynchronous recovery and authority expiry. Existing BTA emergency test is component evidence only. Do not mark live operational validation complete.
+
 ## Next resolution sequence
 
 First verify and assemble Chapter 12 and Chapter 132 against original V1/V2/GTP sources (G-001–010), while preserving the 12 October timing direction. Then reconcile emergency and state-machine contracts (G-011–016), **reuse the already specified Historical HCM-1/HI-1 and Health/CIBB/CWA custody/privacy architecture** while deferring G05 real-owner implementation tests (G-017–022) until concrete workflows, and finish the 215-chapter source-completeness and constitutional graduation gates (G-023–027). Update this one register as issues are found or closed.
