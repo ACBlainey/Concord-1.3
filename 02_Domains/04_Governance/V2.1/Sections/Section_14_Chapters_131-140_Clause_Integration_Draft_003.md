@@ -2411,3 +2411,13 @@ The “lowest capable legitimate decision field” is a default subsidiarity pre
 **Clause disposition pending:** Keep §§132.1, 132.2, 132.4, 132.5 and 132.12 old and recovered wording visible; at final assembly reconcile the obsolete optional-use framing and categorical nonhierarchy language against the adopted conceptual mesh **with optional bounded hierarchical coordination**. Do not treat the new flexibility as retroactive authorisation for any existing command relationship.
 
 <!-- END V2.1 OPTIONAL HIERARCHY CROSS-CHAPTER RECONCILIATION 2026-10-12 -->
+
+<!-- BEGIN V2.1 TRIAD VOTE AUTHORITY SEPARATE FROM IMPLEMENTATION 2026-10-12 — Chapter 132 -->
+
+### Chapter 132 — GTP voting competence and external implementation authority
+
+**Authorial rule (12 October 2026):** Whether a triad operates locally, through a lawful expanded virtual triad, across concurrent GTP scales, or within optional hierarchical coordination, the Steward triad holds **bounded authority to vote**, not automatic authority to execute the decision. Geometry, scale, coordination rank, a resultant vote or a valid majority cannot manufacture the implementing actor's separately held constitutional or domain authority.
+
+Record separately the voting forum and decision event, resultant/majority provenance, and the competent implementation owner and mandate. Cross-cell agreement may determine a valid vote without transferring operational jurisdiction or resources. Any binding action requires independent lawful implementation authority and its own checks at the act; optional hierarchical coordination does not change this separation.
+
+<!-- END V2.1 TRIAD VOTE AUTHORITY SEPARATE FROM IMPLEMENTATION 2026-10-12 -->
