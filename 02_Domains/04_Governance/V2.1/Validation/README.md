@@ -167,3 +167,8 @@ The previously blocked stage-097 GitHub Actions workflow was successfully create
 ## Verified stage 102 authority revocation race
 
 `authority_commit_race_102.py` and `test_authority_commit_race_102.py`: 12 deterministic interleaving checks; [GitHub Actions run 38312946521](https://github.com/ACBlainey/Concord-1.3/actions/runs/38312946521) **success**. Source integration: `../Integration/Authority_Commit_Revocation_Race_Source_Resolution_102.md`. The suite demonstrates both rejection of revocation before final check **and a remaining unfenced race after the check**; it does **not** implement a production commit fence, cryptographic attestations or true concurrent external effects. Aggregate stages 093–102: **157 passing fixture-level checks** (145 previously + 12).
+
+
+## Architectural correction 103 — glass hammer / instantaneous authority
+
+**Superseding interpretation warning:** the 100–102 fixtures model time-bounded *prerequisite/evidence* and revocation, **not continuously held constitutional authority**. Under the user-confirmed glass-hammer interpretation, authority is only available at the exact legitimate decision/act and is not stored or reused. The 157 prior fixture checks may remain technically passing, but the authority semantics attributed to stages 100–102 are **not validated** by those tests. See `../Integration/Glass_Hammer_Instantaneous_Authority_Correction_103.md`. Original primary glass-hammer text remains to be recovered and compared; do not promote the prior 'one-use commit lease' recommendation as constitutional architecture without that resolution.
