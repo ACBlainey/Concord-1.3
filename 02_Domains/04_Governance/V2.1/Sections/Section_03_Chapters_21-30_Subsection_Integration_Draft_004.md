@@ -697,6 +697,28 @@ A degraded system should instead ask:
 
 Emergency Governance therefore remains Governance under abnormal conditions.
 
+<!-- BEGIN G05 STAGES 070-087 EVIDENCE MAP -->
+
+## Functional map and evidence status
+
+| Stages | Candidate interface | Governance integration |
+| --- | --- | --- |
+| 070, 072–073 | Original BTA transfer fixture, compatibility projection, adversarial record validation | Accept source records only with provenance; quarantine legacy-only fields; reject authority inference |
+| 074–075 | Owner attestation and asynchronous evidence ledger | Obtain externally verified, live owner decisions; distinguish record receipt from transition completion |
+| 076–078 | GTP resource collision, reconciliation proposals, execution revalidation | Detect spatial/functional overlap without hierarchy; proposals do not allocate authority; recheck at execution |
+| 079–080 | Partial execution, recovery, outcome classification | Keep surviving effects and duties visible; require independent evidence before any restoration claim |
+| 081 | Continuing-duty ledger | Operational recovery must not automatically close duties |
+| 082 | Duty succession | Transfer custody only with verified parties, provenance and revision; obligation remains open |
+| 083 | Orphaned duties | Detect, preserve and refer; nomination is not assignment |
+| 084 | Protective intervention | Require external mandate, scope, time bounds, necessity, proportionality and review; never assign permanent custody |
+| 085 | Renewal | Fresh mandate and independent/cumulative review; no extension by inertia |
+| 086 | Cumulative exposure | Union and longest uninterrupted control for one controller; flag review, not illegality |
+| 087 | Distributed exposure | Union across controllers and concurrent-controller counts; detect de facto aggregate restrictions |
+
+All test results are **unit-level fixture evidence**, not end-to-end system certification. See `Validation/README.md` for the register and current CI state.
+
+<!-- END G05 STAGES 070-087 EVIDENCE MAP -->
+
 # Chapter 25 — Emergency Classification
 
 ## 25.1 Classification
