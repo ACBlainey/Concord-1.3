@@ -92,3 +92,8 @@ GitHub Actions [run 38307482088](https://github.com/ACBlainey/Concord-1.3/action
 ## Decision/ACKS recovery interface 095
 
 The author's ACKS communications-recovery direction is documented in `../Integration/Decision_Event_Boundary_Source_Limited_Review_018.md`. `test_decision_acks_recovery_095.py` adds 10 in-memory integration tests linking the existing G05 owner-separated acknowledgement prototype 090 to the G03/G07 atomic decision fixture 094. Workflow `.github/workflows/decision-acks-recovery-095.yml` runs the integration tests. **Execution pending independent verification at initial registration** (GitHub Actions run [38308011836](https://github.com/ACBlainey/Concord-1.3/actions/runs/38308011836) initially queued). ACK reception, remote state commitment and confirmed external effects are distinct. No durable journal, network partition simulation, authenticated real transport or external exactly-once guarantee is demonstrated; ACKS does not confer authority or close duties.
+
+
+## Verified decision/ACKS interface 095 CI
+
+[GitHub Actions run 38308011836](https://github.com/ACBlainey/Concord-1.3/actions/runs/38308011836) completed with conclusion **success**, verifying the configured 10-test in-memory ACKS/decision integration suite. This supersedes the initial pending-run note for 095. **No evidence yet** of persistent journal recovery, actual communications outages, authenticated network transport or physical-world exactly-once execution. Preserve 090, 093, 094 and 095 as distinct validation scopes.
