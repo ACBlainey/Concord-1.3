@@ -112,3 +112,8 @@ The author's ACKS communications-recovery direction is documented in `../Integra
 ## Transactional ballot/action/ACKS fixture 097
 
 `decision_ballot_acks_097.py` and `test_decision_ballot_acks_097.py` add 16 executable checks for persisted Steward ballots, two-matching-vote result, restart/replay resistance, transactionally claimed actions and action-revision-bound ACKS. Unlike stage 096, the decision result is derived from persisted ballots. **CI not yet configured or verified**: attempted workflow creation was blocked by tooling; run the tests with `python -m unittest discover -s '02_Domains/04_Governance/V2.1/Validation' -p 'test_decision_ballot_acks_097.py' -v` after reviewing the fixture. This remains a local SQLite contract with caller-asserted mandate, host authority, authentication and scope; no production attestation, real network partition or exactly-once physical-effect guarantee. Further interface work must preserve the existing G05 ACKS 090 contract and verify revision, owner and scope against owning systems.
+
+
+## Stage 097 CI workflow correction
+
+The previously blocked stage-097 GitHub Actions workflow was successfully created at `.github/workflows/decision-ballot-acks-097.yml`, commit `2da0ae2f2209bda016046327df4c12370d0970c1`. [Run 38310654867](https://github.com/ACBlainey/Concord-1.3/actions/runs/38310654867) started; **outcome pending at registration**. Supersedes earlier statement that no CI was configured for 097. Do not count stage 097 among passing checks until successful run confirmed.
