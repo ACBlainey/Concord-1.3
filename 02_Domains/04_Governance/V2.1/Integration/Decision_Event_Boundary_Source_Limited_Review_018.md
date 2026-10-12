@@ -41,3 +41,8 @@ A Steward occupies position A1 in constituent A, and an administrator creates a 
 - Original standalone Triadic Governance Decision Protocol, still unrecovered.
 
 **Disposition:** Candidate interface for a subsequent portable module revision and targeted negative tests. No automatic appeal, new authority, or jurisdiction is created by this review.
+
+
+## Authorial resolution — historical decisions and new authority instances (12 October 2026)
+
+**Authorial direction:** Once a decision has been completed and the relevant state machine has transitioned, the decision is a historical event. Its votes, outcome, authority, evidence and provenance are not reopened or rewritten. Any subsequent consideration of the same issue, including an appeal, remedy, challenge, changed circumstances or new evidence, is a **new decision instance** in the then-current state. That new instance requires its **own independently legitimate authority activation**, event identity, mandate, scope, participants and transition conditions. A new decision may change present/future effects or order lawful remedy, but cannot retroactively change the historical event. Repeated IDs, technical retries and duplicate receipts of an *unfinished* operation are not automatically independent decisions; establish the actual transition boundary and prevent double execution. This authorial resolution supersedes the earlier text's open question about whether a completed decision may be reopened; remaining implementation work concerns proof of completion, ancestry links, lawful new authority and idempotent execution.
