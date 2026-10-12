@@ -77,3 +77,8 @@ Commit `734afeee7d8af60b8f3fe05daf281398de637d0a` adds five unit tests to `test_
 ## Verified expanded fixture 093 — 25 tests
 
 GitHub Actions [run 38307482088](https://github.com/ACBlainey/Concord-1.3/actions/runs/38307482088), commit `734afeee7d8af60b8f3fe05daf281398de637d0a`, completed **success**; job ID `115004931124` also concluded success. This verifies the expanded configured 25-method `unittest` fixture, superseding the prior note that the five added checks awaited CI. Scope remains a standalone in-memory model; **not** a demonstration of atomic concurrency, crash recovery, real authority attestations or deployed Concord integration. Preserve the preceding 20-test run as provenance.
+
+
+## Atomic in-process concurrency fixture 094
+
+`decision_state_concurrency_094.py` and `test_decision_state_concurrency_094.py` provide 10 threaded in-memory checks of competing votes, simultaneous majority arrival, duplicate replays, single action claim, uncertain effects, wrong IDs, expiry and completion. Workflow `.github/workflows/decision-state-concurrency-094.yml` is configured for GitHub Actions. **CI result not yet independently verified.** An in-process `RLock` cannot demonstrate database transaction isolation, multi-process/distributed consensus, durable journal recovery, physical-world exactly-once execution or legitimate external authority. Keep this stage separate from 093 and the G05 historical pass counts.
