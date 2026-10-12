@@ -386,6 +386,14 @@ The following are **specific, verified conflicting/duplicated clause locations**
 
 **Remaining implementation detail (G-007/G-003):** detect completion/transition, preserve protected event ancestry, distinguish unfinished technical retries from new legally authorised instances, define new-event authority activation and provenance-only late third-ballot append. These are implementation/interface questions, not an open right to reconsider the historical vote.
 
+
+
+## Event-driven decision machine — crosswalk and validation scope (12 October 2026)
+
+The author has clarified that each decision carries a **unique ID and state-machine lifecycle**. The current state and event trigger permitted transitions, including independently authorised expanded constituent voting or lawfully appointed bounded parallel Stewards where a decision is unresolved. A decided two-vote majority requires no third-position substitution merely to establish its outcome. Once the relevant state changes, a duplicate vote or resultant-action request under that identity cannot produce another effect. A completed decision is immutable history; subsequent consideration of the same issue creates a new decision ID and requires fresh authority. The GTP spatial mesh does not fork decisions or transfer authority. See Integration 006 (later authorial matrix), Integration 018 (flowchart and identity), Integration 048 (third-vote provenance), Chapter 12, emergency Chapters 28–30, and Chapter 132.
+
+**G-007 conceptual direction is resolved.** The remaining work is concrete validation: authoritative transition ownership, atomic concurrency control, durable action receipts and crash recovery, position/constituent uniqueness, event ancestry, cancellation and expiry, and verified selectors for optional expansion/parallel Steward routes. No live implementation or integrated PASS is claimed. Earlier register text about unresolved reconsideration of a completed decision or a third-occupancy quorum is preserved only as historical source-development context and superseded on those points.
+
 ## Next resolution sequence
 
 First verify and assemble Chapter 12 and Chapter 132 against original V1/V2/GTP sources (G-001–010), while preserving the 12 October timing direction. Then reconcile emergency and state-machine contracts (G-011–016), **reuse the already specified Historical HCM-1/HI-1 and Health/CIBB/CWA custody/privacy architecture** while deferring G05 real-owner implementation tests (G-017–022) until concrete workflows, and finish the 215-chapter source-completeness and constitutional graduation gates (G-023–027). Update this one register as issues are found or closed.
