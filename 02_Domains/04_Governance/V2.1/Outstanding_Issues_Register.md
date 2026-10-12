@@ -212,6 +212,12 @@ The following are **specific, verified conflicting/duplicated clause locations**
 
 **Still open G-008–010/G-023:** author-approved operative clause consolidation and removal of duplicate/conflicting operative headings; jurisdictional and shared-competence owner contracts; optional coordination's future task-specific parameters (deliberately unspecified); validation that no hierarchy is silently inferred from scale, proximity or an emergency classification. **Do not design a universal hierarchical command structure.**
 
+## Chapter 12 duplicate-disposition and voting-validity pass — 12 October 2026
+
+**Working assembly aid committed:** `Sections/Section_02_Chapters_11-20_Subsection_Integration_Draft_004.md` now contains a delimited source-preserving disposition for duplicate §§12.4, 12.10 and 12.11 and the distinct but related original/recovered §12.9 material. Proposed future consolidation would present each repeated base clause once while retaining its provenance and substantive additions; no duplicate source has been deleted yet. This is progress on G-008, not completed authorial approval.
+
+**Decision matrix added:** official F/F and A/A determinacy versus legal quorum/constitution and implementation; F/A pending; reasoned U, recusal and holder compromise; third-ballot provenance; parallel shadow votes; three-resultant expanded triads; optional cross-scale coordination; paused-Clock emergencies. The matrix does not create a lawful selector, substitute, quorum or emergency mandate. G-001, G-003, G-005–008 and G-023 remain open for their actual legal and source-conformance gates.
+
 ## Next resolution sequence
 
 First verify and assemble Chapter 12 and Chapter 132 against original V1/V2/GTP sources (G-001–010), while preserving the 12 October timing direction. Then reconcile emergency and state-machine contracts (G-011–016), validate owner/custody/privacy systems (G-017–022), and finish the 215-chapter source-completeness and constitutional graduation gates (G-023–027). Update this one register as issues are found or closed.
