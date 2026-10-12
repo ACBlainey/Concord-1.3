@@ -172,3 +172,8 @@ The previously blocked stage-097 GitHub Actions workflow was successfully create
 ## Architectural correction 103 — glass hammer / instantaneous authority
 
 **Superseding interpretation warning:** the 100–102 fixtures model time-bounded *prerequisite/evidence* and revocation, **not continuously held constitutional authority**. Under the user-confirmed glass-hammer interpretation, authority is only available at the exact legitimate decision/act and is not stored or reused. The 157 prior fixture checks may remain technically passing, but the authority semantics attributed to stages 100–102 are **not validated** by those tests. See `../Integration/Glass_Hammer_Instantaneous_Authority_Correction_103.md`. Original primary glass-hammer text remains to be recovered and compared; do not promote the prior 'one-use commit lease' recommendation as constitutional architecture without that resolution.
+
+
+## Clarification 104 — state-conditioned authority consumption
+
+Glass-hammer authority is available only in the exact qualifying state/context, is exercised once, and its exercise changes the state so no repeat can occur. See `../Integration/Glass_Hammer_State_Consumption_Clarification_104.md`. Prior 100–102 time-window grant tests are prerequisite-evidence fixtures, not authority-consumption validation. Next: atomic compare-and-transition with guards and non-repeatability even for new event IDs; external effects need separate reconciliation.
