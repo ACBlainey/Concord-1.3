@@ -1258,3 +1258,15 @@ High-consequence decisions may justify substantial redundancy.
 ## 100.11 Parallel Stewardship Principle
 
 > **Parallel Stewardship provides independent advisory reasoning to expose alternative interpretations, evidence and failure modes without silently acquiring executive authority. Its value depends upon meaningful independence rather than the mere existence of multiple advisers.**
+
+<!-- BEGIN V2.1 STEWARDSHIP LIFECYCLE CROSS-CHAPTER ALIGNMENT 2026-10-12 — Chapter 100 -->
+
+### Chapter 100 — Parallel Steward provenance and ascension interface
+
+**Working alignment with shared Stewardship Selection and Allocation; no automatic executive authority.** Historical owns stewardship knowledge and protected contemporaneous records; Education owns training/accreditation; participation tier and office-specific requirements control eligibility. Parallel Stewards independently record reasoning, abstention and shadow voting positions before the official outcome is known. Their records may support later ascension candidacy, but neither agreement with an incumbent nor years served automatically earns promotion, official voting authority or succession.
+
+**Reality-anchored but method-agnostic:** preserve later observable evidence alongside frozen original reasoning. No universal performance score, comparator weight or observation window is to be designed before real decision classes and suitable evidence exist. Incumbent agreement alone has no reward; sound independent dissent may prove more informative. Shadow ballots remain advisory until a separate lawful appointment constitutes an official Chapter 12 position.
+
+Chapters 28–30 govern emergency succession, degraded triads and deadlock; this chapter supplies advisory reasoning, not the emergency mandate. Any appointment or acting status must have independently established selector, authority, term, conflict checks and expiry. See `03_Cross_Domain_Architecture/Stewardship_Selection_and_Allocation/README.md` §§10–13.
+
+<!-- END V2.1 STEWARDSHIP LIFECYCLE CROSS-CHAPTER ALIGNMENT 2026-10-12 -->
