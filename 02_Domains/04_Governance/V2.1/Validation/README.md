@@ -62,3 +62,8 @@
 - `.github/workflows/decision-state-fixture-093.yml`: GitHub Actions workflow configured to run the test module on changes or manual dispatch.
 - The 24 broader adversarial cases in `Decision_State_Machine_Adversarial_Cases_092.md` are **not** all implemented in 093: concurrency, crash recovery, live authority attestations, cross-system ancestry and paused-Clock emergency behaviour remain untested.
 - **Execution status:** files and workflow committed; CI run result **not yet independently verified**. Do not count these as passed cases or as constitutional/production validation.
+
+
+## Verified decision-state fixture 093 CI evidence (12 October 2026)
+
+GitHub Actions workflow `Decision state fixture 093` completed successfully: [run 38307347938](https://github.com/ACBlainey/Concord-1.3/actions/runs/38307347938), job `fixture` (job ID `115004487520`), conclusion **success**. The configured test module contains 20 `unittest` test methods; job success confirms the configured test command completed without failure, but this is a **simplified standalone fixture**, not a live Concord implementation or validation of all 24 specification-092 scenarios. Earlier text saying CI was unverified is superseded by this run evidence. Do not merge this run into the separate G05 stage pass counts. Next: concurrency, durable effects, real authority and paused-Clock integration.
