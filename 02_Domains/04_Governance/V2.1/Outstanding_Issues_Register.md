@@ -73,6 +73,24 @@
 
 A direct repository check found all ten expected chapter headings in each of seven paired preserved-source / active-integration sections: **01, 06, 10, 14, 15, 16 and 20**. The sectioned draft lengths exceeded the respective source-preserved lengths, consistent with additive integration. **This verifies chapter-heading presence only**; it does not prove every original clause is retained, correct, uniquely operative or reconciled. Sections **02 and 03** have separate working assemblies and integration drafts, requiring a baseline-aware comparison. Sections **04, 05, 07–09, 11–13, 17–19 and 21–22** currently have source-preserved files but no corresponding subsection-integration draft in the checked directory. Their preservation is not a finding of complete source reconciliation. This inventory informs G-023 and G-024; it does not close either issue.
 
+## Expanded preservation check — 12 October 2026
+
+A follow-on read-only comparison checked **all nine available working-source/active-draft pairs**: Section 02 and 03 against their respective `Working_Assembly_001.md` baselines, and Sections 01, 06, 10, 14, 15, 16 and 20 against their `Source_Preserved_001.md` baselines. Results:
+
+| Sections | Baseline subsection headings found in active draft | Baseline long text lines absent from active draft |
+| --- | ---: | ---: |
+| 01 | 129 / 129 | 0 / 299 (over 100 characters) |
+| 02 | 197 / 197 | 0 (over 80 characters) |
+| 03 | 72 / 72 | 0 (over 80 characters) |
+| 06 | 166 / 166 | 0 / 105 (over 100 characters) |
+| 10 | 96 / 96 | 0 / 30 (over 100 characters) |
+| 14 | 136 / 136 | 0 / 60 (over 100 characters) |
+| 15 | 133 / 133 | 0 / 47 (over 100 characters) |
+| 16 | 132 / 132 | 0 / 55 (over 100 characters) |
+| 20 | 145 / 145 | 0 / 40 (over 100 characters) |
+
+**Meaning:** This supports retention of baseline headings and sampled longer source lines in the active drafts, with no detected losses by these checks. It is **not** an exact whole-document diff, a check of shorter lines, or a proof that the content is correctly ordered or legally reconciled. G-023 and G-024 remain open. Other preserved-only sections still need source and architecture recovery.
+
 ## Next resolution sequence
 
 First verify and assemble Chapter 12 and Chapter 132 against original V1/V2/GTP sources (G-001–010), while preserving the 12 October timing direction. Then reconcile emergency and state-machine contracts (G-011–016), validate owner/custody/privacy systems (G-017–022), and finish the 215-chapter source-completeness and constitutional graduation gates (G-023–027). Update this one register as issues are found or closed.
