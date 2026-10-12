@@ -240,6 +240,14 @@ The following are **specific, verified conflicting/duplicated clause locations**
 
 **Remaining mechanism recovery:** identify exact pre-existing host state machine(s), decision-event acceptance and consequential commit semantics, transition predicates and failure/rollback paths, ordinary variable Civilisation Clock effective-time rules versus emergency independent timebase, and mapping to downstream operational authority. Neither BTA nor SMM should be mislabeled as the actual universal state machine. G-001 voting quorum remains distinct. Earlier register statements implying the majority never changes state until a separate implementer approves it are superseded by this authorial clarification.
 
+## Authorial clarification — action authority belongs to each affected system (12 October 2026)
+
+**Settled architectural boundary:** A valid triadic vote drives the lawful decision-state transition through its competent host state machine. **The bounded authority for actioning the decision depends on which system is affected; each affected system has its own bounded-authority rules.** Neither the triad, GTP scale, optional hierarchy nor a universal transition record creates an executive mandate. Do not search for or invent one Concord-wide action authority owner.
+
+**Cross-system fan-out:** One valid decision may affect Health, Utilities, Economy, Continuity, Security or other systems, each with independently legitimate act, route, actor, scope, consent, predicates, prohibitions, timing, completion and restoration. Different systems may be authorised, pending, blocked or completed at different times. MKA checks authority for the actual act where material; BTA preserves cross-owner transition and unresolved states; SMM may describe state but does not execute. No system inherits another's authority by shared decision provenance.
+
+**Applied:** Delimited working clauses added to Chapter 12, Chapters 28–30 and Chapter 132. Remaining recovery is **per-system** state-machine ownership and bounded-authority interface contracts, not discovery of a universal implementation authority. Retain G-001 as a separate voting-forum validity question and G-002 as a timing/transition concern. Source text remains preserved pending authorial clause consolidation.
+
 ## Next resolution sequence
 
 First verify and assemble Chapter 12 and Chapter 132 against original V1/V2/GTP sources (G-001–010), while preserving the 12 October timing direction. Then reconcile emergency and state-machine contracts (G-011–016), validate owner/custody/privacy systems (G-017–022), and finish the 215-chapter source-completeness and constitutional graduation gates (G-023–027). Update this one register as issues are found or closed.
