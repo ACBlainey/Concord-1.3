@@ -224,6 +224,14 @@ The following are **specific, verified conflicting/duplicated clause locations**
 
 **G-001 remains an authorial constitutional fork, not a missing arithmetic calculation:** Two independently valid matching official F/A ballots fix the substantive majority when the forum is otherwise lawful. Neither universal two-holder quorum nor compulsory three-holder participation is established by the checked portable source. Preserve prior authorial direction without assuming either quorum rule. **Next recovery:** locate exact original V1/V1.2 triadic forum and emergency substitution language before proposing operative quorum text; use full source paths and provenance.
 
+## Authorial clarification — triad vote authority is separate from implementation authority (12 October 2026)
+
+**Settled distinction:** A lawfully constituted Steward triad has bounded authority **to vote** within its decision context; it does **not** have authority to act upon or implement the outcome merely because it voted. Implementation authority is independently held elsewhere by the competent owner/actor and remains separately bounded, verified and accountable. A lawful vote, a determined majority and an authorised implementation are **three distinct questions**. A valid vote can remain unimplemented; inability to implement does not retroactively invalidate the vote. Do not treat the triad as the executive actor.
+
+**Applied in working drafts:** Delimited source-preserving authorial clauses added to Chapter 12 (voting forum/majority versus implementation), Chapters 28–30 (emergency voting/substitution versus independent operational mandate), and Chapter 132 (GTP/expanded votes and optional hierarchy never generate execution authority). Existing MKA/BTA/KCS/Clock interfaces must check the actual owner and actual consequential act separately.
+
+**Issue implications:** G-001 is the lawful **voting-forum quorum**, not an implementation quorum; G-002 concerns timing of **independently authorised implementation**, not a triad exercising emergency executive power; G-005 concerns resultant voting validity, not implementation authority; G-011–016 and G-017–020 retain separately owned implementation, state and custody obligations. Prior wording suggesting a triad's majority itself 'authorises a state change' must be read as establishing the triad's **voting outcome only**, subject to the separate implementer's authority. Historical source text remains preserved pending final reconciliation.
+
 ## Next resolution sequence
 
 First verify and assemble Chapter 12 and Chapter 132 against original V1/V2/GTP sources (G-001–010), while preserving the 12 October timing direction. Then reconcile emergency and state-machine contracts (G-011–016), validate owner/custody/privacy systems (G-017–022), and finish the 215-chapter source-completeness and constitutional graduation gates (G-023–027). Update this one register as issues are found or closed.
