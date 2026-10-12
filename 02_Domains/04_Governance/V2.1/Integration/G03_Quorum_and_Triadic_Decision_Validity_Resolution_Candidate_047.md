@@ -2,6 +2,10 @@
 
 **Status:** PROVISIONAL analysis for authorial decision. This is not an adopted quorum rule and does not amend Governance V2 Canonical.
 
+
+> **SUPERSEDED STATUS NOTICE — 12 October 2026**  
+> This is preserved historical **provisional analysis**, not an adopted quorum rule. The author's subsequent express clarification resolves contextual triadic quorum: **two independently valid matching official Steward votes determine the F/A result without requiring the non-decisive third position to be occupied or its ballot received as a separate legality gate**. Q-1 and Q-2 and the example-table “cannot commit” conclusions based *solely* on third-position absence are **not current operative design direction**. Q-3's constituent legitimacy, Q-4's distinctions, independent voter authorisation, event identity and host implementation authority remain relevant insofar as they do not reintroduce full-three occupancy. See `02_Domains/04_Governance/V2.1/Outstanding_Issues_Register.md` G-001/G-003 and the later Chapter 12 integration. Preserve the original candidate below for provenance; do not implement its conservative default.
+
 ## Existing source-supported rules
 
 - A normal triad has three Steward-owned voting positions.
