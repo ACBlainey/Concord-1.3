@@ -636,6 +636,26 @@ The principle is:
 Its use must preserve subsidiarity, representation, cultural context, practical rights, lawful delegation and the possibility of properly authorised constitutional evolution.
 
 <!-- END V2.1 INTEGRATED 132.12 — CANDIDATE 014 -->
+<!-- BEGIN V2.1 CHAPTER 132 SOURCE-CONFLICT REGISTER — REVIEW REQUIRED -->
+
+### Chapter 132 — Explicit reconciliation of retained V2 wording and recovered GTP architecture
+
+**Status:** Source-preserving review register; no source clause is repealed or silently promoted by this register. The retained V2 wording and the verbatim reconciled Candidate 014 clauses coexist above pending author-approved consolidated text.
+
+| Provision | Retained V2 assertion | Recovered Candidate 014 assertion | Required disposition |
+| --- | --- | --- | --- |
+| 132.1 | Describes GTP as a neutral **hierarchical territorial partition** and a possibly useful application rather than a foundational Governance requirement. | GTP is Concord's **adopted conceptual multiresolution spatial mesh**, foundational to its current spatial implementation; parent/child describes geometry, never governing rank. | Distinguish adopted implementation from constitutional authority; replace hierarchical-government implication without discarding valid spatial subdivision detail. |
+| 132.2 | Governance must remain valid if GTP is modified, rejected or replaced. | Same constitutional independence, while recognising GTP as currently adopted and requiring approved migration, provenance and continuity for any replacement. | Retain constitutional independence; clarify the current adopted implementation and formal change-control requirement. |
+| 132.4 | Treats GTP as a hypothetical potential interface, including boundary revision and higher layers. | All geometric levels always exist; different resolutions may operate concurrently, with dynamic operational workload allocation and hysteresis rather than creation/deletion of spatial cells. | Preserve practical questions on mobile populations, infrastructure and representation; distinguish operational coverage changes from geometry. |
+| 132.5 | Suggests nested jurisdiction and larger layers handling wider issues. | No authority inheritance or automatic escalation from cell size; lateral, overlapping and multi-resolution coordination requires independently valid competence. | Retain subsidiarity and cross-cell service examples, but reject spatial containment as a source of command authority. |
+| 132.12 | Describes GTP as merely a possible implementation module. | Recognises its adopted role in the current Concord spatial architecture while keeping rights and constitutional legitimacy independent of geometry. | Separate the status of GTP as an adopted reference from the constitutional source of authority. |
+
+**Additional source-resolution gates:** Candidate 014 §132.5 describes an R/A/B/C expanded-decision geometry and virtual triadic resultants. Verify its six-Steward vertex mapping, appointment/recusal, affected-context consent, and vote aggregation against Chapter 12 and the preserved V1 triadic source before declaring an executable decision rule. The section's duplicate headings are deliberate evidence of unresolved source layering, not two concurrently authoritative rules. All chapter clauses, including compatible §§132.3 and 132.6–132.11, must be assembled once in the eventual approved manuscript.
+
+**Non-inference:** A GTP spatial overlap, operational subdivision, workload trigger, or apparent higher geometric resolution never independently grants, transfers, renews or revokes governance authority.
+
+<!-- END V2.1 CHAPTER 132 SOURCE-CONFLICT REGISTER -->
+
 # Chapter 133 — Governance and Mars
 
 ## 133.1 Mars as Application
