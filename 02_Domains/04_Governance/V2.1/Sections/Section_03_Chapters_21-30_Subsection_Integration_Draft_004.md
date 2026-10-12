@@ -1767,3 +1767,13 @@ Degraded voting constitution, lawful replacement of a voting position, emergency
 Independent emergency timing permits authorised implementers to act without waiting for a Civilisation Clock transition where applicable law allows; it does not bypass the voting or implementation authority checks. Record vote outcome, implementation owner, authority basis, effective action, expiry, review and restoration as separately owned events. Existing Chapter 28–30 source wording about a successor receiving office responsibilities must be interpreted within the **actual office mandate**, not as blanket authority to implement a triadic result.
 
 <!-- END V2.1 TRIAD VOTE AUTHORITY SEPARATE FROM IMPLEMENTATION 2026-10-12 -->
+
+<!-- BEGIN V2.1 AUTHORIAL VOTE-DRIVEN STATE MACHINE CORRECTION 2026-10-12 — Chapters 28–30 -->
+
+### Chapters 28–30 — Emergency vote-driven transition, not Steward execution
+
+**Authorial correction:** A lawful triadic majority changes the relevant decision state **through the authorised state machine**. The voting Stewards do not personally acquire authority to implement the decision. Separately bounded emergency responders may execute consequential operational acts when the resulting state and their independent mandates permit; they do not redecide the valid vote. Distinguish decision-state transition, emergency power-state transition, operational action and restoration. They may have different owners and temporal predicates.
+
+A paused Civilisation Clock must not block independent emergency state-machine evaluation and lawful urgent transitions. The emergency timebase cannot itself create authority; current factual predicates and consequential authority are independently checked. BTA preserves cross-owner transition relations and partial states; MKA verifies the actor's authority for actual consequential acts. Do not assume that a third-ballot provenance delay is a mandatory clock or execution gate after a lawfully determined two-vote majority.
+
+<!-- END V2.1 AUTHORIAL VOTE-DRIVEN STATE MACHINE CORRECTION 2026-10-12 -->
