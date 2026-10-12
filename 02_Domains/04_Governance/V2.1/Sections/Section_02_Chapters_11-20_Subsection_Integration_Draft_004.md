@@ -6376,3 +6376,15 @@ Where a proposed arrangement would give binding direction rather than merely org
 **No premature quorum rule adopted.** Neither a universal “two holders always suffice” nor a universal “all three holders must participate” follows from the portable source or the authorial arithmetic decision. The constitutional decision is specifically how to constitute a lawful three-position forum under temporary absence, permanent vacancy, conflict recusal and emergency. Preserve that fork for authorial resolution after further V1/V1.2 source recovery; do not fill it by assumption.
 
 <!-- END V2.1 QUORUM SOURCE COMPARISON 2026-10-12 -->
+
+<!-- BEGIN V2.1 TRIAD VOTE AUTHORITY SEPARATE FROM IMPLEMENTATION 2026-10-12 — Chapter 12 -->
+
+### Chapter 12 — Authorial clarification: vote authority is not implementation authority
+
+**Authorial rule (12 October 2026):** A lawfully constituted triad possesses bounded **authority to vote** within its decision context. The triad **does not possess authority to act upon or implement that vote by virtue of voting**. The competent implementation authority is separately held elsewhere, with its own lawful source, scope, conditions, owner, expiry and accountability. A vote may be valid and its outcome determined even where implementation is pending, withheld, challenged or outside the implementer's present mandate.
+
+Keep separate records for (1) lawful triad constitution and voting-position authority, (2) official ballot validity and majority result, and (3) independently authorised implementation by the actual competent actor. Two independently valid matching official votes determine the F/A majority under the settled arithmetic rule, subject to valid voting constitution; they do **not** themselves create implementation permission or authority. The third official vote remains provenance, not an implementation gate merely by being late.
+
+**Quorum question narrowed:** G-001 asks only what constitutes a lawful **voting forum**, including absence, recusal and vacancy. Do not use an implementation mandate or inability to implement as a proxy for voting quorum. Nor should the voting triad be described as the executing authority. CAP ≠ PERM ≠ AUTH applies independently to the implementer. The applicable Civilisation Clock transition schedules ordinary implementation where required; lawful urgent action can occur independently of a paused Clock **only by an already competent, bounded implementation actor**.
+
+<!-- END V2.1 TRIAD VOTE AUTHORITY SEPARATE FROM IMPLEMENTATION 2026-10-12 -->
