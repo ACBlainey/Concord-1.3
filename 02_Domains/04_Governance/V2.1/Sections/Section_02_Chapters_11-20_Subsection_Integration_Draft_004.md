@@ -773,6 +773,24 @@ The expanded forum may decide only within the specifically authorised common fie
 
 <!-- END V2.1 CHAPTER 12 EXECUTION-BOUNDARY RECONCILIATION REGISTER -->
 
+<!-- BEGIN V2.1 G03 QUORUM AND V1.1 TRIADIC SOURCE RESOLUTION -->
+
+### Chapter 12 — Source-verified voting arithmetic versus unresolved consequential quorum
+
+**Source comparison:** `Integration/Triadic_Module_V11_Source_Comparison_Minimal_Amendment_008.md` records a verified reading of `ACBlainey/Concord-1.1/06_Portable_Modules/Triadic Decision Making Module.md` (blob `48084031d1d834a98e5294232eef96322280c2f9`). Its §§2, 6, 8–10, 18 and 21 support three equal decision positions, initial independent reasoning, two matching For or Against votes as the majority rule, abstention as distinct from Against, no-majority restraint, and independent authority/participant checks. The source describes itself as experimental and names a separate Triadic Governance Decision Protocol and Governance Operating Protocol; their operative text is not verified by this comparison.
+
+**New versus inherited architecture:** The V1.1 portable module does **not explicitly specify** a three-person constituent replacing one original voting position, two-stage resultant aggregation, recursive weight conservation, or R/A/B/C GTP allocation. The optional companion C-008-01–05 and Chapter 12 Candidate 013 propose those mechanisms as additive interfaces, not quotations from V1.1. They preserve the source's ordinary majority semantics but cannot independently authorise substitution or change quorum.
+
+**Unresolved quorum fork:** `Integration/G03_Quorum_and_Triadic_Decision_Validity_Resolution_Candidate_047.md` identifies a constitutional choice between (a) all three original positions having independently eligible, authorised and distinct holders before a consequential commit, even where only two cast matching F/A, and (b) a separately enacted degraded two-position quorum. Its Q-1–Q-4 conservative **full-constitution default remains PROVISIONAL and requires authorial approval**. A two-vote mathematical majority is not itself evidence of a validly constituted forum. Invalid constitution, valid unresolved, valid For/Against and unknown decision boundary must remain separate states.
+
+**Node mapping:** `Integration/GTP_Six_Steward_Vertex_Mapping_Constraints_019.md` requires independently sourced mapping of conceptual vertex associations to distinct triangle-owned positions and actual persons, eligibility, mandate and event. Six vertex associations alone cannot appoint six voters. Nine-position virtual arrangements require nine distinct eligible holders. Unknown mapping, common competence or quorum withholds operative commitment rather than authorising duplication.
+
+**Decision boundaries:** `Integration/Decision_Event_Boundary_Source_Limited_Review_018.md` distinguishes constituent stages, technical retries, continued deliberation, reconsideration, appeal and independently authorised subsequent decisions. A fresh label cannot reset Steward uniqueness or expiry; `DECISION_BOUNDARY_UNKNOWN` is a hold state, not a vote.
+
+**Required decision before graduation:** Determine the ordinary consequential quorum and any lawful degraded-mode exception from the original governing source or explicit authorial constitutional resolution. Until then, preserve both the two-vote arithmetic and the separate commit-validity gate. Do not silently adopt Q-1–Q-4 as enacted law.
+
+<!-- END V2.1 G03 QUORUM AND V1.1 TRIADIC SOURCE RESOLUTION -->
+
 ## 12.10 Horizontal Expansion Before Vertical Escalation
 
 <!-- BEGIN V2.1 INTEGRATED 12.10 — RECONCILED CANDIDATE 013 VERBATIM; PRIOR TEXT RETAINED -->
