@@ -48,3 +48,8 @@
 - 091 CI verified: 16 passing tests, run 38183249574.
 - Verified cumulative stage count: 21 CI stages and 299 test cases (070, 072–091).
 - Source-to-rule integration map: `../G05 — Governance Source-to-Rule Integration Map 004.md`; this maps candidate destinations but does not assert completed V2 chapter reconciliation.
+
+
+## Decision state-machine adversarial specification 092
+
+`Decision_State_Machine_Adversarial_Cases_092.md` defines 24 **unexecuted** source-aligned fixtures for unique decision IDs, contextual two-vote majorities, third-ballot provenance, event-triggered expansion/parallel Steward routes, cross-constituent identity, action idempotency, historical finality, fresh authority, and paused-Clock emergency response. This is a separate proposed G03/G07 test specification; **do not add its cases to the G05 verified CI pass counts**. Implementation adapters and execution evidence remain outstanding.
