@@ -1540,6 +1540,31 @@ It helps prevent category confusion.
 
 > **Authority should operate within defined geographic, functional, institutional, personal, technological or issue-specific jurisdiction. Overlaps require coordination, gaps require legitimate assignment, and neither first action, technical capability nor delegated implementation should create jurisdiction that the constitutional architecture did not confer.**
 
+<!-- BEGIN G05 SOURCE INTERFACES AND LIMITATIONS -->
+
+## Interfaces requiring authoritative source resolution
+- **Governance V1 triadic mechanics and V2.1 chapter patches:** independent steward reasoning, decision aggregation, local competent context, lateral coordination, authority limits and recusal.
+- **GTP:** spatial intersections and resource collision identifiers must not silently become jurisdictions.
+- **Constitutional Emergency V2:** issuer competence, necessity, proportionality, time limits, review and emergency exit; these are NOT specified by Python fixtures.
+- **BTA portable module:** actual 28-field contract and transition owner-system semantics, including six quarantined legacy-only names.
+- **KCS/SMM/Civilisation Clock:** authentic state changes, stale dependency detection and independent emergency operational time.
+- **Historical/Continuity:** record ownership, privacy wrappers, immutable provenance, survivorship and authorised duty closure.
+- **Civil Contact:** discoverability and routing, not adjudication.
+- **Stewardship Selection and Allocation:** steward qualification/appointment must not be invented locally.
+
+## Integration gaps and limitations — do not silently graduate
+1. **No end-to-end harness:** stages currently validate small isolated Python models; no integrated owner-system BTA/KCS/GTP/emergency run.
+2. **Attestations are booleans in prototypes:** cryptographic identity, authorisation scope, issuer trust and tamper-evident provenance are not implemented.
+3. **Duty registers are in-memory:** no durable transactional storage, concurrent edits, conflict resolution, privacy enforcement, retention or archival chain of custody.
+4. **087 initial CI failure:** five test constructors lacked restriction_kind; corrected after inspecting GitHub Actions logs. Re-run must pass before claiming 087 validated.
+5. **Restoration equivalence:** user-provided verification flags are not independent proof of functional, custodial and historical equivalence.
+6. **Strict YAML parsing:** duplicate-key rejection, full 28-field schema validation and robust legacy-semantic reconciliation remain incomplete.
+7. **Cumulative-control thresholds:** no constitutionally approved threshold, scope harmonisation, aggregation of different restriction kinds or independent review protocol.
+8. **Orphan protection:** no mechanism for a real authority to issue, revoke, contest or appeal mandates; model must not autonomously intervene.
+9. **Governance reconstruction:** the 215-chapter V2 source and recovered V1 triadic provisions have not been fully incorporated or graduated. This document is an interface chapter, not a claim of full governance completeness.
+
+<!-- END G05 SOURCE INTERFACES AND LIMITATIONS -->
+
 # Chapter 199 — Governance and Cross-System Disagreement
 
 ## 199.1 Systems May Disagree
@@ -1758,6 +1783,15 @@ The principle remains:
 ## 199.17 Cross-System Disagreement Principle
 
 > **Concord systems may legitimately disagree because they answer different questions and operate under different functions. Governance should integrate their evidence without allowing Science, Judiciary, Metrics, KCS, Ratchet, Roadway, AI, Planning or another subsystem to become an automatic master authority outside its constitutional jurisdiction.**
+
+<!-- BEGIN G05 GRADUATION REQUIREMENTS -->
+
+## Graduation gate
+Do not promote this candidate to canonical governance until: (a) source-resolution against preserved V1/V2 and graduated modules; (b) explicit owner and constitutional review; (c) real integrated negative/positive tests with tamper, concurrency, expiry and privacy scenarios; (d) audit of overlapping mandates and surviving duties; (e) tracked chapter-patch integration and section assembly; and (f) documented independent validation and change provenance.
+
+**Preservation rule:** `../Governance V2 Canonical.md` remains unchanged. This file provides modular V2.1 incorporation and a traceable integration boundary, not an overwrite.
+
+<!-- END G05 GRADUATION REQUIREMENTS -->
 
 # Chapter 200 — Governance as Integration
 
