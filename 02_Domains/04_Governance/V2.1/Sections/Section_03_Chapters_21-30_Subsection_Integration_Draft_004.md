@@ -1785,3 +1785,11 @@ A paused Civilisation Clock must not block independent emergency state-machine e
 A valid emergency triadic vote drives its lawful state-machine transition; it does not issue a universal executive authority token. Every affected operational system (such as Health, Utilities, Security or Continuity) determines its own authorised response under its applicable emergency and ordinary bounded-authority rules. A shared emergency decision may cause multiple independently owned operational transitions with different readiness, permission, urgency, expiry and restoration states. BTA records partial completion and residual duties; MKA checks each actual consequential act as appropriate. A paused Civilisation Clock does not stop independently lawful emergency response, but urgency does not dissolve any affected system's constitutional limits.
 
 <!-- END V2.1 AFFECTED-SYSTEM BOUNDED ACTION AUTHORITY 2026-10-12 -->
+
+<!-- BEGIN V2.1 DECISION-DEPENDENT CONSEQUENCE ROUTING 2026-10-12 — Chapters 28–30 -->
+
+### Chapters 28–30 — Emergency decision-dependent routing
+
+The valid vote determines the relevant decision state; the actual emergency decision then determines what operational consequences, affected systems and bounded authorities must be considered. Do not preassign a universal responder or implementation chain to a decision not yet made. Pre-existing emergency mandates may already identify lawful actors for certain event classes, but those are independently sourced and conditional, not invented by this governance chapter. Urgency permits time-critical lawful routing without waiting for the variable Civilisation Clock; it does not justify assuming an unknown executor or bypassing affected-system authority. Pending owner or consequence resolution must be recorded explicitly and handled under the actual host's emergency rules.
+
+<!-- END V2.1 DECISION-DEPENDENT CONSEQUENCE ROUTING 2026-10-12 -->
