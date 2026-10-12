@@ -254,6 +254,14 @@ The following are **specific, verified conflicting/duplicated clause locations**
 
 **Architecture boundary:** State machines own their lawful transition semantics, not a universal executive office. BTA preserves discovered/partial/pending transition relationships; MKA verifies actual acts when their relevant route and authority are known; affected systems supply their own rules. Unknown consequence or owner must remain explicit, not silently replaced by an invented authority. Notes added source-preservingly to Chapter 12, Chapters 28–30 and Chapter 132. This corrects overly prescriptive earlier implementation-contract wording; final clause consolidation must distinguish known-at-convening fields from outcome-dependent fields.
 
+## Authorial integration boundary — workflow-dependent interfaces deferred (12 October 2026)
+
+**Sufficient at current constitutional level:** Governance makes lawful decisions; valid decisions produce state changes under the applicable state-machine architecture; those changes may require action. Existing domain/system architectures separately define their roles, responsibilities and bounded authorities. This establishes the general constitutional interfaces without preselecting a decision outcome, affected systems, implementing actors or detailed action sequence.
+
+**Deferred, not a constitutional defect:** Detailed interface joins, event routing, handoffs, actor assignment, authority checks for particular acts, failure/recovery choreography and cross-domain completion rules require an **actual workflow** to specify responsibly. Do not construct speculative end-to-end workflows solely to make every interface appear connected. A decision may produce no action, one action or multiple actions. The affected systems' authority remains independently bounded.
+
+**Integration discipline:** Keep high-level interface contracts and existing architectural references discoverable. Record workflow-specific gaps when a concrete case arises, then resolve only the interfaces that case actually invokes. Do not mistake this intentional deferral for missing constitutional substance, and do not use it to suppress genuinely missing voting-law, jurisdiction or state-machine authority rules. Preserve original sources and unresolved conflicts for later reconciliation.
+
 ## Next resolution sequence
 
 First verify and assemble Chapter 12 and Chapter 132 against original V1/V2/GTP sources (G-001–010), while preserving the 12 October timing direction. Then reconcile emergency and state-machine contracts (G-011–016), validate owner/custody/privacy systems (G-017–022), and finish the 215-chapter source-completeness and constitutional graduation gates (G-023–027). Update this one register as issues are found or closed.
