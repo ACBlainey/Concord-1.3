@@ -6342,3 +6342,37 @@ Where a proposed arrangement would give binding direction rather than merely org
 **Open constitutional gates, not inferred by this table:** legal quorum and constitution of partially occupied triads; completion/finalisation of missing third votes; eligible substitution and expanded-resultant appointment; exact decision-event identity and appeal boundaries; legal issuer for exceptional action; binding cross-area competence. Source-preserving integration is not proof of implementation or authorial graduation.
 
 <!-- END V2.1 CHAPTER 12 DUPLICATE CLAUSE DISPOSITION AND VALIDITY MATRIX 2026-10-12 -->
+
+<!-- BEGIN V2.1 QUORUM SOURCE COMPARISON 2026-10-12 — EVIDENCE-BASED WORKING ANALYSIS -->
+
+## Chapter 12 — Quorum and lawful forum: portable-module source comparison (not enacted)
+
+**Source examined:** `04_Portable_Modules/Triadic Decision Making Module.md` §§6–11. Its basic table expressly describes complete three-position cases (3F, 2F/1A, 1F/2A, 3A, 1F/1A/1U), establishes that abstention is information rather than an Against vote, distinguishes action from non-action, and permits escalation when a triad cannot responsibly resolve a question. The source **does not specify a constitutional minimum attendance, how an unoccupied third office affects quorum, or who may constitute a substitute**. It cannot by itself settle G-001.
+
+**Concord authorial direction already supplied:** Two independently valid matching official For or Against votes determine the substantive majority, while the third official vote remains required for provenance. That principle answers arithmetic determinacy but does not automatically establish a lawfully constituted forum. A conservative assumption requiring three occupied positions was previously proposed, but the later authorial direction supersedes its use as a reason to delay an otherwise lawful two-vote result; it does **not** expressly abolish all forum-constitution requirements.
+
+### Distinct validation questions
+
+1. **Office constitution:** Does the decision event have three lawfully established positions, even if one holder is temporarily unreachable? Is a permanently vacant office materially different? The portable module does not answer.
+2. **Eligible holder and independence:** Are the two matching ballots from two distinct, currently eligible, independently authorised holders acting within the same valid decision event? Shadow votes and duplicate event aliases do not qualify.
+3. **Quorum:** Does the applicable independently adopted law permit a decision when the third official ballot is absent, the third position is unoccupied, or a holder has recused? These are separate conditions and remain unresolved.
+4. **Majority:** If the forum is lawful and two official votes validly match, the substantive F/A result is fixed; the third ballot cannot reverse it. F/A without a third ballot has no majority.
+5. **Consequential effect:** Competence, protected rights, actual mandate, MKA verification at act/commit, ordinary Clock scheduling and emergency-independent timing remain separate from the vote tally.
+6. **Provenance:** Preserve the third official position's outstanding ballot, reason for absence/abstention, later completion or separately lawful finalisation, and any substitution chain without retroactive rewriting.
+
+### Cases that must not be silently equated
+
+| Case | What is known | What remains to be established |
+| --- | --- | --- |
+| Three valid official positions, all occupied; two matching ballots and third pending | Substantive majority determined | Applicable forum/quorum and official third-ballot completion policy |
+| Three lawful offices, third holder temporarily unreachable | Two matching valid ballots can determine arithmetic | Whether lawful quorum survives temporary nonparticipation and which urgency class applies |
+| Third office permanently vacant | Arithmetic alone does not fill the office | Vacancy constitution, lawful succession and forum validity |
+| Third holder recused for conflict | Recusal is not an information abstention | Whether and how a replacement may lawfully be constituted |
+| Third holder abstains for insufficient evidence | U is a recorded decision position, not a vacancy | Whether other two valid matching ballots lawfully determine the result |
+| Two votes are matching but from same holder/duplicated event | Not two independent official votes | Correct identity/event lineage; withhold consequential commit |
+| Parallel Steward offers a matching shadow ballot | Advisory record only | Separate appointment before any official voting position can exist |
+| Expanded triad returns a constituent resultant | One bounded original-position weight | Independent lawful constituent constitution, quorum, common competence and resultant binding |
+
+**No premature quorum rule adopted.** Neither a universal “two holders always suffice” nor a universal “all three holders must participate” follows from the portable source or the authorial arithmetic decision. The constitutional decision is specifically how to constitute a lawful three-position forum under temporary absence, permanent vacancy, conflict recusal and emergency. Preserve that fork for authorial resolution after further V1/V1.2 source recovery; do not fill it by assumption.
+
+<!-- END V2.1 QUORUM SOURCE COMPARISON 2026-10-12 -->
