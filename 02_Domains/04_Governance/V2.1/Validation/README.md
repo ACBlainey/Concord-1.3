@@ -87,3 +87,8 @@ GitHub Actions [run 38307482088](https://github.com/ACBlainey/Concord-1.3/action
 ## Verified concurrency fixture 094 CI evidence
 
 [GitHub Actions run 38307655733](https://github.com/ACBlainey/Concord-1.3/actions/runs/38307655733) completed with conclusion **success** for the configured 10-test threaded fixture 094. This supersedes the earlier CI-pending statement for 094. The result demonstrates fixture-level in-process thread safety only; distributed transactions, durable restart recovery and real external action idempotency remain unverified.
+
+
+## Decision/ACKS recovery interface 095
+
+The author's ACKS communications-recovery direction is documented in `../Integration/Decision_Event_Boundary_Source_Limited_Review_018.md`. `test_decision_acks_recovery_095.py` adds 10 in-memory integration tests linking the existing G05 owner-separated acknowledgement prototype 090 to the G03/G07 atomic decision fixture 094. Workflow `.github/workflows/decision-acks-recovery-095.yml` runs the integration tests. **Execution pending independent verification at initial registration** (GitHub Actions run [38308011836](https://github.com/ACBlainey/Concord-1.3/actions/runs/38308011836) initially queued). ACK reception, remote state commitment and confirmed external effects are distinct. No durable journal, network partition simulation, authenticated real transport or external exactly-once guarantee is demonstrated; ACKS does not confer authority or close duties.
