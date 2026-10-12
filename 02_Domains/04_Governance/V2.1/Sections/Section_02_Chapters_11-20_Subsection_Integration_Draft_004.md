@@ -6310,3 +6310,35 @@ Do not invent comparative promotion metrics: decision classes and valid outcome 
 Where a proposed arrangement would give binding direction rather than merely organise information or logistics, require the actual independently lawful shared/delegated competence, affected-domain permissions, office mandates, scope and termination; use MKA to check authority at the consequential act. The choice to create such an arrangement, its scale, selector, hierarchy and review details are **not specified** here and cannot be inferred from GTP nesting. Record cross-scale decision-event identity and provenance so one Steward does not gain duplicate voting weight through overlapping roles.
 
 <!-- END V2.1 OPTIONAL HIERARCHY CROSS-CHAPTER RECONCILIATION 2026-10-12 -->
+
+<!-- BEGIN V2.1 CHAPTER 12 DUPLICATE CLAUSE DISPOSITION AND VALIDITY MATRIX 2026-10-12 — SOURCE-PRESERVING ASSEMBLY AID -->
+
+## Chapter 12 — Clause disposition and validity reconciliation (working annex, not enacted)
+
+**Purpose.** This is a consolidation map, not a replacement for source text. The original §12.4, §12.10 and §12.11 paragraphs and Candidate 013 restatements remain in this manuscript for provenance; duplicate headings are **not** two separately operative laws. Final numbering and removal of duplicate operative presentation require authorial approval and an independently checked source-to-clause map.
+
+| Clause | Preserved overlap | Proposed single operative placement | Unresolved check |
+| --- | --- | --- | --- |
+| 12.4 | Earlier Horizontal Expansion and integrated Candidate 013 repeat the same base paragraphs; Candidate adds spatial interpretation | One §12.4 containing common base text once, followed by V2.1 meaning-of-horizontal-expansion clarification | Confirm verbatim correspondence and differences before deduplication |
+| 12.9 | Original temporary expanded triad and recovered virtual-resultant subsection are related, not interchangeable duplicates | Keep original purpose/scope provision followed by bounded resultant and node-ring technical subclauses | Validate nine distinct holders, legal constitution, event identity and quorum |
+| 12.10 | Earlier and Candidate 013 Horizontal Expansion Before Vertical Escalation repeat the same base paragraphs; Candidate adds operational-scale interpretation | One §12.10 with shared base text once and clarified subsidiarity rule | Confirm exact source alignment and optional bounded hierarchy compatibility |
+| 12.11 | Earlier and Candidate 013 Vertical Escalation repeat the same base paragraphs; Candidate adds legal-versus-geometric escalation | One §12.11 with common base text once and explicit lawful delegation/referral boundaries | Verify constitutional instrument and return mechanism |
+
+### Voting-validity decision table (interpretive only)
+
+| Situation | Substantive arithmetic | Legal effect / next action |
+| --- | --- | --- |
+| Two independently valid matching official F votes | For majority determined | Requires separately valid forum, quorum, jurisdiction, event identity and implementation authority; ordinary effect at next applicable Clock transition, lawful urgent effect may be immediate |
+| Two independently valid matching official A votes | Against majority determined | Same validity gates; third official vote remains provenance obligation, not a veto |
+| One F, one A, third official vote pending | No majority yet | Preserve pending official ballot; no implementation on an invented majority |
+| One or more U / abstention ballots | Apply F/A/U arithmetic only to valid official votes | Reason-sensitive handling; U does not automatically mean absence, recusal or vacancy |
+| Third official Steward absent after two matching valid votes | Determined arithmetic, incomplete official record | Preserve pending provenance and apply lawful completion/finalisation rule when established; no automatic shadow substitution |
+| Parallel Steward submits an independent shadow vote | No official voting effect | Preserve separately for possible later evidence-based learning; no automatic promotion into triadic tally |
+| Conflict recusal or compromised holder | Validity depends on independent constitution and quorum rules | Use only separately lawful bounded substitution/expanded position; do not treat conflict as mere information abstention |
+| Three constituent expanded-triad resultants | One resultant per constituent triad; never pooled nine-ballot majority | Requires distinct eligible holders, common lawful competence, correct event graph and independently valid resultant binding; no authority from GTP geometry |
+| Optional cross-scale hierarchical coordination | No additional or superior vote created | Binding direction requires separate legal competence; coordination structure does not change Chapter 12 vote weight |
+| Civilisation Clock paused during emergency | Clock is not an emergency deadline | Independently lawful urgent action and operational expiry/review continue on emergency timebase; revalidate stale dependencies at resumption |
+
+**Open constitutional gates, not inferred by this table:** legal quorum and constitution of partially occupied triads; completion/finalisation of missing third votes; eligible substitution and expanded-resultant appointment; exact decision-event identity and appeal boundaries; legal issuer for exceptional action; binding cross-area competence. Source-preserving integration is not proof of implementation or authorial graduation.
+
+<!-- END V2.1 CHAPTER 12 DUPLICATE CLAUSE DISPOSITION AND VALIDITY MATRIX 2026-10-12 -->
