@@ -6289,3 +6289,14 @@ Expanded voting is exceptional, not an ordinary remedy for substantive disagreem
 ## Integration dependencies
 
 Cross-check Chapters 9, 28–30, 54, 100, 132, 149–151 and 198. Do not modify the V2 canonical original. Final clause numbering, placement and normative force require review before this annex can be merged into Chapter 12.
+<!-- BEGIN V2.1 STEWARDSHIP LIFECYCLE CROSS-CHAPTER ALIGNMENT 2026-10-12 — Chapter 12 -->
+
+### Chapter 12 — Parallel Steward selection, appointment and voting-position boundary
+
+**Working interface alignment; no new constitutional appointment power.** Historical owns protected stewardship provenance; Education owns training/accreditation; participant tier and office-specific requirements govern eligibility. Experience as a Parallel Steward supports later ascension candidacy but **does not** create a constituted voting position, automatic appointment, mandate, quorum or right of succession. The selector and final appointment rule remain open in the shared Stewardship Selection and Allocation architecture.
+
+An independently frozen shadow vote, reasoned abstention or forecast belongs to the Parallel Steward's learning and provenance record, **not** the official Chapter 12 triadic tally. A Parallel Steward may cast an official vote only if separately and lawfully appointed to the specific bounded voting position for that decision event, with eligibility, conflict review, identity, independence, authority and expiry verified. A position may not be multiplied by relabelling the same event or a shadow record. Official F/A/U arithmetic and the 12 October two-vote-majority rule remain unchanged.
+
+Do not invent comparative promotion metrics: decision classes and valid outcome tests are not yet known. Preserve original independent reasoning and later reality observations for future evidence-appropriate review. Cross-reference Chapter 100 and emergency Chapters 28–30; see `03_Cross_Domain_Architecture/Stewardship_Selection_and_Allocation/README.md` §§10–13.
+
+<!-- END V2.1 STEWARDSHIP LIFECYCLE CROSS-CHAPTER ALIGNMENT 2026-10-12 -->
