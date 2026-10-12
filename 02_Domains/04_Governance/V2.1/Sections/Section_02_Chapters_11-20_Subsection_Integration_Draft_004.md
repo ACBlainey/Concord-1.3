@@ -6414,3 +6414,15 @@ For each affected system, resolve the actual consequential act, context, route, 
 **Important distinction:** A decision-state change is not automatically the same as completed physical, financial, medical or infrastructural action. A valid vote should not be re-decided by downstream actors, but they must not act outside their own independently bounded competence. When the voted decision itself has immediate legal effect, represent that as the appropriate host-defined transition; do not infer authority for further downstream acts.
 
 <!-- END V2.1 AFFECTED-SYSTEM BOUNDED ACTION AUTHORITY 2026-10-12 -->
+
+<!-- BEGIN V2.1 DECISION-DEPENDENT CONSEQUENCE ROUTING 2026-10-12 — Chapter 12 -->
+
+### Chapter 12 — Do not preassign unknown decision consequences or executors
+
+**Authorial clarification (12 October 2026):** Before a triad has voted, the actual decision is unknown. Consequently the affected systems, exact consequences, required actions, implementing actors and applicable bounded-authority pathways **cannot be specified in advance as a universal mechanism**. The constitutional architecture may define the interface and its constraints, but must not fabricate the eventual route, actor, action or mandate.
+
+A valid triadic vote drives the lawful decision-state transition through the relevant state machine. **Only when the actual outcome and its consequences are established** can the applicable host/domain systems and their own bounded-authority rules be identified. Some decisions need no downstream act; others may need one or many, or may require additional lawful decisions. The post-decision resolution is context-specific and may be iterative or concurrent, not a compulsory fixed pipeline or a mandatory separate clock cycle.
+
+The state machine must not be misrepresented as a universal executive authority or as a machine that automatically knows all future actors. BTA can represent discovered multi-owner transition relations, unresolved dependencies and partial outcomes; MKA can test actual consequential acts when their route and authority dimensions are known. **Unresolved consequence/owner is a legitimate explicit state**, not permission to guess an executor or infer authority from the vote. Earlier references to a named 'implementation owner' as a required *pre-vote* field are conditional placeholders for cases where the owner is already legitimately known, not universal prerequisites.
+
+<!-- END V2.1 DECISION-DEPENDENT CONSEQUENCE ROUTING 2026-10-12 -->
