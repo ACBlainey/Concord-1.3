@@ -1431,6 +1431,22 @@ Two matching valid votes in a three-position triad may yield a substantive major
 A temporary expanded virtual triad is not an automatic succession route and must not be convened merely to reverse a lawful decision or bypass abstention. Its constituent membership, lawful competence, resultants and termination must be independently authorised and recorded.
 
 <!-- END V2.1 INTEGRATED 29 — CANDIDATE 006 -->
+<!-- BEGIN V2.1 EMERGENCY TRIADIC MAJORITY TIMING — AUTHORIAL DIRECTION 2026-10-12 -->
+
+### Chapter 29 — Emergency and time-critical implementation following a decisive two-vote majority
+
+**Authorial resolution, cross-reference to Chapter 12:** Two independently valid matching For or Against Steward votes determine the substantive majority. The third official vote is required for provenance, dissent and a complete voting record, but cannot alter an already established two-matching-vote result. Determinacy does not dispense with lawful forum constitution, identity, competence, independently applicable quorum, decision-event boundary or implementation authority.
+
+**Ordinary decisions:** Once the lawful two-vote threshold is met, the decision has passed its substantive voting bar. Implementation normally awaits the next applicable Civilisation Clock transition, during which interval the third official ballot should be obtained. The clock is variable and may pause; it is not a guaranteed deadline or source of authority. Missing provenance must remain explicitly pending and auditable.
+
+**Emergency or time-critical decisions:** Where independently established authority permits immediate implementation, a lawful determined two-vote majority may be implemented **immediately**, without waiting for the third ballot or a Civilisation Clock transition. Emergency execution, expiry, renewal, revalidation and review must be driven by independent operational state machines and an independent timebase, so a paused clock cannot suspend emergency safeguards or response. Urgency alone does not manufacture a degraded quorum, a Steward appointment or jurisdiction.
+
+**No majority:** F/A with a third vote pending is not a determined outcome. A genuine deadlock or invalid forum must use its separately authorised preservation, substitution or escalation route; it cannot be reclassified as an approved two-vote decision.
+
+**Provenance and later correction:** Preserve the missing vote as outstanding until lawfully supplied or separately finalised. A lawful returning original ballot may supersede a provisional position ballot while preserving both records, but cannot retroactively change a majority already fixed by two valid matching votes. Later discovered invalidity, review and remedies remain independent questions.
+
+<!-- END V2.1 EMERGENCY TRIADIC MAJORITY TIMING — AUTHORIAL DIRECTION 2026-10-12 -->
+
 ## 29.3 Two Stewards Unavailable
 
 Where only one steward remains, ordinary triadic authority may no longer exist.
