@@ -67,3 +67,8 @@
 ## Verified decision-state fixture 093 CI evidence (12 October 2026)
 
 GitHub Actions workflow `Decision state fixture 093` completed successfully: [run 38307347938](https://github.com/ACBlainey/Concord-1.3/actions/runs/38307347938), job `fixture` (job ID `115004487520`), conclusion **success**. The configured test module contains 20 `unittest` test methods; job success confirms the configured test command completed without failure, but this is a **simplified standalone fixture**, not a live Concord implementation or validation of all 24 specification-092 scenarios. Earlier text saying CI was unverified is superseded by this run evidence. Do not merge this run into the separate G05 stage pass counts. Next: concurrency, durable effects, real authority and paused-Clock integration.
+
+
+## Fixture 093 extension — five additional checks
+
+Commit `734afeee7d8af60b8f3fe05daf281398de637d0a` adds five unit tests to `test_decision_state_fixture_093.py` (25 methods total): third-vote provenance after a fixed majority, duplicate after majority, action refusal before majority, unauthorised expansion non-effect, and old-event immutability despite a later opposite new decision. **The earlier passing run 38307347938 covers the preceding 20-test revision, not these five new tests.** Reverify CI for the expanded suite before recording 25 passes.
