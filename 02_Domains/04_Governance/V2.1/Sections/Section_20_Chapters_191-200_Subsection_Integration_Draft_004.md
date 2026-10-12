@@ -1825,6 +1825,20 @@ Stage 090 intentionally uses externally asserted booleans for authentication and
 
 <!-- END G05 INTEGRATION STATE AND GRADUATION 003 -->
 
+<!-- BEGIN G05 STAGES 088-091 CROSS-SYSTEM EVIDENCE BOUNDARY -->
+
+### G05 Stages 088–091 — Cross-system evidence and remaining integration boundary
+
+The verified prototype sequence comprises Stage 088 (12 cross-stage tests), Stage 089 (18 custody reconciliation tests), Stage 090 (20 acknowledgement-journal tests), and Stage 091 (16 privacy-projection tests), with 21 successful CI stages and 299 passing tests across G05 stages 070 and 072–091, as recorded in `Validation/README.md`. These counts describe fixture coverage only, not deployed system integration.
+
+Stage 088 demonstrates that independently owned duty, succession and orphan records can diverge after a custody transfer. Stage 089 checks proposed reconciliation records for identity, provenance, revision and attestation consistency, without mutating owner ledgers. Stage 090 checks independent acknowledgement, replay, stale revisions and conflicts; unanimous acknowledgements mean projection consensus, not authority or discharge. Stage 091 separates public duty status from beneficiary references but relies on a caller-supplied access-verification boolean, not actual authentication or contextual wrappers.
+
+**Integration requirements remain:** independently authenticated and scoped owner attestations; durable, concurrent, idempotent projection updates and revocation; owner-authorised custody transfer and duty closure; contextual-wrapper privacy enforcement; Historical archival provenance; Continuity and Civil Contact routing; BTA transition semantics; KCS dependency changes; independent emergency mandate expiry during Civilisation Clock pauses; and cross-controller cumulative restriction review. No passing fixture can itself establish any of these authorities or capabilities.
+
+**Provenance:** `G05 — Custody Reconciliation Protocol 002.md`, `G05 — Integration and Graduation Register 003.md`, `Validation/README.md`, and Stage 091 implementation/tests. This is an explicit source-to-section integration boundary; it does not overwrite or reinterpret the preserved Governance V2 source.
+
+<!-- END G05 STAGES 088-091 CROSS-SYSTEM EVIDENCE BOUNDARY -->
+
 # Chapter 200 — Governance as Integration
 
 ## 200.1 Governance Does Not Need to Know Everything
