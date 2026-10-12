@@ -102,3 +102,8 @@ The author's ACKS communications-recovery direction is documented in `../Integra
 ## Durable local ACKS recovery fixture 096
 
 `decision_acks_durable_096.py` introduces a **SQLite local-durability fixture** using transactional action claims, persisted action states and correlated ACK records. `test_decision_acks_durable_096.py` contains 14 executable checks for restart recovery, concurrent claims, uncertain effects, ACK replay/conflicts and non-authority. Workflow `.github/workflows/decision-acks-durable-096.yml` configured; [initial CI run 38309501211](https://github.com/ACBlainey/Concord-1.3/actions/runs/38309501211) initially queued, **not yet verified at registration**. This tests local SQLite persistence and connection-level contention, not an authenticated distributed ACKS protocol or external-effect exactly-once. The fixture's supplied `host_authorised` and ACK authentication flags are **test assertions, not independently verified owner attestations**. Further work: source-backed ACKS schema/semantics, revision validation, crash-injection, durable vote journal, host status query and recovery of remote uncertain effects.
+
+
+## Verified durable local ACKS recovery 096 CI
+
+[GitHub Actions run 38309501211](https://github.com/ACBlainey/Concord-1.3/actions/runs/38309501211) completed with conclusion **success**, verifying the configured 14-case SQLite local recovery fixture. Supersedes the earlier queued status. **Boundaries:** not a real network partition test, not independent authentication, not distributed consensus, and not a guarantee of exactly-once external physical effect. The decision majority is injected into the fixture; durable ballot acceptance and constitutional authority integration remain untested.
