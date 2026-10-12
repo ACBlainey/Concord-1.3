@@ -194,6 +194,12 @@ The following are **specific, verified conflicting/duplicated clause locations**
 
 **Residual issue under G-013, G-023–027:** lawful selector/appointing authority, its constitution and anti-capture safeguards; fair allocation into parallel positions; competing candidates without premature ranking; lawful bounded temporary substitution and office-specific term/rotation/recall; owner-system acceptance and validation. Metric design is **intentionally deferred**, not a current implementation task.
 
+## Parallel Steward cross-chapter reconciliation — 12 October 2026
+
+**Integrated at working-draft level (source-preserving):** `Sections/Section_02_Chapters_11-20_Subsection_Integration_Draft_004.md` Chapter 12; `Sections/Section_03_Chapters_21-30_Subsection_Integration_Draft_004.md` Chapters 28–30; `Sections/Section_10_Chapters_091-100_Subsection_Integration_Draft_004.md` Chapter 100. Delimited alignment notes distinguish independently frozen parallel/shadow votes from official triadic ballots, time-served ascension candidacy from lawful appointment, temporary absence/recusal from vacancy, emergency substitution from permanent succession, and restoration from erasure of duties. No original source text was deleted. **The selector, appointment rule, quorum and operational owner validation remain open (G-001, G-003, G-007, G-013, G-023, G-026–027).**
+
+**Authorial metric deferral now reflected:** No universal performance score, weighting, outcome horizon or comparative threshold should be designed until actual decision classes and suitable evidence exist. Preserve independently authored incumbent/parallel records and later observations; Historical holds provenance, Education accreditation, participation tier eligibility, Research may later develop context-specific evaluation methods. Agreement with an incumbent alone is not merit. See shared `03_Cross_Domain_Architecture/Stewardship_Selection_and_Allocation/README.md` §§10–13. This is an intentional design boundary, not a missing metric to invent now.
+
 ## Next resolution sequence
 
 First verify and assemble Chapter 12 and Chapter 132 against original V1/V2/GTP sources (G-001–010), while preserving the 12 October timing direction. Then reconcile emergency and state-machine contracts (G-011–016), validate owner/custody/privacy systems (G-017–022), and finish the 215-chapter source-completeness and constitutional graduation gates (G-023–027). Update this one register as issues are found or closed.
