@@ -82,3 +82,8 @@ GitHub Actions [run 38307482088](https://github.com/ACBlainey/Concord-1.3/action
 ## Atomic in-process concurrency fixture 094
 
 `decision_state_concurrency_094.py` and `test_decision_state_concurrency_094.py` provide 10 threaded in-memory checks of competing votes, simultaneous majority arrival, duplicate replays, single action claim, uncertain effects, wrong IDs, expiry and completion. Workflow `.github/workflows/decision-state-concurrency-094.yml` is configured for GitHub Actions. **CI result not yet independently verified.** An in-process `RLock` cannot demonstrate database transaction isolation, multi-process/distributed consensus, durable journal recovery, physical-world exactly-once execution or legitimate external authority. Keep this stage separate from 093 and the G05 historical pass counts.
+
+
+## Verified concurrency fixture 094 CI evidence
+
+[GitHub Actions run 38307655733](https://github.com/ACBlainey/Concord-1.3/actions/runs/38307655733) completed with conclusion **success** for the configured 10-test threaded fixture 094. This supersedes the earlier CI-pending statement for 094. The result demonstrates fixture-level in-process thread safety only; distributed transactions, durable restart recovery and real external action idempotency remain unverified.
