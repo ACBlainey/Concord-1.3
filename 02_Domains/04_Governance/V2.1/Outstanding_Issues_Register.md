@@ -170,6 +170,14 @@ The following are **specific, verified conflicting/duplicated clause locations**
 
 **Reuse safeguard:** These module descriptions are evidence of existing architectures, not proof of actual deployed integrations. Before implementing, verify each module's host contract, independent domain-owner consent, operational tests and authority boundaries.
 
+## Steward selection authorial direction and reusable interfaces — 12 October 2026
+
+**Authorial direction:** Stewardship selection should be analogous to judicial selection. Historical owns stewardship knowledge and provenance; Education owns training and accreditation; participation tier determines baseline eligibility, with function-specific checks. Three possible final selectors were named: democratic vote, meritocratic assignment and **ascension from an experienced parallel/shadow Steward role**. The author prefers **ascension** because time-served eligible parallel Stewards already have experience and a documented provenance of decision-making. This is a **selection design preference**, not yet a complete lawful appointment procedure.
+
+**Existing source updated:** `03_Cross_Domain_Architecture/Stewardship_Selection_and_Allocation/README.md` §10 records the authorial direction and existing portable-module interfaces. Reuse Historical provenance, Education accreditation, SMM readiness, CWA/FPA parallel-role boundaries, MKA appointment verification, STRA review triggers, BTA transition, KCS change propagation and fault-tolerant continuity. None of these modules chooses the appointer or grants office authority.
+
+**Remaining common selection gap (G-013/G-023/G-024):** allocation to shadow roles; evidential thresholds and independent assessment; preventing conformity incentives and incumbent capture; selection among multiple eligible experienced candidates; legitimate appointment authority and triadic selector constitution; domain-specific variants, challenge, rotation and succession. **Do not reopen the author's stated preference for ascension unless new evidence reveals a substantive conflict.**
+
 ## Next resolution sequence
 
 First verify and assemble Chapter 12 and Chapter 132 against original V1/V2/GTP sources (G-001–010), while preserving the 12 October timing direction. Then reconcile emergency and state-machine contracts (G-011–016), validate owner/custody/privacy systems (G-017–022), and finish the 215-chapter source-completeness and constitutional graduation gates (G-023–027). Update this one register as issues are found or closed.
