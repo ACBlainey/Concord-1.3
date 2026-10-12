@@ -6300,3 +6300,13 @@ An independently frozen shadow vote, reasoned abstention or forecast belongs to 
 Do not invent comparative promotion metrics: decision classes and valid outcome tests are not yet known. Preserve original independent reasoning and later reality observations for future evidence-appropriate review. Cross-reference Chapter 100 and emergency Chapters 28–30; see `03_Cross_Domain_Architecture/Stewardship_Selection_and_Allocation/README.md` §§10–13.
 
 <!-- END V2.1 STEWARDSHIP LIFECYCLE CROSS-CHAPTER ALIGNMENT 2026-10-12 -->
+
+<!-- BEGIN V2.1 OPTIONAL HIERARCHY CROSS-CHAPTER RECONCILIATION 2026-10-12 — Chapter 12 -->
+
+### Chapter 12 — Triadic decisions within optional cross-scale coordination
+
+**Working interface; not an appointment or voting rule.** Chapter 132 now permits a purpose-specific hierarchical **coordination** arrangement where independently lawful, while GTP remains a continuously present multiscale spatial mesh without default governance rank. Chapter 12's voting position, decision-event, quorum, eligibility, two-matching-vote majority and provenance rules apply unchanged to any participating Steward. A coordinating function does not acquire a superior vote, appoint an additional Steward, replace a lawful triad, override an independently competent decision, or convert a shadow/parallel ballot into an official ballot by virtue of a larger spatial scale.
+
+Where a proposed arrangement would give binding direction rather than merely organise information or logistics, require the actual independently lawful shared/delegated competence, affected-domain permissions, office mandates, scope and termination; use MKA to check authority at the consequential act. The choice to create such an arrangement, its scale, selector, hierarchy and review details are **not specified** here and cannot be inferred from GTP nesting. Record cross-scale decision-event identity and provenance so one Steward does not gain duplicate voting weight through overlapping roles.
+
+<!-- END V2.1 OPTIONAL HIERARCHY CROSS-CHAPTER RECONCILIATION 2026-10-12 -->
