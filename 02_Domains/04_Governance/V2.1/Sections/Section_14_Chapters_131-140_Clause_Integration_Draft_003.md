@@ -2431,3 +2431,11 @@ Record separately the voting forum and decision event, resultant/majority proven
 Do not mistake BTA's cross-system transition record for a source of jurisdiction or a universal executor; host state-machine ownership, transition predicates, legal effective time and downstream implementation contracts remain to be located and reconciled.
 
 <!-- END V2.1 AUTHORIAL VOTE-DRIVEN STATE MACHINE CORRECTION 2026-10-12 -->
+
+<!-- BEGIN V2.1 AFFECTED-SYSTEM BOUNDED ACTION AUTHORITY 2026-10-12 — Chapter 132 -->
+
+### Chapter 132 — Cross-scale decisions and distributed domain execution
+
+A GTP-local, expanded or cross-scale vote may lawfully determine a shared decision state, including under optional bounded hierarchical coordination. It **does not centralise action authority**. Each affected system and jurisdiction retains its own bounded authority rules for resulting acts; GTP geometry, constituent resultants and coordination arrangements supply no substitute. Multi-system consequences may be asynchronous and partially implemented, and must retain per-system owner, mandate, state, review and provenance. BTA relates transitions; it does not impose a single implementing authority.
+
+<!-- END V2.1 AFFECTED-SYSTEM BOUNDED ACTION AUTHORITY 2026-10-12 -->
