@@ -364,6 +364,14 @@ The following are **specific, verified conflicting/duplicated clause locations**
 
 **G-011–016 remain partially open, not architecture-absent:** lawful issuer/mandate and concrete host authority contracts; real emergency event routing and durable capture; stale-action checks at owner commit; state-machine/BTA/KCS/Clock adapter conformance; and adversarial integrated paused-Clock test with asynchronous recovery and authority expiry. Existing BTA emergency test is component evidence only. Do not mark live operational validation complete.
 
+## Emergency source correction — immediate protective acts are not universally triadic (12 October 2026)
+
+**Source-verified:** `03_Cross_Domain_Architecture/Constitutional_Emergency/Constitutional Emergency V2.md` Chapters 19–22, 73–78, 82–83 and 89–92. Significant emergency authority ordinarily uses triadic stewardship **where operational conditions permit**; Chapter 77 also permits immediate life-saving action by the actor positioned to act when time is insufficient. Narrow automated protection is permitted within existing function/scope/duration/audit constraints, while machine detection is not adjudication. Recognition, declaration, classification and activation of powers are separate. Constitutional Emergency V2 leaves precise declaration institution design open. Delegation is not succession; parallel assessment is not an official vote.
+
+**Integrated:** `Sections/Section_03_Chapters_21-30_Subsection_Integration_Draft_004.md` now distinguishes (i) contextual triadic F/A decisions (two valid matching official votes suffice) and (ii) independently lawful narrow immediate protective acts. **Neither** waits for a paused Civilisation Clock; **neither** manufactures powers from urgency, declaration, detection or geometry. Later review and authority expiry remain required. This corrects any interpretation of the earlier emergency/Clock integration as imposing universal triadic voting before immediate protection.
+
+**Remaining G-011–016:** concrete legitimate issuer/mandate, authority for specific protective actions, reliable event/expiry routing, post-event review and integrated paused-Clock test. No deployed service or constitutional graduation is claimed.
+
 ## Next resolution sequence
 
 First verify and assemble Chapter 12 and Chapter 132 against original V1/V2/GTP sources (G-001–010), while preserving the 12 October timing direction. Then reconcile emergency and state-machine contracts (G-011–016), **reuse the already specified Historical HCM-1/HI-1 and Health/CIBB/CWA custody/privacy architecture** while deferring G05 real-owner implementation tests (G-017–022) until concrete workflows, and finish the 215-chapter source-completeness and constitutional graduation gates (G-023–027). Update this one register as issues are found or closed.
