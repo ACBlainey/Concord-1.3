@@ -147,3 +147,8 @@ The previously blocked stage-097 GitHub Actions workflow was successfully create
 ## CBPR/MKA source-shaped authority gate 100
 
 `decision_authority_gates_100.py` and `test_decision_authority_gates_100.py` provide 18 fixture cases for **current, scoped, independently required authority keys** at the CBPR-style commit boundary: issuer set, subject, action, target, purpose, temporal validity, revocation, decision revision, context and host readiness. Source anchors: `04_Portable_Modules/Concord Bounded Participant Runtime — Portable Module v1.0.md` (graduated portable module; implementation validation outstanding) and `03_Cross_Domain_Architecture/Multi-Key Authority and Rapid Authority Verification — Cross-Domain Source Resolution 001.md` (source resolution; provisional). Workflow `.github/workflows/decision-authority-gates-100.yml`; [run 38311557938](https://github.com/ACBlainey/Concord-1.3/actions/runs/38311557938) initially queued. **Critical limitation:** `verified_issuers`, context and host readiness remain caller assertions, not independently validated cryptographic/owner-service attestations. The fixture is a source-shaped test adapter, **not** a new authority issuer or CBPR production implementation.
+
+
+## Verified stage 100 CBPR/MKA authority gate CI
+
+[GitHub Actions run 38311557938](https://github.com/ACBlainey/Concord-1.3/actions/runs/38311557938) completed **success** for the 18-case source-shaped authority gate fixture. Aggregate stages 093–100: 25+10+10+14+16+16+16+18 = **125 passing fixture-level checks**. The run proves expected behavior for supplied fixture attestations, not issuer authentication, owner-controlled revocation lookup or deployment-grade CBPR/MKA conformance. No new authority source is created by this fixture.
