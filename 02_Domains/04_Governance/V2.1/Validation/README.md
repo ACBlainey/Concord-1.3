@@ -117,3 +117,8 @@ The author's ACKS communications-recovery direction is documented in `../Integra
 ## Stage 097 CI workflow correction
 
 The previously blocked stage-097 GitHub Actions workflow was successfully created at `.github/workflows/decision-ballot-acks-097.yml`, commit `2da0ae2f2209bda016046327df4c12370d0970c1`. [Run 38310654867](https://github.com/ACBlainey/Concord-1.3/actions/runs/38310654867) started; **outcome pending at registration**. Supersedes earlier statement that no CI was configured for 097. Do not count stage 097 among passing checks until successful run confirmed.
+
+
+## Verified stage 097 durable ballot-to-ACKS CI
+
+[GitHub Actions run 38310654867](https://github.com/ACBlainey/Concord-1.3/actions/runs/38310654867) completed with conclusion **success**. The configured 16-case transactional SQLite ballot/action/ACKS fixture 097 is verified at the fixture level, superseding its earlier pending status. Aggregate fixture checks 093–097: 25 + 10 + 10 + 14 + 16 = **75**. This is not production constitutional graduation, network-partition validation, independently attested mandate verification or exactly-once physical execution.
