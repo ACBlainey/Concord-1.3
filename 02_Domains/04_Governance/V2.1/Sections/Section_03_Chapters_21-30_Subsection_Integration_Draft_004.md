@@ -1246,6 +1246,33 @@ Restoration should verify:
 - unresolved conflicts;
 - and the current state of the office.
 
+<!-- BEGIN INTEGRATED G05 GOVERNANCE INTEGRATION 001 — SOURCE TEXT VERBATIM -->
+
+## Constitutional and architectural invariants
+1. **CAP ≠ PERM ≠ AUTH.** Technical ability, permission and legitimate authority are distinct. No fixture issues authority.
+2. **GTP is a simultaneous-resolution spatial mesh.** Parent/child denote geometry only. Overlap, proximity, wider scale or coordination do not imply governance rank. Triadic stewardship and independent domain mandates remain separate.
+3. **BTA owns transition semantics.** Crossings may be partial and asynchronous; recovery or rollback does not erase external effects, records or duties.
+4. **KCS propagates dependency changes but does not confer authority.** SMM describes state, not permissions.
+5. **Civilisation Clock may pause indefinitely.** Emergency operational windows expire on their own clock. Any deferred execution needs live owner, scope and dependency revalidation.
+6. **Recovery ≠ restoration ≠ closure.** A resumed function may still owe remediation, custody, privacy, archival, evidentiary and beneficiary duties.
+7. **Referral ≠ succession ≠ authority.** Civil Contact can route a case; Historical can preserve provenance; Continuity can coordinate its interface; only duly authorised owners may make consequential decisions.
+8. **Emergency intervention is temporary, scoped, reviewable and independently justified.** Renewal is a fresh decision. Cumulative effects must be examined across successive mandates and across different controllers.
+9. **Review flags are not findings of unlawfulness.** Numerical exposure thresholds are provisional test configuration, not Concord constitutional law.
+
+## Governance lifecycle (normative candidate, not executable workflow)
+1. **Identify:** Civil Contact or domain owner receives the concern; preserve minimum necessary evidence and protected beneficiary references.
+2. **Resolve competence:** Identify functional jurisdiction, relevant triad(s), actual mandate and independent owner authority. GTP spatial resolution alone cannot select a superior decision-maker.
+3. **Revalidate:** Use KCS change signals, owner attestations, bounded authority and current operational context. A paused Civilisation Clock is not permission to bypass expiry.
+4. **Coordinate:** Where contexts overlap, surface collisions and alternatives without imposing a hierarchy or silently reallocating resources.
+5. **Execute only under owner-system authority:** The prototype can report eligibility for review, never permission or execution authorisation.
+6. **Record outcome:** Distinguish resumption, compensation, reconstruction and verified restoration. Preserve residual externalities, protected records and unresolved duties.
+7. **Maintain custody:** Transfer through authorised succession; otherwise retain a discoverable orphan record and route to Civil Contact/Continuity/Historical as appropriate.
+8. **Protect provisionally where justified:** Emergency action requires a separate constitutional mandate and independent expiry/review; never substitutes for permanent succession.
+9. **Audit aggregate control:** Review successive and distributed restrictions across controllers and resolutions, including continuity, concentration and cumulative consequences.
+10. **Close only by authorised evidence:** Preserve original duty provenance and closure audit. Neither retirement, restoration nor elapsed time implies discharge.
+
+<!-- END INTEGRATED G05 GOVERNANCE INTEGRATION 001 -->
+
 ## 28.5 Restoration Addition — No Emergency Inheritance
 
 Governance V2 adopts:
