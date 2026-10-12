@@ -110,6 +110,21 @@ A stronger read-only audit compared **every nonblank baseline line** (exact stri
 
 **Interpretation and limits:** Every nonblank baseline line appears somewhere in its active draft. This is strong evidence against *textual omission* in these nine pairs, but it is a **presence** test, not a multiplicity, ordering, semantic-equivalence or source-authority test. A line that appears twice in a source and once in a draft still passes. It does not detect misplaced text, competing contradictory rules, duplicates or historical material absent from the chosen baseline. **G-023 and G-024 remain open**, with the baseline-preservation subcheck provisionally satisfied for the nine active pairs only. No source files or sectioned manuscripts were changed during this audit.
 
+## Substantive conflict localisation — 12 October 2026
+
+The following are **specific, verified conflicting/duplicated clause locations**, not merely a general warning:
+
+| Clause | Earlier preserved/working wording | Later integrated wording | Required editorial disposition |
+| --- | --- | --- | --- |
+| 132.1 | GTP is a neutral **hierarchical territorial partitioning** module, not foundational | GTP is the **adopted, continuously existing multiresolution conceptual mesh**; geometry is not governing hierarchy | Retain earlier text as historical source, not parallel operative law; reconcile final approved clause under G-009. |
+| 132.2 | Governance should work if GTP is **modified, rejected or replaced** | GTP is foundational to **current spatial implementation**, but rights and constitutional legitimacy remain independent | These can be reconciled by separating current implementation from permanent constitutional authority; explicitly approve final language. |
+| 132.4 | GTP is a **potential** interface, “if used” | All levels exist conceptually; operational coverage may be simultaneous and change with workload/hysteresis | Correct conditional framing for current implementation; preserve earlier questions on representation, infrastructure, population and boundaries. |
+| 132.5 | **Hierarchical** nested jurisdiction; larger spatial levels may handle broader matters | Multiscale **nonhierarchical mesh**; binding cross-cell decisions require lawful shared competence/delegation | Separate geometry from jurisdiction, preserve subsidiarity, and remove implied superior command. |
+| 132.12 | GTP **may** provide neutral spatial framework, not constitutional foundation | GTP **is** adopted mesh, not a generator of constitutional authority | Approve an operative principle with current-adoption and constitutional-independence clauses. |
+| 12.4, 12.10, 12.11 | Source heading and text appear before an inserted verbatim Candidate 013 heading and text of the **same subsection number** | Source and candidate wording both retained for reversibility | Preserve provenance but resolve double headings and overlapping operative text in final assembly; do not silently delete either source. |
+
+**Editorial status:** The exact source locations have been identified in `Section_14_Chapters_131-140_Clause_Integration_Draft_003.md` and `Section_02_Chapters_11-20_Subsection_Integration_Draft_004.md`. No original source or integrated draft was changed in this localisation pass. A source-preserving *proposed operative clause* may be drafted separately, but declaring supersession requires explicit authorial/constitutional approval under G-008/G-009/G-027.
+
 ## Next resolution sequence
 
 First verify and assemble Chapter 12 and Chapter 132 against original V1/V2/GTP sources (G-001–010), while preserving the 12 October timing direction. Then reconcile emergency and state-machine contracts (G-011–016), validate owner/custody/privacy systems (G-017–022), and finish the 215-chapter source-completeness and constitutional graduation gates (G-023–027). Update this one register as issues are found or closed.
