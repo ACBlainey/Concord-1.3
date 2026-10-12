@@ -2385,3 +2385,17 @@ Market evidence should therefore inform but not define the constitutional object
 ## 140.19 Markets Principle
 
 > **Markets can provide powerful decentralised coordination and discovery, but market price, contribution, wealth or ability to pay should not determine constitutional worth or rights. Governance should compare real institutional alternatives, preserving competition and autonomy where markets function well while addressing monopoly, externality, dependency and other failures without assuming public intervention is itself failure-free.**
+
+<!-- BEGIN V2.1 GTP OPTIONAL BOUNDED HIERARCHICAL COORDINATION 2026-10-12 — AUTHORIAL CLARIFICATION, WORKING INTEGRATION -->
+
+### Chapter 132 — Optional bounded hierarchical coordination across GTP scales
+
+**Authorial clarification (12 October 2026):** The GTP spatial abstraction is continuously available at every resolution. Geometric parent/child relationships do **not** ordinarily constitute a hierarchy of governance, confer jurisdiction or create superior offices. Concurrent and overlapping nonhierarchical mesh coordination remains the normal model.
+
+**However, hierarchy is not constitutionally prohibited as a coordination arrangement.** Where a legitimate task or circumstance warrants it, participants or competent governance bodies may establish a **purpose-specific, bounded hierarchical coordination relationship** between functions operating at different spatial scales. This is a permitted possibility, **not** a standing territorial chain of command, default superior/subordinate relationship, prescribed structure or self-executing delegation.
+
+Any such arrangement requires an independently valid lawful basis and relevant consent/authority where applicable, identifiable purpose and scope, accountable participants, reviewability, and a lawful means of modification or termination. The geometric containment of one GTP triangle within another cannot by itself authorise direction, override an independently competent Steward, or expand a mandate. Hierarchical **coordination** and hierarchical **decision authority** must be distinguished; any actual binding authority needs its own separately legitimate source and limits.
+
+**Intentionally open:** No universal circumstances, trigger, chain of command, level, voting procedure or hierarchy-design algorithm are prescribed here. Those depend on the actual task and independently applicable constitutional and domain rules. This clarification qualifies categorical readings of earlier nonhierarchy wording without reinstating the obsolete assumption that GTP is inherently a territorial command hierarchy. All prior source text is retained for clause-level reconciliation.
+
+<!-- END V2.1 GTP OPTIONAL BOUNDED HIERARCHICAL COORDINATION 2026-10-12 -->
