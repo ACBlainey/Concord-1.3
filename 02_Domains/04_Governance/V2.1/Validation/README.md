@@ -152,3 +152,8 @@ The previously blocked stage-097 GitHub Actions workflow was successfully create
 ## Verified stage 100 CBPR/MKA authority gate CI
 
 [GitHub Actions run 38311557938](https://github.com/ACBlainey/Concord-1.3/actions/runs/38311557938) completed **success** for the 18-case source-shaped authority gate fixture. Aggregate stages 093–100: 25+10+10+14+16+16+16+18 = **125 passing fixture-level checks**. The run proves expected behavior for supplied fixture attestations, not issuer authentication, owner-controlled revocation lookup or deployment-grade CBPR/MKA conformance. No new authority source is created by this fixture.
+
+
+## Owner-controlled authority registry and revocation fixture 101
+
+`authority_owner_registry_101.py` and `test_authority_owner_registry_101.py` add 20 fixture checks for independently persisted owner-issued authority records, grant scope/time/revision, missing owner, revocation and restart. Unlike 100, the action gate queries separate owner-controlled SQLite records rather than trusting a caller-supplied set of `verified_issuers`. Workflow `.github/workflows/authority-owner-registry-101.yml`; [run 38311945262](https://github.com/ACBlainey/Concord-1.3/actions/runs/38311945262) initially queued. **Limitations:** owner object mappings and owner labels remain caller-supplied, the owner DB is locally readable, no cryptographic service authentication, signatures, credential chain, delegated issuer discovery, network status freshness or real CBPR implementation. Caller-provided `context_allowed`, `host_ready` and `current_revision` are still assertions. This is an interface test, not a new Concord authority source.
