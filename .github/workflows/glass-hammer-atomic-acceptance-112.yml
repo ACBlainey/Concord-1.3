@@ -1,0 +1,21 @@
+name: Glass hammer atomic acceptance 112
+on:
+  push:
+    paths:
+      - '02_Domains/04_Governance/V2.1/Validation/glass_hammer_state_108.py'
+      - '02_Domains/04_Governance/V2.1/Validation/glass_hammer_early_acceptance_110.py'
+      - '02_Domains/04_Governance/V2.1/Validation/glass_hammer_context_evidence_111.py'
+      - '02_Domains/04_Governance/V2.1/Validation/glass_hammer_atomic_acceptance_112.py'
+      - '02_Domains/04_Governance/V2.1/Validation/test_glass_hammer_atomic_acceptance_112.py'
+      - '.github/workflows/glass-hammer-atomic-acceptance-112.yml'
+  workflow_dispatch:
+jobs:
+  fixture:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Run atomic acceptance fixture
+        run: python -m unittest discover -s 02_Domains/04_Governance/V2.1/Validation -p 'test_glass_hammer_atomic_acceptance_112.py' -v
