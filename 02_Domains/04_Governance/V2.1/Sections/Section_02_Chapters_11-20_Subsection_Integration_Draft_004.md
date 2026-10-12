@@ -807,6 +807,24 @@ The expanded forum may decide only within the specifically authorised common fie
 
 <!-- END V2.1 G03 AUTHORIAL DIRECTION 048 — QUORUM PRIORITY CORRECTION -->
 
+<!-- BEGIN V2.1 AUTHORIAL RESOLUTION — TWO-VOTE DETERMINACY AND IMPLEMENTATION TIMING -->
+
+### Chapter 12 — Authorial resolution: decisive majority, provenance and effective implementation
+
+**Authorial direction (12 October 2026).** Where two valid, matching votes of the three authorised Steward positions establish For or Against, the third position's eventual ballot cannot change the substantive outcome. The decision therefore **passes its substantive voting threshold immediately** upon the second valid matching vote, subject to the separate lawful constitution, competence, identity, quorum/participation, decision-boundary and implementation-authority requirements. The third official vote is still required for provenance, dissent, reasoning and the completed authoritative voting record; it is not a third affirmative vote required to determine an already fixed majority.
+
+**Ordinary decisions:** An otherwise lawful determined decision is approved when the two-vote bar is passed. Most ordinary decisions are implemented at the **next applicable Civilisation Clock transition**, rather than immediately. The intervening period ordinarily allows the third Steward to submit their official vote and complete the record. A clock transition is an implementation timing boundary, not a grant of authority; because the clock has variable timing and may pause, no fixed duration or guaranteed arrival of the third ballot is inferred. An outstanding third ballot must be explicitly recorded, not manufactured or treated as Against or abstention. Whether a particular ordinary action must be delayed further for legally mandated provenance completion is a separate source-specific exception, not a universal requirement for three votes to determine the result.
+
+**Emergency and time-critical decisions:** Where the applicable independent emergency or time-critical mandate authorises immediate execution, a lawfully valid two-matching-vote majority permits **immediate implementation**. Neither the third official ballot nor the next Civilisation Clock transition is a precondition for that timing. Emergency expiry, escalation, renewal, and event-state processing use an independent timebase/state machine and must operate even while the Civilisation Clock is paused. Urgency does not create competence, a valid forum, authority to implement or a quorum exception.
+
+**Non-time-critical matters:** Where no urgency requires immediate execution, the normal interval before the next clock transition can be used to obtain the third ballot. Waiting for provenance is desirable when practicable; the third ballot does not change an already determined F/A outcome. If the votes are split or otherwise not determinative, the decision has not passed the voting threshold and must await lawful resolution or substitution.
+
+**Provisional and substitute ballots:** A returning original Steward's lawful official ballot supersedes a provisional ballot **for that one position**, with the earlier provisional event preserved in the immutable audit trail. No fourth vote, duplicate event participation or retroactive erasure of lawful consequences occurs. Missing third-vote deadlines, exceptional finalisation and any remedy for later discovered invalidity still require their own rules.
+
+**Reconciliation effect:** This authorial direction resolves the preferred timing principle left open in Integration 048 and displaces the assumption that all three ballots must be received before an otherwise lawful decisive majority may be implemented. It does **not** independently settle the distinct constitutional quorum/valid-constitution question, which must not be conflated with the arithmetic threshold.
+
+<!-- END V2.1 AUTHORIAL RESOLUTION — TWO-VOTE DETERMINACY AND IMPLEMENTATION TIMING -->
+
 ## 12.10 Horizontal Expansion Before Vertical Escalation
 
 <!-- BEGIN V2.1 INTEGRATED 12.10 — RECONCILED CANDIDATE 013 VERBATIM; PRIOR TEXT RETAINED -->
