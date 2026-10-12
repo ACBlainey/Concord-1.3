@@ -1755,3 +1755,15 @@ Preserve original Chapter 28–30 language until detailed clause reconciliation.
 **Restoration:** returning incumbents require current identity, capacity, conflicts, office state and mandate revalidation; restoration does not erase the successor's acts, beneficiary duties, records or unresolved challenges. A paused Civilisation Clock cannot pause emergency expiry, review or lawful restoration duties. The actual appointment sequence, selector constitution and degraded quorum remain unresolved constitutional gates; this note does not resolve them.
 
 <!-- END V2.1 STEWARDSHIP LIFECYCLE CROSS-CHAPTER ALIGNMENT 2026-10-12 -->
+
+<!-- BEGIN V2.1 TRIAD VOTE AUTHORITY SEPARATE FROM IMPLEMENTATION 2026-10-12 — Chapters 28–30 -->
+
+### Chapters 28–30 — Emergency vote and separately bounded execution
+
+**Authorial rule (12 October 2026):** Emergency triads exercise lawful **voting authority**, not automatic operational authority over the consequence of their vote. A determined official majority is a decision record for the separately competent implementing owner; the vote itself neither creates an emergency mandate nor transfers executive power to the triad or a substitute voter.
+
+Degraded voting constitution, lawful replacement of a voting position, emergency declaration, exceptional power activation, and implementation by the competent operational actor are separate state/authority questions. A substitute Steward may receive bounded **voting-position authority** without inheriting any power to execute the result. Conversely, an operational responder with a lawful emergency mandate cannot fabricate a triadic vote or cure a voting quorum defect by acting.
+
+Independent emergency timing permits authorised implementers to act without waiting for a Civilisation Clock transition where applicable law allows; it does not bypass the voting or implementation authority checks. Record vote outcome, implementation owner, authority basis, effective action, expiry, review and restoration as separately owned events. Existing Chapter 28–30 source wording about a successor receiving office responsibilities must be interpreted within the **actual office mandate**, not as blanket authority to implement a triadic result.
+
+<!-- END V2.1 TRIAD VOTE AUTHORITY SEPARATE FROM IMPLEMENTATION 2026-10-12 -->
