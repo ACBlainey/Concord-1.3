@@ -350,6 +350,14 @@ The following are **specific, verified conflicting/duplicated clause locations**
 
 **Issue implications:** G-004/G-005/G-013 and G-023–027 now have an author-directed appointment design path; do not label the entire appointment mechanism nonexistent. The founding legitimacy rule, appointing body constitution, competing-candidate selection and anti-capture review remain open. Keep the existing shared Stewardship Selection and Allocation README §§10–13 as the common architecture; this note is an integration direction, not a duplicate lifecycle.
 
+## Authorial scope control — Steward appointment remains provisional (12 October 2026)
+
+**Authorial instruction:** The Steward appointment/bootstrap proposal is to remain a **provisional outline, not hard constitutional architecture**. The preceding bounded HR-style appointment and founding-bootstrap note is a candidate direction only. Do not treat its illustrative transaction sequence, board option, founding sunset suggestion, selection procedure or anti-capture examples as adopted operative rules, required institutions or implementation specifications.
+
+**Outline only:** (1) ordinary vacancies may be filled through an HR-like assessment of qualified candidates, favouring the established experienced parallel-Steward ascension pathway; (2) a specially bounded appointing Steward or board is a possible authorising function, never an inherent command hierarchy over the appointed office; (3) first-Steward bootstrap may require a distinct temporary authorisation route; (4) qualification, evidence, accreditation, participation standing, provenance and contextual authority should reuse existing Concord mechanisms; (5) capture resistance, transparency, review and contestation are design objectives.
+
+**Explicitly deferred:** who authorises the first Stewards; who constitutes any appointing Steward/board; candidate choice among multiple qualified applicants; thresholds and merit evaluation; independence and anti-capture controls; specific expiry/renewal, appeal and succession rules; and final constitutional approval. No new office, board, power, automatic promotion or founding mandate is established by this outline. Develop further only when justified by source recovery, real cases and authorial direction.
+
 ## Next resolution sequence
 
 First verify and assemble Chapter 12 and Chapter 132 against original V1/V2/GTP sources (G-001–010), while preserving the 12 October timing direction. Then reconcile emergency and state-machine contracts (G-011–016), **reuse the already specified Historical HCM-1/HI-1 and Health/CIBB/CWA custody/privacy architecture** while deferring G05 real-owner implementation tests (G-017–022) until concrete workflows, and finish the 215-chapter source-completeness and constitutional graduation gates (G-023–027). Update this one register as issues are found or closed.
