@@ -754,6 +754,25 @@ Where the existing votes do not determine a majority, continue deliberation, obt
 The expanded forum may decide only within the specifically authorised common field. Independent local decisions outside that field remain intact. A failure to obtain the desired outcome is not grounds for recursive expansion, forum shopping or silent transfer of power. Temporary expanded structures dissolve when the defined task is complete or their authorisation expires; continuation requires a separate lawful decision. Emergency preservation, succession and substitute appointments remain governed by their independent constitutional provisions.
 
 <!-- END V2.1 RECOVERED 12.9 — CANDIDATE 013 VERBATIM -->
+<!-- BEGIN V2.1 CHAPTER 12 EXECUTION-BOUNDARY RECONCILIATION REGISTER -->
+
+### Chapter 12 — Extended-triad voting and operational authority: unresolved execution gates
+
+**Status:** Review register attached to the preserved and recovered clauses; no executable rule or constitutional approval is created by this register. The full Candidate 013 text remains retained in §12.9.
+
+1. **Decision-event uniqueness.** The same Steward may occupy no more than one voting position in the entire bounded decision event, including mixed constituent triads, parallel sessions and recursive substitutions. Event ancestry and lawful boundary must be independently evidenced; a new label or retry cannot create a second mandate. If proof is missing, preserve `DECISION_BOUNDARY_UNKNOWN` and withhold consequential commitment.
+2. **Triadic weight conservation.** An extended triad resolving one original position contributes only that position's one-third weight; three constituent resultants, not nine ballots, form the final virtual triad. R/A/B/C arrangements must be checked against the specific lawful competence field. Spatial adjacency does not authorise participation.
+3. **Node-ring substitution.** The first ring comprises the other incident-triangle Steward positions at the relevant conceptual GTP node (five in the ordinary six-triangle case); the second adds the other two positions from each of those neighbouring triangles (ten nominal additional positions). Actual geometry, eligibility, conflict independence and source of appointment must be verified. Beyond ring two, topology and randomness remain provisional. Recusal must be cause-specific and cannot be used for vote-shopping.
+4. **Result versus validity.** Two matching valid votes can determine an F/A mathematical majority while a third position remains outstanding; that does not by itself establish quorum, legal validity, event-boundary proof, record completeness or implementation authority. U, abstention, recusal, absence and authentication failure are different states. Preserve late official votes and superseded provisional votes as distinct provenance events.
+5. **Civilisation Clock and emergency.** Ordinary clock-governed effective timing may await the next applicable transition; emergency operational authority must have an independent timebase and must not await a potentially paused Civilisation Clock. An urgent majority cannot create an emergency mandate or bypass independent expiry, revalidation or constitutional review.
+6. **Implementation and closure.** Voting authority expires at the event boundary; a valid outcome does not automatically authorise its execution. Execution requires separately lawful mandate, owner competence, resource permission and audit. Temporary expanded forums dissolve or renew only under independent authority; neither a successful vote nor an emergency permits indefinite continuation.
+
+**Cross-source verification required before operational graduation:** preserved V1 triadic voting and Steward appointment rules; Chapter 132 GTP conceptual geometry; V2.1 emergency Chapters 24–30; G05 BTA/KCS/Clock boundaries; Stewardship Selection and Allocation; Contextual Wrapper Architecture for protected identity matching. Candidate 013 explicitly identifies the six-Steward vertex/office mapping, eligibility/quorum and expanded decision interface as requiring formal resolution; no source-complete executable implementation is claimed here.
+
+**Assembly instruction:** Preserve the original V2 §12.9 and full recovered Candidate 013 §12.9 until author-approved reconciliation. Do not count the repeated subsection heading as a second independently authorised procedure.
+
+<!-- END V2.1 CHAPTER 12 EXECUTION-BOUNDARY RECONCILIATION REGISTER -->
+
 ## 12.10 Horizontal Expansion Before Vertical Escalation
 
 <!-- BEGIN V2.1 INTEGRATED 12.10 — RECONCILED CANDIDATE 013 VERBATIM; PRIOR TEXT RETAINED -->
