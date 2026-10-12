@@ -34,8 +34,8 @@ class AtomicContextualDecision(ContextualDecision):
             db.execute("BEGIN IMMEDIATE")
             try:
                 context=db.execute("SELECT revision,context_valid,rights_ok,necessity_ok,proportionality_ok FROM owner_context112 WHERE decision_id=?",(decision_id,)).fetchone()
-                if not context:out="DENY_NO_OWNER_STATE"
-                elif snapshot.decision_id!=decision_id or evidence.decision_id!=decision_id:out="DENY_DECISION_BINDING"
+                if snapshot.decision_id!=decision_id or evidence.decision_id!=decision_id:out="DENY_DECISION_BINDING"
+                elif not context:out="DENY_NO_OWNER_STATE"
                 elif context[0]!=snapshot.state_revision:out="DENY_STALE_OWNER_STATE"
                 elif not all(context[1:]):out="DENY_OWNER_SAFEGUARDS"
                 else:
