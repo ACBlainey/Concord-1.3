@@ -791,6 +791,22 @@ The expanded forum may decide only within the specifically authorised common fie
 
 <!-- END V2.1 G03 QUORUM AND V1.1 TRIADIC SOURCE RESOLUTION -->
 
+<!-- BEGIN V2.1 G03 AUTHORIAL DIRECTION 048 — QUORUM PRIORITY CORRECTION -->
+
+### Chapter 12 — Authorial direction 048 takes priority over provisional full-constitution assumption 047
+
+**Source-priority correction:** `Integration/G03_Outcome_Determinacy_Deferred_and_Provisional_Vote_Authorial_Direction_048.md` expressly records a **new authorial direction** and supersedes the *preferred design assumption* of Q-1 full-three-occupied quorum in `Integration/G03_Quorum_and_Triadic_Decision_Validity_Resolution_Candidate_047.md`. The preceding G03 source-resolution register preserves the historical 047 proposal as evidence, **not as the current preferred design**. Neither 047 nor 048 alone amends Governance V2 Canonical.
+
+**Authorial observation:** Two independently valid matching original-position For votes or two Against votes establish an arithmetic majority that a later third F/A/U ballot cannot change. The absent position's eventual official vote still matters for dissent, provenance, reasoning, accountability and review. Outcome determinacy and record completeness are separate dimensions; mathematical determinacy alone cannot establish forum validity, competence, decision-event boundary, implementation authority or operative timing.
+
+**Four distinct, separately authorised continuity paths** identified in direction 048 are (1) deferred original vote, (2) expanded constituent resultant occupying exactly one original position, (3) independently authorised parallel temporary Steward with bounded handover, and (4) provisional position vote later superseded by the returning Steward's lawful official vote. A provisional ballot remains in immutable history after supersession, and never becomes a fourth vote. Recusal for material conflict is not ordinary absence; insufficient-information abstention is not vacancy.
+
+**Unresolved operational questions:** Under what independent procedure may a determined two-vote majority become operative before the third official ballot? What are the return deadline, provisional supersession window, handover and finalisation rules? What lawful reconsideration or remedy applies when external consequences already occurred? Which substitute paths are valid for each cause of unavailability? These require explicit authorial and constitutional source resolution rather than silently reverting to Q-1 or automatically authorising a two-position quorum.
+
+**Safety hold:** Where independent authority, event boundary, participation procedure or commit-time validity is unknown, withhold consequential commitment. A paused Civilisation Clock cannot be used to defer independent emergency expiry, nor can urgency manufacture missing authority.
+
+<!-- END V2.1 G03 AUTHORIAL DIRECTION 048 — QUORUM PRIORITY CORRECTION -->
+
 ## 12.10 Horizontal Expansion Before Vertical Escalation
 
 <!-- BEGIN V2.1 INTEGRATED 12.10 — RECONCILED CANDIDATE 013 VERBATIM; PRIOR TEXT RETAINED -->
