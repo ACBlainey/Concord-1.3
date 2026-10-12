@@ -162,3 +162,8 @@ The previously blocked stage-097 GitHub Actions workflow was successfully create
 ## Verified stage 101 owner-held authority CI
 
 [GitHub Actions run 38311945262](https://github.com/ACBlainey/Concord-1.3/actions/runs/38311945262) completed **success** for 20 fixture cases. Aggregate stages 093–101: 25+10+10+14+16+16+16+18+20 = **145 passing fixture-level checks**. These tests establish local owner-ledger lookup and revocation semantics, not cryptographic owner authenticity or live distributed authority freshness. Further work should separate trusted owner discovery from caller-supplied owner labels, enforce grant and action identity across CBPR commit, and test revocation/commit races.
+
+
+## Verified stage 102 authority revocation race
+
+`authority_commit_race_102.py` and `test_authority_commit_race_102.py`: 12 deterministic interleaving checks; [GitHub Actions run 38312946521](https://github.com/ACBlainey/Concord-1.3/actions/runs/38312946521) **success**. Source integration: `../Integration/Authority_Commit_Revocation_Race_Source_Resolution_102.md`. The suite demonstrates both rejection of revocation before final check **and a remaining unfenced race after the check**; it does **not** implement a production commit fence, cryptographic attestations or true concurrent external effects. Aggregate stages 093–102: **157 passing fixture-level checks** (145 previously + 12).
