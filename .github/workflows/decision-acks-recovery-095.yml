@@ -1,0 +1,19 @@
+name: Decision ACKS recovery 095
+on:
+  push:
+    paths:
+      - '02_Domains/04_Governance/V2.1/Validation/test_decision_acks_recovery_095.py'
+      - '02_Domains/04_Governance/V2.1/Validation/decision_state_concurrency_094.py'
+      - '02_Domains/04_Governance/V2.1/Validation/g05_reconciliation_acknowledgements_090.py'
+      - '.github/workflows/decision-acks-recovery-095.yml'
+  workflow_dispatch:
+jobs:
+  acks-integration:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Test decision/ACKS reconciliation interface
+        run: python -m unittest discover -s '02_Domains/04_Governance/V2.1/Validation' -p 'test_decision_acks_recovery_095.py' -v
