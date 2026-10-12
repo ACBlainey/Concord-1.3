@@ -91,6 +91,25 @@ A follow-on read-only comparison checked **all nine available working-source/act
 
 **Meaning:** This supports retention of baseline headings and sampled longer source lines in the active drafts, with no detected losses by these checks. It is **not** an exact whole-document diff, a check of shorter lines, or a proof that the content is correctly ordered or legally reconciled. G-023 and G-024 remain open. Other preserved-only sections still need source and architecture recovery.
 
+## Complete nonblank-line presence audit — 12 October 2026
+
+A stronger read-only audit compared **every nonblank baseline line** (exact string presence, including short lines) against each corresponding active integration draft across all nine available source/draft pairs. This extends the prior heading/long-line sampling.
+
+| Section | Baseline nonblank lines checked | Lines not found in active draft |
+| --- | ---: | ---: |
+| 01 | 4,445 | 0 |
+| 02 | 3,947 | 0 |
+| 03 | 1,032 | 0 |
+| 06 | 2,226 | 0 |
+| 10 | 782 | 0 |
+| 14 | 1,336 | 0 |
+| 15 | 1,122 | 0 |
+| 16 | 1,073 | 0 |
+| 20 | 1,156 | 0 |
+| **Total** | **16,119** | **0** |
+
+**Interpretation and limits:** Every nonblank baseline line appears somewhere in its active draft. This is strong evidence against *textual omission* in these nine pairs, but it is a **presence** test, not a multiplicity, ordering, semantic-equivalence or source-authority test. A line that appears twice in a source and once in a draft still passes. It does not detect misplaced text, competing contradictory rules, duplicates or historical material absent from the chosen baseline. **G-023 and G-024 remain open**, with the baseline-preservation subcheck provisionally satisfied for the nine active pairs only. No source files or sectioned manuscripts were changed during this audit.
+
 ## Next resolution sequence
 
 First verify and assemble Chapter 12 and Chapter 132 against original V1/V2/GTP sources (G-001–010), while preserving the 12 October timing direction. Then reconcile emergency and state-machine contracts (G-011–016), validate owner/custody/privacy systems (G-017–022), and finish the 215-chapter source-completeness and constitutional graduation gates (G-023–027). Update this one register as issues are found or closed.
