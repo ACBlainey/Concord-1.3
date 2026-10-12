@@ -178,6 +178,14 @@ The following are **specific, verified conflicting/duplicated clause locations**
 
 **Remaining common selection gap (G-013/G-023/G-024):** allocation to shadow roles; evidential thresholds and independent assessment; preventing conformity incentives and incumbent capture; selection among multiple eligible experienced candidates; legitimate appointment authority and triadic selector constitution; domain-specific variants, challenge, rotation and succession. **Do not reopen the author's stated preference for ascension unless new evidence reveals a substantive conflict.**
 
+## Reality-anchored parallel Steward merit assessment — 12 October 2026
+
+**New authorial direction:** Incumbent and parallel Steward decision histories must be evaluated against **what actually happened**, using recorded contemporaneous votes, reasoning and provenance. **Agreement with an incumbent carries no independent reward**; it is favourable only if the common decision is supported by the subsequent reality-based assessment. Independently correct dissent can demonstrate superior Steward competence. This narrows the ascension merit criterion, but does not itself appoint a candidate.
+
+**Implementation source:** `03_Cross_Domain_Architecture/Stewardship_Selection_and_Allocation/README.md` §11. Preserve frozen ex-ante predictions and evidence; compare actual outcomes and uncertainties with both positions; distinguish forecast accuracy, lawful/process quality, observed implementation and non-observable counterfactuals. Historical owns provenance, Education training/accreditation, independent evaluation must avoid incumbent capture. Reuse Reality Trees, STRA, KCS, SMM and CWA/CIBB with host-specific validation.
+
+**Remaining unresolved under G-013/G-023/G-024:** comparator design, outcome horizon and attribution, metrics for uncertainty/rights and rare events, independent assessment authority, safeguards against cherry-picked cases, appeals, readiness thresholds and selection among multiple qualified candidates. **Do not reopen the non-conformity principle.**
+
 ## Next resolution sequence
 
 First verify and assemble Chapter 12 and Chapter 132 against original V1/V2/GTP sources (G-001–010), while preserving the 12 October timing direction. Then reconcile emergency and state-machine contracts (G-011–016), validate owner/custody/privacy systems (G-017–022), and finish the 215-chapter source-completeness and constitutional graduation gates (G-023–027). Update this one register as issues are found or closed.
