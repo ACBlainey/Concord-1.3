@@ -157,3 +157,8 @@ The previously blocked stage-097 GitHub Actions workflow was successfully create
 ## Owner-controlled authority registry and revocation fixture 101
 
 `authority_owner_registry_101.py` and `test_authority_owner_registry_101.py` add 20 fixture checks for independently persisted owner-issued authority records, grant scope/time/revision, missing owner, revocation and restart. Unlike 100, the action gate queries separate owner-controlled SQLite records rather than trusting a caller-supplied set of `verified_issuers`. Workflow `.github/workflows/authority-owner-registry-101.yml`; [run 38311945262](https://github.com/ACBlainey/Concord-1.3/actions/runs/38311945262) initially queued. **Limitations:** owner object mappings and owner labels remain caller-supplied, the owner DB is locally readable, no cryptographic service authentication, signatures, credential chain, delegated issuer discovery, network status freshness or real CBPR implementation. Caller-provided `context_allowed`, `host_ready` and `current_revision` are still assertions. This is an interface test, not a new Concord authority source.
+
+
+## Verified stage 101 owner-held authority CI
+
+[GitHub Actions run 38311945262](https://github.com/ACBlainey/Concord-1.3/actions/runs/38311945262) completed **success** for 20 fixture cases. Aggregate stages 093–101: 25+10+10+14+16+16+16+18+20 = **145 passing fixture-level checks**. These tests establish local owner-ledger lookup and revocation semantics, not cryptographic owner authenticity or live distributed authority freshness. Further work should separate trusted owner discovery from caller-supplied owner labels, enforce grant and action identity across CBPR commit, and test revocation/commit races.
