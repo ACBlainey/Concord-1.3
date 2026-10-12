@@ -2439,3 +2439,11 @@ Do not mistake BTA's cross-system transition record for a source of jurisdiction
 A GTP-local, expanded or cross-scale vote may lawfully determine a shared decision state, including under optional bounded hierarchical coordination. It **does not centralise action authority**. Each affected system and jurisdiction retains its own bounded authority rules for resulting acts; GTP geometry, constituent resultants and coordination arrangements supply no substitute. Multi-system consequences may be asynchronous and partially implemented, and must retain per-system owner, mandate, state, review and provenance. BTA relates transitions; it does not impose a single implementing authority.
 
 <!-- END V2.1 AFFECTED-SYSTEM BOUNDED ACTION AUTHORITY 2026-10-12 -->
+
+<!-- BEGIN V2.1 DECISION-DEPENDENT CONSEQUENCE ROUTING 2026-10-12 — Chapter 132 -->
+
+### Chapter 132 — GTP does not predetermine post-vote execution topology
+
+GTP geometry, mesh coverage, an expanded resultant or optional hierarchical coordination do not tell us in advance what a triad will decide, which systems its decision will affect, or who will act. The actual lawful vote and resulting decision-state transition determine which consequences require resolution. Only then can relevant domain-specific bounded authority and actual actors be established, potentially across several systems or spatial scales. Do not impose a fixed cross-cell executor, hierarchical command route or mandatory multi-system fan-out on every vote. Preserve unknown and non-action outcomes explicitly.
+
+<!-- END V2.1 DECISION-DEPENDENT CONSEQUENCE ROUTING 2026-10-12 -->
