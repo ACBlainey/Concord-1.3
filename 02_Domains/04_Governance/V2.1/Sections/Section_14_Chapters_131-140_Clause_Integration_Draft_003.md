@@ -2447,3 +2447,14 @@ A GTP-local, expanded or cross-scale vote may lawfully determine a shared decisi
 GTP geometry, mesh coverage, an expanded resultant or optional hierarchical coordination do not tell us in advance what a triad will decide, which systems its decision will affect, or who will act. The actual lawful vote and resulting decision-state transition determine which consequences require resolution. Only then can relevant domain-specific bounded authority and actual actors be established, potentially across several systems or spatial scales. Do not impose a fixed cross-cell executor, hierarchical command route or mandatory multi-system fan-out on every vote. Preserve unknown and non-action outcomes explicitly.
 
 <!-- END V2.1 DECISION-DEPENDENT CONSEQUENCE ROUTING 2026-10-12 -->
+
+
+<!-- BEGIN V2.1 CH132 SPATIAL APPOINTMENT NONINFERENCE 2026-10-12 -->
+
+### Chapter 132 — GTP spatial offices do not establish appointment hierarchy
+
+**Working source-preserving cross-reference (12 October 2026):** GTP's recursively available spatial positions provide an organising and coordination context, not an independent authority to appoint, supervise or command Stewards. Steward office vacancies and qualified candidate ascension may be handled by an HR-like process and potentially a **specially bounded appointing Steward or board**, but this is an **authorial provisional outline only**, not enacted appointment machinery. The appointer's possible authority would concern the appointment act, not a superior position in the spatial mesh. The first-Steward bootstrap and subsequent ordinary appointments are distinct open questions. See `03_Cross_Domain_Architecture/Stewardship_Selection_and_Allocation/README.md` §§10–13 and Governance V2.1 `Outstanding_Issues_Register.md`.
+
+**Contextual quorum:** Two independently valid matching official Steward votes settle the substantive triadic outcome; the third contributes epistemic and historical provenance, not an additional legal vote threshold. Do not infer from six vertex associations, conceptual triangles or concurrently used GTP scales that a particular human/AI Steward is appointed, qualified or entitled to vote. These are separate questions of legitimate office and contextual authority. Preserve optional bounded cross-scale coordination without inferring a spatial governing hierarchy.
+
+<!-- END V2.1 CH132 SPATIAL APPOINTMENT NONINFERENCE 2026-10-12 -->
