@@ -1,0 +1,17 @@
+name: Authority owner registry 101
+on:
+  push:
+    paths:
+      - '02_Domains/04_Governance/V2.1/Validation/*101.py'
+      - '.github/workflows/authority-owner-registry-101.yml'
+  workflow_dispatch:
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Test independent owner records
+        run: python -m unittest discover -s 02_Domains/04_Governance/V2.1/Validation -p test_authority_owner_registry_101.py -v
