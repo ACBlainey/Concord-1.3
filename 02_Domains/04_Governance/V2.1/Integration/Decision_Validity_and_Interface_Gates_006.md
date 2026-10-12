@@ -52,3 +52,29 @@
 The purpose of this interface is to keep **CAP ≠ PERM ≠ AUTH** visible: practical capability, permission and lawful authority are distinct. This document supplies diagnostic gates, not permission to act. All open decisions require source resolution, testing, explicit approval and provenance before incorporation into any binding text.
 
 Original Governance V2 Canonical unchanged.
+
+
+## Later authorial source-priority correction — event-driven state machine (12 October 2026)
+
+This 006 developmental document predates the author's subsequent decisions. Its **four gates** (competence, forum, participation, result) remain useful; however its statements that a two-matching-vote majority requires a separate three-occupied/degraded quorum rule, or that a completed decision may be reopened through a generic review state, are **superseded**. Quorum is contextual: two independently valid matching official Steward votes in the legitimate decision instance determine F/A without waiting for a third occupied position. The third ballot is informational provenance. A completed state-machine decision is immutable history; a later appeal, remedy, challenge or renewed consideration is a **new uniquely identified decision instance** with freshly activated authority, not a return to deliberation under the old ID. See Integration 018 and 048.
+
+### Provisional event/guard/transition matrix — no new constitutional authority
+
+| Current state | Event | Required guard | Transition / effect |
+|---|---|---|---|
+| Created | Authority validation | Competence, forum, contextual mandate and legitimate participation established | Open voting under unique decision ID; otherwise hold/reject without a vote |
+| Voting open | First valid position ballot | Authenticated eligible official Steward; correct decision ID and position; no prior accepted ballot for that position | Atomically record ballot and updated position state |
+| Voting open | Matching second valid ballot | Two distinct authorised official positions; same decision ID and current valid context | Atomically fix F/A result; third-position ballot no longer changes substantive outcome |
+| Voting open / unresolved | Split, U or missing decisive position | No matching valid majority yet | Remain pending; consider separately authorised continuation routes, not an automatic new mandate |
+| Voting open / unresolved | Steward absence or conflict | Actual event classification, eligible authorised route and position exclusivity | Await, initiate authorised expanded constituent vote, or activate lawfully appointed bounded parallel replacement; otherwise hold |
+| Constituent expanded vote | Constituent resultant returned | Independently authorised expansion; one-resultant-for-one-position; unique Steward participation within the whole decision | Record exactly one original-position resultant; re-evaluate same decision ID |
+| Any nonterminal voting state | Duplicate or stale vote | Same ID/position already transitioned, or invalid mandate | No second vote or state effect; record duplicate receipt or reject |
+| Determined | Ordinary implementation trigger | Applicable variable Clock transition and revalidated host authority | Initiate lawful host action without re-voting |
+| Determined | Lawful urgent implementation trigger | Independent emergency/urgent host mandate, not merely the vote | Initiate bounded host action without waiting for Clock |
+| Action pending | Resultant action receipt / retry | Distinct action identity; host-owned state; atomic durable idempotency | Complete each authorised action once; duplicate delivery causes no repeat consequence |
+| Completed | Late third ballot / evidence | Historical provenance permission | Append provenance without changing fixed result or replaying action |
+| Completed | Appeal, new evidence, remedy, changed circumstances | Independently lawful fresh decision mandate | Create new unique decision instance with ancestry link; historical event remains unchanged |
+
+**Orthogonal states:** substantive result, provenance completeness, position availability, host action execution and Clock timing must not be collapsed into one status. A decision can have an F/A majority while its third-position provenance remains outstanding, and its lawful action can be awaiting an ordinary Clock trigger. Parallel Stewards can provide advice without an official ballot; an expanded vote is not automatically triggered by any vacancy. State-machine triggers **route** only to existing authorised procedures. CAP ≠ PERM ≠ AUTH.
+
+**Validation still required:** precise host state/event definitions, real appointment/expansion authority, concurrent atomic vote and action receipts, constituent identity across nested expansion, cancellation/expiry, and paused-Clock emergency transitions. This is a source-aligned developmental matrix, not a tested executable state machine.
