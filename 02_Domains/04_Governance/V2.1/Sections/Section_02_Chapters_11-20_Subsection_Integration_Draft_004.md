@@ -6402,3 +6402,15 @@ Keep separate records for (1) lawful triad constitution and voting-position auth
 **Unresolved ownership detail:** Which existing state machine is authoritative for each decision class, exactly when a vote-result event is accepted/committed, how rejected/pending/failed transitions are represented, and which downstream effects require independent act authority must be recovered from original Concord state-machine and bounded-authority architecture. BTA provides an integration contract, not proof that one universal state machine exists. Quorum still concerns validity of the voting forum; an invalid vote cannot lawfully drive a state transition.
 
 <!-- END V2.1 AUTHORIAL VOTE-DRIVEN STATE MACHINE CORRECTION 2026-10-12 -->
+
+<!-- BEGIN V2.1 AFFECTED-SYSTEM BOUNDED ACTION AUTHORITY 2026-10-12 — Chapter 12 -->
+
+### Chapter 12 — Domain-owned bounded authority for consequences of a vote
+
+**Authorial clarification (12 October 2026).** A lawful triadic vote determines the decision outcome and drives the competent decision-state machine's lawful state transition. **Authority to action the resulting decision is determined by each affected system's own bounded-authority rules.** There is no universal Concord-wide executive mandate conferred by the vote or by a generic state-machine transition.
+
+For each affected system, resolve the actual consequential act, context, route, actor, authority source, permission/consent, scope, current conditions, prohibitions, implementation state and review under **that system's** rules. A single decision may fan out to multiple systems with different valid outcomes: authorised action in one, pending review in another, prohibited action in a third. Do not collapse them into one global implementation status or treat one system's authority as transferable to another. MKA verifies authority composition for each actual act where material; BTA preserves cross-system transition relationships and partial/pending outcomes without assigning substantive authority.
+
+**Important distinction:** A decision-state change is not automatically the same as completed physical, financial, medical or infrastructural action. A valid vote should not be re-decided by downstream actors, but they must not act outside their own independently bounded competence. When the voted decision itself has immediate legal effect, represent that as the appropriate host-defined transition; do not infer authority for further downstream acts.
+
+<!-- END V2.1 AFFECTED-SYSTEM BOUNDED ACTION AUTHORITY 2026-10-12 -->
