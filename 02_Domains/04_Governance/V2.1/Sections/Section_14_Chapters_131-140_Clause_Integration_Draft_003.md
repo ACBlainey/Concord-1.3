@@ -2421,3 +2421,13 @@ The “lowest capable legitimate decision field” is a default subsidiarity pre
 Record separately the voting forum and decision event, resultant/majority provenance, and the competent implementation owner and mandate. Cross-cell agreement may determine a valid vote without transferring operational jurisdiction or resources. Any binding action requires independent lawful implementation authority and its own checks at the act; optional hierarchical coordination does not change this separation.
 
 <!-- END V2.1 TRIAD VOTE AUTHORITY SEPARATE FROM IMPLEMENTATION 2026-10-12 -->
+
+<!-- BEGIN V2.1 AUTHORIAL VOTE-DRIVEN STATE MACHINE CORRECTION 2026-10-12 — Chapter 132 -->
+
+### Chapter 132 — GTP voting drives state machine; geometry does not execute
+
+**Authorial correction:** In local, expanded, overlapping multiscale and optionally hierarchical GTP coordination, the authorised triadic vote determines the relevant decision outcome and drives the lawfully defined **state-machine transition**. The triad's authority is to vote, not to personally implement the downstream consequences. An expanded triad's bounded resultant occupies one authorised decision position; the correct decision event must be accepted by the actual competent host state machine, never inferred from GTP nesting or coordination hierarchy. Any separate operational act requires the responsible actor's independently valid authority.
+
+Do not mistake BTA's cross-system transition record for a source of jurisdiction or a universal executor; host state-machine ownership, transition predicates, legal effective time and downstream implementation contracts remain to be located and reconciled.
+
+<!-- END V2.1 AUTHORIAL VOTE-DRIVEN STATE MACHINE CORRECTION 2026-10-12 -->
