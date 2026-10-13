@@ -727,6 +727,12 @@ All test results are **unit-level fixture evidence**, not end-to-end system cert
 **Unresolved:** actual owner attestation and executable enforcement, constitutional competence/thresholds and independent review remain subject to source validation; do not interpret fixture evidence as deployed authority.
 <!-- END V2.1 G05 CONSOLIDATION CHAPTER 24 -->
 
+<!-- BEGIN V2.1 SOURCE RECOVERY 2026-10-13 CHAPTER 24 -->
+### Chapter 24 — Migration-aware emergency source recovery and authority envelope
+
+**Authorial source-recovery method (056):** Historic *canonical*, *draft* and *non-canonical* labels describe assumed status at the time of writing, not automatic adoption or rejection. The recovered `PH-02 — Emergency Governance and Emergency Operations.md` contains an Emergency Authority Envelope (EAE), legitimacy/activation/exercise gates, advisory/directive/compulsory separation and bounded contextual deviation safeguards. `Phase D4 — Holder, Conflict, Support, Exit and Emergency Foundations 001.md` supplies constitutional standing, minimum deviation and sunset. These substantive architectures are to be reconciled into the emergency V2.1 working model rather than omitted on header status alone. **No new compulsory power is granted by this placement.** Exact historic provisions, source-specific competence, rights constraints and owner approval remain flagged for direct comparison.
+<!-- END V2.1 SOURCE RECOVERY 2026-10-13 CHAPTER 24 -->
+
 # Chapter 25 — Emergency Classification
 
 ## 25.1 Classification
