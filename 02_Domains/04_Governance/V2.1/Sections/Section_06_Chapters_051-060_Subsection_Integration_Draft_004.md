@@ -3377,6 +3377,14 @@ Local variation should operate above, not erase, that floor.
 
 > **The purpose of Governance is not to eliminate difference. It is to create constitutional conditions in which different lawful communities, cultures and intelligences can coexist, coordinate shared systems, resolve genuine conflicts and preserve foundational protections without requiring unnecessary uniformity or allowing difference to become domination.**
 
+<!-- BEGIN V2.1 G05 CONSOLIDATION CHAPTER 59 -->
+### Chapter 59 — V2.1 G05 integration: Cross-context resource coordination
+
+**Developmental clause, unresolved interfaces retained:** GTP intersections and collisions indicate overlapping effects, not command rank. Reconciliation proposals cannot allocate another owner's resources or transfer authority. Independent resource and host owners must validate each consequential operation, including changed KCS dependencies and partial execution. Shared competence requires its own lawful mandate. G05 001 stages 076–080.
+
+**Unresolved:** actual owner attestation and executable enforcement, constitutional competence/thresholds and independent review remain subject to source validation; do not interpret fixture evidence as deployed authority.
+<!-- END V2.1 G05 CONSOLIDATION CHAPTER 59 -->
+
 # Chapter 60 — Governance and Unknown Futures
 
 ## 60.1 The Constitution Cannot Predict Everything
