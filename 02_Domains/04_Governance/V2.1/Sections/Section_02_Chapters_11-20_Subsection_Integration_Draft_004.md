@@ -1431,6 +1431,13 @@ The enduring rule remains:
 
 > **Use the lowest competent architecture capable of resolving the actual problem.**
 
+
+<!-- V2.1 INTEGRATION 2026-10-13: AUTHORIAL SOURCE RECONCILIATION; DEVELOPMENTAL; REVERSIBLE -->
+## 12.x — V2.1 integration: expanded triads and conference boundaries
+
+An authorised expanded decision retains three independently constituted constituent triads and exactly three resultant F/A/U votes, never a pooled nine-ballot majority. Origin-included mapping and repeated-participant independence require explicit validation; geometric adjacency cannot repair an invalid forum. Conference is ordinarily absent from official voting but may be authorised in a bounded context; it cannot combine constituent authorities or alter their resultants. Cross-constituent communication must satisfy CWA/CIBB information controls and preserve independent decision positions. Shared coordination is distinct from binding shared competence, which requires its own lawful mandate. GTP scale and adjacency do not establish political hierarchy. See Integrations 051–052 and 121–123.
+<!-- END V2.1 INTEGRATION 2026-10-13 -->
+
 # Chapter 13 — Stewardship Domains
 
 ## 13.1 Introduction
