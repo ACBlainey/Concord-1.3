@@ -3630,3 +3630,11 @@ The principle is to avoid unnecessarily making future decisions impossible.
 ## 60.8 Unknown Futures Principle
 
 > **The Concord should not assume that its current categories, institutions or mechanisms exhaust the possible future. Governance should preserve constitutional principles, knowledge and correction capability strongly enough that civilisation can encounter genuinely novel entities, technologies, environments and failures without either abandoning its ethical foundations or becoming trapped by obsolete architecture.**
+
+<!-- BEGIN V2.1 G05 CONSOLIDATION CHAPTER 60 -->
+### Chapter 60 — V2.1 G05 integration: Unknown futures and reversible governance
+
+**Developmental clause, unresolved interfaces retained:** Future unforeseen failures justify preserving adaptable bounded interfaces, not granting open-ended emergency powers. Recovery, replacement, hibernation and retirement may each leave duties. Treat claims of complete restoration and final closure as independently evidenced, reviewable states; preserve options and historical evidence. G05 001 stages 079–083.
+
+**Unresolved:** actual owner attestation and executable enforcement, constitutional competence/thresholds and independent review remain subject to source validation; do not interpret fixture evidence as deployed authority.
+<!-- END V2.1 G05 CONSOLIDATION CHAPTER 60 -->
