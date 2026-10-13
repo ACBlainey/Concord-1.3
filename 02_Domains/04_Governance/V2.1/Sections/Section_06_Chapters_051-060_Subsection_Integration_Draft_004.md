@@ -2172,6 +2172,14 @@ The fixture's `review_required` condition is true when the duty or custody proje
 
 <!-- END G05 STAGE 091 PRIVACY-SAFE PROJECTION INTERFACE -->
 
+<!-- BEGIN V2.1 G05 CONSOLIDATION CHAPTER 55 -->
+### Chapter 55 — V2.1 G05 integration: Transition effects and correction
+
+**Developmental clause, unresolved interfaces retained:** BTA distinguishes proposed, partially effected, recovered, restored and closed states. Rollback or restoration claims must not erase externally realised effects, evidence or continuing duties. A technical receipt is not proof of effect or discharge; verify each with the appropriate owner and preserve independent Historical provenance. KCS downstream dependency propagation does not confer authority. G05 001 stages 074–081; ACKS 097–098.
+
+**Unresolved:** actual owner attestation and executable enforcement, constitutional competence/thresholds and independent review remain subject to source validation; do not interpret fixture evidence as deployed authority.
+<!-- END V2.1 G05 CONSOLIDATION CHAPTER 55 -->
+
 # Chapter 56 — Governance Accountability Architecture
 
 ## 56.1 Accountability Layers
