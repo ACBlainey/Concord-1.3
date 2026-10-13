@@ -1270,3 +1270,10 @@ High-consequence decisions may justify substantial redundancy.
 Chapters 28–30 govern emergency succession, degraded triads and deadlock; this chapter supplies advisory reasoning, not the emergency mandate. Any appointment or acting status must have independently established selector, authority, term, conflict checks and expiry. See `03_Cross_Domain_Architecture/Stewardship_Selection_and_Allocation/README.md` §§10–13.
 
 <!-- END V2.1 STEWARDSHIP LIFECYCLE CROSS-CHAPTER ALIGNMENT 2026-10-12 -->
+
+
+<!-- V2.1 INTEGRATION 2026-10-13: AUTHORIAL SOURCE RECONCILIATION; DEVELOPMENTAL; REVERSIBLE -->
+## 100.x — V2.1 integration: parallel Stewardship versus conference and substitution
+
+Parallel Stewardship remains advisory unless independently appointed to a legally vacant official position. A conference does not promote an adviser into a voter, confer jurisdiction or substitute for an auditable GTP candidate selection. A selected substitute holds one decision-specific bounded position, with uniqueness and conflict checks across the entire decision event. Existing committed ballots cannot be displaced. See Integrations 022, 031 and 123.
+<!-- END V2.1 INTEGRATION 2026-10-13 -->
