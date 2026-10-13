@@ -46,3 +46,7 @@ Committed ten additional source-preserving, marked G05 developmental chapter int
 ## G05 source-to-rule placement audit — 13 October 2026
 
 Updated `G05 — Governance Source-to-Rule Integration Map 004.md` with actual chapter destinations for all nine original interface families. Each has at least one committed developmental V2.1 sectional placement. This closes the **major-family placement** gap only; it does not certify exhaustive historical migration, executable owner contracts, individual fixture-to-clause traceability, or constitutional graduation.
+
+## Additional historical-source recovery into sections — 13 October 2026
+
+Committed marked in-chapter reconciliations from Integration 035, 041, 056 and 068: **Chapter 12** standardises node terminology and candidate-ring eligibility; **Chapter 132** incorporates node-centred mesh geometry without command hierarchy; **Chapter 55** preserves BTA's complete 28-field materially optional contract and six legacy-field semantic mapping cautions; **Chapter 24** recovers PH-02 Emergency Authority Envelope and Phase D4 emergency safeguards under the migration-aware source rule. Open topology, host, source-text and constitutional authority details remain flagged in the affected chapters. This is sectional consolidation, not source deletion or certification.
