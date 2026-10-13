@@ -846,6 +846,14 @@ The appropriate architecture depends upon the role.
 
 > **Representation and delegation allow civilisation to govern at scale, but delegated authority remains bounded, traceable, reviewable and constitutionally constrained. Representation is not ownership, re-delegation does not create new power, and responsibility must not disappear inside long delegation chains.**
 
+<!-- BEGIN V2.1 V1 COMPONENT RECOVERY CH73 -->
+### Chapter 73 — Delegation and retained local authority in the mesh
+
+**Recovered source:** V1 Governance Component Recovery Map G-R05–G-R08 and mesh reinterpretation.
+
+Delegation is purpose-specific and cannot transfer more authority than the delegator lawfully possesses. When a matter moves to an expanded decision field, identify the originating context, participating contexts, temporary decision authority, unaffected retained local authority and separate implementation mandate. Larger area, geometric containment, expert advice or cross-resolution coordination is not political seniority. A decision made across contexts may be implemented by local authorised actors without centralising execution. **[LOCAL OPEN:]** overlapping mandates, delegation acceptance, revocation versus consumed official ballots, and handoff receipts.
+<!-- END V2.1 V1 COMPONENT RECOVERY CH73 -->
+
 # Chapter 74 — Selection of Stewards
 
 ## 74.1 No Single Selection Method Is Presumed Universal
