@@ -1020,6 +1020,14 @@ Governance V2 therefore preserves:
 
 > **Legitimate authority arises from constitutionally recognised delegation exercised within constitutional limits, through processes appropriate to the decision, with accountability, reviewability and practical respect for protected rights. Influence, popularity, expertise, wealth, contribution, reputation, capability or successful outcomes may inform Governance but do not independently create constitutional authority.**
 
+<!-- BEGIN V2.1 CROSS SOURCE DETAIL CH44 -->
+### Chapter 44 — Legitimacy under exceptional conditions
+
+**Source basis:** Constitutional Emergency V2 Chapters 1–14,41–50.
+
+Emergency speed does not create legitimacy. Justify threat, preservation objective, function, minimum authority and termination. Severity permits stronger action only where separately lawful; it creates no general sovereignty. **[LOCAL ISSUE:]** activation evidence.
+<!-- END V2.1 CROSS SOURCE DETAIL CH44 -->
+
 # Chapter 45 — Governance and Consent
 
 ## 45.1 Consent Matters
@@ -2231,3 +2239,11 @@ Future evidence may reveal:
 The Concord’s commitment is therefore to controlled continuity with correction rather than permanent textual immutability.
 
 # PART V — GOVERNANCE FAILURE CHALLENGE FOUNDATIONS
+
+<!-- BEGIN V2.1 CROSS SOURCE DETAIL CH50 -->
+### Chapter 50 — Independent review across constitutional interfaces
+
+**Source basis:** Constitutional Emergency V2 Chapters 107–130,166–190.
+
+Governance decides within mandate, Judiciary independently reviews, Historical preserves provenance, Research tests evidence, and operational domains execute lawfully. Policy correction does not replace individual remedy. **[LOCAL ISSUE:]** referral and protected records.
+<!-- END V2.1 CROSS SOURCE DETAIL CH50 -->
