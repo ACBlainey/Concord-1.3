@@ -1038,6 +1038,14 @@ Ignoring it does not eliminate it.
 
 > **Governance should evaluate where decisions are actually controlled, not merely where constitutional documents say authority resides. Persistent practical influence through information, infrastructure, expertise, reputation, delay or dependency may become de facto authority and should be made visible, reviewed and constitutionally bounded.**
 
+<!-- BEGIN V2.1 SOURCE DEEPENING CH175 -->
+### Chapter 175 — De facto authority beyond formal grants
+
+**Recovered source:** Governance Operating Boundary and Authority Lifecycle §§14–15,19–20.
+
+Funding, information, access, infrastructure, expertise and dependency can enable effective control without lawful mandate. Review aggregate power rather than only isolated grants. **[LOCAL ISSUE:]** independent capability graph.
+<!-- END V2.1 SOURCE DEEPENING CH175 -->
+
 # Chapter 176 — Feedback Loops and Authority Accumulation
 
 ## 176.1 Recursive Power
