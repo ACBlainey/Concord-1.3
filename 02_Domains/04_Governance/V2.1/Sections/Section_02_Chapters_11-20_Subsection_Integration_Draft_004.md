@@ -1438,6 +1438,18 @@ The enduring rule remains:
 An authorised expanded decision retains three independently constituted constituent triads and exactly three resultant F/A/U votes, never a pooled nine-ballot majority. Origin-included mapping and repeated-participant independence require explicit validation; geometric adjacency cannot repair an invalid forum. Conference is ordinarily absent from official voting but may be authorised in a bounded context; it cannot combine constituent authorities or alter their resultants. Cross-constituent communication must satisfy CWA/CIBB information controls and preserve independent decision positions. Shared coordination is distinct from binding shared competence, which requires its own lawful mandate. GTP scale and adjacency do not establish political hierarchy. See Integrations 051–052 and 121–123.
 <!-- END V2.1 INTEGRATION 2026-10-13 -->
 
+<!-- BEGIN V2.1 OPERATIVE RECONCILIATION 2026-10-13 CHAPTER 12 -->
+### Chapter 12 — V2.1 operative reconciliation of voting quorum and expanded authority
+
+**Developmental precedence:** The retained full-three-position quorum proposal from Integration 047 is historical/provisional and **does not override** the later authorial two-matching-vote determinacy direction 048 and subsequent resolution. Two independently valid matching official F/A votes determine the substantive triadic result; the third position need not have voted to make the mathematical outcome determinate. This is **not** a waiver of authentication, legitimate mandate, forum identity, conflict controls, decision-event boundary or independent implementation authority. A third Steward may still cast a valid ballot, which is informative provenance rather than a veto.
+
+The original portable module's collective deliberation capability remains possible only as an independently authorised contextual conference; isolated official voting is ordinary. A conference cannot combine three constituent triads into a pooled nine-vote majority or confer cross-jurisdictional mandate. An expanded virtual triad counts three independently authorised constituent resultants. A one-position GTP substitute fills one legally vacant position and does not multiply votes or create a forum.
+
+**Potential source conflict to resolve before implementation:** Older provisional-ballot language describes a returning Steward's vote as superseding a provisional position vote. Under the later immutable-commitment architecture, no **committed official ballot** can be superseded. A provisional indication may be superseded only if it is separately defined as non-official and non-consuming, or if a separately lawful future protocol establishes an alternative without rewriting a committed ballot. Preserve the earlier text as developmental provenance, not permission to overwrite an official committed vote.
+
+**Unresolved within Chapter 12:** exact lawful substitution/return mechanism for non-official provisional inputs; source-specific forum eligibility; expanded origin-included mapping; cross-constituent conference disclosure and independence. Do not restore all-three quorum by default.
+<!-- END V2.1 OPERATIVE RECONCILIATION 2026-10-13 -->
+
 # Chapter 13 — Stewardship Domains
 
 ## 13.1 Introduction
