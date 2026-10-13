@@ -1546,6 +1546,12 @@ Traceability does not require unnecessary public exposure of private information
 
 It requires preservation of the constitutional chain through which authority was exercised.
 
+<!-- BEGIN V2.1 OPERATING BOUNDARY RECOVERY CH1 -->
+### Chapter 1 — Functional authority justification and inherent sunset
+
+**Incorporated source:** `Governance Operating Boundary and Authority Lifecycle — Source Resolution 001.md`, §§2–13, 21–22. Governance exists to perform legitimate civil functions, not perpetuate its institutions. The justification chain is **observed condition → rights-relevant problem → legitimate objective → required function → demonstrated need for special authority → minimum sufficient capability and proportionate authority → bounded contextual exercise**. Existing office, expertise, selection, reputation, popularity or a declared function does not establish necessity. A legitimate function may instead be discharged through information, ordinary consent, voluntary cooperation or interoperability without coercive authority. **Minimum necessary does not mean minimum possible:** under-capability can fail the legitimate function; excess creates unnecessary power. CAP ≠ PERM ≠ AUTH. Authority is a contextual envelope of actor, purpose, action, object, spatial and informational scope, activation, time, delegation, review and provenance—not a general Boolean permission. **Function ends → solely function-derived authority ends**, absent a separately justified successor function. Context changes trigger re-evaluation; successor authority is not automatic inheritance. Delegation cannot exceed the legitimate delegable grant. Routine pre-legitimated functions may use low-friction authorisation; consequential and irreversible actions require stronger evidence, independence and review. **[LOCAL ISSUE:]** Exact owner attestations and threshold parameters remain domain-specific.
+<!-- END V2.1 OPERATING BOUNDARY RECOVERY CH1 -->
+
 # Chapter 2 — The Constitutional Framework
 
 ## 2.1 The Constitution, Stewardship and Protocols
@@ -2480,6 +2486,12 @@ The same principle applies beyond AI.
 A nominal supervisor does not provide meaningful oversight merely by signing a document.
 
 Oversight requires practical capability to examine, challenge and intervene.
+
+<!-- BEGIN V2.1 OPERATING BOUNDARY RECOVERY CH4 -->
+### Chapter 4 — Aggregate authority, manufactured need and de facto control
+
+**Incorporated source:** `Governance Operating Boundary and Authority Lifecycle — Source Resolution 001.md`, §§14–15, 19–20. Multiple individually bounded permissions, roles, resources and credentials can combine into effective general control. **Minimum local capability is not necessarily minimum aggregate capability**; check the composite authority surface and cross-domain dependencies. Economic dependency, infrastructure, information monopoly, advisory dominance, reputation and technical capability may create de facto power without lawful authority. If an authority's own actions produce the conditions later cited to expand that authority, the causal loop requires independent review; authority cannot manufacture its own proof of necessity. Legitimate goals such as safety, stability and efficiency do not justify unlimited optimisation at the expense of rights, dissent or other constitutional objectives. **[LOCAL ISSUE:]** Aggregate-power detection and causal audit require independently governed implementation.
+<!-- END V2.1 OPERATING BOUNDARY RECOVERY CH4 -->
 
 # Chapter 5 — Practical Constitutional Rights
 
@@ -4173,6 +4185,12 @@ from
 **concealment discovered later**.
 
 Where appropriate, good-faith self-reporting may be treated as evidence of constitutional responsibility.
+
+<!-- BEGIN V2.1 OPERATING BOUNDARY RECOVERY CH7 -->
+### Chapter 7 — Articulability, proportionate exercise and differentiated accountability
+
+**Incorporated source:** `Governance Operating Boundary and Authority Lifecycle — Source Resolution 001.md`, §§16–18. Consequential governance should articulate the precise question, mandate, evidence quality, alternatives, uncertainty, reasoning, rights effects, expected consequences and implementation responsibility. An AI or model recommendation is evidence or advice, not a transfer of authority. Having a lawful power does not justify maximal use: intervention and non-intervention are assessed against the legitimate purpose and reasonably sufficient, least-rights-intrusive options. Review must distinguish justified adverse outcomes, good-faith error, inadequate evidence, implementation failure, negligence, recklessness, conflict, corruption, deliberate misconduct, systemic failure and unforeseeable harm. Correction is not disloyalty, and an adverse outcome alone is not misconduct. **[LOCAL ISSUE:]** Consequence-specific review thresholds and remedy routes remain for domain owners.
+<!-- END V2.1 OPERATING BOUNDARY RECOVERY CH7 -->
 
 # Chapter 8 — Provisional Governance Invariants and Unresolved Foundations
 
