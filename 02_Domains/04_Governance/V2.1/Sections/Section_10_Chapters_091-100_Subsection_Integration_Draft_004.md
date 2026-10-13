@@ -1277,3 +1277,9 @@ Chapters 28–30 govern emergency succession, degraded triads and deadlock; this
 
 Parallel Stewardship remains advisory unless independently appointed to a legally vacant official position. A conference does not promote an adviser into a voter, confer jurisdiction or substitute for an auditable GTP candidate selection. A selected substitute holds one decision-specific bounded position, with uniqueness and conflict checks across the entire decision event. Existing committed ballots cannot be displaced. See Integrations 022, 031 and 123.
 <!-- END V2.1 INTEGRATION 2026-10-13 -->
+
+<!-- BEGIN V2.1 CE-V2 EXTENDED RECOVERY CHAPTER 100 -->
+### Chapter 100 — Emergency oversight, judicial separation and effective remedy
+
+**Constitutional Emergency V2 §§107–130:** Emergency secrecy may temporarily delay public disclosure, but must have owner, reason, scope, review/expiry and eventual disclosure criteria; secrecy does not erase evidence or constitutional memory. The Judiciary reviews emergency legality and rights without becoming executive command or resource allocator. Review should remain usable under urgency and avoid paralysis, while retaining procedural fairness. Judicial abstention does not automatically validate executive action. Audit, learning and individual remedy are different functions; a successful emergency outcome does not prove every measure justified. Whistleblowing, dissent and negative evidence must remain protected. Classify error, negligence, recklessness and abuse distinctly. **Open:** emergency court competence, secrecy-wrapper enforcement, access and remedy timescales, protection against retaliatory suppression.
+<!-- END V2.1 CE-V2 EXTENDED RECOVERY CHAPTER 100 -->
