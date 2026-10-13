@@ -1849,3 +1849,10 @@ Neither layer should presume complete epistemic superiority.
 ## 150.10 Central Coordination Principle
 
 > **Central coordination is legitimate where the problem genuinely exceeds lower jurisdictions, but civilisation-wide responsibility should remain function-specific, bounded and reviewable. A narrow central function must not become a pathway to total Governance merely through usefulness, information advantage or control of shared resources.**
+
+
+<!-- V2.1 INTEGRATION 2026-10-13: AUTHORIAL SOURCE RECONCILIATION; DEVELOPMENTAL; REVERSIBLE -->
+## 150.x — V2.1 integration: coordination is not conference-derived command
+
+A conference across GTP scales or neighbouring jurisdictions may support evidence sharing and voluntary coordination but cannot create central command or territorial hierarchy. Binding shared action requires independently lawful common competence; emergency preservation is separately bounded. The host owner, not the conference, verifies current execution authority and records effects. See Integrations 051–052, 097 and 123.
+<!-- END V2.1 INTEGRATION 2026-10-13 -->
