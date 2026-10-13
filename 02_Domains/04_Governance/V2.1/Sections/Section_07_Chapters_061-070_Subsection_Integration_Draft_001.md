@@ -1390,6 +1390,14 @@ Where material, AI-derived interpretation should remain traceable.
 The decision record distinguishes proposal, mandate, competent context, evidence provenance, independent official ballots, abstention/dissent, resultant, implementation authority, receipts, observed effects and review triggers. Preliminary nonofficial reasoning and any separately authorised conference material are distinct from irrevocable official ballots. Historical custody and Research interpretation do not confer governance authority. **[LOCAL DEPENDENCY:]** Protected record projections, provenance schema and receipt reconciliation require host implementation.
 <!-- END V2.1 SOURCE RECOVERY SECTION 07 CH65 -->
 
+<!-- BEGIN V2.1 EPISTEMIC SOURCE CH65 -->
+### Chapter 65 — Claim-level evidence record and thresholds
+
+**Source basis:** Epistemic Independence, Contestability and Provenance §§3–5,13–14,36 (preliminary research).
+
+The preliminary Civil Evidence architecture distinguishes C0 observation, C1 derived measurement, C2 interpretation, C3 prediction, C4 causal claim, C5 civil-relevance claim, C6 functional claim and C7 authority claim. Confidence attaches to individual claims, not a whole report. Its provisional thresholds E0 notice, E1 inquiry, E2 material concern, E3 functional justification and E4 special-authority justification are different evidential burdens, not automatic numeric grades. Preserve provenance and dependency across transitions; evidence sufficient to investigate is not necessarily sufficient to authorise. **[LOCAL ISSUE:]** domain-specific evidential standards and evidence schema.
+<!-- END V2.1 EPISTEMIC SOURCE CH65 -->
+
 # Chapter 66 — Proposal Architecture
 
 ## 66.1 Proposals as Structured Governance Objects
