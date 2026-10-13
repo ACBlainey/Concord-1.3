@@ -1189,6 +1189,14 @@ from
 
 **system recovery**.
 
+<!-- BEGIN V2.1 CROSS SOURCE DETAIL CH37 -->
+### Chapter 37 — Emergency review and de-escalation
+
+**Source basis:** Constitutional Emergency V2 Chapters 41–50,107–130.
+
+Review evidence-at-time, uncertainty, necessity, proportionality, affected rights, alternatives and expiry. Emergency levels I–V classify operational scale, not authority rank. Escalation does not activate every power; de-escalation is mandatory once justified and continuation bears the burden of proof. **[LOCAL ISSUE:]** independent review and sunset enforcement.
+<!-- END V2.1 CROSS SOURCE DETAIL CH37 -->
+
 # Chapter 38 — Post-Emergency Accountability
 
 ## 38.1 The Emergency Does Not End When the Immediate Threat Ends
@@ -2102,6 +2110,14 @@ Loss of institutional memory may create:
 - and dependence upon institutional folklore.
 
 Where critical memory is lost, the loss itself should be treated as a Governance failure requiring correction.
+
+<!-- BEGIN V2.1 CROSS SOURCE DETAIL CH39 -->
+### Chapter 39 — Constitutional continuity versus institutional survival
+
+**Source basis:** Constitutional Emergency V2 Chapters 31–40,166–190.
+
+Protect constitutional function when institutions fail: rights, judiciary, provenance, services and restoration, rather than perpetuation of emergency office. Every significant intervention needs an anticipated end and ordinary-governance transition. **[LOCAL ISSUE:]** successor office and continuity owner.
+<!-- END V2.1 CROSS SOURCE DETAIL CH39 -->
 
 # Chapter 40 — Provenance and Governance
 
