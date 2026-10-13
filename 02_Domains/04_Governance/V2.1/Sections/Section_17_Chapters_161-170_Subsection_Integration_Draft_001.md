@@ -483,6 +483,14 @@ KCS classification therefore requires:
 KCS change propagation must preserve authoritative ownership and distinguish changed evidence, changed competence, changed mandate and actual new authority. A propagated update or Historical record does not itself revoke an already committed official ballot, appoint a Steward or authorise execution. Dependencies affected by a change must be reassessed under their own state machines and contextual bounds; unknown and pending states remain visible. **[LOCAL DEPENDENCY:]** Owner mapping, receipt propagation, replay and recovery under a paused Civilisation Clock remain implementation questions.
 <!-- END V2.1 SOURCE RECOVERY SECTION 17 CH163 -->
 
+<!-- BEGIN V2.1 EPISTEMIC SOURCE CH163 -->
+### Chapter 163 — Epistemic correction propagation
+
+**Source basis:** Epistemic Independence, Contestability and Provenance §§23,47–49.
+
+A withdrawn material claim should trigger dependency search, affected-decision identification and review, not automatic cancellation of committed governance outcomes. KCS propagation distinguishes a changed evidence object from a new lawful state change; review has its own competence and provenance. Historical retains previous claims and corrections; epistemic knowledge persistence is not authority persistence. **[LOCAL ISSUE:]** owner triggers and state-machine handoff.
+<!-- END V2.1 EPISTEMIC SOURCE CH163 -->
+
 # Chapter 164 — Governance and Continuity
 
 ## 164.1 Continuity Principle
