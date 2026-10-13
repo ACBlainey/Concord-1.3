@@ -1550,6 +1550,13 @@ This may create functional degradation without numerical degradation.
 
 Emergency Governance should therefore consider independence of information as well as number of Stewards.
 
+
+<!-- V2.1 INTEGRATION 2026-10-13: AUTHORIAL SOURCE RECONCILIATION; DEVELOPMENTAL; REVERSIBLE -->
+## 29.x — V2.1 integration: degraded triads and contextual continuity
+
+A degraded triad does not automatically become a conference, an expanded forum or an emergency body. Two independently valid matching official F/A ballots can determine a result without the third occupied position; whether acceptance proceeds early remains context-dependent. An unavailable or recused position can be filled only by separately lawful, bounded substitution. A valid abstention cannot be silently replaced. Remaining voting authority is not consumed by another Steward's commitment or by the count-only projection. See Integrations 031, 048, 110, 121–123.
+<!-- END V2.1 INTEGRATION 2026-10-13 -->
+
 # Chapter 30 — Emergency Abstention and Decision Failure
 
 ## 30.1 Abstention During Emergency
