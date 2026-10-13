@@ -2362,6 +2362,14 @@ A restricted decision should remain capable of examination by authorised indepen
 
 > **A Steward should be capable, to a degree proportionate to consequence, of making the constitutional, evidential and practical basis of an exercise of authority sufficiently explicit that another competent reviewer can understand and challenge it. Persuasiveness alone is not articulability.**
 
+<!-- BEGIN V2.1 CROSS SOURCE DETAIL CH68 -->
+### Chapter 68 — Articulability under urgency
+
+**Source basis:** Constitutional Emergency V2 Chapters 14–18; Governance Operating Boundary and Authority Lifecycle §§16–18.
+
+Even when urgency compresses procedure, significant decisions should record the question, available evidence, uncertainty, constitutional purpose, rights impact, alternatives, bounded power, responsible decision-holder, expected duration and later outcome. An AI model or specialist recommendation is not an authority transfer. Where contemporaneous detail is impossible, record the limitation and complete review when safe, without retrospectively rewriting what was known. **[LOCAL ISSUE:]** emergency record minimum and owner custody.
+<!-- END V2.1 CROSS SOURCE DETAIL CH68 -->
+
 # Chapter 69 — Fiduciary Duty in Practice
 
 ## 69.1 Duty of Care
