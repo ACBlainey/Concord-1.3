@@ -1384,6 +1384,14 @@ Underlying records should remain recoverable independently where practical.
 
 > **Professional staff provide necessary continuity, expertise and institutional memory, but their practical influence through information, drafting, procedure and technical knowledge should remain visible, bounded and accountable. Steward rotation should not accidentally convert permanent staff into unreviewable de facto Governors.**
 
+<!-- BEGIN V2.1 SOURCE DEEPENING CH107 -->
+### Chapter 107 — Governance staffing and office-state continuity
+
+**Recovered source:** Stewardship Selection and Allocation README §§3–13; V1 Governance Component Recovery Map G-R11–12.
+
+Separate role eligibility, Education accreditation, selection, appointment, office mandate and each exercise of authority. Parallel Steward training provides comparative evidence but not automatic appointment, vote or promotion. Staffing changes must preserve pending matters, record custody, rights, conflict checks and unfulfilled duties. **[LOCAL ISSUE:]** selector, tenure, temporary acting office and succession.
+<!-- END V2.1 SOURCE DEEPENING CH107 -->
+
 # Chapter 108 — Governance Finance and Budgeting
 
 ## 108.1 Governance Requires Funding
