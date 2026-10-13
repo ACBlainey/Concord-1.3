@@ -1581,6 +1581,14 @@ Competence review should therefore preserve appropriate:
 
 > **Stewardship requires competence appropriate to the actual responsibility, but competence neither determines intrinsic worth nor creates authority by itself. Competence should be assessed contextually, supported where appropriate, reviewed as roles and capabilities change, and protected against becoming a disguised mechanism of institutional exclusion or capture.**
 
+<!-- BEGIN V2.1 CROSS SOURCE DETAIL CH75 -->
+### Chapter 75 — Competence is function-specific
+
+**Source basis:** Stewardship Selection and Allocation README §§3–13; Governance Operating Boundary and Authority Lifecycle §§3–9.
+
+Competence is evidenced for the actual decision class and context, not assumed from seniority, popularity, credentials alone or geometric GTP scale. Education accreditation, selection, appointment and live authority are distinct. Parallel service can provide independently recorded performance evidence but never an automatic office grant. **[LOCAL ISSUE:]** assessment method and appointment owner.
+<!-- END V2.1 CROSS SOURCE DETAIL CH75 -->
+
 # Chapter 76 — Governance Education
 
 ## 76.1 Steward Training
@@ -2685,6 +2693,14 @@ Before critical deployment, Governance should consider:
 ## 79.17 Optionality Principle
 
 > **Where uncertainty is high and irreversible commitment is unnecessary, Governance should preserve future options. Stability and standardisation may be valuable, but successful adoption should not be allowed to become irreversible lock-in merely because dependence has accumulated.**
+
+<!-- BEGIN V2.1 CROSS SOURCE DETAIL CH79 -->
+### Chapter 79 — Reversibility and optionality
+
+**Source basis:** Governance Operating Boundary and Authority Lifecycle §§17–22; Constitutional Emergency V2 Chapters 31–40.
+
+Where evidence is incomplete, prefer sufficient, proportionate and reversible interventions where available. Irreversible harm increases the need for independent evidence, bounded authority, alternatives and later review. A new state change that reverses an earlier outcome requires separate legitimate authority; an official ballot is not revoked. **[LOCAL ISSUE:]** decision-class reversibility and execution receipts.
+<!-- END V2.1 CROSS SOURCE DETAIL CH79 -->
 
 # Chapter 80 — Institutional Creation
 
