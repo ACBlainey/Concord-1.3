@@ -2842,3 +2842,11 @@ Impartiality does not require absence of worldview.
 ## 70.12 Conflict Management Principle
 
 > **Conflict of interest is a condition requiring visibility and proportionate management rather than an automatic finding of corruption. Governance should distinguish useful expertise from decision authority, personal conflict from structural conflict, and disclosed manageable interests from concealed or disqualifying influence.**
+
+<!-- BEGIN V2.1 CROSS SOURCE DETAIL CH70 -->
+### Chapter 70 — Conflict, recusal and abstention
+
+**Source basis:** V1 Governance Component Recovery Map G-R10; Expanded Triadic Governance Reconstruction 001.
+
+Disclose material conflict. Abstention is not vacancy or Against; do not substitute simply to obtain a preferred vote. Recusal requires separate legal status and replacement authority; origin-triad conflicts may warrant exclusion from expanded field. Two matching valid official votes may already determine outcome. **[LOCAL ISSUE:]** recusal eligibility and substitute rules.
+<!-- END V2.1 CROSS SOURCE DETAIL CH70 -->
