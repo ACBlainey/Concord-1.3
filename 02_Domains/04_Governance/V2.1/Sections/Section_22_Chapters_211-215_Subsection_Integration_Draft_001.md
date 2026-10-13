@@ -382,6 +382,14 @@ Current necessity should not be rewritten as proven superiority.
 
 > **Governance development should distinguish preserving information, organising a current architecture and demonstrating that the architecture works. A source-complete or canonical document may still contain unvalidated mechanisms, and validation should examine safeguards, incentives, implementation and failure as well as intended function.**
 
+<!-- BEGIN V2.1 CROSS SOURCE DETAIL CH212 -->
+### Chapter 212 — Development is not adoption
+
+**Source basis:** Constitutional Emergency V2 Chapters 249–250; V1 Governance Component Recovery Map §8.
+
+Research, prototypes, simulation and blind module transfer can justify candidate specifications but not grant legal authority. Each mechanism must preserve provenance, source conflict and adoption status. Where historical work is omitted in migration, recover it without treating old labels as final precedence. **[LOCAL ISSUE:]** cross-version inventory and graduation criteria.
+<!-- END V2.1 CROSS SOURCE DETAIL CH212 -->
+
 # Chapter 213 — Remaining Source-Survival Work
 
 ## 213.1 Why the Reconstruction Continues
