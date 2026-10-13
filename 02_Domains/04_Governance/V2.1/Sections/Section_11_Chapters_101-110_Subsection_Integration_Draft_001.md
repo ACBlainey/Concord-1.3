@@ -1618,6 +1618,14 @@ They should not collapse into one authority.
 
 > **Governance institutions require sufficient resources to make their constitutional functions real, but funding itself can become a mechanism of control, capture or hidden liability. Public budgeting should preserve transparency, long-term obligations, maintenance, audit and functional independence without creating unreviewable financial authority.**
 
+<!-- BEGIN V2.1 CROSS SOURCE DETAIL CH108 -->
+### Chapter 108 — Finance and bounded expenditure
+
+**Source basis:** Governance Operating Boundary and Authority Lifecycle §§4–15; Constitutional Emergency V2 Chapters 31–40.
+
+Budgets, grants and procurement are tools for a justified civil function, not independent constitutional authority. Separate appropriation, custody, contract, decision and payment execution; detect cumulative concentration through related offices or infrastructure. Emergency spending requires specific scope, audit, expiry and restoration. **[LOCAL ISSUE:]** financial owner attestations and recovery ledger.
+<!-- END V2.1 CROSS SOURCE DETAIL CH108 -->
+
 # Chapter 109 — Governance Infrastructure
 
 ## 109.1 Physical and Digital Infrastructure
