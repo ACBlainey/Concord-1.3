@@ -1186,6 +1186,14 @@ The exact process may be degraded during severe crisis.
 
 Degradation should not become elimination.
 
+<!-- BEGIN V2.1 G05 CONSOLIDATION CHAPTER 27 -->
+### Chapter 27 — V2.1 G05 integration: Emergency continuity and residual duties
+
+**Developmental clause, unresolved interfaces retained:** An emergency transfer or recovery may leave outstanding beneficiary, privacy, evidence, compensation, custody and remediation duties. Civil Contact routes concerns, Historical preserves provenance, Continuity coordinates its own lawful interfaces, and domain owners retain independent mandates. Referral does not appoint a successor; nomination does not discharge a duty. Orphaned obligations remain discoverable and protected pending independently lawful custody acceptance. G05 001 stages 081–083, 088–090.
+
+**Unresolved:** actual owner attestation and executable enforcement, constitutional competence/thresholds and independent review remain subject to source validation; do not interpret fixture evidence as deployed authority.
+<!-- END V2.1 G05 CONSOLIDATION CHAPTER 27 -->
+
 # Chapter 28 — Emergency Succession
 
 ## 28.1 Loss of Stewardship
