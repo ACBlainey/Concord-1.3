@@ -627,6 +627,14 @@ The transition should include:
 
 > **Governance continuity means preserving civilisation’s ability to restore legitimate constitutional function across disruption, not preserving every institution unchanged. Critical knowledge, authority and recovery capability should survive loss of individual people, organisations, locations or technologies, while emergency arrangements return to ordinary Governance when conditions permit.**
 
+<!-- BEGIN V2.1 EMERGENCY SOURCE RECOVERY CH164 -->
+### Chapter 164 — Constitutional continuity without permanent emergency power
+
+**Recovered source:** Constitutional Emergency V2 Chapters 1–14, 166–190; G05 Variable Civilisational Clock 059.
+
+Emergency operational time and event-driven state machines remain responsive while the variable Civilisation Clock is paused. Emergency authority must be function-specific, minimally sufficient, recorded, reviewable and self-terminating when necessity ends. Preserve the distinction between continued infrastructure function, office succession, surviving obligations and exceptional political power; restoration is an active constitutional phase. **[LOCAL OPEN:]** operational timer, event gates, owner-state integration and independent sunset enforcement.
+<!-- END V2.1 EMERGENCY SOURCE RECOVERY CH164 -->
+
 # Chapter 165 — Governance and Provenance
 
 ## 165.1 Decision Ancestry
