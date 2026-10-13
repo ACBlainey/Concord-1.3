@@ -1034,6 +1034,14 @@ That evidence should enter ordinary review.
 
 Crisis experimentation should not automatically become permanent architecture.
 
+<!-- BEGIN V2.1 SOURCE DEEPENING CH36 -->
+### Chapter 36 — Emergency constitutional branching
+
+**Recovered source:** Constitutional Emergency V2 Chapters 1–14, 166–190.
+
+An emergency branch is a temporary, purpose-specific operational route within the existing Constitution, not a fork that establishes new sovereignty. Preserve the ordinary-state baseline, trigger evidence, affected functions, delegated authority, expiry, review, and restoration route. The branch must remain reversible where feasible and must not quietly become permanent governance after the triggering condition ends. **[LOCAL ISSUE:]** actual branch owner, trigger and rollback controls.
+<!-- END V2.1 SOURCE DEEPENING CH36 -->
+
 # Chapter 37 — Emergency Review
 
 ## 37.1 Continuous Review
