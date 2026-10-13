@@ -1559,6 +1559,14 @@ Its existence increases practical autonomy.
 
 > **Governance should map and manage critical dependencies because infrastructure, expertise, finance, identity, AI or supply relationships can create practical leverage without formal authority. Necessary dependency may be tolerated, but operational indispensability must not become constitutional sovereignty.**
 
+<!-- BEGIN V2.1 CROSS SOURCE DETAIL CH178 -->
+### Chapter 178 — Capture through dependency
+
+**Source basis:** Governance Operating Boundary and Authority Lifecycle §§14–15,19–20; Constitutional Emergency V2 Chapters 211–244.
+
+Dependence on one actor, infrastructure, budget, model or knowledge store can yield de facto command despite formally distributed offices. Identify alternative suppliers, portability, independent custody, exit routes and cumulative authority; require independent evidence before continued concentration. **[LOCAL ISSUE:]** dependency graph and remedies.
+<!-- END V2.1 CROSS SOURCE DETAIL CH178 -->
+
 # Chapter 179 — Governance Capture Through Complexity
 
 ## 179.1 Complexity as Barrier
