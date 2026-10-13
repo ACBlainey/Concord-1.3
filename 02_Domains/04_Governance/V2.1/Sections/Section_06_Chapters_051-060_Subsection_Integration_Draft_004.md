@@ -1754,6 +1754,13 @@ Stage 090 intentionally uses externally asserted booleans for authentication and
 
 <!-- END G05 MULTI-OWNER ACKNOWLEDGEMENT 090 -->
 
+
+<!-- V2.1 INTEGRATION 2026-10-13: AUTHORIAL SOURCE RECONCILIATION; DEVELOPMENTAL; REVERSIBLE -->
+## 54.x — V2.1 integration: decision-state and execution separation
+
+Competence, forum, participation and result are distinct validity gates. Official Steward commitment is atomic, single-use and immutable; a second matching valid F/A ballot determines the outcome without requiring a third occupied position. Ordinary progression permits remaining participation; early acceptance requires independent contextual justification. A third valid ballot cannot change the determined outcome. Conference is a separately authorised exceptional information context, not a second voting mode or revocation. Host execution requires independent current authority; CBPR owns commit/effect reconciliation, BTA transition history, ACKS owner-specific acknowledgements, KCS downstream changes and Historical protected provenance. Receipt ACK is not evidence of effect. The Civilisation Clock cannot stall an independently authorised emergency route. See Integrations 097, 110, 115 and 121–123.
+<!-- END V2.1 INTEGRATION 2026-10-13 -->
+
 # Chapter 55 — Deliberative Integrity
 
 ## 55.1 Independent Thought Before Comparison
