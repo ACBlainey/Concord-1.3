@@ -2196,6 +2196,14 @@ Governance should therefore review classification when practical effect changes.
 
 > **Decision classification exists to match procedure to consequence. Classification should neither trivialise consequential decisions nor burden routine administration unnecessarily, and the classification itself must remain challengeable when practical effect differs from formal label.**
 
+<!-- BEGIN V2.1 SOURCE DEEPENING CH67 -->
+### Chapter 67 — Decision classification and consequence topology
+
+**Recovered source:** V1 Governance Component Recovery Map G-R04,G-R09.
+
+Classify a proposed decision by state change, severity, reversibility, rights, uncertainty, jurisdiction, urgency and dependencies. Priority affects processing order, not Steward vote weight. Distinguish ordinary, experimental, cross-context, emergency and constitutional-review routes; verify separate competence. **[LOCAL ISSUE:]** classification thresholds and anti-starvation.
+<!-- END V2.1 SOURCE DEEPENING CH67 -->
+
 # Chapter 68 — The Principle of Articulability
 
 ## 68.1 Articulability as a Stewardship Duty
