@@ -1363,6 +1363,13 @@ Relevant questions include:
 - Was the action recorded?
 - Did the actor attempt reconciliation when communication returned?
 
+
+<!-- V2.1 INTEGRATION 2026-10-13: AUTHORIAL SOURCE RECONCILIATION; DEVELOPMENTAL; REVERSIBLE -->
+## 28.x — V2.1 integration: succession, conference and immutable ballots
+
+A substitute occupies one lawfully vacant bounded decision position, not an additional vote. A conference cannot create a vacancy, reverse a committed ballot, select a substitute without lawful eligibility and selection, or grant a fresh mandate. Recusal and proven unavailability must be distinguished from valid abstention; the latter is not automatically vacancy. The vertex-adjacent and context-controlled fractal candidate pools retain their independently authorised screening, unbiased selection and audit requirements. The late third ballot remains separately recordable while eligible. See Integrations 022, 031, 115 and 121–123.
+<!-- END V2.1 INTEGRATION 2026-10-13 -->
+
 # Chapter 29 — Degraded Triads
 
 ## 29.1 Triadic Failure
