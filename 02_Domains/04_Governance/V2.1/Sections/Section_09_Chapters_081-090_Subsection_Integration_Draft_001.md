@@ -1180,6 +1180,14 @@ Quietly replacing inaccurate public explanations can weaken provenance.
 
 > **Significant Governance decisions should be explainable at multiple levels of detail so citizens can understand what was decided while specialists retain access to the deeper evidence and reasoning. Accessibility should simplify complexity without laundering uncertainty, disagreement or trade-offs out of the constitutional record.**
 
+<!-- BEGIN V2.1 EPISTEMIC SOURCE CH85 -->
+### Chapter 85 — Right to challenge and duty to answer
+
+**Source basis:** Epistemic Independence, Contestability and Provenance §§9–12,21–22.
+
+When material governance depends on a contestable factual or predictive claim, a competent evidence-based challenge should receive a reasoned response proportionate to consequence, urgency, relevance and uncertainty. Contestability is not universal veto. Preserve challenge, evidence, layer challenged, reviewer, disposition, reasons and effect on confidence or decision; a challenge to evidence is not automatic revocation of an immutable official ballot. **[LOCAL ISSUE:]** independent reviewer and urgent response procedure.
+<!-- END V2.1 EPISTEMIC SOURCE CH85 -->
+
 # Chapter 86 — Governance Communication
 
 ## 86.1 Communication as Infrastructure
