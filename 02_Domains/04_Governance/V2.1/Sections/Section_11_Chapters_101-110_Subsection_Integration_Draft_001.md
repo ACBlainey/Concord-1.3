@@ -1113,6 +1113,14 @@ Exit is easiest before dependency forms.
 
 > **Governance procurement should evaluate total civilisational value rather than price alone, including reliability, resilience, security, interoperability, ethical consequence, provider concentration, migration and future dependency. Procurement should obtain capability without allowing suppliers, contracts or technical infrastructure to acquire undeclared constitutional authority.**
 
+<!-- BEGIN V2.1 LEGITIMATE FUNCTION SOURCE CH106 -->
+### Chapter 106 — Procurement, competing means and institutional interest
+
+**Source basis:** Legitimate Function and the Authority Justification Chain §§9–10,20,23,26.
+
+A legitimate civil objective does not select a preferred contractor, technology or compulsory procurement method automatically. Compare credible alternative means and the least intrusive sufficient capability; identify conflicts where an institution benefits from its own purchase recommendation. Separate purchasing competence, resource custody, contract authority and execution. **[LOCAL ISSUE:]** procurement challenge, market comparison and cumulative supplier dependence.
+<!-- END V2.1 LEGITIMATE FUNCTION SOURCE CH106 -->
+
 # Chapter 107 — Governance Staffing
 
 ## 107.1 Professional Administration
