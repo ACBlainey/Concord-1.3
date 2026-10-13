@@ -148,3 +148,11 @@ The V1 principle of the “lowest competent level” should be reconstructed as 
 
 ## G05 V2.1 integration candidate — continuity and bounded emergency authority
 The [V2.1 G05 integration document](V2.1/G05%20%E2%80%94%20Bounded%20Governance%2C%20Continuity%20and%20Recovery%20Integration%20001.md) and [validation register](V2.1/Validation/README.md) consolidate BTA/GTP/KCS interfaces, recovery, continuing and orphaned duties, bounded emergency protection, renewal and cumulative/distributed-control review. These are modular working architecture and test evidence, **not canonical constitutional rules or deployed mechanisms**. They must be source-resolved and incorporated through the V2.1 chapter-patch/section workflow without changing the preserved V2 source.
+
+## October 2026 voting-procedure source reconciliation
+
+The current V2.1 integration source records distinguish the **ordinary isolated Steward vote** from **legitimately contextual conference**, preserving both the original Triadic Decision Making deliberation capability and later immutable single-use glass-hammer commitment. Conference neither creates jurisdiction nor alters committed ballots. Expanded virtual triads still use three authorised constituent resultants rather than pooling nine ballots; substitution fills one legitimately vacant position only. These are **developmental reconciliations**, not claims that Governance V2 Canonical is complete or amended.
+
+- [Stage 121 — Architecture and analogy boundary](V2.1/Integration/Glass_Hammer_Architecture_Consolidation_and_Analogy_Boundary_121.md)
+- [Stage 122 — Default isolation and contextual conference](V2.1/Integration/Glass_Hammer_Default_Isolation_and_Contextual_Conference_Authorial_Resolution_122.md)
+- [Stage 123 — Expanded triad and substitution interface](V2.1/Integration/Glass_Hammer_Conference_Expanded_Triad_Interface_123.md)
