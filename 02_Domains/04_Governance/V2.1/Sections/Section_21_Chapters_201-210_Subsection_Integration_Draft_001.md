@@ -1553,6 +1553,14 @@ Legitimate authority is therefore best understood as a bounded responsibility.
 
 > **Constitutional authority must arise from legitimate purpose, delegation and jurisdiction rather than usefulness, status, capability, wealth, reputation, infrastructure dependence, technological superiority or historical success. Those attributes may inform who should receive responsibility; they do not independently create the right to command.**
 
+<!-- BEGIN V2.1 V1 COMPONENT RECOVERY CH208 -->
+### Chapter 208 — Boundaries on governance power
+
+**Recovered source:** Governance Operating Boundary and Authority Lifecycle §§2–13,21–23.
+
+Governance authority is a traceable chain from legitimate civil function through demonstrable need to minimum sufficient bounded action. Coarser spatial scale, emergency declaration, model recommendation, office tenure, wealth, reputation and control of infrastructure do not supply new sovereignty. Where function, need or context ends, authority contracts or terminates unless independently re-justified. **[LOCAL OPEN:]** automated termination and owner state verification.
+<!-- END V2.1 V1 COMPONENT RECOVERY CH208 -->
+
 # Chapter 209 — Governance Failure Boundary
 
 A third representation concerns failure:
