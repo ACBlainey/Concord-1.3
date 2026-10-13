@@ -811,6 +811,14 @@ The next major work should include:
 
 > **The Governance reconstruction is now broad enough to function as a serious source-preserving constitutional architecture, but breadth must not be mistaken for completeness or validation. Its next test is whether every source idea survived and whether the resulting mechanisms remain coherent when confronted with neighbouring Concord systems and adversarial failure.**
 
+<!-- BEGIN V2.1 EMERGENCY SOURCE RECOVERY CH214 -->
+### Chapter 214 — Source-complete is not implementation-complete
+
+**Recovered source:** Constitutional Emergency V2 Chapters 249–260 and Current Status; V1 Governance Component Recovery Map §8.
+
+A preserved historical source and a working integration manuscript may both be substantial without being validated. Distinguish source recovery, clause incorporation, cross-system reconciliation, owner implementation, adversarial test and constitutional adoption. No 'canonical' label or successful prototype silently passes a later gate. Emergency preservation reconstruction itself states source-survival audit to its then-current standard but not empirical validation. **[LOCAL OPEN:]** exhaustive chapter-by-chapter source traceability, versioned conflict disposition and owner evidence.
+<!-- END V2.1 EMERGENCY SOURCE RECOVERY CH214 -->
+
 # Chapter 215 — Interim Closing Statement
 
 The Concord’s Governance architecture does not assume that civilisation can eliminate:
