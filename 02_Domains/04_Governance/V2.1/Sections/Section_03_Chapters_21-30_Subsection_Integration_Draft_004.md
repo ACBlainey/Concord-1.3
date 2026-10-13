@@ -1015,6 +1015,14 @@ Every extraordinary authority should retain a connection to:
 - the affected jurisdiction;
 - and the period of necessity.
 
+<!-- BEGIN V2.1 G05 CONSOLIDATION CHAPTER 26 -->
+### Chapter 26 — V2.1 G05 integration: Operational clock and transition
+
+**Developmental clause, unresolved interfaces retained:** A paused Civilisation Clock cannot block independently authorised emergency reaction, expiration, duplicate suppression or protective review. The state-machine/BTA interface coordinates events without granting new powers. Deferred ordinary effects require live authority, dependency and owner revalidation before execution; KCS change propagation is information, not authority. G05 001; Integrations 059–060, 063.
+
+**Unresolved:** actual owner attestation and executable enforcement, constitutional competence/thresholds and independent review remain subject to source validation; do not interpret fixture evidence as deployed authority.
+<!-- END V2.1 G05 CONSOLIDATION CHAPTER 26 -->
+
 # Chapter 27 — Emergency Authority
 
 ## 27.1 Extraordinary Authority
