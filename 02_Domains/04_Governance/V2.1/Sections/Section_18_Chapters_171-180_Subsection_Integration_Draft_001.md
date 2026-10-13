@@ -898,6 +898,14 @@ The wider principle is:
 
 > **Cross-system learning is encouraged; cross-system capture is not.**
 
+<!-- BEGIN V2.1 LEGITIMATE FUNCTION SOURCE CH174 -->
+### Chapter 174 — Broken authority chain classification
+
+**Source basis:** Legitimate Function and the Authority Justification Chain §§12,29–32.
+
+Use the research candidate diagnostic categories BC-1 missing evidence, BC-2 missing need, BC-3 excess scope, BC-4 obsolete function, BC-5 mission drift, BC-6 circular function, BC-7 rights conflict, BC-8 untraceable authority. Trace existing authority backwards to function, objective, rights-relevant problem and observed condition. A broken documentary chain triggers review, not automatic invalidation: the cause may be lost records or an unarticulated legitimate function. **[LOCAL ISSUE:]** independent classification and corrective authority.
+<!-- END V2.1 LEGITIMATE FUNCTION SOURCE CH174 -->
+
 # Chapter 175 — De Facto Authority
 
 ## 175.1 Formal and Practical Authority
