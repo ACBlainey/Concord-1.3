@@ -1939,6 +1939,14 @@ Review conditions should be proportionate to consequence.
 
 > **A significant Governance proposal should make the problem, proposed intervention, authority, evidence, uncertainty, alternatives, harms, benefits, resource requirements, reversibility, dependencies, implementation, review and failure conditions sufficiently explicit that civilisation can evaluate the proposal rather than merely react to its rhetoric.**
 
+<!-- BEGIN V2.1 V1 COMPONENT RECOVERY CH66 -->
+### Chapter 66 — Proposal registration and decision-field routing
+
+**Recovered source:** V1 Governance Component Recovery Map G-R02,G-R04,G-R06–G-R08 and mesh reinterpretation.
+
+A proposal begins as a defined civil problem, not a claim of power. Record the observed condition, proposed state change, affected persons and rights, evidence provenance, uncertainty, functional context and anticipated externalities. Identify the minimum competent governance context or combination of contexts, then verify its mandate. Expand information before expanding authority where feasible. If the matter crosses functional, geographic or resource boundaries, coordinate laterally or across resolutions; a constitutional question takes the independent constitutional route. A coarser GTP resolution has no inherent power over a finer one. Separate decision authority, implementation authority and retained local authority. **[LOCAL OPEN:]** proposal schema, competing-context routing, information-access gates and cross-context consent.
+<!-- END V2.1 V1 COMPONENT RECOVERY CH66 -->
+
 # Chapter 67 — Decision Classification
 
 ## 67.1 Why Classification Matters
