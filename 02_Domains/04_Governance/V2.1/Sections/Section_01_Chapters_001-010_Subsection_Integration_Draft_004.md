@@ -6505,6 +6505,16 @@ The following rules emerge as the current operational baseline:
 Ordinary official Steward votes are independently reasoned and committed in isolation. A legitimate contextual wrapper may authorise conference under circumstances not exhaustively foreseeable; conference itself creates neither jurisdiction nor a vote. Each Steward position retains one independently authenticated, bounded, single-use ballot. A valid committed ballot is immutable and its authority consumed. Conference before commitment may permit only context-authorised information exchange; the rules for preliminary positions and for conference after partial commitment remain unresolved. Two matching valid F/A votes determine the substantive outcome; contextual early acceptance, remaining third-position participation, and host execution are separate states. The anonymous 0–3 committed-position count is an informational projection only, never a vote disclosure, authority token, or gate on another Steward. Post-commit concerns, review and replacement decisions require independent authority and new linked identities. See Integrations 110, 115, 121–123.
 <!-- END V2.1 INTEGRATION 2026-10-13 -->
 
+<!-- BEGIN V2.1 OPERATIVE RECONCILIATION 2026-10-13 CHAPTER 9 -->
+### Chapter 9 — V2.1 operative reconciliation of deliberation, commitment and review
+
+**Developmental precedence:** Retained references to meetings, deliberation and reconsideration describe available governance processes, not a standing entitlement to see other Stewards' votes or to revoke a committed official ballot. Ordinary official voting is isolated; conference requires independently lawful contextual authorisation, with open-ended legitimate circumstances and bounded CWA/CIBB information access. Chapter 9's generic references to deliberation therefore **do not override** Stage 122.
+
+A valid official ballot is an authenticated, one-use authority-consuming state transition. Once committed it cannot be amended or withdrawn, including after discovering other votes. Two matching valid F/A ballots settle the substantive outcome; the remaining Steward's independent ballot route remains available while lawful, and its later record cannot change that outcome. The anonymous 0–3 count discloses only participation, not choices, reasons or identities. Contextual early acceptance and implementation require separate authority. A concern, review, new evidence or appeal is a separately authorised event, not an edit to the original ballot.
+
+**Unresolved within Chapter 9:** competent conference exception owner; preliminary position disclosure; conference after partial commitment; exact privacy projection and authority-enforcement interfaces. These do not prevent applying the settled isolation, commitment and result rules.
+<!-- END V2.1 OPERATIVE RECONCILIATION 2026-10-13 -->
+
 # Chapter 10 — Governance, Metrics and Behavioural Feedback
 
 ## 10.1 Metrics Are Evidence, Not Objectives
