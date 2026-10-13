@@ -1245,6 +1245,14 @@ The principle remains:
 
 > **AI can capture Governance indirectly through information selection, framing, dependency, model homogeneity, provider control and recursive delegation even without formal decision authority. AI systems should therefore remain independently evaluable, versioned, contestable and constitutionally constrained, with meaningful human or plural oversight rather than ceremonial approval.**
 
+<!-- BEGIN V2.1 SOURCE DEEPENING CH187 -->
+### Chapter 187 — AI-enabled capture
+
+**Recovered source:** Governance Operating Boundary and Authority Lifecycle §§8,14–16.
+
+AI recommendations can become de facto decisions if accepted without independent reasoning, alternative evidence or meaningful refusal. Advice is not a fourth ballot. Audit model dependence, gatekeeping and execution. **[LOCAL ISSUE:]** independent challenge.
+<!-- END V2.1 SOURCE DEEPENING CH187 -->
+
 # Chapter 188 — Governance Capture Through Emergency
 
 ## 188.1 Emergency as Authority Accelerator
