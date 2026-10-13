@@ -16,7 +16,7 @@ The local V2 source has **215 numbered chapters**. Plan 22 sectional manuscripts
 ## First affected sections
 - **Section 02 (Chapters 11–20):** Chapter 12 — horizontal expansion, origin-excluded and origin-included resultant voting, local decision authority.
 - **Section 14 (Chapters 131–140):** Chapter 132 — GTP as foundational spatial mesh, geometric parent/child without governance hierarchy, multiple simultaneous resolutions.
-- Other affected chapters (9, 28–30, 54, 100, 149–151, 198, etc.) remain **review candidates**, not presumed edits.
+- Additional chapters 9, 28–30, 54, 100, 149–151 and 198 now have explicitly marked proposed clauses within their corresponding V2.1 sectional drafts; source conflict resolution and review remain open.
 
 ## Source of truth and provenance
 - Preserved V2 canonical: `../Governance V2 Canonical.md`.
@@ -26,7 +26,7 @@ The local V2 source has **215 numbered chapters**. Plan 22 sectional manuscripts
 - Three constituent results, not pooled individual ballots, define the standard expanded virtual triad.
 - Local capable authority is preferred; a large-area event does not by itself create overriding central authority.
 
-**No complete ten-chapter section has been assembled yet.** The initial files are targeted chapter patches for future incorporation.
+**Sectional assembly has progressed:** all 22 source-preserved section files exist; multiple ten-chapter subsection integration drafts have been committed. These remain developmental and require conflict-resolution and integrity checks before graduation. Earlier targeted chapter patches remain provenance, not the sole integration location.
 
 
 ## G05 integration — bounded governance, continuity and recovery
@@ -39,3 +39,9 @@ The local V2 source has **215 numbered chapters**. Plan 22 sectional manuscripts
 - `G05 — Custody Reconciliation Protocol 002.md`: custody reconciliation without central authority.
 - `G05 — Integration and Graduation Register 003.md`: traceability and outstanding integration dependencies.
 - Stage 088–090 cross-stage, reconciliation and acknowledgement validation candidates are in `Validation/`; unit tests are not proof of deployed integration.
+
+## Sectional consolidation status — 13 October 2026
+
+Current primary **developmental working text** is under `Sections/`, not isolated `Integration/` notes. Source-preserved originals remain untouched. Reconciled material has been inserted in the relevant subsection drafts for Chapters 9, 12, 28–30, 54, 100, 132, 149–151 and 198. The source notes (121–123) remain evidence and provenance, not alternative chapter authority.
+
+Open questions belong within the affected V2.1 section **and** the single `Outstanding_Issues_Register.md`, rather than preventing consolidation. Priority is to merge remaining G05, triadic decision, GTP and authority lifecycle material into their actual chapter sections, reconcile older conflicting clauses, and audit preservation. No original V2 source or historical file should be silently overwritten.
