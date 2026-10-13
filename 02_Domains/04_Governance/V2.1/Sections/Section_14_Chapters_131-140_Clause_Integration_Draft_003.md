@@ -636,6 +636,25 @@ The principle is:
 Its use must preserve subsidiarity, representation, cultural context, practical rights, lawful delegation and the possibility of properly authorised constitutional evolution.
 
 <!-- END V2.1 INTEGRATED 132.12 — CANDIDATE 014 -->
+<!-- BEGIN V2.1 CHAPTER 132 OPERATIVE DEVELOPMENTAL READING — 2026-10-13 -->
+### Chapter 132 — Consolidated V2.1 reading and legacy-clause disposition
+
+**Working interpretation within V2.1, not constitutional graduation.** Where the retained original V2 wording in §§132.1–132.5 and 132.12 describes GTP as optional, merely a hierarchical territorial partition, or a source of nested governing rank, that wording is preserved above for provenance but **is not the operative developmental interpretation**. The corresponding integrated Candidate 014 clauses and subsequent authorial GTP mesh clarifications supply the current V2.1 working text.
+
+- **132.1:** GTP is the adopted conceptual multiresolution spatial mesh; every geometric subdivision level exists regardless of active operational coverage. Spatial parent/child does not create governing superiority.
+- **132.2:** GTP is foundational to the current spatial governance implementation, not to the source of rights or legitimacy. Properly authorised future spatial revision remains possible with continuity safeguards.
+- **132.3:** Geometry alone grants no jurisdiction or power; an independently legitimate mandate remains necessary.
+- **132.4:** Multiple scales may operate concurrently. Workload-responsive allocation changes operational coverage, not the conceptual tessellation; hysteresis controls churn.
+- **132.5:** Coordination and shared competence are different. Neither adjacency nor a wider triangle grants command over independent smaller contexts. Expanded virtual triads require three independently valid constituent resultants, not pooled nine-person votes; origin-included identity mapping remains subject to authorisation and source validation.
+- **132.12:** The integrated mesh principle supersedes the retained optional-framework summary for V2.1 developmental interpretation.
+
+**Conference interface:** Official Steward voting ordinarily proceeds in isolation. Conference is permissible only under independently legitimate bounded contextual authority, with CWA/CIBB information boundaries; it cannot merge constituent triads, appoint substitutes, revoke committed votes, or grant cross-jurisdictional power. See Stages 121–123.
+
+**Open within Chapter 132:** vertex/office identity mapping, constituent independence and appointment, legal common-competence formation, cross-constituent conference disclosure, and exact future spatial constitutional change process. Preserve these questions as flags, not reasons to omit current mesh architecture.
+
+This disposition does **not** delete the V2 baseline or imply final constitutional approval. It establishes which retained assertions are historical-source context rather than current working requirements.
+<!-- END V2.1 CHAPTER 132 OPERATIVE DEVELOPMENTAL READING -->
+
 <!-- BEGIN V2.1 CHAPTER 132 SOURCE-CONFLICT REGISTER — REVIEW REQUIRED -->
 
 ### Chapter 132 — Explicit reconciliation of retained V2 wording and recovered GTP architecture
