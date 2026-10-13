@@ -36,3 +36,21 @@ This map uses the V2.1 README and GTP recovery 001 for directly visible chapter 
 
 ## Source-resolution progress — chapter patch pass
 The complete preserved V2 canonical blob was retrieved for this pass. Chapter 12 begins at line 7228 and Chapter 132 at line 37720. Two targeted, non-adopted patch proposals are now in `Chapter_Patches/`: `Chapter 12 — G05 Triadic and Bounded Coordination Patch 005.md` and `Chapter 132 — GTP Mesh and Authority Separation Patch 006.md`. Both preserve the baseline and identify unresolved review points. This supersedes the earlier limitation that V2 chapter text had not been obtained; V1 full-text comparison and section assembly remain outstanding.
+
+## Actual sectional destinations — consolidation audit 13 October 2026
+
+The earlier table describes the **state when this map was first drafted**. Its 'proposed' and 'not chapter edit' statuses are superseded as placement descriptions by the following committed **developmental sectional integrations**; source/implementation verification remains open.
+
+| G05 interface | Current V2.1 chapter destinations | Placement status |
+| --- | --- | --- |
+| GTP mesh, shared competence, nonhierarchical spatial coordination | 12, 132, 149–151, 198 | Marked sectional integration committed; Chapter 132 retained-source conflict explicitly reconciled for developmental reading |
+| Triadic bounded voting, authority consumption, decision records | 9, 12, 54 | Marked sectional integration committed; conference, provisional-input and owner attestation details flagged |
+| Emergency mandate, temporary preservation and independent operational time | 24–30 | Marked sectional integration committed; constitutional owner review pending |
+| BTA partial effects, recovery, restoration and duties | 54–56, 60 | Marked sectional integration committed; actual transition-owner proof pending |
+| Custody, succession, orphaned obligations | 27, 56 | Marked sectional integration committed; authenticated custody acceptance pending |
+| Cumulative and distributed control | 57, with 25 and 150 interfaces | Marked sectional integration committed; thresholds remain non-normative |
+| Public/restricted information and owner attestations | 9, 54, 58 | Marked sectional integration committed; real CWA/CIBB enforcement unverified |
+| KCS dependency propagation, owner revalidation, clock pause | 26, 54–55, 59 | Marked sectional integration committed; operational feeds and execution proof pending |
+| Cross-context resource collisions and independent implementation authority | 59, 132, 149–151, 198 | Marked sectional integration committed; independent mandate checks required |
+
+**Coverage finding:** Every major G05 interface family identified in the original map now has a direct chapter placement. This is a *placement* audit, not a proof that all 070–091 test-specific details or every historical governance rule have been textually reconciled. The original V2 source is unchanged. Follow-on review should prioritise precise conflict resolution and source preservation, not another isolated G05 integration memo.
