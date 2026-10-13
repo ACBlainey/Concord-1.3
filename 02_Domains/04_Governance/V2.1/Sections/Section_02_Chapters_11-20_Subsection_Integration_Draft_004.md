@@ -1474,6 +1474,23 @@ The normal governance decision unit is a bounded triad. Its surrounding operatin
 **Degraded operation:** a failing, captured, isolated or vacant local triad may need neighbouring coordination, lawful substitution, independent review and continuity support. Such support must not silently inherit unlimited powers. Durable decision records belong in the appropriate Historical custody with evidence, dissent, authority basis, scope, outcome, effect and later corrections linked without overwriting the original. **[LOCAL ISSUE: recovery source describes rotation, election and degraded-operation mechanisms but does not settle all operational thresholds; retain them as integrated working architecture.]**
 <!-- END V2.1 INCORPORATE-FIRST RECOVERY CH12 -->
 
+
+<!-- BEGIN V2.1 EXPANDED TRIADIC SOURCE INCORPORATION 2026-10-14 -->
+### Chapter 12 — Recovered expanded triadic governance and continuity protocol
+
+**Direct incorporation from three Governance-domain sources:** `Expanded_Triadic_Governance_and_Continuity_Protocol_Reconstruction_001 (1).md`, `Expanded Triadic Governance — Reconstruction and Spatial Diagrams 001.md`, and `Expanded Triadic Governance — Validation and Source Reconciliation 002.md`. The first distinguishes **[V1] recovered**, **[AUTHOR] confirmed**, and **[PROPOSED]** material. That evidential distinction is retained here.
+
+**Constituent topology [AUTHOR].** For an originating triangle R with three edge-adjacent triangles A, B and C, the origin-excluded configuration has each neighbouring triangle's valid three-position triad decide independently. Their three resultants form a final virtual triad; R casts no resultant. The origin-included configuration uses three independently constituted mixed triads, **2 A + 1 R**, **2 B + 1 R**, **2 C + 1 R**, each producing one resultant. R does not acquire a fourth resultant or three additional final votes. The source's original vertex terminology is now read as a conceptual **GTP node**, without assuming co-location of physical offices.
+
+**No flat pooling [AUTHOR].** Consider A=(F,F,A), B=(F,F,A), C=(A,A,A). The constituent results are (F,F,A), so the final virtual result is F, although the nine individual ballots total four F and five A. Pooling the nine reverses the outcome and is not the recovered architecture. A constituent U remains U, not A. At both constituent and resultant stages, two matching valid F/A positions determine the substantive majority; incomplete provenance, host execution and remaining eligible official positions are separately managed.
+
+**Independent mandate and substitution [V1 / AUTHOR / PROPOSED].** The expanded configuration must be independently authorised for the actual decision and consequence field. Origin exclusion is relevant where R is implicated, conflicted or under review. Parallel Stewardship provides separately recorded advisory reasoning, not an extra official ballot. A vacant or legally recused office can be filled only through a distinct bounded substitute constitution; an abstention is not automatically a vacancy and must not be displaced merely to obtain a desired majority. An individual appearing across multiple constituent groups raises correlated-influence concerns. Recursive mesh expansion must retain three independently legitimate resultant positions and bounded stopping conditions, not silently centralise.
+
+**Scope-sensitive decisions [AUTHOR].** A widespread common hazard (for example, a hurricane) may justify shared evidence, warning and cross-region resource coordination without mandating one uniform policy. Where local impacts, resources, exposure or legitimate mandates differ, constituent contexts may take different bounded decisions. Common externalities and interdependent infrastructure require explicit coordination; spatial containment alone does not create superior jurisdiction.
+
+**[LOCAL SOURCE TENSION:]** V1's general language about retaining the originating triad with neighbours is broader than the author's later precise 2-neighbour-plus-1-origin mixed constituent arrangement. Both remain in provenance; the later reconstruction supplies the specific working topology. **[LOCAL OPEN ISSUES:]** eligibility of each mixed group, repeated persons, independence, compromised constituent triads, recursive frontier/stopping rule, decision-event receipts and substitution gates. Source audit cases T01–T14 are test *designs* and source reconciliation, not proof of implemented owner controls.
+<!-- END V2.1 EXPANDED TRIADIC SOURCE INCORPORATION 2026-10-14 -->
+
 # Chapter 13 — Stewardship Domains
 
 ## 13.1 Introduction
