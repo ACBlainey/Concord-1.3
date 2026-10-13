@@ -329,6 +329,14 @@ The authority to identify failure is distinct from authority to determine every 
 
 > **Every oversight mechanism is itself fallible and potentially capturable. Governance should therefore support escalation outside plausibly compromised mechanisms while avoiding infinite hierarchy, preserving distributed independence, practical challenge, review of oversight architecture and clear separation between identifying failure and owning the function being reviewed.**
 
+<!-- BEGIN V2.1 CROSS SOURCE DETAIL CH162 -->
+### Chapter 162 — Recursive oversight without sovereign reviewers
+
+**Source basis:** Constitutional Emergency V2 Chapter 254; Governance Operating Boundary and Authority Lifecycle §§14–20.
+
+Review mechanisms must themselves be bounded, contestable and reviewable; their existence cannot self-certify indefinite power. Escalate on evidence of capture, errors or systemic failure, not simply because a coarser GTP triangle exists. The reviewer's access and action authority remain separate. **[LOCAL ISSUE:]** independent reviewer appointment and recursive stopping boundary.
+<!-- END V2.1 CROSS SOURCE DETAIL CH162 -->
+
 # Chapter 163 — Governance and KCS
 
 ## 163.1 Knowledge Status
