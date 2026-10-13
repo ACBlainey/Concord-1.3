@@ -915,6 +915,14 @@ Reconciliation should preserve:
 
 A central record should not erase legitimate local emergency history merely because one branch later becomes dominant.
 
+<!-- BEGIN V2.1 EMERGENCY SOURCE RECOVERY CH35 -->
+### Chapter 35 — Communication failure and bounded local continuity
+
+**Recovered source:** Constitutional Emergency V2 Chapters 11–18, 131–165; G05 Existing State Machine/BTA Clock Emergency Interface 060.
+
+Loss of communications does not suspend the Constitution or create general local sovereignty. Where central or neighbouring contexts are unreachable, preserve already lawful local functions and minimum necessary protective operations within independently valid mandates. Record time, uncertainty, attempted contact, authority basis, actions and effects; reconcile conflicting decisions when communication returns. The Civilisation Clock may pause, so urgent emergency detection and operational deadlines require independently progressing operational time and state-machine triggers. **[LOCAL OPEN:]** degraded communication threshold, local activation authority and reconciliation order.
+<!-- END V2.1 EMERGENCY SOURCE RECOVERY CH35 -->
+
 # Chapter 36 — Emergency Constitutional Branching
 
 ## 36.1 Emergency Forks
