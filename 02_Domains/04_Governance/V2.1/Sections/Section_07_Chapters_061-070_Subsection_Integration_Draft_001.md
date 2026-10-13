@@ -2632,6 +2632,14 @@ These questions remain open.
 
 > **Stewardship requires the careful, impartial, transparent where appropriate, articulable, constitutionally loyal, accountable and correctable exercise of delegated authority in service of the responsibility entrusted to the office rather than the personal or institutional interests of the Steward.**
 
+<!-- BEGIN V2.1 LEGITIMATE FUNCTION SOURCE CH69 -->
+### Chapter 69 — Functional legitimacy audit and fiduciary justification
+
+**Source basis:** Legitimate Function and the Authority Justification Chain §§12–14,29–32 (research candidate, not adopted constitutional test).
+
+Apply the proposed ten-test legitimate-function audit: LF-01 upstream traceability to rights and civil objective; LF-02 non-circularity; LF-03 rights compatibility; LF-04 functional specificity; LF-05 demonstrable need; LF-06 proportionality; LF-07 alternative means; LF-08 current relevance; LF-09 non-self-perpetuation; LF-10 reviewability. A declared mission or an existing office cannot certify its own legitimacy. Failed tests initiate scrutiny, not automatic erasure of a potentially legitimate function whose records are incomplete. **[LOCAL ISSUE:]** Which owner formally assesses each test and how contested findings are appealed.
+<!-- END V2.1 LEGITIMATE FUNCTION SOURCE CH69 -->
+
 # Chapter 70 — Conflict of Interest
 
 ## 70.1 Conflict Does Not Automatically Mean Corruption
