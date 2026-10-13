@@ -34,3 +34,7 @@ Additional source-grounded, provisional chapter patches have been committed for 
 ## Chapter 132 retained-source conflict disposition — 13 October 2026
 
 Section 14 now includes an explicit **operative developmental reading** of §§132.1–132.5 and 132.12. Earlier V2 descriptions of GTP as merely optional or politically hierarchical remain preserved as source history but are explicitly superseded for the current V2.1 working interpretation by the authorially recovered conceptual mesh, independent competence and three-resultant virtual-triad architecture. Conference and unresolved mapping questions are flagged in place. This is not constitutional graduation or a change to the original V2 Canonical.
+
+## Legacy conflict reconciliation — Chapters 9, 12 and 54 — 13 October 2026
+
+Committed explicit **operative developmental reconciliation** inside Sections 01, 02 and 06, retaining older wording for provenance. Chapter 9 now distinguishes ordinary isolated official votes from independently authorised conference and immutable post-commit review. Chapter 12 makes the later authorial two-vote determinacy direction controlling over the historical provisional full-three quorum assumption, and flags a genuine **provisional-vote supersession versus immutable official ballot** conflict. Chapter 54 separates irrevocable official ballot commitment from revocable/supersedable implementation grants, mandates and subsequent decisions. Unresolved details are flagged within each chapter; original V2 Canonical remains unchanged.
