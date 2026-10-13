@@ -215,6 +215,14 @@ Patterns may reveal structural capture.
 
 > **Agenda control is a form of practical power because issues excluded from consideration cannot receive ordinary remedy. Governance should preserve accessible but bounded routes for citizens, Stewards and oversight systems to raise significant concerns while preventing overload, manipulation and hidden control over what civilisation is permitted to discuss.**
 
+<!-- BEGIN V2.1 V1 COMPONENT RECOVERY CH181 -->
+### Chapter 181 — Agenda control as governance capture
+
+**Recovered source:** V1 Governance Component Recovery Map G-R04,G-R09,G-R13; Governance Operating Boundary and Authority Lifecycle §§14–15.
+
+Control of intake, framing, admissible evidence, question wording, priority and scheduling can determine outcomes without casting a ballot. Preserve original civil submissions and rejected alternatives with provenance; require contestable reasons for classification and routing. Civilisation Clock priority must not change vote weight or permanently starve inconvenient matters. An agenda owner cannot transform procedural control into new substantive authority. **[LOCAL OPEN:]** independent priority review, anti-starvation and protected intake.
+<!-- END V2.1 V1 COMPONENT RECOVERY CH181 -->
+
 # Chapter 182 — Governance Capture Through Framing
 
 ## 182.1 Framing Power
