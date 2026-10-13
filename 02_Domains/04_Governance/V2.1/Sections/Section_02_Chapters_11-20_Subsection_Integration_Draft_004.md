@@ -1450,6 +1450,14 @@ The original portable module's collective deliberation capability remains possib
 **Unresolved within Chapter 12:** exact lawful substitution/return mechanism for non-official provisional inputs; source-specific forum eligibility; expanded origin-included mapping; cross-constituent conference disclosure and independence. Do not restore all-three quorum by default.
 <!-- END V2.1 OPERATIVE RECONCILIATION 2026-10-13 -->
 
+<!-- BEGIN V2.1 SOURCE RECOVERY 2026-10-13 CHAPTER 12 -->
+### Chapter 12 — GTP node terminology and candidate-ring disposition
+
+**Authorial terminology (035):** The operative governance term is **node**, meaning the abstract GTP point where triangle corners meet. Older *vertex* wording remains in preserved source text as an equivalent mathematical term, not a second mechanism. Each triangle owns its own Steward position at each of its three nodes; the physical office may be elsewhere within the triangle. A regular six-triangle node therefore has six separate positions, never a shared six-person voting body.
+
+**Ring construction (041, provisional beyond ring two):** The first candidate ring is the five other triangle-owned positions at the originating node; the second comprises the other two node-associated positions in each of those five triangles (ten nominal positions). For further rings, the node-centred discovery frontier considers all six incident triangles, excludes previously visited triangles, and discovers new triangles by full-edge adjacency. This replaces the earlier origin-excluded frontier as the preferred *provisional engineering method*, not as a constitutional requirement. Irregular nodes, seams, resolution boundaries and ring-three counts remain unresolved. At each authorised ring, eligibility is independently verified; one eligible holder is selected, two or more require an unbiased auditable draw. A contextually justified security exception may widen the search without granting emergency jurisdiction. The selected Steward fills one original position, not an additional vote.
+<!-- END V2.1 SOURCE RECOVERY 2026-10-13 CHAPTER 12 -->
+
 # Chapter 13 — Stewardship Domains
 
 ## 13.1 Introduction
