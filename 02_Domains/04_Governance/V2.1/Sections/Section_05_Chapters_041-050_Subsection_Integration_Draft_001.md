@@ -700,6 +700,14 @@ The constitutional objective should not be representation by substrate for its o
 
 It should be legitimate, capable, accountable Stewardship under the rights and standing actually recognised by the Constitution.
 
+<!-- BEGIN V2.1 CROSS SOURCE DETAIL CH43 -->
+### Chapter 43 — Multisubstrate emergency concern
+
+**Source basis:** Constitutional Emergency V2 Chapters 31–40 and multisubstrate emergency implications.
+
+Emergency preservation of life and continuity must account for human, AI and hybrid participants and their substrate-specific vulnerabilities without reducing constitutional concern to popularity, productivity or resource wealth. Biological injury, digital continuity loss, identity uncertainty, power/compute interruption and dependency may require different protective measures. Aggregate optimisation cannot erase concentrated irreversible harms. **[LOCAL ISSUE:]** substrate-specific triage, standing and privacy.
+<!-- END V2.1 CROSS SOURCE DETAIL CH43 -->
+
 # Chapter 44 — Governance Legitimacy
 
 ## 44.1 Legitimacy Is More Than Procedure
