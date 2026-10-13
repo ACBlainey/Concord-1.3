@@ -2886,6 +2886,14 @@ Periodic institutional review may therefore examine:
 
 > **Governance should evaluate institutions not only according to their formal mandate but according to the behaviour their funding, prestige, measurement, promotion, survival, information and authority structures predictably reward.**
 
+<!-- BEGIN V2.1 G05 CONSOLIDATION CHAPTER 57 -->
+### Chapter 57 — V2.1 G05 integration: Cumulative and distributed control
+
+**Developmental clause, unresolved interfaces retained:** Review successive restrictions and concurrent control across owners, domains and spatial resolutions to detect cumulative deprivation or de facto concentration. Exposure unions, uninterrupted intervals and concurrent-controller counts are review signals, not proof of illegality. Numerical fixture thresholds are not constitutional law. Any renewed mandate needs fresh lawful authority and proportionality assessment. G05 001 stages 084–087.
+
+**Unresolved:** actual owner attestation and executable enforcement, constitutional competence/thresholds and independent review remain subject to source validation; do not interpret fixture evidence as deployed authority.
+<!-- END V2.1 G05 CONSOLIDATION CHAPTER 57 -->
+
 # Chapter 58 — Governance and Cultural Variation
 
 ## 58.1 Constitutional Core and Cultural Diversity
