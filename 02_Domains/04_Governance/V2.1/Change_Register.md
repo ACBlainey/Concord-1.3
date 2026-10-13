@@ -16,3 +16,11 @@
 ## Progress update — 11 October 2026
 
 Additional source-grounded, provisional chapter patches have been committed for Chapters **28, 29, 30, 54, 100, 149, 150, 151, 198**. The older table entries marked 'review pending' are superseded for these chapters by this update. All remain ungraduated; complete ten-chapter sections are not yet assembled. Governance V2 Canonical is unchanged.
+
+## Progress update — 13 October 2026: voting and conference reconciliation
+
+- Stage 121 consolidates immutable single-use official votes, anonymous count-only projection, contextual acceptance and separate host execution; physical lock/room analogies are non-normative.
+- Stage 122 records authorial resolution: independent isolated voting is the ordinary default; legitimate contextual conference remains possible, including unforeseen circumstances. Conference does not confer authority or revise committed votes.
+- Stage 123 reconciles conference with expanded constituent triads, GTP substitution and shared-competence boundaries. No pooled nine-ballot decision, conference-created vacancy or jurisdiction by attendance.
+- Chapter 9 and Chapter 54 patches must incorporate Stages 121–123 as **developmental source reconciliation**; Chapters 28–30, 100, 132 and 149–151 must preserve their relevant boundaries. No original V2 Canonical modification or constitutional graduation is implied.
+- Unresolved: conference after partial commitment; preliminary position disclosure; owner of conference exception by decision class; cross-constituent correlated influence; real owner-controlled identity and authority enforcement.
