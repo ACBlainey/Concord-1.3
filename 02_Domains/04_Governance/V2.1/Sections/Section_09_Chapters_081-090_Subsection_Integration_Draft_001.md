@@ -2461,3 +2461,11 @@ This allows later revision.
 ## 90.11 Diagnosis Principle
 
 > **Governance should distinguish symptoms, proximate causes, root causes and interacting conditions before selecting correction. Diagnosis should remain open to uncertainty and multiple causal pathways and should resist institutional incentives to reduce systemic failure to convenient individual blame.**
+
+<!-- BEGIN V2.1 SOURCE DEEPENING CH90 -->
+### Chapter 90 — Diagnosis and source-specific failure causes
+
+**Recovered source:** V1 Governance Component Recovery Map G-R13; Governance Operating Boundary and Authority Lifecycle §§16–20.
+
+Investigate whether failure arises from invalid mandate, bad evidence, inappropriate framing, missing affected parties, coordinated capture, flawed procedure, execution defect, dependency loss or unanticipated effects. Mirrored alternative explanations should remain open until evidence differentiates them. Review must not equate minority dissent, abstention or an adverse outcome with guilt. **[LOCAL ISSUE:]** investigative access and independent diagnostic owner.
+<!-- END V2.1 SOURCE DEEPENING CH90 -->
