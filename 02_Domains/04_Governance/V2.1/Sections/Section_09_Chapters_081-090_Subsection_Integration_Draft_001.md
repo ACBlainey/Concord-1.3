@@ -454,6 +454,14 @@ Governance should therefore preserve accountability for administrative influence
 
 > **Routine administration is a constitutional interface between authority and everyday life. Administrative discretion should remain bounded and reviewable, administrative burden should not hollow out formal rights, and automation or staff expertise should not silently convert implementation into unaccountable policy authority.**
 
+<!-- BEGIN V2.1 LEGITIMATE FUNCTION SOURCE CH82 -->
+### Chapter 82 — Routine administrative authority and its bounds
+
+**Source basis:** Legitimate Function and the Authority Justification Chain §§18–19,24,26.
+
+Routine low-impact civil functions may use low-friction standing operational permissions where the lawful mandate, permitted action, information access, resource, duration and termination are clear. Routine status is not immunity from audit; material change in impact, rights, consent or context requires revalidation. The authority to investigate whether power is needed must itself be bounded and must not presume the investigative result. **[LOCAL ISSUE:]** routine/exceptional impact thresholds and investigative access.
+<!-- END V2.1 LEGITIMATE FUNCTION SOURCE CH82 -->
+
 # Chapter 83 — Appeals and Review Pathways
 
 ## 83.1 Why Appeals Matter
