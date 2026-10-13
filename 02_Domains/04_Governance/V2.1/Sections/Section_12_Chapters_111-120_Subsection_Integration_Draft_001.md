@@ -527,6 +527,14 @@ It does not create constitutional immunity.
 
 > **Legitimate secrecy may protect security, privacy and vulnerable operations, but secrecy should remain purpose-limited, proportionate, reviewable and subject to independent constitutional oversight. Restriction from public view must not become disappearance from accountability.**
 
+<!-- BEGIN V2.1 SOURCE DEEPENING CH113 -->
+### Chapter 113 — Secrecy, classification and time-limited access
+
+**Recovered source:** Constitutional Emergency V2 Chapters 107–130; Governance Operating Boundary and Authority Lifecycle §§15–18.
+
+Secrecy must be tied to demonstrable safety or privacy need, lawful owner, limited scope, effective interval, access review and eventual disclosure or lawful archival restriction. A confidentiality label cannot erase decision provenance or block independent oversight indefinitely. Emergency secrecy expires or requires fresh justification; disclosure must preserve protected participant records. **[LOCAL ISSUE:]** CWA projection classes, declassification and judicial review.
+<!-- END V2.1 SOURCE DEEPENING CH113 -->
+
 # Chapter 114 — Governance Security Against Internal Threats
 
 ## 114.1 Internal Threats
