@@ -2180,6 +2180,12 @@ The fixture's `review_required` condition is true when the duty or custody proje
 **Unresolved:** actual owner attestation and executable enforcement, constitutional competence/thresholds and independent review remain subject to source validation; do not interpret fixture evidence as deployed authority.
 <!-- END V2.1 G05 CONSOLIDATION CHAPTER 55 -->
 
+<!-- BEGIN V2.1 SOURCE RECOVERY 2026-10-13 CHAPTER 55 -->
+### Chapter 55 — BTA complete field contract and legacy mapping safeguards
+
+The graduated BTA portable contract defines **28 named fields**, materially optional except where a host profile requires them (Integration 068). A V2.1 host must distinguish omitted/irrelevant, unknown and materially required-but-missing, rather than demanding every field on every transition. The historical machine-readable YAML uses six differently named fields; mappings are *candidate semantic comparisons*, not automatic synonyms, especially externality review versus external consequence. Preserve original keys, values and provenance, quarantine ambiguous legacy conversions, and do not infer permission, restoration or discharge from transition status. Materially missing owner, scope, dependency or temporal proof blocks only the affected consequential step. Earlier small schema fixture tests do not establish complete BTA conformance. Actual owner attestations, durable transactional history and full field-level contract validation remain open.
+<!-- END V2.1 SOURCE RECOVERY 2026-10-13 CHAPTER 55 -->
+
 # Chapter 56 — Governance Accountability Architecture
 
 ## 56.1 Accountability Layers
