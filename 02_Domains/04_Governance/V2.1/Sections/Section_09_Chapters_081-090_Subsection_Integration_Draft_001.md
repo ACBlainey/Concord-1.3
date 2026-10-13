@@ -2275,6 +2275,14 @@ The answer may reveal a second failure in the detection architecture.
 
 > **Governance failure should be detectable through multiple practical channels, with particular attention to independence, weak signals, leading indicators and common-source dependence. Detection should trigger investigation rather than automatic guilt, and the system should examine failures of detection as seriously as the underlying event.**
 
+<!-- BEGIN V2.1 V1 COMPONENT RECOVERY CH89 -->
+### Chapter 89 — Governance failure detection without automatic condemnation
+
+**Recovered source:** V1 Governance Component Recovery Map G-R13; Governance Operating Boundary and Authority Lifecycle §§14–20.
+
+Detect both wrongful action and harmful inaction; watch for repeated abstention, unexplained procedural delay, evidence exclusion, correlated reasoning, unusual authority accumulation, information monopoly and persistent dependency. These are investigation triggers, not proof of wrongdoing. Preserve competing explanations, evidence available at the time and individual versus architectural causes. Distinguish governance-health monitoring from the independent authority to restrict or remove an officeholder. **[LOCAL OPEN:]** independently owned monitoring and escalation thresholds.
+<!-- END V2.1 V1 COMPONENT RECOVERY CH89 -->
+
 # Chapter 90 — Diagnosis
 
 ## 90.1 Symptoms and Causes
