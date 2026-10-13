@@ -472,6 +472,14 @@ Governance should observe whether crisis-created dependence becomes political le
 
 Economic rescue should not silently produce constitutional authority.
 
+<!-- BEGIN V2.1 CROSS SOURCE DETAIL CH32 -->
+### Chapter 32 — Emergency financial authority and recovery
+
+**Source basis:** Constitutional Emergency V2 Chapters 5–14, 31–40, 166–190.
+
+Financial emergency measures remain function-specific: exceptional expenditure, guarantees, procurement and redistribution require identifiable threat, competence, evidence, scope, affected rights, audit and termination. An emergency classification is not a blanket appropriation or permanent economic mandate. Financial liabilities, compensation and surviving contracts remain part of recovery even after operational danger ends. **[LOCAL ISSUE:]** budget owner, disbursement execution and post-emergency accounting.
+<!-- END V2.1 CROSS SOURCE DETAIL CH32 -->
+
 # Chapter 33 — Infrastructure Continuity
 
 ## 33.1 Critical Infrastructure
