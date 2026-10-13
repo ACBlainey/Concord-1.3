@@ -391,6 +391,14 @@ It may represent genuine learning.
 
 > **Governance should treat problem definition as part of the decision architecture because framing can silently constrain available solutions, values and evidence. High-consequence issues should be capable of reframing, alternative definition and non-binary analysis before the initial formulation becomes hidden policy.**
 
+<!-- BEGIN V2.1 LEGITIMATE FUNCTION SOURCE CH182 -->
+### Chapter 182 — Framing and manufactured civil problems
+
+**Source basis:** Legitimate Function and the Authority Justification Chain §§5–7,14–16.
+
+The first frame may conceal the actual civil problem. An institution may present resistance caused by its own restrictions as new instability or more detected minor violations as evidence for expanded surveillance. Preserve original observations, rights impacts, alternative causal explanations and proposed remedies. Where the authority materially creates the condition used to justify expansion, require independent examination. **[LOCAL ISSUE:]** independent framing challenge and feedback attribution.
+<!-- END V2.1 LEGITIMATE FUNCTION SOURCE CH182 -->
+
 # Chapter 183 — Governance Capture Through Metrics
 
 ## 183.1 Metric Authority
