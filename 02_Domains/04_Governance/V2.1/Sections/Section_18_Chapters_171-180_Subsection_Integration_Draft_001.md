@@ -1223,6 +1223,14 @@ Governance should determine whether an accumulating-power loop:
 
 > **Authority, reputation, contribution, wealth, information, AI capability and institutional responsibility can each generate recursive accumulation. Governance should preserve beneficial competence while preventing the actor benefiting from a loop from obtaining exclusive control over the evidence or process used to justify its continued expansion.**
 
+<!-- BEGIN V2.1 V1 COMPONENT RECOVERY CH176 -->
+### Chapter 176 — Authority accumulation through feedback
+
+**Recovered source:** Governance Operating Boundary and Authority Lifecycle §§10–15,19–20.
+
+Examine the causal chain from a lawful initial intervention through newly generated data, metrics, dependency, requests for expanded resources and subsequent grants. A policy's own outputs cannot independently certify its necessity or continuation. Audit cumulative capability across credentials, infrastructure and domain grants, not only each isolated permission. Require independent evidence and bounded successor-function justification before renewed authority. **[LOCAL OPEN:]** aggregate control graph and independent audit access.
+<!-- END V2.1 V1 COMPONENT RECOVERY CH176 -->
+
 # Chapter 177 — Self-Certifying Authority
 
 ## 177.1 Definition
