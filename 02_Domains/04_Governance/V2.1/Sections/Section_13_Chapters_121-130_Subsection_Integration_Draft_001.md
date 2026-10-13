@@ -1050,6 +1050,14 @@ Responsibility should follow the actual architecture of:
 AI advice and epistemic triads provide evidence and uncertainty, not extra governance votes. Technical capability and recommendations do not confer authority. The Steward remains responsible for articulate decisions and evidence provenance. **[LOCAL ISSUE:]** Protected data, AI identity and evidence audit.
 <!-- END V2.1 SOURCE RECOVERY SECTION 13 CH126 -->
 
+<!-- BEGIN V2.1 EPISTEMIC SOURCE CH126 -->
+### Chapter 126 — AI consensus and common-mode dependency
+
+**Source basis:** Epistemic Independence, Contestability and Provenance §§6–9,17,50.
+
+Thousands of model responses may reflect one shared dataset, architecture or training assumption. Count independent evidential pathways rather than output volume; preserve dissent, uncertainty, calibration and challenge. AI analysis may justify attention or investigation but cannot become a vote or authority claim without separate lawful office mandate. **[LOCAL ISSUE:]** dependency-aware convergence and model disclosure.
+<!-- END V2.1 EPISTEMIC SOURCE CH126 -->
+
 # Chapter 127 — Governance and AI Decision Authority
 
 ## 127.1 Automated Decisions
