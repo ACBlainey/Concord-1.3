@@ -656,6 +656,13 @@ Its use must preserve subsidiarity, representation, cultural context, practical 
 
 <!-- END V2.1 CHAPTER 132 SOURCE-CONFLICT REGISTER -->
 
+
+<!-- V2.1 INTEGRATION 2026-10-13: AUTHORIAL SOURCE RECONCILIATION; DEVELOPMENTAL; REVERSIBLE -->
+## 132.x — V2.1 integration: mesh, constituent decisions and contextual conference
+
+GTP levels coexist as a conceptual multiresolution spatial mesh; geometric parent/child is not governance hierarchy. Expanded triads retain independently authorised three-resultant composition. Conference may support information coordination in an independently justified context but cannot manufacture cross-triangle competence, substitute eligibility or a new vote. A cross-jurisdictional binding action requires a lawful common-competence mandate; emergency preservation has its own authority and operational timing. See Integrations 051–052, 059–060 and 121–123.
+<!-- END V2.1 INTEGRATION 2026-10-13 -->
+
 # Chapter 133 — Governance and Mars
 
 ## 133.1 Mars as Application
