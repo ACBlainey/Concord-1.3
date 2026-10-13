@@ -2918,3 +2918,11 @@ Dependency should inform dissolution design without creating institutional immor
 ## 80.13 Institution Creation Principle
 
 > **New institutions should be created for identifiable constitutional purposes with bounded authority, accountable operation, reviewable continuation and a viable path to reform, replacement or dissolution. Institutional existence does not become self-justifying merely through longevity, usefulness or dependency.**
+
+<!-- BEGIN V2.1 LEGITIMATE FUNCTION SOURCE CH80 -->
+### Chapter 80 — Institutional creation and functional redundancy
+
+**Source basis:** Legitimate Function and the Authority Justification Chain §§8–11,20–23.
+
+Before establishing an institution, show that its function follows from a rights-relevant problem and legitimate civil objective; compare ordinary voluntary or consensual performance, existing institutional capability and competing means. Functional redundancy may improve resilience but can also duplicate authority, obscure accountability or manufacture institutional survival interests. A created institution receives only independently justified, bounded mandates; existence is not proof of need. **[LOCAL ISSUE:]** institutional establishment/termination authorisation and redundancy assessment.
+<!-- END V2.1 LEGITIMATE FUNCTION SOURCE CH80 -->
