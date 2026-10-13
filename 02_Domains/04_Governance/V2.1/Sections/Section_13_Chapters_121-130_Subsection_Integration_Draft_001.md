@@ -343,6 +343,14 @@ Minority reasoning should still be evaluated substantively.
 
 > **Minority reasoning should remain visible as constitutional and epistemic information even when a lawful majority decision proceeds. Minority protection does not create universal veto, but majority success cannot override foundational constitutional constraints merely by numerical force.**
 
+<!-- BEGIN V2.1 CROSS SOURCE DETAIL CH122 -->
+### Chapter 122 — Minority reasoning and dissent
+
+**Source basis:** V1 Governance Component Recovery Map G-R03,G-R13; Expanded Triadic Governance Reconstruction 001.
+
+Preserve the third Steward's independent reasoning and dissent even after two matching valid official ballots determine the result. Dissent and abstention are evidence about uncertainty, alternatives and governance health, not disloyalty or automatic incompetence. Parallel Stewardship remains advisory absent independent mandate. **[LOCAL ISSUE:]** protected dissent projections and later review.
+<!-- END V2.1 CROSS SOURCE DETAIL CH122 -->
+
 # Chapter 123 — Governance and Future Generations
 
 ## 123.1 Representation Without Direct Participation
