@@ -2535,6 +2535,14 @@ The operational principle is:
 
 > **Accountability should follow the actual exercise, delegation, implementation, supervision and review of authority. No participant should gain immunity merely because responsibility has been distributed across enough people, institutions or automated systems to make the chain difficult to see.**
 
+<!-- BEGIN V2.1 G05 CONSOLIDATION CHAPTER 56 -->
+### Chapter 56 — V2.1 G05 integration: Custody and surviving obligations
+
+**Developmental clause, unresolved interfaces retained:** Duty custody requires authenticated lawful transfer, beneficiary protections, provenance and acceptance. A nominated successor or Civil Contact referral is not an authorised custody assignment. When no valid owner accepts, preserve an orphan record and refer without claiming closure. Restoration of function does not extinguish unresolved compensation, privacy, remediation or archival duties. G05 001 stages 081–083; G05 Custody Reconciliation 002.
+
+**Unresolved:** actual owner attestation and executable enforcement, constitutional competence/thresholds and independent review remain subject to source validation; do not interpret fixture evidence as deployed authority.
+<!-- END V2.1 G05 CONSOLIDATION CHAPTER 56 -->
+
 # Chapter 57 — Governance and Institutional Incentives
 
 ## 57.1 Institutions Have Behaviour
