@@ -213,6 +213,14 @@ Current benevolence is not a complete privacy safeguard.
 
 > **Governance data should be collected, linked, retained, accessed and analysed only according to legitimate constitutional purpose, with attention to accuracy, correction, aggregation, derived information, future misuse and the fact that data infrastructure can outlive the institutions that originally justified it.**
 
+<!-- BEGIN V2.1 EPISTEMIC SOURCE CH111 -->
+### Chapter 111 — Evidence versioning and dependent decision review
+
+**Source basis:** Epistemic Independence, Contestability and Provenance §§4–5,22–23,46–49.
+
+Record source, method, collection time, transformations, assumptions, confidence by claim, challenge history, model version and decisions that used the evidence. If material evidence is withdrawn or weakened, search dependencies and flag affected decisions for separately authorised review; do not automatically cancel or rewrite past votes. Provenance supports auditability but is not proof of truth. **[LOCAL ISSUE:]** dependency index, protected records and owner-triggered review.
+<!-- END V2.1 EPISTEMIC SOURCE CH111 -->
+
 # Chapter 112 — Surveillance
 
 ## 112.1 Surveillance Capability
