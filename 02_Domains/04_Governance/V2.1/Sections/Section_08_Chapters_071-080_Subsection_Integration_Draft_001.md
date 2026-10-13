@@ -2397,6 +2397,14 @@ An emergency should not permanently collapse Governance into only the immediate 
 
 > **Governance should examine consequences across the time horizons relevant to the decision, resisting both short-term incentives that externalise costs into the future and speculative long-term claims that justify disproportionate harm in the present.**
 
+<!-- BEGIN V2.1 SOURCE DEEPENING CH78 -->
+### Chapter 78 — Time horizons and non-starvation
+
+**Recovered source:** V1 Governance Component Recovery Map G-R09; Constitutional Emergency V2 Chapters 7–10; G05 Variable Civilisational Clock 059.
+
+The variable Civilisation Clock orders ordinary governance transitions but cannot be assumed to tick during emergencies. Record ageing and unresolved duration; priority classes affect order, not substantive vote weight. Urgent operations need independently progressing time and bounded state-machine activation; repeated deferral cannot indefinitely silence unpopular matters. **[LOCAL ISSUE:]** operational timer, urgency evidence, priority ageing and resumption reconciliation.
+<!-- END V2.1 SOURCE DEEPENING CH78 -->
+
 # Chapter 79 — Reversibility and Optionality
 
 ## 79.1 Preserving Options
