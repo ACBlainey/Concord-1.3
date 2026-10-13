@@ -1453,6 +1453,14 @@ Exit rate is therefore evidence requiring interpretation.
 
 > **Exit can protect autonomy only where exit is practically possible. Governance should examine economic, social, technical, identity, infrastructure and data dependencies that can turn nominal choice into lock-in, while preserving the principle that fundamental constitutional protections do not disappear merely because a person might theoretically leave the system.**
 
+<!-- BEGIN V2.1 V1 COMPONENT RECOVERY CH119 -->
+### Chapter 119 — Exit, office vacancy and continuing obligations
+
+**Recovered source:** V1 Governance Component Recovery Map G-R11–G-R12; Stewardship Selection and Allocation README §13.
+
+A participant's exit, a Steward's resignation and an office's vacancy are distinct states. Withdrawal does not retroactively invalidate committed ballots or automatically discharge existing lawful obligations. Identify outstanding duties, their custody, surviving remedies, and the separately constituted actor authorised to continue them. A shadow Steward, neighbouring triad or coarser GTP context does not automatically inherit office. Temporary continuity requires bounded mandate, provenance and termination. **[LOCAL OPEN:]** contractual survival, officeholder incapacity, contested exit and duty reassignment.
+<!-- END V2.1 V1 COMPONENT RECOVERY CH119 -->
+
 # Chapter 120 — Governance Rights in Practice
 
 ## 120.1 Formal and Practical Rights
