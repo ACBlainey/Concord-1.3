@@ -6016,6 +6016,12 @@ Every role should identify the authority actually granted.
 
 AI involvement should not be inferred from capability alone.
 
+<!-- BEGIN V2.1 V1 GOVERNANCE RECOVERY CH18 -->
+### Chapter 18 — Judiciary, epistemics and Historical separation
+
+**Recovered source:** `GTP Spatial Triadic Governance — V1.2 Architecture Recovery 001.md`, §§15–17. Governance chooses among legitimate civil actions; Judiciary adjudicates disputes, legality and constitutional boundaries. Their shared triadic method does not merge their institutional functions. Epistemic triads and GTP evidence meshes supply independent information, not votes or governance mandates. Historical holds durable decision provenance, not the authority to make decisions. Significant governance decisions should preserve GTP context, decision scope, authority source, participating positions, material qualification/conflicts, evidence and uncertainty, nonofficial preliminary positions where lawfully recorded, committed official ballots, dissent/abstention, outcome, implementation effects and review conditions. Protected information is retained under its own contextual access rules. **[LOCAL ISSUE:]** Disclosure of preliminary reasoning and conference content must not compromise official voting isolation, protected data or future independent reviews.
+<!-- END V2.1 V1 GOVERNANCE RECOVERY CH18 -->
+
 # Chapter 19 — Governance Capture and Power Separation
 
 ## 19.1 Formal Separation Is Not Enough
@@ -6240,6 +6246,12 @@ Likewise:
 This may eventually produce de facto AI governance without an explicit constitutional decision to create it.
 
 Governance should not permit a change of constitutional regime to occur merely through accumulated convenience.
+
+<!-- BEGIN V2.1 V1 GOVERNANCE RECOVERY CH19 -->
+### Chapter 19 — Steward selection, independence and anti-entrenchment
+
+**Recovered source:** `GTP Spatial Triadic Governance — V1.2 Architecture Recovery 001.md`, §§9 and 19A. The original source does **not** establish a universal public election, sortition or superior-ruler appointment mechanism. Steward candidacy, qualification, current eligibility, selection/allocation, appointment, mandate, decision-specific authority, monitoring, rotation, recall/suspension/removal and succession are separate stages. A triadic governance vote is not a public election. Office does not confer personal ownership of authority. Conflicts can require recusal or lawful substitution; dissent from a majority is not by itself recall grounds. Routine actions within an existing mandate need not be resubmitted to a fresh triad, while materially out-of-mandate acts require renewed lawful authorisation. Persistent identical triad composition risks coalition capture: rotation and common-source dependence must be considered without destroying continuity or institutional memory. Emergency succession does not become permanent appointment by default. **[LOCAL ISSUE:]** Selector, rotation intervals, recall thresholds, qualification owners and vacancy fallback remain unfinalised; no conventional electoral method is imported by assumption.
+<!-- END V2.1 V1 GOVERNANCE RECOVERY CH19 -->
 
 # Chapter 20 — Whistleblowing, Challenge and Internal Correction
 
@@ -6496,3 +6508,9 @@ Reuse `03_Cross_Domain_Architecture/Stewardship_Selection_and_Allocation/README.
 ### Chapter 12 — Unique decision identifiers and state-gated voting (12 October 2026)
 
 **Authorial rule:** Each decision is a unique state-machine instance with a unique decision identifier. Every official vote is attributed to that identifier and its one legitimate voting position; acceptance is conditional on the current vote/decision state. A previously accepted vote cannot be cast again as a second vote after its state transition, and a decided/completed event cannot accept repeated ballots that recreate its substantive outcome. Later third-Steward information is provenance, not a new deciding vote or a reopened event. Resultant actions likewise reference the decision and their own execution states; repeated requests cannot reproduce a completed consequence. A new question, including a fresh decision on a historical issue, receives a new identifier and independently activated authority. Duplicate delivery and simultaneous submissions require atomic state validation and durable recording; the ID by itself is not a security token or authority grant. Earlier speculative event-boundary complexities should not be read as permission to reuse a completed decision.
+
+<!-- BEGIN V2.1 V1 GOVERNANCE RECOVERY CH20 -->
+### Chapter 20 — Protected correction, dissent and challenge during triadic governance
+
+**Recovered source:** `GTP Spatial Triadic Governance — V1.2 Architecture Recovery 001.md`, §§1A, 15–18, 19A. Steward dissent and abstention must be preserved as attributable governance evidence and diagnostic signals, not punished as disloyalty. Failure or capture of a local triad can trigger independent challenge, adjacent coordination and separately legitimate review without manufacturing a superior political office. Corrective decisions and later evidence must be linked to the original immutable decision record, not silently overwrite committed votes or Historical provenance. The ability to produce evidence, challenge an outcome or hold archival custody does not grant executive authority. **[LOCAL ISSUE:]** Emergency degraded-action threshold, provisional review time, protection for dissenters and owner-level correction interfaces require separate specification; this does not prevent inclusion of the original safeguards.
+<!-- END V2.1 V1 GOVERNANCE RECOVERY CH20 -->
