@@ -688,6 +688,23 @@ GTP levels coexist as a conceptual multiresolution spatial mesh; geometric paren
 The current authorial vocabulary calls a shared abstract GTP corner a **node** (035); retained historical *vertex* is geometrically equivalent and remains unchanged in source quotations and filenames. Each triangle has three distinct triangle-owned node-associated Steward positions. The node is not a physical office address, and six incident triangles do not form a six-member government. The current provisional outward substitute-ring method (041) uses all incident triangles as the discovery frontier from ring three onward to avoid origin-dependent geometry. Rings one and two retain the five and ten nominal-position constructions; ring-three counts are topology-dependent. This is a candidate selection geometry only, not jurisdiction, voting authority, or a compulsory governance level. Actual mesh seams, irregular node degree and cross-resolution rules remain open.
 <!-- END V2.1 SOURCE RECOVERY 2026-10-13 CHAPTER 132 -->
 
+
+<!-- BEGIN V2.1 GTP SOURCE FULL INCORPORATION CH132 -->
+### Chapter 132 — Persistent GTP geometry and concurrent governance activation
+
+**Incorporated source:** `02_Domains/04_Governance/GTP Spatial Triadic Governance — V1.2 Architecture Recovery 001.md`, authorial clarifications of 10 October 2026 and recovered V1–V1.2 geometry.
+
+The complete recursive GTP spatial lattice is conceptually present at all resolutions. Each triangle has **four** geometrical children (including the central inverted triangle), while an activated triangle's governance unit has **three** separate node-associated Steward positions. These are different structures: a 4:1 geometric subdivision is not a three-branch political voting hierarchy. Every triangle can simultaneously be a whole, a child at a finer-scale reference, a parent of four finer triangles and a same-layer neighbour. **Parent/child refers to geometry, not governance rank.**
+
+A change in active governance resolution does **not** create, destroy, subdivide or consolidate geometric triangles. It reallocates stewardship functions among **already-existing** contexts. Fine and coarse resolutions may be simultaneously active for different legitimate tasks, and multiple non-identical or overlapping areas may coordinate. Larger-scale coordination is not a promotion to sovereignty; a finer context is not an exclusive ruler of all functions in its footprint.
+
+**Capacity-responsive activation:** Select governance resolution by sustained workload and competence, not population alone. Population, activity, infrastructure, resources, transaction volume, complexity and externalities are relevant inputs. When a triad's sustained workload exceeds competent capacity, activate finer existing contexts with separately legitimate Steward allocations. When workload falls sufficiently and a coarser context can competently handle the remaining duties, reallocate to that context without erasing mandates, local standing, records or unresolved obligations. Use hysteresis (an upper refinement threshold distinct from a lower consolidation threshold and/or persistence requirements) to prevent oscillation.
+
+**Mesh coordination:** A problem may call for lateral coordination, cross-resolution coordination, functional referral, constitutional review or separately authorised expansion of authority. These are distinct events. Geometric adjacency, containment and overlap do not confer permissions or political supremacy. Identify each affected mandate, material consequence area, participant standing, domain competence and implementation owner.
+
+**[LOCAL OPEN ISSUES:]** Numeric workload thresholds and persistence windows; asymmetric activation across four child contexts; Steward selection/allocation and officeholder continuity on reallocation; handling mesh seams and mixed-resolution node incidence; independent cross-context consent and anti-capture checks. These do not delay incorporation of the persistent-lattice, simultaneous-scale and nonhierarchical architecture.
+<!-- END V2.1 GTP SOURCE FULL INCORPORATION CH132 -->
+
 # Chapter 133 — Governance and Mars
 
 ## 133.1 Mars as Application
