@@ -1793,3 +1793,11 @@ They should not become substitutes for actual constitutional judgement.
 ## 120.18 Rights in Practice Principle
 
 > **A constitutional right should be evaluated not only by whether it exists in formal text but by whether a person can understand, access, exercise, defend and remedy it within practical conditions. Dependency, cost, delay, retaliation, information asymmetry, automation and infrastructure can hollow out rights without formally repealing them.**
+
+<!-- BEGIN V2.1 LEGITIMATE FUNCTION SOURCE CH120 -->
+### Chapter 120 — Rights-relevant problem rather than disfavoured difference
+
+**Source basis:** Legitimate Function and the Authority Justification Chain §§5–10,16,28.
+
+Observed difference, dissent, unusual clothing or unpopular private belief is not itself a rights-relevant civil problem. Governance intervention requires a demonstrable connection to harm, denied civil access, autonomy interference or a legitimate voluntarily requested function. Rights conflicts require explicit balancing, evidence, consent and less intrusive alternatives, not simple optimisation of public convenience. **[LOCAL ISSUE:]** rights review and evidentiary thresholds.
+<!-- END V2.1 LEGITIMATE FUNCTION SOURCE CH120 -->
