@@ -1425,6 +1425,12 @@ Relevant questions include:
 A substitute occupies one lawfully vacant bounded decision position, not an additional vote. A conference cannot create a vacancy, reverse a committed ballot, select a substitute without lawful eligibility and selection, or grant a fresh mandate. Recusal and proven unavailability must be distinguished from valid abstention; the latter is not automatically vacancy. The vertex-adjacent and context-controlled fractal candidate pools retain their independently authorised screening, unbiased selection and audit requirements. The late third ballot remains separately recordable while eligible. See Integrations 022, 031, 115 and 121–123.
 <!-- END V2.1 INTEGRATION 2026-10-13 -->
 
+<!-- BEGIN V2.1 CE-V2 HISTORICAL SOURCE RECOVERY CHAPTER 28 -->
+### Chapter 28 — Constitutional Emergency V2 declaration and classification interface
+
+**Recovered source:** `03_Cross_Domain_Architecture/Constitutional_Emergency/Constitutional Emergency V2.md`, Chapters 19–30 and 41–60. Emergency recognition, declaration, activation of a particular power and exercise of that power are separate events with separately reviewable evidence. False positives, false negatives, manufactured declarations and disputed assessments must remain distinguishable; classification can change as evidence changes. The five emergency levels (local, regional, civilisational, planetary and existential) classify **operational threat scope**, not governance rank or authority. A Level V existential threat does not create absolute powers. Compound and cascading failures may span multiple domains and substrates; AI-caused and AI-affected emergencies are distinct, and due process is not removed by substrate. GTP scales identify affected contexts, never automatic jurisdiction. Record threat evidence, independent issuer competence, declaration, contested assessments, timebase and expiry. **Unresolved:** lawful classification/declaration owner and thresholds, emergency triad constitution and cross-domain consent; no automated detection may silently adjudicate.
+<!-- END V2.1 CE-V2 HISTORICAL SOURCE RECOVERY CHAPTER 28 -->
+
 # Chapter 29 — Degraded Triads
 
 ## 29.1 Triadic Failure
