@@ -2549,6 +2549,12 @@ The operational principle is:
 **Unresolved:** actual owner attestation and executable enforcement, constitutional competence/thresholds and independent review remain subject to source validation; do not interpret fixture evidence as deployed authority.
 <!-- END V2.1 G05 CONSOLIDATION CHAPTER 56 -->
 
+<!-- BEGIN V2.1 CE-V2 EXTENDED RECOVERY CHAPTER 56 -->
+### Chapter 56 — Isolation, reconnection and succession in constitutional continuity
+
+**Constitutional Emergency V2 §§131–165:** Local institutions may continue exercising their already-lawful functions during communications isolation. Delay, including interplanetary latency, is not automatically constitutional failure. Isolation cannot manufacture sovereignty or a standing successor. On reconnection, preserve original decisions and evidence, reconcile conflicting commitments and rights impacts through independently competent owners, and review without presuming that every isolated action was wrongful. Distributed constitutional records need integrity and authenticity; a valid cryptographic hash proves unchanged bytes, not truth or lawful authority. Backup copies and machine-readable representations are not automatically the controlling constitutional source. Succession requires defined trigger, eligibility, scope, duration, records and lawful acceptance. AI state recovery and forking introduce distinct identity/continuity questions, not merely infrastructure duplication. **Open:** actual offline owner attestations, conflict arbitration, AI identity reconciliation and cross-planetary time semantics.
+<!-- END V2.1 CE-V2 EXTENDED RECOVERY CHAPTER 56 -->
+
 # Chapter 57 — Governance and Institutional Incentives
 
 ## 57.1 Institutions Have Behaviour
