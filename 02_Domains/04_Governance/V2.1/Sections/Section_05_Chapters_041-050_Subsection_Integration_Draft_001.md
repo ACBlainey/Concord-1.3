@@ -1365,6 +1365,14 @@ This right may be limited where security or investigation legitimately requires 
 
 The limitation itself should remain reviewable.
 
+<!-- BEGIN V2.1 EMERGENCY SOURCE RECOVERY CH46 -->
+### Chapter 46 — Emergency truthfulness, privacy and public communication
+
+**Recovered source:** Constitutional Emergency V2 Chapters 14–18; Governance Operating Boundary and Authority Lifecycle §§16–18.
+
+Emergency communications should prioritise factual accuracy, operational clarity, acknowledged uncertainty, accessibility, realistic expectations and timely correction. Manipulative reassurance or propaganda is not a legitimate substitute for public understanding. Public trust does not mean mandatory agreement or compliance. Publish the lawful basis and scope of restrictions where safe, while retaining narrowly justified privacy and operational secrecy subject to review and expiry. **[LOCAL OPEN:]** information-owner projection and secrecy exception procedures.
+<!-- END V2.1 EMERGENCY SOURCE RECOVERY CH46 -->
+
 # Chapter 47 — Governance Security
 
 ## 47.1 Security Protects Governance
