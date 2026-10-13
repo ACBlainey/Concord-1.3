@@ -235,6 +235,14 @@ The underlying constitutional function remains the real objective.
 
 > **Constitutional Metrics should make practical alignment, concentration, rights accessibility, emergency persistence, institutional independence and other constitutional conditions visible without converting diagnostic indicators into automatic constitutional truth.**
 
+<!-- BEGIN V2.1 EPISTEMIC SOURCE CH102 -->
+### Chapter 102 — Epistemic metric provenance and feedback
+
+**Source basis:** Epistemic Independence, Contestability and Provenance §§4–8,20,32–35.
+
+Governance metrics require claim-level definitions, collection methods, proxies, model dependencies, uncertainty and independent contestability. A provenance-complete record can still be wrong; metric convergence from shared inputs is not independent corroboration. Track forecast calibration, false positives and negatives, capture through measurement or publication, and consequences of using the metric. **[LOCAL ISSUE:]** metric owner and independent calibration.
+<!-- END V2.1 EPISTEMIC SOURCE CH102 -->
+
 # Chapter 103 — Governance and the Concord Library
 
 ## 103.1 Historical Concept
