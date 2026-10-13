@@ -1690,6 +1690,13 @@ Governance should therefore observe practical concentration over time.
 
 > **Decentralisation should distribute authority, capability and infrastructure where this improves resilience, autonomy and local knowledge, while recognising that local systems can also fail through capture, inequality or inability to manage wider externalities. Subsidiarity means the lowest competent level, not the lowest level regardless of capability.**
 
+
+<!-- V2.1 INTEGRATION 2026-10-13: AUTHORIAL SOURCE RECONCILIATION; DEVELOPMENTAL; REVERSIBLE -->
+## 149.x — V2.1 integration: decentralised conference and common competence
+
+Neighbouring GTP regions may confer to share information without merging jurisdictions. Voluntary contributions remain within each owner's mandate; binding common action requires separately established shared competence. Neither attendance nor majority preference can bind an independent nonparticipant. See Integrations 051–052 and 123.
+<!-- END V2.1 INTEGRATION 2026-10-13 -->
+
 # Chapter 150 — Governance and Central Coordination
 
 ## 150.1 Legitimate Central Functions
