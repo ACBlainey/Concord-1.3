@@ -1735,6 +1735,14 @@ Local resilience should not require total isolation.
 
 The objective is the ability to continue essential operation during disruption.
 
+<!-- BEGIN V2.1 SOURCE DEEPENING CH48 -->
+### Chapter 48 — Governance resilience and distributed competence
+
+**Recovered source:** V1 Governance Component Recovery Map G-R02A,G-R02B,G-R11,G-R14.
+
+Resilience requires replacing unavailable actors and functions without making any one office, node, institution or infrastructure indispensable. GTP geometric scales coexist; activating a different governance resolution is not creating or destroying triangles or automatically transferring jurisdiction. Record duty custody and temporary authorisations through disruption. **[LOCAL ISSUE:]** distributed quorum, replacement eligibility, outage and reconciliation procedures.
+<!-- END V2.1 SOURCE DEEPENING CH48 -->
+
 # Chapter 49 — Governance and Civilisational Scale
 
 ## 49.1 Scaling the Architecture
