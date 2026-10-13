@@ -6515,6 +6515,25 @@ A valid official ballot is an authenticated, one-use authority-consuming state t
 **Unresolved within Chapter 9:** competent conference exception owner; preliminary position disclosure; conference after partial commitment; exact privacy projection and authority-enforcement interfaces. These do not prevent applying the settled isolation, commitment and result rules.
 <!-- END V2.1 OPERATIVE RECONCILIATION 2026-10-13 -->
 
+
+<!-- BEGIN V2.1 TRIADIC PORTABLE MODULE FULL CORE INCORPORATION -->
+### Chapter 9 — Portable triadic decision module: core process and source-specific disposition
+
+**Incorporated source:** `04_Portable_Modules/Triadic Decision Making Module.md`, §§1–22. This portable source is a general-purpose decision architecture; its earlier deliberation and voting descriptions are preserved here with explicit interfaces to later V2.1 authorial rules.
+
+**Why three and what the module can achieve.** A triad reduces dependence on one actor's incomplete knowledge, bias, fatigue, capture or error, without claiming that three members are inherently correct. A small unit allows independent judgement, identifiable responsibility, dissent, majority determinacy and repeated practical use without committee-scale overhead. It does **not** guarantee independence, correct evidence, absence of correlated error, legitimacy, diversity or wise outcomes. Its application outside Concord Governance—including Judiciary, organisations, research, AI governance and emergency management—does not transfer Governance's specific authority.
+
+**Portable sequence incorporated:** (1) define the precise proposed state change, (2) identify its lawful authority and bounds, (3) constitute three independently eligible positions, (4) supply substantially equivalent decision-relevant information with provenance and uncertainty, (5) independently reason about evidence, alternatives, harms and benefits, (6) preserve any lawfully recorded *nonofficial* preliminary assessments, (7) allow deliberation **only if separately authorised by the decision context**, (8) independently commit one immutable official ballot per position, (9) determine F/A substantive majority from valid ballots without counting abstention as opposition, (10) preserve dissent, abstention and reasons subject to privacy, (11) refer unresolved competence, jurisdiction, evidence or rights issues through separately lawful procedures, and (12) record implementation and later review.
+
+**Decision states and the meaning of action.** Two valid matching For positions establish an affirmative substantive result; two valid matching Against positions establish rejection. For/Against/Abstain/Unresolved are different states. A 1 For / 1 Against / 1 Abstain configuration has no substantive majority and supplies no new authority for the proposed state change. Stopping an existing activity can itself be a state-changing action; therefore neither a negative ballot nor a proposal phrased as 'stop' is intrinsically passive. No-majority conservatism guards against unauthorised action, but persistent inability to act is itself a governance-health signal and may justify independently authorised reconsideration or coordination.
+
+**Information and learning.** Preserve decision-event identity, decision question, mandate, evidence quality, contemporaneous uncertainty, alternatives, expected consequences, official positions, abstention/dissent reasons, separately authorised implementation, review triggers and actual effects. Analyse repeated abstentions, minority concerns, information deficiencies, capture and both failures of restraint and failures to act. Review changes the subsequent lawful response; it does not retroactively edit a committed official ballot.
+
+**[LOCAL SOURCE CONFLICT:]** Portable Module §§4–6 and §18 describe a default independent-position → collective deliberation → final-vote sequence and suggest preliminary-position comparison. Later Governance authorial architecture requires **default isolated official voting**, with conference only when separately context-authorised. Preliminary deliberative positions, where used, are not official authority-consuming ballots; no authorised conference may expose committed official choices for revocation. The portable source's phrase 'higher authority' in §11 means only independently competent functional, constitutional or spatial coordination—not an automatic GTP political hierarchy.
+
+**[LOCAL IMPLEMENTATION DEPENDENCIES:]** Authority-verified constituent constitution, contextual information isolation, decision-event identity, actual commit receipts and execution grants, protected record custody, evidence quality, and domain-specific rules for provisional reasoning remain owner-system work. None of these unresolved gates excludes the recovered portable process from V2.1.
+<!-- END V2.1 TRIADIC PORTABLE MODULE FULL CORE INCORPORATION -->
+
 # Chapter 10 — Governance, Metrics and Behavioural Feedback
 
 ## 10.1 Metrics Are Evidence, Not Objectives
