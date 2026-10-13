@@ -1618,6 +1618,12 @@ Emergency Governance should therefore consider independence of information as we
 A degraded triad does not automatically become a conference, an expanded forum or an emergency body. Two independently valid matching official F/A ballots can determine a result without the third occupied position; whether acceptance proceeds early remains context-dependent. An unavailable or recused position can be filled only by separately lawful, bounded substitution. A valid abstention cannot be silently replaced. Remaining voting authority is not consumed by another Steward's commitment or by the count-only projection. See Integrations 031, 048, 110, 121–123.
 <!-- END V2.1 INTEGRATION 2026-10-13 -->
 
+<!-- BEGIN V2.1 CE-V2 HISTORICAL SOURCE RECOVERY CHAPTER 29 -->
+### Chapter 29 — Constitutional Emergency V2 stewardship and automation safeguards
+
+**Recovered source:** Constitutional Emergency V2, Chapters 61–90. Emergency Stewardship is fiduciary operational responsibility, not political elevation. Capability, specialist expertise, information, participation and measured performance do not confer authority; metrics are sensors rather than rulers. Triadic independent reasoning, dissent and cause-specific abstention remain important under compressed tempo; parallel Stewardship, succession and temporary delegation require independently valid mandates. A person being present does not alone constitute meaningful human oversight of automation. Machine detection must not silently become machine adjudication. Emergency infrastructure, vendor dependence, economic control and code changes are capture vectors requiring independent review. **Unresolved:** enforceable delegation, fallback and automated-action gates, secure decision records, independent owner oversight and substitution eligibility.
+<!-- END V2.1 CE-V2 HISTORICAL SOURCE RECOVERY CHAPTER 29 -->
+
 # Chapter 30 — Emergency Abstention and Decision Failure
 
 ## 30.1 Abstention During Emergency
