@@ -288,6 +288,14 @@ Expertise evidence should preserve relevant version provenance.
 
 > **Governance requires expertise but must not convert expertise into sovereignty. Expert contribution should be evaluated according to domain relevance, evidence, methods, uncertainty, conflicts, demonstrated competence and practical performance while preserving the distinction between factual expertise and legitimate authority to decide contested constitutional values.**
 
+<!-- BEGIN V2.1 EPISTEMIC SOURCE CH71 -->
+### Chapter 71 — Dependency-aware epistemic independence
+
+**Source basis:** Epistemic Independence, Contestability and Provenance §§2,6–9,15–17.
+
+Expertise has evidential weight but never sovereign power. Different institutions or AIs may share the same data, model, funding, assumptions, source, infrastructure or governance control; apparent convergence should be discounted for common-mode dependencies. Independence does not require isolation, but known dependency, diversity and contestability. Preserve minority evidence without treating all objections as equally valid. **[LOCAL ISSUE:]** independence assessment and confidential dependency metadata.
+<!-- END V2.1 EPISTEMIC SOURCE CH71 -->
+
 # Chapter 72 — Citizen Participation
 
 ## 72.1 Governance Is Not Merely Administration
