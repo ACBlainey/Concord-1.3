@@ -1224,6 +1224,14 @@ It makes provider dependency a constitutional issue.
 
 > **Automated systems may legitimately execute or, where explicitly authorised and validated, decide within bounded domains, but increasing capability or routine reliance must not silently transform technical function into constitutional authority. Where human oversight is claimed, the human must possess the practical capacity and authority to exercise real judgement.**
 
+<!-- BEGIN V2.1 V1 COMPONENT RECOVERY CH127 -->
+### Chapter 127 — AI capability is not decision authority
+
+**Recovered source:** Governance Operating Boundary and Authority Lifecycle §§3,8,16,23; V1 Governance Component Recovery Map G-R01,G-R03.
+
+The architecture separates substrate capability, permission, participant standing, function-specific competence, lawful appointment, mandate and decision-event authority. AI analysis can be decisive evidence without itself becoming a fourth Steward vote or an unappointed substitute. Where an AI is independently qualified and legitimately appointed to an authorised office, its vote follows the same context-specific official-ballot rules; no generic algorithmic delegation can shortcut those gates. **[LOCAL OPEN:]** actual AI office eligibility, continuity identity, accreditation and role-specific host enforcement.
+<!-- END V2.1 V1 COMPONENT RECOVERY CH127 -->
+
 # Chapter 128 — Governance and AI Constitutional Standing
 
 ## 128.1 Standing Is Separate From Utility
