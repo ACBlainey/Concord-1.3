@@ -1847,3 +1847,10 @@ The valid vote determines the relevant decision state; the actual emergency deci
 ### Chapters 28–30 — Emergency decision IDs and non-repeatable resultant actions (12 October 2026)
 
 **Authorial rule:** An emergency decision has its own unique decision identifier and host-owned state-machine lifecycle. Emergency votes and resultant actions are bound to that instance and the applicable position/action state. After a permitted transition, a replayed vote, duplicate command or repeated delivery cannot count again or reproduce a completed action. Multiple independently lawful downstream actions of one decision remain distinguishable by their own action identity and state; asynchronous partial completion does not license re-execution of a completed action. A later emergency change, remedy or renewed response is a new decision instance with a new identifier and freshly activated lawful authority. Emergency event handling, duplicate checks and expiry run independently of a paused Civilisation Clock. Technical requirements for atomic state acceptance and durable receipts remain implementation matters, not new emergency authority.
+
+
+<!-- V2.1 INTEGRATION 2026-10-13: AUTHORIAL SOURCE RECONCILIATION; DEVELOPMENTAL; REVERSIBLE -->
+## 30.x — V2.1 integration: abstention, emergency and new decisions
+
+For, Against and Abstain are distinct official single-use immutable ballot states. A valid abstention is not a vacancy or a negative vote. Unresolved arithmetic is not automatically emergency authority; emergency preservation needs its own lawful function, minimum scope, independent operational time, expiry, review and restoration. Later concerns or appeals do not reopen the completed decision; any replacement has a new identity and fresh authority. The Civilisation Clock may pause, but independent emergency state machines cannot wait for it. See Integrations 059–060, 115 and 121–123.
+<!-- END V2.1 INTEGRATION 2026-10-13 -->
