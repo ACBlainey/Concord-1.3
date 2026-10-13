@@ -845,6 +845,14 @@ These conflicts should not be ignored merely because the AI was originally deplo
 
 > **AI may become Governance infrastructure without formal authority. Critical dependence should therefore be monitored for provider leverage, expertise atrophy, common-source failure, inability to operate in degraded mode and de facto authority accumulation. Operational indispensability does not itself create sovereignty.**
 
+<!-- BEGIN V2.1 SOURCE DEEPENING CH125 -->
+### Chapter 125 — AI dependency and effective power
+
+**Recovered source:** Governance Operating Boundary and Authority Lifecycle §§14–15,19–20.
+
+Dependence on one model, provider or compute infrastructure creates possible de facto governance power without formal votes. Preserve independent alternatives and exit routes; assess aggregate technical control and covert agenda, evidence or execution capture. **[LOCAL ISSUE:]** portability and continuity.
+<!-- END V2.1 SOURCE DEEPENING CH125 -->
+
 # Chapter 126 — Governance and AI Advice
 
 ## 126.1 Advisory AI
