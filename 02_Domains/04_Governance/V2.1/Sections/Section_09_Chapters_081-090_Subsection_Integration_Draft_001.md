@@ -805,6 +805,14 @@ Its purpose is to address failure of the reviewing architecture itself.
 
 > **Governance requires both review and finality. Appeal architecture should correct material error through accessible and proportionate pathways while preserving operational closure, except where new evidence, constitutional failure or compromised review creates a sufficiently strong reason to reopen the matter.**
 
+<!-- BEGIN V2.1 CROSS SOURCE DETAIL CH83 -->
+### Chapter 83 — Appeal and review do not rewrite committed ballots
+
+**Source basis:** V1 Governance Component Recovery Map G-R13–15; Governance Operating Boundary and Authority Lifecycle §18.
+
+A review may examine validity, rights, evidence, implementation and remedy without altering the historical official vote. If new action is justified it needs its own authority and event. Judiciary review, governance correction and Historical custody have distinct functions. **[LOCAL ISSUE:]** review competence and remedies.
+<!-- END V2.1 CROSS SOURCE DETAIL CH83 -->
+
 # Chapter 84 — Complaints
 
 ## 84.1 Complaint Mechanisms
@@ -1482,6 +1490,14 @@ AI systems should remain subject to:
 ## 87.11 Trust Principle
 
 > **Public trust should emerge from observable competence, honesty, constitutional behaviour, accountability and correction. Trust is contextual evidence that may support delegation, but neither trust, popularity nor historical success independently creates constitutional authority.**
+
+<!-- BEGIN V2.1 CROSS SOURCE DETAIL CH87 -->
+### Chapter 87 — Public trust through correction
+
+**Source basis:** Constitutional Emergency V2 Chapters 14–18; Governance Operating Boundary and Authority Lifecycle §§16–19.
+
+Public trust is not obedience. Truthful communication acknowledges uncertainty, errors and dissent; subsequent correction preserves original evidence. Manipulative reassurance and self-certifying institutional claims are capture risks. **[LOCAL ISSUE:]** disclosure/privacy and independent contestation.
+<!-- END V2.1 CROSS SOURCE DETAIL CH87 -->
 
 # Chapter 88 — Governance Failure Taxonomy
 
