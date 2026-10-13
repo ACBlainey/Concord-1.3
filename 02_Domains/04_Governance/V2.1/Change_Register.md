@@ -42,3 +42,7 @@ Committed explicit **operative developmental reconciliation** inside Sections 01
 ## G05 direct sectional consolidation — 13 October 2026
 
 Committed ten additional source-preserving, marked G05 developmental chapter integrations: Chapters **24–27** in Section 03 and **55–60** in Section 06. These bring bounded emergency declaration/preservation, independent operational time, BTA partial effects, custody/orphaned duties, KCS and owner evidence, cumulative/distributed control, protected records and cross-context resource coordination into their actual V2.1 chapter locations. Original V2 source text remains intact. The G05 standalone document remains provenance/interface evidence, not the sole architecture location. Owner implementation, real attestations, legal thresholds and independent constitutional review are flagged in-section rather than used to postpone consolidation.
+
+## G05 source-to-rule placement audit — 13 October 2026
+
+Updated `G05 — Governance Source-to-Rule Integration Map 004.md` with actual chapter destinations for all nine original interface families. Each has at least one committed developmental V2.1 sectional placement. This closes the **major-family placement** gap only; it does not certify exhaustive historical migration, executable owner contracts, individual fixture-to-clause traceability, or constitutional graduation.
