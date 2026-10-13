@@ -3650,3 +3650,9 @@ The principle is to avoid unnecessarily making future decisions impossible.
 
 **Unresolved:** actual owner attestation and executable enforcement, constitutional competence/thresholds and independent review remain subject to source validation; do not interpret fixture evidence as deployed authority.
 <!-- END V2.1 G05 CONSOLIDATION CHAPTER 60 -->
+
+<!-- BEGIN V2.1 CE-V2 EXTENDED RECOVERY CHAPTER 60 -->
+### Chapter 60 — Recovery completion and institutional sunset
+
+**Constitutional Emergency V2 §§166–190:** Recovery is a constitutional phase, beginning during response and extending beyond the cessation of danger. Automatic return to ordinary Governance, Judiciary and rights exercise is the default; emergency delegations and temporary institutions expire rather than being promoted by crisis. Restoration must examine accessible rights in practice, courts and cases, infrastructure, property, contracts, data, secrecy, psychosocial impacts and AI continuity. A green dashboard does not prove restoration, and a resumed service does not discharge outstanding individual duties. Emergency-collected data and restricted records require retention/disclosure review; original mistakes remain in Historical with linked correction. Reconstruction is not permission for unrelated political redesign. **Open:** domain-specific restoration criteria, custody/compensation owners, contract unwinding and actual termination enforcement.
+<!-- END V2.1 CE-V2 EXTENDED RECOVERY CHAPTER 60 -->
