@@ -93,6 +93,12 @@ They should not automatically justify permanent constitutional change.
 
 Permanent lessons discovered during emergency conditions should enter the ordinary constitutional development process after the emergency where practical.
 
+<!-- BEGIN V2.1 CE-V2 EXTENDED RECOVERY CHAPTER 21 -->
+### Chapter 21 — Emergency change classification and constitutional anti-capture
+
+**Constitutional Emergency V2 §§225–244:** Repository write access, protocol maintenance and technical capability are not constitutional amendment authority. Distinguish refactoring, operational change, policy change, constitutional amendment and constitutional replacement by **substantive effect**, not the label attached to a commit. Emergency procedures may be adapted temporarily within lawful scope; emergency authority must not entrench unrelated permanent amendments or rewrite its own limiting principles. A successful pilot is evidence, not legitimacy; the Ratchet and Historical preserve learning without converting past emergency practice into current power. Superseded protocols retain provenance; correction does not erase the original. **Open:** constitutional amendment thresholds, emergency exceptions, owner-controlled deployment and archival status projections.
+<!-- END V2.1 CE-V2 EXTENDED RECOVERY CHAPTER 21 -->
+
 # Chapter 22 — Constitutional Development
 
 ## 22.1 The Constitution Is a Living Architecture
