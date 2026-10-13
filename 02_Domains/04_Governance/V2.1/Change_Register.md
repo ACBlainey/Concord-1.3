@@ -54,3 +54,7 @@ Committed marked in-chapter reconciliations from Integration 035, 041, 056 and 0
 ## PH-02 and Phase D4 direct clause recovery — 13 October 2026
 
 Chapter 24, Section 03 now directly incorporates recovered PH-02 §§2–20 and Phase D4 §§11–12: eight-field Emergency Authority Envelope, three distinct legitimacy/activation/exercise gates, advisory/directive/compulsory and separate criminalisation boundaries, context-sensitive deviation, bidirectional reality correction, minimum sufficient interference, decision compression under urgency, sunset, standing, restoration and differentiated remedy. Retains source provenance and flags consent, issuer, enforcement, challenge and implementation questions. No new power or GTP hierarchy inferred.
+
+## Constitutional Emergency V2 cross-domain recovery — 13 October 2026
+
+Directly committed marked developmental clauses in Section 03 Chapters **28–30** using `03_Cross_Domain_Architecture/Constitutional_Emergency/Constitutional Emergency V2.md` as the source: Chapters 19–30 and 41–60 for declaration, contested/false emergency and operational classifications; Chapters 61–90 for fiduciary, triadic and automation/anti-capture safeguards; Chapters 91–106 for rights-preserving restrictions, scarcity, surveillance and restoration. These are selective source-derived chapter placements, **not a claim that the entire 128k-character emergency source is exhaustively migrated**. Constitutional owner and real implementation checks remain open; no powers are enacted.
