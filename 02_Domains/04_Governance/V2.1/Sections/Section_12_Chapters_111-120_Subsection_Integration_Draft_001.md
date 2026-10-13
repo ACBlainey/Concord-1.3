@@ -1273,6 +1273,14 @@ Constitutional protections therefore place substantive limits upon legitimate co
 
 > **Governance possesses coercive capacity and should therefore examine both direct and hidden coercion. Legitimate coercion requires lawful purpose, necessity, proportionality and review, while dependency, infrastructure control, algorithms or economic leverage must not be allowed to disguise coercion as purely voluntary choice.**
 
+<!-- BEGIN V2.1 CROSS SOURCE DETAIL CH118 -->
+### Chapter 118 — Coercion requires separate necessity
+
+**Source basis:** Governance Operating Boundary and Authority Lifecycle §§4–10,17–22; Constitutional Emergency V2 Chapters 1–14.
+
+A legitimate objective does not automatically require compulsory authority: consider voluntary consent, information, coordination and less intrusive means first. Coercion must be lawful, demonstrably necessary, proportionate, limited, reviewable and terminated when function ends. Emergency severity is not an independent coercion grant. **[LOCAL ISSUE:]** rights tests and judicial remedies.
+<!-- END V2.1 CROSS SOURCE DETAIL CH118 -->
+
 # Chapter 119 — Practical Exit
 
 ## 119.1 Exit as a Constitutional Safeguard
