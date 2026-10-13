@@ -205,6 +205,14 @@ and:
 
 > **Governance should preserve distinctions between records and truth, expertise and infallibility, current status and finality, history and operation, provenance and ownership, contribution and responsibility, metrics and objectives, models and reality, and evidence and decision. These boundaries reduce category errors that can otherwise become hidden routes to authority.**
 
+<!-- BEGIN V2.1 SOURCE DEEPENING CH211 -->
+### Chapter 211 — Knowledge boundary and uncertainty
+
+**Recovered source:** V1 Governance Component Recovery Map §§1–8.
+
+Distinguish observations, interpretations, simulations, recovered sources, authorial clarification and adopted authority. Missing source is not proof of absence; preserve competing versions. **[LOCAL ISSUE:]** exhaustive source-to-clause audit.
+<!-- END V2.1 SOURCE DEEPENING CH211 -->
+
 # Chapter 212 — Governance Development Boundary
 
 Governance V2 should distinguish:
