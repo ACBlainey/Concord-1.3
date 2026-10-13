@@ -890,6 +890,14 @@ Classification itself is a judgement under uncertainty.
 
 It should not be treated as permanent fact.
 
+<!-- BEGIN V2.1 G05 CONSOLIDATION CHAPTER 25 -->
+### Chapter 25 — V2.1 G05 integration: Temporary protection and restoration
+
+**Developmental clause, unresolved interfaces retained:** Emergency preservation must remain temporary, independently justified and reviewable; it does not create permanent constitutional competence or displace independent triadic decision authority. Renewal requires a new lawful decision, current evidence and cumulative exposure review, not an automatic extension. Recovery, restoration and closure are separate claims, each requiring appropriate owner evidence; unresolved duties survive emergency exit. G05 001 stages 079–087.
+
+**Unresolved:** actual owner attestation and executable enforcement, constitutional competence/thresholds and independent review remain subject to source validation; do not interpret fixture evidence as deployed authority.
+<!-- END V2.1 G05 CONSOLIDATION CHAPTER 25 -->
+
 # Chapter 26 — Emergency Declaration
 
 ## 26.1 Declaration
