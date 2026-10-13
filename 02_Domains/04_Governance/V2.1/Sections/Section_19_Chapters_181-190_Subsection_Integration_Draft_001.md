@@ -1413,6 +1413,14 @@ What should not persist automatically is:
 
 > **Emergency Governance requires exceptional speed and sometimes exceptional authority, but those same conditions create powerful routes to capture through fear, secrecy, infrastructure, dependency and normalisation. Emergency powers should therefore remain purpose-specific, time-limited, reviewable and actively relinquished as normal Governance is restored.**
 
+<!-- BEGIN V2.1 CROSS SOURCE DETAIL CH188 -->
+### Chapter 188 — Emergency capture and expiry
+
+**Source basis:** Constitutional Emergency V2 Chapters 5–14,41–50,211–244.
+
+Emergency classification and urgency can be exploited to extend power. Every grant requires specific necessity, time bounds, independent review and de-escalation. The institution exercising emergency authority cannot alone certify its continued necessity; recovery and ordinary governance must return. **[LOCAL ISSUE:]** independent renewal and sunset owner.
+<!-- END V2.1 CROSS SOURCE DETAIL CH188 -->
+
 # Chapter 189 — Governance Capture Through Security
 
 ## 189.1 Security Secrecy
