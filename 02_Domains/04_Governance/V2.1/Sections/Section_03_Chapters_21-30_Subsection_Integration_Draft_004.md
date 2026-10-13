@@ -1921,3 +1921,9 @@ The valid vote determines the relevant decision state; the actual emergency deci
 
 For, Against and Abstain are distinct official single-use immutable ballot states. A valid abstention is not a vacancy or a negative vote. Unresolved arithmetic is not automatically emergency authority; emergency preservation needs its own lawful function, minimum scope, independent operational time, expiry, review and restoration. Later concerns or appeals do not reopen the completed decision; any replacement has a new identity and fresh authority. The Civilisation Clock may pause, but independent emergency state machines cannot wait for it. See Integrations 059–060, 115 and 121–123.
 <!-- END V2.1 INTEGRATION 2026-10-13 -->
+
+<!-- BEGIN V2.1 CE-V2 HISTORICAL SOURCE RECOVERY CHAPTER 30 -->
+### Chapter 30 — Constitutional Emergency V2 rights and restorative limits
+
+**Recovered source:** Constitutional Emergency V2, Chapters 91–106, together with Phase D4 §§11–12. Rights remain presumptively active; a threat classification does not itself grant quarantine, evacuation, resource reallocation, surveillance, identity control or triage authority. Each restriction requires its own lawful activation and proportionality/least-interference analysis, affected-holder standing, review and remedy. Scarcity must not reduce equal concern for participants to their productivity or prior contribution; equivalent claims may require fair randomisation under a separately legitimate protocol. Emergency surveillance and identity processing remain purpose-bounded and data-minimising. Emergency exit ends exceptional authority but not surviving custody, correction, compensation or restoration duties. **Unresolved:** exact lawful rights limitation thresholds, protected data implementations, review routes and substrate-specific protections.
+<!-- END V2.1 CE-V2 HISTORICAL SOURCE RECOVERY CHAPTER 30 -->
