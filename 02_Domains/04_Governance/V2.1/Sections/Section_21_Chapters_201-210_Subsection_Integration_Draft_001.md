@@ -2053,3 +2053,11 @@ and
 ## 210.12 Governance Continuity Boundary Principle
 
 > **Persons, offices, institutions, functions and constitutional principles should remain conceptually distinct so civilisation can preserve legitimate capability while allowing individuals to leave, offices to move, institutions to die and implementations to change. Continuity should protect constitutional function, not institutional immortality.**
+
+<!-- BEGIN V2.1 SOURCE DEEPENING CH210 -->
+### Chapter 210 — Continuity without institutional perpetuation
+
+**Recovered source:** Constitutional Emergency V2 Chapters 166–190,245–260.
+
+Constitutional functions and duties survive office replacement; an institution's survival is not the civil objective. Successors require independent authority and records; emergency powers do not persist by inertia. **[LOCAL ISSUE:]** duty ledger and sunset.
+<!-- END V2.1 SOURCE DEEPENING CH210 -->
