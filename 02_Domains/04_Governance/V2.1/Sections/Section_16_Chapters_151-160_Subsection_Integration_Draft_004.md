@@ -161,6 +161,13 @@ The principle is:
 
 > **Federation should allocate responsibility across nested levels according to consequence, competence and shared constitutional purpose. Higher layers may coordinate genuine common problems while local residual authority remains meaningful, and jurisdiction conflicts should be resolved constitutionally rather than through automatic upward expansion.**
 
+
+<!-- V2.1 INTEGRATION 2026-10-13: AUTHORIAL SOURCE RECONCILIATION; DEVELOPMENTAL; REVERSIBLE -->
+## 151.x — V2.1 integration: federated coordination and bounded authority
+
+Conference and federation are not synonyms. Information sharing, voluntary coordinated execution, binding common competence and emergency preservation require distinct legitimacy checks. Expanded virtual-triad arithmetic does not create federal jurisdiction. Each owner retains authority, expiry, review and remedy boundaries. See Integrations 051–052 and 123.
+<!-- END V2.1 INTEGRATION 2026-10-13 -->
+
 # Chapter 152 — Governance and Cultural Autonomy
 
 ## 152.1 Cultural Self-Organisation
