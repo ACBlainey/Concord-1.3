@@ -3064,6 +3064,14 @@ Branching should preserve shared foundational protections where those protection
 
 > **The Concord should preserve lawful cultural diversity and local experimentation while maintaining constitutional protections that prevent culture, tradition or majority preference from becoming an unlimited source of authority over individuals or minorities.**
 
+<!-- BEGIN V2.1 G05 CONSOLIDATION CHAPTER 58 -->
+### Chapter 58 — V2.1 G05 integration: Authenticated owner evidence and privacy
+
+**Developmental clause, unresolved interfaces retained:** Governance cannot infer authority from fixture booleans, self-reported status or technical capability. Obtain live owner-issued scope, expiry and validity evidence before consequential commit. CWA/CIBB protect a single authoritative record and issue only legitimate projections; public visibility must not expose restricted beneficiary, Steward or deliberation data. In-memory models are not deployed privacy or custody enforcement. G05 001 stages 070–075, 091.
+
+**Unresolved:** actual owner attestation and executable enforcement, constitutional competence/thresholds and independent review remain subject to source validation; do not interpret fixture evidence as deployed authority.
+<!-- END V2.1 G05 CONSOLIDATION CHAPTER 58 -->
+
 # Chapter 59 — Governance and Peaceful Coexistence
 
 ## 59.1 Coexistence as a Governance Objective
