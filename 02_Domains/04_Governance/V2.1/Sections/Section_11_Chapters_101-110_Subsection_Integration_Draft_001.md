@@ -1817,6 +1817,14 @@ The architecture should match the function.
 
 > **Governance infrastructure should be treated as part of constitutional architecture because control, modification, failure or dependency of physical and digital systems can alter practical authority and rights even without formal legal change. Critical infrastructure should remain auditable, resilient, recoverable and resistant to undeclared sovereignty through dependency.**
 
+<!-- BEGIN V2.1 EMERGENCY SOURCE RECOVERY CH109 -->
+### Chapter 109 — Infrastructure continuity and independent recovery
+
+**Recovered source:** Constitutional Emergency V2 Chapters 131–190; Governance Operating Boundary and Authority Lifecycle §§14–15.
+
+Infrastructure control is operational capability, not general constitutional authority. Emergency maintenance, backup, failover and restoration must distinguish custody, authorisation, execution and evidence of actual service recovery. A cryptographically valid receipt proves only the stated event, not the factual correctness of the underlying claim. Restoration includes rights, records, service access, remedy and discharge of surviving obligations, not merely a return to uptime. **[LOCAL OPEN:]** infrastructure-owner attestation, emergency transition and cross-domain recovery.
+<!-- END V2.1 EMERGENCY SOURCE RECOVERY CH109 -->
+
 # Chapter 110 — Governance Technology
 
 ## 110.1 Technology Changes the Feasible Governance Space
