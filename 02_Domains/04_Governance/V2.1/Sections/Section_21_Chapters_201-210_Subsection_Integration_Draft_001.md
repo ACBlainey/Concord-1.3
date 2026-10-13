@@ -638,6 +638,14 @@ Simulation, experiment, comparison and field evidence remain necessary where app
 
 > **Governance should act with enough confidence to make necessary decisions while preserving enough epistemic humility to recognise uncertainty, model limitation, dissent, surprise and unknown failure. Legitimate authority to decide does not imply certainty, and reality must remain capable of correcting empirical assumptions embedded in Governance.**
 
+<!-- BEGIN V2.1 CROSS SOURCE DETAIL CH204 -->
+### Chapter 204 — Epistemic humility in governance
+
+**Source basis:** Governance Operating Boundary and Authority Lifecycle §§16–20; Constitutional Emergency V2 Chapters 14–18,254–256.
+
+Uncertainty is a recordable condition, not a licence for arbitrary confidence. Preserve rival explanations, counterevidence, model limitations, assumptions and consequences; treat apparent consensus from shared evidence sources cautiously. An adverse result does not retrospectively prove earlier reasoning misconduct. **[LOCAL ISSUE:]** independent evidence review and calibration.
+<!-- END V2.1 CROSS SOURCE DETAIL CH204 -->
+
 # Chapter 205 — Governance and Constitutional Humility
 
 ## 205.1 No Final Generation
