@@ -1565,6 +1565,13 @@ It helps prevent category confusion.
 
 <!-- END G05 SOURCE INTERFACES AND LIMITATIONS -->
 
+
+<!-- V2.1 INTEGRATION 2026-10-13: AUTHORIAL SOURCE RECONCILIATION; DEVELOPMENTAL; REVERSIBLE -->
+## 198.x — V2.1 integration: jurisdiction and conference
+
+A Steward's attendance at conference does not delegate their jurisdiction or waive protected rights. GTP location and scale identify contexts, not command rank. Binding shared decisions require explicit lawful competence; exceptional conference and urgent conditions do not create it. See Integrations 051–052 and 122–123.
+<!-- END V2.1 INTEGRATION 2026-10-13 -->
+
 # Chapter 199 — Governance and Cross-System Disagreement
 
 ## 199.1 Systems May Disagree
