@@ -608,6 +608,14 @@ They should trigger investigation rather than replace constitutional judgement.
 Metrics inform judgement but cannot replace constitutional legitimacy. Improvement on safety or efficiency does not justify displaced rights; examine gaming, exclusions, denominators and provenance. **[LOCAL ISSUE:]** Independent metric contestation.
 <!-- END V2.1 SOURCE RECOVERY SECTION 19 CH183 -->
 
+<!-- BEGIN V2.1 EPISTEMIC SOURCE CH183 -->
+### Chapter 183 — Claim capture and confidence laundering
+
+**Source basis:** Epistemic Independence, Contestability and Provenance §§13–14,20,30,39–40.
+
+Capture can occur at agenda, measurement, model, access, credential, publication, commission or provenance layers. A high-confidence label on a report may conceal weak causal or authority claims. Distinguish the C0–C7 claim chain and test shared-source dependency before treating consensus or forecast metrics as constitutional justification. **[LOCAL ISSUE:]** independent claim challenge and protected disclosure.
+<!-- END V2.1 EPISTEMIC SOURCE CH183 -->
+
 # Chapter 184 — Governance Capture Through Reputation
 
 ## 184.1 Reputation as Shortcut
