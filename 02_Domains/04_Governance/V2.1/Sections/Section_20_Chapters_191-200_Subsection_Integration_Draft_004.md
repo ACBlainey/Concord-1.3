@@ -1572,6 +1572,12 @@ It helps prevent category confusion.
 A Steward's attendance at conference does not delegate their jurisdiction or waive protected rights. GTP location and scale identify contexts, not command rank. Binding shared decisions require explicit lawful competence; exceptional conference and urgent conditions do not create it. See Integrations 051–052 and 122–123.
 <!-- END V2.1 INTEGRATION 2026-10-13 -->
 
+<!-- BEGIN V2.1 CE-V2 EXTENDED RECOVERY CHAPTER 198 -->
+### Chapter 198 — Recursive emergency oversight and capture surfaces
+
+**Constitutional Emergency V2 §§211–244:** Crisis creates risks of political, institutional, security, information, algorithmic, metric and economic capture. Detection systems, dashboards and external providers can become de facto governors if their outputs are treated as commands. Recursive oversight must itself be bounded, privacy-protective and terminable; no permanent reviewer sovereign is created. The owner of an emergency repository or software deployment does not thereby acquire constitutional authority. Separate constitutional legitimacy from empirical effectiveness; evidence of success, simulations and exercises cannot replace lawful authorisation. Preserve negative results, dissent, failed mechanisms, uncertainty and corrections without institutionalising failed emergency powers. **Open:** independent capture review, recursion stopping conditions, real algorithmic explainability and privacy-enforced audit.
+<!-- END V2.1 CE-V2 EXTENDED RECOVERY CHAPTER 198 -->
+
 # Chapter 199 — Governance and Cross-System Disagreement
 
 ## 199.1 Systems May Disagree
