@@ -153,6 +153,14 @@ It may reflect judgement that another mechanism is:
 
 > **Governance is one civilisational problem-solving mechanism among many. It should intervene where legitimate collective authority is necessary, especially concerning rights, shared resources, systemic risks and cross-boundary externalities, while remaining capable of leaving problems to individuals, communities, markets, science or voluntary systems where those mechanisms are more appropriate.**
 
+<!-- BEGIN V2.1 LEGITIMATE FUNCTION SOURCE CH201 -->
+### Chapter 201 — Functional obsolescence and non-perpetuation
+
+**Source basis:** Legitimate Function and the Authority Justification Chain §§12–13,20–23,29–32.
+
+An office's prior usefulness does not establish its current necessity. Periodically re-evaluate whether the original civil problem persists, the function is still required, ordinary consent or alternate means suffice, and the mandate remains proportionate. When function ends, function-derived authority ends; a new function needs fresh justification. **[LOCAL ISSUE:]** independent sunset trigger, surviving duties and institutional wind-down.
+<!-- END V2.1 LEGITIMATE FUNCTION SOURCE CH201 -->
+
 # Chapter 202 — Governance and Self-Restraint
 
 ## 202.1 Power That Can Decline to Act
