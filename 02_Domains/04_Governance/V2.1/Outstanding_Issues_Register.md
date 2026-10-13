@@ -397,3 +397,11 @@ The author has clarified that each decision carries a **unique ID and state-mach
 ## Next resolution sequence
 
 First verify and assemble Chapter 12 and Chapter 132 against original V1/V2/GTP sources (G-001–010), while preserving the 12 October timing direction. Then reconcile emergency and state-machine contracts (G-011–016), **reuse the already specified Historical HCM-1/HI-1 and Health/CIBB/CWA custody/privacy architecture** while deferring G05 real-owner implementation tests (G-017–022) until concrete workflows, and finish the 215-chapter source-completeness and constitutional graduation gates (G-023–027). Update this one register as issues are found or closed.
+
+## Sectional integration disposition — 13 October 2026
+
+The user's instruction is to **consolidate into V2.1 now**, keeping unresolved questions explicitly marked inside relevant sections rather than delaying placement. Source-preserving developmental insertions now exist in Sections 01/02/03/06/10/14/15/16/20 for Chapters 9, 12, 28–30, 54, 100, 132, 149–151 and 198. See `Change_Register.md` and source resolutions 121–123. This register remains the cross-section issue index; section text is the primary developmental architecture.
+
+**Flagged inside the V2.1 sectional drafts:** contextual conference authorisation and permitted preliminary disclosures; conference after partial ballot commitment; cross-constituent influence and repeated identity mapping; lawful vacancy versus abstention; genuine owner-controlled authority attestations and effect reconciliation; Chapter 132 conflicting original statements requiring explicit source resolution. These are not reasons to omit settled architecture from sections.
+
+**Preservation caution:** a marked additive subsection is not yet proof that all older conflicting clauses in the same chapter have been reconciled. A final consistency pass must identify each contradictory legacy statement and either preserve it as historical context with an explicit supersession note or provide a separately authorised replacement. No claim of full governance completion is made here.
