@@ -24,3 +24,9 @@ Additional source-grounded, provisional chapter patches have been committed for 
 - Stage 123 reconciles conference with expanded constituent triads, GTP substitution and shared-competence boundaries. No pooled nine-ballot decision, conference-created vacancy or jurisdiction by attendance.
 - Chapter 9 and Chapter 54 patches must incorporate Stages 121–123 as **developmental source reconciliation**; Chapters 28–30, 100, 132 and 149–151 must preserve their relevant boundaries. No original V2 Canonical modification or constitutional graduation is implied.
 - Unresolved: conference after partial commitment; preliminary position disclosure; owner of conference exception by decision class; cross-constituent correlated influence; real owner-controlled identity and authority enforcement.
+
+## Direct V2.1 sectional consolidation — 13 October 2026
+
+**Committed in place** within existing source-preserving sectional drafts (not merely linked integration notes): Chapter 9 (Section 01), Chapter 12 (Section 02), Chapters 28–30 (Section 03), Chapter 54 (Section 06), Chapter 100 (Section 10), Chapter 132 (Section 14), Chapters 149–150 (Section 15), Chapter 151 (Section 16), and Chapter 198 (Section 20). All twelve chapter insertions are delimited developmental additions preserving the original text. They integrate source resolutions 097, 110, 115 and 121–123 with existing GTP substitution, expanded triads, shared competence and emergency boundaries.
+
+**Not yet graduated:** authorial review of exact clause placement and precedence, conference after partial ballot commitment, preliminary disclosure, cross-constituent independence, actual owner-controlled authority attestations, and full older-repository migration completeness. The V2 Canonical original remains unchanged; subsection drafts remain developmental.
