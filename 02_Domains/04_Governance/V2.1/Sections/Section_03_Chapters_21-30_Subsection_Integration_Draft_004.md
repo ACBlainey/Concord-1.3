@@ -1225,6 +1225,13 @@ Degradation should not become elimination.
 
 # Chapter 28 — Emergency Succession
 
+### 28.V21b Bounded emergency preservation and restoration
+
+Urgent ordinary action under an existing mandate is distinct from activation of exceptional emergency power. A serious imminent threat, operational urgency or cross-area impact never independently creates an emergency office, shared command or compulsory jurisdiction. Each exceptional measure requires a pre-existing constitutional or legal source, competent activation, evidence of necessity, proportionality, bounded functional and spatial scope, affected-rights safeguards and independently enforced termination. GTP neighbours may share observations, logistics and voluntary assistance without thereby binding each other's assets or Steward positions.
+
+Preserve separate event provenance for threat assessment, declaration where legally required, activation of each power, each specific protective measure, any cross-area mandate, renewal, expiry, review and restoration. Emergency powers must expire when their predicate ends or their lawful sunset is reached, independently of Civilisational Clock progression. Termination of exceptional powers does not erase continuing remediation, compensation, audit or remedy obligations. An Against or Unresolved vote cannot be relabelled to manufacture permission. **Open local matters:** empowered declaring institutions, exact activation thresholds, maximum duration and renewal oversight, non-derogable rights and emergency review routes.
+
+
 ### 28.V21a Independent emergency time and state-machine reconciliation
 
 The Civilisational Clock is a variable-duration dependency and scheduling architecture, not a continuously advancing timer. It may pause awaiting feedback. Threat observation, classification, lawful declaration, individual power activation, operational decisions and effects, independent expiry, restoration and remedy must be represented as distinct events; none is automatically the authority for another. Emergency detection, legitimate activation, operational response, monitoring, deadlines, sunset and review must remain possible through independently resilient operational time while the Clock is paused. Clock independence removes no legal authority, necessity, proportionality, rights or consent requirement, and resumption cannot reactivate expired emergency power.
