@@ -231,7 +231,7 @@ Re-convergence could involve:
 
 # Chapter 132 — Governance and GTP
 
-## 132.0 Consolidated working architecture and disposition
+## 132.0 Consolidated working architecture
 
 **Status:** Consolidated V2.1 developmental reading assembled from existing recovered and reconciled clauses below. The retained V2 source wording, Candidate 014, source-conflict registers and authorial clarifications remain as evidence, not parallel competing operative rules. No constitutional graduation or implementation validation is asserted.
 
@@ -252,28 +252,6 @@ Re-convergence could involve:
 ---
 
 
-## 132.1 Geodesic Triangular Partitioning
-
-GTP is a spatial governance architecture intended to provide neutral hierarchical territorial partitioning.
-
-It remains an application or architectural module rather than a foundational requirement of Governance.
-
-GTP may help explore questions involving:
-
-- territorial jurisdiction;
-- nested Governance;
-- local administration;
-- representation;
-- resource allocation;
-- and geographic scaling.
-
-
-<!-- BEGIN V2.1 PROPOSED 132.1 — NOT CANONICAL -->
-**V2.1 proposed clarification:** GTP is Concord's adopted conceptual multiresolution triangular spatial mesh. Every tessellation level exists continuously as a spatial abstraction. Choosing a resolution for a task does not create or delete cells. Spatial parent/child denotes geometric subdivision only, not a superior/subordinate government.
-<!-- END V2.1 PROPOSED 132.1 -->
-
-<!-- BEGIN V2.1 INTEGRATED 132.1 — CANDIDATE 014 VERBATIM; PRIOR TEXT RETAINED -->
-
 ## 132.1 Geodesic Triangular Partitioning — Conceptual Mesh
 
 GTP is Concord's adopted conceptual multiresolution triangular spatial reference and coordination mesh. The tessellation exists at every level of geometric subdivision. Selecting a scale for a particular task does not create, abolish or activate the existence of a triangle; it selects a level of description and a corresponding operational coverage.
@@ -291,51 +269,11 @@ The mesh can provide a consistent reference for:
 
 GTP does not itself appoint Stewards or create constitutional competence.
 
-<!-- END V2.1 INTEGRATED 132.1 — CANDIDATE 014 -->
-## 132.2 Governance Does Not Depend on GTP
-
-The constitutional principles in Governance V2 should remain usable even if GTP is later:
-
-- modified;
-- rejected;
-- or replaced.
-
-This distinction is important.
-
-A specific spatial mechanism should not become constitutional truth merely because it currently appears useful.
-
-
-<!-- BEGIN V2.1 PROPOSED 132.2 — NOT CANONICAL -->
-**V2.1 proposed clarification:** Distinguish GTP's foundational status in the current Concord spatial implementation from the independent constitutional source of rights, legitimacy and authority. Constitutional safeguards remain valid if a properly authorised future revision changes the spatial implementation; any such change requires provenance, continuity mapping and rights-preserving change control.
-<!-- END V2.1 PROPOSED 132.2 -->
-
-<!-- BEGIN V2.1 INTEGRATED 132.2 — CANDIDATE 014 VERBATIM; PRIOR TEXT RETAINED -->
-
 ## 132.2 Constitutional Independence and Spatial Continuity
 
 GTP is foundational to Concord's **current spatial governance implementation**, but it is not the source of constitutional rights, ethical standing, consent, lawful authority or legitimacy.
 
 Those principles must remain effective if a future properly authorised constitutional process modifies or replaces the spatial implementation. Such a change requires explicit approval, reference migration, rights-preserving continuity, provenance and review. Neither the adopted status of GTP nor its potential replacement may be silently inferred from convenience.
-
-<!-- END V2.1 INTEGRATED 132.2 — CANDIDATE 014 -->
-## 132.3 Spatial Architecture Is Implementation
-
-GTP concerns how Governance might organise territorial space.
-
-It does not determine:
-
-- constitutional worth;
-- rights;
-- legitimacy;
-- authority;
-- or ethical principle
-
-by geometry alone.
-
-Spatial architecture operates beneath the constitutional layer.
-
-
-<!-- BEGIN V2.1 INTEGRATED 132.3 — CANDIDATE 014 VERBATIM; PRIOR TEXT RETAINED -->
 
 ## 132.3 Spatial Architecture and Constitutional Authority
 
@@ -344,33 +282,6 @@ GTP describes spatial relationships, not the distribution of lawful power. It ca
 A larger triangle is not automatically a superior jurisdiction. A legally established constitutional priority rule, federated competence or delegated office may exist, but must derive from an independently valid constitutional source.
 
 Spatial architecture operates beneath constitutional legitimacy.
-
-<!-- END V2.1 INTEGRATED 132.3 — CANDIDATE 014 -->
-## 132.4 Potential Interface
-
-If GTP is used, Governance should examine:
-
-- jurisdiction boundaries;
-- local representation;
-- nested coordination;
-- resource management;
-- population variation;
-- and boundary revision.
-
-Additional questions may include:
-
-- how infrastructure crossing cells is governed;
-- how mobile populations are represented;
-- how unequal population density affects representation;
-- how settlements outside regular spatial geometry are classified;
-- and how local autonomy interacts with higher layers.
-
-
-<!-- BEGIN V2.1 PROPOSED 132.4 — NOT CANONICAL -->
-**V2.1 proposed clarification:** Multiple spatial resolutions may be operational concurrently, including overlapping coordination fields. Workload-driven subdivision and consolidation change coverage and capacity, not the underlying tessellation. Use bounded hysteresis to avoid oscillating operational boundaries. The authority for a task must still be derived from competence, jurisdiction, consent and externalities.
-<!-- END V2.1 PROPOSED 132.4 -->
-
-<!-- BEGIN V2.1 INTEGRATED 132.4 — CANDIDATE 014 VERBATIM; PRIOR TEXT RETAINED -->
 
 ## 132.4 Concurrent Resolution and Operational Coverage
 
@@ -381,35 +292,6 @@ Workload, available capacity, externalities, geography and functional competence
 Each operation must identify its lawful jurisdiction, responsible Stewards, resource authority, implementation responsibility, review and termination.
 
 GTP cannot alone settle representation for unequal populations, mobile populations, cross-cell infrastructure or non-territorial affiliations.
-
-<!-- END V2.1 INTEGRATED 132.4 — CANDIDATE 014 -->
-## 132.5 Nested Jurisdiction
-
-GTP’s hierarchical structure may support nested jurisdiction.
-
-A small local cell may handle:
-
-- local services;
-- infrastructure;
-- community questions.
-
-Larger layers may handle:
-
-- cross-cell resources;
-- regional infrastructure;
-- common standards;
-- or wider externalities.
-
-This resembles subsidiarity.
-
-The geometry does not remove the need for competence and constitutional boundaries.
-
-
-<!-- BEGIN V2.1 PROPOSED 132.5 — NOT CANONICAL -->
-**V2.1 proposed clarification:** Larger spatial cells do not acquire command power over smaller cells. Cross-cell coordination may concern information, resources and shared infrastructure, but binding shared decisions require a separately lawful joint competence. A GTP-expanded decision may use R and edge-adjacent A/B/C in origin-excluded or origin-included form, with three constituent triads each producing one resultant vote and the three results forming a final virtual triad; never pool nine individual votes. Appointment and six-Steward vertex mapping remain unresolved.
-<!-- END V2.1 PROPOSED 132.5 -->
-
-<!-- BEGIN V2.1 INTEGRATED 132.5 — CANDIDATE 014 VERBATIM; PRIOR TEXT RETAINED -->
 
 ## 132.5 Mesh Coordination and Legitimate Shared Decisions
 
@@ -446,7 +328,6 @@ Individual eligibility for such extended voting, appointment, quorum and authori
 
 This reconciliation is provisional; see Chapter 12 Candidate 012, Integration 031, 035, 041 and Validation Closure 043. Earlier historical source wording is preserved in the source record.
 
-<!-- END V2.1 INTEGRATED 132.5 — CANDIDATE 014 -->
 ## 132.6 Population Variation
 
 Equal geographic area does not mean equal population.
@@ -462,46 +343,6 @@ Representation may need to consider:
 - and institutional purpose.
 
 No final formula is established.
-
-
-<!-- BEGIN V2.1 INTEGRATED 132.6 — CANDIDATE 014 VERBATIM; PRIOR TEXT RETAINED -->
-
-## 132.6 Population Variation
-
-Equal geographic area does not mean equal population.
-
-Governance should therefore avoid assuming that identical cells necessarily deserve identical representation in every institution.
-
-Representation may need to consider:
-
-- population;
-- territory;
-- resource function;
-- constitutional equality;
-- and institutional purpose.
-
-No final formula is established.
-
-<!-- END V2.1 INTEGRATED 132.6 — CANDIDATE 014 -->
-## 132.7 Geographic Neutrality
-
-A mathematically generated boundary may reduce some forms of politically motivated district manipulation.
-
-It does not remove all political consequence.
-
-Geography still contains:
-
-- communities;
-- transport;
-- resources;
-- language;
-- ecosystems;
-- and historical relationships.
-
-Neutral geometry can therefore reduce one bias while creating other mismatches.
-
-
-<!-- BEGIN V2.1 INTEGRATED 132.7 — CANDIDATE 014 VERBATIM; PRIOR TEXT RETAINED -->
 
 ## 132.7 Geographic Neutrality
 
@@ -520,7 +361,6 @@ Geography still contains:
 
 Neutral geometry can therefore reduce one bias while creating other mismatches.
 
-<!-- END V2.1 INTEGRATED 132.7 — CANDIDATE 014 -->
 ## 132.8 Boundary Revision
 
 Territorial systems change.
@@ -537,26 +377,6 @@ A spatial system should therefore consider whether and how boundaries can be rev
 
 Revision should not become an uncontrolled political mechanism for manipulating representation.
 
-
-<!-- BEGIN V2.1 INTEGRATED 132.8 — CANDIDATE 014 VERBATIM; PRIOR TEXT RETAINED -->
-
-## 132.8 Boundary Revision
-
-Territorial systems change.
-
-Population moves.
-
-Infrastructure grows.
-
-Habitats expand.
-
-New settlements appear.
-
-A spatial system should therefore consider whether and how boundaries can be revised.
-
-Revision should not become an uncontrolled political mechanism for manipulating representation.
-
-<!-- END V2.1 INTEGRATED 132.8 — CANDIDATE 014 -->
 ## 132.9 GTP and Digital Communities
 
 Digital communities may not occupy conventional territory.
@@ -567,38 +387,6 @@ A plural civilisation may require both:
 
 - spatial Governance;
 - and non-spatial constitutional affiliation.
-
-
-<!-- BEGIN V2.1 INTEGRATED 132.9 — CANDIDATE 014 VERBATIM; PRIOR TEXT RETAINED -->
-
-## 132.9 GTP and Digital Communities
-
-Digital communities may not occupy conventional territory.
-
-GTP therefore cannot by itself define all future jurisdiction.
-
-A plural civilisation may require both:
-
-- spatial Governance;
-- and non-spatial constitutional affiliation.
-
-<!-- END V2.1 INTEGRATED 132.9 — CANDIDATE 014 -->
-## 132.10 GTP and Interplanetary Settlement
-
-GTP may be applied differently on:
-
-- Earth;
-- Mars;
-- moons;
-- orbital habitats;
-- or artificial structures.
-
-The geometry may need adaptation.
-
-The constitutional principles should remain independent of exact geometric implementation.
-
-
-<!-- BEGIN V2.1 INTEGRATED 132.10 — CANDIDATE 014 VERBATIM; PRIOR TEXT RETAINED -->
 
 ## 132.10 GTP and Interplanetary Settlement
 
@@ -614,7 +402,6 @@ The geometry may need adaptation.
 
 The constitutional principles should remain independent of exact geometric implementation.
 
-<!-- END V2.1 INTEGRATED 132.10 — CANDIDATE 014 -->
 ## 132.11 Geometry Does Not Create Legitimacy
 
 A mathematically neutral territorial division does not automatically produce fair governance.
@@ -624,78 +411,12 @@ Population, culture, infrastructure and real-world geography remain relevant.
 The principle is:
 
 > **Geometry may structure jurisdiction. Geometry does not create constitutional legitimacy.**
-
-
-<!-- BEGIN V2.1 INTEGRATED 132.11 — CANDIDATE 014 VERBATIM; PRIOR TEXT RETAINED -->
-
-## 132.11 Geometry Does Not Create Legitimacy
-
-A mathematically neutral territorial division does not automatically produce fair governance.
-
-Population, culture, infrastructure and real-world geography remain relevant.
-
-The principle is:
-
-> **Geometry may structure jurisdiction. Geometry does not create constitutional legitimacy.**
-
-<!-- END V2.1 INTEGRATED 132.11 — CANDIDATE 014 -->
-## 132.12 GTP Principle
-
-> **GTP may provide a useful neutral spatial framework for nested territorial Governance, but it remains an implementation module rather than a constitutional foundation. Geographic regularity does not replace subsidiarity, representation, practical rights, cultural context or legitimate authority.**
-
-
-<!-- BEGIN V2.1 PROPOSED 132.12 — NOT CANONICAL -->
-**V2.1 proposed reconciliation:** GTP is the adopted spatial reference for Concord's current mesh governance, not a generator of constitutional legitimacy. Geometry provides an enduring multiresolution reference; authority remains contextual, bounded and independently constituted. The original principle above is preserved as source pending author-approved replacement.
-<!-- END V2.1 PROPOSED 132.12 -->
-
-<!-- BEGIN V2.1 INTEGRATED 132.12 — CANDIDATE 014 VERBATIM; PRIOR TEXT RETAINED -->
 
 ## 132.12 GTP Principle
 
 > **GTP is Concord's adopted multiresolution spatial coordination mesh, not a hierarchy of governing authority. Every spatial level exists conceptually, and multiple levels may be used concurrently. Geometry can organise the location and scale of governance activity but cannot create constitutional legitimacy, rights, jurisdiction or command authority.**
 
 Its use must preserve subsidiarity, representation, cultural context, practical rights, lawful delegation and the possibility of properly authorised constitutional evolution.
-
-<!-- END V2.1 INTEGRATED 132.12 — CANDIDATE 014 -->
-<!-- BEGIN V2.1 CHAPTER 132 OPERATIVE DEVELOPMENTAL READING — 2026-10-13 -->
-### Chapter 132 — Consolidated V2.1 reading and legacy-clause disposition
-
-**Working interpretation within V2.1, not constitutional graduation.** Where the retained original V2 wording in §§132.1–132.5 and 132.12 describes GTP as optional, merely a hierarchical territorial partition, or a source of nested governing rank, that wording is preserved above for provenance but **is not the operative developmental interpretation**. The corresponding integrated Candidate 014 clauses and subsequent authorial GTP mesh clarifications supply the current V2.1 working text.
-
-- **132.1:** GTP is the adopted conceptual multiresolution spatial mesh; every geometric subdivision level exists regardless of active operational coverage. Spatial parent/child does not create governing superiority.
-- **132.2:** GTP is foundational to the current spatial governance implementation, not to the source of rights or legitimacy. Properly authorised future spatial revision remains possible with continuity safeguards.
-- **132.3:** Geometry alone grants no jurisdiction or power; an independently legitimate mandate remains necessary.
-- **132.4:** Multiple scales may operate concurrently. Workload-responsive allocation changes operational coverage, not the conceptual tessellation; hysteresis controls churn.
-- **132.5:** Coordination and shared competence are different. Neither adjacency nor a wider triangle grants command over independent smaller contexts. Expanded virtual triads require three independently valid constituent resultants, not pooled nine-person votes; origin-included identity mapping remains subject to authorisation and source validation.
-- **132.12:** The integrated mesh principle supersedes the retained optional-framework summary for V2.1 developmental interpretation.
-
-**Conference interface:** Official Steward voting ordinarily proceeds in isolation. Conference is permissible only under independently legitimate bounded contextual authority, with CWA/CIBB information boundaries; it cannot merge constituent triads, appoint substitutes, revoke committed votes, or grant cross-jurisdictional power. See Stages 121–123.
-
-**Open within Chapter 132:** vertex/office identity mapping, constituent independence and appointment, legal common-competence formation, cross-constituent conference disclosure, and exact future spatial constitutional change process. Preserve these questions as flags, not reasons to omit current mesh architecture.
-
-This disposition does **not** delete the V2 baseline or imply final constitutional approval. It establishes which retained assertions are historical-source context rather than current working requirements.
-<!-- END V2.1 CHAPTER 132 OPERATIVE DEVELOPMENTAL READING -->
-
-<!-- BEGIN V2.1 CHAPTER 132 SOURCE-CONFLICT REGISTER — REVIEW REQUIRED -->
-
-### Chapter 132 — Explicit reconciliation of retained V2 wording and recovered GTP architecture
-
-**Status:** Source-preserving review register; no source clause is repealed or silently promoted by this register. The retained V2 wording and the verbatim reconciled Candidate 014 clauses coexist above pending author-approved consolidated text.
-
-| Provision | Retained V2 assertion | Recovered Candidate 014 assertion | Required disposition |
-| --- | --- | --- | --- |
-| 132.1 | Describes GTP as a neutral **hierarchical territorial partition** and a possibly useful application rather than a foundational Governance requirement. | GTP is Concord's **adopted conceptual multiresolution spatial mesh**, foundational to its current spatial implementation; parent/child describes geometry, never governing rank. | Distinguish adopted implementation from constitutional authority; replace hierarchical-government implication without discarding valid spatial subdivision detail. |
-| 132.2 | Governance must remain valid if GTP is modified, rejected or replaced. | Same constitutional independence, while recognising GTP as currently adopted and requiring approved migration, provenance and continuity for any replacement. | Retain constitutional independence; clarify the current adopted implementation and formal change-control requirement. |
-| 132.4 | Treats GTP as a hypothetical potential interface, including boundary revision and higher layers. | All geometric levels always exist; different resolutions may operate concurrently, with dynamic operational workload allocation and hysteresis rather than creation/deletion of spatial cells. | Preserve practical questions on mobile populations, infrastructure and representation; distinguish operational coverage changes from geometry. |
-| 132.5 | Suggests nested jurisdiction and larger layers handling wider issues. | No authority inheritance or automatic escalation from cell size; lateral, overlapping and multi-resolution coordination requires independently valid competence. | Retain subsidiarity and cross-cell service examples, but reject spatial containment as a source of command authority. |
-| 132.12 | Describes GTP as merely a possible implementation module. | Recognises its adopted role in the current Concord spatial architecture while keeping rights and constitutional legitimacy independent of geometry. | Separate the status of GTP as an adopted reference from the constitutional source of authority. |
-
-**Additional source-resolution gates:** Candidate 014 §132.5 describes an R/A/B/C expanded-decision geometry and virtual triadic resultants. Verify its six-Steward vertex mapping, appointment/recusal, affected-context consent, and vote aggregation against Chapter 12 and the preserved V1 triadic source before declaring an executable decision rule. The section's duplicate headings are deliberate evidence of unresolved source layering, not two concurrently authoritative rules. All chapter clauses, including compatible §§132.3 and 132.6–132.11, must be assembled once in the eventual approved manuscript.
-
-**Non-inference:** A GTP spatial overlap, operational subdivision, workload trigger, or apparent higher geometric resolution never independently grants, transfers, renews or revokes governance authority.
-
-<!-- END V2.1 CHAPTER 132 SOURCE-CONFLICT REGISTER -->
-
 
 <!-- V2.1 INTEGRATION 2026-10-13: AUTHORIAL SOURCE RECONCILIATION; DEVELOPMENTAL; REVERSIBLE -->
 ## 132.x — V2.1 integration: mesh, constituent decisions and contextual conference
