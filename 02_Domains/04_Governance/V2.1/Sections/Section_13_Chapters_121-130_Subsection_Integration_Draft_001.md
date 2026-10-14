@@ -1262,7 +1262,9 @@ It makes provider dependency a constitutional issue.
 
 The architecture separates substrate capability, permission, participant standing, function-specific competence, lawful appointment, mandate and decision-event authority. AI analysis can be decisive evidence without itself becoming a fourth Steward vote or an unappointed substitute. Where an AI is independently qualified and legitimately appointed to an authorised office, its vote follows the same context-specific official-ballot rules; no generic algorithmic delegation can shortcut those gates. **[LOCAL OPEN:]** actual AI office eligibility, continuity identity, accreditation and role-specific host enforcement.
 
+## 127.V21 — Existing bounded AI runtime and non-sovereign execution interface
 
+Concord **Concord Bounded Participant Runtime** (§§8–14, 20–21) distinguishes possession of credentials, technical capability, legitimate action grants and consequential commit. **Multi-Key Authority** (§§17, 19, 23) prevents independently valid AI-advisory, infrastructure and civil authorities from silently composing into sovereign power. An AI's analysis or recommendation may inform a triadic Steward decision but cannot itself become a binding civil decision through automated routing, execution, gatekeeping, suppression of alternatives or credential possession. Where a legitimate host has explicitly pre-authorised bounded automation, each material execution remains within that scope and subject to current-predicate checks and review. Succession of a model or runtime does not transfer the predecessor's mandate by copying its state. **[LOCAL ISSUE — FI-056, FI-072, FI-073:]** model independence, hidden infrastructure dependencies and actual execution-control validation remain to be established.
 
 # Chapter 128 — Governance and AI Constitutional Standing
 
