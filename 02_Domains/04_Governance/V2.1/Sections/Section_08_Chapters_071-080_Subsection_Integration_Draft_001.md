@@ -626,6 +626,14 @@ A highly active participant does not gain additional constitutional standing mer
 
 > **Citizens should possess practical and accessible routes to raise problems, propose change, obtain information, challenge authority and participate in decisions where appropriate, without requiring continuous political engagement or allowing participation volume, wealth, organisational capacity or computational assistance to become automatic constitutional authority.**
 
+<!-- BEGIN V2.1 CITIZEN ID AUDIT CH72 -->
+### Chapter 72 — Pseudonymous participation and accountable civil standing
+
+**Audit source:** Citizen ID Threat, Privacy and Misuse Audit §§24–28,31–36 (historical research evidence; not adopted law).
+
+A civil identity must not become compulsory disclosure for every social interaction. Preserve legitimate anonymous and pseudonymous participation while allowing serious rights violations to be investigated through a separately authorised, auditable bridge. Identity uniqueness does not itself grant voting eligibility or office mandate; eligibility remains context-dependent. **[LOCAL ISSUE:]** anonymous petition access, identity challenge and accountability thresholds.
+<!-- END V2.1 CITIZEN ID AUDIT CH72 -->
+
 # Chapter 73 — Representation and Delegation
 
 ## 73.1 Representation
