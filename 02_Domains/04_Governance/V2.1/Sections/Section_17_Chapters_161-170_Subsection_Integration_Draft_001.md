@@ -838,6 +838,14 @@ It is to preserve significant reasoning that may become relevant later.
 
 > **Governance should preserve significant developmental reasoning, failed experiments, superseded mechanisms and major dissent separately from current authority. Civilisation needs both an operational architecture describing what governs now and a recoverable developmental record explaining how that architecture came to exist.**
 
+<!-- BEGIN V2.1 TRIADIC EPISTEMICS CH166 -->
+### Chapter 166 — Cross-scale epistemic referral is not jurisdiction transfer
+
+**Source basis:** Triadic Epistemics — Recursive GTP Mesh §§14–29,53–56.
+
+An anomaly may be investigated locally, laterally, at finer GTP detail, at coarser spatial context and across functional network connections without transferring decision authority. Referral should preserve provenance, uncertainty, dissent and the original context's retained lawful mandate. A higher spatial abstraction is a comparison view, not a superior governance office. **[LOCAL ISSUE:]** cross-resolution query permissions and owner interface.
+<!-- END V2.1 TRIADIC EPISTEMICS CH166 -->
+
 # Chapter 167 — Governance Knowledge Sprawl
 
 ## 167.1 Accumulation
