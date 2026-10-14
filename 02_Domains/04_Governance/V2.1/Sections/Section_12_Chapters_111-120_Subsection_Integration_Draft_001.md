@@ -396,6 +396,14 @@ Secret surveillance may require stronger independent review precisely because or
 
 > **Surveillance should be treated as a high-consequence Governance capability because modern technology can make observation cheap, persistent, predictive and reusable across future administrations. Legitimate surveillance should remain purpose-specific, proportionate, reviewable and constrained against mass accumulation becoming infrastructure for future coercion.**
 
+<!-- BEGIN V2.1 ADVERSARIAL RECOVERY CH112 -->
+### Chapter 112 — BCA sunset verification without pervasive surveillance
+
+**Audit source:** BCA Adversarial Attack and Falsification Audit §§10,50–51 (historical adversarial evidence, not adopted law).
+
+Verifying whether contextual authority remains valid does not authorise universal participant tracking. BCA-R8 explicitly rejects this inference. Use proportionate state evidence, event receipts, scoped inspection and independent review; accept that uncertainty may require bounded temporary safeguards rather than continuous observation. **[LOCAL ISSUE:]** privacy-preserving completion attestations.
+<!-- END V2.1 ADVERSARIAL RECOVERY CH112 -->
+
 # Chapter 113 — Security Classification and Secrecy
 
 ## 113.1 Legitimate Secrecy
