@@ -1052,7 +1052,9 @@ Ignoring it does not eliminate it.
 
 Funding, information, access, infrastructure, expertise and dependency can enable effective control without lawful mandate. Review aggregate power rather than only isolated grants. **[LOCAL ISSUE:]** independent capability graph.
 
+## 175.V21 — Existing non-compositional authority and dependency checks
 
+Concord **Multi-Key Authority** (§§17, 19, 23) and **Concord Information Black Box** (§12) independently state that permitted components do not necessarily authorise their combined consequence. **KCS Change Propagation** (§20) further separates dependency from subordination. A service supplier, model, infrastructure custodian or evidence owner may acquire de facto leverage without legitimate governing authority; actual access, routing, dependency concentration, alternative availability and combined restrictions therefore require contextual review. **Minimum Necessary Capability** bounds the response by justified function, not by what a powerful actor can technically do. A dependency graph may be analysed through protected projections, not universal surveillance. **[LOCAL ISSUE — FI-021, FI-042, FI-068, FI-069:]** capture thresholds, independent investigation/remedy owner and cross-office aggregate evaluation remain to be specified.
 
 # Chapter 176 — Feedback Loops and Authority Accumulation
 
