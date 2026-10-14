@@ -2525,3 +2525,11 @@ This allows later revision.
 
 Investigate whether failure arises from invalid mandate, bad evidence, inappropriate framing, missing affected parties, coordinated capture, flawed procedure, execution defect, dependency loss or unanticipated effects. Mirrored alternative explanations should remain open until evidence differentiates them. Review must not equate minority dissent, abstention or an adverse outcome with guilt. **[LOCAL ISSUE:]** investigative access and independent diagnostic owner.
 <!-- END V2.1 SOURCE DEEPENING CH90 -->
+
+<!-- BEGIN V2.1 ADVERSARIAL RECOVERY CH90 -->
+### Chapter 90 — Adversarial anomaly overload and investigator capture
+
+**Audit source:** Triadic Epistemics Direct Adversarial Audit Attack Classes C–G,L–N (historical adversarial evidence, not adopted law).
+
+Anomaly flooding, outlier weaponisation and manipulated participant reports can consume finite investigation capacity and crowd out genuine severe harms. Investigators themselves can be captured through appointment, funding, shared evidence or stakeholder interests. Keep anomaly prioritisation contestable and preserve the ability to inspect low-frequency catastrophic outliers. **[LOCAL ISSUE:]** anti-starvation, escalation and triage owner.
+<!-- END V2.1 ADVERSARIAL RECOVERY CH90 -->
