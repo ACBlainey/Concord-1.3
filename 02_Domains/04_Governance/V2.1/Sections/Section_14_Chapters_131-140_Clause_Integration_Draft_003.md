@@ -231,6 +231,27 @@ Re-convergence could involve:
 
 # Chapter 132 — Governance and GTP
 
+## 132.0 Consolidated working architecture and disposition
+
+**Status:** Consolidated V2.1 developmental reading assembled from existing recovered and reconciled clauses below. The retained V2 source wording, Candidate 014, source-conflict registers and authorial clarifications remain as evidence, not parallel competing operative rules. No constitutional graduation or implementation validation is asserted.
+
+**Spatial foundation.** GTP is the adopted *current spatial reference and coordination mesh*, not the source of Blainey's Laws, civil rights, consent or governance authority. Every triangular resolution exists conceptually at all times. Each triangle has four geometric child triangles; each activated governance triad has three distinct triangle-owned Steward positions. A node may be incident to six triangles without becoming a six-Steward office. Parent/child refers only to spatial containment. Offices need not be at geometric vertices. Future authorised spatial replacement requires continuity mapping, provenance and rights preservation.
+
+**Operational resolution.** Multiple resolutions and overlapping functional coordination fields may operate simultaneously. Sustained workload, capacity, externalities and lawful competence determine appropriate active coverage. Refinement and consolidation reallocate operations among already-existing spatial contexts; they do not create or abolish triangles or automatically move mandates. Upper/lower workload thresholds or persistence conditions supply hysteresis. Existing matters, records, rights, obligations, Steward standing and review pathways survive any lawful coverage change.
+
+**Authority boundary.** Geometric adjacency, containment, scale, node sharing and emergency response classification confer no mandate, jurisdiction, vote or execution power. Distinguish information-sharing, lateral coordination, functional referral, shared decision competence, constitutional escalation and actual operational authority. Any binding cross-context decision needs its own lawful common-competence basis, with affected rights, participating authorities, permitted scope, resource commitments, effective time, review and termination. Local retained mandates do not disappear merely because a shared matter is referred.
+
+**Expanded triadic decision.** Where specifically authorised, origin-excluded A/B/C or origin-included 2-neighbour-plus-1-origin constituent triads each produce one F/A/U resultant. Three constituent resultants form the virtual final triad; they are **not** nine pooled ballots and R has no fourth vote. Each occupied decision-event position must be uniquely eligible and independently authorised. Two valid matching F or A resultants determine substantive outcome; unresolved remains unresolved. Voting is ordinarily isolated; contextual conference can share authorised information but cannot confer vote authority, jurisdiction or permission to alter a committed ballot. Decision validity, legal effect and implementation remain distinct. No geometric arrangement manufactures a shared mandate.
+
+**Recusal and substitution.** Abstention is neither vacancy nor Against. A lawful vacancy/recusal may permit bounded one-position substitution: first-ring five other node-adjacent triangle-owned positions; second-ring ten nominal additional positions; farther node-centred rings subject to deduplication and actual topology. One eligible candidate is selected deterministically; multiple eligible candidates require an auditable unbiased draw. Security or emergency exceptions require separate authority. Substitution never creates a fourth vote or a six-person node government.
+
+**Continuity and emergencies.** A variable or paused Civilisational Clock cannot gate urgent detection, lawful activation, action, sunset or restoration. Operational emergency timing and state-machine transitions are independent and later reconciled with Clock records. Emergency levels are classifications, not GTP government ranks. A committed decision can have continuing legal effects after its one-use vote authority is consumed, but action and resource expenditure require separate authority.
+
+**[LOCAL ISSUES:]** Node/office eligibility and mixed-resolution seams; origin-included identity and quorum proof; multi-triad common-competence creation; precise cross-resolution substitutions; workload thresholds and continuity handover; conference disclosure and execution timing. Historical clauses below that describe GTP as merely optional or spatially hierarchical are retained as provenance and **superseded for V2.1 working interpretation** by this consolidated section; they are not deleted or silently adopted. See Chapters 9, 12, 18–20 and 132's source-conflict register.
+
+---
+
+
 ## 132.1 Geodesic Triangular Partitioning
 
 GTP is a spatial governance architecture intended to provide neutral hierarchical territorial partitioning.
