@@ -2726,6 +2726,14 @@ Before critical deployment, Governance should consider:
 Where evidence is incomplete, prefer sufficient, proportionate and reversible interventions where available. Irreversible harm increases the need for independent evidence, bounded authority, alternatives and later review. A new state change that reverses an earlier outcome requires separate legitimate authority; an official ballot is not revoked. **[LOCAL ISSUE:]** decision-class reversibility and execution receipts.
 <!-- END V2.1 CROSS SOURCE DETAIL CH79 -->
 
+<!-- BEGIN V2.1 ADVERSARIAL RECOVERY CH79 -->
+### Chapter 79 — BCA adversarial irreversibility and legibility
+
+**Audit source:** BCA Adversarial Attack and Falsification Audit §§45,51 (historical adversarial evidence, not adopted law).
+
+The BCA audit's attacks 96–97 show bounded scope alone cannot justify irreversible destruction; higher consequence requires stronger evidence, proportionality and review. BCA-R9 calls for reasonably understandable operational authority rules and R12 for stronger review as irreversibility rises. **[LOCAL ISSUE:]** consequence threshold and urgency exception.
+<!-- END V2.1 ADVERSARIAL RECOVERY CH79 -->
+
 # Chapter 80 — Institutional Creation
 
 ## 80.1 New Institutions
