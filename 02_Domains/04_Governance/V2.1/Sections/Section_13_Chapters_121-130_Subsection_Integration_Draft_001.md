@@ -867,7 +867,9 @@ These conflicts should not be ignored merely because the AI was originally deplo
 
 Dependence on one model, provider or compute infrastructure creates possible de facto governance power without formal votes. Preserve independent alternatives and exit routes; assess aggregate technical control and covert agenda, evidence or execution capture. **[LOCAL ISSUE:]** portability and continuity.
 
+## 125.V21 — Existing model dependency and knowledge independence checks
 
+Concord **KCS Change Propagation** (§§16, 20, 24) can represent materially dependent analytical claims and review triggers without giving an upstream model or supplier authority over downstream governance. **Multi-Key Authority** (§§17, 19) prevents nominally independent recommendations from being treated as separate constitutional keys when their authority sources are not independently grounded. **Private Local Evaluation** permits bounded protected queries where full disclosure would expose participants or sensitive infrastructure. A triadic decision must not be treated as epistemically independent merely because three different interfaces deliver the same model-dependent answer. **[LOCAL ISSUE — FI-056, FI-072, FI-073:]** actual model lineage verification, independent evidence, adversarial testing and execution-path safeguards remain to be validated.
 
 # Chapter 126 — Governance and AI Advice
 
