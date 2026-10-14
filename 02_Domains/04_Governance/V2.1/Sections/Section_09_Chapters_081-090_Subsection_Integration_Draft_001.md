@@ -1032,6 +1032,14 @@ For example, an institution rewarded for reducing complaints may make complaint 
 
 > **Complaint mechanisms should provide practical, protected and reviewable routes for reporting individual and systemic failure while resisting retaliation, harassment and metric gaming. Complaint volume is evidence, not automatic proof, and repeated complaints should feed institutional learning rather than disappear as isolated cases.**
 
+<!-- BEGIN V2.1 TRIADIC EPISTEMICS CH84 -->
+### Chapter 84 — Formal and participant evidence discrepancy states
+
+**Source basis:** Triadic Epistemics — Independent Measurement §§8–15 (candidate research).
+
+The proposed TE-1–TE-6 cross-channel states distinguish strong convergence, formal convergence with experiential absence, formal absence with experiential convergence, internal formal divergence, universal apparent convergence and universal uncertainty. Silence is ambiguous; apparent unanimity may hide shared dependencies or capture. Treat these as anomaly prompts, not automatic rights restrictions. **[LOCAL ISSUE:]** threshold design, sampling, privacy and independent verification.
+<!-- END V2.1 TRIADIC EPISTEMICS CH84 -->
+
 # Chapter 85 — Public Reason and Explanation
 
 ## 85.1 Public Explanation
