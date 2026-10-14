@@ -1459,7 +1459,9 @@ What should not persist automatically is:
 
 Emergency classification and urgency can be exploited to extend power. Every grant requires specific necessity, time bounds, independent review and de-escalation. The institution exercising emergency authority cannot alone certify its continued necessity; recovery and ordinary governance must return. **[LOCAL ISSUE:]** independent renewal and sunset owner.
 
+## 188.15 — State-triggered emergency expiry without authority renewal by trigger
 
+Concord **State Triggered Review Architecture** (§§9, 14) already separates condition detection, review due and authorised substantive action. Emergency review should be triggered by material changes in danger, affected rights, evidence, capability or dependency, with an independently progressing temporal backstop for stale or paused conditions. The variable Civilisation Clock is not a reliable sole emergency expiry or activation timebase. A review-due event cannot extend an expiring mandate: **Multi-Key Authority** (§§21–23) requires independently legitimate emergency activation and current-predicate verification at consequential commit. If authority expires, any continuing preservation action must have its own lawful source; no automatic emergency inheritance follows from useful infrastructure. **[LOCAL ISSUE — FI-011, FI-012, FI-032, FI-074:]** renewal issuer, review independence, hard expiry enforcement and exceptional rights-limitation thresholds remain open.
 
 # Chapter 189 — Governance Capture Through Security
 
