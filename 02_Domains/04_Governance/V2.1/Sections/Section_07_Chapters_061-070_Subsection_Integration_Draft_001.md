@@ -2664,6 +2664,14 @@ These questions remain open.
 Apply the proposed ten-test legitimate-function audit: LF-01 upstream traceability to rights and civil objective; LF-02 non-circularity; LF-03 rights compatibility; LF-04 functional specificity; LF-05 demonstrable need; LF-06 proportionality; LF-07 alternative means; LF-08 current relevance; LF-09 non-self-perpetuation; LF-10 reviewability. A declared mission or an existing office cannot certify its own legitimacy. Failed tests initiate scrutiny, not automatic erasure of a potentially legitimate function whose records are incomplete. **[LOCAL ISSUE:]** Which owner formally assesses each test and how contested findings are appealed.
 <!-- END V2.1 LEGITIMATE FUNCTION SOURCE CH69 -->
 
+<!-- BEGIN V2.1 ADVERSARIAL RECOVERY CH69 -->
+### Chapter 69 — BCA adversarial qualifications to legitimate function
+
+**Audit source:** BCA Adversarial Attack and Falsification Audit §§48–55, BCA-R1–R5 (historical adversarial evidence, not adopted law).
+
+The 100-attack BCA audit rejects a self-grounding function claim: declared function is not legitimate function, and a holder must not solely authenticate high-impact activating conditions. Recover proposed refinements BCA-R1 legitimate function, R2 non-circularity, R3 fresh review on expansion, R4 independent validation of high-impact self-activation and R5 successor-function re-scoping. **[LOCAL ISSUE:]** independent authority to recognise functions without recursive self-certification.
+<!-- END V2.1 ADVERSARIAL RECOVERY CH69 -->
+
 # Chapter 70 — Conflict of Interest
 
 ## 70.1 Conflict Does Not Automatically Mean Corruption
