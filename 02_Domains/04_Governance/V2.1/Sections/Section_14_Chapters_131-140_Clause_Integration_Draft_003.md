@@ -231,6 +231,11 @@ Re-convergence could involve:
 
 # Chapter 132 — Governance and GTP
 
+### 132.0a Constitutional portability and physical-office distinction
+
+GTP is Concord's adopted default spatial reference and coordination architecture, not the source of rights, ethical standing, consent, competence or authority. Any future duly authorised change of spatial implementation must use explicit change control, impact assessment, spatial-reference migration, provenance and continuity of affected rights and duties; this portability safeguard does not imply that GTP is presently an incidental optional module. A Steward's physical office address may lie anywhere appropriately within its assigned triangle; a mathematical vertex is a spatial reference, not a requirement for co-located offices or a superior six-person governing office. Functional, digital and non-territorial jurisdiction remains independently possible alongside the mesh.
+
+
 ## 132.0 Consolidated working architecture
 
 **Status:** Consolidated V2.1 developmental reading assembled from existing recovered and reconciled clauses below. The retained V2 source wording, Candidate 014, source-conflict registers and authorial clarifications remain as evidence, not parallel competing operative rules. No constitutional graduation or implementation validation is asserted.
