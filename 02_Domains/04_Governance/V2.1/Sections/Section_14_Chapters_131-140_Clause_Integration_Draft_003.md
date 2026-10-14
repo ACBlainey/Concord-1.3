@@ -479,7 +479,9 @@ A change in active governance resolution does **not** create, destroy, subdivide
 
 **[LOCAL OPEN ISSUES:]** Numeric workload thresholds and persistence windows; asymmetric activation across four child contexts; Steward selection/allocation and officeholder continuity on reallocation; handling mesh seams and mixed-resolution node incidence; independent cross-context consent and anti-capture checks. These do not delay incorporation of the persistent-lattice, simultaneous-scale and nonhierarchical architecture.
 
+## 132.V21 — Existing GTP mesh observation and cross-boundary authority interface
 
+The GTP tessellation is a conceptual spatial mesh: all geometric resolution levels exist simultaneously, and choosing a scale for a function does not create a governance parent or subordinate child. Existing **State and Maturity Mapping** can describe workload, capacity, context-specific sufficiency and change evidence; **Cross Boundary Externality Recognition** (§§15–17) can classify consequences across overlapping, agreed, disputed or unknown competence; **Fractal Permission Architecture** and **Multi-Key Authority** prevent shared location, workload, technical capability or a cross-cell dependency from creating a new jurisdiction. Subdivision or consolidation of operational workload may be dynamic with hysteresis, but cannot silently reassign an occupied Steward position, expand a vote, or transfer an existing decision's authority. Geometry, office appointment, temporary substitution, joint decision forums and host execution are separate objects. **[LOCAL ISSUE — FI-004, FI-006, FI-009, FI-010, FI-059, FI-061:]** exact six-position vertex mapping, irregular seams, ring-substitute selection, hysteresis calibration and conflicting historic Chapter 132 provisions require clause-level reconciliation.
 
 # Chapter 133 — Governance and Mars
 
