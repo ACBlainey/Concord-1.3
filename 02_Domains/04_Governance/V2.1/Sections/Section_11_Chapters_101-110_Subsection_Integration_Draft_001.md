@@ -1664,7 +1664,9 @@ They should not collapse into one authority.
 
 Budgets, grants and procurement are tools for a justified civil function, not independent constitutional authority. Separate appropriation, custody, contract, decision and payment execution; detect cumulative concentration through related offices or infrastructure. Emergency spending requires specific scope, audit, expiry and restoration. **[LOCAL ISSUE:]** financial owner attestations and recovery ledger.
 
+## 108.V21 — Existing multi-key financial mandate and consequential commit interface
 
+Concord **Multi-Key Authority** (§§17, 21–23) distinguishes spending permission, valid financial mandate, independent required authorities and current conditions; individually valid approvals do not automatically compose into a new power. **Concord Bounded Participant Runtime** (§§11, 13) requires revalidation at consequential commit and records uncertain external effects rather than blind retry. **Bounded Transition Architecture** (§§10, 19) retains pending-owner and partial-effect references. Financial proposal, authorised appropriation, execution attempt, confirmed transfer and recovery/remedy are distinct states. The budget custodian and payment infrastructure must provide owner-specific attestations; a Steward vote alone cannot mint spending authority. **[LOCAL ISSUE — FI-018, FI-047:]** financial mandate schema, double-spend/idempotency proof, independent audit and remedy allocation remain open.
 
 # Chapter 109 — Governance Infrastructure
 
