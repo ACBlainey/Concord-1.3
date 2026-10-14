@@ -665,7 +665,9 @@ Emergency operational time and event-driven state machines remain responsive whi
 
 Loss of authentication credentials must not terminate civil identity. Official communication should support store-and-forward reachability without requiring disclosure of physical location, including remote and deep-space settings. Exceptional routing and credential recovery require separate purpose-limited authorisation and accessible review. **[LOCAL ISSUE:]** offline recovery, cross-jurisdiction routing and identity continuity.
 
+## 164.V21 — Existing continuity and protected routing boundaries
 
+Concord **Fault-Tolerant Accountability and Responsibility Continuity** (§§9–13), **Concord Bounded Participant Runtime** (§21), and **Concord Information Black Box** (§16) distinguish restoration of a service from restoration of its authority or protected master access. A prequalified successor is not automatically activated; a recovered backup is not necessarily current operational state. Civil Contact can route a request or alert, while Historical preserves appropriately controlled provenance and Continuity handles recovery: none of those functions alone appoints a Steward, authorises cross-jurisdiction action or grants a new credential. Use protected projections and owner-specific attestations for recovery/credential changes. **[LOCAL ISSUE — FI-020, FI-048, FI-052, FI-065:]** identity recovery issuer, outage pathway, owner acceptance and privacy-preserving audit remain unresolved.
 
 # Chapter 165 — Governance and Provenance
 
