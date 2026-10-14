@@ -429,7 +429,7 @@ It is to make constitutional velocity visible.
 
 ## 12.0 Consolidated triadic governance working rule
 
-**Status:** Working V2.1 consolidation of previously incorporated material, not final constitutional adoption. Earlier V2, candidate and authorial correction passages in this chapter remain below as historical and developmental evidence. Where they conflict, this working rule records the latest authorial distinction; it does not retroactively edit sources.
+**Status:** Working V2.1 consolidation of previously incorporated material, not final constitutional adoption. Superseded V2 wording is preserved in the original V2 document rather than repeated here. The working rule reflects the latest incorporated authorial distinctions; unresolved source issues remain locally flagged.
 
 **Mandate before vote.** A valid triadic decision requires a defined civil question, legitimate functional and jurisdictional mandate, three independently authorised Steward positions, eligible participants, bounded evidence context, and an auditable decision-event boundary. Technical capability, office title, geometry, appointment and permission are distinct from specific vote authority. A Steward's official ballot is Favour (F), Against (A) or Abstain; abstention is not Against or a vacancy.
 
@@ -515,10 +515,6 @@ Governance therefore needs mechanisms capable of expanding participation and aut
 
 ## 12.4 Horizontal Expansion
 
-<!-- BEGIN V2.1 INTEGRATED 12.4 — RECONCILED CANDIDATE 013 VERBATIM; PRIOR TEXT RETAINED -->
-
-## 12.4 Horizontal Expansion
-
 Where a governance question extends beyond the jurisdiction of the originating triad, the decision field may expand horizontally.
 
 Horizontal expansion means involving additional relevant stewardship units without automatically transferring the question upward into a permanently superior authority.
@@ -546,8 +542,6 @@ The objective is to ensure that the constitutional decision structure reflects t
 ### V2.1 — Meaning of Horizontal Expansion
 
 “Horizontal” describes enlargement of the participating decision field to match lawful consequence and competence, not a move between levels of GTP geometry. A larger GTP triangle is not an institutionally superior authority. Coordination may span adjacent or non-adjacent cells and multiple spatial resolutions at once. The lawful source of any binding joint decision must be established separately; wider participation alone does not create jurisdiction.
-
-<!-- END V2.1 INTEGRATED 12.4 — CANDIDATE 013 -->
 
 Where a governance question extends beyond the jurisdiction of the originating triad, the decision field may expand horizontally.
 
@@ -659,32 +653,6 @@ The appropriate mechanism depends upon the nature of the issue.
 
 The important principle is that coordination should preserve the underlying constitutional responsibilities rather than making them disappear inside a new collective body.
 
-## 12.9 Temporary Expanded Triads
-
-One possible mechanism is creation of a temporary expanded decision structure.
-
-Where several triads are affected, representatives or stewards may form an expanded deliberative structure for the specific question.
-
-The structure should identify:
-
-- participating jurisdictions;
-- decision authority;
-- voting rules;
-- duration;
-- scope;
-- implementation responsibility;
-- review;
-- and termination.
-
-The expanded structure should dissolve when the question is resolved unless a continuing constitutional need is separately established.
-
-Temporary expanded structures should not acquire unrelated responsibility merely because participating institutions have already assembled.
-
-If a new continuing need emerges, that need should be separately justified.
-
-
-<!-- BEGIN V2.1 RECOVERED 12.9 — CANDIDATE 013 VERBATIM, NOT CANONICAL -->
-
 ## 12.9 Temporary Expanded Triads and Virtual Resultants
 
 A temporary expanded triadic decision structure may be convened only for a defined question whose lawful consequence and competence field requires more than the originating triad. The existence of neighbouring GTP triangles, shared interests or an emergency does not independently grant common decision authority.
@@ -770,7 +738,6 @@ Where the existing votes do not determine a majority, continue deliberation, obt
 
 The expanded forum may decide only within the specifically authorised common field. Independent local decisions outside that field remain intact. A failure to obtain the desired outcome is not grounds for recursive expansion, forum shopping or silent transfer of power. Temporary expanded structures dissolve when the defined task is complete or their authorisation expires; continuation requires a separate lawful decision. Emergency preservation, succession and substitute appointments remain governed by their independent constitutional provisions.
 
-<!-- END V2.1 RECOVERED 12.9 — CANDIDATE 013 VERBATIM -->
 <!-- BEGIN V2.1 CHAPTER 12 EXECUTION-BOUNDARY RECONCILIATION REGISTER -->
 
 ### Chapter 12 — Extended-triad voting and operational authority: unresolved execution gates
@@ -844,10 +811,6 @@ The expanded forum may decide only within the specifically authorised common fie
 
 ## 12.10 Horizontal Expansion Before Vertical Escalation
 
-<!-- BEGIN V2.1 INTEGRATED 12.10 — RECONCILED CANDIDATE 013 VERBATIM; PRIOR TEXT RETAINED -->
-
-## 12.10 Horizontal Expansion Before Vertical Escalation
-
 Where practical, Governance should attempt horizontal coordination before escalating a matter into a higher permanent layer.
 
 This preserves:
@@ -882,8 +845,6 @@ Subsidiarity therefore requires both.
 
 The “lowest competent architecture” means the smallest **lawfully competent and practically capable decision field**, considering the affected rights, resources, externalities and implementation requirements. It need not be the smallest geometric GTP cell. Multiple spatial resolutions may operate concurrently; operational subdivision and consolidation do not create a command chain.
 
-<!-- END V2.1 INTEGRATED 12.10 — CANDIDATE 013 -->
-
 Where practical, Governance should attempt horizontal coordination before escalating a matter into a higher permanent layer.
 
 This preserves:
@@ -913,10 +874,6 @@ The second is competence:
 **Do not leave authority at a level incapable of solving the problem merely to preserve decentralisation.**
 
 Subsidiarity therefore requires both.
-
-## 12.11 Vertical Escalation
-
-<!-- BEGIN V2.1 INTEGRATED 12.11 — RECONCILED CANDIDATE 013 VERBATIM; PRIOR TEXT RETAINED -->
 
 ## 12.11 Vertical Escalation
 
@@ -953,8 +910,6 @@ Escalation should therefore preserve:
 “Vertical escalation” in this chapter refers only to referral, review, delegation or decision by an **independently constituted institution** holding a lawful relevant competence. It does not mean movement from a child GTP triangle to a parent triangle, nor does it imply that a larger geometric area possesses superior power. Constitutional hierarchy, appellate priority and lawful federation may exist where expressly established; their source is legal authority, never tessellation alone.
 
 Where escalation transfers any decision power, the record must identify the constitutional instrument, the originating and receiving competent offices, the exact matter and powers, any retained local jurisdiction, expiry, review and route for return. Referral for advice or coordination alone transfers no decision authority.
-
-<!-- END V2.1 INTEGRATED 12.11 — CANDIDATE 013 -->
 
 A matter may require vertical escalation where:
 
