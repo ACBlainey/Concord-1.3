@@ -1575,6 +1575,14 @@ Its existence increases practical autonomy.
 Dependence on one actor, infrastructure, budget, model or knowledge store can yield de facto command despite formally distributed offices. Identify alternative suppliers, portability, independent custody, exit routes and cumulative authority; require independent evidence before continued concentration. **[LOCAL ISSUE:]** dependency graph and remedies.
 <!-- END V2.1 CROSS SOURCE DETAIL CH178 -->
 
+<!-- BEGIN V2.1 ADVERSARIAL RECOVERY CH178 -->
+### Chapter 178 — BCA systemic fairness and combined authority
+
+**Audit source:** BCA Adversarial Attack and Falsification Audit §§8,48–51 (historical adversarial evidence, not adopted law).
+
+The 100-attack BCA audit distinguishes local legitimacy from systemic fairness (BCA-R10). Many lawful, narrowly scoped actions can impose concentrated burdens or combine into unreviewed effective power. Audit cross-actor consequences, dependency and delegation chains as well as individual permissions. **[LOCAL ISSUE:]** aggregation graph, rights-impact monitoring and independent review.
+<!-- END V2.1 ADVERSARIAL RECOVERY CH178 -->
+
 # Chapter 179 — Governance Capture Through Complexity
 
 ## 179.1 Complexity as Barrier
