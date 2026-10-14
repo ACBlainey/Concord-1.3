@@ -1,5 +1,8 @@
 # Concord Source Recovery — Flagged-Issue Architecture Crosswalk 001
 
+> **Registry-ID correction (14 October 2026):** Issue-number groupings in this early source crosswalk were assigned before reconciliation against the saved 83-row registry and **must not be used as authoritative FI mappings**. Match by the issue *title* and the source's substantive topic, then use the verified FI numbers in `Flagged_Issues_Registry.md`. A corrected thematic mapping is maintained in `Verified_Source_to_Issue_Map_004.md`. The underlying source paths and quoted module clauses remain useful; no issue closure is implied.
+
+
 **Date:** 14 October 2026  
 **Scope:** First targeted cross-domain/source scan of the current Concord-1.3 repository, prioritising `04_Portable_Modules/`, Research active development, Historical and Continuity.  
 **Status:** Evidence-led source candidates, **not issue closure or automatic incorporation**. Historical file labels are not authority or validation rankings.
