@@ -1464,30 +1464,7 @@ The enduring rule remains:
 
 
 <!-- V2.1 INTEGRATION 2026-10-13: AUTHORIAL SOURCE RECONCILIATION; DEVELOPMENTAL; REVERSIBLE -->
-## 12.x — V2.1 integration: expanded triads and conference boundaries
-
-An authorised expanded decision retains three independently constituted constituent triads and exactly three resultant F/A/U votes, never a pooled nine-ballot majority. Origin-included mapping and repeated-participant independence require explicit validation; geometric adjacency cannot repair an invalid forum. Conference is ordinarily absent from official voting but may be authorised in a bounded context; it cannot combine constituent authorities or alter their resultants. Cross-constituent communication must satisfy CWA/CIBB information controls and preserve independent decision positions. Shared coordination is distinct from binding shared competence, which requires its own lawful mandate. GTP scale and adjacency do not establish political hierarchy. See Integrations 051–052 and 121–123.
-<!-- END V2.1 INTEGRATION 2026-10-13 -->
-
-<!-- BEGIN V2.1 OPERATIVE RECONCILIATION 2026-10-13 CHAPTER 12 -->
-### Chapter 12 — V2.1 operative reconciliation of voting quorum and expanded authority
-
-**Developmental precedence:** The retained full-three-position quorum proposal from Integration 047 is historical/provisional and **does not override** the later authorial two-matching-vote determinacy direction 048 and subsequent resolution. Two independently valid matching official F/A votes determine the substantive triadic result; the third position need not have voted to make the mathematical outcome determinate. This is **not** a waiver of authentication, legitimate mandate, forum identity, conflict controls, decision-event boundary or independent implementation authority. A third Steward may still cast a valid ballot, which is informative provenance rather than a veto.
-
-The original portable module's collective deliberation capability remains possible only as an independently authorised contextual conference; isolated official voting is ordinary. A conference cannot combine three constituent triads into a pooled nine-vote majority or confer cross-jurisdictional mandate. An expanded virtual triad counts three independently authorised constituent resultants. A one-position GTP substitute fills one legally vacant position and does not multiply votes or create a forum.
-
-**Reconciled source precedence; implementation still open:** Earlier supersession language is superseded for V2.1. Only an independently authorised **non-official, non-consuming provisional indication** may be replaced before an official ballot is committed. No officially committed ballot may be replaced within its decision event. A separate future lawful decision requires new mandate and event identity, retaining historical links. The remaining work concerns eligibility, return deadlines, host state enforcement and evidence—not reopening ballot revocation.
-
-**Unresolved within Chapter 12:** exact lawful substitution/return mechanism for non-official provisional inputs; source-specific forum eligibility; expanded origin-included mapping; cross-constituent conference disclosure and independence. Do not restore all-three quorum by default.
-<!-- END V2.1 OPERATIVE RECONCILIATION 2026-10-13 -->
-
-<!-- BEGIN V2.1 SOURCE RECOVERY 2026-10-13 CHAPTER 12 -->
-### Chapter 12 — GTP node terminology and candidate-ring disposition
-
-**Authorial terminology (035):** The operative governance term is **node**, meaning the abstract GTP point where triangle corners meet. Older *vertex* wording remains in preserved source text as an equivalent mathematical term, not a second mechanism. Each triangle owns its own Steward position at each of its three nodes; the physical office may be elsewhere within the triangle. A regular six-triangle node therefore has six separate positions, never a shared six-person voting body.
-
-**Ring construction (041, provisional beyond ring two):** The first candidate ring is the five other triangle-owned positions at the originating node; the second comprises the other two node-associated positions in each of those five triangles (ten nominal positions). For further rings, the node-centred discovery frontier considers all six incident triangles, excludes previously visited triangles, and discovers new triangles by full-edge adjacency. This replaces the earlier origin-excluded frontier as the preferred *provisional engineering method*, not as a constitutional requirement. Irregular nodes, seams, resolution boundaries and ring-three counts remain unresolved. At each authorised ring, eligibility is independently verified; one eligible holder is selected, two or more require an unbiased auditable draw. A contextually justified security exception may widen the search without granting emergency jurisdiction. The selected Steward fills one original position, not an additional vote.
-<!-- END V2.1 SOURCE RECOVERY 2026-10-13 CHAPTER 12 -->
+**Consolidated cross-reference:** The Chapter 12 rules for independent ballots, two-matching-vote determinacy, contextual conference, expanded constituent resultants and one-position GTP substitution are specified in §§12.0–12.9. The node vocabulary and provisional outer-ring candidate selection are specified in §§12.9.0–12.9.0a and Chapter 132. **[LOCAL VALIDATION — FI-008, FI-009, FI-029, FI-031:]** Remaining checks concern independent forum constitution, position return, origin-included participant uniqueness, disclosure boundaries and host commitment—not revival of superseded quorum or ballot-revocation rules.
 
 ## 12.26 V1 governance operating-cycle and Steward lifecycle incorporation
 
