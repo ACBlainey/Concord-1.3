@@ -337,6 +337,14 @@ The authority to identify failure is distinct from authority to determine every 
 Review mechanisms must themselves be bounded, contestable and reviewable; their existence cannot self-certify indefinite power. Escalate on evidence of capture, errors or systemic failure, not simply because a coarser GTP triangle exists. The reviewer's access and action authority remain separate. **[LOCAL ISSUE:]** independent reviewer appointment and recursive stopping boundary.
 <!-- END V2.1 CROSS SOURCE DETAIL CH162 -->
 
+<!-- BEGIN V2.1 ADVERSARIAL RECOVERY CH162 -->
+### Chapter 162 — Adversarial review of meta-authority
+
+**Audit source:** BCA Adversarial Attack and Falsification Audit §§48–54 (historical adversarial evidence, not adopted law).
+
+The BCA audit identifies authority to define, interpret or validate authority as authority itself, subject to bounded contextual review (BCA-R11). Recursive oversight cannot be made legitimate merely by adding another review office. Record independent function legitimacy, review mandate, appeal, termination and evidence. **[LOCAL ISSUE:]** recursive stopping condition and jurisdictional conflict resolution.
+<!-- END V2.1 ADVERSARIAL RECOVERY CH162 -->
+
 # Chapter 163 — Governance and KCS
 
 ## 163.1 Knowledge Status
