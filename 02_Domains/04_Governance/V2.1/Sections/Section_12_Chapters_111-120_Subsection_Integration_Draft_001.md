@@ -227,7 +227,9 @@ Record source, method, collection time, transformations, assumptions, confidence
 
 Retain enough evidence to reconstruct consequential reasoning and detect manipulation, but no more identifying data than necessary. Evaluate whether a later coercive authority could exploit the archive, identity infrastructure or classification system. The audit proposes classification sunset, privacy-minimised provenance and decision-time evidence snapshots. **[LOCAL ISSUE:]** Historical custody, redaction and independent disclosure.
 
+## 111.18 — KCS correction propagation and bounded dependency visibility
 
+Concord **KCS Change Propagation** (§§16, 20, 24) supplies an existing mechanism for preserving the original evidence version, recording correction and provenance, traversing material dependent objects, and generating owner-routed **REVIEW_REQUIRED** signals. A dependency edge does not subordinate a downstream authority to the upstream supplier; correction does not itself invalidate an irrevocably committed Steward ballot or grant power to reverse its effect. Review and remedy remain separately authorised consequential acts. The dependency graph can reveal protected relationships and recovery vulnerabilities, so its query/projection interface must be purpose-bounded and need not expose the full graph to every requester. **[LOCAL ISSUE — FI-049, FI-050, FI-082:]** Historical object linkage, review thresholds, privacy-preserving projection and actual owner acknowledgements remain to be verified.
 
 # Chapter 112 — Surveillance
 
