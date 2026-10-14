@@ -1247,6 +1247,14 @@ Governance should determine whether an accumulating-power loop:
 Examine the causal chain from a lawful initial intervention through newly generated data, metrics, dependency, requests for expanded resources and subsequent grants. A policy's own outputs cannot independently certify its necessity or continuation. Audit cumulative capability across credentials, infrastructure and domain grants, not only each isolated permission. Require independent evidence and bounded successor-function justification before renewed authority. **[LOCAL OPEN:]** aggregate control graph and independent audit access.
 <!-- END V2.1 V1 COMPONENT RECOVERY CH176 -->
 
+<!-- BEGIN V2.1 AUDIT SERIES RECOVERY CH176 -->
+### Chapter 176 — Multidimensional authority vector and aggregate load
+
+**Audit source:** Integrated Threat-Governance Loop Adversarial Audit §§38–39 (historical adversarial evidence; not adopted law).
+
+The integrated audit proposes candidate authority vector A={P,G,T,C,I,R,D,S,V}: population, geography, time, coercion, information, resources, delegation, secrecy and reversibility. Each dimension requires independent necessity justification. Cumulative emergency powers, surveillance, secrecy and central resource control may trigger constitutional review, not automatic cancellation. **[LOCAL ISSUE:]** vector calibration and cross-office aggregation.
+<!-- END V2.1 AUDIT SERIES RECOVERY CH176 -->
+
 # Chapter 177 — Self-Certifying Authority
 
 ## 177.1 Definition
