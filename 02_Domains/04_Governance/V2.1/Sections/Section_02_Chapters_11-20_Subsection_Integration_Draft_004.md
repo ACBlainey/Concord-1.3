@@ -427,6 +427,15 @@ It is to make constitutional velocity visible.
 
 # Chapter 12 — Managing Governance Work
 
+### 12.0i Bounded voting context and conserved constituent authority
+
+Treat each decision as a temporary bounded voting context, not as a standing pool of authority. The decision owner defines the question/version, decision identity and scope, affected rights, competent mandate, constituent positions, verified distinct holders, conflicts, quorum and consequence class before permitting valid vote transitions. Eligibility evidence, technical capability, permission, legitimate authority, valid result and host implementation authority are different checks; contextual wrappers and portable modules consume externally established authority rather than issue it. After commitment, the vote-specific enabling state is consumed while audit, accountability and independently lawful follow-up duties survive.
+
+Across the **complete** nested or expanded decision-event graph, each Steward may occupy at most one individual voting position. A lawful constituent triad contributes exactly **one** resultant to its one receiving slot, conserving that slot's voting weight and limiting its scope to the original position's mandate; its three individual ballots must never be pooled with other original-level votes. A virtual triad receives exactly three authorised resultants, not nine original-level ballots. Recursion cannot multiply authority, reset identity uniqueness, bypass eligibility or prolong decision scope; each expansion needs independent legitimacy and finite stopping conditions. Resultant slots are outputs, not new individual ballots by the constituent Stewards.
+
+A protected voting-context record should bind the decision and question versions, source mandate, jurisdiction, vote-event boundary, position graph and constituent references, identity and conflict checks, lawful quorum basis, ballot and resultant states, effective-time rule, commit/close state and provenance. Missing mandatory authority or eligibility withholds an operative result even if diagnostic arithmetic can be calculated. This governance integration does **not** declare the separately developed Bounded Voting Context portable-module candidate graduated or deployed.
+
+
 ### 12.0h Cross-owner execution, acknowledgements and independent review
 
 Governance owns the valid decision and immutable position ballots; a determined outcome is **not** a CBPR/host action grant. The competent host separately validates its own legitimate function, target, action identity, contextual scope, rights, current state, expiry and revocation at material execution. BTA records asynchronous transitions and residual consequences; KCS propagates material dependency changes; Historical preserves attributable records under contextual access rules. A Governance coordinator or ACKS receiver must not overwrite another owner's state.
