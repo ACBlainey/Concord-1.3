@@ -763,13 +763,13 @@ The system may need to act under uncertainty concerning:
 
 This remains a major future constitutional problem.
 
-<!-- BEGIN V2.1 BCA SOURCE CH62 -->
-### Chapter 62 — Multidimensional authority envelope
+## 62.10 Multidimensional authority envelope
 
 **Source basis:** Bounded Contextual Authority, sections 8–11 and 19–20 (candidate research).
 
 Authority is not a single role-derived permission. The proposed envelope distinguishes purpose, permitted actions, protected objects, space, information, duration, conditions, delegation, termination and exceptional rules. Each requested act requires current context, legitimate function, scope and rights checks. A technical credential cannot itself prove lawful permission. **[LOCAL ISSUE:]** host representation and revalidation.
-<!-- END V2.1 BCA SOURCE CH62 -->
+
+
 
 # Chapter 63 — Current Status of Governance V2
 
@@ -966,13 +966,13 @@ The principle is:
 
 # PART VII — SOURCE-SURVIVAL RECONSTRUCTION AND OPERATIONAL DETAIL
 
-<!-- BEGIN V2.1 TRIADIC EPISTEMICS CH64 -->
-### Chapter 64 — Triadic observation does not constitute governance voting
+## 64.5 Triadic observation does not constitute governance voting
 
 **Source basis:** Triadic Epistemics — Independent Measurement §§5–15 (candidate research).
 
 The research candidate has three deliberately differentiated formal observation pathways and a participant-derived evidence stream. These are epistemic channels, not three governance Stewards, and participant reports are not a fourth vote. Compare formal and lived evidence; persistent disagreement or silence requires diagnosis, not automatic suppression or compulsory response. **[LOCAL ISSUE:]** evidence ownership, participant privacy and channel independence.
-<!-- END V2.1 TRIADIC EPISTEMICS CH64 -->
+
+
 
 # Chapter 65 — The Governance Record
 
@@ -1398,29 +1398,29 @@ Where material, AI-derived interpretation should remain traceable.
 
 > **The Governance record exists so that authority, evidence, reasoning, implementation, disagreement, outcome and correction remain reconstructable across time. The record should be sufficiently durable to resist institutional amnesia and sufficiently proportionate that recording itself does not make Governance unusable.**
 
-<!-- BEGIN V2.1 SOURCE RECOVERY SECTION 07 CH65 -->
-### Chapter 65 — Recovered cross-source governance interface
+## 65.20 Recovered cross-source governance interface
 
 **Source basis:** V1 Governance Component Recovery Map G-R04, G-R08, G-R15; Governance Operating Boundary and Authority Lifecycle §§16–18.
 
 The decision record distinguishes proposal, mandate, competent context, evidence provenance, independent official ballots, abstention/dissent, resultant, implementation authority, receipts, observed effects and review triggers. Preliminary nonofficial reasoning and any separately authorised conference material are distinct from irrevocable official ballots. Historical custody and Research interpretation do not confer governance authority. **[LOCAL DEPENDENCY:]** Protected record projections, provenance schema and receipt reconciliation require host implementation.
-<!-- END V2.1 SOURCE RECOVERY SECTION 07 CH65 -->
 
-<!-- BEGIN V2.1 EPISTEMIC SOURCE CH65 -->
-### Chapter 65 — Claim-level evidence record and thresholds
+
+
+## 65.21 Claim-level evidence record and thresholds
 
 **Source basis:** Epistemic Independence, Contestability and Provenance §§3–5,13–14,36 (preliminary research).
 
 The preliminary Civil Evidence architecture distinguishes C0 observation, C1 derived measurement, C2 interpretation, C3 prediction, C4 causal claim, C5 civil-relevance claim, C6 functional claim and C7 authority claim. Confidence attaches to individual claims, not a whole report. Its provisional thresholds E0 notice, E1 inquiry, E2 material concern, E3 functional justification and E4 special-authority justification are different evidential burdens, not automatic numeric grades. Preserve provenance and dependency across transitions; evidence sufficient to investigate is not necessarily sufficient to authorise. **[LOCAL ISSUE:]** domain-specific evidential standards and evidence schema.
-<!-- END V2.1 EPISTEMIC SOURCE CH65 -->
 
-<!-- BEGIN V2.1 ADVERSARIAL RECOVERY CH65 -->
-### Chapter 65 — Triadic epistemic falsification boundary
+
+
+## 65.22 Triadic epistemic falsification boundary
 
 **Audit source:** Triadic Epistemics Direct Adversarial Audit §§162–166 (historical adversarial evidence, not adopted law).
 
 The direct adversarial audit reports survival of plural observation only with material refinements: layer-specific dependency awareness, open external correction, no 2–1 truth rule, auditable anomaly triage and calibration against actual outcomes. A three-office design alone does not demonstrate independent evidence. **[LOCAL ISSUE:]** empirical comparison against simpler and open-network alternatives.
-<!-- END V2.1 ADVERSARIAL RECOVERY CH65 -->
+
+
 
 # Chapter 66 — Proposal Architecture
 
@@ -1971,21 +1971,21 @@ Review conditions should be proportionate to consequence.
 
 > **A significant Governance proposal should make the problem, proposed intervention, authority, evidence, uncertainty, alternatives, harms, benefits, resource requirements, reversibility, dependencies, implementation, review and failure conditions sufficiently explicit that civilisation can evaluate the proposal rather than merely react to its rhetoric.**
 
-<!-- BEGIN V2.1 V1 COMPONENT RECOVERY CH66 -->
-### Chapter 66 — Proposal registration and decision-field routing
+## 66.26 Proposal registration and decision-field routing
 
 **Recovered source:** V1 Governance Component Recovery Map G-R02,G-R04,G-R06–G-R08 and mesh reinterpretation.
 
 A proposal begins as a defined civil problem, not a claim of power. Record the observed condition, proposed state change, affected persons and rights, evidence provenance, uncertainty, functional context and anticipated externalities. Identify the minimum competent governance context or combination of contexts, then verify its mandate. Expand information before expanding authority where feasible. If the matter crosses functional, geographic or resource boundaries, coordinate laterally or across resolutions; a constitutional question takes the independent constitutional route. A coarser GTP resolution has no inherent power over a finer one. Separate decision authority, implementation authority and retained local authority. **[LOCAL OPEN:]** proposal schema, competing-context routing, information-access gates and cross-context consent.
-<!-- END V2.1 V1 COMPONENT RECOVERY CH66 -->
 
-<!-- BEGIN V2.1 AUDIT SERIES RECOVERY CH66 -->
-### Chapter 66 — Threat provenance before authority
+
+
+## 66.27 Threat provenance before authority
 
 **Audit source:** Integrated Threat-Governance Loop Adversarial Audit §§37–39 (historical adversarial evidence; not adopted law).
 
 The integrated threat-governance audit proposes an end-to-end Threat Provenance Record: observation, sources, metric and proxy definitions, trigger, investigator and dependencies, competing analyses, confidence, temporal horizon, preparation lead time, alternative framings/functions, chosen civil objective, authority need/vector, aggregate effects, review, outcome and independent evaluation. Detection is not an authority grant. **[LOCAL ISSUE:]** minimum viable record and owner custody.
-<!-- END V2.1 AUDIT SERIES RECOVERY CH66 -->
+
+
 
 # Chapter 67 — Decision Classification
 
@@ -2236,13 +2236,13 @@ Governance should therefore review classification when practical effect changes.
 
 > **Decision classification exists to match procedure to consequence. Classification should neither trivialise consequential decisions nor burden routine administration unnecessarily, and the classification itself must remain challengeable when practical effect differs from formal label.**
 
-<!-- BEGIN V2.1 SOURCE DEEPENING CH67 -->
-### Chapter 67 — Decision classification and consequence topology
+## 67.16 Decision classification and consequence topology
 
 **Recovered source:** V1 Governance Component Recovery Map G-R04,G-R09.
 
 Classify a proposed decision by state change, severity, reversibility, rights, uncertainty, jurisdiction, urgency and dependencies. Priority affects processing order, not Steward vote weight. Distinguish ordinary, experimental, cross-context, emergency and constitutional-review routes; verify separate competence. **[LOCAL ISSUE:]** classification thresholds and anti-starvation.
-<!-- END V2.1 SOURCE DEEPENING CH67 -->
+
+
 
 # Chapter 68 — The Principle of Articulability
 
@@ -2402,13 +2402,13 @@ A restricted decision should remain capable of examination by authorised indepen
 
 > **A Steward should be capable, to a degree proportionate to consequence, of making the constitutional, evidential and practical basis of an exercise of authority sufficiently explicit that another competent reviewer can understand and challenge it. Persuasiveness alone is not articulability.**
 
-<!-- BEGIN V2.1 CROSS SOURCE DETAIL CH68 -->
-### Chapter 68 — Articulability under urgency
+## 68.11 Articulability under urgency
 
 **Source basis:** Constitutional Emergency V2 Chapters 14–18; Governance Operating Boundary and Authority Lifecycle §§16–18.
 
 Even when urgency compresses procedure, significant decisions should record the question, available evidence, uncertainty, constitutional purpose, rights impact, alternatives, bounded power, responsible decision-holder, expected duration and later outcome. An AI model or specialist recommendation is not an authority transfer. Where contemporaneous detail is impossible, record the limitation and complete review when safe, without retrospectively rewriting what was known. **[LOCAL ISSUE:]** emergency record minimum and owner custody.
-<!-- END V2.1 CROSS SOURCE DETAIL CH68 -->
+
+
 
 # Chapter 69 — Fiduciary Duty in Practice
 
@@ -2672,21 +2672,21 @@ These questions remain open.
 
 > **Stewardship requires the careful, impartial, transparent where appropriate, articulable, constitutionally loyal, accountable and correctable exercise of delegated authority in service of the responsibility entrusted to the office rather than the personal or institutional interests of the Steward.**
 
-<!-- BEGIN V2.1 LEGITIMATE FUNCTION SOURCE CH69 -->
-### Chapter 69 — Functional legitimacy audit and fiduciary justification
+## 69.18 Functional legitimacy audit and fiduciary justification
 
 **Source basis:** Legitimate Function and the Authority Justification Chain §§12–14,29–32 (research candidate, not adopted constitutional test).
 
 Apply the proposed ten-test legitimate-function audit: LF-01 upstream traceability to rights and civil objective; LF-02 non-circularity; LF-03 rights compatibility; LF-04 functional specificity; LF-05 demonstrable need; LF-06 proportionality; LF-07 alternative means; LF-08 current relevance; LF-09 non-self-perpetuation; LF-10 reviewability. A declared mission or an existing office cannot certify its own legitimacy. Failed tests initiate scrutiny, not automatic erasure of a potentially legitimate function whose records are incomplete. **[LOCAL ISSUE:]** Which owner formally assesses each test and how contested findings are appealed.
-<!-- END V2.1 LEGITIMATE FUNCTION SOURCE CH69 -->
 
-<!-- BEGIN V2.1 ADVERSARIAL RECOVERY CH69 -->
-### Chapter 69 — BCA adversarial qualifications to legitimate function
+
+
+## 69.19 BCA adversarial qualifications to legitimate function
 
 **Audit source:** BCA Adversarial Attack and Falsification Audit §§48–55, BCA-R1–R5 (historical adversarial evidence, not adopted law).
 
 The 100-attack BCA audit rejects a self-grounding function claim: declared function is not legitimate function, and a holder must not solely authenticate high-impact activating conditions. Recover proposed refinements BCA-R1 legitimate function, R2 non-circularity, R3 fresh review on expansion, R4 independent validation of high-impact self-activation and R5 successor-function re-scoping. **[LOCAL ISSUE:]** independent authority to recognise functions without recursive self-certification.
-<!-- END V2.1 ADVERSARIAL RECOVERY CH69 -->
+
+
 
 # Chapter 70 — Conflict of Interest
 
@@ -2899,10 +2899,10 @@ Impartiality does not require absence of worldview.
 
 > **Conflict of interest is a condition requiring visibility and proportionate management rather than an automatic finding of corruption. Governance should distinguish useful expertise from decision authority, personal conflict from structural conflict, and disclosed manageable interests from concealed or disqualifying influence.**
 
-<!-- BEGIN V2.1 CROSS SOURCE DETAIL CH70 -->
-### Chapter 70 — Conflict, recusal and abstention
+## 70.13 Conflict, recusal and abstention
 
 **Source basis:** V1 Governance Component Recovery Map G-R10; Expanded Triadic Governance Reconstruction 001.
 
 Disclose material conflict. Abstention is not vacancy or Against; do not substitute simply to obtain a preferred vote. Recusal requires separate legal status and replacement authority; origin-triad conflicts may warrant exclusion from expanded field. Two matching valid official votes may already determine outcome. **[LOCAL ISSUE:]** recusal eligibility and substitute rules.
-<!-- END V2.1 CROSS SOURCE DETAIL CH70 -->
+
+
