@@ -654,6 +654,14 @@ Simulation, experiment, comparison and field evidence remain necessary where app
 Uncertainty is a recordable condition, not a licence for arbitrary confidence. Preserve rival explanations, counterevidence, model limitations, assumptions and consequences; treat apparent consensus from shared evidence sources cautiously. An adverse result does not retrospectively prove earlier reasoning misconduct. **[LOCAL ISSUE:]** independent evidence review and calibration.
 <!-- END V2.1 CROSS SOURCE DETAIL CH204 -->
 
+<!-- BEGIN V2.1 ADVERSARIAL RECOVERY CH204 -->
+### Chapter 204 — Attention scarcity and diagnostic contestability
+
+**Audit source:** Triadic Epistemics Direct Adversarial Audit §§15–20,157–166 (historical adversarial evidence, not adopted law).
+
+The Triadic Epistemics audit warns that anomaly overload can make the investigator or triage queue a de facto sovereign. A 2–1 epistemic split is diagnostic, never a truth vote; persistent minority outliers should remain discoverable without granting unlimited veto or investigation resources. Test proportionate triage and attention capture rather than presuming every discrepancy requires full inquiry. **[LOCAL ISSUE:]** independent anomaly prioritisation and anti-starvation.
+<!-- END V2.1 ADVERSARIAL RECOVERY CH204 -->
+
 # Chapter 205 — Governance and Constitutional Humility
 
 ## 205.1 No Final Generation
