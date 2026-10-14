@@ -659,6 +659,14 @@ The transition should include:
 Emergency operational time and event-driven state machines remain responsive while the variable Civilisation Clock is paused. Emergency authority must be function-specific, minimally sufficient, recorded, reviewable and self-terminating when necessity ends. Preserve the distinction between continued infrastructure function, office succession, surviving obligations and exceptional political power; restoration is an active constitutional phase. **[LOCAL OPEN:]** operational timer, event gates, owner-state integration and independent sunset enforcement.
 <!-- END V2.1 EMERGENCY SOURCE RECOVERY CH164 -->
 
+<!-- BEGIN V2.1 CITIZEN ID AUDIT CH164 -->
+### Chapter 164 — Civil identity continuity and emergency communication
+
+**Audit source:** Concord Citizen ID — Threat, Privacy and Misuse Audit §§25–30,35–36; historical research evidence, not adopted law.
+
+Loss of authentication credentials must not terminate civil identity. Official communication should support store-and-forward reachability without requiring disclosure of physical location, including remote and deep-space settings. Exceptional routing and credential recovery require separate purpose-limited authorisation and accessible review. **[LOCAL ISSUE:]** offline recovery, cross-jurisdiction routing and identity continuity.
+<!-- END V2.1 CITIZEN ID AUDIT CH164 -->
+
 # Chapter 165 — Governance and Provenance
 
 ## 165.1 Decision Ancestry
