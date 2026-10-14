@@ -836,23 +836,13 @@ The expanded forum may decide only within the specifically authorised common fie
 
 <!-- BEGIN V2.1 G03 QUORUM AND V1.1 TRIADIC SOURCE RESOLUTION -->
 
-### Chapter 12 — Source-verified voting arithmetic versus resolved quorum precedence and remaining validity gates
+### Chapter 12 — Source-derived arithmetic and remaining constitutional validity gates
 
-**Source comparison:** `Integration/Triadic_Module_V11_Source_Comparison_Minimal_Amendment_008.md` records a verified reading of `ACBlainey/Concord-1.1/06_Portable_Modules/Triadic Decision Making Module.md` (blob `48084031d1d834a98e5294232eef96322280c2f9`). Its §§2, 6, 8–10, 18 and 21 support three equal decision positions, initial independent reasoning, two matching For or Against votes as the majority rule, abstention as distinct from Against, no-majority restraint, and independent authority/participant checks. The source describes itself as experimental and names a separate Triadic Governance Decision Protocol and Governance Operating Protocol; their operative text is not verified by this comparison.
+The recovered V1.1 **Triadic Decision Making Module** supports three equal positions, independent reasoning, Favour/Against/Abstain distinctions and a two-matching-substantive-vote majority. Later authorial direction 048 establishes the operative V2.1 precedence: **two independently valid matching official F/A ballots determine the result**, without a universal three-occupied-position gate. Validity still requires legitimate competence, distinct authorised positions, eligibility, forum identity, decision-event boundary and separate consequential implementation authority. A missing third ballot is a provenance state, not an automatic negative or veto. No decision can be made operative merely by calculating an arithmetic majority.
 
-**New versus inherited architecture:** The V1.1 portable module does **not explicitly specify** a three-person constituent replacing one original voting position, two-stage resultant aggregation, recursive weight conservation, or R/A/B/C GTP allocation. The optional companion C-008-01–05 and Chapter 12 Candidate 013 propose those mechanisms as additive interfaces, not quotations from V1.1. They preserve the source's ordinary majority semantics but cannot independently authorise substitution or change quorum.
+Expanded constituent triads, one-position substitutions and GTP node mappings require their own lawful appointment and event-wide identity checks; they are not automatically authorised by the original portable module. A virtual triad aggregates **three constituent resultants**, never a pooled nine-ballot total. `DECISION_BOUNDARY_UNKNOWN`, invalid forum, unresolved valid vote and valid Against are distinct states.
 
-**Resolved precedence; remaining validation:** Integration 047 proposed a full-three-position consequential quorum as a conservative provisional assumption. Later authorial direction 048 and the Chapter 12 consolidated working rule supersede that assumption: two independently valid matching official F/A ballots determine the substantive result without an additional universal three-occupied-position gate. The competent forum, distinct authorised positions, lawful mandate, identity, event boundary and host execution authority remain separate requirements. The former Q-1–Q-4 fork is historical source provenance, **not a live choice or operative default**. Invalid constitution, valid unresolved, valid For/Against and unknown decision boundary remain distinct states.
-
-**Node mapping:** `Integration/GTP_Six_Steward_Vertex_Mapping_Constraints_019.md` requires independently sourced mapping of conceptual vertex associations to distinct triangle-owned positions and actual persons, eligibility, mandate and event. Six vertex associations alone cannot appoint six voters. Nine-position virtual arrangements require nine distinct eligible holders. Unknown mapping, common competence or quorum withholds operative commitment rather than authorising duplication.
-
-**Decision boundaries:** `Integration/Decision_Event_Boundary_Source_Limited_Review_018.md` distinguishes constituent stages, technical retries, continued deliberation, reconsideration, appeal and independently authorised subsequent decisions. A fresh label cannot reset Steward uniqueness or expiry; `DECISION_BOUNDARY_UNKNOWN` is a hold state, not a vote.
-
-**Remaining graduation checks:** Verify the actual two-valid-ballot participation gate, exceptional vacancy/provisional-position mechanisms, decision timing and owner commit contract. Do not reinstate Q-1–Q-4 as operative law.
-
-<!-- END V2.1 G03 QUORUM AND V1.1 TRIADIC SOURCE RESOLUTION -->
-
-<!-- BEGIN V2.1 G03 AUTHORIAL DIRECTION 048 — QUORUM PRIORITY CORRECTION -->
+**[LOCAL VALIDATION — FI-004, FI-005, FI-008, FI-029, FI-031:]** Validate the actual host constitution/commit gates, irregular GTP node mapping, exceptional position continuity and authoritative event boundary. The former full-three quorum proposal and its Q-1–Q-4 variants remain in original source records, not as operative alternatives in V2.1.
 
 ### Chapter 12 — Authorial direction 048 takes priority over provisional full-constitution assumption 047
 
