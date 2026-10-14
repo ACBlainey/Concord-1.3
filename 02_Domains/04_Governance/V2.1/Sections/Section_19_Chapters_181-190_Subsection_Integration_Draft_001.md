@@ -622,7 +622,9 @@ Metrics inform judgement but cannot replace constitutional legitimacy. Improveme
 
 Capture can occur at agenda, measurement, model, access, credential, publication, commission or provenance layers. A high-confidence label on a report may conceal weak causal or authority claims. Distinguish the C0–C7 claim chain and test shared-source dependency before treating consensus or forecast metrics as constitutional justification. **[LOCAL ISSUE:]** independent claim challenge and protected disclosure.
 
+## 183.V21 — Existing contested metric and knowledge-dependency interface
 
+Concord **State and Maturity Mapping** (§§10–16, 21–26) prohibits treating multidimensional maturity as a universal score; **KCS Change Propagation** (§§16, 20) records source corrections and dependent review without giving data suppliers governance authority. Public C0–C7 or other constitutional performance claims should preserve metric owner, source/version, methodology, uncertainty, challenge route and correction history. Disputed measures cannot become self-validating authority merely through repetition or dashboard visibility. Protected whistleblower evidence may require a purpose-bounded projection and independent reviewer rather than general publication. **[LOCAL ISSUE — FI-071, FI-044:]** independent calibration, whistleblower protection, contested metric standards and remedy competence remain open.
 
 # Chapter 184 — Governance Capture Through Reputation
 
