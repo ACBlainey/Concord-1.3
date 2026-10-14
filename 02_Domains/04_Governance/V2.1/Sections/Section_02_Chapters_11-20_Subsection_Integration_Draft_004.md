@@ -427,6 +427,15 @@ It is to make constitutional velocity visible.
 
 # Chapter 12 — Managing Governance Work
 
+### 12.0e State-conditioned instantaneous authority and event acceptance
+
+Institutional office, competence, standing procedure, technical capability and valid prerequisite evidence may persist, but **authority itself is not a stored balance, continuing lease or standing permission**. For each consequential decision or act, the owning state machine must verify the current legitimate state, context, scope, rights, consent and safeguards at the event boundary. The authorised event consumes its enabling state through an atomic compare-and-transition and preserves a durable attributable record. Replaying the event, or inventing a new event identifier against the consumed state, cannot regenerate the same authority. Any later consequential action requires its own independent legitimate enabling state. A one-use technical token is only a replay guard or provenance reference, not possessed authority.
+
+A delayed acknowledgement or status query reports or reconciles an outcome; it does not renew the consumed authority. A local atomic transaction cannot guarantee atomicity of an external physical effect: unknown host outcomes require identity-based reconciliation, not blind replay. Two matching valid ballots determine the result, while early acceptance is a distinct context-authorised transition that checks current owner evidence and state at commit. Local SQLite fixture success does not establish authenticated external-owner state, distributed atomicity, real jurisdiction or deployed host execution authority. The third Steward retains independently valid remaining ballot eligibility after early acceptance; no Civilisational Clock tick is a prerequisite for an independently lawful urgent decision.
+
+**Open implementation boundary:** bind actual owner attestations, revocation evidence and cross-system effect reconciliation to the committing state machine without converting prerequisite validity windows into continuing authority.
+
+
 ### 12.0d Analogy boundary and review separation
 
 The three rooms, cases, combinations, hammers and seventh digit are explanatory analogies, not physical implementation requirements. Implement independent bounded Steward authority, authenticated one-use vote commitment, minimal owner-authorised count projection, separate contextual acceptance, independent review and separately authorised host execution. Validate these actual interfaces rather than toy locks. Two matching substantive ballots determine a result without automatically consuming the third Steward's remaining vote authority. A post-commit concern is append-only, not ballot revocation; alleged invalidity requires separate adjudication preserving original evidence. Replacement decisions need new identities and authority. An unexercised execution grant may expire independently without altering a committed ballot. Fixture demonstrations do not establish deployed security or reliable authenticated projections.
