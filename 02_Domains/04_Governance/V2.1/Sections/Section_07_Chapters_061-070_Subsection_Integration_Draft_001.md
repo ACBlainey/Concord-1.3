@@ -958,6 +958,14 @@ The principle is:
 
 # PART VII — SOURCE-SURVIVAL RECONSTRUCTION AND OPERATIONAL DETAIL
 
+<!-- BEGIN V2.1 TRIADIC EPISTEMICS CH64 -->
+### Chapter 64 — Triadic observation does not constitute governance voting
+
+**Source basis:** Triadic Epistemics — Independent Measurement §§5–15 (candidate research).
+
+The research candidate has three deliberately differentiated formal observation pathways and a participant-derived evidence stream. These are epistemic channels, not three governance Stewards, and participant reports are not a fourth vote. Compare formal and lived evidence; persistent disagreement or silence requires diagnosis, not automatic suppression or compulsory response. **[LOCAL ISSUE:]** evidence ownership, participant privacy and channel independence.
+<!-- END V2.1 TRIADIC EPISTEMICS CH64 -->
+
 # Chapter 65 — The Governance Record
 
 ## 65.1 Governance Requires a Durable Record
