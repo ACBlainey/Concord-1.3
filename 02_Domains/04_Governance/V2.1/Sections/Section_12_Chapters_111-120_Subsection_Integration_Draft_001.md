@@ -418,8 +418,7 @@ Verifying whether contextual authority remains valid does not authorise universa
 
 Resolver access, delivery receipts, fraud monitoring and oversight logs can each become a covert participant-location or association database. Separate reachability from location; query access must have purpose, bounded scope, provenance and independent review. Potential future usefulness is not justification for indefinite collection. Even oversight records should minimise private content. **[LOCAL ISSUE:]** retention, participant notice and protected exceptional disclosure.
 
-
-
+## 112.16 — Existing protected evaluation and cumulative disclosure interfaces
 # Chapter 113 — Security Classification and Secrecy
 
 ## 113.1 Legitimate Secrecy
