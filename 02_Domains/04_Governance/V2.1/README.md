@@ -2,6 +2,18 @@
 
 **Status:** Development workspace, not canonical. **Governance V2 Canonical.md must remain unchanged.**
 
+
+## Source labels, succession and resolution policy — authorial direction, 14 October 2026
+
+- Treat labels such as **canonical**, **non-canonical**, **provisional** and **working** as historical indicators of what was regarded as most up to date at the time of writing. They are **not** proof of completeness, validation, substantive correctness, or superior source authority. Do not discard an older architecture merely because its status label differs.
+- Assess substantive rules by their actual text, chronology, authorial clarification, compatibility and provenance. Recover older omitted architecture where relevant; distinguish genuine supersession from migration omission. Resolve conflicts on their merits and flag unresolved questions at the affected V2.1 provision.
+- **Governance V2.1 is the intended successor to Governance V2.** V2.1 will supersede V2 when the identified issues have been addressed and the architecture reconciled. Until then, retain V2 unchanged as a historical source and comparison baseline, without treating its former label as a veto on V2.1 development.
+- Completion of source consolidation does not itself resolve the flagged issues. Do not use historical status labels as a substitute for issue resolution, actual implementation evidence or constitutional review.
+
+## Current consolidation state — 14 October 2026
+
+The identified `Integration/` and `Reconciled_Candidates/` queues have been consolidated into the relevant V2.1 section drafts and their 109 source records moved to `Completed/`; GitHub omits the now-empty directories. Chapter patches and superseded candidate versions are not competing current architecture. Continue with the issues flagged at their actual chapter locations and the consolidated issues register. The 22 sectional drafts cover the intended 215-chapter V2 structure; structural completeness, consistency and resolution of outstanding issues still require checking.
+
 ## Structure
 The local V2 source has **215 numbered chapters**. Plan 22 sectional manuscripts: Sections 01–21 each contain ten consecutive chapters (1–10, 11–20, …, 201–210); Section 22 contains Chapters 211–215. Preserve original chapter numbers and headings. Chapters may be revised only with explicit source and change notes; unaffected text is to be carried forward faithfully during section assembly.
 
