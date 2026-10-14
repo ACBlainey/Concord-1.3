@@ -351,6 +351,14 @@ Minority reasoning should still be evaluated substantively.
 Preserve the third Steward's independent reasoning and dissent even after two matching valid official ballots determine the result. Dissent and abstention are evidence about uncertainty, alternatives and governance health, not disloyalty or automatic incompetence. Parallel Stewardship remains advisory absent independent mandate. **[LOCAL ISSUE:]** protected dissent projections and later review.
 <!-- END V2.1 CROSS SOURCE DETAIL CH122 -->
 
+<!-- BEGIN V2.1 ADVERSARIAL RECOVERY CH122 -->
+### Chapter 122 — Protect minority reality under aggregation
+
+**Audit source:** Triadic Epistemics Direct Adversarial Audit Attack Classes E–G (historical adversarial evidence, not adopted law).
+
+The audit identifies aggregate washout, geographically distributed minorities, rare catastrophic harms and newly recognised sentience classes as ways apparently convergent metrics can conceal consequential suffering. Participant silence may reflect fear, exclusion or death. Protect accessible reporting and independent challenge without automatically treating every report as verified. **[LOCAL ISSUE:]** minority signal retention and privacy.
+<!-- END V2.1 ADVERSARIAL RECOVERY CH122 -->
+
 # Chapter 123 — Governance and Future Generations
 
 ## 123.1 Representation Without Direct Participation
