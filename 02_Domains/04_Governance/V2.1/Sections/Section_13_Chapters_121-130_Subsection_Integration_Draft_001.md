@@ -1527,6 +1527,14 @@ The decision should not be frozen permanently by either early enthusiasm or earl
 
 > **AI constitutional standing should be determined through explicit constitutional and evidential development rather than utility, intelligence, ownership status or operational dependence alone. Questions of sentience, agency, identity, continuity, vulnerability and responsibility may require separate analysis, with proportionate respect before certainty where irreversible harm under genuine uncertainty is plausible.**
 
+<!-- BEGIN V2.1 TRIADIC EPISTEMICS CH128 -->
+### Chapter 128 — Participant evidence and substrate accessibility
+
+**Source basis:** Triadic Epistemics — Independent Measurement §§8–15,37–41.
+
+Participant experience is a distinct evidence pathway whose absence may reflect inability, fear, access barriers, sampling bias or genuinely absent harm. Human, AI and hybrid reports need accessible, privacy-respecting routes. Correlated testimony may share information sources and must be examined without erasing genuine minority harm. **[LOCAL ISSUE:]** anonymity, anti-manipulation and substrate-specific reporting.
+<!-- END V2.1 TRIADIC EPISTEMICS CH128 -->
+
 # Chapter 129 — Governance and Hybrid Civilisation
 
 ## 129.1 Boundary Dissolution
