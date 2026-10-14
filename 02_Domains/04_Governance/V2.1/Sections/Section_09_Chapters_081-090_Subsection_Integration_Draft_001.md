@@ -454,13 +454,13 @@ Governance should therefore preserve accountability for administrative influence
 
 > **Routine administration is a constitutional interface between authority and everyday life. Administrative discretion should remain bounded and reviewable, administrative burden should not hollow out formal rights, and automation or staff expertise should not silently convert implementation into unaccountable policy authority.**
 
-<!-- BEGIN V2.1 LEGITIMATE FUNCTION SOURCE CH82 -->
-### Chapter 82 — Routine administrative authority and its bounds
+## 82.17 Routine administrative authority and its bounds
 
 **Source basis:** Legitimate Function and the Authority Justification Chain §§18–19,24,26.
 
 Routine low-impact civil functions may use low-friction standing operational permissions where the lawful mandate, permitted action, information access, resource, duration and termination are clear. Routine status is not immunity from audit; material change in impact, rights, consent or context requires revalidation. The authority to investigate whether power is needed must itself be bounded and must not presume the investigative result. **[LOCAL ISSUE:]** routine/exceptional impact thresholds and investigative access.
-<!-- END V2.1 LEGITIMATE FUNCTION SOURCE CH82 -->
+
+
 
 # Chapter 83 — Appeals and Review Pathways
 
@@ -813,21 +813,21 @@ Its purpose is to address failure of the reviewing architecture itself.
 
 > **Governance requires both review and finality. Appeal architecture should correct material error through accessible and proportionate pathways while preserving operational closure, except where new evidence, constitutional failure or compromised review creates a sufficiently strong reason to reopen the matter.**
 
-<!-- BEGIN V2.1 CROSS SOURCE DETAIL CH83 -->
-### Chapter 83 — Appeal and review do not rewrite committed ballots
+## 83.18 Appeal and review do not rewrite committed ballots
 
 **Source basis:** V1 Governance Component Recovery Map G-R13–15; Governance Operating Boundary and Authority Lifecycle §18.
 
 A review may examine validity, rights, evidence, implementation and remedy without altering the historical official vote. If new action is justified it needs its own authority and event. Judiciary review, governance correction and Historical custody have distinct functions. **[LOCAL ISSUE:]** review competence and remedies.
-<!-- END V2.1 CROSS SOURCE DETAIL CH83 -->
 
-<!-- BEGIN V2.1 AUDIT SERIES RECOVERY CH83 -->
-### Chapter 83 — Bounded epistemic appeal and provisional finality
+
+
+## 83.19 Bounded epistemic appeal and provisional finality
 
 **Audit source:** Epistemic Independence Adversarial Audit §§38,45–46 (historical adversarial evidence; not adopted law).
 
 The epistemic adversarial audit proposes CH-0 authenticity through CH-8 authority-consequence challenge classes, and a bounded appeal sequence: initial assessment, material challenge, independent reconsideration, provisional finality, later reopening for new material evidence or process failure. Contestability is not veto or indefinite delay. **[LOCAL ISSUE:]** appeal thresholds, reviewer independence and privacy.
-<!-- END V2.1 AUDIT SERIES RECOVERY CH83 -->
+
+
 
 # Chapter 84 — Complaints
 
@@ -1040,21 +1040,21 @@ For example, an institution rewarded for reducing complaints may make complaint 
 
 > **Complaint mechanisms should provide practical, protected and reviewable routes for reporting individual and systemic failure while resisting retaliation, harassment and metric gaming. Complaint volume is evidence, not automatic proof, and repeated complaints should feed institutional learning rather than disappear as isolated cases.**
 
-<!-- BEGIN V2.1 TRIADIC EPISTEMICS CH84 -->
-### Chapter 84 — Formal and participant evidence discrepancy states
+## 84.14 Formal and participant evidence discrepancy states
 
 **Source basis:** Triadic Epistemics — Independent Measurement §§8–15 (candidate research).
 
 The proposed TE-1–TE-6 cross-channel states distinguish strong convergence, formal convergence with experiential absence, formal absence with experiential convergence, internal formal divergence, universal apparent convergence and universal uncertainty. Silence is ambiguous; apparent unanimity may hide shared dependencies or capture. Treat these as anomaly prompts, not automatic rights restrictions. **[LOCAL ISSUE:]** threshold design, sampling, privacy and independent verification.
-<!-- END V2.1 TRIADIC EPISTEMICS CH84 -->
 
-<!-- BEGIN V2.1 CITIZEN ID AUDIT CH84 -->
-### Chapter 84 — Identity collision is an inquiry trigger, not guilt
+
+
+## 84.15 Identity collision is an inquiry trigger, not guilt
 
 **Audit source:** Citizen ID Threat, Privacy and Misuse Audit §§9–13,34–35 (historical research evidence; not adopted law).
 
 Duplicate-use signals may reflect credential theft, fraud, stale sessions, mistaken linkage or legitimate hidden AI branching. No automatic penalty or public accusation follows a signal. Investigations should compare competing hypotheses with privacy-minimised evidence, and guard against fraudsters exploiting branching exceptions. **[LOCAL ISSUE:]** independent review and re-key/branch reconciliation.
-<!-- END V2.1 CITIZEN ID AUDIT CH84 -->
+
+
 
 # Chapter 85 — Public Reason and Explanation
 
@@ -1204,13 +1204,13 @@ Quietly replacing inaccurate public explanations can weaken provenance.
 
 > **Significant Governance decisions should be explainable at multiple levels of detail so citizens can understand what was decided while specialists retain access to the deeper evidence and reasoning. Accessibility should simplify complexity without laundering uncertainty, disagreement or trade-offs out of the constitutional record.**
 
-<!-- BEGIN V2.1 EPISTEMIC SOURCE CH85 -->
-### Chapter 85 — Right to challenge and duty to answer
+## 85.12 Right to challenge and duty to answer
 
 **Source basis:** Epistemic Independence, Contestability and Provenance §§9–12,21–22.
 
 When material governance depends on a contestable factual or predictive claim, a competent evidence-based challenge should receive a reasoned response proportionate to consequence, urgency, relevance and uncertainty. Contestability is not universal veto. Preserve challenge, evidence, layer challenged, reviewer, disposition, reasons and effect on confidence or decision; a challenge to evidence is not automatic revocation of an immutable official ballot. **[LOCAL ISSUE:]** independent reviewer and urgent response procedure.
-<!-- END V2.1 EPISTEMIC SOURCE CH85 -->
+
+
 
 # Chapter 86 — Governance Communication
 
@@ -1384,13 +1384,13 @@ The principle remains:
 
 > **Governance communication should make lawful authority, rights, obligations, uncertainty and opportunity for challenge practically understandable and authenticatable. Communication systems should resist misinformation and failure without becoming mechanisms for suppressing legitimate disagreement.**
 
-<!-- BEGIN V2.1 BCA SOURCE CH86 -->
-### Chapter 86 — Safe termination of operational authority
+## 86.12 Safe termination of operational authority
 
 **Source basis:** Bounded Contextual Authority §§5–7,16.
 
 Operational authority may end with completed function, withdrawn consent, expiry, changed competence or end of emergency. Safe stopping may require independently justified transitional action. This is distinct from the consumed official Steward ballot, which cannot be revoked. **[LOCAL ISSUE:]** safe-stop transitions and consent.
-<!-- END V2.1 BCA SOURCE CH86 -->
+
+
 
 # Chapter 87 — Public Trust
 
@@ -1539,13 +1539,13 @@ AI systems should remain subject to:
 
 > **Public trust should emerge from observable competence, honesty, constitutional behaviour, accountability and correction. Trust is contextual evidence that may support delegation, but neither trust, popularity nor historical success independently creates constitutional authority.**
 
-<!-- BEGIN V2.1 CROSS SOURCE DETAIL CH87 -->
-### Chapter 87 — Public trust through correction
+## 87.12 Public trust through correction
 
 **Source basis:** Constitutional Emergency V2 Chapters 14–18; Governance Operating Boundary and Authority Lifecycle §§16–19.
 
 Public trust is not obedience. Truthful communication acknowledges uncertainty, errors and dissent; subsequent correction preserves original evidence. Manipulative reassurance and self-certifying institutional claims are capture risks. **[LOCAL ISSUE:]** disclosure/privacy and independent contestation.
-<!-- END V2.1 CROSS SOURCE DETAIL CH87 -->
+
+
 
 # Chapter 88 — Governance Failure Taxonomy
 
@@ -2079,13 +2079,13 @@ The correction can become the next failure mechanism.
 
 > **Governance should classify failure sufficiently to support diagnosis and correction without forcing reality into a closed taxonomy. Individual, group, institutional, information, measurement, incentive, capture, gaming, concentration, recursive, catastrophic and unknown failures may interact, and the response should preserve evidence strongly enough that failure becomes cumulative knowledge rather than repeated surprise.**
 
-<!-- BEGIN V2.1 SOURCE RECOVERY SECTION 09 CH88 -->
-### Chapter 88 — Recovered cross-source governance interface
+## 88.31 Recovered cross-source governance interface
 
 **Source basis:** V1 Governance Component Recovery Map G-R13; Governance Operating Boundary and Authority Lifecycle §§14–20.
 
 Governance failure must distinguish individual error, collective triad failure, institutional capture, information distortion, systemic design defects, failure to act and failure of restraint. Indicators such as repeated abstention or correlated recommendations are signals for independent examination, not automatic guilt. Corrective measures should isolate harmful authority, preserve provenance, support lawful review and restore ordinary operation without creating an unreviewable recovery office. **[LOCAL DEPENDENCY:]** Independent reviewer constitution, protective restrictions and correction triggers remain to be specified.
-<!-- END V2.1 SOURCE RECOVERY SECTION 09 CH88 -->
+
+
 
 # Chapter 89 — Detection
 
@@ -2339,21 +2339,21 @@ The answer may reveal a second failure in the detection architecture.
 
 > **Governance failure should be detectable through multiple practical channels, with particular attention to independence, weak signals, leading indicators and common-source dependence. Detection should trigger investigation rather than automatic guilt, and the system should examine failures of detection as seriously as the underlying event.**
 
-<!-- BEGIN V2.1 V1 COMPONENT RECOVERY CH89 -->
-### Chapter 89 — Governance failure detection without automatic condemnation
+## 89.13 Governance failure detection without automatic condemnation
 
 **Recovered source:** V1 Governance Component Recovery Map G-R13; Governance Operating Boundary and Authority Lifecycle §§14–20.
 
 Detect both wrongful action and harmful inaction; watch for repeated abstention, unexplained procedural delay, evidence exclusion, correlated reasoning, unusual authority accumulation, information monopoly and persistent dependency. These are investigation triggers, not proof of wrongdoing. Preserve competing explanations, evidence available at the time and individual versus architectural causes. Distinguish governance-health monitoring from the independent authority to restrict or remove an officeholder. **[LOCAL OPEN:]** independently owned monitoring and escalation thresholds.
-<!-- END V2.1 V1 COMPONENT RECOVERY CH89 -->
 
-<!-- BEGIN V2.1 ADVERSARIAL RECOVERY CH89 -->
-### Chapter 89 — BCA audit failure classes and aggregated capability
+
+
+## 89.14 BCA audit failure classes and aggregated capability
 
 **Audit source:** BCA Adversarial Attack and Falsification Audit §§3–25,48–51 (historical adversarial evidence, not adopted law).
 
 The adversarial audit exposed invented functions, self-declared emergencies, endless successor functions, combined partial authorities producing major power, surveillance required to enforce sunset, conflicts among legitimate functions and authority concealed in defaults. A single actor's permission may be bounded while aggregate capability is not. **[LOCAL ISSUE:]** BCA-R6 aggregation audit, R7 conflict resolution and R8 non-universal surveillance.
-<!-- END V2.1 ADVERSARIAL RECOVERY CH89 -->
+
+
 
 # Chapter 90 — Diagnosis
 
@@ -2534,18 +2534,18 @@ This allows later revision.
 
 > **Governance should distinguish symptoms, proximate causes, root causes and interacting conditions before selecting correction. Diagnosis should remain open to uncertainty and multiple causal pathways and should resist institutional incentives to reduce systemic failure to convenient individual blame.**
 
-<!-- BEGIN V2.1 SOURCE DEEPENING CH90 -->
-### Chapter 90 — Diagnosis and source-specific failure causes
+## 90.12 Diagnosis and source-specific failure causes
 
 **Recovered source:** V1 Governance Component Recovery Map G-R13; Governance Operating Boundary and Authority Lifecycle §§16–20.
 
 Investigate whether failure arises from invalid mandate, bad evidence, inappropriate framing, missing affected parties, coordinated capture, flawed procedure, execution defect, dependency loss or unanticipated effects. Mirrored alternative explanations should remain open until evidence differentiates them. Review must not equate minority dissent, abstention or an adverse outcome with guilt. **[LOCAL ISSUE:]** investigative access and independent diagnostic owner.
-<!-- END V2.1 SOURCE DEEPENING CH90 -->
 
-<!-- BEGIN V2.1 ADVERSARIAL RECOVERY CH90 -->
-### Chapter 90 — Adversarial anomaly overload and investigator capture
+
+
+## 90.13 Adversarial anomaly overload and investigator capture
 
 **Audit source:** Triadic Epistemics Direct Adversarial Audit Attack Classes C–G,L–N (historical adversarial evidence, not adopted law).
 
 Anomaly flooding, outlier weaponisation and manipulated participant reports can consume finite investigation capacity and crowd out genuine severe harms. Investigators themselves can be captured through appointment, funding, shared evidence or stakeholder interests. Keep anomaly prioritisation contestable and preserve the ability to inspect low-frequency catastrophic outliers. **[LOCAL ISSUE:]** anti-starvation, escalation and triage owner.
-<!-- END V2.1 ADVERSARIAL RECOVERY CH90 -->
+
+
