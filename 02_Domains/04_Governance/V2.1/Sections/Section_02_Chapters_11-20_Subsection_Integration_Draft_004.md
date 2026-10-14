@@ -1484,6 +1484,13 @@ The normal governance decision unit is a bounded triad. Its surrounding operatin
 
 
 ## 12.0m — Existing owner interfaces for committed decisions
+
+The governance decision record and its lawful host effect are separate state transitions. The decision owner must record forum identity, competence, distinct authorised positions, event-bound official ballots, determinacy, validity, outstanding provenance and effect status. The implementation owner must independently verify live mandate, dependencies, rights limits, effective-time conditions and expiry before consequential commitment. A determined majority is not a host-execution instruction; an acknowledgement is not a fresh mandate. Partial or unknown acknowledgement requires evidence-based reconciliation rather than blind retry or a second vote event.
+
+**Historical and review custody:** Preserve original commitments, late ballots, validity challenges, corrections and independently authorised later decisions as linked, non-overwriting records. KCS corrections trigger affected-owner review, not automatic vote reversal; BTA represents asynchronous pending/partial owner transitions without manufacturing authority; emergency operational expiry and reaction use independent state machines, not a possibly paused Civilisation Clock. Restoration of service does not restore consumed authority.
+
+**[LOCAL VALIDATION — FI-008, FI-029, FI-031:]** Specify host acknowledgement contracts, commit deduplication, exact decision/event identity, receipt completeness, lawful implementation timing and independent review/appeal routes. This section does not authorise a new cross-owner command channel.
+
 # Chapter 13 — Stewardship Domains
 
 ## 13.1 Introduction
