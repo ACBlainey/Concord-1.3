@@ -31,7 +31,7 @@
 | FI-005 | G-005 | Expanded virtual-triad appointment and event validity | Outstanding_Issues_Register.md | Existing source located; virtual-triad appointment proof pending |
 | FI-006 | G-006 | Node-ring substitution beyond first two rings | Outstanding_Issues_Register.md | Integrated Ch132; ring substitute selection pending |
 | FI-007 | G-007 | Decision-event identity and repeated participation | Outstanding_Issues_Register.md | Integrated Ch12,165; event schema proof pending |
-| FI-008 | G-008 | Chapter 12 final assembly | Outstanding_Issues_Register.md | In progress Ch12; quorum fork and provisional official-ballot conflict reconciled, full clause audit pending |
+| FI-008 | G-008 | Chapter 12 final assembly | Outstanding_Issues_Register.md | In progress Ch12; obsolete 047/048 quorum forks consolidated, full chapter clause audit and host validation pending |
 | FI-009 | G-009 | Chapter 132 GTP conflict resolution | Outstanding_Issues_Register.md | Integrated Ch132; nonhierarchical source precedence reconciled, remaining clause audit pending |
 | FI-010 | G-010 | GTP mesh workload and jurisdiction mechanics | Outstanding_Issues_Register.md | Integrated Ch132; mesh workload and jurisdiction calibration pending |
 | FI-011 | G-011 | Emergency issuer and lawful mandate | Outstanding_Issues_Register.md | Integrated Ch28,188; lawful issuer and mandate pending |
@@ -52,9 +52,9 @@
 | FI-026 | G-026 | Validation beyond synthetic passing tests | Outstanding_Issues_Register.md | Source located; independent validation pending |
 | FI-027 | G-027 | Authorial approval and graduation gate | Outstanding_Issues_Register.md | Awaiting authorial approval; cannot close by source integration alone |
 | FI-028 | — | Conference disclosure, cross-constituent influence and post-commit conferencing | Sections: Chapters 12, 54 | Existing FPA/Summits sources located; conference rule pending |
-| FI-029 | — | Lawful vacancy, provisional position ballots and return of original Steward | Sections: Chapters 9, 12, 28–30 | Source located; provisional official-ballot supersession corrected Ch12, vacancy/return implementation pending |
+| FI-029 | — | Lawful vacancy, provisional position ballots and return of original Steward | Sections: Chapters 9, 12, 28–30 | Integrated Ch12,132,21–30; official-ballot non-supersession reconciled; vacancy/return mechanism pending |
 | FI-030 | — | Steward eligibility, selection, tenure, acting appointment and succession | Sections: Chapters 12, 100, 106, 116 | Existing succession sources located; eligibility rule pending |
-| FI-031 | — | Decision event/owner acknowledgement schema and immutable ballot versus effect reconciliation | Sections: Chapters 12, 54, 165 | Integrated Ch12,165; immutable ballot boundary reconciled, host ACK proof pending |
+| FI-031 | — | Decision event/owner acknowledgement schema and immutable ballot versus effect reconciliation | Sections: Chapters 12, 54, 165 | Integrated Ch12,165,21–30; immutable ballot cross-section audit passed; host ACK proof pending |
 | FI-032 | — | Constitutional emergency activation thresholds, rights constraints and expiry enforcement | Sections: Chapters 21–30 | Integrated Ch28,188; activation/rights/expiry validation pending |
 | FI-033 | — | Claim-level civil evidence schema and domain-specific thresholds | Sections: Chapters 67 | Integrated Ch67; evidence schema/threshold pending |
 | FI-034 | — | Clock priority ageing, independent urgent timer and deferred action revalidation | Sections: Chapters 75 | Integrated Ch28,188; independent timebase proof pending |
