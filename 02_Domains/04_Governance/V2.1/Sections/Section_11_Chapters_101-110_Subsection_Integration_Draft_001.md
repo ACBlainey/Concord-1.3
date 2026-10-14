@@ -529,6 +529,14 @@ Underlying records should therefore remain independently accessible where practi
 
 > **Civilisational memory includes not only stored information but the practical capability, skills, infrastructure and context required to recover and use that information. Governance continuity should preserve the ability to reconstruct both what civilisation knew and what civilisation could actually do.**
 
+<!-- BEGIN V2.1 BCA SOURCE CH104 -->
+### Chapter 104 — Technical credentials and bounded use
+
+**Source basis:** Bounded Contextual Authority §§8–11,18–19.
+
+Broad system credentials do not grant unlimited legitimate use. Repair access does not extend to unrelated protected records. Check current purpose, object, information and rights; audit any unavoidable gap between technical capability and lawful authority. **[LOCAL ISSUE:]** protected projections and privileged operation.
+<!-- END V2.1 BCA SOURCE CH104 -->
+
 # Chapter 105 — Governance and Resource Allocation
 
 ## 105.1 Allocation Is an Exercise of Power
