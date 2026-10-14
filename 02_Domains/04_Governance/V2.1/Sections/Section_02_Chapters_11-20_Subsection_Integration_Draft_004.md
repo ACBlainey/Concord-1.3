@@ -427,6 +427,13 @@ It is to make constitutional velocity visible.
 
 # Chapter 12 — Managing Governance Work
 
+### 12.0l Continuing functions versus consumed consequential exercises
+
+Historical Bounded Contextual Authority §30A distinguishes continuing legitimate functions from individual materially consequential exercises. A lawful continuous function may operate within a specifically justified, finite, proportionate authority envelope without bureaucratic reauthorisation for every trivial movement. This is **not** a permanent balance of reusable authority: each consequential decision or materially distinct action must satisfy current contextual prerequisites, consume its one-use enabling state and preserve a non-replayable transition record. The broader function can continue only within its own independently valid scope, expiry, rights and review limits; any new materially different act requires fresh justification. The precise state-machine classification of trivial versus material acts remains a bounded owner-domain implementation question, not an excuse to erase the historical continuous-function qualification.
+
+CRSTL records causal/dependency and uncertain ordering as provenance; State Map represents current and prior state without issuing authority. Neither a paused Civilisational Clock nor an informational acknowledgement delays legitimate independently timed emergency response or regenerates consumed authority. The historical locked-case and glass-hammer image remains explanatory only, never a mandated device, password, physical workflow or executable implementation.
+
+
 ### 12.0k Revocation ordering at the actual host-effect boundary
 
 Commit-time revalidation of independently required authority grants is mandatory but does not alone close a distributed **check-then-effect revocation race**. A revocation before the defined authoritative material commit must prevent the new action; a revocation after a genuinely completed commit prohibits later acts but does not erase historical effects. Where a receiving host and grant owners can support a guarded, one-use execution lease or equivalent commit fence, define its linearization point, revocation ordering, target, effect scope, expiry and status-query contract. Where physical effects cannot be fenced, record the residual race explicitly, preserve uncertain outcomes, prohibit blind retries and route proportionate reconciliation and remedy. Neither a short token lifetime, extra preflight check nor passing a deterministic fixture establishes distributed atomicity. Emergency operation retains its own independently legitimate, time-bounded authority.
