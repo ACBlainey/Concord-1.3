@@ -636,6 +636,14 @@ It should eventually be resolved.
 The V1 recovery map G-R01–G-R15 and adaptive GTP components are recovery obligations, not completion certification. Source labels, simulations and source-survival audits do not establish final adoption. Incorporate omitted provisions into their chapters with local flags. **[LOCAL ISSUE:]** Exhaustive cross-version coverage.
 <!-- END V2.1 SOURCE RECOVERY SECTION 22 CH213 -->
 
+<!-- BEGIN V2.1 ADVERSARIAL RECOVERY CH213 -->
+### Chapter 213 — Adversarial source-survival status
+
+**Audit source:** BCA Adversarial Audit §§48–55; Triadic Epistemics Direct Adversarial Audit §§157–166 (historical adversarial evidence, not adopted law).
+
+The BCA audit examined 100 attacks and concluded the operator survived only in refined form, not as a self-sufficient theory of legitimacy. The Triadic Epistemics audit found no fatal logical contradiction but called for simulation of false independence, 2-of-3 and cross-layer capture, participant manipulation, overload and minority invisibility before any canonical claim. These are historical audit conclusions, not implementation validations. **[LOCAL ISSUE:]** audit-to-clause completeness and owner testing.
+<!-- END V2.1 ADVERSARIAL RECOVERY CH213 -->
+
 # Chapter 214 — Interim Reconstruction Status
 
 The current V2 reconstruction now contains a substantially broader body of Governance material than the first compressed V2 draft.
