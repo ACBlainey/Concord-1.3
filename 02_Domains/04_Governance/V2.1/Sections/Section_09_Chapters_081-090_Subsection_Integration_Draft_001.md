@@ -2331,6 +2331,14 @@ The answer may reveal a second failure in the detection architecture.
 Detect both wrongful action and harmful inaction; watch for repeated abstention, unexplained procedural delay, evidence exclusion, correlated reasoning, unusual authority accumulation, information monopoly and persistent dependency. These are investigation triggers, not proof of wrongdoing. Preserve competing explanations, evidence available at the time and individual versus architectural causes. Distinguish governance-health monitoring from the independent authority to restrict or remove an officeholder. **[LOCAL OPEN:]** independently owned monitoring and escalation thresholds.
 <!-- END V2.1 V1 COMPONENT RECOVERY CH89 -->
 
+<!-- BEGIN V2.1 ADVERSARIAL RECOVERY CH89 -->
+### Chapter 89 — BCA audit failure classes and aggregated capability
+
+**Audit source:** BCA Adversarial Attack and Falsification Audit §§3–25,48–51 (historical adversarial evidence, not adopted law).
+
+The adversarial audit exposed invented functions, self-declared emergencies, endless successor functions, combined partial authorities producing major power, surveillance required to enforce sunset, conflicts among legitimate functions and authority concealed in defaults. A single actor's permission may be bounded while aggregate capability is not. **[LOCAL ISSUE:]** BCA-R6 aggregation audit, R7 conflict resolution and R8 non-universal surveillance.
+<!-- END V2.1 ADVERSARIAL RECOVERY CH89 -->
+
 # Chapter 90 — Diagnosis
 
 ## 90.1 Symptoms and Causes
