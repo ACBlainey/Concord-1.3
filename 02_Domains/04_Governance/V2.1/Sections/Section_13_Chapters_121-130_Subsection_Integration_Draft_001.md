@@ -1770,6 +1770,14 @@ Technical security and personal rights may therefore merge.
 
 > **Governance should preserve constitutional continuity as biological and technological identity boundaries become less clear. Augmentation, external cognition and enhanced capability may change responsibility and practical needs without automatically changing intrinsic constitutional worth, while provider control over cognition, identity or essential augmentations may create new forms of dependency and coercion requiring explicit constitutional treatment.**
 
+<!-- BEGIN V2.1 BCA SOURCE CH129 -->
+### Chapter 129 — Excess action and legitimate underlying function
+
+**Source basis:** Bounded Contextual Authority §§9,17–18.
+
+An authorised actor may exceed scope without making the original function illegitimate. Separate the excess action, accountability, suspension, remediation and continuing civil need. **[LOCAL ISSUE:]** replacement and independent investigation.
+<!-- END V2.1 BCA SOURCE CH129 -->
+
 # Chapter 130 — Governance and Multiple Civilisational Forms
 
 ## 130.1 Plural Civilisation
