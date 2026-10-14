@@ -488,6 +488,14 @@ They should not create incentives to:
 Correction is constitutional loyalty. Preserve original records, distinguish justified adverse outcomes from negligence and misconduct, and provide separate remedy. Learning may conclude no amendment is needed; emergency powers must sunset. **[LOCAL ISSUE:]** Remedy and sunset owners.
 <!-- END V2.1 SOURCE RECOVERY SECTION 21 CH203 -->
 
+<!-- BEGIN V2.1 AUDIT SERIES RECOVERY CH203 -->
+### Chapter 203 — Outlier sampling against challenge triage capture
+
+**Audit source:** Epistemic Independence Adversarial Audit §§47–48 (historical adversarial evidence; not adopted law).
+
+The epistemic audit proposes independent sampling of low-ranked challenges to measure what the triage process misses. Monitor queue length, review delay, duplicate ratio, unresolved high-impact cases, concentrated sources, failed forecasts and reversals; these are diagnostic signals, not automatic truths. **[LOCAL ISSUE:]** protected sampling and reviewer independence.
+<!-- END V2.1 AUDIT SERIES RECOVERY CH203 -->
+
 # Chapter 204 — Governance and Epistemic Humility
 
 ## 204.1 Knowledge Is Provisional
