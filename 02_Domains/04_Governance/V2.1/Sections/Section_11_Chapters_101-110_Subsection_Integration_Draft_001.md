@@ -235,21 +235,21 @@ The underlying constitutional function remains the real objective.
 
 > **Constitutional Metrics should make practical alignment, concentration, rights accessibility, emergency persistence, institutional independence and other constitutional conditions visible without converting diagnostic indicators into automatic constitutional truth.**
 
-<!-- BEGIN V2.1 EPISTEMIC SOURCE CH102 -->
-### Chapter 102 — Epistemic metric provenance and feedback
+## 102.9 Epistemic metric provenance and feedback
 
 **Source basis:** Epistemic Independence, Contestability and Provenance §§4–8,20,32–35.
 
 Governance metrics require claim-level definitions, collection methods, proxies, model dependencies, uncertainty and independent contestability. A provenance-complete record can still be wrong; metric convergence from shared inputs is not independent corroboration. Track forecast calibration, false positives and negatives, capture through measurement or publication, and consequences of using the metric. **[LOCAL ISSUE:]** metric owner and independent calibration.
-<!-- END V2.1 EPISTEMIC SOURCE CH102 -->
 
-<!-- BEGIN V2.1 AUDIT SERIES RECOVERY CH102 -->
-### Chapter 102 — Aggregate epistemic concentration
+
+
+## 102.10 Aggregate epistemic concentration
 
 **Audit source:** Epistemic Independence Adversarial Audit §§44,48–51 (historical adversarial evidence; not adopted law).
 
 Distributed political authority can coexist with a monopoly on measurement, models, certification, evidence routing or investigation. The audit proposes monitoring source, data, model lineage, funding, framing, personnel and infrastructure concentrations as separate dependency dimensions, not one independence score. **[LOCAL ISSUE:]** aggregate epistemic risk register and independent calibration.
-<!-- END V2.1 AUDIT SERIES RECOVERY CH102 -->
+
+
 
 # Chapter 103 — Governance and the Concord Library
 
@@ -402,13 +402,13 @@ Restricted knowledge should still retain provenance and review where appropriate
 
 > **The Concord Library should preserve the constitutional, evidential and developmental memory of civilisation with clear status, versioning and provenance so current Governance remains distinguishable from historical architecture without erasing the path by which current understanding emerged.**
 
-<!-- BEGIN V2.1 TRIADIC EPISTEMICS CH103 -->
-### Chapter 103 — Anomaly classification and local verification
+## 103.13 Anomaly classification and local verification
 
 **Source basis:** Triadic Epistemics — Recursive GTP Mesh §§31–32 (candidate research).
 
 The recursive epistemic mesh proposes EA-1 civil reality, EA-2 measurement, EA-3 cross-channel, EA-4 spatial, EA-5 scale, EA-6 dependency, EA-7 institutional, EA-8 security, EA-9 temporal and EA-10 unknown anomalies. Candidate verification checks raw data, sensor health, calibration, definitions, software, dependencies, formal channels, participant evidence and cross-scale/functional comparisons, proportionate to consequence. Classification diagnoses uncertainty, not guilt or governing authority. **[LOCAL ISSUE:]** owner routing and independent checks.
-<!-- END V2.1 TRIADIC EPISTEMICS CH103 -->
+
+
 
 # Chapter 104 — Governance and Civilisational Memory
 
@@ -537,13 +537,13 @@ Underlying records should therefore remain independently accessible where practi
 
 > **Civilisational memory includes not only stored information but the practical capability, skills, infrastructure and context required to recover and use that information. Governance continuity should preserve the ability to reconstruct both what civilisation knew and what civilisation could actually do.**
 
-<!-- BEGIN V2.1 BCA SOURCE CH104 -->
-### Chapter 104 — Technical credentials and bounded use
+## 104.11 Technical credentials and bounded use
 
 **Source basis:** Bounded Contextual Authority §§8–11,18–19.
 
 Broad system credentials do not grant unlimited legitimate use. Repair access does not extend to unrelated protected records. Check current purpose, object, information and rights; audit any unavoidable gap between technical capability and lawful authority. **[LOCAL ISSUE:]** protected projections and privileged operation.
-<!-- END V2.1 BCA SOURCE CH104 -->
+
+
 
 # Chapter 105 — Governance and Resource Allocation
 
@@ -754,13 +754,13 @@ Long-running allocation should be reviewed where:
 
 > **Public resource allocation is an exercise of practical power and should therefore remain evidence-based, auditable, proportionate and attentive to opportunity cost, distribution, maintenance, strategic resilience and long-term capability. Control of resources should not silently become constitutional sovereignty.**
 
-<!-- BEGIN V2.1 SOURCE RECOVERY SECTION 11 CH105 -->
-### Chapter 105 — Recovered cross-source governance interface
+## 105.16 Recovered cross-source governance interface
 
 **Source basis:** Governance Operating Boundary and Authority Lifecycle §§4–8, 14–15; V1 Governance Component Recovery Map G-R08.
 
 Resource allocation must be justified by an actual civil objective and demonstrable function, with minimum sufficient capability rather than maximum available control. Resource custody, budget authority, policy decision and implementation are separate; cross-context collisions need owner coordination rather than assumed superior GTP authority. Aggregate control of infrastructure, credentials and funding may create effective power even where individual grants appear bounded. **[LOCAL DEPENDENCY:]** Cross-domain scarcity priority and resource-owner execution receipts require implementation.
-<!-- END V2.1 SOURCE RECOVERY SECTION 11 CH105 -->
+
+
 
 # Chapter 106 — Governance Procurement
 
@@ -1145,13 +1145,13 @@ Exit is easiest before dependency forms.
 
 > **Governance procurement should evaluate total civilisational value rather than price alone, including reliability, resilience, security, interoperability, ethical consequence, provider concentration, migration and future dependency. Procurement should obtain capability without allowing suppliers, contracts or technical infrastructure to acquire undeclared constitutional authority.**
 
-<!-- BEGIN V2.1 LEGITIMATE FUNCTION SOURCE CH106 -->
-### Chapter 106 — Procurement, competing means and institutional interest
+## 106.21 Procurement, competing means and institutional interest
 
 **Source basis:** Legitimate Function and the Authority Justification Chain §§9–10,20,23,26.
 
 A legitimate civil objective does not select a preferred contractor, technology or compulsory procurement method automatically. Compare credible alternative means and the least intrusive sufficient capability; identify conflicts where an institution benefits from its own purchase recommendation. Separate purchasing competence, resource custody, contract authority and execution. **[LOCAL ISSUE:]** procurement challenge, market comparison and cumulative supplier dependence.
-<!-- END V2.1 LEGITIMATE FUNCTION SOURCE CH106 -->
+
+
 
 # Chapter 107 — Governance Staffing
 
@@ -1424,13 +1424,13 @@ Underlying records should remain recoverable independently where practical.
 
 > **Professional staff provide necessary continuity, expertise and institutional memory, but their practical influence through information, drafting, procedure and technical knowledge should remain visible, bounded and accountable. Steward rotation should not accidentally convert permanent staff into unreviewable de facto Governors.**
 
-<!-- BEGIN V2.1 SOURCE DEEPENING CH107 -->
-### Chapter 107 — Governance staffing and office-state continuity
+## 107.18 Governance staffing and office-state continuity
 
 **Recovered source:** Stewardship Selection and Allocation README §§3–13; V1 Governance Component Recovery Map G-R11–12.
 
 Separate role eligibility, Education accreditation, selection, appointment, office mandate and each exercise of authority. Parallel Steward training provides comparative evidence but not automatic appointment, vote or promotion. Staffing changes must preserve pending matters, record custody, rights, conflict checks and unfulfilled duties. **[LOCAL ISSUE:]** selector, tenure, temporary acting office and succession.
-<!-- END V2.1 SOURCE DEEPENING CH107 -->
+
+
 
 # Chapter 108 — Governance Finance and Budgeting
 
@@ -1658,13 +1658,13 @@ They should not collapse into one authority.
 
 > **Governance institutions require sufficient resources to make their constitutional functions real, but funding itself can become a mechanism of control, capture or hidden liability. Public budgeting should preserve transparency, long-term obligations, maintenance, audit and functional independence without creating unreviewable financial authority.**
 
-<!-- BEGIN V2.1 CROSS SOURCE DETAIL CH108 -->
-### Chapter 108 — Finance and bounded expenditure
+## 108.17 Finance and bounded expenditure
 
 **Source basis:** Governance Operating Boundary and Authority Lifecycle §§4–15; Constitutional Emergency V2 Chapters 31–40.
 
 Budgets, grants and procurement are tools for a justified civil function, not independent constitutional authority. Separate appropriation, custody, contract, decision and payment execution; detect cumulative concentration through related offices or infrastructure. Emergency spending requires specific scope, audit, expiry and restoration. **[LOCAL ISSUE:]** financial owner attestations and recovery ledger.
-<!-- END V2.1 CROSS SOURCE DETAIL CH108 -->
+
+
 
 # Chapter 109 — Governance Infrastructure
 
@@ -1873,13 +1873,13 @@ The architecture should match the function.
 
 > **Governance infrastructure should be treated as part of constitutional architecture because control, modification, failure or dependency of physical and digital systems can alter practical authority and rights even without formal legal change. Critical infrastructure should remain auditable, resilient, recoverable and resistant to undeclared sovereignty through dependency.**
 
-<!-- BEGIN V2.1 EMERGENCY SOURCE RECOVERY CH109 -->
-### Chapter 109 — Infrastructure continuity and independent recovery
+## 109.14 Infrastructure continuity and independent recovery
 
 **Recovered source:** Constitutional Emergency V2 Chapters 131–190; Governance Operating Boundary and Authority Lifecycle §§14–15.
 
 Infrastructure control is operational capability, not general constitutional authority. Emergency maintenance, backup, failover and restoration must distinguish custody, authorisation, execution and evidence of actual service recovery. A cryptographically valid receipt proves only the stated event, not the factual correctness of the underlying claim. Restoration includes rights, records, service access, remedy and discharge of surviving obligations, not merely a return to uptime. **[LOCAL OPEN:]** infrastructure-owner attestation, emergency transition and cross-domain recovery.
-<!-- END V2.1 EMERGENCY SOURCE RECOVERY CH109 -->
+
+
 
 # Chapter 110 — Governance Technology
 
@@ -2074,10 +2074,10 @@ High-consequence systems may require:
 
 > **Governance should treat technology as capability, not permission. Technical systems may implement lawful authority but cannot independently create it, and major Governance technology should remain subject to constitutional assessment, provenance, review, correction, replacement and practical exit.**
 
-<!-- BEGIN V2.1 CITIZEN ID AUDIT CH110 -->
-### Chapter 110 — Identity infrastructure without a universal dossier
+## 110.12 Identity infrastructure without a universal dossier
 
 **Audit source:** Citizen ID Threat, Privacy and Misuse Audit §§6,17–20,33–36 (historical research evidence; not adopted law).
 
 A root civil identity registry should not also hold detailed credentials, network routes, location histories, service records and all access logs. Avoid catastrophic single-point compromise and broad administrative AI correlation by architecture, not only operator promises. Separate custody, cryptographic authority, lookup, service access and operational monitoring. **[LOCAL ISSUE:]** registry topology, outage continuity and insider access.
-<!-- END V2.1 CITIZEN ID AUDIT CH110 -->
+
+
