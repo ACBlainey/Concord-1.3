@@ -764,6 +764,14 @@ This follows the wider Ratchet boundary:
 Preserve decision question, mandate, evidence, uncertainty, ballots, dissent, result, separately authorised execution and actual effects as distinct linked events. Corrections append and cannot rewrite official votes; Historical custody does not confer political control. **[LOCAL ISSUE:]** event schema and ACK reconciliation.
 <!-- END V2.1 SOURCE DEEPENING CH165 -->
 
+<!-- BEGIN V2.1 AUDIT SERIES RECOVERY CH165 -->
+### Chapter 165 — Traceable summaries and evidence-at-decision
+
+**Audit source:** Epistemic Independence Adversarial Audit §§38–39 (historical adversarial evidence; not adopted law).
+
+A summary is not a substitute for source ancestry, model lineage and decision-time evidence. Preserve the exact evidence snapshot that justified an action, with later corrections appended rather than backdated. Source lineage should allow challenge without exposing unnecessary participant identities. **[LOCAL ISSUE:]** CWA projections and KCS dependency index.
+<!-- END V2.1 AUDIT SERIES RECOVERY CH165 -->
+
 # Chapter 166 — Governance and Constitutional Development Records
 
 ## 166.1 Development History
