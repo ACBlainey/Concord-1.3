@@ -329,21 +329,21 @@ The authority to identify failure is distinct from authority to determine every 
 
 > **Every oversight mechanism is itself fallible and potentially capturable. Governance should therefore support escalation outside plausibly compromised mechanisms while avoiding infinite hierarchy, preserving distributed independence, practical challenge, review of oversight architecture and clear separation between identifying failure and owning the function being reviewed.**
 
-<!-- BEGIN V2.1 CROSS SOURCE DETAIL CH162 -->
-### Chapter 162 — Recursive oversight without sovereign reviewers
+## 162.14 Recursive oversight without sovereign reviewers
 
 **Source basis:** Constitutional Emergency V2 Chapter 254; Governance Operating Boundary and Authority Lifecycle §§14–20.
 
 Review mechanisms must themselves be bounded, contestable and reviewable; their existence cannot self-certify indefinite power. Escalate on evidence of capture, errors or systemic failure, not simply because a coarser GTP triangle exists. The reviewer's access and action authority remain separate. **[LOCAL ISSUE:]** independent reviewer appointment and recursive stopping boundary.
-<!-- END V2.1 CROSS SOURCE DETAIL CH162 -->
 
-<!-- BEGIN V2.1 ADVERSARIAL RECOVERY CH162 -->
-### Chapter 162 — Adversarial review of meta-authority
+
+
+## 162.15 Adversarial review of meta-authority
 
 **Audit source:** BCA Adversarial Attack and Falsification Audit §§48–54 (historical adversarial evidence, not adopted law).
 
 The BCA audit identifies authority to define, interpret or validate authority as authority itself, subject to bounded contextual review (BCA-R11). Recursive oversight cannot be made legitimate merely by adding another review office. Record independent function legitimacy, review mandate, appeal, termination and evidence. **[LOCAL ISSUE:]** recursive stopping condition and jurisdictional conflict resolution.
-<!-- END V2.1 ADVERSARIAL RECOVERY CH162 -->
+
+
 
 # Chapter 163 — Governance and KCS
 
@@ -483,21 +483,21 @@ KCS classification therefore requires:
 
 > **Governance should preserve the epistemic status, provenance and revision history of the knowledge upon which it acts. Knowledge classification may inform decisions without becoming policy authority, and the institutions assigning epistemic status must themselves remain transparent, contestable and reviewable.**
 
-<!-- BEGIN V2.1 SOURCE RECOVERY SECTION 17 CH163 -->
-### Chapter 163 — Recovered cross-source governance interface
+## 163.12 Recovered cross-source governance interface
 
 **Source basis:** V1 Governance Component Recovery Map G-R15; Governance Operating Boundary and Authority Lifecycle §§11–13, 23.
 
 KCS change propagation must preserve authoritative ownership and distinguish changed evidence, changed competence, changed mandate and actual new authority. A propagated update or Historical record does not itself revoke an already committed official ballot, appoint a Steward or authorise execution. Dependencies affected by a change must be reassessed under their own state machines and contextual bounds; unknown and pending states remain visible. **[LOCAL DEPENDENCY:]** Owner mapping, receipt propagation, replay and recovery under a paused Civilisation Clock remain implementation questions.
-<!-- END V2.1 SOURCE RECOVERY SECTION 17 CH163 -->
 
-<!-- BEGIN V2.1 EPISTEMIC SOURCE CH163 -->
-### Chapter 163 — Epistemic correction propagation
+
+
+## 163.13 Epistemic correction propagation
 
 **Source basis:** Epistemic Independence, Contestability and Provenance §§23,47–49.
 
 A withdrawn material claim should trigger dependency search, affected-decision identification and review, not automatic cancellation of committed governance outcomes. KCS propagation distinguishes a changed evidence object from a new lawful state change; review has its own competence and provenance. Historical retains previous claims and corrections; epistemic knowledge persistence is not authority persistence. **[LOCAL ISSUE:]** owner triggers and state-machine handoff.
-<!-- END V2.1 EPISTEMIC SOURCE CH163 -->
+
+
 
 # Chapter 164 — Governance and Continuity
 
@@ -651,21 +651,21 @@ The transition should include:
 
 > **Governance continuity means preserving civilisation’s ability to restore legitimate constitutional function across disruption, not preserving every institution unchanged. Critical knowledge, authority and recovery capability should survive loss of individual people, organisations, locations or technologies, while emergency arrangements return to ordinary Governance when conditions permit.**
 
-<!-- BEGIN V2.1 EMERGENCY SOURCE RECOVERY CH164 -->
-### Chapter 164 — Constitutional continuity without permanent emergency power
+## 164.13 Constitutional continuity without permanent emergency power
 
 **Recovered source:** Constitutional Emergency V2 Chapters 1–14, 166–190; G05 Variable Civilisational Clock 059.
 
 Emergency operational time and event-driven state machines remain responsive while the variable Civilisation Clock is paused. Emergency authority must be function-specific, minimally sufficient, recorded, reviewable and self-terminating when necessity ends. Preserve the distinction between continued infrastructure function, office succession, surviving obligations and exceptional political power; restoration is an active constitutional phase. **[LOCAL OPEN:]** operational timer, event gates, owner-state integration and independent sunset enforcement.
-<!-- END V2.1 EMERGENCY SOURCE RECOVERY CH164 -->
 
-<!-- BEGIN V2.1 CITIZEN ID AUDIT CH164 -->
-### Chapter 164 — Civil identity continuity and emergency communication
+
+
+## 164.14 Civil identity continuity and emergency communication
 
 **Audit source:** Concord Citizen ID — Threat, Privacy and Misuse Audit §§25–30,35–36; historical research evidence, not adopted law.
 
 Loss of authentication credentials must not terminate civil identity. Official communication should support store-and-forward reachability without requiring disclosure of physical location, including remote and deep-space settings. Exceptional routing and credential recovery require separate purpose-limited authorisation and accessible review. **[LOCAL ISSUE:]** offline recovery, cross-jurisdiction routing and identity continuity.
-<!-- END V2.1 CITIZEN ID AUDIT CH164 -->
+
+
 
 # Chapter 165 — Governance and Provenance
 
@@ -764,21 +764,21 @@ This follows the wider Ratchet boundary:
 
 > **Governance should preserve the ancestry of major decisions, mechanisms and contributions so future reviewers can understand how and why they developed. Provenance supports attribution, accountability and learning, but authenticated origin does not prove truth and contribution does not create permanent authority over the resulting institution.**
 
-<!-- BEGIN V2.1 SOURCE DEEPENING CH165 -->
-### Chapter 165 — Decision provenance and correction
+## 165.9 Decision provenance and correction
 
 **Recovered source:** V1 Governance Component Recovery Map G-R15; Constitutional Emergency V2 Chapter 14.
 
 Preserve decision question, mandate, evidence, uncertainty, ballots, dissent, result, separately authorised execution and actual effects as distinct linked events. Corrections append and cannot rewrite official votes; Historical custody does not confer political control. **[LOCAL ISSUE:]** event schema and ACK reconciliation.
-<!-- END V2.1 SOURCE DEEPENING CH165 -->
 
-<!-- BEGIN V2.1 AUDIT SERIES RECOVERY CH165 -->
-### Chapter 165 — Traceable summaries and evidence-at-decision
+
+
+## 165.10 Traceable summaries and evidence-at-decision
 
 **Audit source:** Epistemic Independence Adversarial Audit §§38–39 (historical adversarial evidence; not adopted law).
 
 A summary is not a substitute for source ancestry, model lineage and decision-time evidence. Preserve the exact evidence snapshot that justified an action, with later corrections appended rather than backdated. Source lineage should allow challenge without exposing unnecessary participant identities. **[LOCAL ISSUE:]** CWA projections and KCS dependency index.
-<!-- END V2.1 AUDIT SERIES RECOVERY CH165 -->
+
+
 
 # Chapter 166 — Governance and Constitutional Development Records
 
@@ -862,13 +862,13 @@ It is to preserve significant reasoning that may become relevant later.
 
 > **Governance should preserve significant developmental reasoning, failed experiments, superseded mechanisms and major dissent separately from current authority. Civilisation needs both an operational architecture describing what governs now and a recoverable developmental record explaining how that architecture came to exist.**
 
-<!-- BEGIN V2.1 TRIADIC EPISTEMICS CH166 -->
-### Chapter 166 — Cross-scale epistemic referral is not jurisdiction transfer
+## 166.9 Cross-scale epistemic referral is not jurisdiction transfer
 
 **Source basis:** Triadic Epistemics — Recursive GTP Mesh §§14–29,53–56.
 
 An anomaly may be investigated locally, laterally, at finer GTP detail, at coarser spatial context and across functional network connections without transferring decision authority. Referral should preserve provenance, uncertainty, dissent and the original context's retained lawful mandate. A higher spatial abstraction is a comparison view, not a superior governance office. **[LOCAL ISSUE:]** cross-resolution query permissions and owner interface.
-<!-- END V2.1 TRIADIC EPISTEMICS CH166 -->
+
+
 
 # Chapter 167 — Governance Knowledge Sprawl
 
@@ -963,13 +963,13 @@ Important source material should remain independently accessible.
 
 > **Civilisation should preserve its constitutional and developmental knowledge without requiring every current participant to carry the entire historical archive. Current, historical and developmental layers should remain distinguishable, searchable and connected so accessibility does not require destructive compression.**
 
-<!-- BEGIN V2.1 BCA SOURCE CH167 -->
-### Chapter 167 — BCA-01 to BCA-12 candidate rules
+## 167.10 BCA-01 to BCA-12 candidate rules
 
 **Source basis:** Bounded Contextual Authority §20.
 
 Recover twelve research candidate rules: legitimate function; proportional bounds; no permission propagation; capability not authority; traceability; functional sunset; continuing justification; successor re-scoping; emergency limits; bounded delegation; context reassessment; and misuse distinct from underlying function. They are candidate research, not automatically adopted law. **[LOCAL ISSUE:]** owner implementation mapping.
-<!-- END V2.1 BCA SOURCE CH167 -->
+
+
 
 # Chapter 168 — Governance Development Debt
 
