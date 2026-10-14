@@ -2204,6 +2204,14 @@ Security should preserve information integrity without creating unreviewable inf
 
 > **Governance should treat information collection, filtering, framing, summarisation and prioritisation as constitutionally relevant functions because control of the information environment can become practical control of decision-making. High-consequence Governance should preserve provenance, uncertainty, independent routes and access to underlying evidence where practical.**
 
+<!-- BEGIN V2.1 BCA SOURCE CH77 -->
+### Chapter 77 — Overlapping authority contexts
+
+**Source basis:** Bounded Contextual Authority §§14–15.
+
+Simultaneous responder, employee, visitor and information-holder roles retain separate purpose and scope. Their permissions do not merge into unlimited authority. Delegation normally carries the delegator's bounds; a separately granted mandate requires its own justification. **[LOCAL ISSUE:]** multi-context intersection and delegation evidence.
+<!-- END V2.1 BCA SOURCE CH77 -->
+
 # Chapter 78 — Governance Time Horizons
 
 ## 78.1 Multiple Time Horizons
