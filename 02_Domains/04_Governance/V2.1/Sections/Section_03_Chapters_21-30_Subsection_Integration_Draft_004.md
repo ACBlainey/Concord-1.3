@@ -1685,6 +1685,13 @@ A degraded triad does not automatically become a conference, an expanded forum o
 
 # Chapter 30 — Emergency Abstention and Decision Failure
 
+### 30.V21a Emergency deadlock, unresolved results and preservation powers
+
+Apply the same three-position triadic substantive result rule to each lawful constituent and to the three constituent **resultants** of a virtual triad: two valid For positions determine For, two valid Against determine Against, and no matching pair yields Unresolved. Examples: `F,F,U → F`, `F,A,U → U`, `A,A,U → A`. `U` at a constituent level is not itself an individual Steward abstention, nor a vacancy, an Against ballot or a procedural defect. Record the specific reason for any unresolved state and keep independently invalid decisions outside the tally.
+
+Where a decision remains unresolved under urgent conditions, preserve the no-authorised-state-change default for that decision. Independently existing emergency-preservation powers may nevertheless permit a minimal, proportionate and time-limited protective act through their own lawful owner and activation path. This is **not** a manufactured vote, a silent override, an emergency replacement of a dissenting Steward or automatic escalation to a geometrically larger GTP authority. Record the preservation action and its distinct basis, external effect, uncertainty, review, expiry and restoration. A choice not to intervene also requires evidence-sensitive assessment of avoidable harm, but the risk of inaction alone cannot mint an ungranted power.
+
+
 ### 30.V21 — Abstention, unresolved outcomes and emergency non-authorisation
 
 A three-position decision produces For or Against only on two valid corresponding votes; otherwise its result is Unresolved. Record separately whether Unresolved arises from abstention, absence, recusal, invalid authentication, insufficient evidence or another cause. Against is a substantive decision, not the same as Unresolved. Abstention is neither consent, opposition nor vacancy, and never independently authorises replacement; a legitimate two-vote majority remains effective despite third-position abstention.
