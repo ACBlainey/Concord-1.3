@@ -173,6 +173,10 @@ The principle remains:
 
 > **Institutional independence should protect the judgement or function that requires freedom from improper influence while preserving accountability for the institution’s authority, resources, administration, integrity and constitutional boundaries. Independence is protection from capture, not exemption from review.**
 
+## 81.V21 — Existing functional-impact and independence interface
+
+Concord **Minimum Necessary Capability**, **State and Maturity Mapping** and **Lifecycle Stewardship Review** distinguish actual functional need, context-relative sufficiency and the continued justification of an institution from the mere availability of a powerful intervention. Classify a civil impact by affected rights, functional consequence, scope, reversibility, uncertainty, material dependency and available less-intrusive alternatives before escalating from routine owner action to exceptional governance review. A diagnostic class does not itself confer exceptional authority. **[LOCAL ISSUE — FI-035:]** calibrated thresholds, lawful exceptional reviewer and affected-party remedy remain open.
+
 # Chapter 82 — Administrative Governance
 
 ## 82.1 Administration
@@ -1056,7 +1060,9 @@ The proposed TE-1–TE-6 cross-channel states distinguish strong convergence, fo
 
 Duplicate-use signals may reflect credential theft, fraud, stale sessions, mistaken linkage or legitimate hidden AI branching. No automatic penalty or public accusation follows a signal. Investigations should compare competing hypotheses with privacy-minimised evidence, and guard against fraudsters exploiting branching exceptions. **[LOCAL ISSUE:]** independent review and re-key/branch reconciliation.
 
+## 84.V21 — Existing epistemic independence and cross-channel review interface
 
+Concord **KCS Change Propagation** (§§16, 20) and the Research **Triadic Epistemics — Independent Measurement, Participant Evidence and Epistemic Anomaly Detection** supply candidate interfaces for provenance-linked evidence, material dependency review and cross-channel independence assessment. Multiple agreeing reports are not necessarily independent when they share a source, model, instrumentation or gatekeeper. Disagreement or an anomaly triggers bounded examination, not automatic proof of wrongdoing or a new authority. **[LOCAL ISSUE — FI-037, FI-072:]** actual channel independence tests, independent sampler appointment, protected-source access and epistemic calibration remain open.
 
 # Chapter 85 — Public Reason and Explanation
 
@@ -2087,7 +2093,9 @@ The correction can become the next failure mechanism.
 
 Governance failure must distinguish individual error, collective triad failure, institutional capture, information distortion, systemic design defects, failure to act and failure of restraint. Indicators such as repeated abstention or correlated recommendations are signals for independent examination, not automatic guilt. Corrective measures should isolate harmful authority, preserve provenance, support lawful review and restore ordinary operation without creating an unreviewable recovery office. **[LOCAL DEPENDENCY:]** Independent reviewer constitution, protective restrictions and correction triggers remain to be specified.
 
+## 88.V21 — Existing protected disclosure and contestation interface
 
+Concord **Private Local Evaluation**, **Concord Information Black Box** (§§12–13) and **KCS Change Propagation** (§16) support minimal necessary public explanations, bounded protected projections and review of materially corrected sources. Public explanation should identify the decision basis, legitimate limits and contestation route while protecting sensitive personal data, security dependencies and uncertainty whose disclosure would itself cause harm. Concealment cannot be justified solely by institutional convenience; neither full disclosure nor secrecy follows automatically from a query. **[LOCAL ISSUE — FI-041, FI-050, FI-053:]** declassification authority, independent challenge and recipient-specific cumulative-risk rules require owner validation.
 
 # Chapter 89 — Detection
 
