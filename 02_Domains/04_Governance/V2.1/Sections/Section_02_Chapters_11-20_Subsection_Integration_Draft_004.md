@@ -427,6 +427,23 @@ It is to make constitutional velocity visible.
 
 # Chapter 12 — Managing Governance Work
 
+## 12.0 Consolidated triadic governance working rule
+
+**Status:** Working V2.1 consolidation of previously incorporated material, not final constitutional adoption. Earlier V2, candidate and authorial correction passages in this chapter remain below as historical and developmental evidence. Where they conflict, this working rule records the latest authorial distinction; it does not retroactively edit sources.
+
+**Mandate before vote.** A valid triadic decision requires a defined civil question, legitimate functional and jurisdictional mandate, three independently authorised Steward positions, eligible participants, bounded evidence context, and an auditable decision-event boundary. Technical capability, office title, geometry, appointment and permission are distinct from specific vote authority. A Steward's official ballot is Favour (F), Against (A) or Abstain; abstention is not Against or a vacancy.
+
+**Independent, single-use ballots.** Stewards ordinarily deliberate and vote in isolation. Once an official ballot is committed, its vote-specific authority is consumed; the ballot cannot be revoked, replaced or superseded because the voter learns another ballot. A concern, validity challenge or changed circumstance calls for a **separately authorised** review or new decision, never retroactive ballot rewriting. An optional anonymous participation count 0–3 may show how many official votes have been cast, without disclosing identity or choice and without altering another Steward's authority or the voting state machine.
+
+**Determinacy versus execution.** Two independently valid matching F ballots determine F, and two matching A determine A, even if the third eligible Steward has not yet voted. The third may still commit a valid ballot while its original event authority remains; no early result grants the other voters revocation rights. In the absence of two matching substantive votes, the result is unresolved. The legal effect of a valid outcome, the time of acknowledgement and any implementation are separately authorised states; a majority never manufactures operational power. Ordinary Civilisational Clock timing and urgent independent operational time must be distinguished.
+
+**Expansion and continuity.** Cross-context coordination does not imply parent governance. A specifically authorised expanded triad uses three constituent F/A/U resultants, not nine pooled individual ballots; origin-excluded and origin-included 2+1 arrangements must each satisfy independent eligibility, uniqueness, quorum, context and commit checks. A recused/vacant position may be substituted only through separately lawful eligibility and selection; mere abstention is not grounds for substitution. Shared information or conference requires its own contextual authorisation and does not confer votes. Appointment, retained local competence, decision authority and implementation authority remain separate objects.
+
+**[LOCAL ISSUES:]** Exact quorum treatment under lawful vacancy and provisional appointment; vote-event identity and partial failure; when a substantively determined result becomes legally operative; expanded constituent eligibility and source disagreement; authorisation of exceptional conference; reconciliation with pre-existing Chapter 12 source passages referring to later ballot supersession. The earlier supersession formulation is **not** the current working rule for already committed official ballots.
+
+---
+
+
 ## 12.1 Jurisdiction, Horizontal Expansion, Priority and Escalation
 
 The Concord’s Governance system is based upon distributed stewardship rather than concentration of authority.
