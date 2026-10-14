@@ -254,13 +254,13 @@ Not every pre-emergency arrangement should automatically be restored if the emer
 
 Such changes, however, should enter ordinary Governance rather than remain through inertia.
 
-<!-- BEGIN V2.1 SOURCE RECOVERY SECTION 04 CH31 -->
-### Chapter 31 — Recovered cross-source governance interface
+## 31.10 Recovered cross-source governance interface
 
 **Source basis:** Constitutional Emergency V2, Chapters 5–14; Governance Operating Boundary and Authority Lifecycle §§4–13.
 
 Emergency resource authority must trace each diversion to a specific evidenced threat, affected rights, minimum sufficient scope, temporal expiry and restoration ledger. Scarcity and urgency do not grant a general budget or requisition power. Decisions that redirect resources require a distinct lawful mandate and contemporaneous proportionality record; the affected domain retains its ordinary expertise and non-displaced functions. **[LOCAL DEPENDENCY:]** Resource owner attestations, emergency priority and restitution routes remain to be implemented.
-<!-- END V2.1 SOURCE RECOVERY SECTION 04 CH31 -->
+
+
 
 # Chapter 32 — Emergency Financial Authority
 
@@ -472,13 +472,13 @@ Governance should observe whether crisis-created dependence becomes political le
 
 Economic rescue should not silently produce constitutional authority.
 
-<!-- BEGIN V2.1 CROSS SOURCE DETAIL CH32 -->
-### Chapter 32 — Emergency financial authority and recovery
+## 32.10 Emergency financial authority and recovery
 
 **Source basis:** Constitutional Emergency V2 Chapters 5–14, 31–40, 166–190.
 
 Financial emergency measures remain function-specific: exceptional expenditure, guarantees, procurement and redistribution require identifiable threat, competence, evidence, scope, affected rights, audit and termination. An emergency classification is not a blanket appropriation or permanent economic mandate. Financial liabilities, compensation and surviving contracts remain part of recovery even after operational danger ends. **[LOCAL ISSUE:]** budget owner, disbursement execution and post-emergency accounting.
-<!-- END V2.1 CROSS SOURCE DETAIL CH32 -->
+
+
 
 # Chapter 33 — Infrastructure Continuity
 
@@ -923,13 +923,13 @@ Reconciliation should preserve:
 
 A central record should not erase legitimate local emergency history merely because one branch later becomes dominant.
 
-<!-- BEGIN V2.1 EMERGENCY SOURCE RECOVERY CH35 -->
-### Chapter 35 — Communication failure and bounded local continuity
+## 35.9 Communication failure and bounded local continuity
 
 **Recovered source:** Constitutional Emergency V2 Chapters 11–18, 131–165; G05 Existing State Machine/BTA Clock Emergency Interface 060.
 
 Loss of communications does not suspend the Constitution or create general local sovereignty. Where central or neighbouring contexts are unreachable, preserve already lawful local functions and minimum necessary protective operations within independently valid mandates. Record time, uncertainty, attempted contact, authority basis, actions and effects; reconcile conflicting decisions when communication returns. The Civilisation Clock may pause, so urgent emergency detection and operational deadlines require independently progressing operational time and state-machine triggers. **[LOCAL OPEN:]** degraded communication threshold, local activation authority and reconciliation order.
-<!-- END V2.1 EMERGENCY SOURCE RECOVERY CH35 -->
+
+
 
 # Chapter 36 — Emergency Constitutional Branching
 
@@ -1042,13 +1042,13 @@ That evidence should enter ordinary review.
 
 Crisis experimentation should not automatically become permanent architecture.
 
-<!-- BEGIN V2.1 SOURCE DEEPENING CH36 -->
-### Chapter 36 — Emergency constitutional branching
+## 36.8 Emergency constitutional branching
 
 **Recovered source:** Constitutional Emergency V2 Chapters 1–14, 166–190.
 
 An emergency branch is a temporary, purpose-specific operational route within the existing Constitution, not a fork that establishes new sovereignty. Preserve the ordinary-state baseline, trigger evidence, affected functions, delegated authority, expiry, review, and restoration route. The branch must remain reversible where feasible and must not quietly become permanent governance after the triggering condition ends. **[LOCAL ISSUE:]** actual branch owner, trigger and rollback controls.
-<!-- END V2.1 SOURCE DEEPENING CH36 -->
+
+
 
 # Chapter 37 — Emergency Review
 
@@ -1189,13 +1189,13 @@ from
 
 **system recovery**.
 
-<!-- BEGIN V2.1 CROSS SOURCE DETAIL CH37 -->
-### Chapter 37 — Emergency review and de-escalation
+## 37.8 Emergency review and de-escalation
 
 **Source basis:** Constitutional Emergency V2 Chapters 41–50,107–130.
 
 Review evidence-at-time, uncertainty, necessity, proportionality, affected rights, alternatives and expiry. Emergency levels I–V classify operational scale, not authority rank. Escalation does not activate every power; de-escalation is mandatory once justified and continuation bears the burden of proof. **[LOCAL ISSUE:]** independent review and sunset enforcement.
-<!-- END V2.1 CROSS SOURCE DETAIL CH37 -->
+
+
 
 # Chapter 38 — Post-Emergency Accountability
 
@@ -2111,13 +2111,13 @@ Loss of institutional memory may create:
 
 Where critical memory is lost, the loss itself should be treated as a Governance failure requiring correction.
 
-<!-- BEGIN V2.1 CROSS SOURCE DETAIL CH39 -->
-### Chapter 39 — Constitutional continuity versus institutional survival
+## 39.9 Constitutional continuity versus institutional survival
 
 **Source basis:** Constitutional Emergency V2 Chapters 31–40,166–190.
 
 Protect constitutional function when institutions fail: rights, judiciary, provenance, services and restoration, rather than perpetuation of emergency office. Every significant intervention needs an anticipated end and ordinary-governance transition. **[LOCAL ISSUE:]** successor office and continuity owner.
-<!-- END V2.1 CROSS SOURCE DETAIL CH39 -->
+
+
 
 # Chapter 40 — Provenance and Governance
 
