@@ -2073,3 +2073,11 @@ High-consequence systems may require:
 ## 110.11 Technology Principle
 
 > **Governance should treat technology as capability, not permission. Technical systems may implement lawful authority but cannot independently create it, and major Governance technology should remain subject to constitutional assessment, provenance, review, correction, replacement and practical exit.**
+
+<!-- BEGIN V2.1 CITIZEN ID AUDIT CH110 -->
+### Chapter 110 — Identity infrastructure without a universal dossier
+
+**Audit source:** Citizen ID Threat, Privacy and Misuse Audit §§6,17–20,33–36 (historical research evidence; not adopted law).
+
+A root civil identity registry should not also hold detailed credentials, network routes, location histories, service records and all access logs. Avoid catastrophic single-point compromise and broad administrative AI correlation by architecture, not only operator promises. Separate custody, cryptographic authority, lookup, service access and operational monitoring. **[LOCAL ISSUE:]** registry topology, outage continuity and insider access.
+<!-- END V2.1 CITIZEN ID AUDIT CH110 -->
