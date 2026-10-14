@@ -1024,6 +1024,13 @@ The principle remains:
 
 # Chapter 54 — Decision Architecture: Expanded Operational Rules
 
+### 54.V21 — Bounded decision and jurisdiction interface
+
+For an expanded triadic proposal, record the decision topology: origin R, adjacent A/B/C, origin-included or origin-excluded mode, separately authorised and conflict-checked eligible constituent positions, three constituent majority results, virtual-triad result, any Unresolved cause, implementation scope, minority reasoning, sunset and review. Three resultant votes, never nine pooled individual ballots, determine the virtual result: F/F/U yields F; F/A/U remains Unresolved. Expansion does not alter proposal scope or resource authority absent the ordinary material-amendment procedure.
+
+**Open issue:** define individual-ballot confidentiality and public resultant disclosure consistent with §§54.28–54.30 and independent Steward voting.
+
+
 ## 54.1 Why Detailed Procedure Is Retained
 
 Constitutional principles alone are insufficient.
