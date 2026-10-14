@@ -343,7 +343,9 @@ Review mechanisms must themselves be bounded, contestable and reviewable; their 
 
 The BCA audit identifies authority to define, interpret or validate authority as authority itself, subject to bounded contextual review (BCA-R11). Recursive oversight cannot be made legitimate merely by adding another review office. Record independent function legitimacy, review mandate, appeal, termination and evidence. **[LOCAL ISSUE:]** recursive stopping condition and jurisdictional conflict resolution.
 
+## 162.V21 — Existing bounded recursive-review and non-compositional authority interface
 
+Concord **State Triggered Review Architecture** separates a review trigger from the authority to decide; **Multi-Key Authority** (§17) prohibits composition of independently bounded mandates into a higher ungranted authority; **Fault-Tolerant Accountability and Responsibility Continuity** (§§9–13) supports lawful successor eligibility without permanent oversight incumbency. Recursive oversight may inspect an earlier review's provenance, competence, conflicts and consequences, but cannot recursively manufacture an unlimited appellate sovereign. Each review tier needs an independently justified remit, stopping/return condition, record custody, protected challenge and explicit remedy owner. **[LOCAL ISSUE — FI-064:]** constitutional reviewer appointment, recursion stop rule, meta-authority and independent remedy remain open.
 
 # Chapter 163 — Governance and KCS
 
@@ -1073,6 +1075,10 @@ Dependency mapping should therefore include provisional foundations.
 ## 168.9 Development Debt Principle
 
 > **Unresolved architectural work may legitimately remain while higher-priority development proceeds, but development debt should remain visible, traceable and connected to the systems that depend upon it. Provisional architecture must not become permanent merely because its unresolved status was forgotten.**
+
+## 168.V21 — Existing contextual authority diagnostic interface
+
+Concord **Multi-Key Authority**, **Fractal Permission Architecture**, **Bounded Transition Architecture** and **Concord Bounded Participant Runtime** already separate legitimate authority, permission, operational capability, consequential transition and owner revalidation. A Bounded Contextual Authority diagnostic can classify a proposed action by actor, scope, lawful basis, conditions, current state, expiry and effects, but the diagnostic does not issue or renew authority. Materially changed targets, effects, policy or rights constraints require current checks at commit. **[LOCAL ISSUE — FI-067, FI-069:]** host owner mapping, formal candidate rules, classification calibration and enforcement proof remain open.
 
 # Chapter 169 — Constitutional Interfaces
 
