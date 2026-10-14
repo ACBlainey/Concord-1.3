@@ -778,7 +778,9 @@ Preserve decision question, mandate, evidence, uncertainty, ballots, dissent, re
 
 A summary is not a substitute for source ancestry, model lineage and decision-time evidence. Preserve the exact evidence snapshot that justified an action, with later corrections appended rather than backdated. Source lineage should allow challenge without exposing unnecessary participant identities. **[LOCAL ISSUE:]** CWA projections and KCS dependency index.
 
+## 165.V21 — Provenance of decisions versus downstream effects
 
+Use Concord **Bounded Transition Architecture** (§§10, 12, 17, 19), **Concord Bounded Participant Runtime** (§§11, 13), and **KCS Change Propagation** (§16) as separate owner interfaces. A committed ballot/result retains its own immutable event reference and historical provenance. Downstream implementation is a different consequential transition with proposal, authorisation, effect attempt, confirmation/failure/unknown and any surviving duties; a corrected knowledge dependency creates a new review record rather than rewriting the original vote. Unknown external commit state must not be treated as proof that no effect occurred. Protected Historical projections should expose only what the legitimate reviewer needs. **[LOCAL ISSUE — FI-007, FI-018, FI-031, FI-049:]** canonical event keys, receipt linking, owner attestations and cross-domain audit reconciliation remain unverified.
 
 # Chapter 166 — Governance and Constitutional Development Records
 
