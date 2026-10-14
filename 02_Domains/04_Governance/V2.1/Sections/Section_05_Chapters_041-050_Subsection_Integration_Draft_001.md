@@ -1389,6 +1389,14 @@ The limitation itself should remain reviewable.
 Emergency communications should prioritise factual accuracy, operational clarity, acknowledged uncertainty, accessibility, realistic expectations and timely correction. Manipulative reassurance or propaganda is not a legitimate substitute for public understanding. Public trust does not mean mandatory agreement or compliance. Publish the lawful basis and scope of restrictions where safe, while retaining narrowly justified privacy and operational secrecy subject to review and expiry. **[LOCAL OPEN:]** information-owner projection and secrecy exception procedures.
 <!-- END V2.1 EMERGENCY SOURCE RECOVERY CH46 -->
 
+<!-- BEGIN V2.1 CITIZEN ID AUDIT CH46 -->
+### Chapter 46 — Civil identity and nonambient linkability
+
+**Audit source:** Concord Citizen ID — Threat, Privacy and Misuse Audit §§3–8,16–18,33–36 (historical research evidence; not adopted law).
+
+The Citizen ID audit rejects treating one permanent identifier as identity, credential, network endpoint and tracking key. A persistent opaque civil root should remain separated from names, replaceable credentials, official routing, services and exceptional access. Pairwise/contextual identifiers should prevent unnecessary correlation. Transparency of lawful authority use does not require general public discoverability of participants. **[LOCAL ISSUE:]** resolver, CWA access and disclosure review.
+<!-- END V2.1 CITIZEN ID AUDIT CH46 -->
+
 # Chapter 47 — Governance Security
 
 ## 47.1 Security Protects Governance
