@@ -221,6 +221,14 @@ Current benevolence is not a complete privacy safeguard.
 Record source, method, collection time, transformations, assumptions, confidence by claim, challenge history, model version and decisions that used the evidence. If material evidence is withdrawn or weakened, search dependencies and flag affected decisions for separately authorised review; do not automatically cancel or rewrite past votes. Provenance supports auditability but is not proof of truth. **[LOCAL ISSUE:]** dependency index, protected records and owner-triggered review.
 <!-- END V2.1 EPISTEMIC SOURCE CH111 -->
 
+<!-- BEGIN V2.1 AUDIT SERIES RECOVERY CH111 -->
+### Chapter 111 — Provenance minimisation and future-capture review
+
+**Audit source:** Epistemic Independence Adversarial Audit §§38,42–43 (historical adversarial evidence; not adopted law).
+
+Retain enough evidence to reconstruct consequential reasoning and detect manipulation, but no more identifying data than necessary. Evaluate whether a later coercive authority could exploit the archive, identity infrastructure or classification system. The audit proposes classification sunset, privacy-minimised provenance and decision-time evidence snapshots. **[LOCAL ISSUE:]** Historical custody, redaction and independent disclosure.
+<!-- END V2.1 AUDIT SERIES RECOVERY CH111 -->
+
 # Chapter 112 — Surveillance
 
 ## 112.1 Surveillance Capability
