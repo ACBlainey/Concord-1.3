@@ -1117,6 +1117,17 @@ A mechanism repeatedly demonstrating failure should become easier, not harder, t
 
 # Chapter 100 — Governance and Parallel Stewardship
 
+### 100.V21 — Independent advisory reasoning and separately authorised substitution
+
+Parallel Stewardship is an independent advisory function: it can evaluate evidence, assumptions, alternatives and constitutional risk, but agreement is not proof, dissent is not a fourth vote, and neither supplies executive command. Parallel reasoning should ordinarily be recorded before exposure to primary conclusions; shared evidence, model lineage, institutional dependency, funding and common assumptions require correlated-failure checks.
+
+A Parallel Steward becomes a voting substitute only through a separate, position-specific lawful appointment. That appointment must validate identity, competence, independence, conflicts, jurisdiction, decision scope, duration and audit. A contrary vote or principled abstention by the incumbent does not justify replacement. Six-Steward GTP vertex affiliation is a potential eligibility context, never automatic office or succession. Prevent duplicate effective votes across constituent triads.
+
+Temporary substitute authority ends on its defined expiry, completion of the authorised decision or restoration of ordinary office, as applicable. Any continuing advisory role remains separate and non-executive.
+
+**Open issue:** resolve the vertex-to-decision-position eligibility mapping and test independence across expanded triads before specifying automatic selection.
+
+
 ## 100.1 Parallel Stewardship
 
 Governance V1 developed the concept of **Parallel Stewards**.
