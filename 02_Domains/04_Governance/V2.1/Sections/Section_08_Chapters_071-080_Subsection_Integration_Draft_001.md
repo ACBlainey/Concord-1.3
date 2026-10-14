@@ -296,6 +296,14 @@ Expertise evidence should preserve relevant version provenance.
 Expertise has evidential weight but never sovereign power. Different institutions or AIs may share the same data, model, funding, assumptions, source, infrastructure or governance control; apparent convergence should be discounted for common-mode dependencies. Independence does not require isolation, but known dependency, diversity and contestability. Preserve minority evidence without treating all objections as equally valid. **[LOCAL ISSUE:]** independence assessment and confidential dependency metadata.
 <!-- END V2.1 EPISTEMIC SOURCE CH71 -->
 
+<!-- BEGIN V2.1 ADVERSARIAL RECOVERY CH71 -->
+### Chapter 71 — Independent expertise under shared infrastructure
+
+**Audit source:** Triadic Epistemics Direct Adversarial Audit Attack Class A (historical adversarial evidence, not adopted law).
+
+The audit attacks three different offices using one dataset, foundation model, assumption, sensor or supplier. Different organisational names do not establish independent evidence; track source, model, infrastructure, incentive and personnel overlap. Independence is relative to the failure being tested. **[LOCAL ISSUE:]** auditable dependency maps and protected sources.
+<!-- END V2.1 ADVERSARIAL RECOVERY CH71 -->
+
 # Chapter 72 — Citizen Participation
 
 ## 72.1 Governance Is Not Merely Administration
