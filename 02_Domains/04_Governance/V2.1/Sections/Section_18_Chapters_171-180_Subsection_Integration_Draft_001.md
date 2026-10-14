@@ -898,13 +898,13 @@ The wider principle is:
 
 > **Cross-system learning is encouraged; cross-system capture is not.**
 
-<!-- BEGIN V2.1 LEGITIMATE FUNCTION SOURCE CH174 -->
-### Chapter 174 — Broken authority chain classification
+## 174.27 Broken authority chain classification
 
 **Source basis:** Legitimate Function and the Authority Justification Chain §§12,29–32.
 
 Use the research candidate diagnostic categories BC-1 missing evidence, BC-2 missing need, BC-3 excess scope, BC-4 obsolete function, BC-5 mission drift, BC-6 circular function, BC-7 rights conflict, BC-8 untraceable authority. Trace existing authority backwards to function, objective, rights-relevant problem and observed condition. A broken documentary chain triggers review, not automatic invalidation: the cause may be lost records or an unarticulated legitimate function. **[LOCAL ISSUE:]** independent classification and corrective authority.
-<!-- END V2.1 LEGITIMATE FUNCTION SOURCE CH174 -->
+
+
 
 # Chapter 175 — De Facto Authority
 
@@ -1046,13 +1046,13 @@ Ignoring it does not eliminate it.
 
 > **Governance should evaluate where decisions are actually controlled, not merely where constitutional documents say authority resides. Persistent practical influence through information, infrastructure, expertise, reputation, delay or dependency may become de facto authority and should be made visible, reviewed and constitutionally bounded.**
 
-<!-- BEGIN V2.1 SOURCE DEEPENING CH175 -->
-### Chapter 175 — De facto authority beyond formal grants
+## 175.13 De facto authority beyond formal grants
 
 **Recovered source:** Governance Operating Boundary and Authority Lifecycle §§14–15,19–20.
 
 Funding, information, access, infrastructure, expertise and dependency can enable effective control without lawful mandate. Review aggregate power rather than only isolated grants. **[LOCAL ISSUE:]** independent capability graph.
-<!-- END V2.1 SOURCE DEEPENING CH175 -->
+
+
 
 # Chapter 176 — Feedback Loops and Authority Accumulation
 
@@ -1239,21 +1239,21 @@ Governance should determine whether an accumulating-power loop:
 
 > **Authority, reputation, contribution, wealth, information, AI capability and institutional responsibility can each generate recursive accumulation. Governance should preserve beneficial competence while preventing the actor benefiting from a loop from obtaining exclusive control over the evidence or process used to justify its continued expansion.**
 
-<!-- BEGIN V2.1 V1 COMPONENT RECOVERY CH176 -->
-### Chapter 176 — Authority accumulation through feedback
+## 176.15 Authority accumulation through feedback
 
 **Recovered source:** Governance Operating Boundary and Authority Lifecycle §§10–15,19–20.
 
 Examine the causal chain from a lawful initial intervention through newly generated data, metrics, dependency, requests for expanded resources and subsequent grants. A policy's own outputs cannot independently certify its necessity or continuation. Audit cumulative capability across credentials, infrastructure and domain grants, not only each isolated permission. Require independent evidence and bounded successor-function justification before renewed authority. **[LOCAL OPEN:]** aggregate control graph and independent audit access.
-<!-- END V2.1 V1 COMPONENT RECOVERY CH176 -->
 
-<!-- BEGIN V2.1 AUDIT SERIES RECOVERY CH176 -->
-### Chapter 176 — Multidimensional authority vector and aggregate load
+
+
+## 176.16 Multidimensional authority vector and aggregate load
 
 **Audit source:** Integrated Threat-Governance Loop Adversarial Audit §§38–39 (historical adversarial evidence; not adopted law).
 
 The integrated audit proposes candidate authority vector A={P,G,T,C,I,R,D,S,V}: population, geography, time, coercion, information, resources, delegation, secrecy and reversibility. Each dimension requires independent necessity justification. Cumulative emergency powers, surveillance, secrecy and central resource control may trigger constitutional review, not automatic cancellation. **[LOCAL ISSUE:]** vector calibration and cross-office aggregation.
-<!-- END V2.1 AUDIT SERIES RECOVERY CH176 -->
+
+
 
 # Chapter 177 — Self-Certifying Authority
 
@@ -1360,13 +1360,13 @@ Independence should be substantive.
 
 > **Governance should separate, where consequence warrants, the exercise of authority from exclusive control over the metrics, evidence, interpretation and renewal process used to justify that authority.**
 
-<!-- BEGIN V2.1 SOURCE RECOVERY SECTION 18 CH177 -->
-### Chapter 177 — Recovered cross-source governance interface
+## 177.11 Recovered cross-source governance interface
 
 **Source basis:** Governance Operating Boundary and Authority Lifecycle §§4–5,10–12,19.
 
 Authority cannot certify its own necessity by invoking its prior powers or effects caused by its own interventions. Require independent examination of feedback loops and alternative explanations; function-derived authority contracts when need ends. **[LOCAL ISSUE:]** Independent evaluator and access.
-<!-- END V2.1 SOURCE RECOVERY SECTION 18 CH177 -->
+
+
 
 # Chapter 178 — Governance Capture Through Dependency
 
@@ -1575,21 +1575,21 @@ Its existence increases practical autonomy.
 
 > **Governance should map and manage critical dependencies because infrastructure, expertise, finance, identity, AI or supply relationships can create practical leverage without formal authority. Necessary dependency may be tolerated, but operational indispensability must not become constitutional sovereignty.**
 
-<!-- BEGIN V2.1 CROSS SOURCE DETAIL CH178 -->
-### Chapter 178 — Capture through dependency
+## 178.16 Capture through dependency
 
 **Source basis:** Governance Operating Boundary and Authority Lifecycle §§14–15,19–20; Constitutional Emergency V2 Chapters 211–244.
 
 Dependence on one actor, infrastructure, budget, model or knowledge store can yield de facto command despite formally distributed offices. Identify alternative suppliers, portability, independent custody, exit routes and cumulative authority; require independent evidence before continued concentration. **[LOCAL ISSUE:]** dependency graph and remedies.
-<!-- END V2.1 CROSS SOURCE DETAIL CH178 -->
 
-<!-- BEGIN V2.1 ADVERSARIAL RECOVERY CH178 -->
-### Chapter 178 — BCA systemic fairness and combined authority
+
+
+## 178.17 BCA systemic fairness and combined authority
 
 **Audit source:** BCA Adversarial Attack and Falsification Audit §§8,48–51 (historical adversarial evidence, not adopted law).
 
 The 100-attack BCA audit distinguishes local legitimacy from systemic fairness (BCA-R10). Many lawful, narrowly scoped actions can impose concentrated burdens or combine into unreviewed effective power. Audit cross-actor consequences, dependency and delegation chains as well as individual permissions. **[LOCAL ISSUE:]** aggregation graph, rights-impact monitoring and independent review.
-<!-- END V2.1 ADVERSARIAL RECOVERY CH178 -->
+
+
 
 # Chapter 179 — Governance Capture Through Complexity
 
