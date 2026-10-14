@@ -1458,8 +1458,7 @@ The original portable module's collective deliberation capability remains possib
 **Ring construction (041, provisional beyond ring two):** The first candidate ring is the five other triangle-owned positions at the originating node; the second comprises the other two node-associated positions in each of those five triangles (ten nominal positions). For further rings, the node-centred discovery frontier considers all six incident triangles, excludes previously visited triangles, and discovers new triangles by full-edge adjacency. This replaces the earlier origin-excluded frontier as the preferred *provisional engineering method*, not as a constitutional requirement. Irregular nodes, seams, resolution boundaries and ring-three counts remain unresolved. At each authorised ring, eligibility is independently verified; one eligible holder is selected, two or more require an unbiased auditable draw. A contextually justified security exception may widen the search without granting emergency jurisdiction. The selected Steward fills one original position, not an additional vote.
 <!-- END V2.1 SOURCE RECOVERY 2026-10-13 CHAPTER 12 -->
 
-<!-- BEGIN V2.1 INCORPORATE-FIRST RECOVERY CH12 -->
-### Chapter 12 — V1 governance operating-cycle and Steward lifecycle incorporation
+## 12.26 V1 governance operating-cycle and Steward lifecycle incorporation
 
 **Recovered architectural material (GTP Spatial Triadic Governance — V1.2 Architecture Recovery 001, §§1A, 7–18, 19A; original V1 Governance Full.md cited therein).** This subsection incorporates the historical operating architecture as a working V2.1 specification without waiting for complete legal or implementation resolution.
 
@@ -1472,7 +1471,8 @@ The normal governance decision unit is a bounded triad. Its surrounding operatin
 **Jurisdiction is multidimensional:** spatial, functional, digital, population, resource and temporal contexts can intersect. A GTP triangle supplies spatial reference, not comprehensive territorial sovereignty. Affected standing may arise from residence, employment, infrastructure dependency, property or external consequences. Spatial competence does not automatically confer functional expertise or permission. Lateral coordination is available before wider-scale coordination; moving between geometric resolution levels does not itself create a superior political office.
 
 **Degraded operation:** a failing, captured, isolated or vacant local triad may need neighbouring coordination, lawful substitution, independent review and continuity support. Such support must not silently inherit unlimited powers. Durable decision records belong in the appropriate Historical custody with evidence, dissent, authority basis, scope, outcome, effect and later corrections linked without overwriting the original. **[LOCAL ISSUE: recovery source describes rotation, election and degraded-operation mechanisms but does not settle all operational thresholds; retain them as integrated working architecture.]**
-<!-- END V2.1 INCORPORATE-FIRST RECOVERY CH12 -->
+
+
 
 
 <!-- BEGIN V2.1 EXPANDED TRIADIC SOURCE INCORPORATION 2026-10-14 -->
@@ -6033,11 +6033,11 @@ Every role should identify the authority actually granted.
 
 AI involvement should not be inferred from capability alone.
 
-<!-- BEGIN V2.1 V1 GOVERNANCE RECOVERY CH18 -->
-### Chapter 18 — Judiciary, epistemics and Historical separation
+## 18.11 Judiciary, epistemics and Historical separation
 
 **Recovered source:** `GTP Spatial Triadic Governance — V1.2 Architecture Recovery 001.md`, §§15–17. Governance chooses among legitimate civil actions; Judiciary adjudicates disputes, legality and constitutional boundaries. Their shared triadic method does not merge their institutional functions. Epistemic triads and GTP evidence meshes supply independent information, not votes or governance mandates. Historical holds durable decision provenance, not the authority to make decisions. Significant governance decisions should preserve GTP context, decision scope, authority source, participating positions, material qualification/conflicts, evidence and uncertainty, nonofficial preliminary positions where lawfully recorded, committed official ballots, dissent/abstention, outcome, implementation effects and review conditions. Protected information is retained under its own contextual access rules. **[LOCAL ISSUE:]** Disclosure of preliminary reasoning and conference content must not compromise official voting isolation, protected data or future independent reviews.
-<!-- END V2.1 V1 GOVERNANCE RECOVERY CH18 -->
+
+
 
 # Chapter 19 — Governance Capture and Power Separation
 
@@ -6264,11 +6264,11 @@ This may eventually produce de facto AI governance without an explicit constitut
 
 Governance should not permit a change of constitutional regime to occur merely through accumulated convenience.
 
-<!-- BEGIN V2.1 V1 GOVERNANCE RECOVERY CH19 -->
-### Chapter 19 — Steward selection, independence and anti-entrenchment
+## 19.18 Steward selection, independence and anti-entrenchment
 
 **Recovered source:** `GTP Spatial Triadic Governance — V1.2 Architecture Recovery 001.md`, §§9 and 19A. The original source does **not** establish a universal public election, sortition or superior-ruler appointment mechanism. Steward candidacy, qualification, current eligibility, selection/allocation, appointment, mandate, decision-specific authority, monitoring, rotation, recall/suspension/removal and succession are separate stages. A triadic governance vote is not a public election. Office does not confer personal ownership of authority. Conflicts can require recusal or lawful substitution; dissent from a majority is not by itself recall grounds. Routine actions within an existing mandate need not be resubmitted to a fresh triad, while materially out-of-mandate acts require renewed lawful authorisation. Persistent identical triad composition risks coalition capture: rotation and common-source dependence must be considered without destroying continuity or institutional memory. Emergency succession does not become permanent appointment by default. **[LOCAL ISSUE:]** Selector, rotation intervals, recall thresholds, qualification owners and vacancy fallback remain unfinalised; no conventional electoral method is imported by assumption.
-<!-- END V2.1 V1 GOVERNANCE RECOVERY CH19 -->
+
+
 
 
 <!-- BEGIN V2.1 SHARED STEWARDSHIP ASCENSION SOURCE INCORPORATION -->
@@ -6543,8 +6543,8 @@ Reuse `03_Cross_Domain_Architecture/Stewardship_Selection_and_Allocation/README.
 
 **Authorial rule:** Each decision is a unique state-machine instance with a unique decision identifier. Every official vote is attributed to that identifier and its one legitimate voting position; acceptance is conditional on the current vote/decision state. A previously accepted vote cannot be cast again as a second vote after its state transition, and a decided/completed event cannot accept repeated ballots that recreate its substantive outcome. Later third-Steward information is provenance, not a new deciding vote or a reopened event. Resultant actions likewise reference the decision and their own execution states; repeated requests cannot reproduce a completed consequence. A new question, including a fresh decision on a historical issue, receives a new identifier and independently activated authority. Duplicate delivery and simultaneous submissions require atomic state validation and durable recording; the ID by itself is not a security token or authority grant. Earlier speculative event-boundary complexities should not be read as permission to reuse a completed decision.
 
-<!-- BEGIN V2.1 V1 GOVERNANCE RECOVERY CH20 -->
-### Chapter 20 — Protected correction, dissent and challenge during triadic governance
+## 20.7 Protected correction, dissent and challenge during triadic governance
 
 **Recovered source:** `GTP Spatial Triadic Governance — V1.2 Architecture Recovery 001.md`, §§1A, 15–18, 19A. Steward dissent and abstention must be preserved as attributable governance evidence and diagnostic signals, not punished as disloyalty. Failure or capture of a local triad can trigger independent challenge, adjacent coordination and separately legitimate review without manufacturing a superior political office. Corrective decisions and later evidence must be linked to the original immutable decision record, not silently overwrite committed votes or Historical provenance. The ability to produce evidence, challenge an outcome or hold archival custody does not grant executive authority. **[LOCAL ISSUE:]** Emergency degraded-action threshold, provisional review time, protection for dissenters and owner-level correction interfaces require separate specification; this does not prevent inclusion of the original safeguards.
-<!-- END V2.1 V1 GOVERNANCE RECOVERY CH20 -->
+
+
