@@ -763,6 +763,14 @@ The system may need to act under uncertainty concerning:
 
 This remains a major future constitutional problem.
 
+<!-- BEGIN V2.1 BCA SOURCE CH62 -->
+### Chapter 62 — Multidimensional authority envelope
+
+**Source basis:** Bounded Contextual Authority, sections 8–11 and 19–20 (candidate research).
+
+Authority is not a single role-derived permission. The proposed envelope distinguishes purpose, permitted actions, protected objects, space, information, duration, conditions, delegation, termination and exceptional rules. Each requested act requires current context, legitimate function, scope and rights checks. A technical credential cannot itself prove lawful permission. **[LOCAL ISSUE:]** host representation and revalidation.
+<!-- END V2.1 BCA SOURCE CH62 -->
+
 # Chapter 63 — Current Status of Governance V2
 
 Governance V2 should presently be classified as:
