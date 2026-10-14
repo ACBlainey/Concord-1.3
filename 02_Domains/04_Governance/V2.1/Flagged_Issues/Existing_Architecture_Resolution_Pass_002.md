@@ -1,5 +1,8 @@
 # Existing Architecture Resolution Pass 002 — Authority, Review and Cross-Boundary Interfaces
 
+> **Registry-ID correction (14 October 2026):** Issue-number groupings in this early source crosswalk were assigned before reconciliation against the saved 83-row registry and **must not be used as authoritative FI mappings**. Match by the issue *title* and the source's substantive topic, then use the verified FI numbers in `Flagged_Issues_Registry.md`. A corrected thematic mapping is maintained in `Verified_Source_to_Issue_Map_004.md`. The underlying source paths and quoted module clauses remain useful; no issue closure is implied.
+
+
 **Date:** 14 October 2026  
 **Basis:** Direct clause inspection of three existing Concord portable modules and comparison with the V2.1 flagged-issue crosswalk.  
 **Disposition:** Reuse established source grammar; retain constitutional/owner-specific gates. **No issue is closed merely by identifying a module.**
