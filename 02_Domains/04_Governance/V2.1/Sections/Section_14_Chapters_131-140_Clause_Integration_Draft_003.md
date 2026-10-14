@@ -453,17 +453,7 @@ The principle is:
 Its use must preserve subsidiarity, representation, cultural context, practical rights, lawful delegation and the possibility of properly authorised constitutional evolution.
 
 <!-- V2.1 INTEGRATION 2026-10-13: AUTHORIAL SOURCE RECONCILIATION; DEVELOPMENTAL; REVERSIBLE -->
-## 132.x — V2.1 integration: mesh, constituent decisions and contextual conference
-
-GTP levels coexist as a conceptual multiresolution spatial mesh; geometric parent/child is not governance hierarchy. Expanded triads retain independently authorised three-resultant composition. Conference may support information coordination in an independently justified context but cannot manufacture cross-triangle competence, substitute eligibility or a new vote. A cross-jurisdictional binding action requires a lawful common-competence mandate; emergency preservation has its own authority and operational timing. See Integrations 051–052, 059–060 and 121–123.
-<!-- END V2.1 INTEGRATION 2026-10-13 -->
-
-<!-- BEGIN V2.1 SOURCE RECOVERY 2026-10-13 CHAPTER 132 -->
-### Chapter 132 — Node-centred GTP mesh vocabulary and substitution geometry
-
-The current authorial vocabulary calls a shared abstract GTP corner a **node** (035); retained historical *vertex* is geometrically equivalent and remains unchanged in source quotations and filenames. Each triangle has three distinct triangle-owned node-associated Steward positions. The node is not a physical office address, and six incident triangles do not form a six-member government. The current provisional outward substitute-ring method (041) uses all incident triangles as the discovery frontier from ring three onward to avoid origin-dependent geometry. Rings one and two retain the five and ten nominal-position constructions; ring-three counts are topology-dependent. This is a candidate selection geometry only, not jurisdiction, voting authority, or a compulsory governance level. Actual mesh seams, irregular node degree and cross-resolution rules remain open.
-<!-- END V2.1 SOURCE RECOVERY 2026-10-13 CHAPTER 132 -->
-
+The node-based substitution geometry, shared-competence limits and contextual conference safeguards are consolidated in Sections 132.0–132.5 and Chapter 12. Historical vertex terminology denotes the same abstract node, not a physical office or shared six-person government.
 
 ## 132.13 Persistent GTP geometry and concurrent governance activation
 
