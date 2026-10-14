@@ -827,7 +827,9 @@ A review may examine validity, rights, evidence, implementation and remedy witho
 
 The epistemic adversarial audit proposes CH-0 authenticity through CH-8 authority-consequence challenge classes, and a bounded appeal sequence: initial assessment, material challenge, independent reconsideration, provisional finality, later reopening for new material evidence or process failure. Contestability is not veto or indefinite delay. **[LOCAL ISSUE:]** appeal thresholds, reviewer independence and privacy.
 
+## 83.V21 — Existing civil attention and review routing interfaces
 
+Concord **Civil Attention Reporting Petition and Resolution** provides a domain-neutral complaint/petition/problem-report intake and feedback cycle. **KCS Change Propagation** distinguishes a correction signal from the substantive power to reverse a prior decision. **State Triggered Review Architecture** can represent material event/evidence/risk review triggers and temporal backstops, but triggering review does not appoint the reviewer or determine a remedy. Complaints must have an accountable owner, an independent challenge route where the original decision-maker is implicated, bounded response/triage expectations and a recorded return to the affected participant; unresolved or protected evidence is not presumed false. **[LOCAL ISSUE — FI-036, FI-039, FI-043:]** reviewer appointment, remedy competence, urgent challenge route and anti-starvation enforcement require separate constitutional/host rules.
 
 # Chapter 84 — Complaints
 
