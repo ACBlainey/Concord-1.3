@@ -543,30 +543,6 @@ The objective is to ensure that the constitutional decision structure reflects t
 
 “Horizontal” describes enlargement of the participating decision field to match lawful consequence and competence, not a move between levels of GTP geometry. A larger GTP triangle is not an institutionally superior authority. Coordination may span adjacent or non-adjacent cells and multiple spatial resolutions at once. The lawful source of any binding joint decision must be established separately; wider participation alone does not create jurisdiction.
 
-Where a governance question extends beyond the jurisdiction of the originating triad, the decision field may expand horizontally.
-
-Horizontal expansion means involving additional relevant stewardship units without automatically transferring the question upward into a permanently superior authority.
-
-The principle is:
-
-**Expand participation to match the consequence boundary before expanding hierarchy.**
-
-This allows governance to remain distributed while still addressing problems larger than one local decision unit.
-
-Horizontal expansion may therefore occur where:
-
-- consequences cross local boundaries;
-- multiple jurisdictions are materially affected;
-- shared resources are involved;
-- neighbouring systems become dependent upon the outcome;
-- implementation requires cooperation among several units;
-- externalities extend beyond the originating jurisdiction;
-- or the legitimacy of the decision requires participation from other affected stewardship units.
-
-The objective is not to make every affected participant a direct decision-maker.
-
-The objective is to ensure that the constitutional decision structure reflects the actual scale of the problem.
-
 ## 12.5 Expansion Does Not Automatically Transfer Authority
 
 Participation in an expanded decision does not automatically give every participating steward general authority over every other participating jurisdiction.
