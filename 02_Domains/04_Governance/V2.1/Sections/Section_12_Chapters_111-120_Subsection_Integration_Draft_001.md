@@ -213,21 +213,21 @@ Current benevolence is not a complete privacy safeguard.
 
 > **Governance data should be collected, linked, retained, accessed and analysed only according to legitimate constitutional purpose, with attention to accuracy, correction, aggregation, derived information, future misuse and the fact that data infrastructure can outlive the institutions that originally justified it.**
 
-<!-- BEGIN V2.1 EPISTEMIC SOURCE CH111 -->
-### Chapter 111 — Evidence versioning and dependent decision review
+## 111.16 Evidence versioning and dependent decision review
 
 **Source basis:** Epistemic Independence, Contestability and Provenance §§4–5,22–23,46–49.
 
 Record source, method, collection time, transformations, assumptions, confidence by claim, challenge history, model version and decisions that used the evidence. If material evidence is withdrawn or weakened, search dependencies and flag affected decisions for separately authorised review; do not automatically cancel or rewrite past votes. Provenance supports auditability but is not proof of truth. **[LOCAL ISSUE:]** dependency index, protected records and owner-triggered review.
-<!-- END V2.1 EPISTEMIC SOURCE CH111 -->
 
-<!-- BEGIN V2.1 AUDIT SERIES RECOVERY CH111 -->
-### Chapter 111 — Provenance minimisation and future-capture review
+
+
+## 111.17 Provenance minimisation and future-capture review
 
 **Audit source:** Epistemic Independence Adversarial Audit §§38,42–43 (historical adversarial evidence; not adopted law).
 
 Retain enough evidence to reconstruct consequential reasoning and detect manipulation, but no more identifying data than necessary. Evaluate whether a later coercive authority could exploit the archive, identity infrastructure or classification system. The audit proposes classification sunset, privacy-minimised provenance and decision-time evidence snapshots. **[LOCAL ISSUE:]** Historical custody, redaction and independent disclosure.
-<!-- END V2.1 AUDIT SERIES RECOVERY CH111 -->
+
+
 
 # Chapter 112 — Surveillance
 
@@ -404,21 +404,21 @@ Secret surveillance may require stronger independent review precisely because or
 
 > **Surveillance should be treated as a high-consequence Governance capability because modern technology can make observation cheap, persistent, predictive and reusable across future administrations. Legitimate surveillance should remain purpose-specific, proportionate, reviewable and constrained against mass accumulation becoming infrastructure for future coercion.**
 
-<!-- BEGIN V2.1 ADVERSARIAL RECOVERY CH112 -->
-### Chapter 112 — BCA sunset verification without pervasive surveillance
+## 112.14 BCA sunset verification without pervasive surveillance
 
 **Audit source:** BCA Adversarial Attack and Falsification Audit §§10,50–51 (historical adversarial evidence, not adopted law).
 
 Verifying whether contextual authority remains valid does not authorise universal participant tracking. BCA-R8 explicitly rejects this inference. Use proportionate state evidence, event receipts, scoped inspection and independent review; accept that uncertainty may require bounded temporary safeguards rather than continuous observation. **[LOCAL ISSUE:]** privacy-preserving completion attestations.
-<!-- END V2.1 ADVERSARIAL RECOVERY CH112 -->
 
-<!-- BEGIN V2.1 CITIZEN ID AUDIT CH112 -->
-### Chapter 112 — Identity-linked surveillance and log minimisation
+
+
+## 112.15 Identity-linked surveillance and log minimisation
 
 **Audit source:** Citizen ID Threat, Privacy and Misuse Audit §§6–9,13–15,32–35 (historical research evidence; not adopted law).
 
 Resolver access, delivery receipts, fraud monitoring and oversight logs can each become a covert participant-location or association database. Separate reachability from location; query access must have purpose, bounded scope, provenance and independent review. Potential future usefulness is not justification for indefinite collection. Even oversight records should minimise private content. **[LOCAL ISSUE:]** retention, participant notice and protected exceptional disclosure.
-<!-- END V2.1 CITIZEN ID AUDIT CH112 -->
+
+
 
 # Chapter 113 — Security Classification and Secrecy
 
@@ -559,13 +559,13 @@ It does not create constitutional immunity.
 
 > **Legitimate secrecy may protect security, privacy and vulnerable operations, but secrecy should remain purpose-limited, proportionate, reviewable and subject to independent constitutional oversight. Restriction from public view must not become disappearance from accountability.**
 
-<!-- BEGIN V2.1 SOURCE DEEPENING CH113 -->
-### Chapter 113 — Secrecy, classification and time-limited access
+## 113.12 Secrecy, classification and time-limited access
 
 **Recovered source:** Constitutional Emergency V2 Chapters 107–130; Governance Operating Boundary and Authority Lifecycle §§15–18.
 
 Secrecy must be tied to demonstrable safety or privacy need, lawful owner, limited scope, effective interval, access review and eventual disclosure or lawful archival restriction. A confidentiality label cannot erase decision provenance or block independent oversight indefinitely. Emergency secrecy expires or requires fresh justification; disclosure must preserve protected participant records. **[LOCAL ISSUE:]** CWA projection classes, declassification and judicial review.
-<!-- END V2.1 SOURCE DEEPENING CH113 -->
+
+
 
 # Chapter 114 — Governance Security Against Internal Threats
 
@@ -1025,13 +1025,13 @@ Responsibility should follow actual role and knowledge.
 
 > **Constitutional authority should transfer through defined rules rather than personal possession. Records, credentials, responsibilities and operational capability should move with the office while prior accountability remains attributable and public functions continue without dependence upon the outgoing Steward’s consent.**
 
-<!-- BEGIN V2.1 SOURCE RECOVERY SECTION 12 CH116 -->
-### Chapter 116 — Recovered cross-source governance interface
+## 116.12 Recovered cross-source governance interface
 
 **Source basis:** Stewardship Selection and Allocation README §13; V1 Governance Component Recovery Map G-R11–12.
 
 Peaceful transfer of office must distinguish selection, appointment, mandate, live authority, suspension, acting office, vacancy and succession. Officeholder departure cannot silently abandon duties or erase original decisions; preserve handover and validate successor authority. Parallel service does not become automatic replacement. **[LOCAL ISSUE:]** Selector, acting office and duty custody.
-<!-- END V2.1 SOURCE RECOVERY SECTION 12 CH116 -->
+
+
 
 # Chapter 117 — Governance and Civil Disorder
 
@@ -1154,13 +1154,13 @@ The scale and consequence should determine whether ordinary Governance remains c
 
 > **Governance should protect peaceful protest and legitimate disagreement while responding proportionately to serious violence or coercion. Civil disorder must not become a blanket justification for treating dissent as constitutional disloyalty or expanding extraordinary authority beyond actual necessity.**
 
-<!-- BEGIN V2.1 BCA SOURCE CH117 -->
-### Chapter 117 — Functional sunset and surviving functions
+## 117.10 Functional sunset and surviving functions
 
 **Source basis:** Bounded Contextual Authority §§5–7,12–13.
 
 Authority derived from a function terminates when that function ends, even before a clock expiry. A maximum duration and review can supplement functional termination. Later inspection, record custody or investigation needs independently justified continuing or successor function. **[LOCAL ISSUE:]** completion signals and duty custody.
-<!-- END V2.1 BCA SOURCE CH117 -->
+
+
 
 # Chapter 118 — Governance and Coercion
 
@@ -1313,13 +1313,13 @@ Constitutional protections therefore place substantive limits upon legitimate co
 
 > **Governance possesses coercive capacity and should therefore examine both direct and hidden coercion. Legitimate coercion requires lawful purpose, necessity, proportionality and review, while dependency, infrastructure control, algorithms or economic leverage must not be allowed to disguise coercion as purely voluntary choice.**
 
-<!-- BEGIN V2.1 CROSS SOURCE DETAIL CH118 -->
-### Chapter 118 — Coercion requires separate necessity
+## 118.11 Coercion requires separate necessity
 
 **Source basis:** Governance Operating Boundary and Authority Lifecycle §§4–10,17–22; Constitutional Emergency V2 Chapters 1–14.
 
 A legitimate objective does not automatically require compulsory authority: consider voluntary consent, information, coordination and less intrusive means first. Coercion must be lawful, demonstrably necessary, proportionate, limited, reviewable and terminated when function ends. Emergency severity is not an independent coercion grant. **[LOCAL ISSUE:]** rights tests and judicial remedies.
-<!-- END V2.1 CROSS SOURCE DETAIL CH118 -->
+
+
 
 # Chapter 119 — Practical Exit
 
@@ -1509,13 +1509,13 @@ Exit rate is therefore evidence requiring interpretation.
 
 > **Exit can protect autonomy only where exit is practically possible. Governance should examine economic, social, technical, identity, infrastructure and data dependencies that can turn nominal choice into lock-in, while preserving the principle that fundamental constitutional protections do not disappear merely because a person might theoretically leave the system.**
 
-<!-- BEGIN V2.1 V1 COMPONENT RECOVERY CH119 -->
-### Chapter 119 — Exit, office vacancy and continuing obligations
+## 119.14 Exit, office vacancy and continuing obligations
 
 **Recovered source:** V1 Governance Component Recovery Map G-R11–G-R12; Stewardship Selection and Allocation README §13.
 
 A participant's exit, a Steward's resignation and an office's vacancy are distinct states. Withdrawal does not retroactively invalidate committed ballots or automatically discharge existing lawful obligations. Identify outstanding duties, their custody, surviving remedies, and the separately constituted actor authorised to continue them. A shadow Steward, neighbouring triad or coarser GTP context does not automatically inherit office. Temporary continuity requires bounded mandate, provenance and termination. **[LOCAL OPEN:]** contractual survival, officeholder incapacity, contested exit and duty reassignment.
-<!-- END V2.1 V1 COMPONENT RECOVERY CH119 -->
+
+
 
 # Chapter 120 — Governance Rights in Practice
 
@@ -1834,10 +1834,10 @@ They should not become substitutes for actual constitutional judgement.
 
 > **A constitutional right should be evaluated not only by whether it exists in formal text but by whether a person can understand, access, exercise, defend and remedy it within practical conditions. Dependency, cost, delay, retaliation, information asymmetry, automation and infrastructure can hollow out rights without formally repealing them.**
 
-<!-- BEGIN V2.1 LEGITIMATE FUNCTION SOURCE CH120 -->
-### Chapter 120 — Rights-relevant problem rather than disfavoured difference
+## 120.19 Rights-relevant problem rather than disfavoured difference
 
 **Source basis:** Legitimate Function and the Authority Justification Chain §§5–10,16,28.
 
 Observed difference, dissent, unusual clothing or unpopular private belief is not itself a rights-relevant civil problem. Governance intervention requires a demonstrable connection to harm, denied civil access, autonomy interference or a legitimate voluntarily requested function. Rights conflicts require explicit balancing, evidence, consent and less intrusive alternatives, not simple optimisation of public convenience. **[LOCAL ISSUE:]** rights review and evidentiary thresholds.
-<!-- END V2.1 LEGITIMATE FUNCTION SOURCE CH120 -->
+
+
