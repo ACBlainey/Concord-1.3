@@ -897,6 +897,14 @@ Those questions require separate analysis.
 
 > **Contribution may create legitimate recognition, provenance, compensation or evidence of competence, but contribution does not create superior constitutional worth or automatic political authority. Founders and major contributors should remain historically visible without acquiring permanent ownership of the civilisation, Constitution or institutions they helped create.**
 
+<!-- BEGIN V2.1 TRIADIC EPISTEMICS CH185 -->
+### Chapter 185 — Epistemic capture across triadic channels
+
+**Source basis:** Triadic Epistemics — Independent Measurement §§18–48; Recursive GTP Mesh §§33–40.
+
+Three nominally independent metrics may share sensors, training data, models, funding, infrastructure, definitions or incentives. Participant evidence can be manipulated or selectively sampled. Review common-mode failure, coordinated capture, false consensus, threshold manipulation and the ability of an epistemic institution to convert informational dominance into political power. **[LOCAL ISSUE:]** independence audit and protected whistleblowing.
+<!-- END V2.1 TRIADIC EPISTEMICS CH185 -->
+
 # Chapter 186 — Governance Capture Through Infrastructure
 
 ## 186.1 Infrastructure Operators
