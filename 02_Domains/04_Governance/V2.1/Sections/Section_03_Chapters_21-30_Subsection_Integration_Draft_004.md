@@ -1577,7 +1577,7 @@ A temporary expanded virtual triad is not an automatic succession route and must
 
 **No majority:** F/A with a third vote pending is not a determined outcome. A genuine deadlock or invalid forum must use its separately authorised preservation, substitution or escalation route; it cannot be reclassified as an approved two-vote decision.
 
-**Provenance and later correction:** Preserve the missing vote as outstanding until lawfully supplied or separately finalised. A lawful returning original ballot may supersede a provisional position ballot while preserving both records, but cannot retroactively change a majority already fixed by two valid matching votes. Later discovered invalidity, review and remedies remain independent questions.
+**Provenance and later correction:** Preserve the missing vote as outstanding until lawfully supplied or separately finalised. A returning original Steward may replace only a separately authorised **non-official, non-consuming provisional indication**. An official committed position ballot is immutable and cannot be superseded within the same event. Neither later provenance nor review can retroactively change a majority already fixed by two independently valid matching votes; any fresh decision needs separate authority. Later discovered invalidity, review and remedies remain independent questions.
 
 <!-- END V2.1 EMERGENCY TRIADIC MAJORITY TIMING — AUTHORIAL DIRECTION 2026-10-12 -->
 
