@@ -1130,6 +1130,14 @@ The scale and consequence should determine whether ordinary Governance remains c
 
 > **Governance should protect peaceful protest and legitimate disagreement while responding proportionately to serious violence or coercion. Civil disorder must not become a blanket justification for treating dissent as constitutional disloyalty or expanding extraordinary authority beyond actual necessity.**
 
+<!-- BEGIN V2.1 BCA SOURCE CH117 -->
+### Chapter 117 — Functional sunset and surviving functions
+
+**Source basis:** Bounded Contextual Authority §§5–7,12–13.
+
+Authority derived from a function terminates when that function ends, even before a clock expiry. A maximum duration and review can supplement functional termination. Later inspection, record custody or investigation needs independently justified continuing or successor function. **[LOCAL ISSUE:]** completion signals and duty custody.
+<!-- END V2.1 BCA SOURCE CH117 -->
+
 # Chapter 118 — Governance and Coercion
 
 ## 118.1 Governance Contains Coercive Capacity
