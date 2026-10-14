@@ -444,6 +444,10 @@ It is to make constitutional velocity visible.
 ---
 
 
+### 12.0a Recovered decision-interface qualifications
+
+The triad is the default governance decision unit wherever the triadic protocol applies, without making every governance function universally triadic. Each Steward's independent reasoning and decision position must be preserved before forming a collective result. Any expanded decision field must explicitly determine whether the originating triad is included or excluded; constituent triad results are not pooled individual ballots. Without the required valid majority, no substantive state change is authorised. These decision mechanics remain subject to the distinct eligibility, mandate and implementation gates in this chapter.
+
 ## 12.1 Jurisdiction, Horizontal Expansion, Priority and Escalation
 
 The Concord’s Governance system is based upon distributed stewardship rather than concentration of authority.
