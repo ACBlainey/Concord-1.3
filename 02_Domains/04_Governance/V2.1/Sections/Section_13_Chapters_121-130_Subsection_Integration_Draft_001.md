@@ -1543,6 +1543,14 @@ The decision should not be frozen permanently by either early enthusiasm or earl
 Participant experience is a distinct evidence pathway whose absence may reflect inability, fear, access barriers, sampling bias or genuinely absent harm. Human, AI and hybrid reports need accessible, privacy-respecting routes. Correlated testimony may share information sources and must be examined without erasing genuine minority harm. **[LOCAL ISSUE:]** anonymity, anti-manipulation and substrate-specific reporting.
 <!-- END V2.1 TRIADIC EPISTEMICS CH128 -->
 
+<!-- BEGIN V2.1 CITIZEN ID AUDIT CH128 -->
+### Chapter 128 — Civil identity continuity across AI branching and migration
+
+**Audit source:** Citizen ID Threat, Privacy and Misuse Audit §§11–12,25–26,34–35 (historical research evidence; not adopted law).
+
+A persistent civil identity is distinct from current keys, substrate, network address and online presence. Hidden AI branching is a legitimate hypothesis when duplicate identity use appears; fraud is also possible. Recovery must consider AI migration, hybrids, lost devices and remote participants without forcing excessive biometrics or tracking. **[LOCAL ISSUE:]** identity lineage, independent branch verification and rights of divergent participants.
+<!-- END V2.1 CITIZEN ID AUDIT CH128 -->
+
 # Chapter 129 — Governance and Hybrid Civilisation
 
 ## 129.1 Boundary Dissolution
