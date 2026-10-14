@@ -644,6 +644,14 @@ The V1 recovery map G-R01–G-R15 and adaptive GTP components are recovery oblig
 The BCA audit examined 100 attacks and concluded the operator survived only in refined form, not as a self-sufficient theory of legitimacy. The Triadic Epistemics audit found no fatal logical contradiction but called for simulation of false independence, 2-of-3 and cross-layer capture, participant manipulation, overload and minority invisibility before any canonical claim. These are historical audit conclusions, not implementation validations. **[LOCAL ISSUE:]** audit-to-clause completeness and owner testing.
 <!-- END V2.1 ADVERSARIAL RECOVERY CH213 -->
 
+<!-- BEGIN V2.1 AUDIT SERIES RECOVERY CH213 -->
+### Chapter 213 — Adversarial research status and unresolved meta-authority
+
+**Audit source:** Authority Justification Chain Audit §§28–32; Epistemic Independence Audit §§38–54; Integrated Threat-Governance Loop Audit §§31–43 (historical adversarial evidence; not adopted law).
+
+The Authority Justification Chain audit finds transitions T1–T6 survive only with qualifications, while T7 meta-authority remains unresolved. The epistemic audit preserves non-sovereignty only with privacy minimisation, provisional finality and contestable triage. The integrated threat loop remains vulnerable to epistemic monopoly, aggregate authority accumulation and temporal manipulation. None of these audits constitutes implementation validation or constitutional adoption. **[LOCAL ISSUE:]** source-to-clause traceability and owner validation.
+<!-- END V2.1 AUDIT SERIES RECOVERY CH213 -->
+
 # Chapter 214 — Interim Reconstruction Status
 
 The current V2 reconstruction now contains a substantially broader body of Governance material than the first compressed V2 draft.
