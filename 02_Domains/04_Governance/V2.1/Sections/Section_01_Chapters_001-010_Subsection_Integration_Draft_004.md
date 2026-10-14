@@ -4403,6 +4403,11 @@ Existing constitutional constraints continue to apply.
 
 # Chapter 9 — Governance Process and Decision Architecture
 
+### 9.0a Steward abstention, nonparticipation and legitimate substitution
+
+A Steward's **insufficient-information abstention** identifies a need for further evidence, not a vacant office or authority to install a replacement voter. A material **conflict-of-interest recusal** may establish a decision-specific unavailable position, but any substitute requires a separately lawful vacancy finding, independently valid appointment and the complete decision-event identity and conflict checks. Temporary absence, incapacity, authentication failure, recusal, abstention and a substantive Against ballot are different states and must not be silently exchanged. Where two independently valid official For or Against ballots match, their substantive triadic outcome is determined even if a third ballot remains outstanding; procedural validity, effective time and host implementation are separately gated. A third Steward's later valid ballot may complete the record but cannot revoke a committed ballot or change the determined majority. A substitute occupies the original bounded position, never a fourth vote. Governance must preserve protected deliberation, independent review and attributable records without treating an appeal or concern as retroactive vote withdrawal.
+
+
 ## 9.1 Introduction
 
 The philosophical principles of stewardship are insufficient unless they can be translated into operational governance.
