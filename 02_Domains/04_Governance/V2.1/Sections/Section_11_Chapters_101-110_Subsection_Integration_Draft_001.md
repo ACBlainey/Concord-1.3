@@ -243,6 +243,14 @@ The underlying constitutional function remains the real objective.
 Governance metrics require claim-level definitions, collection methods, proxies, model dependencies, uncertainty and independent contestability. A provenance-complete record can still be wrong; metric convergence from shared inputs is not independent corroboration. Track forecast calibration, false positives and negatives, capture through measurement or publication, and consequences of using the metric. **[LOCAL ISSUE:]** metric owner and independent calibration.
 <!-- END V2.1 EPISTEMIC SOURCE CH102 -->
 
+<!-- BEGIN V2.1 AUDIT SERIES RECOVERY CH102 -->
+### Chapter 102 — Aggregate epistemic concentration
+
+**Audit source:** Epistemic Independence Adversarial Audit §§44,48–51 (historical adversarial evidence; not adopted law).
+
+Distributed political authority can coexist with a monopoly on measurement, models, certification, evidence routing or investigation. The audit proposes monitoring source, data, model lineage, funding, framing, personnel and infrastructure concentrations as separate dependency dimensions, not one independence score. **[LOCAL ISSUE:]** aggregate epistemic risk register and independent calibration.
+<!-- END V2.1 AUDIT SERIES RECOVERY CH102 -->
+
 # Chapter 103 — Governance and the Concord Library
 
 ## 103.1 Historical Concept
