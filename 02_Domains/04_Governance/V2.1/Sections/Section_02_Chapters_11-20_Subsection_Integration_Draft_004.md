@@ -1540,6 +1540,7 @@ The normal governance decision unit is a bounded triad. Its surrounding operatin
 **[LOCAL SOURCE TENSION:]** V1's general language about retaining the originating triad with neighbours is broader than the author's later precise 2-neighbour-plus-1-origin mixed constituent arrangement. Both remain in provenance; the later reconstruction supplies the specific working topology. **[LOCAL OPEN ISSUES:]** eligibility of each mixed group, repeated persons, independence, compromised constituent triads, recursive frontier/stopping rule, decision-event receipts and substitution gates. Source audit cases T01–T14 are test *designs* and source reconciliation, not proof of implemented owner controls.
 <!-- END V2.1 EXPANDED TRIADIC SOURCE INCORPORATION 2026-10-14 -->
 
+## 12.0m — Existing owner interfaces for committed decisions
 # Chapter 13 — Stewardship Domains
 
 ## 13.1 Introduction
