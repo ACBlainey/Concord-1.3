@@ -8,6 +8,10 @@ This folder holds working material created while investigating and resolving iss
 - Existing `G-001`–`G-027` references are retained as cross-references; they are not alternative numbering for new work. Additional local flags are grouped to avoid creating dozens of near-identical implementation issues.
 - This is an initial full-section flag inventory, **not a certified exhaustive contradiction audit**. Split or append issues when detailed clause review finds genuinely separate questions; never silently renumber established identifiers.
 
+## Existing architecture recovery
+
+- [Concord_Source_Recovery_Crosswalk_001.md](Concord_Source_Recovery_Crosswalk_001.md) records the initial cross-domain match between flagged issues and existing Portable Modules, Research development, Historical and Continuity sources. These are candidate reuse paths, not automatic issue closure.
+
 ## Working rules
 
 - The authoritative location for an issue's substantive architectural resolution is its relevant V2.1 chapter section. This folder holds supporting analysis, comparisons, tests, evidence and resolution proposals, not a competing version of Governance.
