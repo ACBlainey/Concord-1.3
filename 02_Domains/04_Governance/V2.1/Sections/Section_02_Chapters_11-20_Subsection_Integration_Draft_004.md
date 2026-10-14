@@ -427,6 +427,11 @@ It is to make constitutional velocity visible.
 
 # Chapter 12 — Managing Governance Work
 
+### 12.0k Revocation ordering at the actual host-effect boundary
+
+Commit-time revalidation of independently required authority grants is mandatory but does not alone close a distributed **check-then-effect revocation race**. A revocation before the defined authoritative material commit must prevent the new action; a revocation after a genuinely completed commit prohibits later acts but does not erase historical effects. Where a receiving host and grant owners can support a guarded, one-use execution lease or equivalent commit fence, define its linearization point, revocation ordering, target, effect scope, expiry and status-query contract. Where physical effects cannot be fenced, record the residual race explicitly, preserve uncertain outcomes, prohibit blind retries and route proportionate reconciliation and remedy. Neither a short token lifetime, extra preflight check nor passing a deterministic fixture establishes distributed atomicity. Emergency operation retains its own independently legitimate, time-bounded authority.
+
+
 ### 12.0j Decision validity gates and historical event boundaries
 
 Apply separate **competence → forum → participation → substantive resolution → consequential commit** gates. Competence identifies the legitimate source for the exact question, affected rights and jurisdictions. Forum establishes the correct ordinary, expanded, shared-competence or emergency procedure. Participation verifies independently authorised position holders, distinct identities, eligibility, conflict/recusal cause and applicable contextual quorum. Resolution then applies the original triadic For/Against/Abstain arithmetic within each valid triad, with a constituent's non-majority **Unresolved** resultant kept distinct from individual abstention and procedural invalidity. Commit independently rechecks current state and effect authority. Invalid constitution, absent jurisdiction, valid unresolved result and valid Against result must never be collapsed into one state. The previously proposed universal three-occupied-position quorum is superseded by the later two-valid-matching-official-votes clarification, subject to all remaining gates.
