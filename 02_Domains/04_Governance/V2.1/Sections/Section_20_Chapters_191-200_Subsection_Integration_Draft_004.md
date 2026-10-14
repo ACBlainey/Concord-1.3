@@ -1585,6 +1585,11 @@ A Steward's attendance at conference does not delegate their jurisdiction or wai
 **Constitutional Emergency V2 §§211–244:** Crisis creates risks of political, institutional, security, information, algorithmic, metric and economic capture. Detection systems, dashboards and external providers can become de facto governors if their outputs are treated as commands. Recursive oversight must itself be bounded, privacy-protective and terminable; no permanent reviewer sovereign is created. The owner of an emergency repository or software deployment does not thereby acquire constitutional authority. Separate constitutional legitimacy from empirical effectiveness; evidence of success, simulations and exercises cannot replace lawful authorisation. Preserve negative results, dissent, failed mechanisms, uncertainty and corrections without institutionalising failed emergency powers. **Open:** independent capture review, recursion stopping conditions, real algorithmic explainability and privacy-enforced audit.
 <!-- END V2.1 CE-V2 EXTENDED RECOVERY CHAPTER 198 -->
 
+
+## 198.V21b — Existing permission, authority-composition and cross-boundary gates
+
+Jurisdictional overlap must be examined with existing Concord **Fractal Permission Architecture** (bounded participant/action/context/basis/conditions/time), **Multi-Key Authority** (§17: independent authority keys do not automatically compose), and **Cross Boundary Externality Recognition** (§§15–17: material consequence and coordination do not create jurisdiction). Permission, capability, ownership, office and legal authority are distinct. A spatially shared GTP node, an emergency need, a technical dependency or an administrative routing path does not itself create a superior or composite government. A proposed consequential cross-boundary act must identify its real authority sources, current scope, applicable prohibitions, affected parties, legitimate shared or independent route and host commit verification. Unknown or disputed competence remains recorded as such; it is not silently treated as permission. **[LOCAL ISSUE — FI-060, FI-062, FI-076:]** constitutional priority, negative gaps, contested standing and independent remedy paths remain to be settled.
+
 # Chapter 199 — Governance and Cross-System Disagreement
 
 ## 199.1 Systems May Disagree
@@ -2018,7 +2023,3 @@ The AI’s synthesis should remain challengeable because synthesis involves:
 ## 200.11 Integration Principle
 
 > **Governance is an integrative constitutional function: it combines specialist knowledge, public interests, uncertainty, resources and constitutional constraints into legitimate decisions without needing to become every expert system or delegating responsibility to whichever analytical subsystem appears most authoritative.**
-
-## 198.V21b — Existing permission, authority-composition and cross-boundary gates
-
-Jurisdictional overlap must be examined with existing Concord **Fractal Permission Architecture** (bounded participant/action/context/basis/conditions/time), **Multi-Key Authority** (§17: independent authority keys do not automatically compose), and **Cross Boundary Externality Recognition** (§§15–17: material consequence and coordination do not create jurisdiction). Permission, capability, ownership, office and legal authority are distinct. A spatially shared GTP node, an emergency need, a technical dependency or an administrative routing path does not itself create a superior or composite government. A proposed consequential cross-boundary act must identify its real authority sources, current scope, applicable prohibitions, affected parties, legitimate shared or independent route and host commit verification. Unknown or disputed competence remains recorded as such; it is not silently treated as permission. **[LOCAL ISSUE — FI-060, FI-062, FI-076:]** constitutional priority, negative gaps, contested standing and independent remedy paths remain to be settled.
