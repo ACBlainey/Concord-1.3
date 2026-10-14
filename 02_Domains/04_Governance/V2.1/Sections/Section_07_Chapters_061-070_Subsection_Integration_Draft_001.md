@@ -1979,6 +1979,14 @@ Review conditions should be proportionate to consequence.
 A proposal begins as a defined civil problem, not a claim of power. Record the observed condition, proposed state change, affected persons and rights, evidence provenance, uncertainty, functional context and anticipated externalities. Identify the minimum competent governance context or combination of contexts, then verify its mandate. Expand information before expanding authority where feasible. If the matter crosses functional, geographic or resource boundaries, coordinate laterally or across resolutions; a constitutional question takes the independent constitutional route. A coarser GTP resolution has no inherent power over a finer one. Separate decision authority, implementation authority and retained local authority. **[LOCAL OPEN:]** proposal schema, competing-context routing, information-access gates and cross-context consent.
 <!-- END V2.1 V1 COMPONENT RECOVERY CH66 -->
 
+<!-- BEGIN V2.1 AUDIT SERIES RECOVERY CH66 -->
+### Chapter 66 — Threat provenance before authority
+
+**Audit source:** Integrated Threat-Governance Loop Adversarial Audit §§37–39 (historical adversarial evidence; not adopted law).
+
+The integrated threat-governance audit proposes an end-to-end Threat Provenance Record: observation, sources, metric and proxy definitions, trigger, investigator and dependencies, competing analyses, confidence, temporal horizon, preparation lead time, alternative framings/functions, chosen civil objective, authority need/vector, aggregate effects, review, outcome and independent evaluation. Detection is not an authority grant. **[LOCAL ISSUE:]** minimum viable record and owner custody.
+<!-- END V2.1 AUDIT SERIES RECOVERY CH66 -->
+
 # Chapter 67 — Decision Classification
 
 ## 67.1 Why Classification Matters
