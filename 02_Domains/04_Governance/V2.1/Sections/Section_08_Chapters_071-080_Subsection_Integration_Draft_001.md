@@ -1873,6 +1873,14 @@ A persuasive AI explanation should not silently become constitutional interpreta
 
 > **Governance education should prepare Stewards and citizens to understand authority, limits, evidence, failure, challenge and correction. It should preserve constitutional literacy without becoming indoctrination, and it should teach the failures and uncertainties of the system as seriously as its intended strengths.**
 
+<!-- BEGIN V2.1 TRIADIC EPISTEMICS CH76 -->
+### Chapter 76 — GTP four-direction evidence check
+
+**Source basis:** Triadic Epistemics — Recursive GTP Mesh §§11–29 (candidate research).
+
+For material anomalies compare (1) internal independent observations, (2) lateral geographic and functional neighbours, (3) finer GTP spatial resolution and (4) larger-area context. These are epistemic perspectives, not votes or a parent-governance hierarchy. The geometric GTP parent/child terminology is strictly spatial. Widening observation must not silently expand political mandate. **[LOCAL ISSUE:]** spatial resolution and functional network access.
+<!-- END V2.1 TRIADIC EPISTEMICS CH76 -->
+
 # Chapter 77 — Governance Information Architecture
 
 ## 77.1 Information Is a Governance Dependency
