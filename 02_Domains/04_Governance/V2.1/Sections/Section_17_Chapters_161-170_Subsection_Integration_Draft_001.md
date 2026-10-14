@@ -939,6 +939,14 @@ Important source material should remain independently accessible.
 
 > **Civilisation should preserve its constitutional and developmental knowledge without requiring every current participant to carry the entire historical archive. Current, historical and developmental layers should remain distinguishable, searchable and connected so accessibility does not require destructive compression.**
 
+<!-- BEGIN V2.1 BCA SOURCE CH167 -->
+### Chapter 167 — BCA-01 to BCA-12 candidate rules
+
+**Source basis:** Bounded Contextual Authority §20.
+
+Recover twelve research candidate rules: legitimate function; proportional bounds; no permission propagation; capability not authority; traceability; functional sunset; continuing justification; successor re-scoping; emergency limits; bounded delegation; context reassessment; and misuse distinct from underlying function. They are candidate research, not automatically adopted law. **[LOCAL ISSUE:]** owner implementation mapping.
+<!-- END V2.1 BCA SOURCE CH167 -->
+
 # Chapter 168 — Governance Development Debt
 
 ## 168.1 Definition
