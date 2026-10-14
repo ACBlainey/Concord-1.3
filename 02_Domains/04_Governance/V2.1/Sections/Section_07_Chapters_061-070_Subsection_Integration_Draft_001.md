@@ -1414,6 +1414,14 @@ The decision record distinguishes proposal, mandate, competent context, evidence
 The preliminary Civil Evidence architecture distinguishes C0 observation, C1 derived measurement, C2 interpretation, C3 prediction, C4 causal claim, C5 civil-relevance claim, C6 functional claim and C7 authority claim. Confidence attaches to individual claims, not a whole report. Its provisional thresholds E0 notice, E1 inquiry, E2 material concern, E3 functional justification and E4 special-authority justification are different evidential burdens, not automatic numeric grades. Preserve provenance and dependency across transitions; evidence sufficient to investigate is not necessarily sufficient to authorise. **[LOCAL ISSUE:]** domain-specific evidential standards and evidence schema.
 <!-- END V2.1 EPISTEMIC SOURCE CH65 -->
 
+<!-- BEGIN V2.1 ADVERSARIAL RECOVERY CH65 -->
+### Chapter 65 — Triadic epistemic falsification boundary
+
+**Audit source:** Triadic Epistemics Direct Adversarial Audit §§162–166 (historical adversarial evidence, not adopted law).
+
+The direct adversarial audit reports survival of plural observation only with material refinements: layer-specific dependency awareness, open external correction, no 2–1 truth rule, auditable anomaly triage and calibration against actual outcomes. A three-office design alone does not demonstrate independent evidence. **[LOCAL ISSUE:]** empirical comparison against simpler and open-network alternatives.
+<!-- END V2.1 ADVERSARIAL RECOVERY CH65 -->
+
 # Chapter 66 — Proposal Architecture
 
 ## 66.1 Proposals as Structured Governance Objects
