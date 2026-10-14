@@ -543,6 +543,14 @@ The objective is to ensure that the constitutional decision structure reflects t
 
 “Horizontal” describes enlargement of the participating decision field to match lawful consequence and competence, not a move between levels of GTP geometry. A larger GTP triangle is not an institutionally superior authority. Coordination may span adjacent or non-adjacent cells and multiple spatial resolutions at once. The lawful source of any binding joint decision must be established separately; wider participation alone does not create jurisdiction.
 
+### 12.4a Cross-context bounded coordination and continuity
+
+Horizontal expansion, overlapping decision contexts and cross-resolution participation do not themselves grant or transfer authority. The responsible systems must independently validate the mandate, scope, competence, dependencies and any conflicts or recusals. A decision outcome is distinct from authorisation to implement it.
+
+Emergency priority does not suspend bounded authority, independent expiry, continuing duties, audit or constitutional review. A paused Civilisation Clock cannot prolong temporary operational authority. Renewal requires fresh authorisation; cumulative restrictions imposed through successive or multiple controllers require independent review. Operational recovery does not extinguish surviving obligations.
+
+**Open integration issue:** specify the independent aggregate-restriction review interface without allowing the reviewing function to authorise itself.
+
 ## 12.5 Expansion Does Not Automatically Transfer Authority
 
 Participation in an expanded decision does not automatically give every participating steward general authority over every other participating jurisdiction.
