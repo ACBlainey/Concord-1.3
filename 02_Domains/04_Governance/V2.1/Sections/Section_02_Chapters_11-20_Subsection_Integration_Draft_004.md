@@ -1483,9 +1483,6 @@ The normal governance decision unit is a bounded triad. Its surrounding operatin
 
 
 
-<!-- BEGIN V2.1 EXPANDED TRIADIC SOURCE INCORPORATION 2026-10-14 -->
-**Expanded-triad source reconciliation:** The originating R/A/B/C constituent topologies, distinct nine-holder requirement, no-flat-pooling example, scope-specific common-hazard coordination and authority-conserving one-position substitution are incorporated in §§12.6–12.9.5. Later specified origin-included **2 neighbour + 1 origin** composition takes precedence over earlier unspecific language about retaining R. Parallel Steward reasoning is advisory, never an additional ballot. **[LOCAL VALIDATION:]** Mixed-group eligibility, actual GTP office mapping, lawful constituent mandate, independence, recursive stopping conditions and owner event receipts remain to be verified; source audit designs T01–T14 are not implementation proof.
-
 ## 12.0m — Existing owner interfaces for committed decisions
 # Chapter 13 — Stewardship Domains
 
