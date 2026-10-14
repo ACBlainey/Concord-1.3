@@ -160,6 +160,13 @@ It may reflect judgement that another mechanism is:
 An office's prior usefulness does not establish its current necessity. Periodically re-evaluate whether the original civil problem persists, the function is still required, ordinary consent or alternate means suffice, and the mandate remains proportionate. When function ends, function-derived authority ends; a new function needs fresh justification. **[LOCAL ISSUE:]** independent sunset trigger, surviving duties and institutional wind-down.
 
 ## 201.15 — Existing lifecycle and responsibility-continuity interfaces
+
+Institutional usefulness, legal existence, active mandate and continuing obligations are separate lifecycle states. Under Lifecycle Stewardship Review, an office or function that has become unnecessary must undergo bounded review, lawful sunset, orderly handover or retirement rather than self-perpetuation. The Bounded Transition Architecture records owner-specific pending, partial and completed transitions without assuming that all affected domains change state simultaneously. An expired mandate cannot be prolonged merely because dependent work remains unfinished.
+
+Fault-Tolerant Accountability and Responsibility Continuity distinguishes eligible successors from actually appointed successors. Retirement, suspension, loss of capability or replacement of an officeholder does not erase existing records, remedy duties, outstanding commitments, fiduciary responsibilities or affected participants' review rights. A successor must receive fresh, independently lawful authority for consequential acts; Historical custody preserves the linked event and transfer record.
+
+**[LOCAL VALIDATION:]** Define sunset triggers, dependency inventory, owner acknowledgements, successor appointment proofs, continuity funding, incomplete-transition escalation and independent review. Ending a function must not silently discard surviving duties or create an unbounded caretaker mandate.
+
 # Chapter 202 — Governance and Self-Restraint
 
 ## 202.1 Power That Can Decline to Act
