@@ -1048,6 +1048,14 @@ For example, an institution rewarded for reducing complaints may make complaint 
 The proposed TE-1–TE-6 cross-channel states distinguish strong convergence, formal convergence with experiential absence, formal absence with experiential convergence, internal formal divergence, universal apparent convergence and universal uncertainty. Silence is ambiguous; apparent unanimity may hide shared dependencies or capture. Treat these as anomaly prompts, not automatic rights restrictions. **[LOCAL ISSUE:]** threshold design, sampling, privacy and independent verification.
 <!-- END V2.1 TRIADIC EPISTEMICS CH84 -->
 
+<!-- BEGIN V2.1 CITIZEN ID AUDIT CH84 -->
+### Chapter 84 — Identity collision is an inquiry trigger, not guilt
+
+**Audit source:** Citizen ID Threat, Privacy and Misuse Audit §§9–13,34–35 (historical research evidence; not adopted law).
+
+Duplicate-use signals may reflect credential theft, fraud, stale sessions, mistaken linkage or legitimate hidden AI branching. No automatic penalty or public accusation follows a signal. Investigations should compare competing hypotheses with privacy-minimised evidence, and guard against fraudsters exploiting branching exceptions. **[LOCAL ISSUE:]** independent review and re-key/branch reconciliation.
+<!-- END V2.1 CITIZEN ID AUDIT CH84 -->
+
 # Chapter 85 — Public Reason and Explanation
 
 ## 85.1 Public Explanation
