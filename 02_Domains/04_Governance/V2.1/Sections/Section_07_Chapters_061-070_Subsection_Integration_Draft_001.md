@@ -2242,7 +2242,9 @@ Governance should therefore review classification when practical effect changes.
 
 Classify a proposed decision by state change, severity, reversibility, rights, uncertainty, jurisdiction, urgency and dependencies. Priority affects processing order, not Steward vote weight. Distinguish ordinary, experimental, cross-context, emergency and constitutional-review routes; verify separate competence. **[LOCAL ISSUE:]** classification thresholds and anti-starvation.
 
+## 67.V21 — Evidence classification with existing knowledge-state interfaces
 
+Concord **Knowledge Control System** and **KCS Change Propagation** provide separate evidence status, integrity, dependency, correction and review signals. A decision class is not a substitute for claim-level provenance: represent the material claim, source version, epistemic state, protected access conditions, challenge route and decision dependency before consequential reliance. A corrected source generates a bounded owner-routed review of dependent decisions; it does not retroactively uncast a Steward vote. Existing **Civil Attention Reporting Petition and Resolution** supplies intake and return routing, not an evidential guilt threshold. **[LOCAL ISSUE — FI-033, FI-039, FI-049:]** precise claim schema, jurisdiction-specific evidence sufficiency and independent reviewer competence remain unresolved.
 
 # Chapter 68 — The Principle of Articulability
 
