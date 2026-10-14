@@ -249,7 +249,9 @@ Governance metrics require claim-level definitions, collection methods, proxies,
 
 Distributed political authority can coexist with a monopoly on measurement, models, certification, evidence routing or investigation. The audit proposes monitoring source, data, model lineage, funding, framing, personnel and infrastructure concentrations as separate dependency dimensions, not one independence score. **[LOCAL ISSUE:]** aggregate epistemic risk register and independent calibration.
 
+## 102.V21 — Existing maturity and knowledge-state metrics interface
 
+Concord **State and Maturity Mapping** (§§6–16, 23–26) uses context-specific dimensions, sufficiency and freshness rather than a universal maturity score. **KCS Change Propagation** (§§16, 20) can propagate materially corrected metrics to dependent assessments without granting a metric supplier authority over governance. Distinguish measurement owner, data provenance, epistemic uncertainty, calibration, threshold owner and the independently lawful actor authorised to change a policy. Aggregated performance indicators can conceal correlated source error or concentrated supplier control. **[LOCAL ISSUE — FI-044, FI-071:]** independently calibrated thresholds, ownership and contestation of consequential metric claims remain unresolved.
 
 # Chapter 103 — Governance and the Concord Library
 
