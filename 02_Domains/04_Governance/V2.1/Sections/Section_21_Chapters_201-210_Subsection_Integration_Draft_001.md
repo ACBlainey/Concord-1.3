@@ -1598,7 +1598,9 @@ Legitimate authority is therefore best understood as a bounded responsibility.
 
 Governance authority is a traceable chain from legitimate civil function through demonstrable need to minimum sufficient bounded action. Coarser spatial scale, emergency declaration, model recommendation, office tenure, wealth, reputation and control of infrastructure do not supply new sovereignty. Where function, need or context ends, authority contracts or terminates unless independently re-justified. **[LOCAL OPEN:]** automated termination and owner state verification.
 
+## 208.V21 — Bounded power retirement and non-propagating continuity
 
+Concord **Lifecycle Stewardship Review** (§§8, 15–16), **Bounded Transition Architecture** (§§12, 17, 19) and **Fault-Tolerant Accountability and Responsibility Continuity** (§§9–13) jointly provide an existing interface for retiring a mandate or institution without erasing records, remedy, confidentiality, compensation or other surviving duties. A useful continuing function does not confer immortality on its present holder. Eligibility for a successor, physical possession of records or a restored runtime is not a transfer of discretionary authority. Where safe continuation cannot be lawfully achieved, the function enters a bounded safe state with named duty and remedy owners. **[LOCAL ISSUE — FI-016, FI-040, FI-077:]** legal sunset, affected-party standing, successor appointment and enforced closure conditions require specific rules.
 
 # Chapter 209 — Governance Failure Boundary
 
