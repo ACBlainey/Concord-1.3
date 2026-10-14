@@ -1225,6 +1225,15 @@ Degradation should not become elimination.
 
 # Chapter 28 — Emergency Succession
 
+### 28.V21 — Position-specific succession and mesh continuity
+
+An unavailable or compromised Steward may be replaced only through a pre-authorised succession mechanism for the specific decision position. Parallel Stewardship is advisory and confers no automatic succession or voting entitlement. A six-Steward GTP vertex represents potential roles, not a universal succession list. Every exceptional appointment must document its cause, position, eligibility and competence, independence and conflicts, jurisdiction, duration, expiry and ordinary-office restoration.
+
+If lawful triadic reconstitution fails, origin-included or origin-excluded expanded voting may be assessed only under its own mandate, eligibility and scope requirements. Larger spatial GTP triangles are not superior offices by geometry. Neither a contrary substantive vote nor principled abstention constitutes a vacancy.
+
+**Open issue:** verify the §28.3 succession sequence against the actual six-Steward vertex office mapping before specifying a default nominee; prevent duplicate effective positions in expanded decisions.
+
+
 ## 28.1 Loss of Stewardship
 
 An emergency may make ordinary stewards:
