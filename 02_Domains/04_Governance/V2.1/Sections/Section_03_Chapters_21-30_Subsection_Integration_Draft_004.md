@@ -1473,6 +1473,13 @@ A substitute occupies one lawfully vacant bounded decision position, not an addi
 
 # Chapter 29 — Degraded Triads
 
+### 29.V21a Degradation is cause-specific, not a numerical emergency power
+
+A single unavailable Steward does not invalidate an already determined outcome from two independently valid matching official ballots; a split pair remains substantively unresolved unless a lawful third ballot or other legitimate mechanism resolves it. If two Stewards are unavailable, there is no ordinary two-vote majority. A compromised shared information source can degrade independence even with three nominally occupied positions. Record whether each deficiency is absence, incapacity, identity/authentication failure, material conflict recusal, evidential insufficiency, communication isolation or contested independence before selecting postponement, evidence collection, lawful substitution, reconstitution or separately authorised emergency preservation. Abstention for insufficient information is not a vacancy and must not automatically produce a substitute.
+
+Emergency preservation by fewer Stewards requires its own pre-existing lawful authority, activation and bounded Emergency Authority Envelope, including actor, affected rights, necessity, proportionate interference, independent operational expiry, oversight and remedy. The number of available Stewards alone cannot create jurisdiction or convert advice into binding directives or compulsion. Restoration of normal independent participation and retrospective accountability remain duties even if urgent preservation succeeded. Where different isolated areas acted under conflicting good-faith succession records, reconcile evidence and effects without automatically rewriting either historical record.
+
+
 ### 29.V21 — Degraded triad continuity and bounded restoration
 
 Before extraordinary voting, distinguish temporary absence, vacancy, communication or authentication failure, recusal, incapacity, insufficient evidence, compromised independence and principled abstention. Record urgency and whether safe delay is possible; these causes are not interchangeable.
