@@ -15,8 +15,8 @@
 ## Current progress snapshot — 14 October 2026
 
 - **83 issues tracked; 0 formally closed.**
-- **65 issues have source-location or integration progress noted in their status cells**; 18 remain `Open / verify` pending more specific assessment.
-- Direct V2.1 source-informed integrations have been committed in **Chapters 12, 28, 67, 83, 89, 106, 108, 111, 112, 125, 127, 150, 164, 165, 175, 188, 198, 201 and 208**. These establish reusable interfaces but do not settle constitutional issuer, jurisdiction, host execution, independent review or validation gaps.
+- **81 issues have source-location or integration progress noted in their status cells**; 2 remain `Open / verify` pending more specific assessment.
+- Direct V2.1 source-informed integrations have been committed in **Chapters 12, 28, 67, 81, 83, 84, 88, 89, 102, 106, 108, 111, 112, 122, 125, 126, 127, 128, 132, 150, 162, 164, 165, 168, 174, 175, 183, 188, 198, 201 and 208**. These establish reusable interfaces but do not settle constitutional issuer, jurisdiction, host execution, independent review or validation gaps.
 - Source research: `Concord_Source_Recovery_Crosswalk_001.md`, `Existing_Architecture_Resolution_Pass_002.md`, `Existing_Architecture_Resolution_Pass_003.md`; **use corrected issue IDs from** `Verified_Source_to_Issue_Map_004.md` (earlier working notes have preliminary numbering).
 - **Status labels are deliberately conservative:** chapter integration is not equivalent to owner acceptance, deployed validation, conflict reconciliation or authorial graduation.
 
@@ -27,13 +27,13 @@
 | FI-001 | G-001 | Contextual quorum; two-vote majority is decisive | Outstanding_Issues_Register.md | Existing source located; verify constitutional quorum and implementation |
 | FI-002 | G-002 | Ordinary/urgent effective timing | Outstanding_Issues_Register.md | Source located; STRA/MKA integrated Ch28,188; timing proof pending |
 | FI-003 | G-003 | Third Steward provenance and informative dissent | Outstanding_Issues_Register.md | Existing source located; verify ballot provenance and dissent |
-| FI-004 | G-004 | GTP six-Steward vertex/office mapping | Outstanding_Issues_Register.md | Open / verify |
+| FI-004 | G-004 | GTP six-Steward vertex/office mapping | Outstanding_Issues_Register.md | Integrated Ch132; six-position geometric mapping pending |
 | FI-005 | G-005 | Expanded virtual-triad appointment and event validity | Outstanding_Issues_Register.md | Existing source located; virtual-triad appointment proof pending |
-| FI-006 | G-006 | Node-ring substitution beyond first two rings | Outstanding_Issues_Register.md | Open / verify |
+| FI-006 | G-006 | Node-ring substitution beyond first two rings | Outstanding_Issues_Register.md | Integrated Ch132; ring substitute selection pending |
 | FI-007 | G-007 | Decision-event identity and repeated participation | Outstanding_Issues_Register.md | Integrated Ch12,165; event schema proof pending |
 | FI-008 | G-008 | Chapter 12 final assembly | Outstanding_Issues_Register.md | Open / verify |
-| FI-009 | G-009 | Chapter 132 GTP conflict resolution | Outstanding_Issues_Register.md | Open / verify |
-| FI-010 | G-010 | GTP mesh workload and jurisdiction mechanics | Outstanding_Issues_Register.md | Open / verify |
+| FI-009 | G-009 | Chapter 132 GTP conflict resolution | Outstanding_Issues_Register.md | Integrated Ch132; historic clause conflict reconciliation pending |
+| FI-010 | G-010 | GTP mesh workload and jurisdiction mechanics | Outstanding_Issues_Register.md | Integrated Ch132; mesh workload and jurisdiction calibration pending |
 | FI-011 | G-011 | Emergency issuer and lawful mandate | Outstanding_Issues_Register.md | Integrated Ch28,188; lawful issuer and mandate pending |
 | FI-012 | G-012 | Paused-clock coordination and resumption | Outstanding_Issues_Register.md | Integrated Ch28,188; independent timer and expiry validation pending |
 | FI-013 | G-013 | Emergency succession, delegation and parallel stewardship | Outstanding_Issues_Register.md | Existing continuity source located; succession mandate pending |
@@ -58,16 +58,16 @@
 | FI-032 | — | Constitutional emergency activation thresholds, rights constraints and expiry enforcement | Sections: Chapters 21–30 | Integrated Ch28,188; activation/rights/expiry validation pending |
 | FI-033 | — | Claim-level civil evidence schema and domain-specific thresholds | Sections: Chapters 67 | Integrated Ch67; evidence schema/threshold pending |
 | FI-034 | — | Clock priority ageing, independent urgent timer and deferred action revalidation | Sections: Chapters 75 | Integrated Ch28,188; independent timebase proof pending |
-| FI-035 | — | Routine versus exceptional civil function impact thresholds | Sections: Chapters 81 | Open / verify |
+| FI-035 | — | Routine versus exceptional civil function impact thresholds | Sections: Chapters 81 | Integrated Ch81; exceptional impact thresholds pending |
 | FI-036 | — | Independent governance review competence, remedies and appeal standards | Sections: Chapters 82–83 | Integrated Ch83; reviewer/remedy competence pending |
-| FI-037 | — | Cross-channel epistemic sampling, convergence and independent verification | Sections: Chapters 84 | Open / verify |
+| FI-037 | — | Cross-channel epistemic sampling, convergence and independent verification | Sections: Chapters 84 | Integrated Ch84; independent channel verification pending |
 | FI-038 | — | Duplicate identity signals, hidden AI branching and privacy-safe investigation | Sections: Chapters 85, 127, 207 | Existing identity research located; privacy validation pending |
 | FI-039 | — | Evidence challenges and urgent independent response procedure | Sections: Chapters 86 | Integrated Ch67,83; urgent response rule pending |
 | FI-040 | — | Safe-stop transitions, consent withdrawal and functional expiry | Sections: Chapters 87, 117 | Integrated Ch201,208; safe-stop and consent owner pending |
-| FI-041 | — | Public disclosure, protected uncertainty and independent contestation | Sections: Chapters 88 | Open / verify |
+| FI-041 | — | Public disclosure, protected uncertainty and independent contestation | Sections: Chapters 88 | Integrated Ch88; protected disclosure/appeal rules pending |
 | FI-042 | — | Aggregate bounded-authority conflicts and surveillance-free monitoring | Sections: Chapters 89 | Integrated Ch89,175; aggregate monitoring safeguards pending |
 | FI-043 | — | Independent investigative diagnosis, triage ownership and anti-starvation | Sections: Chapters 90 | Integrated Ch83; triage/anti-starvation pending |
-| FI-044 | — | Metrics ownership, calibration and cross-source dependency | Sections: Chapters 101–103 | Open / verify |
+| FI-044 | — | Metrics ownership, calibration and cross-source dependency | Sections: Chapters 101–103 | Integrated Ch102,183; metrics ownership/calibration pending |
 | FI-045 | — | Privileged operation, protected projections and technical-capability limits | Sections: Chapters 104 | Integrated Ch112 (privacy interface); privilege controls pending |
 | FI-046 | — | Procurement alternatives, conflicts and cumulative supplier dependence | Sections: Chapters 105 | Integrated Ch106; supplier concentration thresholds pending |
 | FI-047 | — | Financial mandate attestations, spending recovery and concentration | Sections: Chapters 107 | Integrated Ch108; financial mandate and payment proof pending |
@@ -78,24 +78,24 @@
 | FI-052 | — | Reachability, access logs and routing without location surveillance | Sections: Chapters 114, 164 | Integrated Ch164; private routing/outage verification pending |
 | FI-053 | — | Secrecy sunset, declassification and independent judicial review | Sections: Chapters 115 | Integrated Ch112; secrecy review/expiry pending |
 | FI-054 | — | Coercive necessity, rights tests and independent remedies | Sections: Chapters 118–119 | Existing MNC/MKA sources located; lawful coercion thresholds pending |
-| FI-055 | — | Protected Steward dissent and minority signal discoverability | Sections: Chapters 121–122 | Open / verify |
+| FI-055 | — | Protected Steward dissent and minority signal discoverability | Sections: Chapters 121–122 | Integrated Ch122; protected dissent discoverability pending |
 | FI-056 | — | AI model dependency, independent analysis and advisory non-sovereignty | Sections: Chapters 123–125 | Integrated Ch125,127; model independence pending |
-| FI-057 | — | Participant experiential channels, anonymity and manipulation resistance | Sections: Chapters 126 | Open / verify |
-| FI-058 | — | Independent investigation of scope overreach and continuity of civil need | Sections: Chapters 128 | Open / verify |
-| FI-059 | — | GTP office mapping, irregular seams, substitute randomness and wider rings | Sections: Chapters 132 | Existing SMM/CBER sources located; GTP selection rules pending |
+| FI-057 | — | Participant experiential channels, anonymity and manipulation resistance | Sections: Chapters 126 | Integrated Ch126; anonymity and manipulation validation pending |
+| FI-058 | — | Independent investigation of scope overreach and continuity of civil need | Sections: Chapters 128 | Integrated Ch128; independent investigative competence pending |
+| FI-059 | — | GTP office mapping, irregular seams, substitute randomness and wider rings | Sections: Chapters 132 | Integrated Ch132; seam and position selection proof pending |
 | FI-060 | — | Shared-competence instruments, third-party rights and withdrawal liabilities | Sections: Chapters 132, 149–151, 198 | Integrated Ch150,198; shared competence instrument pending |
-| FI-061 | — | Operational mesh workload thresholds, hysteresis and handover | Sections: Chapters 132, 149 | Existing SMM source located; workload hysteresis pending |
+| FI-061 | — | Operational mesh workload thresholds, hysteresis and handover | Sections: Chapters 132, 149 | Integrated Ch132; workload hysteresis calibration pending |
 | FI-062 | — | Cross-cell externality thresholds and valid shared decision forum | Sections: Chapters 150 | Integrated Ch150,198; externality threshold/forum pending |
 | FI-063 | — | Nested federation wording versus nonhierarchical spatial mesh | Sections: Chapters 151 | Integrated Ch150; nonhierarchical consistency audit pending |
-| FI-064 | — | Recursive oversight appointment, stopping conditions and meta-authority | Sections: Chapters 161–162, 213 | Open / verify |
+| FI-064 | — | Recursive oversight appointment, stopping conditions and meta-authority | Sections: Chapters 161–162, 213 | Integrated Ch162; reviewer appointment and stop rule pending |
 | FI-065 | — | Civil Contact credential recovery and cross-jurisdiction routing | Sections: Chapters 164 | Integrated Ch164; credential recovery issuer pending |
 | FI-066 | — | Cross-resolution anomaly query permissions and owner interface | Sections: Chapters 167 | Existing CBER/FPA sources located; query owner pending |
-| FI-067 | — | BCA candidate rules, owner implementation and diagnostic classification | Sections: Chapters 168, 171 | Open / verify |
+| FI-067 | — | BCA candidate rules, owner implementation and diagnostic classification | Sections: Chapters 168, 171 | Integrated Ch168; BCA candidate/owner validation pending |
 | FI-068 | — | De facto authority capability graph, dependency concentration and remedies | Sections: Chapters 172, 175 | Integrated Ch106,175; dependency capture thresholds pending |
-| FI-069 | — | Authority vector calibration and cross-office rights impact aggregation | Sections: Chapters 173, 176 | Integrated Ch175; authority aggregation calibration pending |
-| FI-070 | — | Self-validating institutional authority and independent causal challenge | Sections: Chapters 174, 181–182 | Open / verify |
-| FI-071 | — | Independent metric and C0–C7 claim contestation, whistleblowing | Sections: Chapters 183–185 | Open / verify |
-| FI-072 | — | Triadic epistemics cross-layer capture and false independence testing | Sections: Chapters 186 | Integrated Ch125,127; epistemic independence testing pending |
+| FI-069 | — | Authority vector calibration and cross-office rights impact aggregation | Sections: Chapters 173, 176 | Integrated Ch168,175; authority vector calibration pending |
+| FI-070 | — | Self-validating institutional authority and independent causal challenge | Sections: Chapters 174, 181–182 | Integrated Ch174; independent challenge competence pending |
+| FI-071 | — | Independent metric and C0–C7 claim contestation, whistleblowing | Sections: Chapters 183–185 | Integrated Ch102,183; metric contestation and whistleblower remedies pending |
+| FI-072 | — | Triadic epistemics cross-layer capture and false independence testing | Sections: Chapters 186 | Integrated Ch84,125,127; epistemic independence tests pending |
 | FI-073 | — | AI advice becoming de facto decisions through execution or gatekeeping | Sections: Chapters 187 | Integrated Ch125,127; execution gate validation pending |
 | FI-074 | — | Emergency renewal, sunset and independent reviewer | Sections: Chapters 188 | Integrated Ch188; lawful renewal/reviewer pending |
 | FI-075 | — | Fraud-control exceptional access, identity linking and termination | Sections: Chapters 189 | Integrated Ch89,112; fraud access limits pending |
@@ -106,7 +106,7 @@
 | FI-080 | — | Citizen ID issuance, continuity and nonenumerability | Sections: Chapters 207 | Existing identity research located; issuance/nonenumerability pending |
 | FI-081 | — | Complete cross-version source-to-clause recovery and missing architecture | Sections: Chapters 211–213 | Source crosswalk underway; complete recovery audit pending |
 | FI-082 | — | Audit-to-clause traceability, owner validation and epistemic overload | Sections: Chapters 213 | Integrated Ch111,165; traceability audit pending |
-| FI-083 | — | Unresolved architecture and future governance foundations | Sections: Chapters 8, 62, 214 | Open / verify |
+| FI-083 | — | Unresolved architecture and future governance foundations | Sections: Chapters 8, 62, 214 | Source recovery underway; foundational authorial choices remain open |
 
 ## Resolution record requirements
 
