@@ -399,6 +399,14 @@ It may represent genuine learning.
 The first frame may conceal the actual civil problem. An institution may present resistance caused by its own restrictions as new instability or more detected minor violations as evidence for expanded surveillance. Preserve original observations, rights impacts, alternative causal explanations and proposed remedies. Where the authority materially creates the condition used to justify expansion, require independent examination. **[LOCAL ISSUE:]** independent framing challenge and feedback attribution.
 <!-- END V2.1 LEGITIMATE FUNCTION SOURCE CH182 -->
 
+<!-- BEGIN V2.1 AUDIT SERIES RECOVERY CH182 -->
+### Chapter 182 — Authority-generated evidence and causal independence
+
+**Audit source:** Authority Justification Chain Direct Adversarial Audit §§25–32 (historical adversarial evidence; not adopted law).
+
+The Authority Justification Chain adversarial audit requires checking whether existing power created, amplified or selectively revealed the condition used to justify more power. Its proposed AJC-01–AJC-10 rules add non-self-validation, non-manufacture, alternative functions, minimum effective scope, current justification, aggregation, irreversibility, provisional emergency response and bounded meta-authority. **[LOCAL ISSUE:]** independent causal examiner and rights review.
+<!-- END V2.1 AUDIT SERIES RECOVERY CH182 -->
+
 # Chapter 183 — Governance Capture Through Metrics
 
 ## 183.1 Metric Authority
