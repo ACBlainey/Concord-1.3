@@ -153,13 +153,13 @@ It may reflect judgement that another mechanism is:
 
 > **Governance is one civilisational problem-solving mechanism among many. It should intervene where legitimate collective authority is necessary, especially concerning rights, shared resources, systemic risks and cross-boundary externalities, while remaining capable of leaving problems to individuals, communities, markets, science or voluntary systems where those mechanisms are more appropriate.**
 
-<!-- BEGIN V2.1 LEGITIMATE FUNCTION SOURCE CH201 -->
-### Chapter 201 — Functional obsolescence and non-perpetuation
+## 201.14 Functional obsolescence and non-perpetuation
 
 **Source basis:** Legitimate Function and the Authority Justification Chain §§12–13,20–23,29–32.
 
 An office's prior usefulness does not establish its current necessity. Periodically re-evaluate whether the original civil problem persists, the function is still required, ordinary consent or alternate means suffice, and the mandate remains proportionate. When function ends, function-derived authority ends; a new function needs fresh justification. **[LOCAL ISSUE:]** independent sunset trigger, surviving duties and institutional wind-down.
-<!-- END V2.1 LEGITIMATE FUNCTION SOURCE CH201 -->
+
+
 
 # Chapter 202 — Governance and Self-Restraint
 
@@ -480,21 +480,21 @@ They should not create incentives to:
 
 > **Governance should treat correction capacity as institutional strength. Good-faith error, negligence and misconduct should remain distinct; disclosure should not be punished in ways that reward concealment; and loyalty to the Concord requires allowing evidence to challenge current mechanisms rather than protecting institutional reputation from reality.**
 
-<!-- BEGIN V2.1 SOURCE RECOVERY SECTION 21 CH203 -->
-### Chapter 203 — Recovered cross-source governance interface
+## 203.17 Recovered cross-source governance interface
 
 **Source basis:** Governance Operating Boundary and Authority Lifecycle §18; Constitutional Emergency V2 Chapters 245–250.
 
 Correction is constitutional loyalty. Preserve original records, distinguish justified adverse outcomes from negligence and misconduct, and provide separate remedy. Learning may conclude no amendment is needed; emergency powers must sunset. **[LOCAL ISSUE:]** Remedy and sunset owners.
-<!-- END V2.1 SOURCE RECOVERY SECTION 21 CH203 -->
 
-<!-- BEGIN V2.1 AUDIT SERIES RECOVERY CH203 -->
-### Chapter 203 — Outlier sampling against challenge triage capture
+
+
+## 203.18 Outlier sampling against challenge triage capture
 
 **Audit source:** Epistemic Independence Adversarial Audit §§47–48 (historical adversarial evidence; not adopted law).
 
 The epistemic audit proposes independent sampling of low-ranked challenges to measure what the triage process misses. Monitor queue length, review delay, duplicate ratio, unresolved high-impact cases, concentrated sources, failed forecasts and reversals; these are diagnostic signals, not automatic truths. **[LOCAL ISSUE:]** protected sampling and reviewer independence.
-<!-- END V2.1 AUDIT SERIES RECOVERY CH203 -->
+
+
 
 # Chapter 204 — Governance and Epistemic Humility
 
@@ -654,21 +654,21 @@ Simulation, experiment, comparison and field evidence remain necessary where app
 
 > **Governance should act with enough confidence to make necessary decisions while preserving enough epistemic humility to recognise uncertainty, model limitation, dissent, surprise and unknown failure. Legitimate authority to decide does not imply certainty, and reality must remain capable of correcting empirical assumptions embedded in Governance.**
 
-<!-- BEGIN V2.1 CROSS SOURCE DETAIL CH204 -->
-### Chapter 204 — Epistemic humility in governance
+## 204.15 Epistemic humility in governance
 
 **Source basis:** Governance Operating Boundary and Authority Lifecycle §§16–20; Constitutional Emergency V2 Chapters 14–18,254–256.
 
 Uncertainty is a recordable condition, not a licence for arbitrary confidence. Preserve rival explanations, counterevidence, model limitations, assumptions and consequences; treat apparent consensus from shared evidence sources cautiously. An adverse result does not retrospectively prove earlier reasoning misconduct. **[LOCAL ISSUE:]** independent evidence review and calibration.
-<!-- END V2.1 CROSS SOURCE DETAIL CH204 -->
 
-<!-- BEGIN V2.1 ADVERSARIAL RECOVERY CH204 -->
-### Chapter 204 — Attention scarcity and diagnostic contestability
+
+
+## 204.16 Attention scarcity and diagnostic contestability
 
 **Audit source:** Triadic Epistemics Direct Adversarial Audit §§15–20,157–166 (historical adversarial evidence, not adopted law).
 
 The Triadic Epistemics audit warns that anomaly overload can make the investigator or triage queue a de facto sovereign. A 2–1 epistemic split is diagnostic, never a truth vote; persistent minority outliers should remain discoverable without granting unlimited veto or investigation resources. Test proportionate triage and attention capture rather than presuming every discrepancy requires full inquiry. **[LOCAL ISSUE:]** independent anomaly prioritisation and anti-starvation.
-<!-- END V2.1 ADVERSARIAL RECOVERY CH204 -->
+
+
 
 # Chapter 205 — Governance and Constitutional Humility
 
@@ -1051,13 +1051,13 @@ Therefore:
 
 > **Governance is temporary stewardship between an inherited past and an uncertain future. Stewards should preserve valuable capability, correct inherited failure, make long-term costs visible, protect future optionality where proportionate and avoid treating either history or imagined future generations as sources of unlimited present authority.**
 
-<!-- BEGIN V2.1 BCA SOURCE CH206 -->
-### Chapter 206 — Emergency access and contextual closure
+## 206.19 Emergency access and contextual closure
 
 **Source basis:** Bounded Contextual Authority §§2.3,2.5,9–12.
 
 Emergency entry and protected-space transit are limited to the necessary protective function. Neither authorises unrelated records access or continued presence after the condition ends. Later work requires its own justification. **[LOCAL ISSUE:]** access enforcement and safe exit.
-<!-- END V2.1 BCA SOURCE CH206 -->
+
+
 
 # Chapter 207 — Provisional Governance Kernel
 
@@ -1593,13 +1593,13 @@ Legitimate authority is therefore best understood as a bounded responsibility.
 
 > **Constitutional authority must arise from legitimate purpose, delegation and jurisdiction rather than usefulness, status, capability, wealth, reputation, infrastructure dependence, technological superiority or historical success. Those attributes may inform who should receive responsibility; they do not independently create the right to command.**
 
-<!-- BEGIN V2.1 V1 COMPONENT RECOVERY CH208 -->
-### Chapter 208 — Boundaries on governance power
+## 208.16 Boundaries on governance power
 
 **Recovered source:** Governance Operating Boundary and Authority Lifecycle §§2–13,21–23.
 
 Governance authority is a traceable chain from legitimate civil function through demonstrable need to minimum sufficient bounded action. Coarser spatial scale, emergency declaration, model recommendation, office tenure, wealth, reputation and control of infrastructure do not supply new sovereignty. Where function, need or context ends, authority contracts or terminates unless independently re-justified. **[LOCAL OPEN:]** automated termination and owner state verification.
-<!-- END V2.1 V1 COMPONENT RECOVERY CH208 -->
+
+
 
 # Chapter 209 — Governance Failure Boundary
 
@@ -1922,13 +1922,13 @@ Safeguards require review like every other mechanism.
 
 > **Governance should assume that authority, decisions, detection, diagnosis, containment, correction, recording and oversight can each fail. Failure architecture must therefore remain recursive, preserve multiple detection channels, examine second-order effects and allow the safeguards themselves to be challenged when they become part of the problem.**
 
-<!-- BEGIN V2.1 CITIZEN ID AUDIT CH209 -->
-### Chapter 209 — Identity is not authority
+## 209.24 Identity is not authority
 
 **Audit source:** Concord Citizen ID — Threat, Privacy and Misuse Audit §§4–5,21–26,33–36; historical research evidence, not adopted law.
 
 Citizen ID refers to continuing civil identity, not a blanket entitlement, authentication credential, routing endpoint or governance permission. A participant may retain identity despite lost credentials and may be reachable without revealing location. Candidate design favours opaque, nonenumerable, never-reassigned identifiers, with technical and legal implementation still unresolved. **[LOCAL ISSUE:]** issuance, identity continuity and recognition.
-<!-- END V2.1 CITIZEN ID AUDIT CH209 -->
+
+
 
 # Chapter 210 — Governance Continuity Boundary
 
@@ -2102,10 +2102,10 @@ and
 
 > **Persons, offices, institutions, functions and constitutional principles should remain conceptually distinct so civilisation can preserve legitimate capability while allowing individuals to leave, offices to move, institutions to die and implementations to change. Continuity should protect constitutional function, not institutional immortality.**
 
-<!-- BEGIN V2.1 SOURCE DEEPENING CH210 -->
-### Chapter 210 — Continuity without institutional perpetuation
+## 210.13 Continuity without institutional perpetuation
 
 **Recovered source:** Constitutional Emergency V2 Chapters 166–190,245–260.
 
 Constitutional functions and duties survive office replacement; an institution's survival is not the civil objective. Successors require independent authority and records; emergency powers do not persist by inertia. **[LOCAL ISSUE:]** duty ledger and sunset.
-<!-- END V2.1 SOURCE DEEPENING CH210 -->
+
+
