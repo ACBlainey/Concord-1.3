@@ -14,11 +14,9 @@
 ## Proposed amendment A — supplement §12.1 after its final paragraph
 > **Recovered triadic decision interface (working proposal).** Where the recovered V1 triadic protocol applies, a triad is the default governance decision unit. Each Steward's reasoning and decision position must be preserved independently before the collective result is formed. Expanding a decision field requires an explicit rule for retaining or excluding the originating triad from the resultant decision; the resulting constituent triad positions are not replaced by pooled individual ballots. Failure to obtain the required majority does not authorise a state change. These mechanics must be reconciled against the full V1 protocol and portable module before being treated as operative.
 
-## Proposed amendment B — supplement §12.5
-> **Bounded authority across overlapping contexts (working proposal).** Expansion, overlap, coordination and cross-resolution participation neither grant nor transfer authority. The relevant owner systems must separately validate mandate, scope, competence, current dependencies, conflict and recusal. A proposed decision remains distinct from authorisation to execute it.
+## Incorporated portions
 
-## Proposed amendment C — supplement §12.16
-> **Emergency and continuity interface (working proposal).** Emergency priority cannot suspend bounded authority, independent operational expiry, duty continuity, audit or constitutional review. A paused Civilisation Clock does not prolong a temporary mandate. Renewal requires fresh authorisation and review; cumulative restrictions across successive or multiple controllers require independent assessment. Operational recovery does not extinguish surviving obligations.
+Amendments B and C have been transferred to `../Completed/Chapter_12_G05_Patch_005_Integrated_Provisions.md` after direct V2.1 insertion. Amendment A remains outstanding until its full qualifications are checked.
 
 ## Preservation and review
 Retain all unaffected §12 text verbatim. This patch is **not** a full replacement of Chapter 12 and makes no claim that source comparisons or voting mechanics are fully validated. Review with the original Triadic Decision Making Module, Constitutional Emergency V2, BTA and KCS before assembling Section 02.
