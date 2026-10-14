@@ -427,6 +427,17 @@ It is to make constitutional velocity visible.
 
 # Chapter 12 — Managing Governance Work
 
+### 12.0f Contextual quorum, missing positions and provisional records
+
+Two independently valid matching official For or Against ballots determine the substantive triadic outcome without a universal requirement that the non-decisive third position be occupied or its ballot received as an additional legality gate. The earlier proposed full-three-occupied quorum default is superseded. This does not bypass the two voters' authentication, eligibility, independence, competent forum, legitimate mandate, event identity or separate implementation authority. A third position that is vacant, invalid, outstanding or abstaining must be recorded accurately rather than silently converted into Against or Unresolved. Determined outcome, incomplete participation record, effective timing and validity status are separate dimensions; a split or otherwise indeterminate pair is not a determined majority.
+
+Ordinary implementation follows the applicable effective-time rule, including Civilisational Clock dependencies where legitimately required. Independently authorised urgent action need not wait for a non-decisive third ballot or a paused Clock, but urgency cannot invent jurisdiction or execution power. A lawful later third ballot may complete provenance without reversing an already determined two-ballot result. No Steward may deliberately exclude another to manipulate timing.
+
+Distinct continuity mechanisms for an unavailable position include deferred original participation, a separately authorised expanded constituent resultant, a lawful bounded temporary replacement, and a specifically authorised provisional position ballot. **Provisional supersession is not ordinary ballot revocation:** where such a mechanism is legitimately established, a returning original Steward's official position record may supersede the temporary provisional record while preserving both historical events, never counting a fourth vote or retroactively rewriting an already committed official ballot. Any change to consequential effects requires separate review and authority. No such provisional supersession mechanism is automatically authorised by its description.
+
+**Open local rules:** decision-class timing, provisional-position authorisation and deadline, substitute handover, finalisation when the original never returns, and consequences of irreversible effects. These must not reintroduce the superseded universal three-position quorum.
+
+
 ### 12.0e State-conditioned instantaneous authority and event acceptance
 
 Institutional office, competence, standing procedure, technical capability and valid prerequisite evidence may persist, but **authority itself is not a stored balance, continuing lease or standing permission**. For each consequential decision or act, the owning state machine must verify the current legitimate state, context, scope, rights, consent and safeguards at the event boundary. The authorised event consumes its enabling state through an atomic compare-and-transition and preserves a durable attributable record. Replaying the event, or inventing a new event identifier against the consumed state, cannot regenerate the same authority. Any later consequential action requires its own independent legitimate enabling state. A one-use technical token is only a replay guard or provenance reference, not possessed authority.
