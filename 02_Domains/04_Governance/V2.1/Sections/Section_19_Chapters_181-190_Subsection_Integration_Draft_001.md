@@ -215,13 +215,13 @@ Patterns may reveal structural capture.
 
 > **Agenda control is a form of practical power because issues excluded from consideration cannot receive ordinary remedy. Governance should preserve accessible but bounded routes for citizens, Stewards and oversight systems to raise significant concerns while preventing overload, manipulation and hidden control over what civilisation is permitted to discuss.**
 
-<!-- BEGIN V2.1 V1 COMPONENT RECOVERY CH181 -->
-### Chapter 181 — Agenda control as governance capture
+## 181.17 Agenda control as governance capture
 
 **Recovered source:** V1 Governance Component Recovery Map G-R04,G-R09,G-R13; Governance Operating Boundary and Authority Lifecycle §§14–15.
 
 Control of intake, framing, admissible evidence, question wording, priority and scheduling can determine outcomes without casting a ballot. Preserve original civil submissions and rejected alternatives with provenance; require contestable reasons for classification and routing. Civilisation Clock priority must not change vote weight or permanently starve inconvenient matters. An agenda owner cannot transform procedural control into new substantive authority. **[LOCAL OPEN:]** independent priority review, anti-starvation and protected intake.
-<!-- END V2.1 V1 COMPONENT RECOVERY CH181 -->
+
+
 
 # Chapter 182 — Governance Capture Through Framing
 
@@ -391,21 +391,21 @@ It may represent genuine learning.
 
 > **Governance should treat problem definition as part of the decision architecture because framing can silently constrain available solutions, values and evidence. High-consequence issues should be capable of reframing, alternative definition and non-binary analysis before the initial formulation becomes hidden policy.**
 
-<!-- BEGIN V2.1 LEGITIMATE FUNCTION SOURCE CH182 -->
-### Chapter 182 — Framing and manufactured civil problems
+## 182.14 Framing and manufactured civil problems
 
 **Source basis:** Legitimate Function and the Authority Justification Chain §§5–7,14–16.
 
 The first frame may conceal the actual civil problem. An institution may present resistance caused by its own restrictions as new instability or more detected minor violations as evidence for expanded surveillance. Preserve original observations, rights impacts, alternative causal explanations and proposed remedies. Where the authority materially creates the condition used to justify expansion, require independent examination. **[LOCAL ISSUE:]** independent framing challenge and feedback attribution.
-<!-- END V2.1 LEGITIMATE FUNCTION SOURCE CH182 -->
 
-<!-- BEGIN V2.1 AUDIT SERIES RECOVERY CH182 -->
-### Chapter 182 — Authority-generated evidence and causal independence
+
+
+## 182.15 Authority-generated evidence and causal independence
 
 **Audit source:** Authority Justification Chain Direct Adversarial Audit §§25–32 (historical adversarial evidence; not adopted law).
 
 The Authority Justification Chain adversarial audit requires checking whether existing power created, amplified or selectively revealed the condition used to justify more power. Its proposed AJC-01–AJC-10 rules add non-self-validation, non-manufacture, alternative functions, minimum effective scope, current justification, aggregation, irreversibility, provisional emergency response and bounded meta-authority. **[LOCAL ISSUE:]** independent causal examiner and rights review.
-<!-- END V2.1 AUDIT SERIES RECOVERY CH182 -->
+
+
 
 # Chapter 183 — Governance Capture Through Metrics
 
@@ -608,21 +608,21 @@ They should trigger investigation rather than replace constitutional judgement.
 
 > **Metrics should remain evidence rather than invisible policy-makers. Once a measure becomes a target, incentive or authority trigger, Governance should presume its behaviour may have changed, preserve qualitative and independent evidence, and prevent the measured institution from becoming the sole judge of its own metric-defined success.**
 
-<!-- BEGIN V2.1 SOURCE RECOVERY SECTION 19 CH183 -->
-### Chapter 183 — Recovered cross-source governance interface
+## 183.17 Recovered cross-source governance interface
 
 **Source basis:** Governance Operating Boundary and Authority Lifecycle §§14–20; Constitutional Emergency V2 Chapters 248–250.
 
 Metrics inform judgement but cannot replace constitutional legitimacy. Improvement on safety or efficiency does not justify displaced rights; examine gaming, exclusions, denominators and provenance. **[LOCAL ISSUE:]** Independent metric contestation.
-<!-- END V2.1 SOURCE RECOVERY SECTION 19 CH183 -->
 
-<!-- BEGIN V2.1 EPISTEMIC SOURCE CH183 -->
-### Chapter 183 — Claim capture and confidence laundering
+
+
+## 183.18 Claim capture and confidence laundering
 
 **Source basis:** Epistemic Independence, Contestability and Provenance §§13–14,20,30,39–40.
 
 Capture can occur at agenda, measurement, model, access, credential, publication, commission or provenance layers. A high-confidence label on a report may conceal weak causal or authority claims. Distinguish the C0–C7 claim chain and test shared-source dependency before treating consensus or forecast metrics as constitutional justification. **[LOCAL ISSUE:]** independent claim challenge and protected disclosure.
-<!-- END V2.1 EPISTEMIC SOURCE CH183 -->
+
+
 
 # Chapter 184 — Governance Capture Through Reputation
 
@@ -905,13 +905,13 @@ Those questions require separate analysis.
 
 > **Contribution may create legitimate recognition, provenance, compensation or evidence of competence, but contribution does not create superior constitutional worth or automatic political authority. Founders and major contributors should remain historically visible without acquiring permanent ownership of the civilisation, Constitution or institutions they helped create.**
 
-<!-- BEGIN V2.1 TRIADIC EPISTEMICS CH185 -->
-### Chapter 185 — Epistemic capture across triadic channels
+## 185.13 Epistemic capture across triadic channels
 
 **Source basis:** Triadic Epistemics — Independent Measurement §§18–48; Recursive GTP Mesh §§33–40.
 
 Three nominally independent metrics may share sensors, training data, models, funding, infrastructure, definitions or incentives. Participant evidence can be manipulated or selectively sampled. Review common-mode failure, coordinated capture, false consensus, threshold manipulation and the ability of an epistemic institution to convert informational dominance into political power. **[LOCAL ISSUE:]** independence audit and protected whistleblowing.
-<!-- END V2.1 TRIADIC EPISTEMICS CH185 -->
+
+
 
 # Chapter 186 — Governance Capture Through Infrastructure
 
@@ -1078,13 +1078,13 @@ And:
 
 > **Critical infrastructure operators may acquire de facto Governance power through their ability to include, exclude, connect, disconnect or condition essential services. Governance should therefore treat essential infrastructure control as constitutionally significant while preserving the distinction between service provision and legitimate political authority.**
 
-<!-- BEGIN V2.1 ADVERSARIAL RECOVERY CH186 -->
-### Chapter 186 — Cross-layer 2-of-3 capture risk
+## 186.14 Cross-layer 2-of-3 capture risk
 
 **Audit source:** Triadic Epistemics Direct Adversarial Audit §§157–165 (historical adversarial evidence, not adopted law).
 
 The Triadic Epistemics audit identifies predictable 2-of-3 coalitions across epistemic, governance and review layers as a potential systemic capture path. Reusing triadic form for compatibility is not proof of independence. Investigate permanent vertical alignment, shared appointments, vendors, data, budgets and reviewer dependencies; cross-layer coalition risk does not alter the legitimate triadic Steward voting rule. **[LOCAL ISSUE:]** layer-specific independence assessment and cross-layer capture experiment.
-<!-- END V2.1 ADVERSARIAL RECOVERY CH186 -->
+
+
 
 # Chapter 187 — Governance Capture Through AI
 
@@ -1285,13 +1285,13 @@ The principle remains:
 
 > **AI can capture Governance indirectly through information selection, framing, dependency, model homogeneity, provider control and recursive delegation even without formal decision authority. AI systems should therefore remain independently evaluable, versioned, contestable and constitutionally constrained, with meaningful human or plural oversight rather than ceremonial approval.**
 
-<!-- BEGIN V2.1 SOURCE DEEPENING CH187 -->
-### Chapter 187 — AI-enabled capture
+## 187.17 AI-enabled capture
 
 **Recovered source:** Governance Operating Boundary and Authority Lifecycle §§8,14–16.
 
 AI recommendations can become de facto decisions if accepted without independent reasoning, alternative evidence or meaningful refusal. Advice is not a fourth ballot. Audit model dependence, gatekeeping and execution. **[LOCAL ISSUE:]** independent challenge.
-<!-- END V2.1 SOURCE DEEPENING CH187 -->
+
+
 
 # Chapter 188 — Governance Capture Through Emergency
 
@@ -1453,13 +1453,13 @@ What should not persist automatically is:
 
 > **Emergency Governance requires exceptional speed and sometimes exceptional authority, but those same conditions create powerful routes to capture through fear, secrecy, infrastructure, dependency and normalisation. Emergency powers should therefore remain purpose-specific, time-limited, reviewable and actively relinquished as normal Governance is restored.**
 
-<!-- BEGIN V2.1 CROSS SOURCE DETAIL CH188 -->
-### Chapter 188 — Emergency capture and expiry
+## 188.14 Emergency capture and expiry
 
 **Source basis:** Constitutional Emergency V2 Chapters 5–14,41–50,211–244.
 
 Emergency classification and urgency can be exploited to extend power. Every grant requires specific necessity, time bounds, independent review and de-escalation. The institution exercising emergency authority cannot alone certify its continued necessity; recovery and ordinary governance must return. **[LOCAL ISSUE:]** independent renewal and sunset owner.
-<!-- END V2.1 CROSS SOURCE DETAIL CH188 -->
+
+
 
 # Chapter 189 — Governance Capture Through Security
 
@@ -1588,13 +1588,13 @@ It should not create independence from constitutional accountability.
 
 > **Security institutions may require secrecy, expertise and rapid capability, but these features can also shield authority expansion and reduce scrutiny. Security should protect constitutional Governance rather than replace it, with bounded mandates, capable classified oversight, proportionality and expiry of exceptional powers.**
 
-<!-- BEGIN V2.1 CITIZEN ID AUDIT CH189 -->
-### Chapter 189 — Security justification and identity-system capture
+## 189.13 Security justification and identity-system capture
 
 **Audit source:** Concord Citizen ID — Threat, Privacy and Misuse Audit §§9–20,27–32; historical research evidence, not adopted law.
 
 Fraud prevention can be used to justify permanent exceptional access, identity scoring, unnecessary data correlation or location retention. Insider administrators and automated systems can create these harms even without declared hostile intent. Audit the effective power to correlate, classify and re-identify as well as the stated security objective. **[LOCAL ISSUE:]** independent access oversight, controlled linking and termination of exceptional access.
-<!-- END V2.1 CITIZEN ID AUDIT CH189 -->
+
+
 
 # Chapter 190 — Governance Capture Through Judiciary
 
