@@ -1070,6 +1070,14 @@ And:
 
 > **Critical infrastructure operators may acquire de facto Governance power through their ability to include, exclude, connect, disconnect or condition essential services. Governance should therefore treat essential infrastructure control as constitutionally significant while preserving the distinction between service provision and legitimate political authority.**
 
+<!-- BEGIN V2.1 ADVERSARIAL RECOVERY CH186 -->
+### Chapter 186 — Cross-layer 2-of-3 capture risk
+
+**Audit source:** Triadic Epistemics Direct Adversarial Audit §§157–165 (historical adversarial evidence, not adopted law).
+
+The Triadic Epistemics audit identifies predictable 2-of-3 coalitions across epistemic, governance and review layers as a potential systemic capture path. Reusing triadic form for compatibility is not proof of independence. Investigate permanent vertical alignment, shared appointments, vendors, data, budgets and reviewer dependencies; cross-layer coalition risk does not alter the legitimate triadic Steward voting rule. **[LOCAL ISSUE:]** layer-specific independence assessment and cross-layer capture experiment.
+<!-- END V2.1 ADVERSARIAL RECOVERY CH186 -->
+
 # Chapter 187 — Governance Capture Through AI
 
 ## 187.1 Soft Capture
