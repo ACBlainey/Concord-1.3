@@ -231,6 +231,13 @@ Re-convergence could involve:
 
 # Chapter 132 — Governance and GTP
 
+### 132.0d Candidate selection integrity and topology neutrality
+
+For a lawful one-position node-adjacent substitution, freeze and record the eligible-holder set and GTP geometry revision before a fair selection. The selection procedure must be committed before the outcome is known; screen eligibility and independent appointment, deduplicate verified people across the complete decision event, and record protected exclusions and verifiable randomness evidence. At least two eligible holders require an unbiased draw over **people**, not duplicate office aliases; a single eligible holder is the default subject to all independent legality checks, superseding the earlier candidate 027 uncertainty. A failed eligibility recheck triggers a neutral, predeclared failure route, never an outcome-driven redraw. The substitution is one vote position, not an expanded constituent forum.
+
+The earlier origin-excluded edge-frontier proposal for third-and-higher candidate rings was an engineering hypothesis. Synthetic origin-neutrality comparison found that using the five non-origin incident triangles as the outward discovery frontier can vary later-ring membership by origin. The later **provisional node-centred** method starts third-ring discovery from all incident triangles, while excluding the incident set from newly discovered triangles and deduplicating positions and people. This method remains a candidate, not proven constitutional topology; actual irregular nodes, seams, resolution transitions and unbiased selection require owner validation. Preserve the original mathematical terminology and testing lineage in historical source files without reviving superseded operating instructions.
+
+
 ### 132.0c Node-associated Steward positions and bounded substitution rings
 
 Use **node** in new governance prose for the abstract GTP point historically called a *vertex* in mathematical sources; retain original terminology in quoted historical material. At a regular node where six triangles meet, six distinct **triangle-owned Steward positions** coincide geometrically, one per incident triangle. They are not a shared office, six-person governing body or common jurisdiction. Each triangle's three Steward positions belong to its own triad; the physical offices may be situated elsewhere within the triangle. Node adjacency provides candidate discovery, never automatic appointment or authority.
