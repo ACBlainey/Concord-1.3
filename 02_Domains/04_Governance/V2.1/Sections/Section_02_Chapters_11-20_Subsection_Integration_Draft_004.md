@@ -844,21 +844,13 @@ Expanded constituent triads, one-position substitutions and GTP node mappings re
 
 **[LOCAL VALIDATION — FI-004, FI-005, FI-008, FI-029, FI-031:]** Validate the actual host constitution/commit gates, irregular GTP node mapping, exceptional position continuity and authoritative event boundary. The former full-three quorum proposal and its Q-1–Q-4 variants remain in original source records, not as operative alternatives in V2.1.
 
-### Chapter 12 — Authorial direction 048 takes priority over provisional full-constitution assumption 047
+### Chapter 12 — Authorial source precedence and bounded position continuity
 
-**Source-priority correction:** `Integration/G03_Outcome_Determinacy_Deferred_and_Provisional_Vote_Authorial_Direction_048.md` expressly records a **new authorial direction** and supersedes the *preferred design assumption* of Q-1 full-three-occupied quorum in `Integration/G03_Quorum_and_Triadic_Decision_Validity_Resolution_Candidate_047.md`. The preceding G03 source-resolution register preserves the historical 047 proposal as evidence, **not as the current preferred design**. Neither 047 nor 048 alone amends Governance V2 Canonical.
+Authorial direction 048 supersedes the earlier full-three-occupied quorum *assumption* in Integration 047. The operative voting threshold and separate constitutional/implementation gates are set out above and in the following authorial resolution; neither provisional source is a competing operative rule.
 
-**Authorial observation:** Two independently valid matching original-position For votes or two Against votes establish an arithmetic majority that a later third F/A/U ballot cannot change. The absent position's eventual official vote still matters for dissent, provenance, reasoning, accountability and review. Outcome determinacy and record completeness are separate dimensions; mathematical determinacy alone cannot establish forum validity, competence, decision-event boundary, implementation authority or operative timing.
+**Position continuity:** When a position is unavailable, a lawful process may permit (1) the original Steward's later official vote while its authority remains unconsumed, (2) an independently constituted expanded resultant occupying precisely one position, (3) a bounded temporary substitute authorised for that position, or (4) a non-official, non-consuming provisional indication that can be replaced before official commitment. These mechanisms are not automatically available merely because the position is missing. An official committed ballot cannot be superseded within its event; no replacement may create a fourth vote or alter a completed majority.
 
-**Four distinct, separately authorised continuity paths** identified in direction 048 are (1) deferred original vote, (2) expanded constituent resultant occupying exactly one original position, (3) independently authorised parallel temporary Steward with bounded handover, and (4) a provisional **non-official indication** capable of later replacement by the returning Steward's lawful official vote, if independently authorised. An **official committed** provisional-position ballot is not supersedable within that event; any replacement decision needs separate lawful authority and event identity. Neither route creates a fourth vote. Recusal for material conflict is not ordinary absence; insufficient-information abstention is not vacancy.
-
-**Unresolved operational questions:** Under what independent procedure may a determined two-vote majority become operative before the third official ballot? What are the return deadline, non-official provisional indication window, handover and finalisation rules? What lawful reconsideration or remedy applies when external consequences already occurred? Which substitute paths are valid for each cause of unavailability? These require explicit authorial and constitutional source resolution rather than silently reverting to Q-1 or automatically authorising a two-position quorum.
-
-**Safety hold:** Where independent authority, event boundary, participation procedure or commit-time validity is unknown, withhold consequential commitment. A paused Civilisation Clock cannot be used to defer independent emergency expiry, nor can urgency manufacture missing authority.
-
-<!-- END V2.1 G03 AUTHORIAL DIRECTION 048 — QUORUM PRIORITY CORRECTION -->
-
-<!-- BEGIN V2.1 AUTHORIAL RESOLUTION — TWO-VOTE DETERMINACY AND IMPLEMENTATION TIMING -->
+**[LOCAL VALIDATION — FI-029, FI-030, FI-031:]** Determine each continuity route's legitimate issuer, vacancy cause, appointment/return deadline, handover, record finalisation, eligibility and effect reconciliation. If independent authority, event boundary or commit-time validity is unknown, withhold consequential commitment. Emergency action remains independently time-bounded and cannot derive authority from urgency or a paused Civilisation Clock.
 
 ### Chapter 12 — Authorial resolution: decisive majority, provenance and effective implementation
 
