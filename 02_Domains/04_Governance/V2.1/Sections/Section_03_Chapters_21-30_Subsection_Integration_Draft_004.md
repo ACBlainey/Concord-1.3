@@ -1439,6 +1439,18 @@ A substitute occupies one lawfully vacant bounded decision position, not an addi
 
 # Chapter 29 — Degraded Triads
 
+### 29.V21 — Degraded triad continuity and bounded restoration
+
+Before extraordinary voting, distinguish temporary absence, vacancy, communication or authentication failure, recusal, incapacity, insufficient evidence, compromised independence and principled abstention. Record urgency and whether safe delay is possible; these causes are not interchangeable.
+
+Select proportionately among normal triadic operation, restoration or safe delay, independently authorised substitution, lawful reconstitution, origin-included or origin-excluded expansion, and separately lawful emergency preservation. This is an assessment order, not a compulsory hierarchy or jurisdiction transfer. A Parallel Steward's advisory position does not itself authorise a substitute vote. Substitution requires an independent basis, eligibility, conflict check, scope, expiry and record, and cannot be used merely to overturn an unwelcome ballot.
+
+Expanded decision fields preserve three constituent triads and three resultant positions rather than pooling individual ballots. A constituent without a valid majority returns Unresolved; two valid matching constituent results may still determine the virtual triad. If no valid decision can be constituted within the lawful time and scope, record non-authorisation, avoid indefinite expansion, and restore ordinary decision capacity promptly. Only separately authorised emergency preservation powers may operate meanwhile.
+
+**Open issue:** identify the precise appointment authority and vertex eligibility mapping; neither can be presumed from this continuity sequence.
+
+
+
 ## 29.1 Triadic Failure
 
 Where Governance relies upon triadic decision structures, emergency conditions may make one or more members unavailable.
@@ -1631,6 +1643,18 @@ A degraded triad does not automatically become a conference, an expanded forum o
 <!-- END V2.1 CE-V2 HISTORICAL SOURCE RECOVERY CHAPTER 29 -->
 
 # Chapter 30 — Emergency Abstention and Decision Failure
+
+### 30.V21 — Abstention, unresolved outcomes and emergency non-authorisation
+
+A three-position decision produces For or Against only on two valid corresponding votes; otherwise its result is Unresolved. Record separately whether Unresolved arises from abstention, absence, recusal, invalid authentication, insufficient evidence or another cause. Against is a substantive decision, not the same as Unresolved. Abstention is neither consent, opposition nor vacancy, and never independently authorises replacement; a legitimate two-vote majority remains effective despite third-position abstention.
+
+For constituent results (F,A,U), the expanded result is U; (F,F,U) gives F and (A,A,U) gives A. An unresolved emergency may invoke only pre-authorised, bounded preservation mechanisms, never a fabricated majority or repeated expansion selected to obtain a preferred outcome. Where no legitimate majority exists, the attempted vote authorises no state change. If the status quo is dangerous, a separate emergency preservation mandate must supply evidence, audit, sunset and prompt independent review; record the consequences of inaction.
+
+Changing decision forum does not manufacture jurisdiction or authority. GTP scale is not institutional superiority and a failed local vote does not confer general regional governance power.
+
+**Deferred validation:** enumerate F/A/U combinations, substitution incentives, duplicate positions, emergency deadlines and interregional disagreements after integration is complete.
+
+
 
 ## 30.1 Abstention During Emergency
 
