@@ -15,7 +15,7 @@
 ## Current progress snapshot — 14 October 2026
 
 - **83 issues tracked; 0 formally closed.**
-- **81 issues have source-location or integration progress noted in their status cells**; 2 remain `Open / verify` pending more specific assessment.
+- **83 issues have source-location, integration or process-gate status recorded**; 0 remain at the unqualified `Open / verify` stage. All 83 remain open until issue-specific closure evidence.
 - Direct V2.1 source-informed integrations have been committed in **Chapters 12, 28, 67, 81, 83, 84, 88, 89, 102, 106, 108, 111, 112, 122, 125, 126, 127, 128, 132, 150, 162, 164, 165, 168, 174, 175, 183, 188, 198, 201 and 208**. These establish reusable interfaces but do not settle constitutional issuer, jurisdiction, host execution, independent review or validation gaps.
 - Source research: `Concord_Source_Recovery_Crosswalk_001.md`, `Existing_Architecture_Resolution_Pass_002.md`, `Existing_Architecture_Resolution_Pass_003.md`; **use corrected issue IDs from** `Verified_Source_to_Issue_Map_004.md` (earlier working notes have preliminary numbering).
 - **Status labels are deliberately conservative:** chapter integration is not equivalent to owner acceptance, deployed validation, conflict reconciliation or authorial graduation.
@@ -31,7 +31,7 @@
 | FI-005 | G-005 | Expanded virtual-triad appointment and event validity | Outstanding_Issues_Register.md | Existing source located; virtual-triad appointment proof pending |
 | FI-006 | G-006 | Node-ring substitution beyond first two rings | Outstanding_Issues_Register.md | Integrated Ch132; ring substitute selection pending |
 | FI-007 | G-007 | Decision-event identity and repeated participation | Outstanding_Issues_Register.md | Integrated Ch12,165; event schema proof pending |
-| FI-008 | G-008 | Chapter 12 final assembly | Outstanding_Issues_Register.md | Open / verify |
+| FI-008 | G-008 | Chapter 12 final assembly | Outstanding_Issues_Register.md | In progress; operative rule assembled Ch12, superseded passages need removal and full clause audit |
 | FI-009 | G-009 | Chapter 132 GTP conflict resolution | Outstanding_Issues_Register.md | Integrated Ch132; historic clause conflict reconciliation pending |
 | FI-010 | G-010 | GTP mesh workload and jurisdiction mechanics | Outstanding_Issues_Register.md | Integrated Ch132; mesh workload and jurisdiction calibration pending |
 | FI-011 | G-011 | Emergency issuer and lawful mandate | Outstanding_Issues_Register.md | Integrated Ch28,188; lawful issuer and mandate pending |
@@ -50,7 +50,7 @@
 | FI-024 | G-024 | Whole-manuscript completeness | Outstanding_Issues_Register.md | Integration underway; full completeness audit pending |
 | FI-025 | G-025 | Migration-aware source authority | Outstanding_Issues_Register.md | Source recovery underway; historical comparison pending |
 | FI-026 | G-026 | Validation beyond synthetic passing tests | Outstanding_Issues_Register.md | Source located; independent validation pending |
-| FI-027 | G-027 | Authorial approval and graduation gate | Outstanding_Issues_Register.md | Open / verify |
+| FI-027 | G-027 | Authorial approval and graduation gate | Outstanding_Issues_Register.md | Awaiting authorial approval; cannot close by source integration alone |
 | FI-028 | — | Conference disclosure, cross-constituent influence and post-commit conferencing | Sections: Chapters 12, 54 | Existing FPA/Summits sources located; conference rule pending |
 | FI-029 | — | Lawful vacancy, provisional position ballots and return of original Steward | Sections: Chapters 9, 12, 28–30 | Existing continuity sources located; vacancy rule pending |
 | FI-030 | — | Steward eligibility, selection, tenure, acting appointment and succession | Sections: Chapters 12, 100, 106, 116 | Existing succession sources located; eligibility rule pending |
