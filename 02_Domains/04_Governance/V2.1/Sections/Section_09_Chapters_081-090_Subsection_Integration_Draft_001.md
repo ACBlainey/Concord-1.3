@@ -2355,7 +2355,9 @@ Detect both wrongful action and harmful inaction; watch for repeated abstention,
 
 The adversarial audit exposed invented functions, self-declared emergencies, endless successor functions, combined partial authorities producing major power, surveillance required to enforce sunset, conflicts among legitimate functions and authority concealed in defaults. A single actor's permission may be bounded while aggregate capability is not. **[LOCAL ISSUE:]** BCA-R6 aggregation audit, R7 conflict resolution and R8 non-universal surveillance.
 
+## 89.V21 — Protected aggregate authority and disclosure checks
 
+The existing **Multi-Key Authority** composition rule (§17), **Private Local Evaluation** cumulative-disclosure rules and **Concord Information Black Box** (§§12–13) supply complementary safeguards. Individually bounded acts may become unlawful in aggregate; evaluate foreseeable combined restrictions, information reconstruction and control of execution paths without inferring universal access to participant records. Where necessary, use a protected owner-run local evaluation returning only bounded anomaly, review or refusal signals. An anomaly is not proof of misconduct or a new coercive warrant. **[LOCAL ISSUE — FI-021, FI-042, FI-075:]** aggregate-risk thresholds, lawful investigator and challenge/remedy process remain open.
 
 # Chapter 90 — Diagnosis
 
