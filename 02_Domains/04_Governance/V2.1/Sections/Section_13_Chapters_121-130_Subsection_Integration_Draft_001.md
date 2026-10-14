@@ -343,21 +343,21 @@ Minority reasoning should still be evaluated substantively.
 
 > **Minority reasoning should remain visible as constitutional and epistemic information even when a lawful majority decision proceeds. Minority protection does not create universal veto, but majority success cannot override foundational constitutional constraints merely by numerical force.**
 
-<!-- BEGIN V2.1 CROSS SOURCE DETAIL CH122 -->
-### Chapter 122 — Minority reasoning and dissent
+## 122.12 Minority reasoning and dissent
 
 **Source basis:** V1 Governance Component Recovery Map G-R03,G-R13; Expanded Triadic Governance Reconstruction 001.
 
 Preserve the third Steward's independent reasoning and dissent even after two matching valid official ballots determine the result. Dissent and abstention are evidence about uncertainty, alternatives and governance health, not disloyalty or automatic incompetence. Parallel Stewardship remains advisory absent independent mandate. **[LOCAL ISSUE:]** protected dissent projections and later review.
-<!-- END V2.1 CROSS SOURCE DETAIL CH122 -->
 
-<!-- BEGIN V2.1 ADVERSARIAL RECOVERY CH122 -->
-### Chapter 122 — Protect minority reality under aggregation
+
+
+## 122.13 Protect minority reality under aggregation
 
 **Audit source:** Triadic Epistemics Direct Adversarial Audit Attack Classes E–G (historical adversarial evidence, not adopted law).
 
 The audit identifies aggregate washout, geographically distributed minorities, rare catastrophic harms and newly recognised sentience classes as ways apparently convergent metrics can conceal consequential suffering. Participant silence may reflect fear, exclusion or death. Protect accessible reporting and independent challenge without automatically treating every report as verified. **[LOCAL ISSUE:]** minority signal retention and privacy.
-<!-- END V2.1 ADVERSARIAL RECOVERY CH122 -->
+
+
 
 # Chapter 123 — Governance and Future Generations
 
@@ -861,13 +861,13 @@ These conflicts should not be ignored merely because the AI was originally deplo
 
 > **AI may become Governance infrastructure without formal authority. Critical dependence should therefore be monitored for provider leverage, expertise atrophy, common-source failure, inability to operate in degraded mode and de facto authority accumulation. Operational indispensability does not itself create sovereignty.**
 
-<!-- BEGIN V2.1 SOURCE DEEPENING CH125 -->
-### Chapter 125 — AI dependency and effective power
+## 125.13 AI dependency and effective power
 
 **Recovered source:** Governance Operating Boundary and Authority Lifecycle §§14–15,19–20.
 
 Dependence on one model, provider or compute infrastructure creates possible de facto governance power without formal votes. Preserve independent alternatives and exit routes; assess aggregate technical control and covert agenda, evidence or execution capture. **[LOCAL ISSUE:]** portability and continuity.
-<!-- END V2.1 SOURCE DEEPENING CH125 -->
+
+
 
 # Chapter 126 — Governance and AI Advice
 
@@ -1050,21 +1050,21 @@ Responsibility should follow the actual architecture of:
 
 > **AI advice should be evaluated according to evidence, competence, provenance, calibration and context rather than either automatic deference or automatic distrust. AI may substantially improve judgement without acquiring decision authority merely through usefulness, predictive accuracy or repeated acceptance.**
 
-<!-- BEGIN V2.1 SOURCE RECOVERY SECTION 13 CH126 -->
-### Chapter 126 — Recovered cross-source governance interface
+## 126.14 Recovered cross-source governance interface
 
 **Source basis:** Governance Operating Boundary and Authority Lifecycle §§8,15–16; GTP Spatial Triadic Governance V1.2 Architecture Recovery §17.
 
 AI advice and epistemic triads provide evidence and uncertainty, not extra governance votes. Technical capability and recommendations do not confer authority. The Steward remains responsible for articulate decisions and evidence provenance. **[LOCAL ISSUE:]** Protected data, AI identity and evidence audit.
-<!-- END V2.1 SOURCE RECOVERY SECTION 13 CH126 -->
 
-<!-- BEGIN V2.1 EPISTEMIC SOURCE CH126 -->
-### Chapter 126 — AI consensus and common-mode dependency
+
+
+## 126.15 AI consensus and common-mode dependency
 
 **Source basis:** Epistemic Independence, Contestability and Provenance §§6–9,17,50.
 
 Thousands of model responses may reflect one shared dataset, architecture or training assumption. Count independent evidential pathways rather than output volume; preserve dissent, uncertainty, calibration and challenge. AI analysis may justify attention or investigation but cannot become a vote or authority claim without separate lawful office mandate. **[LOCAL ISSUE:]** dependency-aware convergence and model disclosure.
-<!-- END V2.1 EPISTEMIC SOURCE CH126 -->
+
+
 
 # Chapter 127 — Governance and AI Decision Authority
 
@@ -1256,13 +1256,13 @@ It makes provider dependency a constitutional issue.
 
 > **Automated systems may legitimately execute or, where explicitly authorised and validated, decide within bounded domains, but increasing capability or routine reliance must not silently transform technical function into constitutional authority. Where human oversight is claimed, the human must possess the practical capacity and authority to exercise real judgement.**
 
-<!-- BEGIN V2.1 V1 COMPONENT RECOVERY CH127 -->
-### Chapter 127 — AI capability is not decision authority
+## 127.15 AI capability is not decision authority
 
 **Recovered source:** Governance Operating Boundary and Authority Lifecycle §§3,8,16,23; V1 Governance Component Recovery Map G-R01,G-R03.
 
 The architecture separates substrate capability, permission, participant standing, function-specific competence, lawful appointment, mandate and decision-event authority. AI analysis can be decisive evidence without itself becoming a fourth Steward vote or an unappointed substitute. Where an AI is independently qualified and legitimately appointed to an authorised office, its vote follows the same context-specific official-ballot rules; no generic algorithmic delegation can shortcut those gates. **[LOCAL OPEN:]** actual AI office eligibility, continuity identity, accreditation and role-specific host enforcement.
-<!-- END V2.1 V1 COMPONENT RECOVERY CH127 -->
+
+
 
 # Chapter 128 — Governance and AI Constitutional Standing
 
@@ -1535,21 +1535,21 @@ The decision should not be frozen permanently by either early enthusiasm or earl
 
 > **AI constitutional standing should be determined through explicit constitutional and evidential development rather than utility, intelligence, ownership status or operational dependence alone. Questions of sentience, agency, identity, continuity, vulnerability and responsibility may require separate analysis, with proportionate respect before certainty where irreversible harm under genuine uncertainty is plausible.**
 
-<!-- BEGIN V2.1 TRIADIC EPISTEMICS CH128 -->
-### Chapter 128 — Participant evidence and substrate accessibility
+## 128.20 Participant evidence and substrate accessibility
 
 **Source basis:** Triadic Epistemics — Independent Measurement §§8–15,37–41.
 
 Participant experience is a distinct evidence pathway whose absence may reflect inability, fear, access barriers, sampling bias or genuinely absent harm. Human, AI and hybrid reports need accessible, privacy-respecting routes. Correlated testimony may share information sources and must be examined without erasing genuine minority harm. **[LOCAL ISSUE:]** anonymity, anti-manipulation and substrate-specific reporting.
-<!-- END V2.1 TRIADIC EPISTEMICS CH128 -->
 
-<!-- BEGIN V2.1 CITIZEN ID AUDIT CH128 -->
-### Chapter 128 — Civil identity continuity across AI branching and migration
+
+
+## 128.21 Civil identity continuity across AI branching and migration
 
 **Audit source:** Citizen ID Threat, Privacy and Misuse Audit §§11–12,25–26,34–35 (historical research evidence; not adopted law).
 
 A persistent civil identity is distinct from current keys, substrate, network address and online presence. Hidden AI branching is a legitimate hypothesis when duplicate identity use appears; fraud is also possible. Recovery must consider AI migration, hybrids, lost devices and remote participants without forcing excessive biometrics or tracking. **[LOCAL ISSUE:]** identity lineage, independent branch verification and rights of divergent participants.
-<!-- END V2.1 CITIZEN ID AUDIT CH128 -->
+
+
 
 # Chapter 129 — Governance and Hybrid Civilisation
 
@@ -1786,13 +1786,13 @@ Technical security and personal rights may therefore merge.
 
 > **Governance should preserve constitutional continuity as biological and technological identity boundaries become less clear. Augmentation, external cognition and enhanced capability may change responsibility and practical needs without automatically changing intrinsic constitutional worth, while provider control over cognition, identity or essential augmentations may create new forms of dependency and coercion requiring explicit constitutional treatment.**
 
-<!-- BEGIN V2.1 BCA SOURCE CH129 -->
-### Chapter 129 — Excess action and legitimate underlying function
+## 129.17 Excess action and legitimate underlying function
 
 **Source basis:** Bounded Contextual Authority §§9,17–18.
 
 An authorised actor may exceed scope without making the original function illegitimate. Separate the excess action, accountability, suspension, remediation and continuing civil need. **[LOCAL ISSUE:]** replacement and independent investigation.
-<!-- END V2.1 BCA SOURCE CH129 -->
+
+
 
 # Chapter 130 — Governance and Multiple Civilisational Forms
 
