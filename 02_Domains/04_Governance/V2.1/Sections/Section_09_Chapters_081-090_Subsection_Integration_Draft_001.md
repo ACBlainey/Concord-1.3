@@ -1368,6 +1368,14 @@ The principle remains:
 
 > **Governance communication should make lawful authority, rights, obligations, uncertainty and opportunity for challenge practically understandable and authenticatable. Communication systems should resist misinformation and failure without becoming mechanisms for suppressing legitimate disagreement.**
 
+<!-- BEGIN V2.1 BCA SOURCE CH86 -->
+### Chapter 86 — Safe termination of operational authority
+
+**Source basis:** Bounded Contextual Authority §§5–7,16.
+
+Operational authority may end with completed function, withdrawn consent, expiry, changed competence or end of emergency. Safe stopping may require independently justified transitional action. This is distinct from the consumed official Steward ballot, which cannot be revoked. **[LOCAL ISSUE:]** safe-stop transitions and consent.
+<!-- END V2.1 BCA SOURCE CH86 -->
+
 # Chapter 87 — Public Trust
 
 ## 87.1 Trust as an Outcome
