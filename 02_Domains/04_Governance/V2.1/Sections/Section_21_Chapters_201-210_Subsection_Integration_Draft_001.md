@@ -1922,6 +1922,14 @@ Safeguards require review like every other mechanism.
 
 > **Governance should assume that authority, decisions, detection, diagnosis, containment, correction, recording and oversight can each fail. Failure architecture must therefore remain recursive, preserve multiple detection channels, examine second-order effects and allow the safeguards themselves to be challenged when they become part of the problem.**
 
+<!-- BEGIN V2.1 CITIZEN ID AUDIT CH209 -->
+### Chapter 209 — Identity is not authority
+
+**Audit source:** Concord Citizen ID — Threat, Privacy and Misuse Audit §§4–5,21–26,33–36; historical research evidence, not adopted law.
+
+Citizen ID refers to continuing civil identity, not a blanket entitlement, authentication credential, routing endpoint or governance permission. A participant may retain identity despite lost credentials and may be reachable without revealing location. Candidate design favours opaque, nonenumerable, never-reassigned identifiers, with technical and legal implementation still unresolved. **[LOCAL ISSUE:]** issuance, identity continuity and recognition.
+<!-- END V2.1 CITIZEN ID AUDIT CH209 -->
+
 # Chapter 210 — Governance Continuity Boundary
 
 Governance continuity can be represented as:
