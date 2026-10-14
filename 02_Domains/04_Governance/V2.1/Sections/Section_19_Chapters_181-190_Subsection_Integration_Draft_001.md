@@ -1588,6 +1588,14 @@ It should not create independence from constitutional accountability.
 
 > **Security institutions may require secrecy, expertise and rapid capability, but these features can also shield authority expansion and reduce scrutiny. Security should protect constitutional Governance rather than replace it, with bounded mandates, capable classified oversight, proportionality and expiry of exceptional powers.**
 
+<!-- BEGIN V2.1 CITIZEN ID AUDIT CH189 -->
+### Chapter 189 — Security justification and identity-system capture
+
+**Audit source:** Concord Citizen ID — Threat, Privacy and Misuse Audit §§9–20,27–32; historical research evidence, not adopted law.
+
+Fraud prevention can be used to justify permanent exceptional access, identity scoring, unnecessary data correlation or location retention. Insider administrators and automated systems can create these harms even without declared hostile intent. Audit the effective power to correlate, classify and re-identify as well as the stated security objective. **[LOCAL ISSUE:]** independent access oversight, controlled linking and termination of exceptional access.
+<!-- END V2.1 CITIZEN ID AUDIT CH189 -->
+
 # Chapter 190 — Governance Capture Through Judiciary
 
 ## 190.1 Judicial Power
