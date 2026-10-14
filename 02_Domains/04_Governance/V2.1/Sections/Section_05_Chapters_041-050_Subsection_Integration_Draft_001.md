@@ -189,13 +189,13 @@ while losing or suppressing:
 
 Independent preservation therefore contributes to resistance against institutional capture.
 
-<!-- BEGIN V2.1 SOURCE RECOVERY SECTION 05 CH41 -->
-### Chapter 41 — Recovered cross-source governance interface
+## 41.9 Recovered cross-source governance interface
 
 **Source basis:** Constitutional Emergency V2, Chapters 14 and 245–247; V1 Governance Component Recovery Map G-R15.
 
 Historical preserves emergency and ordinary governance evidence, not executive decision authority. Preserve the contemporaneous threat assessment, alternatives, uncertainty, scope, affected rights, duration, review date, responsible authority and eventual observed effects. A later correction appends a linked version; it must not overwrite the original state. Lessons may be inherited without inherited emergency powers. **[LOCAL DEPENDENCY:]** Contextual access, personal-data minimisation and custody transfer need owner integration.
-<!-- END V2.1 SOURCE RECOVERY SECTION 05 CH41 -->
+
+
 
 # Chapter 42 — Long-Term Constitutional Stewardship
 
@@ -700,13 +700,13 @@ The constitutional objective should not be representation by substrate for its o
 
 It should be legitimate, capable, accountable Stewardship under the rights and standing actually recognised by the Constitution.
 
-<!-- BEGIN V2.1 CROSS SOURCE DETAIL CH43 -->
-### Chapter 43 — Multisubstrate emergency concern
+## 43.11 Multisubstrate emergency concern
 
 **Source basis:** Constitutional Emergency V2 Chapters 31–40 and multisubstrate emergency implications.
 
 Emergency preservation of life and continuity must account for human, AI and hybrid participants and their substrate-specific vulnerabilities without reducing constitutional concern to popularity, productivity or resource wealth. Biological injury, digital continuity loss, identity uncertainty, power/compute interruption and dependency may require different protective measures. Aggregate optimisation cannot erase concentrated irreversible harms. **[LOCAL ISSUE:]** substrate-specific triage, standing and privacy.
-<!-- END V2.1 CROSS SOURCE DETAIL CH43 -->
+
+
 
 # Chapter 44 — Governance Legitimacy
 
@@ -1020,13 +1020,13 @@ Governance V2 therefore preserves:
 
 > **Legitimate authority arises from constitutionally recognised delegation exercised within constitutional limits, through processes appropriate to the decision, with accountability, reviewability and practical respect for protected rights. Influence, popularity, expertise, wealth, contribution, reputation, capability or successful outcomes may inform Governance but do not independently create constitutional authority.**
 
-<!-- BEGIN V2.1 CROSS SOURCE DETAIL CH44 -->
-### Chapter 44 — Legitimacy under exceptional conditions
+## 44.14 Legitimacy under exceptional conditions
 
 **Source basis:** Constitutional Emergency V2 Chapters 1–14,41–50.
 
 Emergency speed does not create legitimacy. Justify threat, preservation objective, function, minimum authority and termination. Severity permits stronger action only where separately lawful; it creates no general sovereignty. **[LOCAL ISSUE:]** activation evidence.
-<!-- END V2.1 CROSS SOURCE DETAIL CH44 -->
+
+
 
 # Chapter 45 — Governance and Consent
 
@@ -1381,21 +1381,21 @@ This right may be limited where security or investigation legitimately requires 
 
 The limitation itself should remain reviewable.
 
-<!-- BEGIN V2.1 EMERGENCY SOURCE RECOVERY CH46 -->
-### Chapter 46 — Emergency truthfulness, privacy and public communication
+## 46.10 Emergency truthfulness, privacy and public communication
 
 **Recovered source:** Constitutional Emergency V2 Chapters 14–18; Governance Operating Boundary and Authority Lifecycle §§16–18.
 
 Emergency communications should prioritise factual accuracy, operational clarity, acknowledged uncertainty, accessibility, realistic expectations and timely correction. Manipulative reassurance or propaganda is not a legitimate substitute for public understanding. Public trust does not mean mandatory agreement or compliance. Publish the lawful basis and scope of restrictions where safe, while retaining narrowly justified privacy and operational secrecy subject to review and expiry. **[LOCAL OPEN:]** information-owner projection and secrecy exception procedures.
-<!-- END V2.1 EMERGENCY SOURCE RECOVERY CH46 -->
 
-<!-- BEGIN V2.1 CITIZEN ID AUDIT CH46 -->
-### Chapter 46 — Civil identity and nonambient linkability
+
+
+## 46.11 Civil identity and nonambient linkability
 
 **Audit source:** Concord Citizen ID — Threat, Privacy and Misuse Audit §§3–8,16–18,33–36 (historical research evidence; not adopted law).
 
 The Citizen ID audit rejects treating one permanent identifier as identity, credential, network endpoint and tracking key. A persistent opaque civil root should remain separated from names, replaceable credentials, official routing, services and exceptional access. Pairwise/contextual identifiers should prevent unnecessary correlation. Transparency of lawful authority use does not require general public discoverability of participants. **[LOCAL ISSUE:]** resolver, CWA access and disclosure review.
-<!-- END V2.1 CITIZEN ID AUDIT CH46 -->
+
+
 
 # Chapter 47 — Governance Security
 
@@ -1759,13 +1759,13 @@ Local resilience should not require total isolation.
 
 The objective is the ability to continue essential operation during disruption.
 
-<!-- BEGIN V2.1 SOURCE DEEPENING CH48 -->
-### Chapter 48 — Governance resilience and distributed competence
+## 48.10 Governance resilience and distributed competence
 
 **Recovered source:** V1 Governance Component Recovery Map G-R02A,G-R02B,G-R11,G-R14.
 
 Resilience requires replacing unavailable actors and functions without making any one office, node, institution or infrastructure indispensable. GTP geometric scales coexist; activating a different governance resolution is not creating or destroying triangles or automatically transferring jurisdiction. Record duty custody and temporary authorisations through disruption. **[LOCAL ISSUE:]** distributed quorum, replacement eligibility, outage and reconciliation procedures.
-<!-- END V2.1 SOURCE DEEPENING CH48 -->
+
+
 
 # Chapter 49 — Governance and Civilisational Scale
 
@@ -2248,10 +2248,10 @@ The Concord’s commitment is therefore to controlled continuity with correction
 
 # PART V — GOVERNANCE FAILURE CHALLENGE FOUNDATIONS
 
-<!-- BEGIN V2.1 CROSS SOURCE DETAIL CH50 -->
-### Chapter 50 — Independent review across constitutional interfaces
+## 50.13 Independent review across constitutional interfaces
 
 **Source basis:** Constitutional Emergency V2 Chapters 107–130,166–190.
 
 Governance decides within mandate, Judiciary independently reviews, Historical preserves provenance, Research tests evidence, and operational domains execute lawfully. Policy correction does not replace individual remedy. **[LOCAL ISSUE:]** referral and protected records.
-<!-- END V2.1 CROSS SOURCE DETAIL CH50 -->
+
+
