@@ -205,13 +205,13 @@ and:
 
 > **Governance should preserve distinctions between records and truth, expertise and infallibility, current status and finality, history and operation, provenance and ownership, contribution and responsibility, metrics and objectives, models and reality, and evidence and decision. These boundaries reduce category errors that can otherwise become hidden routes to authority.**
 
-<!-- BEGIN V2.1 SOURCE DEEPENING CH211 -->
-### Chapter 211 — Knowledge boundary and uncertainty
+## 211.15 Knowledge boundary and uncertainty
 
 **Recovered source:** V1 Governance Component Recovery Map §§1–8.
 
 Distinguish observations, interpretations, simulations, recovered sources, authorial clarification and adopted authority. Missing source is not proof of absence; preserve competing versions. **[LOCAL ISSUE:]** exhaustive source-to-clause audit.
-<!-- END V2.1 SOURCE DEEPENING CH211 -->
+
+
 
 # Chapter 212 — Governance Development Boundary
 
@@ -382,13 +382,13 @@ Current necessity should not be rewritten as proven superiority.
 
 > **Governance development should distinguish preserving information, organising a current architecture and demonstrating that the architecture works. A source-complete or canonical document may still contain unvalidated mechanisms, and validation should examine safeguards, incentives, implementation and failure as well as intended function.**
 
-<!-- BEGIN V2.1 CROSS SOURCE DETAIL CH212 -->
-### Chapter 212 — Development is not adoption
+## 212.11 Development is not adoption
 
 **Source basis:** Constitutional Emergency V2 Chapters 249–250; V1 Governance Component Recovery Map §8.
 
 Research, prototypes, simulation and blind module transfer can justify candidate specifications but not grant legal authority. Each mechanism must preserve provenance, source conflict and adoption status. Where historical work is omitted in migration, recover it without treating old labels as final precedence. **[LOCAL ISSUE:]** cross-version inventory and graduation criteria.
-<!-- END V2.1 CROSS SOURCE DETAIL CH212 -->
+
+
 
 # Chapter 213 — Remaining Source-Survival Work
 
@@ -628,29 +628,29 @@ It should eventually be resolved.
 
 > **Source completeness is established by traceable survival of substantive information, not by page count, polish or confidence. Every meaningful Governance element should have an explicit architectural fate.**
 
-<!-- BEGIN V2.1 SOURCE RECOVERY SECTION 22 CH213 -->
-### Chapter 213 — Recovered cross-source governance interface
+## 213.14 Recovered cross-source governance interface
 
 **Source basis:** V1 Governance Component Recovery Map §§1–8; Constitutional Emergency V2 Chapters 249–250.
 
 The V1 recovery map G-R01–G-R15 and adaptive GTP components are recovery obligations, not completion certification. Source labels, simulations and source-survival audits do not establish final adoption. Incorporate omitted provisions into their chapters with local flags. **[LOCAL ISSUE:]** Exhaustive cross-version coverage.
-<!-- END V2.1 SOURCE RECOVERY SECTION 22 CH213 -->
 
-<!-- BEGIN V2.1 ADVERSARIAL RECOVERY CH213 -->
-### Chapter 213 — Adversarial source-survival status
+
+
+## 213.15 Adversarial source-survival status
 
 **Audit source:** BCA Adversarial Audit §§48–55; Triadic Epistemics Direct Adversarial Audit §§157–166 (historical adversarial evidence, not adopted law).
 
 The BCA audit examined 100 attacks and concluded the operator survived only in refined form, not as a self-sufficient theory of legitimacy. The Triadic Epistemics audit found no fatal logical contradiction but called for simulation of false independence, 2-of-3 and cross-layer capture, participant manipulation, overload and minority invisibility before any canonical claim. These are historical audit conclusions, not implementation validations. **[LOCAL ISSUE:]** audit-to-clause completeness and owner testing.
-<!-- END V2.1 ADVERSARIAL RECOVERY CH213 -->
 
-<!-- BEGIN V2.1 AUDIT SERIES RECOVERY CH213 -->
-### Chapter 213 — Adversarial research status and unresolved meta-authority
+
+
+## 213.16 Adversarial research status and unresolved meta-authority
 
 **Audit source:** Authority Justification Chain Audit §§28–32; Epistemic Independence Audit §§38–54; Integrated Threat-Governance Loop Audit §§31–43 (historical adversarial evidence; not adopted law).
 
 The Authority Justification Chain audit finds transitions T1–T6 survive only with qualifications, while T7 meta-authority remains unresolved. The epistemic audit preserves non-sovereignty only with privacy minimisation, provisional finality and contestable triage. The integrated threat loop remains vulnerable to epistemic monopoly, aggregate authority accumulation and temporal manipulation. None of these audits constitutes implementation validation or constitutional adoption. **[LOCAL ISSUE:]** source-to-clause traceability and owner validation.
-<!-- END V2.1 AUDIT SERIES RECOVERY CH213 -->
+
+
 
 # Chapter 214 — Interim Reconstruction Status
 
@@ -843,13 +843,13 @@ The next major work should include:
 
 > **The Governance reconstruction is now broad enough to function as a serious source-preserving constitutional architecture, but breadth must not be mistaken for completeness or validation. Its next test is whether every source idea survived and whether the resulting mechanisms remain coherent when confronted with neighbouring Concord systems and adversarial failure.**
 
-<!-- BEGIN V2.1 EMERGENCY SOURCE RECOVERY CH214 -->
-### Chapter 214 — Source-complete is not implementation-complete
+## 214.8 Source-complete is not implementation-complete
 
 **Recovered source:** Constitutional Emergency V2 Chapters 249–260 and Current Status; V1 Governance Component Recovery Map §8.
 
 A preserved historical source and a working integration manuscript may both be substantial without being validated. Distinguish source recovery, clause incorporation, cross-system reconciliation, owner implementation, adversarial test and constitutional adoption. No 'canonical' label or successful prototype silently passes a later gate. Emergency preservation reconstruction itself states source-survival audit to its then-current standard but not empirical validation. **[LOCAL OPEN:]** exhaustive chapter-by-chapter source traceability, versioned conflict disposition and owner evidence.
-<!-- END V2.1 EMERGENCY SOURCE RECOVERY CH214 -->
+
+
 
 # Chapter 215 — Interim Closing Statement
 
