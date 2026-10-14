@@ -159,8 +159,7 @@ It may reflect judgement that another mechanism is:
 
 An office's prior usefulness does not establish its current necessity. Periodically re-evaluate whether the original civil problem persists, the function is still required, ordinary consent or alternate means suffice, and the mandate remains proportionate. When function ends, function-derived authority ends; a new function needs fresh justification. **[LOCAL ISSUE:]** independent sunset trigger, surviving duties and institutional wind-down.
 
-
-
+## 201.15 — Existing lifecycle and responsibility-continuity interfaces
 # Chapter 202 — Governance and Self-Restraint
 
 ## 202.1 Power That Can Decline to Act
