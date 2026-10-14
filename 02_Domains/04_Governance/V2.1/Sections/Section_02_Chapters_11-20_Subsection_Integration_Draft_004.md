@@ -427,6 +427,11 @@ It is to make constitutional velocity visible.
 
 # Chapter 12 — Managing Governance Work
 
+### 12.0b Expanded-decision record and finite continuation
+
+An expanded governance decision must record the originating GTP spatial address and operational scale; legitimate scope and reason for expansion; constituent group membership, individual eligibility, independence and conflicts; each constituent F/A/U result; final virtual-triad result; abstention and Unresolved causes; minority reasoning; authority basis; affected contexts; implementation boundaries; finite stopping rule, expiry/sunset and review route. Recursive expansion is not a method for seeking a preferred result: absent a lawful decision at the authorised boundary, record non-authorisation and refer only through independently legitimate continuity mechanisms. Different regions confronting a common hazard may share evidence and resources while retaining distinct lawful local policy decisions.
+
+
 ## 12.0 Consolidated triadic governance working rule
 
 **Status:** Working V2.1 consolidation of previously incorporated material, not final constitutional adoption. Superseded V2 wording is preserved in the original V2 document rather than repeated here. The working rule reflects the latest incorporated authorial distinctions; unresolved source issues remain locally flagged.
