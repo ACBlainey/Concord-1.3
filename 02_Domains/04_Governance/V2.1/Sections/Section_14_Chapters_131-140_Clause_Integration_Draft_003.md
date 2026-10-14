@@ -689,8 +689,7 @@ The current authorial vocabulary calls a shared abstract GTP corner a **node** (
 <!-- END V2.1 SOURCE RECOVERY 2026-10-13 CHAPTER 132 -->
 
 
-<!-- BEGIN V2.1 GTP SOURCE FULL INCORPORATION CH132 -->
-### Chapter 132 — Persistent GTP geometry and concurrent governance activation
+## 132.13 Persistent GTP geometry and concurrent governance activation
 
 **Incorporated source:** `02_Domains/04_Governance/GTP Spatial Triadic Governance — V1.2 Architecture Recovery 001.md`, authorial clarifications of 10 October 2026 and recovered V1–V1.2 geometry.
 
@@ -703,7 +702,8 @@ A change in active governance resolution does **not** create, destroy, subdivide
 **Mesh coordination:** A problem may call for lateral coordination, cross-resolution coordination, functional referral, constitutional review or separately authorised expansion of authority. These are distinct events. Geometric adjacency, containment and overlap do not confer permissions or political supremacy. Identify each affected mandate, material consequence area, participant standing, domain competence and implementation owner.
 
 **[LOCAL OPEN ISSUES:]** Numeric workload thresholds and persistence windows; asymmetric activation across four child contexts; Steward selection/allocation and officeholder continuity on reallocation; handling mesh seams and mixed-resolution node incidence; independent cross-context consent and anti-capture checks. These do not delay incorporation of the persistent-lattice, simultaneous-scale and nonhierarchical architecture.
-<!-- END V2.1 GTP SOURCE FULL INCORPORATION CH132 -->
+
+
 
 # Chapter 133 — Governance and Mars
 
