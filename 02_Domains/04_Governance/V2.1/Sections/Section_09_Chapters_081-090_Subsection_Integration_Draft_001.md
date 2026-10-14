@@ -821,6 +821,14 @@ Its purpose is to address failure of the reviewing architecture itself.
 A review may examine validity, rights, evidence, implementation and remedy without altering the historical official vote. If new action is justified it needs its own authority and event. Judiciary review, governance correction and Historical custody have distinct functions. **[LOCAL ISSUE:]** review competence and remedies.
 <!-- END V2.1 CROSS SOURCE DETAIL CH83 -->
 
+<!-- BEGIN V2.1 AUDIT SERIES RECOVERY CH83 -->
+### Chapter 83 — Bounded epistemic appeal and provisional finality
+
+**Audit source:** Epistemic Independence Adversarial Audit §§38,45–46 (historical adversarial evidence; not adopted law).
+
+The epistemic adversarial audit proposes CH-0 authenticity through CH-8 authority-consequence challenge classes, and a bounded appeal sequence: initial assessment, material challenge, independent reconsideration, provisional finality, later reopening for new material evidence or process failure. Contestability is not veto or indefinite delay. **[LOCAL ISSUE:]** appeal thresholds, reviewer independence and privacy.
+<!-- END V2.1 AUDIT SERIES RECOVERY CH83 -->
+
 # Chapter 84 — Complaints
 
 ## 84.1 Complaint Mechanisms
