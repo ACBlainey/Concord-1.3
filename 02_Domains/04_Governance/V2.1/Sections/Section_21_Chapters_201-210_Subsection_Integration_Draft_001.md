@@ -1035,6 +1035,14 @@ Therefore:
 
 > **Governance is temporary stewardship between an inherited past and an uncertain future. Stewards should preserve valuable capability, correct inherited failure, make long-term costs visible, protect future optionality where proportionate and avoid treating either history or imagined future generations as sources of unlimited present authority.**
 
+<!-- BEGIN V2.1 BCA SOURCE CH206 -->
+### Chapter 206 — Emergency access and contextual closure
+
+**Source basis:** Bounded Contextual Authority §§2.3,2.5,9–12.
+
+Emergency entry and protected-space transit are limited to the necessary protective function. Neither authorises unrelated records access or continued presence after the condition ends. Later work requires its own justification. **[LOCAL ISSUE:]** access enforcement and safe exit.
+<!-- END V2.1 BCA SOURCE CH206 -->
+
 # Chapter 207 — Provisional Governance Kernel
 
 The Governance architecture reconstructed so far can be represented as:
