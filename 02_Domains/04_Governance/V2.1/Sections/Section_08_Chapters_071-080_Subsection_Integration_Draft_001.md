@@ -2445,6 +2445,14 @@ An emergency should not permanently collapse Governance into only the immediate 
 The variable Civilisation Clock orders ordinary governance transitions but cannot be assumed to tick during emergencies. Record ageing and unresolved duration; priority classes affect order, not substantive vote weight. Urgent operations need independently progressing time and bounded state-machine activation; repeated deferral cannot indefinitely silence unpopular matters. **[LOCAL ISSUE:]** operational timer, urgency evidence, priority ageing and resumption reconciliation.
 <!-- END V2.1 SOURCE DEEPENING CH78 -->
 
+<!-- BEGIN V2.1 AUDIT SERIES RECOVERY CH78 -->
+### Chapter 78 — Preparation lead time and temporal capture
+
+**Audit source:** Integrated Threat-Governance Loop Adversarial Audit §§32–41 (historical adversarial evidence; not adopted law).
+
+Long-horizon threats may require preparation before visible harm; a claimed lead time can also be manipulated to justify premature or enduring exceptional power. Preserve horizon, confidence, preparation time, current action value and alternatives. Capability preparation does not automatically authorise coercion. **[LOCAL ISSUE:]** independent lead-time verification and clock interfaces.
+<!-- END V2.1 AUDIT SERIES RECOVERY CH78 -->
+
 # Chapter 79 — Reversibility and Optionality
 
 ## 79.1 Preserving Options
