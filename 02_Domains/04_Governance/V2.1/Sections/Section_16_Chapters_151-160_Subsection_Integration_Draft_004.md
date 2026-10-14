@@ -4,6 +4,13 @@
 
 # Chapter 151 — Governance and Federation
 
+### 151.V21 — Spatial mesh and bounded competence interface
+
+Institutional federation and GTP's geometric mesh are distinct. Lawful federal competences may be exclusive, shared, advisory or coordinated, but geometric parent/child triangles alone create no chain of command. Concurrent spatial resolutions can support federation without implying institutional superiority. In overlapping decision fields, establish the lawful competence basis before any aggregation. An authorised virtual triad aggregates three constituent results, not all neighbouring regions' independent political choices.
+
+**Open issue:** reconcile the older 'nested governance' language with genuine lawful delegation, without mistaking geometric nesting for institutional hierarchy.
+
+
 ## 151.1 Nested Governance
 
 A federation may combine:
