@@ -412,6 +412,14 @@ Secret surveillance may require stronger independent review precisely because or
 Verifying whether contextual authority remains valid does not authorise universal participant tracking. BCA-R8 explicitly rejects this inference. Use proportionate state evidence, event receipts, scoped inspection and independent review; accept that uncertainty may require bounded temporary safeguards rather than continuous observation. **[LOCAL ISSUE:]** privacy-preserving completion attestations.
 <!-- END V2.1 ADVERSARIAL RECOVERY CH112 -->
 
+<!-- BEGIN V2.1 CITIZEN ID AUDIT CH112 -->
+### Chapter 112 — Identity-linked surveillance and log minimisation
+
+**Audit source:** Citizen ID Threat, Privacy and Misuse Audit §§6–9,13–15,32–35 (historical research evidence; not adopted law).
+
+Resolver access, delivery receipts, fraud monitoring and oversight logs can each become a covert participant-location or association database. Separate reachability from location; query access must have purpose, bounded scope, provenance and independent review. Potential future usefulness is not justification for indefinite collection. Even oversight records should minimise private content. **[LOCAL ISSUE:]** retention, participant notice and protected exceptional disclosure.
+<!-- END V2.1 CITIZEN ID AUDIT CH112 -->
+
 # Chapter 113 — Security Classification and Secrecy
 
 ## 113.1 Legitimate Secrecy
