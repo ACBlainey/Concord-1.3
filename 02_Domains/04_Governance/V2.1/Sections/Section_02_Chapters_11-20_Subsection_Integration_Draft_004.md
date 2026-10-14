@@ -427,6 +427,11 @@ It is to make constitutional velocity visible.
 
 # Chapter 12 — Managing Governance Work
 
+### 12.0d Analogy boundary and review separation
+
+The three rooms, cases, combinations, hammers and seventh digit are explanatory analogies, not physical implementation requirements. Implement independent bounded Steward authority, authenticated one-use vote commitment, minimal owner-authorised count projection, separate contextual acceptance, independent review and separately authorised host execution. Validate these actual interfaces rather than toy locks. Two matching substantive ballots determine a result without automatically consuming the third Steward's remaining vote authority. A post-commit concern is append-only, not ballot revocation; alleged invalidity requires separate adjudication preserving original evidence. Replacement decisions need new identities and authority. An unexercised execution grant may expire independently without altering a committed ballot. Fixture demonstrations do not establish deployed security or reliable authenticated projections.
+
+
 ### 12.0c Anonymous commitment count and contextual conference boundaries
 
 An optional seventh informational digit displays only the number (0, 1, 2 or 3) of distinct official Steward positions that have committed a ballot. For, Against and Abstain each increment it once. It is not a lock input, authority gate, decision result, identity disclosure or permission to execute. The count must derive from protected owner-verified commitments rather than a caller-supplied value; duplicate delivery cannot increment it twice. A later concern or independent invalidity adjudication is a separate append-only event, not retroactive deletion of the original commitment. Stale, unavailable or delayed display cannot prevent another Steward from opening their independently valid decision context or committing a lawful vote. Timing, ordering and metadata must not reveal protected identity or ballot content through the projection.
