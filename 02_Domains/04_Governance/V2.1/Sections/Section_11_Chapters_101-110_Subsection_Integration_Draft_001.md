@@ -394,6 +394,14 @@ Restricted knowledge should still retain provenance and review where appropriate
 
 > **The Concord Library should preserve the constitutional, evidential and developmental memory of civilisation with clear status, versioning and provenance so current Governance remains distinguishable from historical architecture without erasing the path by which current understanding emerged.**
 
+<!-- BEGIN V2.1 TRIADIC EPISTEMICS CH103 -->
+### Chapter 103 — Anomaly classification and local verification
+
+**Source basis:** Triadic Epistemics — Recursive GTP Mesh §§31–32 (candidate research).
+
+The recursive epistemic mesh proposes EA-1 civil reality, EA-2 measurement, EA-3 cross-channel, EA-4 spatial, EA-5 scale, EA-6 dependency, EA-7 institutional, EA-8 security, EA-9 temporal and EA-10 unknown anomalies. Candidate verification checks raw data, sensor health, calibration, definitions, software, dependencies, formal channels, participant evidence and cross-scale/functional comparisons, proportionate to consequence. Classification diagnoses uncertainty, not guilt or governing authority. **[LOCAL ISSUE:]** owner routing and independent checks.
+<!-- END V2.1 TRIADIC EPISTEMICS CH103 -->
+
 # Chapter 104 — Governance and Civilisational Memory
 
 ## 104.1 Memory Beyond Documents
