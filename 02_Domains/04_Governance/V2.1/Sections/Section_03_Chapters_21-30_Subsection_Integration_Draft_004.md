@@ -1225,6 +1225,15 @@ Degradation should not become elimination.
 
 # Chapter 28 — Emergency Succession
 
+### 28.V21a Independent emergency time and state-machine reconciliation
+
+The Civilisational Clock is a variable-duration dependency and scheduling architecture, not a continuously advancing timer. It may pause awaiting feedback. Threat observation, classification, lawful declaration, individual power activation, operational decisions and effects, independent expiry, restoration and remedy must be represented as distinct events; none is automatically the authority for another. Emergency detection, legitimate activation, operational response, monitoring, deadlines, sunset and review must remain possible through independently resilient operational time while the Clock is paused. Clock independence removes no legal authority, necessity, proportionality, rights or consent requirement, and resumption cannot reactivate expired emergency power.
+
+Constitutional Emergency and relevant domain owners determine legitimate states and powers. Existing state machines and BTA coordinate asynchronous transitions, surviving duties, dependency references, unresolved states and non-propagation; they do not mint authority or force the Clock to advance. Emergency classification does not automatically activate powers or raise a GTP spatial rank. Emergency termination does not extinguish continuing review, remedy and recovery; ending a restriction does not prove restoration of the earlier physical state. At Clock resumption, any queued ordinary action must recheck current owner prerequisites and route stale or inconsistent cases through existing bounded transition and review mechanisms, not execute under obsolete evidence. Operational timestamps may later be correlated with Clock states without rewriting history.
+
+**Open implementation questions:** independent time-source resilience, declaring institutions and thresholds, extensions and sunset enforcement, degraded judicial review, and cross-system dependency reconciliation.
+
+
 ### 28.V21 — Position-specific succession and mesh continuity
 
 An unavailable or compromised Steward may be replaced only through a pre-authorised succession mechanism for the specific decision position. Parallel Stewardship is advisory and confers no automatic succession or voting entitlement. A six-Steward GTP vertex represents potential roles, not a universal succession list. Every exceptional appointment must document its cause, position, eligibility and competence, independence and conflicts, jurisdiction, duration, expiry and ordinary-office restoration.
