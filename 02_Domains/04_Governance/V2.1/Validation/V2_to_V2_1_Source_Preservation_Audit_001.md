@@ -36,3 +36,9 @@
 ## Targeted boundary check — 16 October 2026
 
 Original V2 terminal headings compared with V2.1: Chapter 1 ends at original §1.22, Chapter 4 at §4.6, Chapter 7 at §7.11, and Chapter 9 at §9.52. V2.1 adds Chapter 1 §1.23 (authority lifecycle), Chapter 4 §4.7 (aggregate authority), Chapter 7 §7.12 (differentiated accountability), and Chapter 9 §9.53 plus an introductory §9.0a (isolated voting and substitution). The added Chapter 1 heading had incorrectly duplicated original §1.21; corrected to §1.23 in commit `d20481c`. Original source clauses still require exact-text preservation verification; this check is not a certification.
+
+## Distributed exact-phrase source retention check — 16 October 2026
+
+A targeted comparison used **27 distinct original V2 phrases** selected across Chapters 1–10 (not merely chapter titles), including the original opening, middle and terminal portions of Chapters 1–9 where possible. All 27 exact strings occur within their **corresponding V2.1 chapter**, not only elsewhere in the document. Per-chapter matches: Ch1 5/5, Ch2 4/4, Ch3 2/2, Ch4 3/3, Ch5 3/3, Ch6 2/2, Ch7 3/3, Ch8 2/2, Ch9 2/2, Ch10 1/1. This confirms **sampled retention**, not exhaustive paragraph or clause survival. Chapter 1's duplicate §1.21 heading has separately been corrected to §1.23. Original V2 source unchanged.
+
+**Authority status:** Governance V2.1 is the intended master and its settled rules are operative once textual conflicts and wording are corrected. This audit's unfinished preservation work does not make those rules provisional. G-024 remains open until full source comparison.
