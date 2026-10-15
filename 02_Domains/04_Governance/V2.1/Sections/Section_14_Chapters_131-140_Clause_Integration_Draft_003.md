@@ -2226,7 +2226,7 @@ Any such arrangement requires an independently valid lawful basis and relevant c
 
 The “lowest capable legitimate decision field” is a default subsidiarity preference, **not an absolute bar** to a lawfully authorised cross-scale task arrangement. A wider coordination role may be useful without displacing local lawful competence. The author has intentionally left when, how and at what scale such an arrangement might be used undefined; no generic command chain, hierarchical escalation trigger or appointment method should be inserted now.
 
-**Clause disposition pending:** Keep §§132.1, 132.2, 132.4, 132.5 and 132.12 old and recovered wording visible; at final assembly reconcile the obsolete optional-use framing and categorical nonhierarchy language against the adopted conceptual mesh **with optional bounded hierarchical coordination**. Do not treat the new flexibility as retroactive authorisation for any existing command relationship.
+**Clause disposition for V2.1 integration:** §§132.1, 132.2, 132.4, 132.5 and 132.12 above now express the operative adopted, always-present conceptual mesh, constitutional independence, simultaneous resolutions, and separately authorised bounded coordination. The older optional-use and territorial-command interpretations remain in preserved V2/source records as historical evidence, **not parallel operative rules**. A lawful purpose-specific coordination hierarchy is possible only under independently established competence; geometry itself supplies none. Final source-to-clause provenance verification and authorial graduation remain separate manuscript tasks.
 
 
 
