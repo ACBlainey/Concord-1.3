@@ -145,7 +145,7 @@ The principle is:
 
 
 <!-- V2.1 INTEGRATION 2026-10-13: AUTHORIAL SOURCE RECONCILIATION; DEVELOPMENTAL; REVERSIBLE -->
-## 151.x — V2.1 integration: federated coordination and bounded authority
+## 151.14 Federal conference and distinct authority classes
 
 Conference and federation are not synonyms. Information sharing, voluntary coordinated execution, binding common competence and emergency preservation require distinct legitimacy checks. Expanded virtual-triad arithmetic does not create federal jurisdiction. Each owner retains authority, expiry, review and remedy boundaries. See Integrations 051–052 and 123.
 
