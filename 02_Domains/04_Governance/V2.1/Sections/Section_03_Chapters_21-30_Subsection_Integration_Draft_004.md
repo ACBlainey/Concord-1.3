@@ -1407,7 +1407,7 @@ Relevant questions include:
 - Did the actor attempt reconciliation when communication returned?
 
 
-<!-- V2.1 INTEGRATION 2026-10-13: AUTHORIAL SOURCE RECONCILIATION; DEVELOPMENTAL; REVERSIBLE -->
+
 ## 28.8 Succession, conference and committed ballots
 
 A substitute occupies one lawfully vacant bounded decision position, not an additional vote. A conference cannot create a vacancy, reverse a committed ballot, select a substitute without lawful eligibility and selection, or grant a fresh mandate. Recusal and proven unavailability must be distinguished from valid abstention; the latter is not automatically vacancy. The vertex-adjacent and context-controlled fractal candidate pools retain their independently authorised screening, unbiased selection and audit requirements. The late third ballot remains separately recordable while eligible. See Integrations 022, 031, 115 and 121–123.
@@ -1804,7 +1804,7 @@ Preserve original Chapter 28–30 language until detailed clause reconciliation.
 
 For, Against and Abstain are distinct official single-use immutable ballot states. A valid abstention is not a vacancy or a negative vote. Unresolved arithmetic is not automatically emergency authority; emergency preservation needs its own lawful function, minimum scope, independent operational time, expiry, review and restoration. Later concerns or appeals do not reopen the completed decision; any replacement has a new identity and fresh authority. The Civilisation Clock may pause, but independent emergency state machines cannot wait for it. See Integrations 059–060, 115 and 121–123.
 
-### Chapter 30 — Constitutional Emergency V2 rights and restorative limits
+## 30.10 Emergency rights and restorative limits
 
 **Recovered source:** Constitutional Emergency V2, Chapters 91–106, together with Phase D4 §§11–12. Rights remain presumptively active; a threat classification does not itself grant quarantine, evacuation, resource reallocation, surveillance, identity control or triage authority. Each restriction requires its own lawful activation and proportionality/least-interference analysis, affected-holder standing, review and remedy. Scarcity must not reduce equal concern for participants to their productivity or prior contribution; equivalent claims may require fair randomisation under a separately legitimate protocol. Emergency surveillance and identity processing remain purpose-bounded and data-minimising. Emergency exit ends exceptional authority but not surviving custody, correction, compensation or restoration duties. **Unresolved:** exact lawful rights limitation thresholds, protected data implementations, review routes and substrate-specific protections.
 
