@@ -1470,7 +1470,7 @@ Regulatory architecture should preserve independent evidence where practical.
 
 # Chapter 149 — Governance and Decentralisation
 
-### 149.V21 — Spatial mesh and bounded competence interface
+## 149.16 Spatial mesh, workload allocation and authority limits
 
 The lowest capable legitimate decision field is selected by consequences, competence, rights, resources and jurisdiction, not GTP triangle size. All finer and coarser GTP spatial subdivisions conceptually exist simultaneously; operational activation or subdivision changes workload allocation, not the underlying mesh or constitutional rank. Multiple resolutions and overlapping decision fields may operate concurrently with explicit authority boundaries. Workload-driven reassignment should employ hysteresis to prevent oscillation.
 
@@ -1689,7 +1689,7 @@ Neighbouring GTP regions may confer to share information without merging jurisdi
 
 # Chapter 150 — Governance and Central Coordination
 
-### 150.V21 — Spatial mesh and bounded competence interface
+## 150.11 Shared externalities and common decision competence
 
 Distinguish information exchange, coordination of shared logistics, independently authorised local policy and a separately authorised common decision on indivisible externalities. A four-to-one preference among affected regions does not authorise four regions to govern the fifth. Shared evacuation corridors, flood infrastructure and scarce common resources may nevertheless justify a properly constituted common decision with bounded scope and rights protections. A coarser GTP coordination field does not thereby become a central executive.
 
