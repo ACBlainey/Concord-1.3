@@ -20,7 +20,7 @@ The objective is not merely hierarchy.
 
 It is allocation of responsibility across scales.
 
-### V2.1 — Federation Is Not Geometric Hierarchy
+### Federation Is Not Geometric Hierarchy
 
 Lawful federal delegation, priority and concurrent jurisdiction derive from constitutional provisions, not GTP cell containment. A larger triangle has no inherent supervisory authority over a smaller one. The spatial mesh may coordinate across scales while legally established federated offices retain their separately defined powers. Spatial parent/child and institutional superior/subordinate must not be conflated.
 
