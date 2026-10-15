@@ -70,6 +70,10 @@
 **Important distinction:** These authorial directions settle their stated principles. They do not implicitly settle constitutional quorum, appointment, authenticated authority or implementation validity.
 
 
+## 15 October 2026 — Chapter 12 / 132 operative conflict cleanup
+
+A further clause-level scan found seven Chapter 12 passages still reproducing the superseded 12 October provenance-only/two-holder or ordinary urgency exception interpretation, and two Chapter 132 passages requiring three-ballot/Clock clarification. These were corrected in-place without deleting supporting architecture or the preserved V2 source. The 12 October comparison remains labelled historical, not operative. **G-008, G-009 and G-023 remain partially addressed** pending broader clause-by-clause assembly and source comparison.
+
 ## 15 October 2026 — Deferred design disposition (authorial scope instruction)
 
 **Rule:** Where a working implementation, domain-owned interface or cross-domain service does not yet exist, mark its V2.1 chapter with **ARCHITECTURE TO BE DESIGNED** and the specific design questions. Once recorded, the issue is **resolved for current manuscript-integration work**, not a claim that the future system is designed, tested, authorised or operational.
