@@ -18,9 +18,12 @@ Assign each newly identified issue a permanent sequential identifier: `FI2-001`,
 
 | ID | Type | Exact source locations | Description and unique-material risk | Status |
 |---|---|---|---|---|
-| — | — | — | No conflicts or questionable duplications have yet been registered in this new pass. | — |
+| FI2-001 | Architectural conflict / superseded interpretation | `Outstanding_Issues_Register.md`, G-001 through G-003; `Sections/Section_02_Chapters_11-20_Subsection_Integration_Draft_004.md`, Chapter 12; `Sections/Section_03_Chapters_21-30_Subsection_Integration_Draft_004.md`, Chapters 28–30; `Sections/Section_06_Chapters_051-060_Subsection_Integration_Draft_004.md`, Chapter 54 | Older register asserts two matching votes settle ordinary decisions before the third vote, while later authorial clarification requires all three selected stewards to cast final votes for ordinary outcomes, with two sufficient only for emergency action. Compare actual chapter provisions and distinguish decision majority, vote completion, and emergency execution; preserve unique reasoning. | Needs source comparison |
 
 ## Reconciliation log
+
+- 2026-10-15: Reviewed V2.1 README, Change Register, G05 integration/graduation register, G05 source-to-rule map, G05 architecture and Outstanding Issues Register. Shifted audit from literal matches to substantive architectural overlap and contradictions. FI2-001 opened as a candidate requiring chapter-level verification. No substantive architecture changed.
+
 
 - 2026-10-15: Register established as a clean, separate workspace. Existing earlier issue registers are unchanged. Section 22's prior exact-line source-preservation comparison reported zero missing non-empty lines; this is not a semantic duplication/conflict clearance.
 
