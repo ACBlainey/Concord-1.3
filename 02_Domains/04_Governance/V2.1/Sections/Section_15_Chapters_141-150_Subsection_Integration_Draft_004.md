@@ -1470,12 +1470,6 @@ Regulatory architecture should preserve independent evidence where practical.
 
 # Chapter 149 — Governance and Decentralisation
 
-## 149.16 Spatial mesh, workload allocation and authority limits
-
-The lowest capable legitimate decision field is selected by consequences, competence, rights, resources and jurisdiction, not GTP triangle size. All finer and coarser GTP spatial subdivisions conceptually exist simultaneously; operational activation or subdivision changes workload allocation, not the underlying mesh or constitutional rank. Multiple resolutions and overlapping decision fields may operate concurrently with explicit authority boundaries. Workload-driven reassignment should employ hysteresis to prevent oscillation.
-
-**Open issue:** establish workload/hysteresis metrics and accountability on reassignment without treating coverage as legitimacy.
-
 
 ## 149.1 Decentralisation as a Means
 
@@ -1687,13 +1681,13 @@ Governance should therefore observe practical concentration over time.
 
 Neighbouring GTP regions may confer to share information without merging jurisdictions. Voluntary contributions remain within each owner's mandate; binding common action requires separately established shared competence. Neither attendance nor majority preference can bind an independent nonparticipant. See Integrations 051–052 and 123.
 
+## 149.16 Spatial mesh, workload allocation and authority limits
+
+The lowest capable legitimate decision field is selected by consequences, competence, rights, resources and jurisdiction, not GTP triangle size. All finer and coarser GTP spatial subdivisions conceptually exist simultaneously; operational activation or subdivision changes workload allocation, not the underlying mesh or constitutional rank. Multiple resolutions and overlapping decision fields may operate concurrently with explicit authority boundaries. Workload-driven reassignment should employ hysteresis to prevent oscillation.
+
+**Open issue:** establish workload/hysteresis metrics and accountability on reassignment without treating coverage as legitimacy.
+
 # Chapter 150 — Governance and Central Coordination
-
-## 150.11 Shared externalities and common decision competence
-
-Distinguish information exchange, coordination of shared logistics, independently authorised local policy and a separately authorised common decision on indivisible externalities. A four-to-one preference among affected regions does not authorise four regions to govern the fifth. Shared evacuation corridors, flood infrastructure and scarce common resources may nevertheless justify a properly constituted common decision with bounded scope and rights protections. A coarser GTP coordination field does not thereby become a central executive.
-
-**Open issue:** specify material-externality thresholds and the lawful common-decision forum without requiring uniform local policies.
 
 
 ## 150.1 Legitimate Central Functions
@@ -1836,3 +1830,9 @@ A conference across GTP scales or neighbouring jurisdictions may support evidenc
 ## 150.y — Existing cross-boundary recognition and voluntary coordination interface
 
 Use the existing Concord **Cross Boundary Externality Recognition** portable module (§§15–17) to distinguish a detected cross-cell consequence from a lawful shared decision forum. Its classifications include internal, shared/agreed, overlapping, disputed, absent and unknown authority; voluntary coordination and optional mediation remain available without inventing a central office. Where no shared authority exists, affected actors may take separately lawful bounded actions or coordinate effects voluntarily (**PARALLEL-VOLUNTARY-COORDINATION**). A binding shared action requires an independently legitimate competence instrument, current permission and appropriate standing for affected parties; the GTP spatial mesh supplies location/scale information, not a higher government. Scope may expand only on evidenced material dependencies, with recorded expansion and standing. **[LOCAL ISSUE — FI-060, FI-062, FI-063:]** shared-competence instrument, externality thresholds, conflicting owner remedies and third-party withdrawal effects require constitutional determination.
+
+## 150.11 Shared externalities and common decision competence
+
+Distinguish information exchange, coordination of shared logistics, independently authorised local policy and a separately authorised common decision on indivisible externalities. A four-to-one preference among affected regions does not authorise four regions to govern the fifth. Shared evacuation corridors, flood infrastructure and scarce common resources may nevertheless justify a properly constituted common decision with bounded scope and rights protections. A coarser GTP coordination field does not thereby become a central executive.
+
+**Open issue:** specify material-externality thresholds and the lawful common-decision forum without requiring uniform local policies.
