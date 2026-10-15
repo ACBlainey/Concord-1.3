@@ -1414,7 +1414,7 @@ Expanded origin-excluded and origin-included constituent forms, nine-person dist
 
 **Jurisdiction and degraded operation:** spatial, functional, digital, population, resource and temporal competence may overlap. A GTP triangle is a spatial reference, not comprehensive sovereignty or political hierarchy. Residence, work, property, infrastructure dependency and external effects may each confer affected standing. Failing, captured, isolated or vacant forums may request lawful neighbouring coordination, bounded substitution, independent review and continuity support, never automatic transfer of their mandate. Historical custody preserves evidence, dissent, authority, effect and later corrections as linked events without rewriting the original. **[LOCAL ISSUE:]** recovery/rotation triggers, successor appointment, degraded-mode thresholds and owner attestations require validation.
 
-## 12.0m — Existing owner interfaces for committed decisions
+## 12.27 Existing Owner Interfaces for Committed Decisions
 
 The governance decision record and its lawful host effect are separate state transitions. The decision owner must record forum identity, competence, distinct authorised positions, event-bound official ballots, determinacy, validity, outstanding provenance and effect status. The implementation owner must independently verify live mandate, dependencies, rights limits, effective-time conditions and expiry before consequential commitment. A determined majority is not a host-execution instruction; an acknowledgement is not a fresh mandate. Partial or unknown acknowledgement requires evidence-based reconciliation rather than blind retry or a second vote event.
 
