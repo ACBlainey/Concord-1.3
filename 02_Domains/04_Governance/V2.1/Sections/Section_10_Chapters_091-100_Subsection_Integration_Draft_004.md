@@ -1157,18 +1157,6 @@ A primary Steward may miss:
 
 Parallel analysis increases the probability that such weaknesses become visible before decision.
 
-## 100.3 Advisory Status
-
-Parallel Stewards should not silently become the actual decision-makers merely because primary stewards routinely follow their advice.
-
-Repeated acceptance may reflect high-quality advice.
-
-It may also create de facto authority.
-
-The formal decision authority should remain visible.
-
-
-<!-- BEGIN V2.1 INTEGRATED 100.3 — RECONCILED CANDIDATE 005 VERBATIM -->
 
 ## 100.3 Advisory Status
 
@@ -1184,7 +1172,6 @@ The formal decision authority should remain visible.
 
 Parallel Stewardship supplies independent constitutional reasoning, scrutiny and challenge. It does not by itself create an extra voting position, succession entitlement or emergency executive power. A Parallel Steward may serve in another capacity only after separately valid, independently reviewable appointment with explicit eligibility, identity, competence, scope and expiry. Advisory agreement or disagreement is not a constituent or virtual-triad vote.
 
-<!-- END V2.1 INTEGRATED 100.3 — CANDIDATE 005 -->
 ## 100.4 Independent Reasoning
 
 Parallel Stewards should reason independently before comparison where practical.
@@ -1270,7 +1257,6 @@ High-consequence decisions may justify substantial redundancy.
 
 > **Parallel Stewardship provides independent advisory reasoning to expose alternative interpretations, evidence and failure modes without silently acquiring executive authority. Its value depends upon meaningful independence rather than the mere existence of multiple advisers.**
 
-<!-- BEGIN V2.1 STEWARDSHIP LIFECYCLE CROSS-CHAPTER ALIGNMENT 2026-10-12 — Chapter 100 -->
 
 ### Chapter 100 — Parallel Steward provenance and ascension interface
 
@@ -1280,17 +1266,13 @@ High-consequence decisions may justify substantial redundancy.
 
 Chapters 28–30 govern emergency succession, degraded triads and deadlock; this chapter supplies advisory reasoning, not the emergency mandate. Any appointment or acting status must have independently established selector, authority, term, conflict checks and expiry. See `03_Cross_Domain_Architecture/Stewardship_Selection_and_Allocation/README.md` §§10–13.
 
-<!-- END V2.1 STEWARDSHIP LIFECYCLE CROSS-CHAPTER ALIGNMENT 2026-10-12 -->
 
 
 <!-- V2.1 INTEGRATION 2026-10-13: AUTHORIAL SOURCE RECONCILIATION; DEVELOPMENTAL; REVERSIBLE -->
 ## 100.x — V2.1 integration: parallel Stewardship versus conference and substitution
 
 Parallel Stewardship remains advisory unless independently appointed to a legally vacant official position. A conference does not promote an adviser into a voter, confer jurisdiction or substitute for an auditable GTP candidate selection. A selected substitute holds one decision-specific bounded position, with uniqueness and conflict checks across the entire decision event. Existing committed ballots cannot be displaced. See Integrations 022, 031 and 123.
-<!-- END V2.1 INTEGRATION 2026-10-13 -->
 
-<!-- BEGIN V2.1 CE-V2 EXTENDED RECOVERY CHAPTER 100 -->
 ### Chapter 100 — Emergency oversight, judicial separation and effective remedy
 
 **Constitutional Emergency V2 §§107–130:** Emergency secrecy may temporarily delay public disclosure, but must have owner, reason, scope, review/expiry and eventual disclosure criteria; secrecy does not erase evidence or constitutional memory. The Judiciary reviews emergency legality and rights without becoming executive command or resource allocator. Review should remain usable under urgency and avoid paralysis, while retaining procedural fairness. Judicial abstention does not automatically validate executive action. Audit, learning and individual remedy are different functions; a successful emergency outcome does not prove every measure justified. Whistleblowing, dissent and negative evidence must remain protected. Classify error, negligence, recklessness and abuse distinctly. **Open:** emergency court competence, secrecy-wrapper enforcement, access and remedy timescales, protection against retaliatory suppression.
-<!-- END V2.1 CE-V2 EXTENDED RECOVERY CHAPTER 100 -->
