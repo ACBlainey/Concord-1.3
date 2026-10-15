@@ -1800,7 +1800,7 @@ For each triad, F if at least two valid For votes; A if at least two valid Again
 
 Preserve original Chapter 28–30 language until detailed clause reconciliation. Cross-check with V2 Chapters 9, 12, 54, 100, 132, 149–151 and 198. Explicitly define six-Steward vertex eligibility and termination of recursive expansion before graduation.
 
-### Chapters 28–30 — Parallel Steward, vacancy, emergency substitution and restoration interface
+### 30.10.1 Parallel Steward, vacancy, emergency substitution and restoration interface
 
 **Working cross-chapter alignment; independently lawful succession remains mandatory.** Historical holds protected office and decision provenance; Education owns accreditation; participant tier and office-specific checks establish current eligibility. A trained, time-served Parallel Steward may be an appropriate **candidate** for ordinary ascension or a lawful temporary appointment, but experience, shadow votes, proximity, seniority or an apparent need for continuity do not themselves appoint the candidate or confer an official vote. The legitimate selector/appointing authority is not yet finalised.
 
@@ -1812,7 +1812,7 @@ Preserve original Chapter 28–30 language until detailed clause reconciliation.
 
 
 
-### Chapters 28–30 — Emergency vote and separately bounded execution
+### 30.10.2 Emergency vote and separately bounded execution
 
 **Authorial rule (12 October 2026):** Emergency triads exercise lawful **voting authority**, not automatic operational authority over the consequence of their vote. A determined official majority is a decision record for the separately competent implementing owner; the vote itself neither creates an emergency mandate nor transfers executive power to the triad or a substitute voter.
 
@@ -1822,7 +1822,7 @@ Independent emergency timing permits authorised implementers to act without wait
 
 
 
-### Chapters 28–30 — Emergency vote-driven transition, not Steward execution
+### 30.10.3 Emergency vote-driven transition, not Steward execution
 
 **Authorial correction:** A lawful triadic majority changes the relevant decision state **through the authorised state machine**. The voting Stewards do not personally acquire authority to implement the decision. Separately bounded emergency responders may execute consequential operational acts when the resulting state and their independent mandates permit; they do not redecide the valid vote. Distinguish decision-state transition, emergency power-state transition, operational action and restoration. They may have different owners and temporal predicates.
 
@@ -1830,20 +1830,20 @@ A paused Civilisation Clock must not block independent emergency state-machine e
 
 
 
-### Chapters 28–30 — Emergency actions remain bounded by affected systems
+### 30.10.4 Emergency actions remain bounded by affected systems
 
 A valid emergency triadic vote drives its lawful state-machine transition; it does not issue a universal executive authority token. Every affected operational system (such as Health, Utilities, Security or Continuity) determines its own authorised response under its applicable emergency and ordinary bounded-authority rules. A shared emergency decision may cause multiple independently owned operational transitions with different readiness, permission, urgency, expiry and restoration states. BTA records partial completion and residual duties; MKA checks each actual consequential act as appropriate. A paused Civilisation Clock does not stop independently lawful emergency response, but urgency does not dissolve any affected system's constitutional limits.
 
 
 
-### Chapters 28–30 — Emergency decision-dependent routing
+### 30.10.5 Emergency decision-dependent routing
 
 The valid vote determines the relevant decision state; the actual emergency decision then determines what operational consequences, affected systems and bounded authorities must be considered. Do not preassign a universal responder or implementation chain to a decision not yet made. Pre-existing emergency mandates may already identify lawful actors for certain event classes, but those are independently sourced and conditional, not invented by this governance chapter. Urgency permits time-critical lawful routing without waiting for the variable Civilisation Clock; it does not justify assuming an unknown executor or bypassing affected-system authority. Pending owner or consequence resolution must be recorded explicitly and handled under the actual host's emergency rules.
 
 
 
 
-### Chapters 28–30 — Source-verified emergency/Clock/state-machine interface
+### 30.10.6 Source-verified emergency/Clock/state-machine interface
 
 **Status:** Source-preserving V2.1 integration; not an independent constitutional amendment or deployed adapter. **Recovered sources:** `03_Cross_Domain_Architecture/Constitutional_Emergency/Constitutional Emergency V2.md` (emergency authority, preservation, scope and recovery); `02_Domains/04_Governance/V2.1/Integration/G05_Existing_State_Machine_BTA_Clock_Emergency_Interface_060.md` (source crosswalk); `03_Cross_Domain_Architecture/Civilisational_Developmental_Topology/Civilisation Clock Companion Extension 001 - State Functional and Compound Trigger Architecture.md`; `03_Cross_Domain_Architecture/Civilisational_Developmental_Topology/Civilisation Clock Extension 001 — Consequence-Relevant State Transition Layer.md`; and the existing BTA portable module and emergency transition test. The emergency constitution predates the variable Clock; its source silence about Clock advancement must not be treated as permission to block emergency response.
 
@@ -1858,7 +1858,7 @@ The valid vote determines the relevant decision state; the actual emergency deci
 
 
 
-### Chapters 28–30 — Immediate protection, triadic decisions and lawful emergency authority are distinct
+### 30.10.7 Immediate protection, triadic decisions and lawful emergency authority are distinct
 
 **Source-verified correction (12 October 2026; working integration only):** `03_Cross_Domain_Architecture/Constitutional_Emergency/Constitutional Emergency V2.md` Chapters 19–22 distinguish threat recognition, declaration, classification and activation of powers. Chapter 21 says declaration authority must be constitutionally predefined but its institutional mechanism is not yet specified. Chapters 73–78 describe triadic emergency stewardship as the ordinary approach for significant emergency authority **where operational conditions permit**, with independent reasoning, majority action under urgency and subsequent review; Chapter 77 explicitly recognises immediate life-saving action by the actor positioned to act when the available time does not permit extended deliberation. Chapters 82–83 distinguish constitutionally delegated succession from limited, purpose-specific, automatically terminating temporary delegation. Chapters 89–90 allow narrowly bounded automated protective actions but reject treating machine detection as adjudication. Chapters 91–92 separate activation of a particular power from emergency level and require necessity, proportionality, scope, duration and review.
 
@@ -1868,12 +1868,12 @@ The valid vote determines the relevant decision state; the actual emergency deci
 
 
 
-### Chapters 28–30 — Emergency decisions, irreversible history and fresh authority (12 October 2026)
+### 30.10.8 Emergency decisions, irreversible history and fresh authority (12 October 2026)
 
 **Authorial rule:** An emergency decision that has completed its lawful host state-machine transition is a historical event, even if the emergency, consequences, recovery or review remain ongoing. Neither expiry, de-escalation, a later third ballot, new evidence nor a changed emergency classification reopens or rewrites that completed decision. Each later substantive intervention, appeal, remedy, renewal, escalation or changed response is a **new decision instance**, with authority freshly activated under the then-current emergency/ordinary state and its own mandate, identity, scope and limits. An expired power cannot be reactivated by relabelling a previous event. A new lawful decision may change current/future effects or direct restitution without deleting the earlier action's provenance. Independently authorised narrow immediate protective acts remain distinct from triadic decisions, and neither path waits for a paused Civilisation Clock. Technical delivery retries for an unfinished action must be idempotent, not new authority. The exact host event and authority-activation interfaces remain to be validated; no additional power is created here.
 
 
-### Chapters 28–30 — Emergency decision IDs and non-repeatable resultant actions (12 October 2026)
+### 30.10.9 Emergency decision IDs and non-repeatable resultant actions (12 October 2026)
 
 **Authorial rule:** An emergency decision has its own unique decision identifier and host-owned state-machine lifecycle. Emergency votes and resultant actions are bound to that instance and the applicable position/action state. After a permitted transition, a replayed vote, duplicate command or repeated delivery cannot count again or reproduce a completed action. Multiple independently lawful downstream actions of one decision remain distinguishable by their own action identity and state; asynchronous partial completion does not license re-execution of a completed action. A later emergency change, remedy or renewed response is a new decision instance with a new identifier and freshly activated lawful authority. Emergency event handling, duplicate checks and expiry run independently of a paused Civilisation Clock. Technical requirements for atomic state acceptance and durable receipts remain implementation matters, not new emergency authority.
 
