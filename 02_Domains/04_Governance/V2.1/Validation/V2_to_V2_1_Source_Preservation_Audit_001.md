@@ -32,3 +32,7 @@
 5. **Next required test:** exact normalized text comparison and paragraph-level diff for all ten chapters; classify each non-identical segment as retained, authorially corrected, additive, relocated, unresolved or potentially omitted. Then repeat for Sections 02–22 and earlier historical sources. Preserve the V2 snapshot unchanged.
 
 **Issue linkage:** G-024 (preservation) and G-025 (migration-aware source authority). Any substantive contradiction found during comparison also links to G-023.
+
+## Targeted boundary check — 16 October 2026
+
+Original V2 terminal headings compared with V2.1: Chapter 1 ends at original §1.22, Chapter 4 at §4.6, Chapter 7 at §7.11, and Chapter 9 at §9.52. V2.1 adds Chapter 1 §1.23 (authority lifecycle), Chapter 4 §4.7 (aggregate authority), Chapter 7 §7.12 (differentiated accountability), and Chapter 9 §9.53 plus an introductory §9.0a (isolated voting and substitution). The added Chapter 1 heading had incorrectly duplicated original §1.21; corrected to §1.23 in commit `d20481c`. Original source clauses still require exact-text preservation verification; this check is not a certification.
