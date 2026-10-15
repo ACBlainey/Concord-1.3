@@ -39,7 +39,7 @@ while retaining substantial local autonomy.
 
 ## 151.3 Enumerated Authority
 
-Higher layers may benefit from explicitly enumerated functions rather than presumed unlimited residual authority.
+Where constitutionally established federated institutions exercise wider-scope functions, those functions must be explicitly enumerated rather than inferred from spatial scale or presumed unlimited residual authority. A larger GTP triangle is not, by itself, a higher institutional layer.
 
 This helps preserve local autonomy.
 
@@ -52,7 +52,7 @@ Enumerated authority may include specific responsibility for:
 
 ## 151.4 Local Residual Authority
 
-Functions not legitimately requiring higher coordination may remain local.
+Functions not legitimately requiring wider-scope or shared coordination may remain local. Coordination need not displace local competence even when it is useful.
 
 The final allocation depends upon constitutional design.
 
@@ -75,7 +75,7 @@ Shared competence requires rules for:
 
 ## 151.6 Jurisdiction Conflict
 
-Conflicts between layers require:
+Conflicts between **lawfully constituted institutions or competences** require:
 
 - negotiation;
 - constitutional interpretation;
