@@ -347,7 +347,7 @@ Minority reasoning should still be evaluated substantively.
 
 **Source basis:** V1 Governance Component Recovery Map G-R03,G-R13; Expanded Triadic Governance Reconstruction 001.
 
-Preserve the third Steward's independent reasoning and dissent even after two matching valid official ballots determine the result. Dissent and abstention are evidence about uncertainty, alternatives and governance health, not disloyalty or automatic incompetence. Parallel Stewardship remains advisory absent independent mandate. **[LOCAL ISSUE:]** protected dissent projections and later review.
+Preserve the third Steward's mandatory official ballot, independent reasoning and dissent even after two matching valid official ballots determine the mathematical majority; the ordinary outcome cannot take effect until all three official ballots are received. Dissent and abstention are evidence about uncertainty, alternatives and governance health, not disloyalty or automatic incompetence. Parallel Stewardship remains advisory absent independent mandate. **[LOCAL ISSUE:]** protected dissent projections and later review.
 
 
 
