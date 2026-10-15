@@ -1254,12 +1254,6 @@ The objective is to avoid ambiguity where ambiguity creates dangerous uncertaint
 
 # Chapter 198 — Governance and Jurisdiction
 
-## 198.21 Spatial address, authority and jurisdictional conflicts
-
-A GTP spatial address locates participants and consequences; it does not prove authority or exhaust jurisdiction. Every proposed decision must identify subject, participants, geographic reach, material externalities, time and delegated mandate. Overlapping GTP fields do not merge voting rights. Positive jurisdiction conflicts follow the constitutional conflict procedure, not a presumption that larger triangles outrank smaller ones. Negative conflicts require legitimate referral or bounded coordination rather than improvised general power. Origin-included or origin-excluded expanded triads must establish issue-specific decision authority.
-
-**Open issue:** cross-check §§198.10–198.17 priority, gap and delegation mechanisms before automating any shared-jurisdiction decision rule.
-
 
 ## 198.1 Jurisdiction Defines Where Authority Applies
 
@@ -1564,6 +1558,12 @@ A Steward's attendance at conference does not delegate their jurisdiction or wai
 ## 198.V21b — Existing permission, authority-composition and cross-boundary gates
 
 Jurisdictional overlap must be examined with existing Concord **Fractal Permission Architecture** (bounded participant/action/context/basis/conditions/time), **Multi-Key Authority** (§17: independent authority keys do not automatically compose), and **Cross Boundary Externality Recognition** (§§15–17: material consequence and coordination do not create jurisdiction). Permission, capability, ownership, office and legal authority are distinct. A spatially shared GTP node, an emergency need, a technical dependency or an administrative routing path does not itself create a superior or composite government. A proposed consequential cross-boundary act must identify its real authority sources, current scope, applicable prohibitions, affected parties, legitimate shared or independent route and host commit verification. Unknown or disputed competence remains recorded as such; it is not silently treated as permission. **[LOCAL ISSUE — FI-060, FI-062, FI-076:]** constitutional priority, negative gaps, contested standing and independent remedy paths remain to be settled.
+
+## 198.21 Spatial address, authority and jurisdictional conflicts
+
+A GTP spatial address locates participants and consequences; it does not prove authority or exhaust jurisdiction. Every proposed decision must identify subject, participants, geographic reach, material externalities, time and delegated mandate. Overlapping GTP fields do not merge voting rights. Positive jurisdiction conflicts follow the constitutional conflict procedure, not a presumption that larger triangles outrank smaller ones. Negative conflicts require legitimate referral or bounded coordination rather than improvised general power. Origin-included or origin-excluded expanded triads must establish issue-specific decision authority.
+
+**Open issue:** cross-check §§198.10–198.17 priority, gap and delegation mechanisms before automating any shared-jurisdiction decision rule.
 
 # Chapter 199 — Governance and Cross-System Disagreement
 
