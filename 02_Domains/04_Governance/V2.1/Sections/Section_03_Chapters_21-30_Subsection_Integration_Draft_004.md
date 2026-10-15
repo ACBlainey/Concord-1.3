@@ -701,7 +701,6 @@ A degraded system should instead ask:
 
 Emergency Governance therefore remains Governance under abnormal conditions.
 
-<!-- BEGIN G05 STAGES 070-087 EVIDENCE MAP -->
 
 ## Functional map and evidence status
 
@@ -721,7 +720,6 @@ Emergency Governance therefore remains Governance under abnormal conditions.
 
 All test results are **unit-level fixture evidence**, not end-to-end system certification. See `Validation/README.md` for the register and current CI state.
 
-<!-- END G05 STAGES 070-087 EVIDENCE MAP -->
 
 ### 24.11 Emergency authority envelope and rights continuity
 
@@ -1311,7 +1309,6 @@ Restoration should verify:
 - unresolved conflicts;
 - and the current state of the office.
 
-<!-- BEGIN INTEGRATED G05 GOVERNANCE INTEGRATION 001 — SOURCE TEXT VERBATIM -->
 
 ## Constitutional and architectural invariants
 1. **CAP ≠ PERM ≠ AUTH.** Technical ability, permission and legitimate authority are distinct. No fixture issues authority.
@@ -1336,7 +1333,6 @@ Restoration should verify:
 9. **Audit aggregate control:** Review successive and distributed restrictions across controllers and resolutions, including continuity, concentration and cumulative consequences.
 10. **Close only by authorised evidence:** Preserve original duty provenance and closure audit. Neither retirement, restoration nor elapsed time implies discharge.
 
-<!-- END INTEGRATED G05 GOVERNANCE INTEGRATION 001 -->
 
 ## 28.5 Restoration Addition — No Emergency Inheritance
 
@@ -1593,7 +1589,6 @@ This may create functional degradation without numerical degradation.
 Emergency Governance should therefore consider independence of information as well as number of Stewards.
 
 
-<!-- V2.1 INTEGRATION 2026-10-13: AUTHORIAL SOURCE RECONCILIATION; DEVELOPMENTAL; REVERSIBLE -->
 ## 29.8 Degraded triads and contextual continuity
 
 A degraded triad does not automatically become a conference, an expanded forum or an emergency body. Two independently valid matching official F/A ballots can determine a result without the third occupied position; whether acceptance proceeds early remains context-dependent. An unavailable or recused position can be filled only by separately lawful, bounded substitution. A valid abstention cannot be silently replaced. Remaining voting authority is not consumed by another Steward's commitment or by the count-only projection. See Integrations 031, 048, 110, 121–123.
@@ -1886,4 +1881,3 @@ The valid vote determines the relevant decision state; the actual emergency deci
 **Authorial rule:** An emergency decision has its own unique decision identifier and host-owned state-machine lifecycle. Emergency votes and resultant actions are bound to that instance and the applicable position/action state. After a permitted transition, a replayed vote, duplicate command or repeated delivery cannot count again or reproduce a completed action. Multiple independently lawful downstream actions of one decision remain distinguishable by their own action identity and state; asynchronous partial completion does not license re-execution of a completed action. A later emergency change, remedy or renewed response is a new decision instance with a new identifier and freshly activated lawful authority. Emergency event handling, duplicate checks and expiry run independently of a paused Civilisation Clock. Technical requirements for atomic state acceptance and durable receipts remain implementation matters, not new emergency authority.
 
 
-<!-- V2.1 INTEGRATION 2026-10-13: AUTHORIAL SOURCE RECONCILIATION; DEVELOPMENTAL; REVERSIBLE -->
