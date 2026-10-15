@@ -1505,7 +1505,7 @@ The choice depends on urgency, decision class, lawful quorum and the independent
 
 Record separately: temporary unavailability, vacancy requiring succession, abstention, recusal, conflict of interest, failed authentication, compromised independence and evidential insufficiency. These conditions are not interchangeable. A principled abstention is not a vacancy and a substantive Against vote is not a failure of staffing.
 
-Two matching valid votes in a three-position triad may yield a substantive majority only where applicable quorum and eligibility rules permit. F/F/U and A/A/U can therefore resolve arithmetically, but an invalid forum or quorum still prevents legal effect.
+Two independently valid matching official For or Against ballots determine the substantive result in a lawfully constituted three-position triad; the third position need not have voted for determinacy. An invalid forum, ineligible position or unverified decision-event boundary still prevents lawful effect. `U` must identify whether it denotes a genuine unresolved resultant, an abstention or merely an absent ballot; these are not interchangeable.
 
 A temporary expanded virtual triad is not an automatic succession route and must not be convened merely to reverse a lawful decision or bypass abstention. Its constituent membership, lawful competence, resultants and termination must be independently authorised and recorded.
 
