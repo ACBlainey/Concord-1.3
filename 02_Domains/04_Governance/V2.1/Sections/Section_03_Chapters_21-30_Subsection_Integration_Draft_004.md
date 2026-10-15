@@ -93,11 +93,9 @@ They should not automatically justify permanent constitutional change.
 
 Permanent lessons discovered during emergency conditions should enter the ordinary constitutional development process after the emergency where practical.
 
-<!-- BEGIN V2.1 CE-V2 EXTENDED RECOVERY CHAPTER 21 -->
 ### Chapter 21 — Emergency change classification and constitutional anti-capture
 
 **Constitutional Emergency V2 §§225–244:** Repository write access, protocol maintenance and technical capability are not constitutional amendment authority. Distinguish refactoring, operational change, policy change, constitutional amendment and constitutional replacement by **substantive effect**, not the label attached to a commit. Emergency procedures may be adapted temporarily within lawful scope; emergency authority must not entrench unrelated permanent amendments or rewrite its own limiting principles. A successful pilot is evidence, not legitimacy; the Ratchet and Historical preserve learning without converting past emergency practice into current power. Superseded protocols retain provenance; correction does not erase the original. **Open:** constitutional amendment thresholds, emergency exceptions, owner-controlled deployment and archival status projections.
-<!-- END V2.1 CE-V2 EXTENDED RECOVERY CHAPTER 21 -->
 
 # Chapter 22 — Constitutional Development
 
@@ -725,21 +723,16 @@ All test results are **unit-level fixture evidence**, not end-to-end system cert
 
 <!-- END G05 STAGES 070-087 EVIDENCE MAP -->
 
-<!-- BEGIN V2.1 G05 CONSOLIDATION CHAPTER 24 -->
 ### Chapter 24 — V2.1 G05 integration: Emergency authority
 
 **Developmental clause, unresolved interfaces retained:** A declared emergency is not itself a grant of unrestricted authority. Separate threat recognition, classification, declaration, lawful protective power activation, action and expiry/restoration. An urgent response must have an independently established necessity, minimum proportionate scope, owner, rights limits, audit and review. The Civilisation Clock is variable and may pause; emergency operational time, mandate expiry and reaction must remain independently active. BTA records partial transitions and surviving consequences. G05 001; Integrations 053, 057–060.
 
 **Unresolved:** actual owner attestation and executable enforcement, constitutional competence/thresholds and independent review remain subject to source validation; do not interpret fixture evidence as deployed authority.
-<!-- END V2.1 G05 CONSOLIDATION CHAPTER 24 -->
 
-<!-- BEGIN V2.1 SOURCE RECOVERY 2026-10-13 CHAPTER 24 -->
 ### Chapter 24 — Migration-aware emergency source recovery and authority envelope
 
 **Authorial source-recovery method (056):** Historic *canonical*, *draft* and *non-canonical* labels describe assumed status at the time of writing, not automatic adoption or rejection. The recovered `PH-02 — Emergency Governance and Emergency Operations.md` contains an Emergency Authority Envelope (EAE), legitimacy/activation/exercise gates, advisory/directive/compulsory separation and bounded contextual deviation safeguards. `Phase D4 — Holder, Conflict, Support, Exit and Emergency Foundations 001.md` supplies constitutional standing, minimum deviation and sunset. These substantive architectures are to be reconciled into the emergency V2.1 working model rather than omitted on header status alone. **No new compulsory power is granted by this placement.** Exact historic provisions, source-specific competence, rights constraints and owner approval remain flagged for direct comparison.
-<!-- END V2.1 SOURCE RECOVERY 2026-10-13 CHAPTER 24 -->
 
-<!-- BEGIN V2.1 PH02 D4 DIRECT CLAUSE RECOVERY 2026-10-13 -->
 ### Chapter 24 — Recovered emergency authority envelope and rights-continuity clauses
 
 **Source-specific developmental consolidation.** PH-02 (9 September 2026), §§2–20, and Phase D4, §§11–12, supply the following working constraints. Their historical development labels do not preclude substantive recovery, but these clauses do not enact new emergency powers.
@@ -754,7 +747,6 @@ All test results are **unit-level fixture evidence**, not end-to-end system cert
 8. **Standing and capacity.** Rights-holder standing is not equivalent to capacity or citizenship; capacity-sensitive assistance and least restrictive supported decision-making remain applicable in emergencies. Affected participants require viable challenge and correction channels. No universal rights ranking, final personhood boundary or exhaustive emergency coercion schedule is inferred from Phase D4.
 
 **Implementation and source flags:** EAE issuer and civic consent recording, emergency decision classes, precise directive/compulsion authorisation, frontline discretion, cross-domain and multi-substrate safeguards, appeals, actual expiry enforcement and restoration proofs remain unresolved. PH-02's directional command diagram is an illustration of bounded operational delegation, **not a GTP governing hierarchy**. The Civilisation Clock cannot be the sole emergency time source.
-<!-- END V2.1 PH02 D4 DIRECT CLAUSE RECOVERY 2026-10-13 -->
 
 # Chapter 25 — Emergency Classification
 
@@ -919,13 +911,11 @@ Classification itself is a judgement under uncertainty.
 
 It should not be treated as permanent fact.
 
-<!-- BEGIN V2.1 G05 CONSOLIDATION CHAPTER 25 -->
 ### Chapter 25 — V2.1 G05 integration: Temporary protection and restoration
 
 **Developmental clause, unresolved interfaces retained:** Emergency preservation must remain temporary, independently justified and reviewable; it does not create permanent constitutional competence or displace independent triadic decision authority. Renewal requires a new lawful decision, current evidence and cumulative exposure review, not an automatic extension. Recovery, restoration and closure are separate claims, each requiring appropriate owner evidence; unresolved duties survive emergency exit. G05 001 stages 079–087.
 
 **Unresolved:** actual owner attestation and executable enforcement, constitutional competence/thresholds and independent review remain subject to source validation; do not interpret fixture evidence as deployed authority.
-<!-- END V2.1 G05 CONSOLIDATION CHAPTER 25 -->
 
 # Chapter 26 — Emergency Declaration
 
@@ -1044,13 +1034,11 @@ Every extraordinary authority should retain a connection to:
 - the affected jurisdiction;
 - and the period of necessity.
 
-<!-- BEGIN V2.1 G05 CONSOLIDATION CHAPTER 26 -->
 ### Chapter 26 — V2.1 G05 integration: Operational clock and transition
 
 **Developmental clause, unresolved interfaces retained:** A paused Civilisation Clock cannot block independently authorised emergency reaction, expiration, duplicate suppression or protective review. The state-machine/BTA interface coordinates events without granting new powers. Deferred ordinary effects require live authority, dependency and owner revalidation before execution; KCS change propagation is information, not authority. G05 001; Integrations 059–060, 063.
 
 **Unresolved:** actual owner attestation and executable enforcement, constitutional competence/thresholds and independent review remain subject to source validation; do not interpret fixture evidence as deployed authority.
-<!-- END V2.1 G05 CONSOLIDATION CHAPTER 26 -->
 
 # Chapter 27 — Emergency Authority
 
@@ -1215,13 +1203,11 @@ The exact process may be degraded during severe crisis.
 
 Degradation should not become elimination.
 
-<!-- BEGIN V2.1 G05 CONSOLIDATION CHAPTER 27 -->
 ### Chapter 27 — V2.1 G05 integration: Emergency continuity and residual duties
 
 **Developmental clause, unresolved interfaces retained:** An emergency transfer or recovery may leave outstanding beneficiary, privacy, evidence, compensation, custody and remediation duties. Civil Contact routes concerns, Historical preserves provenance, Continuity coordinates its own lawful interfaces, and domain owners retain independent mandates. Referral does not appoint a successor; nomination does not discharge a duty. Orphaned obligations remain discoverable and protected pending independently lawful custody acceptance. G05 001 stages 081–083, 088–090.
 
 **Unresolved:** actual owner attestation and executable enforcement, constitutional competence/thresholds and independent review remain subject to source validation; do not interpret fixture evidence as deployed authority.
-<!-- END V2.1 G05 CONSOLIDATION CHAPTER 27 -->
 
 # Chapter 28 — Emergency Succession
 
@@ -1435,13 +1421,10 @@ Relevant questions include:
 ## 28.x — V2.1 integration: succession, conference and immutable ballots
 
 A substitute occupies one lawfully vacant bounded decision position, not an additional vote. A conference cannot create a vacancy, reverse a committed ballot, select a substitute without lawful eligibility and selection, or grant a fresh mandate. Recusal and proven unavailability must be distinguished from valid abstention; the latter is not automatically vacancy. The vertex-adjacent and context-controlled fractal candidate pools retain their independently authorised screening, unbiased selection and audit requirements. The late third ballot remains separately recordable while eligible. See Integrations 022, 031, 115 and 121–123.
-<!-- END V2.1 INTEGRATION 2026-10-13 -->
 
-<!-- BEGIN V2.1 CE-V2 HISTORICAL SOURCE RECOVERY CHAPTER 28 -->
 ### Chapter 28 — Constitutional Emergency V2 declaration and classification interface
 
 **Recovered source:** `03_Cross_Domain_Architecture/Constitutional_Emergency/Constitutional Emergency V2.md`, Chapters 19–30 and 41–60. Emergency recognition, declaration, activation of a particular power and exercise of that power are separate events with separately reviewable evidence. False positives, false negatives, manufactured declarations and disputed assessments must remain distinguishable; classification can change as evidence changes. The five emergency levels (local, regional, civilisational, planetary and existential) classify **operational threat scope**, not governance rank or authority. A Level V existential threat does not create absolute powers. Compound and cascading failures may span multiple domains and substrates; AI-caused and AI-affected emergencies are distinct, and due process is not removed by substrate. GTP scales identify affected contexts, never automatic jurisdiction. Record threat evidence, independent issuer competence, declaration, contested assessments, timebase and expiry. **Unresolved:** lawful classification/declaration owner and thresholds, emergency triad constitution and cross-domain consent; no automated detection may silently adjudicate.
-<!-- END V2.1 CE-V2 HISTORICAL SOURCE RECOVERY CHAPTER 28 -->
 
 
 ## 28.V21d — Existing module interfaces for emergency verification and review
@@ -1509,7 +1492,6 @@ Two independently valid matching official For or Against ballots determine the s
 
 A temporary expanded virtual triad is not an automatic succession route and must not be convened merely to reverse a lawful decision or bypass abstention. Its constituent membership, lawful competence, resultants and termination must be independently authorised and recorded.
 
-<!-- BEGIN V2.1 EMERGENCY TRIADIC MAJORITY TIMING — AUTHORIAL DIRECTION 2026-10-12 -->
 
 ### Chapter 29 — Emergency and time-critical implementation following a decisive two-vote majority
 
@@ -1523,7 +1505,6 @@ A temporary expanded virtual triad is not an automatic succession route and must
 
 **Provenance and later correction:** Preserve the missing vote as outstanding until lawfully supplied or separately finalised. A returning original Steward may replace only a separately authorised **non-official, non-consuming provisional indication**. An official committed position ballot is immutable and cannot be superseded within the same event. Neither later provenance nor review can retroactively change a majority already fixed by two independently valid matching votes; any fresh decision needs separate authority. Later discovered invalidity, review and remedies remain independent questions.
 
-<!-- END V2.1 EMERGENCY TRIADIC MAJORITY TIMING — AUTHORIAL DIRECTION 2026-10-12 -->
 
 ## 29.3 Two Stewards Unavailable
 
@@ -1626,13 +1607,10 @@ Emergency Governance should therefore consider independence of information as we
 ## 29.x — V2.1 integration: degraded triads and contextual continuity
 
 A degraded triad does not automatically become a conference, an expanded forum or an emergency body. Two independently valid matching official F/A ballots can determine a result without the third occupied position; whether acceptance proceeds early remains context-dependent. An unavailable or recused position can be filled only by separately lawful, bounded substitution. A valid abstention cannot be silently replaced. Remaining voting authority is not consumed by another Steward's commitment or by the count-only projection. See Integrations 031, 048, 110, 121–123.
-<!-- END V2.1 INTEGRATION 2026-10-13 -->
 
-<!-- BEGIN V2.1 CE-V2 HISTORICAL SOURCE RECOVERY CHAPTER 29 -->
 ### Chapter 29 — Constitutional Emergency V2 stewardship and automation safeguards
 
 **Recovered source:** Constitutional Emergency V2, Chapters 61–90. Emergency Stewardship is fiduciary operational responsibility, not political elevation. Capability, specialist expertise, information, participation and measured performance do not confer authority; metrics are sensors rather than rulers. Triadic independent reasoning, dissent and cause-specific abstention remain important under compressed tempo; parallel Stewardship, succession and temporary delegation require independently valid mandates. A person being present does not alone constitute meaningful human oversight of automation. Machine detection must not silently become machine adjudication. Emergency infrastructure, vendor dependence, economic control and code changes are capture vectors requiring independent review. **Unresolved:** enforceable delegation, fallback and automated-action gates, secure decision records, independent owner oversight and substitution eligibility.
-<!-- END V2.1 CE-V2 HISTORICAL SOURCE RECOVERY CHAPTER 29 -->
 
 # Chapter 30 — Emergency Abstention and Decision Failure
 
@@ -1831,7 +1809,6 @@ For each triad, F if at least two valid For votes; A if at least two valid Again
 ## Integration safeguards
 
 Preserve original Chapter 28–30 language until detailed clause reconciliation. Cross-check with V2 Chapters 9, 12, 54, 100, 132, 149–151 and 198. Explicitly define six-Steward vertex eligibility and termination of recursive expansion before graduation.
-<!-- BEGIN V2.1 STEWARDSHIP LIFECYCLE CROSS-CHAPTER ALIGNMENT 2026-10-12 — Chapters 28–30 -->
 
 ### Chapters 28–30 — Parallel Steward, vacancy, emergency substitution and restoration interface
 
@@ -1843,9 +1820,7 @@ Preserve original Chapter 28–30 language until detailed clause reconciliation.
 
 **Restoration:** returning incumbents require current identity, capacity, conflicts, office state and mandate revalidation; restoration does not erase the successor's acts, beneficiary duties, records or unresolved challenges. A paused Civilisation Clock cannot pause emergency expiry, review or lawful restoration duties. The actual appointment sequence and selector constitution remain unresolved. **Authorial priority (12 October):** contextual quorum and the sufficiency of two independently valid matching official votes are resolved; do not describe the absent third Steward as a separate degraded-quorum legality gate. This note does not invent a successor's appointment authority.
 
-<!-- END V2.1 STEWARDSHIP LIFECYCLE CROSS-CHAPTER ALIGNMENT 2026-10-12 -->
 
-<!-- BEGIN V2.1 TRIAD VOTE AUTHORITY SEPARATE FROM IMPLEMENTATION 2026-10-12 — Chapters 28–30 -->
 
 ### Chapters 28–30 — Emergency vote and separately bounded execution
 
@@ -1855,9 +1830,7 @@ Degraded voting constitution, lawful replacement of a voting position, emergency
 
 Independent emergency timing permits authorised implementers to act without waiting for a Civilisation Clock transition where applicable law allows; it does not bypass the voting or implementation authority checks. Record vote outcome, implementation owner, authority basis, effective action, expiry, review and restoration as separately owned events. Existing Chapter 28–30 source wording about a successor receiving office responsibilities must be interpreted within the **actual office mandate**, not as blanket authority to implement a triadic result.
 
-<!-- END V2.1 TRIAD VOTE AUTHORITY SEPARATE FROM IMPLEMENTATION 2026-10-12 -->
 
-<!-- BEGIN V2.1 AUTHORIAL VOTE-DRIVEN STATE MACHINE CORRECTION 2026-10-12 — Chapters 28–30 -->
 
 ### Chapters 28–30 — Emergency vote-driven transition, not Steward execution
 
@@ -1865,26 +1838,20 @@ Independent emergency timing permits authorised implementers to act without wait
 
 A paused Civilisation Clock must not block independent emergency state-machine evaluation and lawful urgent transitions. The emergency timebase cannot itself create authority; current factual predicates and consequential authority are independently checked. BTA preserves cross-owner transition relations and partial states; MKA verifies the actor's authority for actual consequential acts. Do not assume that a third-ballot provenance delay is a mandatory clock or execution gate after a lawfully determined two-vote majority.
 
-<!-- END V2.1 AUTHORIAL VOTE-DRIVEN STATE MACHINE CORRECTION 2026-10-12 -->
 
-<!-- BEGIN V2.1 AFFECTED-SYSTEM BOUNDED ACTION AUTHORITY 2026-10-12 — Chapters 28–30 -->
 
 ### Chapters 28–30 — Emergency actions remain bounded by affected systems
 
 A valid emergency triadic vote drives its lawful state-machine transition; it does not issue a universal executive authority token. Every affected operational system (such as Health, Utilities, Security or Continuity) determines its own authorised response under its applicable emergency and ordinary bounded-authority rules. A shared emergency decision may cause multiple independently owned operational transitions with different readiness, permission, urgency, expiry and restoration states. BTA records partial completion and residual duties; MKA checks each actual consequential act as appropriate. A paused Civilisation Clock does not stop independently lawful emergency response, but urgency does not dissolve any affected system's constitutional limits.
 
-<!-- END V2.1 AFFECTED-SYSTEM BOUNDED ACTION AUTHORITY 2026-10-12 -->
 
-<!-- BEGIN V2.1 DECISION-DEPENDENT CONSEQUENCE ROUTING 2026-10-12 — Chapters 28–30 -->
 
 ### Chapters 28–30 — Emergency decision-dependent routing
 
 The valid vote determines the relevant decision state; the actual emergency decision then determines what operational consequences, affected systems and bounded authorities must be considered. Do not preassign a universal responder or implementation chain to a decision not yet made. Pre-existing emergency mandates may already identify lawful actors for certain event classes, but those are independently sourced and conditional, not invented by this governance chapter. Urgency permits time-critical lawful routing without waiting for the variable Civilisation Clock; it does not justify assuming an unknown executor or bypassing affected-system authority. Pending owner or consequence resolution must be recorded explicitly and handled under the actual host's emergency rules.
 
-<!-- END V2.1 DECISION-DEPENDENT CONSEQUENCE ROUTING 2026-10-12 -->
 
 
-<!-- BEGIN V2.1 EMERGENCY SOURCE VERIFIED CLOCK INDEPENDENCE 2026-10-12 -->
 
 ### Chapters 28–30 — Source-verified emergency/Clock/state-machine interface
 
@@ -1898,10 +1865,8 @@ The valid vote determines the relevant decision state; the actual emergency deci
 
 **Validation still needed (G-011–016):** Run an integrated paused-Clock emergency race including a queued ordinary act, emergency activation, independent authority expiry, asynchronous owner recovery and later Clock resumption. Verify no lost emergency event, no stale ordinary execution, no phantom authority and continuing duties. Existing BTA emergency tests support components but do not establish live host integration or constitutional graduation. Issuer/mandate details and specific host contracts remain source-resolution and authorisation questions.
 
-<!-- END V2.1 EMERGENCY SOURCE VERIFIED CLOCK INDEPENDENCE 2026-10-12 -->
 
 
-<!-- BEGIN V2.1 EMERGENCY TRIAD NONUNIVERSAL SOURCE CORRECTION 2026-10-12 -->
 
 ### Chapters 28–30 — Immediate protection, triadic decisions and lawful emergency authority are distinct
 
@@ -1911,7 +1876,6 @@ The valid vote determines the relevant decision state; the actual emergency deci
 
 **Source-supported boundaries:** independent event reception and expiry must not wait for Civilisation Clock progression; temporary delegation must not silently become permanent succession; parallel Steward assessments do not automatically become official votes; rapidly taken actions require later review; automated protective systems must remain function/scope/time bounded and auditable. The original Constitutional Emergency V2 source is preserved unchanged. Exact declaration issuers, operational triggers and host-level authorisation remain implementation/design questions, not inferred from this clarification.
 
-<!-- END V2.1 EMERGENCY TRIAD NONUNIVERSAL SOURCE CORRECTION 2026-10-12 -->
 
 
 ### Chapters 28–30 — Emergency decisions, irreversible history and fresh authority (12 October 2026)
@@ -1928,10 +1892,7 @@ The valid vote determines the relevant decision state; the actual emergency deci
 ## 30.x — V2.1 integration: abstention, emergency and new decisions
 
 For, Against and Abstain are distinct official single-use immutable ballot states. A valid abstention is not a vacancy or a negative vote. Unresolved arithmetic is not automatically emergency authority; emergency preservation needs its own lawful function, minimum scope, independent operational time, expiry, review and restoration. Later concerns or appeals do not reopen the completed decision; any replacement has a new identity and fresh authority. The Civilisation Clock may pause, but independent emergency state machines cannot wait for it. See Integrations 059–060, 115 and 121–123.
-<!-- END V2.1 INTEGRATION 2026-10-13 -->
 
-<!-- BEGIN V2.1 CE-V2 HISTORICAL SOURCE RECOVERY CHAPTER 30 -->
 ### Chapter 30 — Constitutional Emergency V2 rights and restorative limits
 
 **Recovered source:** Constitutional Emergency V2, Chapters 91–106, together with Phase D4 §§11–12. Rights remain presumptively active; a threat classification does not itself grant quarantine, evacuation, resource reallocation, surveillance, identity control or triage authority. Each restriction requires its own lawful activation and proportionality/least-interference analysis, affected-holder standing, review and remedy. Scarcity must not reduce equal concern for participants to their productivity or prior contribution; equivalent claims may require fair randomisation under a separately legitimate protocol. Emergency surveillance and identity processing remain purpose-bounded and data-minimising. Emergency exit ends exceptional authority but not surviving custody, correction, compensation or restoration duties. **Unresolved:** exact lawful rights limitation thresholds, protected data implementations, review routes and substrate-specific protections.
-<!-- END V2.1 CE-V2 HISTORICAL SOURCE RECOVERY CHAPTER 30 -->
