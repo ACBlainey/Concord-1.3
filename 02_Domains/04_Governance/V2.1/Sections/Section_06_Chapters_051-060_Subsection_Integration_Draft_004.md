@@ -1733,6 +1733,20 @@ Stage 090 intentionally uses externally asserted booleans for authentication and
 
 <!-- V2.1 INTEGRATION 2026-10-13: AUTHORIAL SOURCE RECONCILIATION; DEVELOPMENTAL; REVERSIBLE -->
 
+## 54.38 decision-state and execution separation
+
+Competence, forum, participation and result are distinct validity gates. Official Steward commitment is atomic, single-use and immutable; a second matching valid F/A ballot determines the outcome without requiring a third occupied position. Ordinary progression permits remaining participation; early acceptance requires independent contextual justification. A third valid ballot cannot change the determined outcome. Conference is a separately authorised exceptional information context, not a second voting mode or revocation. Host execution requires independent current authority; CBPR owns commit/effect reconciliation, BTA transition history, ACKS owner-specific acknowledgements, KCS downstream changes and Historical protected provenance. Receipt ACK is not evidence of effect. The Civilisation Clock cannot stall an independently authorised emergency route. See Integrations 097, 110, 115 and 121–123.
+
+### Chapter 54 — V2.1 operative reconciliation of decision record and authority lifecycle
+
+**Developmental precedence:** General terms such as *decision reversal*, *withdrawal*, *revocation* and *supersession* in this chapter concern independently lawful decisions, mandates, implementation grants, corrections and later decisions. They **must not be read as authority to revoke, edit or resubmit a valid committed official Steward ballot**. A challenged forged or unauthorised ballot is a validity challenge, not discretionary ballot withdrawal. Preserve the original event and append any separately authorised correction or replacement decision under a new identity.
+
+The authoritative decision record separates: decision/event identity and lawful mandate; three independently eligible official positions; individual single-use ballot commits; anonymous participation count projection; mathematical result; separately justified early acceptance; contextual conference activation and disclosure; constituent resultants where expanded; downstream CBPR/BTA action grant and effect state; ACKS owner-specific receipt/effect/discharge evidence; KCS propagation; protected Historical provenance; and independently authorised concern, review or remedy.
+
+**Unresolved within Chapter 54:** precise authenticated owner attestation, atomic persistence and protected projection implementations; conference after partial commitment; reconciliation of provisional inputs with immutable official votes. These are implementation/source questions, not a reason to conflate a ballot with a revocable host execution grant.
+
+# Chapter 55 — Deliberative Integrity
+
 ## 55.1 Independent Thought Before Comparison
 
 Where parallel reasoning is used, participants should reason independently before seeing one another’s conclusions where practical.
@@ -3599,16 +3613,3 @@ The principle is to avoid unnecessarily making future decisions impossible.
 
 **Constitutional Emergency V2 §§166–190:** Recovery is a constitutional phase, beginning during response and extending beyond the cessation of danger. Automatic return to ordinary Governance, Judiciary and rights exercise is the default; emergency delegations and temporary institutions expire rather than being promoted by crisis. Restoration must examine accessible rights in practice, courts and cases, infrastructure, property, contracts, data, secrecy, psychosocial impacts and AI continuity. A green dashboard does not prove restoration, and a resumed service does not discharge outstanding individual duties. Emergency-collected data and restricted records require retention/disclosure review; original mistakes remain in Historical with linked correction. Reconstruction is not permission for unrelated political redesign. **Open:** domain-specific restoration criteria, custody/compensation owners, contract unwinding and actual termination enforcement.
 
-## 54.38 decision-state and execution separation
-
-Competence, forum, participation and result are distinct validity gates. Official Steward commitment is atomic, single-use and immutable; a second matching valid F/A ballot determines the outcome without requiring a third occupied position. Ordinary progression permits remaining participation; early acceptance requires independent contextual justification. A third valid ballot cannot change the determined outcome. Conference is a separately authorised exceptional information context, not a second voting mode or revocation. Host execution requires independent current authority; CBPR owns commit/effect reconciliation, BTA transition history, ACKS owner-specific acknowledgements, KCS downstream changes and Historical protected provenance. Receipt ACK is not evidence of effect. The Civilisation Clock cannot stall an independently authorised emergency route. See Integrations 097, 110, 115 and 121–123.
-
-### Chapter 54 — V2.1 operative reconciliation of decision record and authority lifecycle
-
-**Developmental precedence:** General terms such as *decision reversal*, *withdrawal*, *revocation* and *supersession* in this chapter concern independently lawful decisions, mandates, implementation grants, corrections and later decisions. They **must not be read as authority to revoke, edit or resubmit a valid committed official Steward ballot**. A challenged forged or unauthorised ballot is a validity challenge, not discretionary ballot withdrawal. Preserve the original event and append any separately authorised correction or replacement decision under a new identity.
-
-The authoritative decision record separates: decision/event identity and lawful mandate; three independently eligible official positions; individual single-use ballot commits; anonymous participation count projection; mathematical result; separately justified early acceptance; contextual conference activation and disclosure; constituent resultants where expanded; downstream CBPR/BTA action grant and effect state; ACKS owner-specific receipt/effect/discharge evidence; KCS propagation; protected Historical provenance; and independently authorised concern, review or remedy.
-
-**Unresolved within Chapter 54:** precise authenticated owner attestation, atomic persistence and protected projection implementations; conference after partial commitment; reconciliation of provisional inputs with immutable official votes. These are implementation/source questions, not a reason to conflate a ballot with a revocable host execution grant.
-
-# Chapter 55 — Deliberative Integrity
