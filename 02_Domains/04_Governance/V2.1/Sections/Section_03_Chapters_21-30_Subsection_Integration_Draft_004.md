@@ -1670,7 +1670,7 @@ Possible responses include:
 
 The mechanism should exist before crisis where practical. It must identify the source of authority, decision field, evidence, time limit, implementation and review.
 
-For a properly constituted three-resultant virtual triad, F/F/U produces F, A/A/U produces A, and F/A/U produces U. U is not an Against vote. A two-stage voting result is valid only if the underlying constituent triads, quorum, identity, independence and common jurisdiction are valid.
+For a properly constituted virtual triad with **three received official constituent resultants**, F/F/U produces F, A/A/U produces A, and F/A/U produces U. An absent constituent resultant is pending, not U. U is not an Against vote. A two-stage voting result is valid only if the underlying constituent triads, quorum, identity, independence and common jurisdiction are valid.
 
 Emergency preservation where the status quo itself creates grave danger requires a separate, narrow, time-limited legal authority with audit and review. No emergency route may launder a failed or unwanted vote into an enlarged permanent jurisdiction.
 
@@ -1821,7 +1821,7 @@ For, Against and Abstain are distinct official single-use immutable ballot state
 
 **Temporary appointment:** where a separately authorised emergency/continuity rule permits a substitute, record the actual position, identity, current eligibility, appointment source, scope, start/expiry, independent emergency timebase, restrictions, review and return/handover. Verify actual act authority with MKA; use BTA for asynchronous owner-state transition, STRA/KCS for expiry and changed dependencies, and protected Historical custody. A shadow vote is not retroactively promoted into an official vote. The substitute inherits no predecessor's expired discretionary powers and no permanent entitlement from temporary service.
 
-**Restoration:** returning incumbents require current identity, capacity, conflicts, office state and mandate revalidation; restoration does not erase the successor's acts, beneficiary duties, records or unresolved challenges. A paused Civilisation Clock cannot pause emergency expiry, review or lawful restoration duties. The actual appointment sequence and selector constitution remain unresolved. **Authorial priority (12 October):** contextual quorum and the sufficiency of two independently valid matching official votes are resolved; do not describe the absent third Steward as a separate degraded-quorum legality gate. This note does not invent a successor's appointment authority.
+**Restoration:** returning incumbents require current identity, capacity, conflicts, office state and mandate revalidation; restoration does not erase the successor's acts, beneficiary duties, records or unresolved challenges. A paused Civilisation Clock cannot pause emergency expiry, review or lawful restoration duties. The actual appointment sequence and selector constitution remain unresolved. **Controlling authorial priority (15 October):** three distinct lawfully selected holders must constitute the forum before voting. Two matching official ballots determine the mathematical majority but do not complete ordinary voting; the third official ballot is mandatory before ordinary effect. Lawful substitution may preserve an already constituted position, while concrete appointment and handover mechanisms remain future design. This note does not invent a successor's appointment authority.
 
 
 
@@ -1839,7 +1839,7 @@ Independent emergency timing permits authorised implementers to act without wait
 
 **Authorial correction:** A lawful triadic majority changes the relevant decision state **through the authorised state machine**. The voting Stewards do not personally acquire authority to implement the decision. Separately bounded emergency responders may execute consequential operational acts when the resulting state and their independent mandates permit; they do not redecide the valid vote. Distinguish decision-state transition, emergency power-state transition, operational action and restoration. They may have different owners and temporal predicates.
 
-A paused Civilisation Clock must not block independent emergency state-machine evaluation and lawful urgent transitions. The emergency timebase cannot itself create authority; current factual predicates and consequential authority are independently checked. BTA preserves cross-owner transition relations and partial states; MKA verifies the actor's authority for actual consequential acts. The third official ballot is a mandatory ordinary completion gate, not merely a provenance delay. A separately authorised emergency two-vote action may proceed independently of that gate and the Clock.
+A paused Civilisation Clock must not block independent emergency state-machine evaluation and independently authorised emergency transitions. The emergency timebase cannot itself create authority; current factual predicates and consequential authority are independently checked. BTA preserves cross-owner transition relations and partial states; MKA verifies the actor's authority for actual consequential acts. The third official ballot is a mandatory ordinary completion gate, not merely a provenance delay. A separately authorised emergency two-vote action may proceed independently of that gate and the Clock.
 
 
 
