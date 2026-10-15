@@ -74,6 +74,10 @@
 
 - **G-024 partial:** The author supplied a readable local `Governance V2 Canonical (2).md` snapshot with all 215 unique sequential chapter headings. `Validation/V2_to_V2_1_Source_Preservation_Audit_001.md` compares Chapter 1–10 character and numbered-heading inventories to the V2.1 Section 01 draft. Chapters 2, 3, 5, 6, 8 and 10 match on both quantitative counts; Chapters 1, 4, 7 and 9 have added/changed material. **Counts are not proof of exact textual retention or clause completeness.** Continue paragraph-level source diff and remaining sections; preserve both originals.
 
+## 16 October 2026 — G-024 sampled source retention, Chapters 1–10
+
+- `Validation/V2_to_V2_1_Source_Preservation_Audit_001.md` now records 27/27 exact original V2 phrase matches within corresponding V2.1 Chapters 1–10. This is evidence of distributed **sampled** retention, not a complete paragraph/clauses preservation certificate. Continue source audit and historical migration review; V2.1 remains the intended operative master after textual corrections, not a provisional alternative to V2.
+
 ## 16 October 2026 — G-024 first structural chapter inventory (90 chapters)
 
 - **G-024 partial, structural check only:** Fetched nine existing V2.1 section manuscripts (Sections 01, 02, 03, 06, 10, 14, 15, 16 and 20). Each contains exactly its ten expected top-level `# Chapter N` headings in sequence, with no duplicate top-level chapter numbers: chapters 1–30, 51–60, 91–100, 131–160 and 191–200 (90 verified headings). This checks section numbering only, **not** preservation of V2 source clauses or correctness of chapter content. The other 13 sectional manuscripts remain unchecked in this inventory.
