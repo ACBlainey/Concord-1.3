@@ -1597,6 +1597,16 @@ A degraded triad does not automatically become a conference, an expanded forum o
 
 **Recovered source:** Constitutional Emergency V2, Chapters 61–90. Emergency Stewardship is fiduciary operational responsibility, not political elevation. Capability, specialist expertise, information, participation and measured performance do not confer authority; metrics are sensors rather than rulers. Triadic independent reasoning, dissent and cause-specific abstention remain important under compressed tempo; parallel Stewardship, succession and temporary delegation require independently valid mandates. A person being present does not alone constitute meaningful human oversight of automation. Machine detection must not silently become machine adjudication. Emergency infrastructure, vendor dependence, economic control and code changes are capture vectors requiring independent review. **Unresolved:** enforceable delegation, fallback and automated-action gates, secure decision records, independent owner oversight and substitution eligibility.
 
+
+### Future design architecture — deferred implementation interfaces (G-011, G-012, G-013)
+
+**ARCHITECTURE TO BE DESIGNED — OUTSIDE CURRENT V2.1 TEXT-INTEGRATION SCOPE.** The principles in this chapter remain operative as stated. The following are design requirements, **not** invented deployed services, automatic authority grants or grounds to delay consolidation. Resolve these at the indicated interfaces when working systems and domain owners exist:
+
+- **G-011 — Architecture to be designed:** Identify constitutionally authorised emergency declaration issuer(s), recognition versus activation, host-specific mandates, expiry, review and audit; declaration cannot mint power.
+- **G-012 — Architecture to be designed:** Design independently timed emergency event routing, queued ordinary-work revalidation, stale-effect suppression, replay, expiry and Clock-resumption race tests.
+- **G-013 — Architecture to be designed:** Specify lawful emergency successor/delegate selection, advisory parallel boundaries, handover, expiry and independent review; no automatic promotion.
+
+**Future acceptance evidence:** record accountable owner, actual mandate, state-machine/adapter specification, failure and recovery paths, independent review and provenance. Preserve CAP ≠ PERM ≠ AUTH. Do not mark implementation as tested or operational until supported by real evidence.
 # Chapter 30 — Emergency Abstention and Decision Failure
 
 ### Emergency deadlock, unresolved results and preservation powers
