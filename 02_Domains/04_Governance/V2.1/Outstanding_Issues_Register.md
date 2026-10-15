@@ -70,6 +70,10 @@
 **Important distinction:** These authorial directions settle their stated principles. They do not implicitly settle constitutional quorum, appointment, authenticated authority or implementation validity.
 
 
+## 15 October 2026 — Chapters 150–151 central coordination and federation reconciliation
+
+- **G-023 partial:** Chapter 150 now separates broad coordination from independently authorised binding shared competence and downstream implementation, and rejects treating a larger GTP scale as a superior office. Chapter 151 now describes federated enumerated authority, local residual competence and jurisdiction conflicts as relations among independently constituted institutions, not automatic spatial parent/child hierarchy. Chapter 149's existing simultaneous-mesh and hysteresis architecture was retained. This is a textual consistency pass, not the complete historical-source comparison or constitutional graduation.
+
 ## 15 October 2026 — Chapters 100 and 198 cross-section reconciliation
 
 - **G-023 partial:** Chapter 100 now explicitly separates non-consuming advisory shadow indications from official ballots, requires three lawfully selected holders before voting, prevents a returning original from superseding an alternate's committed official ballot, and preserves the three-official-ballot ordinary completion rule. Chapter 198 now states GTP is the currently adopted multiresolution spatial reference/coordination mesh rather than merely a hypothetical future implementation, while distinguishing constitutional jurisdictional priority from any presumed geometric hierarchy. No claim of completion for all 22 sections or historical sources.
