@@ -4712,7 +4712,6 @@ It may represent:
 Where practicable, the reason for abstention should be recorded.
 
 
-<!-- BEGIN V2.1 INTEGRATED 9.14 — RECONCILED CANDIDATE 005 VERBATIM -->
 
 ## 9.14 Abstention
 
@@ -4739,7 +4738,6 @@ Where practicable, the reason for abstention should be recorded.
 
 For any lawfully constituted three-position decision, distinguish For (F), Against (A), and Unresolved (U). Two valid matching F positions yield F; two valid matching A positions yield A; otherwise U, subject to separately valid quorum, eligibility and decision-class rules. U is not a substantive Against vote. Record abstention, recusal, absence, failed authentication, conflict and evidential insufficiency as different causes, not interchangeable votes. This rule applies independently at each authorised constituent triad and at the three-resultant virtual-triad stage. No arithmetic result creates jurisdiction or appointment authority.
 
-<!-- END V2.1 INTEGRATED 9.14 — CANDIDATE 005 -->
 ## 9.15 Abstention as a Diagnostic Signal
 
 Abstention should be evaluated at two levels.
@@ -6526,9 +6524,7 @@ The following rules emerge as the current operational baseline:
 ## 9.x — V2.1 integration: isolated commitment and contextual conference
 
 Ordinary official Steward votes are independently reasoned and committed in isolation. A legitimate contextual wrapper may authorise conference under circumstances not exhaustively foreseeable; conference itself creates neither jurisdiction nor a vote. Each Steward position retains one independently authenticated, bounded, single-use ballot. A valid committed ballot is immutable and its authority consumed. Conference before commitment may permit only context-authorised information exchange; the rules for preliminary positions and for conference after partial commitment remain unresolved. Two matching valid F/A votes determine the substantive outcome; contextual early acceptance, remaining third-position participation, and host execution are separate states. The anonymous 0–3 committed-position count is an informational projection only, never a vote disclosure, authority token, or gate on another Steward. Post-commit concerns, review and replacement decisions require independent authority and new linked identities. See Integrations 110, 115, 121–123.
-<!-- END V2.1 INTEGRATION 2026-10-13 -->
 
-<!-- BEGIN V2.1 OPERATIVE RECONCILIATION 2026-10-13 CHAPTER 9 -->
 ### Chapter 9 — V2.1 operative reconciliation of deliberation, commitment and review
 
 **Developmental precedence:** Retained references to meetings, deliberation and reconsideration describe available governance processes, not a standing entitlement to see other Stewards' votes or to revoke a committed official ballot. Ordinary official voting is isolated; conference requires independently lawful contextual authorisation, with open-ended legitimate circumstances and bounded CWA/CIBB information access. Chapter 9's generic references to deliberation therefore **do not override** Stage 122.
@@ -6536,10 +6532,8 @@ Ordinary official Steward votes are independently reasoned and committed in isol
 A valid official ballot is an authenticated, one-use authority-consuming state transition. Once committed it cannot be amended or withdrawn, including after discovering other votes. Two matching valid F/A ballots settle the substantive outcome; the remaining Steward's independent ballot route remains available while lawful, and its later record cannot change that outcome. The anonymous 0–3 count discloses only participation, not choices, reasons or identities. Contextual early acceptance and implementation require separate authority. A concern, review, new evidence or appeal is a separately authorised event, not an edit to the original ballot.
 
 **Unresolved within Chapter 9:** competent conference exception owner; preliminary position disclosure; conference after partial commitment; exact privacy projection and authority-enforcement interfaces. These do not prevent applying the settled isolation, commitment and result rules.
-<!-- END V2.1 OPERATIVE RECONCILIATION 2026-10-13 -->
 
 
-<!-- BEGIN V2.1 TRIADIC PORTABLE MODULE FULL CORE INCORPORATION -->
 ### Chapter 9 — Portable triadic decision module: core process and source-specific disposition
 
 **Incorporated source:** `04_Portable_Modules/Triadic Decision Making Module.md`, §§1–22. This portable source is a general-purpose decision architecture; its earlier deliberation and voting descriptions are preserved here with explicit interfaces to later V2.1 authorial rules.
@@ -6555,7 +6549,6 @@ A valid official ballot is an authenticated, one-use authority-consuming state t
 **[LOCAL SOURCE CONFLICT:]** Portable Module §§4–6 and §18 describe a default independent-position → collective deliberation → final-vote sequence and suggest preliminary-position comparison. Later Governance authorial architecture requires **default isolated official voting**, with conference only when separately context-authorised. Preliminary deliberative positions, where used, are not official authority-consuming ballots; no authorised conference may expose committed official choices for revocation. The portable source's phrase 'higher authority' in §11 means only independently competent functional, constitutional or spatial coordination—not an automatic GTP political hierarchy.
 
 **[LOCAL IMPLEMENTATION DEPENDENCIES:]** Authority-verified constituent constitution, contextual information isolation, decision-event identity, actual commit receipts and execution grants, protected record custody, evidence quality, and domain-specific rules for provisional reasoning remain owner-system work. None of these unresolved gates excludes the recovered portable process from V2.1.
-<!-- END V2.1 TRIADIC PORTABLE MODULE FULL CORE INCORPORATION -->
 
 # Chapter 10 — Governance, Metrics and Behavioural Feedback
 
