@@ -901,7 +901,7 @@ Classification itself is a judgement under uncertainty.
 
 It should not be treated as permanent fact.
 
-### Chapter 25 — V2.1 G05 integration: Temporary protection and restoration
+## 25.8 Temporary protection, renewal and restoration
 
 **Developmental clause, unresolved interfaces retained:** Emergency preservation must remain temporary, independently justified and reviewable; it does not create permanent constitutional competence or displace independent triadic decision authority. Renewal requires a new lawful decision, current evidence and cumulative exposure review, not an automatic extension. Recovery, restoration and closure are separate claims, each requiring appropriate owner evidence; unresolved duties survive emergency exit. G05 001 stages 079–087.
 
@@ -1024,7 +1024,7 @@ Every extraordinary authority should retain a connection to:
 - the affected jurisdiction;
 - and the period of necessity.
 
-### Chapter 26 — V2.1 G05 integration: Operational clock and transition
+## 26.7 Independent operational time and pending transitions
 
 **Developmental clause, unresolved interfaces retained:** A paused Civilisation Clock cannot block independently authorised emergency reaction, expiration, duplicate suppression or protective review. The state-machine/BTA interface coordinates events without granting new powers. Deferred ordinary effects require live authority, dependency and owner revalidation before execution; KCS change propagation is information, not authority. G05 001; Integrations 059–060, 063.
 
@@ -1193,7 +1193,7 @@ The exact process may be degraded during severe crisis.
 
 Degradation should not become elimination.
 
-### Chapter 27 — V2.1 G05 integration: Emergency continuity and residual duties
+## 27.8 Residual duties and owner continuity
 
 **Developmental clause, unresolved interfaces retained:** An emergency transfer or recovery may leave outstanding beneficiary, privacy, evidence, compensation, custody and remediation duties. Civil Contact routes concerns, Historical preserves provenance, Continuity coordinates its own lawful interfaces, and domain owners retain independent mandates. Referral does not appoint a successor; nomination does not discharge a duty. Orphaned obligations remain discoverable and protected pending independently lawful custody acceptance. G05 001 stages 081–083, 088–090.
 
