@@ -70,6 +70,10 @@
 **Important distinction:** These authorial directions settle their stated principles. They do not implicitly settle constitutional quorum, appointment, authenticated authority or implementation validity.
 
 
+## 15 October 2026 — Chapters 1–10 and 151 cross-section reconciliation
+
+- **G-023 partially addressed:** In Section 01, aligned the early F/A/U arithmetic clause with three-holder lawful constitution, mathematical two-matching-vote majority, three received official ballots for ordinary effect, and missing-versus-completed-U distinctions at both constituent and final-resultant stages. Marked the historical portable-module collective-deliberation default as textually superseded by normally isolated voting with separately authorised conference. In Chapter 151 §151.1, clarified that nested federation concerns independently lawful institutional competence, not GTP geometric command. Broader cross-section and completeness audits remain pending.
+
 ## 15 October 2026 — Chapters 29–30 cross-section reconciliation
 
 - **G-023 partially addressed:** Reconciled Chapter 29's old 'emergency or time-critical' two-ballot implementation claim with the narrow independently authorised emergency exception; ordinary time-critical matters still require all three ballots. Corrected degraded-triad text, the superseded 12 October quorum priority, and Chapter 30's U/abstention/absence distinctions. An absent ballot or constituent resultant is pending, never a fabricated official U. Expanded voting requires all three received official resultants before ordinary effect. The broader 22-section consistency audit remains open.
