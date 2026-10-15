@@ -29,6 +29,9 @@ Assign each newly identified issue a permanent sequential identifier: `FI2-001`,
 
 ## Reconciliation log
 
+- 2026-10-15: Completed targeted voting-language scan of the remaining 18 V2.1 sectional files (Sections 04–05 and 07–22). Only two additional direct matches warranted clarification: Section 07 Chapter 69 conflict/recusal language now explicitly separates mathematical majority from mandatory three-ballot ordinary completion; Section 13 Chapter 122 dissent language now expressly preserves the third official ballot and bars premature ordinary effect. Other 16 sectional files had no direct matches to the targeted two-matching/third-ballot/early-acceptance phrase family. This is a targeted phrase audit, not proof that every indirect state-machine formulation is clear. FI2-001/003 can be considered textually reconciled at all direct-match locations; broader semantic validation remains pending.
+
+
 - 2026-10-15: Follow-up validation found and corrected additional stale ordinary-completion wording in Chapter 12 (historical Integration 048 summary, missing third-ballot classification, ordinary completion vs provenance) and Chapter 29 (pending provenance, Clock/emergency gating, immediate preservation distinction). This extends the direct reconciliation beyond initial headings while preserving the legitimate distinction between triadic emergency action and separately lawful immediate protective functions. FI2-001/003 remain verification-pending until full cross-section review.
 
 
