@@ -24,6 +24,9 @@ Assign each newly identified issue a permanent sequential identifier: `FI2-001`,
 
 - 2026-10-15: Register established as a clean, separate workspace. Existing earlier issue registers are unchanged. Section 22's prior exact-line source-preservation comparison reported zero missing non-empty lines; this is not a semantic duplication/conflict clearance.
 
+
+- 2026-10-15: Preliminary exact-block duplication scan completed across 22 integration files (3,140 substantive blocks, checked in two batches of 8 and 14 files). No repeated normalized full blocks within either batch. Cross-batch, partial-overlap, and semantic duplication checks remain outstanding. No source text was changed and no issue was numbered without a verified candidate.
+
 ## Status vocabulary
 - **Open** — issue identified, awaiting examination.
 - **Needs source comparison** — relevant passages require direct comparison.
