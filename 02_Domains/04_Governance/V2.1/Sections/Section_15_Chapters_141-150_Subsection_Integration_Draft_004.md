@@ -1592,7 +1592,7 @@ GTP's parent/child terms describe spatial subdivision, not a command hierarchy. 
 
 ## 149.9 Centralisation Burden of Proof
 
-Where authority is moved upward, the reason should be articulable.
+Where a separately lawful constitutional or institutional process proposes reallocating authority to a wider-scope body, the reason and authorising instrument must be articulable. **There is no automatic upward transfer through GTP geometric parent/child levels**; mere expansion of coordination scale or workload redistribution is not a grant of governing authority.
 
 Possible justifications include:
 
