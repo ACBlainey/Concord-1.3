@@ -1444,7 +1444,7 @@ The governance decision record and its lawful host effect are separate state tra
 | Optional cross-scale hierarchical coordination | No additional or superior vote created | Binding direction requires separate legal competence; coordination structure does not change Chapter 12 vote weight |
 | Civilisation Clock paused during emergency | Clock is not an emergency deadline | Independently lawful urgent action and operational expiry/review continue on emergency timebase; revalidate stale dependencies at resumption |
 
-**Open constitutional gates, not inferred by this table:** legal quorum and constitution of partially occupied triads; completion/finalisation of missing third votes; eligible substitution and expanded-resultant appointment; exact decision-event identity and appeal boundaries; legal issuer for exceptional action; binding cross-area competence. Source-preserving integration is not proof of implementation or authorial graduation.
+**Open implementation gates, not inferred by this table:** authenticated constitution of a complete three-holder triad; completion and handling of a missing mandatory third ballot; eligible substitution and expanded-resultant appointment; exact decision-event identity and appeal boundaries; legal issuer for exceptional action; binding cross-area competence. Source-preserving integration is not proof of implementation or authorial graduation.
 
 
 
