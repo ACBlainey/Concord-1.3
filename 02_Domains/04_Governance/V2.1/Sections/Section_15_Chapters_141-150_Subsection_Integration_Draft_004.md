@@ -1677,7 +1677,7 @@ Governance should therefore observe practical concentration over time.
 
 
 <!-- V2.1 INTEGRATION 2026-10-13: AUTHORIAL SOURCE RECONCILIATION; DEVELOPMENTAL; REVERSIBLE -->
-## 149.x — V2.1 integration: decentralised conference and common competence
+## 149.17 Interregional conference and independent mandates
 
 Neighbouring GTP regions may confer to share information without merging jurisdictions. Voluntary contributions remain within each owner's mandate; binding common action requires separately established shared competence. Neither attendance nor majority preference can bind an independent nonparticipant. See Integrations 051–052 and 123.
 
@@ -1823,11 +1823,11 @@ Neither layer should presume complete epistemic superiority.
 
 
 <!-- V2.1 INTEGRATION 2026-10-13: AUTHORIAL SOURCE RECONCILIATION; DEVELOPMENTAL; REVERSIBLE -->
-## 150.x — V2.1 integration: coordination is not conference-derived command
+## 150.12 Conference, host authority and binding action
 
 A conference across GTP scales or neighbouring jurisdictions may support evidence sharing and voluntary coordination but cannot create central command or territorial hierarchy. Binding shared action requires independently lawful common competence; emergency preservation is separately bounded. The host owner, not the conference, verifies current execution authority and records effects. See Integrations 051–052, 097 and 123.
 
-## 150.y — Existing cross-boundary recognition and voluntary coordination interface
+## 150.13 Cross-boundary recognition and voluntary coordination
 
 Use the existing Concord **Cross Boundary Externality Recognition** portable module (§§15–17) to distinguish a detected cross-cell consequence from a lawful shared decision forum. Its classifications include internal, shared/agreed, overlapping, disputed, absent and unknown authority; voluntary coordination and optional mediation remain available without inventing a central office. Where no shared authority exists, affected actors may take separately lawful bounded actions or coordinate effects voluntarily (**PARALLEL-VOLUNTARY-COORDINATION**). A binding shared action requires an independently legitimate competence instrument, current permission and appropriate standing for affected parties; the GTP spatial mesh supplies location/scale information, not a higher government. Scope may expand only on evidenced material dependencies, with recorded expansion and standing. **[LOCAL ISSUE — FI-060, FI-062, FI-063:]** shared-competence instrument, externality thresholds, conflicting owner remedies and third-party withdrawal effects require constitutional determination.
 
