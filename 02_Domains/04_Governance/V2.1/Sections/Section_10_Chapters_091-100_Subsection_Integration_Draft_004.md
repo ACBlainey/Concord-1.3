@@ -1117,16 +1117,6 @@ A mechanism repeatedly demonstrating failure should become easier, not harder, t
 
 # Chapter 100 — Governance and Parallel Stewardship
 
-### 100.13 Independent Advisory Reasoning and Separately Authorised Substitution
-
-Parallel Stewardship is an independent advisory function: it can evaluate evidence, assumptions, alternatives and constitutional risk, but agreement is not proof, dissent is not a fourth vote, and neither supplies executive command. Parallel reasoning should ordinarily be recorded before exposure to primary conclusions; shared evidence, model lineage, institutional dependency, funding and common assumptions require correlated-failure checks.
-
-A Parallel Steward becomes a voting substitute only through a separate, position-specific lawful appointment. That appointment must validate identity, competence, independence, conflicts, jurisdiction, decision scope, duration and audit. A contrary vote or principled abstention by the incumbent does not justify replacement. Six-Steward GTP vertex affiliation is a potential eligibility context, never automatic office or succession. Prevent duplicate effective votes across constituent triads.
-
-Temporary substitute authority ends on its defined expiry, completion of the authorised decision or restoration of ordinary office, as applicable. Any continuing advisory role remains separate and non-executive.
-
-**Open issue:** resolve the vertex-to-decision-position eligibility mapping and test independence across expanded triads before specifying automatic selection.
-
 
 ## 100.1 Parallel Stewardship
 
@@ -1168,9 +1158,6 @@ It may also create de facto authority.
 
 The formal decision authority should remain visible.
 
-### 100.14 Advisory Authority Boundary
-
-Parallel Stewardship supplies independent constitutional reasoning, scrutiny and challenge. It does not by itself create an extra voting position, succession entitlement or emergency executive power. A Parallel Steward may serve in another capacity only after separately valid, independently reviewable appointment with explicit eligibility, identity, competence, scope and expiry. Advisory agreement or disagreement is not a constituent or virtual-triad vote.
 
 ## 100.4 Independent Reasoning
 
@@ -1277,3 +1264,17 @@ Parallel Stewardship remains advisory unless independently appointed to a legall
 ### Emergency Oversight, Judicial Separation and Effective Remedy
 
 **Constitutional Emergency V2 §§107–130:** Emergency secrecy may temporarily delay public disclosure, but must have owner, reason, scope, review/expiry and eventual disclosure criteria; secrecy does not erase evidence or constitutional memory. The Judiciary reviews emergency legality and rights without becoming executive command or resource allocator. Review should remain usable under urgency and avoid paralysis, while retaining procedural fairness. Judicial abstention does not automatically validate executive action. Audit, learning and individual remedy are different functions; a successful emergency outcome does not prove every measure justified. Whistleblowing, dissent and negative evidence must remain protected. Classify error, negligence, recklessness and abuse distinctly. **Open:** emergency court competence, secrecy-wrapper enforcement, access and remedy timescales, protection against retaliatory suppression.
+
+### 100.13 Independent Advisory Reasoning and Separately Authorised Substitution
+
+Parallel Stewardship is an independent advisory function: it can evaluate evidence, assumptions, alternatives and constitutional risk, but agreement is not proof, dissent is not a fourth vote, and neither supplies executive command. Parallel reasoning should ordinarily be recorded before exposure to primary conclusions; shared evidence, model lineage, institutional dependency, funding and common assumptions require correlated-failure checks.
+
+A Parallel Steward becomes a voting substitute only through a separate, position-specific lawful appointment. That appointment must validate identity, competence, independence, conflicts, jurisdiction, decision scope, duration and audit. A contrary vote or principled abstention by the incumbent does not justify replacement. Six-Steward GTP vertex affiliation is a potential eligibility context, never automatic office or succession. Prevent duplicate effective votes across constituent triads.
+
+Temporary substitute authority ends on its defined expiry, completion of the authorised decision or restoration of ordinary office, as applicable. Any continuing advisory role remains separate and non-executive.
+
+**Open issue:** resolve the vertex-to-decision-position eligibility mapping and test independence across expanded triads before specifying automatic selection.
+
+### 100.14 Advisory Authority Boundary
+
+Parallel Stewardship supplies independent constitutional reasoning, scrutiny and challenge. It does not by itself create an extra voting position, succession entitlement or emergency executive power. A Parallel Steward may serve in another capacity only after separately valid, independently reviewable appointment with explicit eligibility, identity, competence, scope and expiry. Advisory agreement or disagreement is not a constituent or virtual-triad vote.
