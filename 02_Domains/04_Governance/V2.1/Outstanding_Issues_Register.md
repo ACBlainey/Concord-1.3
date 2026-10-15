@@ -70,6 +70,10 @@
 **Important distinction:** These authorial directions settle their stated principles. They do not implicitly settle constitutional quorum, appointment, authenticated authority or implementation validity.
 
 
+## 16 October 2026 — Chapters 9 and 30 portable-sequence consistency
+
+- **G-023 partial:** Chapter 9's incorporated portable decision sequence now expressly requires three distinct lawfully selected eligible Steward holders, three immutable official ballots for ordinary completion, explicit pending-versus-completed-U distinction and independent emergency/host action authority. Chapter 30's opening constituent/virtual F/A/U aggregation rule now limits U to completed three-ballot or three-resultant events and preserves pending status and ordinary effect gates. Further sectional and historical source checks remain open.
+
 ## 16 October 2026 — Chapters 29–30 completed-U and pending-result reconciliation
 
 - **G-023 partial:** Two residual shorthand formulations in Chapter 29's expanded decision-field discussion and Chapter 30's F/A/U aggregation have been corrected: only a three-official-ballot completed constituent without F/A majority yields U; missing official ballots or constituent resultants remain pending, and all three received official resultants are mandatory before ordinary virtual-triad effect. Two matching received resultants establish only the mathematical majority; independently authorised emergency action remains the bounded early-action exception. Full section/source audit remains open.
