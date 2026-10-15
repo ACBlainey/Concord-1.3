@@ -1464,8 +1464,8 @@ The governance decision record and its lawful host effect are separate state tra
 
 1. **Office constitution:** Does the decision event have three lawfully established positions, even if one holder is temporarily unreachable? Is a permanently vacant office materially different? The portable module does not answer.
 2. **Eligible holder and independence:** Are the two matching ballots from two distinct, currently eligible, independently authorised holders acting within the same valid decision event? Shadow votes and duplicate event aliases do not qualify.
-3. **Quorum:** Does the applicable independently adopted law permit a decision when the third official ballot is absent, the third position is unoccupied, or a holder has recused? These are separate conditions and remain unresolved.
-4. **Majority:** If the forum is lawful and two official votes validly match, the substantive F/A result is fixed; the third ballot cannot reverse it. F/A without a third ballot has no majority.
+3. **Constitution and completion (15 October resolution):** Three lawfully selected holders are required before voting; all three official ballots are required for ordinary effect. Absence or recusal invokes lawful position-specific continuity, not a two-holder forum or waiver of the third ballot. Authentication and handover details remain future design.
+4. **Majority:** In a lawful three-holder forum, two matching official F/A ballots fix the mathematical majority; the third ballot cannot reverse it. Without the third ballot, ordinary completion and effect remain pending, even though the mathematical majority is fixed.
 5. **Consequential effect:** Competence, protected rights, actual mandate, MKA verification at act/commit, ordinary Clock scheduling and emergency-independent timing remain separate from the vote tally.
 6. **Provenance:** Preserve the third official position's outstanding ballot, reason for absence/abstention, later completion or separately lawful finalisation, and any substitution chain without retroactive rewriting.
 
@@ -1473,16 +1473,16 @@ The governance decision record and its lawful host effect are separate state tra
 
 | Case | What is known | What remains to be established |
 | --- | --- | --- |
-| Three valid official positions, all occupied; two matching ballots and third pending | Substantive majority determined | Applicable forum/quorum and official third-ballot completion policy |
-| Three lawful offices, third holder temporarily unreachable | Two matching valid ballots can determine arithmetic | Whether lawful quorum survives temporary nonparticipation and which urgency class applies |
+| Three valid official positions, all occupied; two matching ballots and third pending | Mathematical majority determined | Mandatory third official ballot before ordinary effect; independently authorised emergency exception only |
+| Three lawful offices, third holder temporarily unreachable | Mathematical majority can be fixed only if the triad was first lawfully constituted | Ordinary completion waits for the third official ballot or lawful pre-commit substitution; independently authorised emergency exception only |
 | Third office permanently vacant | Arithmetic alone does not fill the office | Vacancy constitution, lawful succession and forum validity |
 | Third holder recused for conflict | Recusal is not an information abstention | Whether and how a replacement may lawfully be constituted |
-| Third holder abstains for insufficient evidence | U is a recorded decision position, not a vacancy | Whether other two valid matching ballots lawfully determine the result |
+| Third holder abstains for insufficient evidence | U is an official third ballot, not a vacancy | Two matching F/A ballots fix the mathematical majority and, with the official U ballot received, complete the ordinary three-ballot record |
 | Two votes are matching but from same holder/duplicated event | Not two independent official votes | Correct identity/event lineage; withhold consequential commit |
 | Parallel Steward offers a matching shadow ballot | Advisory record only | Separate appointment before any official voting position can exist |
 | Expanded triad returns a constituent resultant | One bounded original-position weight | Independent lawful constituent constitution, quorum, common competence and resultant binding |
 
-**No premature quorum rule adopted.** Neither a universal “two holders always suffice” nor a universal “all three holders must participate” follows from the portable source or the authorial arithmetic decision. The constitutional decision is specifically how to constitute a lawful three-position forum under temporary absence, permanent vacancy, conflict recusal and emergency. Preserve that fork for authorial resolution after further V1/V1.2 source recovery; do not fill it by assumption.
+**Historical source-limit finding, superseded for V2.1:** The portable module alone did not establish a universal quorum. The 15 October authorial decision **does** require three lawfully selected holders before voting and three official ballots before ordinary effect. Only the concrete selection, absence, recusal, replacement, authentication and emergency interfaces remain to be designed; the constitutional baseline is no longer an open fork.
 
 **Subsequent authorial resolution (15 October 2026):** This earlier source-comparison paragraph is retained as historical analysis, not the operative constitution rule. Three distinct eligible Stewards must first be selected and validated to enter the authorised voting state; lawful alternate occupancy can maintain a position after absence. Two matching official ballots can then determine the mathematical majority, while the third official ballot remains mandatory before ordinary effect. The specific appointment, absence-evidence and handover implementation interfaces remain open. See the three-position constitution clarification below.
 
@@ -1494,7 +1494,7 @@ The governance decision record and its lawful host effect are separate state tra
 
 Keep separate records for (1) lawful triad constitution and voting-position authority, (2) official ballot validity and majority result, and (3) independently authorised implementation by the actual competent actor. Two independently valid matching official votes determine the F/A majority under the settled arithmetic rule, subject to valid voting constitution; they do **not** themselves create implementation permission or authority. The third official vote is mandatory for ordinary completion and therefore gates ordinary effect; separately authorised emergency action may proceed after two matching ballots.
 
-**Quorum question narrowed:** G-001 asks only what constitutes a lawful **voting forum**, including absence, recusal and vacancy. Do not use an implementation mandate or inability to implement as a proxy for voting quorum. Nor should the voting triad be described as the executing authority. CAP ≠ PERM ≠ AUTH applies independently to the implementer. The applicable Civilisation Clock transition schedules ordinary implementation where required; lawful urgent action can occur independently of a paused Clock **only by an already competent, bounded implementation actor**.
+**Quorum question narrowed:** G-001 asks only what constitutes a lawful **voting forum**, including absence, recusal and vacancy. Do not use an implementation mandate or inability to implement as a proxy for voting quorum. Nor should the voting triad be described as the executing authority. CAP ≠ PERM ≠ AUTH applies independently to the implementer. The applicable Civilisation Clock transition schedules ordinary implementation where required; separately authorised emergency action can occur independently of a paused Clock **only by an already competent, bounded implementation actor**; urgency alone does not waive the third ordinary ballot.
 
 
 
