@@ -1418,7 +1418,7 @@ The governance decision record and its lawful host effect are separate state tra
 
 **[LOCAL VALIDATION — FI-008, FI-029, FI-031:]** Specify host acknowledgement contracts, commit deduplication, exact decision/event identity, receipt completeness, lawful implementation timing and independent review/appeal routes. This section does not authorise a new cross-owner command channel.
 
-## Chapter 12 — Clause disposition and validity reconciliation (working annex, not enacted)
+## 12.28 Clause disposition and validity reconciliation (working annex, not enacted)
 
 **Purpose.** This is a consolidation map, not a replacement for source text. Sections §12.4, §12.10 and §12.11 now retain their shared base text once alongside the distinct V2.1 spatial, operational-scale and legal-escalation clarifications. The duplicated base paragraphs in §§12.10–12.11 were checked for verbatim correspondence before their second occurrences were removed; §12.4 was checked and no equivalent repeated passage was found. The original source remains available in historical versions. These working interpretations are **not** separately enacted laws. The remaining constitutional validity, implementation and source-to-clause checks still require independent review.
 
@@ -1450,7 +1450,7 @@ The governance decision record and its lawful host effect are separate state tra
 
 
 
-## Chapter 12 — Quorum and lawful forum: portable-module source comparison (not enacted)
+## 12.29 Quorum and lawful forum: portable-module source comparison (historical analysis, not enacted)
 
 **Source examined:** `04_Portable_Modules/Triadic Decision Making Module.md` §§6–11. Its basic table expressly describes complete three-position cases (3F, 2F/1A, 1F/2A, 3A, 1F/1A/1U), establishes that abstention is information rather than an Against vote, distinguishes action from non-action, and permits escalation when a triad cannot responsibly resolve a question. The source **does not specify a constitutional minimum attendance, how an unoccupied third office affects quorum, or who may constitute a substitute**. It cannot by itself settle G-001.
 
