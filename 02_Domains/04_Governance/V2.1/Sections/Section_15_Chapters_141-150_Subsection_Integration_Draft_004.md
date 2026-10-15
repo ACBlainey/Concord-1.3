@@ -1578,21 +1578,6 @@ Some duplication wastes resources.
 
 The difference should be evaluated.
 
-## 149.8 Appropriate Scale
-
-The correct scale depends upon the problem.
-
-Relevant questions include:
-
-- Where does the consequence occur?
-- Where is relevant knowledge located?
-- What capability is required?
-- What coordination is necessary?
-- What externalities exist?
-- What level preserves practical accountability?
-
-
-<!-- BEGIN V2.1 INTEGRATED 149.8 — RECONCILED CANDIDATE 005 VERBATIM -->
 
 ## 149.8 Appropriate Scale
 
@@ -1611,7 +1596,6 @@ Relevant questions include:
 
 GTP's parent/child terms describe spatial subdivision, not a command hierarchy. Every spatial resolution exists conceptually at all times. Different resolutions may operate simultaneously, including overlapping coordination areas. Operational subdivision or consolidation responds to workload and capacity, with explicit hysteresis to prevent oscillation, but neither creates nor transfers lawful authority. Choose the lowest capable legitimate decision field by competence, externalities, resources and jurisdiction.
 
-<!-- END V2.1 INTEGRATED 149.8 — CANDIDATE 005 -->
 ## 149.9 Centralisation Burden of Proof
 
 Where authority is moved upward, the reason should be articulable.
@@ -1702,7 +1686,6 @@ Governance should therefore observe practical concentration over time.
 ## 149.x — V2.1 integration: decentralised conference and common competence
 
 Neighbouring GTP regions may confer to share information without merging jurisdictions. Voluntary contributions remain within each owner's mandate; binding common action requires separately established shared competence. Neither attendance nor majority preference can bind an independent nonparticipant. See Integrations 051–052 and 123.
-<!-- END V2.1 INTEGRATION 2026-10-13 -->
 
 # Chapter 150 — Governance and Central Coordination
 
@@ -1727,25 +1710,6 @@ Examples may include:
 
 Central coordination can solve problems that no local actor can resolve alone.
 
-## 150.2 Central Coordination Is Not Total Government
-
-A civilisation-wide institution may possess narrow authority over one shared function without becoming the general ruler of every local community.
-
-For example, an institution responsible for:
-
-- orbital collision avoidance
-
-does not thereby acquire authority over:
-
-- education;
-- culture;
-- local property;
-- or ordinary community life.
-
-The scope should remain connected to the responsibility.
-
-
-<!-- BEGIN V2.1 INTEGRATED 150.2 — RECONCILED CANDIDATE 005 VERBATIM -->
 
 ## 150.2 Central Coordination Is Not Total Government
 
@@ -1768,7 +1732,6 @@ The scope should remain connected to the responsibility.
 
 Sharing information, logistical planning or infrastructure does not grant general power to override an independent local jurisdiction. A binding shared decision requires a separately constituted common competence, bounded to the common field and subject to review. Even an expanded virtual-triad majority cannot manufacture that competence. Where local decisions remain independent, preference aggregation across other regions does not supersede them.
 
-<!-- END V2.1 INTEGRATED 150.2 — CANDIDATE 005 -->
 ## 150.3 Enumerated Central Authority
 
 Higher levels may benefit from explicitly defined authority.
@@ -1869,7 +1832,6 @@ Neither layer should presume complete epistemic superiority.
 ## 150.x — V2.1 integration: coordination is not conference-derived command
 
 A conference across GTP scales or neighbouring jurisdictions may support evidence sharing and voluntary coordination but cannot create central command or territorial hierarchy. Binding shared action requires independently lawful common competence; emergency preservation is separately bounded. The host owner, not the conference, verifies current execution authority and records effects. See Integrations 051–052, 097 and 123.
-<!-- END V2.1 INTEGRATION 2026-10-13 -->
 
 ## 150.y — Existing cross-boundary recognition and voluntary coordination interface
 
