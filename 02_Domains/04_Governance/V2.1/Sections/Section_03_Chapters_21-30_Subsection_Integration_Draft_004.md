@@ -1784,19 +1784,19 @@ Protecting good-faith emergency judgement is important because a system that pun
 
 **Do not treat this annex as canonical text or silently replace the source chapters.** The following proposed amendments are tracked separately in the repository's V2.1/Chapter_Patches folder.
 
-## Chapter 28 — Emergency Succession
+### Succession and substitution safeguards
 
 Separate advisory Parallel Stewardship from independently authorised substitute voting positions. Verify the appointment basis, eligibility, conflicts, duration and restoration conditions. Neither an unwanted substantive vote nor a principled abstention creates a vacancy. A larger GTP triangle is not a superior succession authority merely by geometry.
 
-## Chapter 29 — Degraded Triads
+### Degraded-triad classification and resultant validity
 
 Classify the failure before selecting the remedy: absence, incapacity, recusal, compromised independence, evidential insufficiency and abstention are distinct. Consider safe delay, authorised substitution, reconstitution, and properly justified expanded voting without a mandatory hierarchical ladder. In the excluded variant A/B/C each vote as a triad; in the included variant three mixed triads each have 2 neighbouring + 1 originating Steward. Three resultant votes, not pooled ballots, decide the virtual triad.
 
-## Chapter 30 — Emergency Abstention and Decision Failure
+### Emergency abstention and unresolved-result semantics
 
 For each triad, F if at least two valid For votes; A if at least two valid Against votes; otherwise U (Unresolved). Preserve the cause of U. Apply the same rule to the three constituent results. Thus F,F,U => F; F,A,U => U; A,A,U => A. No procedural failure or emergency authorises manufacturing a majority. A separately legitimate, narrow emergency-preservation power must be distinguished from a decision reached through voting.
 
-## Integration safeguards
+### Outstanding integration safeguards
 
 Preserve original Chapter 28–30 language until detailed clause reconciliation. Cross-check with V2 Chapters 9, 12, 54, 100, 132, 149–151 and 198. Explicitly define six-Steward vertex eligibility and termination of recursive expansion before graduation.
 
