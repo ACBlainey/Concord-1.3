@@ -70,6 +70,11 @@
 **Important distinction:** These authorial directions settle their stated principles. They do not implicitly settle constitutional quorum, appointment, authenticated authority or implementation validity.
 
 
+## 16 October 2026 — G-024 first structural chapter inventory (90 chapters)
+
+- **G-024 partial, structural check only:** Fetched nine existing V2.1 section manuscripts (Sections 01, 02, 03, 06, 10, 14, 15, 16 and 20). Each contains exactly its ten expected top-level `# Chapter N` headings in sequence, with no duplicate top-level chapter numbers: chapters 1–30, 51–60, 91–100, 131–160 and 191–200 (90 verified headings). This checks section numbering only, **not** preservation of V2 source clauses or correctness of chapter content. The other 13 sectional manuscripts remain unchecked in this inventory.
+- **Source-access limitation:** The GitHub file fetch for preserved `02_Domains/04_Governance/Governance V2 Canonical.md` returned an empty content string with an existing file SHA; do not infer that the preserved source is substantively empty or claim clause-level completeness. Obtain readable original source through an alternate verified retrieval path before closing G-024/G-025.
+
 ## 16 October 2026 — Chapter 149 capacity shortfall and jurisdiction
 
 - **G-023 partial:** Chapter 149 now expressly states that local capability shortfall permits lawful assistance, shared coordination or competence review, not automatic jurisdiction transfer to a larger GTP triangle. Wider-scope authority still requires its own constitutional or institutional authorisation. Source and remaining manuscript checks remain open.
