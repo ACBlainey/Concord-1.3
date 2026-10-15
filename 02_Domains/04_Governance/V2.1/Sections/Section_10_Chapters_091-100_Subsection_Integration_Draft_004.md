@@ -1258,7 +1258,7 @@ High-consequence decisions may justify substantial redundancy.
 > **Parallel Stewardship provides independent advisory reasoning to expose alternative interpretations, evidence and failure modes without silently acquiring executive authority. Its value depends upon meaningful independence rather than the mere existence of multiple advisers.**
 
 
-### Chapter 100 — Parallel Steward provenance and ascension interface
+### Parallel Steward Provenance and Ascension Interface
 
 **Working alignment with shared Stewardship Selection and Allocation; no automatic executive authority.** Historical owns stewardship knowledge and protected contemporaneous records; Education owns training/accreditation; participation tier and office-specific requirements control eligibility. Parallel Stewards independently record reasoning, abstention and shadow voting positions before the official outcome is known. Their records may support later ascension candidacy, but neither agreement with an incumbent nor years served automatically earns promotion, official voting authority or succession.
 
@@ -1274,6 +1274,6 @@ Chapters 28–30 govern emergency succession, degraded triads and deadlock; this
 
 Parallel Stewardship remains advisory unless independently appointed to a legally vacant official position. A conference does not promote an adviser into a voter, confer jurisdiction or substitute for an auditable GTP candidate selection. A selected substitute holds one decision-specific bounded position, with uniqueness and conflict checks across the entire decision event. Existing committed ballots cannot be displaced. See Integrations 022, 031 and 123.
 
-### Chapter 100 — Emergency oversight, judicial separation and effective remedy
+### Emergency Oversight, Judicial Separation and Effective Remedy
 
 **Constitutional Emergency V2 §§107–130:** Emergency secrecy may temporarily delay public disclosure, but must have owner, reason, scope, review/expiry and eventual disclosure criteria; secrecy does not erase evidence or constitutional memory. The Judiciary reviews emergency legality and rights without becoming executive command or resource allocator. Review should remain usable under urgency and avoid paralysis, while retaining procedural fairness. Judicial abstention does not automatically validate executive action. Audit, learning and individual remedy are different functions; a successful emergency outcome does not prove every measure justified. Whistleblowing, dissent and negative evidence must remain protected. Classify error, negligence, recklessness and abuse distinctly. **Open:** emergency court competence, secrecy-wrapper enforcement, access and remedy timescales, protection against retaliatory suppression.
