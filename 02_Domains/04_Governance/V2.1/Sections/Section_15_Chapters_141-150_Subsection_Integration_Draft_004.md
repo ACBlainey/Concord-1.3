@@ -1606,7 +1606,7 @@ Centralisation should solve a defined problem rather than simply accumulate beca
 
 ## 149.10 Decentralisation Burden of Competence
 
-Where authority remains local, the local level must possess sufficient capability to discharge the responsibility.
+Where authority remains with a locally competent institution, that institution must possess sufficient capability to discharge its responsibility. A capacity shortfall may justify independently authorised assistance, shared coordination or a separately lawful competence review; it does **not** transfer jurisdiction by default to a geometrically larger GTP cell.
 
 Subsidiarity therefore contains both:
 
