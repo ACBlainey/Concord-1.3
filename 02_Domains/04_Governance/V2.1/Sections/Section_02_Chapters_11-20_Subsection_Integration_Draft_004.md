@@ -511,6 +511,10 @@ Official voting is ordinarily isolated. A conference is permissible only within 
 Conference does not declare vacancies or appoint substitutes; lawful substitution retains independent eligibility and bounded authority. Information sharing does not establish binding shared competence. The Civilisational Clock cannot gate independently authorised urgent preservation. **Open implementation issues:** conference authoriser by decision class, pre-commit disclosure rules, post-partial-commit safeguards, projection side channels and cross-constituent independence.
 
 
+### 12.0a Recovered decision-interface qualifications
+
+The triad is the default governance decision unit wherever the triadic protocol applies, without making every governance function universally triadic. Each Steward's independent reasoning and decision position must be preserved before forming a collective result. Any expanded decision field must explicitly determine whether the originating triad is included or excluded; constituent triad results are not pooled individual ballots. Without the required valid majority, no substantive state change is authorised. These decision mechanics remain subject to the distinct eligibility, mandate and implementation gates in this chapter.
+
 ### 12.0b Expanded-decision record and finite continuation
 
 An expanded governance decision must record the originating GTP spatial address and operational scale; legitimate scope and reason for expansion; constituent group membership, individual eligibility, independence and conflicts; each constituent F/A/U result; final virtual-triad result; abstention and Unresolved causes; minority reasoning; authority basis; affected contexts; implementation boundaries; finite stopping rule, expiry/sunset and review route. Recursive expansion is not a method for seeking a preferred result: absent a lawful decision at the authorised boundary, record non-authorisation and refer only through independently legitimate continuity mechanisms. Different regions confronting a common hazard may share evidence and resources while retaining distinct lawful local policy decisions.
@@ -533,9 +537,6 @@ An expanded governance decision must record the originating GTP spatial address 
 ---
 
 
-### 12.0a Recovered decision-interface qualifications
-
-The triad is the default governance decision unit wherever the triadic protocol applies, without making every governance function universally triadic. Each Steward's independent reasoning and decision position must be preserved before forming a collective result. Any expanded decision field must explicitly determine whether the originating triad is included or excluded; constituent triad results are not pooled individual ballots. Without the required valid majority, no substantive state change is authorised. These decision mechanics remain subject to the distinct eligibility, mandate and implementation gates in this chapter.
 
 ## 12.1 Jurisdiction, Horizontal Expansion, Priority and Escalation
 
