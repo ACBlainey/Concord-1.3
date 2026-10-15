@@ -70,6 +70,10 @@
 **Important distinction:** These authorial directions settle their stated principles. They do not implicitly settle constitutional quorum, appointment, authenticated authority or implementation validity.
 
 
+## 16 October 2026 — Chapter 149 support and spatial authority
+
+- **G-023 partial:** Chapter 149 §149.6 now specifies that lawful wider-scope or neighbouring assistance does not confer command over smaller GTP cells; mandate, consent/shared competence and bounded execution authority remain separate. Historical completeness and other sectional checks remain open.
+
 ## 16 October 2026 — Chapters 150–151 spatial versus institutional coordination principle
 
 - **G-023 partial:** Reconciled the principle statements in Chapter 150 §150.10 and Chapter 151 §151.12 with the already incorporated Chapter 132 GTP mesh rule. Coordination across jurisdictions requires independently lawful competence; smaller geometric cells are not inherently 'lower' authorities, and an institution's wider lawful remit is not derived from spatial containment. Institutional federation may independently establish bounded competence and conflict-resolution priority. Remaining whole-manuscript/source checks remain open.
