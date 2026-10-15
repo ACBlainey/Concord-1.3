@@ -817,7 +817,7 @@ Its purpose is to address failure of the reviewing architecture itself.
 
 > **Governance requires both review and finality. Appeal architecture should correct material error through accessible and proportionate pathways while preserving operational closure, except where new evidence, constitutional failure or compromised review creates a sufficiently strong reason to reopen the matter.**
 
-## 83.22 Appeal and review do not rewrite committed ballots
+## 83.24 Appeal and review do not rewrite committed ballots
 
 **Source basis:** V1 Governance Component Recovery Map G-R13–15; Governance Operating Boundary and Authority Lifecycle §18.
 
@@ -825,7 +825,7 @@ A review may examine validity, rights, evidence, implementation and remedy witho
 
 
 
-## 83.23 Bounded epistemic appeal and provisional finality
+## 83.25 Bounded epistemic appeal and provisional finality
 
 **Audit source:** Epistemic Independence Adversarial Audit §§38,45–46 (historical adversarial evidence; not adopted law).
 
