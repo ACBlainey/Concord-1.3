@@ -343,7 +343,7 @@ Review mechanisms must themselves be bounded, contestable and reviewable; their 
 
 The BCA audit identifies authority to define, interpret or validate authority as authority itself, subject to bounded contextual review (BCA-R11). Recursive oversight cannot be made legitimate merely by adding another review office. Record independent function legitimacy, review mandate, appeal, termination and evidence. **[LOCAL ISSUE:]** recursive stopping condition and jurisdictional conflict resolution.
 
-## 162.V21 — Existing bounded recursive-review and non-compositional authority interface
+## 162.16 Existing bounded recursive-review and non-compositional authority interface
 
 Concord **State Triggered Review Architecture** separates a review trigger from the authority to decide; **Multi-Key Authority** (§17) prohibits composition of independently bounded mandates into a higher ungranted authority; **Fault-Tolerant Accountability and Responsibility Continuity** (§§9–13) supports lawful successor eligibility without permanent oversight incumbency. Recursive oversight may inspect an earlier review's provenance, competence, conflicts and consequences, but cannot recursively manufacture an unlimited appellate sovereign. Each review tier needs an independently justified remit, stopping/return condition, record custody, protected challenge and explicit remedy owner. **[LOCAL ISSUE — FI-064:]** constitutional reviewer appointment, recursion stop rule, meta-authority and independent remedy remain open.
 
@@ -667,7 +667,7 @@ Emergency operational time and event-driven state machines remain responsive whi
 
 Loss of authentication credentials must not terminate civil identity. Official communication should support store-and-forward reachability without requiring disclosure of physical location, including remote and deep-space settings. Exceptional routing and credential recovery require separate purpose-limited authorisation and accessible review. **[LOCAL ISSUE:]** offline recovery, cross-jurisdiction routing and identity continuity.
 
-## 164.V21 — Existing continuity and protected routing boundaries
+## 164.15 Existing continuity and protected routing boundaries
 
 Concord **Fault-Tolerant Accountability and Responsibility Continuity** (§§9–13), **Concord Bounded Participant Runtime** (§21), and **Concord Information Black Box** (§16) distinguish restoration of a service from restoration of its authority or protected master access. A prequalified successor is not automatically activated; a recovered backup is not necessarily current operational state. Civil Contact can route a request or alert, while Historical preserves appropriately controlled provenance and Continuity handles recovery: none of those functions alone appoints a Steward, authorises cross-jurisdiction action or grants a new credential. Use protected projections and owner-specific attestations for recovery/credential changes. **[LOCAL ISSUE — FI-020, FI-048, FI-052, FI-065:]** identity recovery issuer, outage pathway, owner acceptance and privacy-preserving audit remain unresolved.
 
@@ -782,7 +782,7 @@ Preserve decision question, mandate, evidence, uncertainty, ballots, dissent, re
 
 A summary is not a substitute for source ancestry, model lineage and decision-time evidence. Preserve the exact evidence snapshot that justified an action, with later corrections appended rather than backdated. Source lineage should allow challenge without exposing unnecessary participant identities. **[LOCAL ISSUE:]** CWA projections and KCS dependency index.
 
-## 165.V21 — Provenance of decisions versus downstream effects
+## 165.11 Provenance of decisions versus downstream effects
 
 Use Concord **Bounded Transition Architecture** (§§10, 12, 17, 19), **Concord Bounded Participant Runtime** (§§11, 13), and **KCS Change Propagation** (§16) as separate owner interfaces. A committed ballot/result retains its own immutable event reference and historical provenance. Downstream implementation is a different consequential transition with proposal, authorisation, effect attempt, confirmation/failure/unknown and any surviving duties; a corrected knowledge dependency creates a new review record rather than rewriting the original vote. Unknown external commit state must not be treated as proof that no effect occurred. Protected Historical projections should expose only what the legitimate reviewer needs. **[LOCAL ISSUE — FI-007, FI-018, FI-031, FI-049:]** canonical event keys, receipt linking, owner attestations and cross-domain audit reconciliation remain unverified.
 
@@ -1076,7 +1076,7 @@ Dependency mapping should therefore include provisional foundations.
 
 > **Unresolved architectural work may legitimately remain while higher-priority development proceeds, but development debt should remain visible, traceable and connected to the systems that depend upon it. Provisional architecture must not become permanent merely because its unresolved status was forgotten.**
 
-## 168.V21 — Existing contextual authority diagnostic interface
+## 168.10 Existing contextual authority diagnostic interface
 
 Concord **Multi-Key Authority**, **Fractal Permission Architecture**, **Bounded Transition Architecture** and **Concord Bounded Participant Runtime** already separate legitimate authority, permission, operational capability, consequential transition and owner revalidation. A Bounded Contextual Authority diagnostic can classify a proposed action by actor, scope, lawful basis, conditions, current state, expiry and effects, but the diagnostic does not issue or renew authority. Materially changed targets, effects, policy or rights constraints require current checks at commit. **[LOCAL ISSUE — FI-067, FI-069:]** host owner mapping, formal candidate rules, classification calibration and enforcement proof remain open.
 
