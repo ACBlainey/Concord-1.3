@@ -1800,6 +1800,14 @@ For each triad, F if at least two valid For votes; A if at least two valid Again
 
 Preserve original Chapter 28–30 language until detailed clause reconciliation. Cross-check with V2 Chapters 9, 12, 54, 100, 132, 149–151 and 198. Explicitly define six-Steward vertex eligibility and termination of recursive expansion before graduation.
 
+## 30.9 Abstention, emergency and fresh decisions
+
+For, Against and Abstain are distinct official single-use immutable ballot states. A valid abstention is not a vacancy or a negative vote. Unresolved arithmetic is not automatically emergency authority; emergency preservation needs its own lawful function, minimum scope, independent operational time, expiry, review and restoration. Later concerns or appeals do not reopen the completed decision; any replacement has a new identity and fresh authority. The Civilisation Clock may pause, but independent emergency state machines cannot wait for it. See Integrations 059–060, 115 and 121–123.
+
+### Chapter 30 — Constitutional Emergency V2 rights and restorative limits
+
+**Recovered source:** Constitutional Emergency V2, Chapters 91–106, together with Phase D4 §§11–12. Rights remain presumptively active; a threat classification does not itself grant quarantine, evacuation, resource reallocation, surveillance, identity control or triage authority. Each restriction requires its own lawful activation and proportionality/least-interference analysis, affected-holder standing, review and remedy. Scarcity must not reduce equal concern for participants to their productivity or prior contribution; equivalent claims may require fair randomisation under a separately legitimate protocol. Emergency surveillance and identity processing remain purpose-bounded and data-minimising. Emergency exit ends exceptional authority but not surviving custody, correction, compensation or restoration duties. **Unresolved:** exact lawful rights limitation thresholds, protected data implementations, review routes and substrate-specific protections.
+
 ### 30.10.1 Parallel Steward, vacancy, emergency substitution and restoration interface
 
 **Working cross-chapter alignment; independently lawful succession remains mandatory.** Historical holds protected office and decision provenance; Education owns accreditation; participant tier and office-specific checks establish current eligibility. A trained, time-served Parallel Steward may be an appropriate **candidate** for ordinary ascension or a lawful temporary appointment, but experience, shadow votes, proximity, seniority or an apparent need for continuity do not themselves appoint the candidate or confer an official vote. The legitimate selector/appointing authority is not yet finalised.
@@ -1879,10 +1887,3 @@ The valid vote determines the relevant decision state; the actual emergency deci
 
 
 <!-- V2.1 INTEGRATION 2026-10-13: AUTHORIAL SOURCE RECONCILIATION; DEVELOPMENTAL; REVERSIBLE -->
-## 30.9 Abstention, emergency and fresh decisions
-
-For, Against and Abstain are distinct official single-use immutable ballot states. A valid abstention is not a vacancy or a negative vote. Unresolved arithmetic is not automatically emergency authority; emergency preservation needs its own lawful function, minimum scope, independent operational time, expiry, review and restoration. Later concerns or appeals do not reopen the completed decision; any replacement has a new identity and fresh authority. The Civilisation Clock may pause, but independent emergency state machines cannot wait for it. See Integrations 059–060, 115 and 121–123.
-
-### Chapter 30 — Constitutional Emergency V2 rights and restorative limits
-
-**Recovered source:** Constitutional Emergency V2, Chapters 91–106, together with Phase D4 §§11–12. Rights remain presumptively active; a threat classification does not itself grant quarantine, evacuation, resource reallocation, surveillance, identity control or triage authority. Each restriction requires its own lawful activation and proportionality/least-interference analysis, affected-holder standing, review and remedy. Scarcity must not reduce equal concern for participants to their productivity or prior contribution; equivalent claims may require fair randomisation under a separately legitimate protocol. Emergency surveillance and identity processing remain purpose-bounded and data-minimising. Emergency exit ends exceptional authority but not surviving custody, correction, compensation or restoration duties. **Unresolved:** exact lawful rights limitation thresholds, protected data implementations, review routes and substrate-specific protections.
