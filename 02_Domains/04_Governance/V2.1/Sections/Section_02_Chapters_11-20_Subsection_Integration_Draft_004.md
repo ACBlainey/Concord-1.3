@@ -1572,6 +1572,17 @@ Reuse `03_Cross_Domain_Architecture/Stewardship_Selection_and_Allocation/README.
 
 **Authorial rule:** Each decision is a unique state-machine instance with a unique decision identifier. Every official vote is attributed to that identifier and its one legitimate voting position; acceptance is conditional on the current vote/decision state. A previously accepted vote cannot be cast again as a second vote after its state transition, and a decided/completed event cannot accept repeated ballots that recreate its substantive outcome. Later third-Steward information is provenance, not a new deciding vote or a reopened event. Resultant actions likewise reference the decision and their own execution states; repeated requests cannot reproduce a completed consequence. A new question, including a fresh decision on a historical issue, receives a new identifier and independently activated authority. Duplicate delivery and simultaneous submissions require atomic state validation and durable recording; the ID by itself is not a security token or authority grant. Earlier speculative event-boundary complexities should not be read as permission to reuse a completed decision.
 
+
+### Future design architecture — deferred implementation interfaces (G-004, G-005, G-006, G-007)
+
+**ARCHITECTURE TO BE DESIGNED — OUTSIDE CURRENT V2.1 TEXT-INTEGRATION SCOPE.** The principles in this chapter remain operative as stated. The following are design requirements, **not** invented deployed services, automatic authority grants or grounds to delay consolidation. Resolve these at the indicated interfaces when working systems and domain owners exist:
+
+- **G-004 — Architecture to be designed:** Specify triangle-owned Steward-to-node identity, eligible-holder and office-location mapping; geometric incidence must never appoint a voter.
+- **G-005 — Architecture to be designed:** Define lawful constituent-triad appointment, distinct-holder checks, common competence, resultants, recusal and decision-event proof for both expanded modes.
+- **G-006 — Architecture to be designed:** Design topology-seam and wider-ring alternate selection, eligibility deduplication, auditable unbiased selection, recusal and anti-vote-shopping controls.
+- **G-007 — Architecture to be designed:** Design event identity, ancestry, retry/idempotency, protected cross-alias uniqueness, lawful appeal boundaries and unknown-boundary quarantine.
+
+**Future acceptance evidence:** record accountable owner, actual mandate, state-machine/adapter specification, failure and recovery paths, independent review and provenance. Preserve CAP ≠ PERM ≠ AUTH. Do not mark implementation as tested or operational until supported by real evidence.
 # Chapter 13 — Stewardship Domains
 
 ## 13.1 Introduction
