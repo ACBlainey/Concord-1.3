@@ -463,7 +463,7 @@ The operative rule in §§132.0, 132.1 and 132.4 is that **all GTP geometric lev
 
 **[LOCAL VALIDATION:]** Determine numeric workload thresholds and persistence windows, asymmetric activation across the four child contexts, lawful officeholder allocation and continuity, mixed-resolution seams and node incidence, independent cross-context consent and anti-capture controls. Historical reconstruction is retained in the V1–V1.2 sources; no additional spatial hierarchy or implementation readiness is implied.
 
-## 132.V21 — Existing module interfaces and remaining GTP implementation boundaries
+## 132.14 Existing Module Interfaces and Remaining GTP Implementation Boundaries
 
 **Existing architecture applied.** **State and Maturity Mapping** supplies context-relative workload and capacity observations, not a spatial jurisdiction grant. **Cross Boundary Externality Recognition** (§§15–17) distinguishes internal, overlapping, shared, disputed and unknown competence; **Fractal Permission Architecture** and **Multi-Key Authority** prevent adjacency, shared infrastructure or independently valid permissions from manufacturing a new common mandate. The operative spatial and substitution rules are consolidated in §§132.0–132.13 above; they are not restated here as a parallel rule.
 
