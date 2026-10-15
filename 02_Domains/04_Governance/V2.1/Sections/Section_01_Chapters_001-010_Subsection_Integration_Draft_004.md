@@ -4711,29 +4711,6 @@ It may represent:
 
 Where practicable, the reason for abstention should be recorded.
 
-
-
-## 9.14 Abstention
-
-An abstention is not automatically equivalent to:
-
-- For;
-- Against;
-- consent;
-- or absence.
-
-It may represent:
-
-- insufficient information;
-- uncertainty;
-- inability to evaluate the question;
-- conflict of interest;
-- refusal to participate;
-- procedural concern;
-- or another reason.
-
-Where practicable, the reason for abstention should be recorded.
-
 ### V2.1 — Three-Position Result Semantics
 
 For any lawfully constituted three-position decision, distinguish For (F), Against (A), and Unresolved (U). Two valid matching F positions yield F; two valid matching A positions yield A; otherwise U, subject to separately valid quorum, eligibility and decision-class rules. U is not a substantive Against vote. Record abstention, recusal, absence, failed authentication, conflict and evidential insufficiency as different causes, not interchangeable votes. This rule applies independently at each authorised constituent triad and at the three-resultant virtual-triad stage. No arithmetic result creates jurisdiction or appointment authority.
