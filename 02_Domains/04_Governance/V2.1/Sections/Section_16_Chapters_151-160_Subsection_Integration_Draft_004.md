@@ -11,23 +11,6 @@ Institutional federation and GTP's geometric mesh are distinct. Lawful federal c
 **Open issue:** reconcile the older 'nested governance' language with genuine lawful delegation, without mistaking geometric nesting for institutional hierarchy.
 
 
-## 151.1 Nested Governance
-
-A federation may combine:
-
-- local;
-- regional;
-- planetary;
-- and civilisation-wide authority.
-
-Federation allows multiple layers of legitimate Governance to coexist.
-
-The objective is not merely hierarchy.
-
-It is allocation of responsibility across scales.
-
-
-<!-- BEGIN V2.1 INTEGRATED 151.1 — RECONCILED CANDIDATE 005 VERBATIM -->
 
 ## 151.1 Nested Governance
 
@@ -48,7 +31,6 @@ It is allocation of responsibility across scales.
 
 Lawful federal delegation, priority and concurrent jurisdiction derive from constitutional provisions, not GTP cell containment. A larger triangle has no inherent supervisory authority over a smaller one. The spatial mesh may coordinate across scales while legally established federated offices retain their separately defined powers. Spatial parent/child and institutional superior/subordinate must not be conflated.
 
-<!-- END V2.1 INTEGRATED 151.1 — CANDIDATE 005 -->
 ## 151.2 Federated Constitutional Core
 
 Different member communities may share:
@@ -173,7 +155,6 @@ The principle is:
 ## 151.x — V2.1 integration: federated coordination and bounded authority
 
 Conference and federation are not synonyms. Information sharing, voluntary coordinated execution, binding common competence and emergency preservation require distinct legitimacy checks. Expanded virtual-triad arithmetic does not create federal jurisdiction. Each owner retains authority, expiry, review and remedy boundaries. See Integrations 051–052 and 123.
-<!-- END V2.1 INTEGRATION 2026-10-13 -->
 
 # Chapter 152 — Governance and Cultural Autonomy
 
