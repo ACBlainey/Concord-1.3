@@ -1418,10 +1418,10 @@ The governance decision record and its lawful host effect are separate state tra
 
 | Clause | Preserved overlap | Proposed single operative placement | Unresolved check |
 | --- | --- | --- | --- |
-| 12.4 | Earlier Horizontal Expansion and integrated Candidate 013 repeat the same base paragraphs; Candidate adds spatial interpretation | One §12.4 containing common base text once, followed by V2.1 meaning-of-horizontal-expansion clarification | Confirm verbatim correspondence and differences before deduplication |
+| 12.4 | The consolidated §12.4 contains the base Horizontal Expansion text and the distinct V2.1 spatial interpretation; no second copy of the base passage was found in the current clause | One §12.4 retains the base text once, followed by the meaning-of-horizontal-expansion clarification and bounded coordination qualification | Independently verify historical Candidate 013 provenance; retain the open aggregate-restriction review interface |
 | 12.9 | Original temporary expanded triad and recovered virtual-resultant subsection are related, not interchangeable duplicates | Keep original purpose/scope provision followed by bounded resultant and node-ring technical subclauses | Validate nine distinct holders, legal constitution, event identity and quorum |
-| 12.10 | Earlier and Candidate 013 Horizontal Expansion Before Vertical Escalation repeat the same base paragraphs; Candidate adds operational-scale interpretation | One §12.10 with shared base text once and clarified subsidiarity rule | Confirm exact source alignment and optional bounded hierarchy compatibility |
-| 12.11 | Earlier and Candidate 013 Vertical Escalation repeat the same base paragraphs; Candidate adds legal-versus-geometric escalation | One §12.11 with common base text once and explicit lawful delegation/referral boundaries | Verify constitutional instrument and return mechanism |
+| 12.10 | The second occurrence of the identical base paragraphs was removed after comparison; the operational-scale interpretation is retained in full | One §12.10 with shared base text once and clarified subsidiarity rule | Verify optional bounded hierarchy compatibility and lawful cross-scale competence |
+| 12.11 | The second occurrence of the identical base paragraphs was removed after comparison; the legal-versus-geometric escalation qualification is retained in full | One §12.11 with common base text once and explicit lawful delegation/referral boundaries | Verify constitutional instrument, expiry and return mechanism |
 
 ### Voting-validity decision table (interpretive only)
 
