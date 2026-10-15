@@ -1247,7 +1247,7 @@ High-consequence decisions may justify substantial redundancy.
 
 ### Parallel Steward Provenance and Ascension Interface
 
-**Working alignment with shared Stewardship Selection and Allocation; no automatic executive authority.** Historical owns stewardship knowledge and protected contemporaneous records; Education owns training/accreditation; participation tier and office-specific requirements control eligibility. Parallel Stewards independently record reasoning, abstention and shadow voting positions before the official outcome is known. Their records may support later ascension candidacy, but neither agreement with an incumbent nor years served automatically earns promotion, official voting authority or succession.
+**Working alignment with shared Stewardship Selection and Allocation; no automatic executive authority.** Historical owns stewardship knowledge and protected contemporaneous records; Education owns training/accreditation; participation tier and office-specific requirements control eligibility. Parallel Stewards independently record reasoning, abstention and **non-official shadow voting indications** before the official outcome is known. These advisory indications do not consume an official position's vote authority or count toward the three official ballots required for ordinary completion. Their records may support later ascension candidacy, but neither agreement with an incumbent nor years served automatically earns promotion, official voting authority or succession.
 
 **Reality-anchored but method-agnostic:** preserve later observable evidence alongside frozen original reasoning. No universal performance score, comparator weight or observation window is to be designed before real decision classes and suitable evidence exist. Incumbent agreement alone has no reward; sound independent dissent may prove more informative. Shadow ballots remain advisory until a separate lawful appointment constitutes an official Chapter 12 position.
 
@@ -1259,7 +1259,7 @@ Chapters 28–30 govern emergency succession, degraded triads and deadlock; this
 
 ## 100.12 Parallel Stewardship Versus Conference and Substitution
 
-Parallel Stewardship remains advisory unless independently appointed to a legally vacant official position. A conference does not promote an adviser into a voter, confer jurisdiction or substitute for an auditable GTP candidate selection. A selected substitute holds one decision-specific bounded position, with uniqueness and conflict checks across the entire decision event. Existing committed ballots cannot be displaced. See Integrations 022, 031 and 123.
+Parallel Stewardship remains advisory unless independently appointed to a legally vacant official position. A conference does not promote an adviser into a voter, confer jurisdiction or substitute for an auditable GTP candidate selection. A selected substitute holds one decision-specific bounded position, with uniqueness and conflict checks across the entire decision event. A valid three-holder triad must be constituted before voting; a lawful alternate can occupy an unavailable position, but an original Steward may supersede that alternate only **before** the alternate commits its official ballot. Existing committed ballots cannot be displaced. Ordinary effect requires all three official ballots, including a lawful alternate's ballot where applicable. See Integrations 022, 031 and 123.
 
 ### Emergency Oversight, Judicial Separation and Effective Remedy
 
@@ -1271,7 +1271,7 @@ Parallel Stewardship is an independent advisory function: it can evaluate eviden
 
 A Parallel Steward becomes a voting substitute only through a separate, position-specific lawful appointment. That appointment must validate identity, competence, independence, conflicts, jurisdiction, decision scope, duration and audit. A contrary vote or principled abstention by the incumbent does not justify replacement. Six-Steward GTP vertex affiliation is a potential eligibility context, never automatic office or succession. Prevent duplicate effective votes across constituent triads.
 
-Temporary substitute authority ends on its defined expiry, completion of the authorised decision or restoration of ordinary office, as applicable. Any continuing advisory role remains separate and non-executive.
+Temporary substitute authority ends on its defined expiry, completion of the authorised decision or lawful restoration of ordinary office, as applicable. Restoration cannot displace an alternate's already committed official ballot or retroactively revoke its consumed decision-specific authority. Any continuing advisory role remains separate and non-executive.
 
 **Open issue:** resolve the vertex-to-decision-position eligibility mapping and test independence across expanded triads before specifying automatic selection.
 
