@@ -1472,6 +1472,8 @@ The governance decision record and its lawful host effect are separate state tra
 
 **No premature quorum rule adopted.** Neither a universal “two holders always suffice” nor a universal “all three holders must participate” follows from the portable source or the authorial arithmetic decision. The constitutional decision is specifically how to constitute a lawful three-position forum under temporary absence, permanent vacancy, conflict recusal and emergency. Preserve that fork for authorial resolution after further V1/V1.2 source recovery; do not fill it by assumption.
 
+**Subsequent authorial resolution (15 October 2026):** This earlier source-comparison paragraph is retained as historical analysis, not the operative constitution rule. Three distinct eligible Stewards must first be selected and validated to enter the authorised voting state; lawful alternate occupancy can maintain a position after absence. Two matching official ballots can then determine the result without requiring the third ballot. The specific appointment, absence-evidence and handover implementation interfaces remain open. See the three-position constitution clarification below.
+
 
 
 ### Authorial clarification: vote authority is not implementation authority
