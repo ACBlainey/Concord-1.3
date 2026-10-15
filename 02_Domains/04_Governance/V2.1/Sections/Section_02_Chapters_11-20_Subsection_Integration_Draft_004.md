@@ -1480,6 +1480,134 @@ The governance decision record and its lawful host effect are separate state tra
 
 **[LOCAL VALIDATION — FI-008, FI-029, FI-031:]** Specify host acknowledgement contracts, commit deduplication, exact decision/event identity, receipt completeness, lawful implementation timing and independent review/appeal routes. This section does not authorise a new cross-owner command channel.
 
+## Chapter 12 — Clause disposition and validity reconciliation (working annex, not enacted)
+
+**Purpose.** This is a consolidation map, not a replacement for source text. The original §12.4, §12.10 and §12.11 paragraphs and Candidate 013 restatements remain in this manuscript for provenance; duplicate headings are **not** two separately operative laws. Final numbering and removal of duplicate operative presentation require authorial approval and an independently checked source-to-clause map.
+
+| Clause | Preserved overlap | Proposed single operative placement | Unresolved check |
+| --- | --- | --- | --- |
+| 12.4 | Earlier Horizontal Expansion and integrated Candidate 013 repeat the same base paragraphs; Candidate adds spatial interpretation | One §12.4 containing common base text once, followed by V2.1 meaning-of-horizontal-expansion clarification | Confirm verbatim correspondence and differences before deduplication |
+| 12.9 | Original temporary expanded triad and recovered virtual-resultant subsection are related, not interchangeable duplicates | Keep original purpose/scope provision followed by bounded resultant and node-ring technical subclauses | Validate nine distinct holders, legal constitution, event identity and quorum |
+| 12.10 | Earlier and Candidate 013 Horizontal Expansion Before Vertical Escalation repeat the same base paragraphs; Candidate adds operational-scale interpretation | One §12.10 with shared base text once and clarified subsidiarity rule | Confirm exact source alignment and optional bounded hierarchy compatibility |
+| 12.11 | Earlier and Candidate 013 Vertical Escalation repeat the same base paragraphs; Candidate adds legal-versus-geometric escalation | One §12.11 with common base text once and explicit lawful delegation/referral boundaries | Verify constitutional instrument and return mechanism |
+
+### Voting-validity decision table (interpretive only)
+
+| Situation | Substantive arithmetic | Legal effect / next action |
+| --- | --- | --- |
+| Two independently valid matching official F votes | For majority determined | Requires separately valid forum, quorum, jurisdiction, event identity and implementation authority; ordinary effect at next applicable Clock transition, lawful urgent effect may be immediate |
+| Two independently valid matching official A votes | Against majority determined | Same validity gates; third official vote remains provenance obligation, not a veto |
+| One F, one A, third official vote pending | No majority yet | Preserve pending official ballot; no implementation on an invented majority |
+| One or more U / abstention ballots | Apply F/A/U arithmetic only to valid official votes | Reason-sensitive handling; U does not automatically mean absence, recusal or vacancy |
+| Third official Steward absent after two matching valid votes | Determined arithmetic, incomplete official record | Preserve pending provenance and apply lawful completion/finalisation rule when established; no automatic shadow substitution |
+| Parallel Steward submits an independent shadow vote | No official voting effect | Preserve separately for possible later evidence-based learning; no automatic promotion into triadic tally |
+| Conflict recusal or compromised holder | Validity depends on independent constitution and quorum rules | Use only separately lawful bounded substitution/expanded position; do not treat conflict as mere information abstention |
+| Three constituent expanded-triad resultants | One resultant per constituent triad; never pooled nine-ballot majority | Requires distinct eligible holders, common lawful competence, correct event graph and independently valid resultant binding; no authority from GTP geometry |
+| Optional cross-scale hierarchical coordination | No additional or superior vote created | Binding direction requires separate legal competence; coordination structure does not change Chapter 12 vote weight |
+| Civilisation Clock paused during emergency | Clock is not an emergency deadline | Independently lawful urgent action and operational expiry/review continue on emergency timebase; revalidate stale dependencies at resumption |
+
+**Open constitutional gates, not inferred by this table:** legal quorum and constitution of partially occupied triads; completion/finalisation of missing third votes; eligible substitution and expanded-resultant appointment; exact decision-event identity and appeal boundaries; legal issuer for exceptional action; binding cross-area competence. Source-preserving integration is not proof of implementation or authorial graduation.
+
+
+
+## Chapter 12 — Quorum and lawful forum: portable-module source comparison (not enacted)
+
+**Source examined:** `04_Portable_Modules/Triadic Decision Making Module.md` §§6–11. Its basic table expressly describes complete three-position cases (3F, 2F/1A, 1F/2A, 3A, 1F/1A/1U), establishes that abstention is information rather than an Against vote, distinguishes action from non-action, and permits escalation when a triad cannot responsibly resolve a question. The source **does not specify a constitutional minimum attendance, how an unoccupied third office affects quorum, or who may constitute a substitute**. It cannot by itself settle G-001.
+
+**Concord authorial direction already supplied:** Two independently valid matching official For or Against votes determine the substantive majority, while the third official vote remains required for provenance. That principle answers arithmetic determinacy but does not automatically establish a lawfully constituted forum. A conservative assumption requiring three occupied positions was previously proposed, but the later authorial direction supersedes its use as a reason to delay an otherwise lawful two-vote result; it does **not** expressly abolish all forum-constitution requirements.
+
+### Distinct validation questions
+
+1. **Office constitution:** Does the decision event have three lawfully established positions, even if one holder is temporarily unreachable? Is a permanently vacant office materially different? The portable module does not answer.
+2. **Eligible holder and independence:** Are the two matching ballots from two distinct, currently eligible, independently authorised holders acting within the same valid decision event? Shadow votes and duplicate event aliases do not qualify.
+3. **Quorum:** Does the applicable independently adopted law permit a decision when the third official ballot is absent, the third position is unoccupied, or a holder has recused? These are separate conditions and remain unresolved.
+4. **Majority:** If the forum is lawful and two official votes validly match, the substantive F/A result is fixed; the third ballot cannot reverse it. F/A without a third ballot has no majority.
+5. **Consequential effect:** Competence, protected rights, actual mandate, MKA verification at act/commit, ordinary Clock scheduling and emergency-independent timing remain separate from the vote tally.
+6. **Provenance:** Preserve the third official position's outstanding ballot, reason for absence/abstention, later completion or separately lawful finalisation, and any substitution chain without retroactive rewriting.
+
+### Cases that must not be silently equated
+
+| Case | What is known | What remains to be established |
+| --- | --- | --- |
+| Three valid official positions, all occupied; two matching ballots and third pending | Substantive majority determined | Applicable forum/quorum and official third-ballot completion policy |
+| Three lawful offices, third holder temporarily unreachable | Two matching valid ballots can determine arithmetic | Whether lawful quorum survives temporary nonparticipation and which urgency class applies |
+| Third office permanently vacant | Arithmetic alone does not fill the office | Vacancy constitution, lawful succession and forum validity |
+| Third holder recused for conflict | Recusal is not an information abstention | Whether and how a replacement may lawfully be constituted |
+| Third holder abstains for insufficient evidence | U is a recorded decision position, not a vacancy | Whether other two valid matching ballots lawfully determine the result |
+| Two votes are matching but from same holder/duplicated event | Not two independent official votes | Correct identity/event lineage; withhold consequential commit |
+| Parallel Steward offers a matching shadow ballot | Advisory record only | Separate appointment before any official voting position can exist |
+| Expanded triad returns a constituent resultant | One bounded original-position weight | Independent lawful constituent constitution, quorum, common competence and resultant binding |
+
+**No premature quorum rule adopted.** Neither a universal “two holders always suffice” nor a universal “all three holders must participate” follows from the portable source or the authorial arithmetic decision. The constitutional decision is specifically how to constitute a lawful three-position forum under temporary absence, permanent vacancy, conflict recusal and emergency. Preserve that fork for authorial resolution after further V1/V1.2 source recovery; do not fill it by assumption.
+
+
+
+### Authorial clarification: vote authority is not implementation authority
+
+**Authorial rule (12 October 2026):** A lawfully constituted triad possesses bounded **authority to vote** within its decision context. The triad **does not possess authority to act upon or implement that vote by virtue of voting**. The competent implementation authority is separately held elsewhere, with its own lawful source, scope, conditions, owner, expiry and accountability. A vote may be valid and its outcome determined even where implementation is pending, withheld, challenged or outside the implementer's present mandate.
+
+Keep separate records for (1) lawful triad constitution and voting-position authority, (2) official ballot validity and majority result, and (3) independently authorised implementation by the actual competent actor. Two independently valid matching official votes determine the F/A majority under the settled arithmetic rule, subject to valid voting constitution; they do **not** themselves create implementation permission or authority. The third official vote remains provenance, not an implementation gate merely by being late.
+
+**Quorum question narrowed:** G-001 asks only what constitutes a lawful **voting forum**, including absence, recusal and vacancy. Do not use an implementation mandate or inability to implement as a proxy for voting quorum. Nor should the voting triad be described as the executing authority. CAP ≠ PERM ≠ AUTH applies independently to the implementer. The applicable Civilisation Clock transition schedules ordinary implementation where required; lawful urgent action can occur independently of a paused Clock **only by an already competent, bounded implementation actor**.
+
+
+
+### Vote-driven state transition and bounded authority (authorial correction)
+
+**Correction to the preceding 12 October implementation separation:** The valid triadic **vote decision is what changes the relevant decision state**. The **state machine** owns and effects the state transition according to its lawfully established transition relation. The triad holds authority to vote, **not direct operational authority to perform subsequent acts**. Do not describe the vote as merely an advisory result waiting for an executive to decide whether the state changes; do not describe the Stewards as personally executing that transition.
+
+**Source alignment:** `04_Portable_Modules/Triadic Decision Making Module.md` §§6–7 explicitly says a majority can authorise a state change and that a vote is itself an action. `Bounded Transition Architecture — Portable Module v1.0.md` §§7–11, 16, 21–24 records transition identity, multi-owner states, completion and authority interfaces but **does not itself create authority or own host state semantics**. `Multi-Key Authority — Portable Module v1.0.md` §§3–6, 21–23, 38–39 verifies independently sourced authority for an actual consequential act and does not own transition state or substantive law. `State and Maturity Mapping — Portable Module v1.0.md` §§5, 25 explicitly distinguishes represented state from authority and preserves change history; it is not the operational state machine.
+
+**Working state sequence, not an invented machine implementation:** lawfully constituted voting forum → valid ballots → determined decision outcome → authorised decision-state transition by the competent host state machine, subject to its independently legitimate transition conditions → any downstream physical/resource/legal execution by separately bounded actors under their own authority. These are distinguishable transitions, not necessarily sequential clock ticks. The decision-state transition may itself have consequential legal effect; do **not** assume all legal effect waits for a separate executive act. Ordinary effective-time/Clock scheduling and emergency-independent timing belong to the host's valid transition semantics, not to discretionary reapproval by an implementer.
+
+**Unresolved ownership detail:** Which existing state machine is authoritative for each decision class, exactly when a vote-result event is accepted/committed, how rejected/pending/failed transitions are represented, and which downstream effects require independent act authority must be recovered from original Concord state-machine and bounded-authority architecture. BTA provides an integration contract, not proof that one universal state machine exists. Quorum still concerns validity of the voting forum; an invalid vote cannot lawfully drive a state transition.
+
+
+
+### Domain-owned bounded authority for consequences of a vote
+
+**Authorial clarification (12 October 2026).** A lawful triadic vote determines the decision outcome and drives the competent decision-state machine's lawful state transition. **Authority to action the resulting decision is determined by each affected system's own bounded-authority rules.** There is no universal Concord-wide executive mandate conferred by the vote or by a generic state-machine transition.
+
+For each affected system, resolve the actual consequential act, context, route, actor, authority source, permission/consent, scope, current conditions, prohibitions, implementation state and review under **that system's** rules. A single decision may fan out to multiple systems with different valid outcomes: authorised action in one, pending review in another, prohibited action in a third. Do not collapse them into one global implementation status or treat one system's authority as transferable to another. MKA verifies authority composition for each actual act where material; BTA preserves cross-system transition relationships and partial/pending outcomes without assigning substantive authority.
+
+**Important distinction:** A decision-state change is not automatically the same as completed physical, financial, medical or infrastructural action. A valid vote should not be re-decided by downstream actors, but they must not act outside their own independently bounded competence. When the voted decision itself has immediate legal effect, represent that as the appropriate host-defined transition; do not infer authority for further downstream acts.
+
+
+
+### Do not preassign unknown decision consequences or executors
+
+**Authorial clarification (12 October 2026):** Before a triad has voted, the actual decision is unknown. Consequently the affected systems, exact consequences, required actions, implementing actors and applicable bounded-authority pathways **cannot be specified in advance as a universal mechanism**. The constitutional architecture may define the interface and its constraints, but must not fabricate the eventual route, actor, action or mandate.
+
+A valid triadic vote drives the lawful decision-state transition through the relevant state machine. **Only when the actual outcome and its consequences are established** can the applicable host/domain systems and their own bounded-authority rules be identified. Some decisions need no downstream act; others may need one or many, or may require additional lawful decisions. The post-decision resolution is context-specific and may be iterative or concurrent, not a compulsory fixed pipeline or a mandatory separate clock cycle.
+
+The state machine must not be misrepresented as a universal executive authority or as a machine that automatically knows all future actors. BTA can represent discovered multi-owner transition relations, unresolved dependencies and partial outcomes; MKA can test actual consequential acts when their route and authority dimensions are known. **Unresolved consequence/owner is a legitimate explicit state**, not permission to guess an executor or infer authority from the vote. Earlier references to a named 'implementation owner' as a required *pre-vote* field are conditional placeholders for cases where the owner is already legitimately known, not universal prerequisites.
+
+
+
+
+### Authorial resolution: contextual quorum and two-vote decision sufficiency
+
+**Source-preserving priority clarification (12 October 2026; working integration, not final constitutional graduation):** The author's latest express clarification resolves the earlier G03 Candidate 047 versus Direction 048 uncertainty **against treating a missing non-decisive third ballot or an unoccupied third position as an additional legality gate**. Quorum is contextual. When **two independently authorised official Stewards**, in the legitimate decision context and the same valid decision event, agree For/For or Against/Against, the triadic mechanism has successfully determined its substantive result. The third Steward cannot change that majority; their subsequent ballot, reasons, disagreement or uncertainty add knowledge, confidence, dissent and provenance, **not a veto or a second legalisation step**. Historical Candidate 047 and earlier language above about an unresolved full-three-occupied constitutional fork remain preserved as source history but are **superseded on this specific point** by the authorial resolution. Do not silently reimpose a mandatory three-person occupancy test as an operative condition.
+
+The triadic design principally avoids deadlock, increases the independent knowledge/skill space, reduces capture and coheres with GTP spatial organisation. This does not excuse forged, duplicated or unauthorised decisive ballots: Steward identity, current contextual authority, office competence, conflict and decision-event identity still matter. A shadow/parallel Steward's independent assessment remains informative, **not an official ballot** unless separately authorised for that position. Distinguish substantive result, third-vote provenance and actual downstream host action. Ordinary decisions remain subject to the applicable variable Civilisation Clock transition; independently lawful urgent/emergency decisions need not wait for the Clock or third ballot.
+
+### Steward appointment: provisional outline only
+
+**Status: AUTHORIAL DIRECTION / PROVISIONAL OUTLINE; NOT AN ENACTED APPOINTMENT CODE.** In a nonhierarchical GTP mesh, ordinary available Steward offices may be filled by an HR-like process checking qualification, knowledge, merit, eligibility and experience, with ascension from experienced parallel Stewards preferred. A **specially bounded appointing Steward or board** is a possible way to authorise the discrete appointment transaction; that role does not thereby become the new Steward's superior or gain power over later decisions. Founding the **first** Stewards may require a distinct transitional/bootstrap route from ordinary later replacements. This is a design question, not an established source of founding authority.
+
+Reuse `03_Cross_Domain_Architecture/Stewardship_Selection_and_Allocation/README.md` §§10–13, Education accreditation, Participation standing, Historical provenance, contextual authority and existing portable modules. Do **not** now prescribe a founding board, membership, candidate score, appointment algorithm, anti-capture protocol, expiry schedule or automatic ascension. Appointment and founding legitimacy, choice among multiple qualified candidates, review and capture safeguards remain deliberately open pending source recovery and authorial development. Earlier procedural examples are illustrative only.
+
+
+
+### Authorial decision finality and new-instance authority (12 October 2026)
+
+**Authorial rule, superseding earlier tentative reconsideration language:** A completed decision is an immutable historical event once its lawful state-machine transition has occurred. Its vote result, provenance, operative context and authority record are preserved; they are **not reopened, recounted, replaced or readdressed as the same event**. New evidence, challenge, appeal, remedy or changed circumstances concerning that earlier issue instead initiates a **new decision instance** in the then-current state, requiring a newly legitimate activation of contextual authority and its own event identity, competence, participants and transition conditions. The new event may change present/future consequences or order remedy, but cannot rewrite the historical decision. A late third ballot is supplementary provenance only after the original decision has completed; the earlier provisional-ballot supersession proposals cannot overwrite the historic completed vote or alter its F/A result. Their possible use before completion remains a separately authorised and still provisional continuity question. A technical retry or duplicate receipt of an unfinished event is **not** a new substantive instance and cannot multiply votes or effects. This rule resolves the conceptual historical-reopening fork; event-completion proof, idempotency and protected ancestry links remain implementation details. See Integration 018 and 048.
+
+
+### Unique decision identifiers and state-gated voting (12 October 2026)
+
+**Authorial rule:** Each decision is a unique state-machine instance with a unique decision identifier. Every official vote is attributed to that identifier and its one legitimate voting position; acceptance is conditional on the current vote/decision state. A previously accepted vote cannot be cast again as a second vote after its state transition, and a decided/completed event cannot accept repeated ballots that recreate its substantive outcome. Later third-Steward information is provenance, not a new deciding vote or a reopened event. Resultant actions likewise reference the decision and their own execution states; repeated requests cannot reproduce a completed consequence. A new question, including a fresh decision on a historical issue, receives a new identifier and independently activated authority. Duplicate delivery and simultaneous submissions require atomic state validation and durable recording; the ID by itself is not a security token or authority grant. Earlier speculative event-boundary complexities should not be read as permission to reuse a completed decision.
+
 # Chapter 13 — Stewardship Domains
 
 ## 13.1 Introduction
@@ -6384,133 +6512,6 @@ Where a proposed arrangement would give binding direction rather than merely org
 
 
 
-## Chapter 12 — Clause disposition and validity reconciliation (working annex, not enacted)
-
-**Purpose.** This is a consolidation map, not a replacement for source text. The original §12.4, §12.10 and §12.11 paragraphs and Candidate 013 restatements remain in this manuscript for provenance; duplicate headings are **not** two separately operative laws. Final numbering and removal of duplicate operative presentation require authorial approval and an independently checked source-to-clause map.
-
-| Clause | Preserved overlap | Proposed single operative placement | Unresolved check |
-| --- | --- | --- | --- |
-| 12.4 | Earlier Horizontal Expansion and integrated Candidate 013 repeat the same base paragraphs; Candidate adds spatial interpretation | One §12.4 containing common base text once, followed by V2.1 meaning-of-horizontal-expansion clarification | Confirm verbatim correspondence and differences before deduplication |
-| 12.9 | Original temporary expanded triad and recovered virtual-resultant subsection are related, not interchangeable duplicates | Keep original purpose/scope provision followed by bounded resultant and node-ring technical subclauses | Validate nine distinct holders, legal constitution, event identity and quorum |
-| 12.10 | Earlier and Candidate 013 Horizontal Expansion Before Vertical Escalation repeat the same base paragraphs; Candidate adds operational-scale interpretation | One §12.10 with shared base text once and clarified subsidiarity rule | Confirm exact source alignment and optional bounded hierarchy compatibility |
-| 12.11 | Earlier and Candidate 013 Vertical Escalation repeat the same base paragraphs; Candidate adds legal-versus-geometric escalation | One §12.11 with common base text once and explicit lawful delegation/referral boundaries | Verify constitutional instrument and return mechanism |
-
-### Voting-validity decision table (interpretive only)
-
-| Situation | Substantive arithmetic | Legal effect / next action |
-| --- | --- | --- |
-| Two independently valid matching official F votes | For majority determined | Requires separately valid forum, quorum, jurisdiction, event identity and implementation authority; ordinary effect at next applicable Clock transition, lawful urgent effect may be immediate |
-| Two independently valid matching official A votes | Against majority determined | Same validity gates; third official vote remains provenance obligation, not a veto |
-| One F, one A, third official vote pending | No majority yet | Preserve pending official ballot; no implementation on an invented majority |
-| One or more U / abstention ballots | Apply F/A/U arithmetic only to valid official votes | Reason-sensitive handling; U does not automatically mean absence, recusal or vacancy |
-| Third official Steward absent after two matching valid votes | Determined arithmetic, incomplete official record | Preserve pending provenance and apply lawful completion/finalisation rule when established; no automatic shadow substitution |
-| Parallel Steward submits an independent shadow vote | No official voting effect | Preserve separately for possible later evidence-based learning; no automatic promotion into triadic tally |
-| Conflict recusal or compromised holder | Validity depends on independent constitution and quorum rules | Use only separately lawful bounded substitution/expanded position; do not treat conflict as mere information abstention |
-| Three constituent expanded-triad resultants | One resultant per constituent triad; never pooled nine-ballot majority | Requires distinct eligible holders, common lawful competence, correct event graph and independently valid resultant binding; no authority from GTP geometry |
-| Optional cross-scale hierarchical coordination | No additional or superior vote created | Binding direction requires separate legal competence; coordination structure does not change Chapter 12 vote weight |
-| Civilisation Clock paused during emergency | Clock is not an emergency deadline | Independently lawful urgent action and operational expiry/review continue on emergency timebase; revalidate stale dependencies at resumption |
-
-**Open constitutional gates, not inferred by this table:** legal quorum and constitution of partially occupied triads; completion/finalisation of missing third votes; eligible substitution and expanded-resultant appointment; exact decision-event identity and appeal boundaries; legal issuer for exceptional action; binding cross-area competence. Source-preserving integration is not proof of implementation or authorial graduation.
-
-
-
-## Chapter 12 — Quorum and lawful forum: portable-module source comparison (not enacted)
-
-**Source examined:** `04_Portable_Modules/Triadic Decision Making Module.md` §§6–11. Its basic table expressly describes complete three-position cases (3F, 2F/1A, 1F/2A, 3A, 1F/1A/1U), establishes that abstention is information rather than an Against vote, distinguishes action from non-action, and permits escalation when a triad cannot responsibly resolve a question. The source **does not specify a constitutional minimum attendance, how an unoccupied third office affects quorum, or who may constitute a substitute**. It cannot by itself settle G-001.
-
-**Concord authorial direction already supplied:** Two independently valid matching official For or Against votes determine the substantive majority, while the third official vote remains required for provenance. That principle answers arithmetic determinacy but does not automatically establish a lawfully constituted forum. A conservative assumption requiring three occupied positions was previously proposed, but the later authorial direction supersedes its use as a reason to delay an otherwise lawful two-vote result; it does **not** expressly abolish all forum-constitution requirements.
-
-### Distinct validation questions
-
-1. **Office constitution:** Does the decision event have three lawfully established positions, even if one holder is temporarily unreachable? Is a permanently vacant office materially different? The portable module does not answer.
-2. **Eligible holder and independence:** Are the two matching ballots from two distinct, currently eligible, independently authorised holders acting within the same valid decision event? Shadow votes and duplicate event aliases do not qualify.
-3. **Quorum:** Does the applicable independently adopted law permit a decision when the third official ballot is absent, the third position is unoccupied, or a holder has recused? These are separate conditions and remain unresolved.
-4. **Majority:** If the forum is lawful and two official votes validly match, the substantive F/A result is fixed; the third ballot cannot reverse it. F/A without a third ballot has no majority.
-5. **Consequential effect:** Competence, protected rights, actual mandate, MKA verification at act/commit, ordinary Clock scheduling and emergency-independent timing remain separate from the vote tally.
-6. **Provenance:** Preserve the third official position's outstanding ballot, reason for absence/abstention, later completion or separately lawful finalisation, and any substitution chain without retroactive rewriting.
-
-### Cases that must not be silently equated
-
-| Case | What is known | What remains to be established |
-| --- | --- | --- |
-| Three valid official positions, all occupied; two matching ballots and third pending | Substantive majority determined | Applicable forum/quorum and official third-ballot completion policy |
-| Three lawful offices, third holder temporarily unreachable | Two matching valid ballots can determine arithmetic | Whether lawful quorum survives temporary nonparticipation and which urgency class applies |
-| Third office permanently vacant | Arithmetic alone does not fill the office | Vacancy constitution, lawful succession and forum validity |
-| Third holder recused for conflict | Recusal is not an information abstention | Whether and how a replacement may lawfully be constituted |
-| Third holder abstains for insufficient evidence | U is a recorded decision position, not a vacancy | Whether other two valid matching ballots lawfully determine the result |
-| Two votes are matching but from same holder/duplicated event | Not two independent official votes | Correct identity/event lineage; withhold consequential commit |
-| Parallel Steward offers a matching shadow ballot | Advisory record only | Separate appointment before any official voting position can exist |
-| Expanded triad returns a constituent resultant | One bounded original-position weight | Independent lawful constituent constitution, quorum, common competence and resultant binding |
-
-**No premature quorum rule adopted.** Neither a universal “two holders always suffice” nor a universal “all three holders must participate” follows from the portable source or the authorial arithmetic decision. The constitutional decision is specifically how to constitute a lawful three-position forum under temporary absence, permanent vacancy, conflict recusal and emergency. Preserve that fork for authorial resolution after further V1/V1.2 source recovery; do not fill it by assumption.
-
-
-
-### Authorial clarification: vote authority is not implementation authority
-
-**Authorial rule (12 October 2026):** A lawfully constituted triad possesses bounded **authority to vote** within its decision context. The triad **does not possess authority to act upon or implement that vote by virtue of voting**. The competent implementation authority is separately held elsewhere, with its own lawful source, scope, conditions, owner, expiry and accountability. A vote may be valid and its outcome determined even where implementation is pending, withheld, challenged or outside the implementer's present mandate.
-
-Keep separate records for (1) lawful triad constitution and voting-position authority, (2) official ballot validity and majority result, and (3) independently authorised implementation by the actual competent actor. Two independently valid matching official votes determine the F/A majority under the settled arithmetic rule, subject to valid voting constitution; they do **not** themselves create implementation permission or authority. The third official vote remains provenance, not an implementation gate merely by being late.
-
-**Quorum question narrowed:** G-001 asks only what constitutes a lawful **voting forum**, including absence, recusal and vacancy. Do not use an implementation mandate or inability to implement as a proxy for voting quorum. Nor should the voting triad be described as the executing authority. CAP ≠ PERM ≠ AUTH applies independently to the implementer. The applicable Civilisation Clock transition schedules ordinary implementation where required; lawful urgent action can occur independently of a paused Clock **only by an already competent, bounded implementation actor**.
-
-
-
-### Vote-driven state transition and bounded authority (authorial correction)
-
-**Correction to the preceding 12 October implementation separation:** The valid triadic **vote decision is what changes the relevant decision state**. The **state machine** owns and effects the state transition according to its lawfully established transition relation. The triad holds authority to vote, **not direct operational authority to perform subsequent acts**. Do not describe the vote as merely an advisory result waiting for an executive to decide whether the state changes; do not describe the Stewards as personally executing that transition.
-
-**Source alignment:** `04_Portable_Modules/Triadic Decision Making Module.md` §§6–7 explicitly says a majority can authorise a state change and that a vote is itself an action. `Bounded Transition Architecture — Portable Module v1.0.md` §§7–11, 16, 21–24 records transition identity, multi-owner states, completion and authority interfaces but **does not itself create authority or own host state semantics**. `Multi-Key Authority — Portable Module v1.0.md` §§3–6, 21–23, 38–39 verifies independently sourced authority for an actual consequential act and does not own transition state or substantive law. `State and Maturity Mapping — Portable Module v1.0.md` §§5, 25 explicitly distinguishes represented state from authority and preserves change history; it is not the operational state machine.
-
-**Working state sequence, not an invented machine implementation:** lawfully constituted voting forum → valid ballots → determined decision outcome → authorised decision-state transition by the competent host state machine, subject to its independently legitimate transition conditions → any downstream physical/resource/legal execution by separately bounded actors under their own authority. These are distinguishable transitions, not necessarily sequential clock ticks. The decision-state transition may itself have consequential legal effect; do **not** assume all legal effect waits for a separate executive act. Ordinary effective-time/Clock scheduling and emergency-independent timing belong to the host's valid transition semantics, not to discretionary reapproval by an implementer.
-
-**Unresolved ownership detail:** Which existing state machine is authoritative for each decision class, exactly when a vote-result event is accepted/committed, how rejected/pending/failed transitions are represented, and which downstream effects require independent act authority must be recovered from original Concord state-machine and bounded-authority architecture. BTA provides an integration contract, not proof that one universal state machine exists. Quorum still concerns validity of the voting forum; an invalid vote cannot lawfully drive a state transition.
-
-
-
-### Domain-owned bounded authority for consequences of a vote
-
-**Authorial clarification (12 October 2026).** A lawful triadic vote determines the decision outcome and drives the competent decision-state machine's lawful state transition. **Authority to action the resulting decision is determined by each affected system's own bounded-authority rules.** There is no universal Concord-wide executive mandate conferred by the vote or by a generic state-machine transition.
-
-For each affected system, resolve the actual consequential act, context, route, actor, authority source, permission/consent, scope, current conditions, prohibitions, implementation state and review under **that system's** rules. A single decision may fan out to multiple systems with different valid outcomes: authorised action in one, pending review in another, prohibited action in a third. Do not collapse them into one global implementation status or treat one system's authority as transferable to another. MKA verifies authority composition for each actual act where material; BTA preserves cross-system transition relationships and partial/pending outcomes without assigning substantive authority.
-
-**Important distinction:** A decision-state change is not automatically the same as completed physical, financial, medical or infrastructural action. A valid vote should not be re-decided by downstream actors, but they must not act outside their own independently bounded competence. When the voted decision itself has immediate legal effect, represent that as the appropriate host-defined transition; do not infer authority for further downstream acts.
-
-
-
-### Do not preassign unknown decision consequences or executors
-
-**Authorial clarification (12 October 2026):** Before a triad has voted, the actual decision is unknown. Consequently the affected systems, exact consequences, required actions, implementing actors and applicable bounded-authority pathways **cannot be specified in advance as a universal mechanism**. The constitutional architecture may define the interface and its constraints, but must not fabricate the eventual route, actor, action or mandate.
-
-A valid triadic vote drives the lawful decision-state transition through the relevant state machine. **Only when the actual outcome and its consequences are established** can the applicable host/domain systems and their own bounded-authority rules be identified. Some decisions need no downstream act; others may need one or many, or may require additional lawful decisions. The post-decision resolution is context-specific and may be iterative or concurrent, not a compulsory fixed pipeline or a mandatory separate clock cycle.
-
-The state machine must not be misrepresented as a universal executive authority or as a machine that automatically knows all future actors. BTA can represent discovered multi-owner transition relations, unresolved dependencies and partial outcomes; MKA can test actual consequential acts when their route and authority dimensions are known. **Unresolved consequence/owner is a legitimate explicit state**, not permission to guess an executor or infer authority from the vote. Earlier references to a named 'implementation owner' as a required *pre-vote* field are conditional placeholders for cases where the owner is already legitimately known, not universal prerequisites.
-
-
-
-
-### Authorial resolution: contextual quorum and two-vote decision sufficiency
-
-**Source-preserving priority clarification (12 October 2026; working integration, not final constitutional graduation):** The author's latest express clarification resolves the earlier G03 Candidate 047 versus Direction 048 uncertainty **against treating a missing non-decisive third ballot or an unoccupied third position as an additional legality gate**. Quorum is contextual. When **two independently authorised official Stewards**, in the legitimate decision context and the same valid decision event, agree For/For or Against/Against, the triadic mechanism has successfully determined its substantive result. The third Steward cannot change that majority; their subsequent ballot, reasons, disagreement or uncertainty add knowledge, confidence, dissent and provenance, **not a veto or a second legalisation step**. Historical Candidate 047 and earlier language above about an unresolved full-three-occupied constitutional fork remain preserved as source history but are **superseded on this specific point** by the authorial resolution. Do not silently reimpose a mandatory three-person occupancy test as an operative condition.
-
-The triadic design principally avoids deadlock, increases the independent knowledge/skill space, reduces capture and coheres with GTP spatial organisation. This does not excuse forged, duplicated or unauthorised decisive ballots: Steward identity, current contextual authority, office competence, conflict and decision-event identity still matter. A shadow/parallel Steward's independent assessment remains informative, **not an official ballot** unless separately authorised for that position. Distinguish substantive result, third-vote provenance and actual downstream host action. Ordinary decisions remain subject to the applicable variable Civilisation Clock transition; independently lawful urgent/emergency decisions need not wait for the Clock or third ballot.
-
-### Steward appointment: provisional outline only
-
-**Status: AUTHORIAL DIRECTION / PROVISIONAL OUTLINE; NOT AN ENACTED APPOINTMENT CODE.** In a nonhierarchical GTP mesh, ordinary available Steward offices may be filled by an HR-like process checking qualification, knowledge, merit, eligibility and experience, with ascension from experienced parallel Stewards preferred. A **specially bounded appointing Steward or board** is a possible way to authorise the discrete appointment transaction; that role does not thereby become the new Steward's superior or gain power over later decisions. Founding the **first** Stewards may require a distinct transitional/bootstrap route from ordinary later replacements. This is a design question, not an established source of founding authority.
-
-Reuse `03_Cross_Domain_Architecture/Stewardship_Selection_and_Allocation/README.md` §§10–13, Education accreditation, Participation standing, Historical provenance, contextual authority and existing portable modules. Do **not** now prescribe a founding board, membership, candidate score, appointment algorithm, anti-capture protocol, expiry schedule or automatic ascension. Appointment and founding legitimacy, choice among multiple qualified candidates, review and capture safeguards remain deliberately open pending source recovery and authorial development. Earlier procedural examples are illustrative only.
-
-
-
-### Authorial decision finality and new-instance authority (12 October 2026)
-
-**Authorial rule, superseding earlier tentative reconsideration language:** A completed decision is an immutable historical event once its lawful state-machine transition has occurred. Its vote result, provenance, operative context and authority record are preserved; they are **not reopened, recounted, replaced or readdressed as the same event**. New evidence, challenge, appeal, remedy or changed circumstances concerning that earlier issue instead initiates a **new decision instance** in the then-current state, requiring a newly legitimate activation of contextual authority and its own event identity, competence, participants and transition conditions. The new event may change present/future consequences or order remedy, but cannot rewrite the historical decision. A late third ballot is supplementary provenance only after the original decision has completed; the earlier provisional-ballot supersession proposals cannot overwrite the historic completed vote or alter its F/A result. Their possible use before completion remains a separately authorised and still provisional continuity question. A technical retry or duplicate receipt of an unfinished event is **not** a new substantive instance and cannot multiply votes or effects. This rule resolves the conceptual historical-reopening fork; event-completion proof, idempotency and protected ancestry links remain implementation details. See Integration 018 and 048.
-
-
-### Unique decision identifiers and state-gated voting (12 October 2026)
-
-**Authorial rule:** Each decision is a unique state-machine instance with a unique decision identifier. Every official vote is attributed to that identifier and its one legitimate voting position; acceptance is conditional on the current vote/decision state. A previously accepted vote cannot be cast again as a second vote after its state transition, and a decided/completed event cannot accept repeated ballots that recreate its substantive outcome. Later third-Steward information is provenance, not a new deciding vote or a reopened event. Resultant actions likewise reference the decision and their own execution states; repeated requests cannot reproduce a completed consequence. A new question, including a fresh decision on a historical issue, receives a new identifier and independently activated authority. Duplicate delivery and simultaneous submissions require atomic state validation and durable recording; the ID by itself is not a security token or authority grant. Earlier speculative event-boundary complexities should not be read as permission to reuse a completed decision.
 
 ## 20.7 Protected correction, dissent and challenge during triadic governance
 
