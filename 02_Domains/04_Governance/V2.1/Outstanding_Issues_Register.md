@@ -70,6 +70,10 @@
 **Important distinction:** These authorial directions settle their stated principles. They do not implicitly settle constitutional quorum, appointment, authenticated authority or implementation validity.
 
 
+## 15 October 2026 — Chapters 29–30 cross-section reconciliation
+
+- **G-023 partially addressed:** Reconciled Chapter 29's old 'emergency or time-critical' two-ballot implementation claim with the narrow independently authorised emergency exception; ordinary time-critical matters still require all three ballots. Corrected degraded-triad text, the superseded 12 October quorum priority, and Chapter 30's U/abstention/absence distinctions. An absent ballot or constituent resultant is pending, never a fabricated official U. Expanded voting requires all three received official resultants before ordinary effect. The broader 22-section consistency audit remains open.
+
 ## 15 October 2026 — Chapter 12 traceable heading and emergency-language pass
 
 - **G-008/G-023 partial:** Numbered 21 previously unnumbered Chapter 12 subsection headings within §§12.4, 12.9–12.11 and the §§12.28–12.29 annexes. The original content and its distinctive source-derived clauses remain intact. Reconciled three ambiguous references to 'urgent' independent timing/preservation with the narrower independently authorised emergency exception. Remaining work: exact historical source-to-clause verification and broader 22-section audit; no completeness or authorial graduation claimed.
