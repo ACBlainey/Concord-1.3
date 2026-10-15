@@ -1555,7 +1555,7 @@ Different communities may possess unequal:
 
 Decentralisation may therefore produce unequal practical rights if local capability varies too widely.
 
-Higher-level support may sometimes be justified without replacing local authority entirely.
+Support from a separately competent wider-scope institution or neighbouring jurisdiction may sometimes be justified without replacing local authority entirely. Such support is not an automatic command right of a larger GTP cell: it requires an independently lawful mandate, applicable consent or shared competence, and bounded resource and implementation authority.
 
 ## 149.7 Duplication
 
