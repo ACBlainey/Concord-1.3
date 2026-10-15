@@ -900,36 +900,6 @@ Subsidiarity therefore requires both.
 
 The “lowest competent architecture” means the smallest **lawfully competent and practically capable decision field**, considering the affected rights, resources, externalities and implementation requirements. It need not be the smallest geometric GTP cell. Multiple spatial resolutions may operate concurrently; operational subdivision and consolidation do not create a command chain.
 
-Where practical, Governance should attempt horizontal coordination before escalating a matter into a higher permanent layer.
-
-This preserves:
-
-- local autonomy;
-- distributed competence;
-- direct knowledge;
-- institutional diversity;
-- and resistance to unnecessary centralisation.
-
-However, horizontal expansion should not be fetishised.
-
-If a matter genuinely requires civilisation-wide coordination, refusing higher-level action merely to preserve decentralisation can itself become harmful.
-
-The principle remains:
-
-**Use the lowest competent architecture capable of resolving the actual problem.**
-
-This contains two requirements.
-
-The first is anti-centralisation:
-
-**Do not move authority upward unnecessarily.**
-
-The second is competence:
-
-**Do not leave authority at a level incapable of solving the problem merely to preserve decentralisation.**
-
-Subsidiarity therefore requires both.
-
 ## 12.11 Vertical Escalation
 
 A matter may require vertical escalation where:
@@ -965,34 +935,6 @@ Escalation should therefore preserve:
 “Vertical escalation” in this chapter refers only to referral, review, delegation or decision by an **independently constituted institution** holding a lawful relevant competence. It does not mean movement from a child GTP triangle to a parent triangle, nor does it imply that a larger geometric area possesses superior power. Constitutional hierarchy, appellate priority and lawful federation may exist where expressly established; their source is legal authority, never tessellation alone.
 
 Where escalation transfers any decision power, the record must identify the constitutional instrument, the originating and receiving competent offices, the exact matter and powers, any retained local jurisdiction, expiry, review and route for return. Referral for advice or coordination alone transfers no decision authority.
-
-A matter may require vertical escalation where:
-
-- horizontal coordination fails;
-- constitutional interpretation is required;
-- jurisdictions remain in unresolved conflict;
-- consequences become systemic;
-- the lower level lacks necessary authority;
-- the lower level lacks necessary capability;
-- rights are materially threatened;
-- infrastructure risk becomes civilisation-wide;
-- or an emergency exceeds local capacity.
-
-Escalation should identify why the lower level is insufficient.
-
-Higher authority should not simply assume jurisdiction because escalation occurred.
-
-The escalated authority receives only the authority appropriate to the escalated question.
-
-Escalation should therefore preserve:
-
-- originating jurisdiction;
-- reason for escalation;
-- authority transferred;
-- authority retained;
-- duration;
-- review;
-- and conditions for return.
 
 ## 12.12 Escalation Is Not Failure
 
