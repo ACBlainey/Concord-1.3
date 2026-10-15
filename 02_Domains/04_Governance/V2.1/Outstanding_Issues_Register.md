@@ -70,6 +70,10 @@
 **Important distinction:** These authorial directions settle their stated principles. They do not implicitly settle constitutional quorum, appointment, authenticated authority or implementation validity.
 
 
+## 16 October 2026 — Chapter 54 ballot-versus-resultant terminology
+
+- **G-023 partial:** Chapter 54 §54.40 now distinguishes three official individual ballots (For/Against/authorised abstention) from the constituent F/A/U **derived resultants**. Completed U is a received no-majority resultant, never a missing ballot or resultant; final ordinary effect still requires all three official constituent resultants. This avoids conflating an individual abstention with a virtual-triad Unresolved result. Remaining manuscript/source checks stay open.
+
 ## 16 October 2026 — Chapters 9 and 30 portable-sequence consistency
 
 - **G-023 partial:** Chapter 9's incorporated portable decision sequence now expressly requires three distinct lawfully selected eligible Steward holders, three immutable official ballots for ordinary completion, explicit pending-versus-completed-U distinction and independent emergency/host action authority. Chapter 30's opening constituent/virtual F/A/U aggregation rule now limits U to completed three-ballot or three-resultant events and preserves pending status and ordinary effect gates. Further sectional and historical source checks remain open.
