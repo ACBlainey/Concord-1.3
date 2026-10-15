@@ -70,6 +70,10 @@
 **Important distinction:** These authorial directions settle their stated principles. They do not implicitly settle constitutional quorum, appointment, authenticated authority or implementation validity.
 
 
+## 16 October 2026 — Chapters 29–30 completed-U and pending-result reconciliation
+
+- **G-023 partial:** Two residual shorthand formulations in Chapter 29's expanded decision-field discussion and Chapter 30's F/A/U aggregation have been corrected: only a three-official-ballot completed constituent without F/A majority yields U; missing official ballots or constituent resultants remain pending, and all three received official resultants are mandatory before ordinary virtual-triad effect. Two matching received resultants establish only the mathematical majority; independently authorised emergency action remains the bounded early-action exception. Full section/source audit remains open.
+
 ## 16 October 2026 — Chapter 12 pending-result and completion boundary
 
 - **G-008/G-023 partial:** Clarified Chapter 12's determinacy clause: a split or otherwise nonmatching pair with an outstanding third ballot is **pending**, not a completed U; U requires a completed official event without F/A majority. Replaced the ambiguous 'exceptional finalisation' future-design phrase with explicit prohibition on giving ordinary effect to an absent mandatory ballot. Separately authorised emergency early action remains the only bounded two-matching-ballot exception. Further source and whole-manuscript audit remain open.
