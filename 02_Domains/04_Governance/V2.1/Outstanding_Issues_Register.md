@@ -70,6 +70,10 @@
 **Important distinction:** These authorial directions settle their stated principles. They do not implicitly settle constitutional quorum, appointment, authenticated authority or implementation validity.
 
 
+## 15 October 2026 — Chapter 12 traceable heading and emergency-language pass
+
+- **G-008/G-023 partial:** Numbered 21 previously unnumbered Chapter 12 subsection headings within §§12.4, 12.9–12.11 and the §§12.28–12.29 annexes. The original content and its distinctive source-derived clauses remain intact. Reconciled three ambiguous references to 'urgent' independent timing/preservation with the narrower independently authorised emergency exception. Remaining work: exact historical source-to-clause verification and broader 22-section audit; no completeness or authorial graduation claimed.
+
 ## 15 October 2026 — Chapter 12 final assembly structure pass
 
 - **G-008 remains partial:** Normalised two duplicate Chapter 12 chapter-level headings into uniquely numbered §§12.28–12.29 annex sections, preserving their source comparison and validity tables. Clarified that the discarded historical proposal concerned three *affirmative* votes, not the controlling three-holder constitution or three mandatory official ballots. Ordinary time-critical decisions remain ordinary and cannot bypass the third ballot. No broad claim of whole-manuscript or historical source completeness is made.
