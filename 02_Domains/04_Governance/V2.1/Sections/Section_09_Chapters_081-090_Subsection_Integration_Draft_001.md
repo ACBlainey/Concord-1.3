@@ -712,7 +712,7 @@ Protection against retaliation supports practical reviewability.
 
 > **Where Governance materially affects rights, interests or constitutional standing, review should be practically accessible, timely enough to matter, capable of examining the relevant failure and connected to a meaningful remedy. Appeals should resist both institutional immunity and procedural abuse.**
 
-## 83.8 New Evidence
+## 83.14 New Evidence
 
 New material evidence may justify reopening a matter even after ordinary appeal has ended.
 
@@ -735,7 +735,7 @@ A functioning Governance system requires finality.
 
 The relevant question is whether the new evidence is sufficiently material that continued reliance upon the earlier decision would become unreasonable or constitutionally unsafe.
 
-## 83.9 Finality
+## 83.15 Finality
 
 Governance requires some decisions to become operationally final.
 
@@ -764,7 +764,7 @@ The principle is:
 
 > **Finality is a procedural property, not proof of infallibility.**
 
-## 83.10 Finality and Reopening
+## 83.16 Finality and Reopening
 
 A completed matter may justify reopening where there is:
 
@@ -787,7 +787,7 @@ This does not create permanent immunity.
 
 It recognises that correction itself can create consequences.
 
-## 83.11 Appeal Exhaustion
+## 83.17 Appeal Exhaustion
 
 A system may require ordinary appeal routes to be used before higher review.
 
@@ -805,7 +805,7 @@ Exhaustion requirements should not become traps where:
 - the lower body is demonstrably compromised;
 - or catastrophic harm is imminent.
 
-## 83.12 Finality and Recursive Oversight
+## 83.18 Finality and Recursive Oversight
 
 Where all normal appeal pathways are exhausted but credible evidence suggests the review architecture itself failed, Recursive Oversight may become relevant.
 
@@ -813,7 +813,7 @@ Recursive Oversight should not become an unlimited second appeal for every dissa
 
 Its purpose is to address failure of the reviewing architecture itself.
 
-## 83.13 Appeal Pathway Principle
+## 83.19 Appeal Pathway Principle
 
 > **Governance requires both review and finality. Appeal architecture should correct material error through accessible and proportionate pathways while preserving operational closure, except where new evidence, constitutional failure or compromised review creates a sufficiently strong reason to reopen the matter.**
 
