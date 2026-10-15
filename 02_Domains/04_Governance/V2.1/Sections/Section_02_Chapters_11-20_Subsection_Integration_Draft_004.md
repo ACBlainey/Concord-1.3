@@ -1429,6 +1429,8 @@ The governance decision record and its lawful host effect are separate state tra
 | 12.10 | The second occurrence of the identical base paragraphs was removed after comparison; the operational-scale interpretation is retained in full | One §12.10 with shared base text once and clarified subsidiarity rule | Verify optional bounded hierarchy compatibility and lawful cross-scale competence |
 | 12.11 | The second occurrence of the identical base paragraphs was removed after comparison; the legal-versus-geometric escalation qualification is retained in full | One §12.11 with common base text once and explicit lawful delegation/referral boundaries | Verify constitutional instrument, expiry and return mechanism |
 
+**Controlling authorial interpretation (15 October 2026):** The table below assumes that three distinct lawful Steward holders have already been selected and the decision state machine has validated the complete triad. Every position must cast an official ballot. Two matching ballots determine the majority, but no ordinary outcome takes effect before all three ballots arrive. Only an emergency may trigger a separately bounded action after two matching ballots; the third ballot remains mandatory. Completed votes cannot be changed. The final three-ballot distribution provides the vote-support confidence metric (3/3, 2/3 or 1/3). Historical terms such as quorum, legal effect or pending provenance in individual rows must not be read to override these settled rules.
+
 ### Voting-validity decision table (interpretive only)
 
 | Situation | Substantive arithmetic | Decision state / next action |
