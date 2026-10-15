@@ -1738,8 +1738,6 @@ For example:
 - authority is clearly absent;
 - or a Steward is functionally incapable of responsible judgement.
 
-<!-- BEGIN V2.1 INTEGRATED 30 — CANDIDATE 006 VERBATIM -->
-
 ## 30.2 Emergency Deadlock and Virtual-Triad Result Validity
 
 Where a required decision cannot obtain the necessary majority and delay creates severe danger, predefined emergency escalation may apply. Emergency deadlock must not be solved by pretending a majority exists, changing the forum merely to secure a preferred outcome, or treating a substantive Against result as absence.
@@ -1761,7 +1759,6 @@ Emergency preservation where the status quo itself creates grave danger requires
 
 **Existing architecture link.** Constitutional Emergency V2 Chapters 21, 54, 92, 113 and 169 govern declaration, authority limits, activation, review and rights restoration. PH-02 requires separate tests of legitimacy, activation and individual exercise. A deadlocked triad does not itself pass those tests.
 
-<!-- END V2.1 INTEGRATED 30 — CANDIDATE 006 -->
 ## 30.3 Default Preservation
 
 Where no authorised state change can be made, the default may remain preservation of the existing state where that is safer.
