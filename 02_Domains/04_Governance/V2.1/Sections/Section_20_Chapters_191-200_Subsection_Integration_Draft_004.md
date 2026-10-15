@@ -1371,27 +1371,6 @@ This may be useful for:
 
 Issue-specific authority should expire or dissolve when the purpose ends where appropriate.
 
-## 198.9 Overlapping Jurisdiction
-
-Multiple legitimate jurisdictions may apply simultaneously.
-
-Coordination is then required.
-
-Examples may include:
-
-- local land use;
-- regional infrastructure;
-- civilisation-wide rights;
-- and environmental commons
-
-affecting the same project.
-
-Overlap is not automatically constitutional failure.
-
-It requires a method for resolving conflict.
-
-
-<!-- BEGIN V2.1 INTEGRATED 198.9 — RECONCILED CANDIDATE 005 VERBATIM -->
 
 ## 198.9 Overlapping Jurisdiction
 
@@ -1416,7 +1395,6 @@ It requires a method for resolving conflict.
 
 Before a cross-cell or cross-resolution binding decision, establish the applicable geographic, functional, institutional, personal, technological and issue-specific authority. Determine whether the question is independent local action, coordination without transfer, or a genuinely shared competence with a valid authorisation instrument. GTP scale and virtual-triad arithmetic cannot create jurisdiction. Record overlap, affected rights, resource responsibility, conflict-resolution route, expiry and review.
 
-<!-- END V2.1 INTEGRATED 198.9 — CANDIDATE 005 -->
 ## 198.10 Jurisdictional Priority
 
 Some conflicts may be resolved through:
@@ -1577,13 +1555,10 @@ It helps prevent category confusion.
 ## 198.x — V2.1 integration: jurisdiction and conference
 
 A Steward's attendance at conference does not delegate their jurisdiction or waive protected rights. GTP location and scale identify contexts, not command rank. Binding shared decisions require explicit lawful competence; exceptional conference and urgent conditions do not create it. See Integrations 051–052 and 122–123.
-<!-- END V2.1 INTEGRATION 2026-10-13 -->
 
-<!-- BEGIN V2.1 CE-V2 EXTENDED RECOVERY CHAPTER 198 -->
 ### Chapter 198 — Recursive emergency oversight and capture surfaces
 
 **Constitutional Emergency V2 §§211–244:** Crisis creates risks of political, institutional, security, information, algorithmic, metric and economic capture. Detection systems, dashboards and external providers can become de facto governors if their outputs are treated as commands. Recursive oversight must itself be bounded, privacy-protective and terminable; no permanent reviewer sovereign is created. The owner of an emergency repository or software deployment does not thereby acquire constitutional authority. Separate constitutional legitimacy from empirical effectiveness; evidence of success, simulations and exercises cannot replace lawful authorisation. Preserve negative results, dissent, failed mechanisms, uncertainty and corrections without institutionalising failed emergency powers. **Open:** independent capture review, recursion stopping conditions, real algorithmic explainability and privacy-enforced audit.
-<!-- END V2.1 CE-V2 EXTENDED RECOVERY CHAPTER 198 -->
 
 
 ## 198.V21b — Existing permission, authority-composition and cross-boundary gates
