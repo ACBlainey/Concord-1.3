@@ -70,6 +70,10 @@
 **Important distinction:** These authorial directions settle their stated principles. They do not implicitly settle constitutional quorum, appointment, authenticated authority or implementation validity.
 
 
+## 16 October 2026 — Alternate restoration and spatial upward-transfer reconciliation
+
+- **G-023 partial:** Chapter 29's late-original return rule now expressly permits reclaiming a position from a lawfully appointed alternate **only before that alternate commits** an official ballot, with mandate/identity revalidation and no fourth vote; any committed alternate ballot remains immutable. Chapter 30's restoration interface carries the same rule. Chapter 149's 'authority moved upward' language now requires a separate lawful constitutional/institutional authorisation, not GTP geometric containment or workload reassignment. Remaining section-wide and source-completeness audits remain open.
+
 ## 15 October 2026 — Chapters 150–151 central coordination and federation reconciliation
 
 - **G-023 partial:** Chapter 150 now separates broad coordination from independently authorised binding shared competence and downstream implementation, and rejects treating a larger GTP scale as a superior office. Chapter 151 now describes federated enumerated authority, local residual competence and jurisdiction conflicts as relations among independently constituted institutions, not automatic spatial parent/child hierarchy. Chapter 149's existing simultaneous-mesh and hysteresis architecture was retained. This is a textual consistency pass, not the complete historical-source comparison or constitutional graduation.
