@@ -1434,7 +1434,7 @@ Before extraordinary voting, distinguish temporary absence, vacancy, communicati
 
 Select proportionately among normal triadic operation, restoration or safe delay, independently authorised substitution, lawful reconstitution, origin-included or origin-excluded expansion, and separately lawful emergency preservation. This is an assessment order, not a compulsory hierarchy or jurisdiction transfer. A Parallel Steward's advisory position does not itself authorise a substitute vote. Substitution requires an independent basis, eligibility, conflict check, scope, expiry and record, and cannot be used merely to overturn an unwelcome ballot.
 
-Expanded decision fields preserve three constituent triads and three resultant positions rather than pooling individual ballots. A constituent without a valid majority returns Unresolved; two valid matching constituent results may still determine the virtual triad. If no valid decision can be constituted within the lawful time and scope, record non-authorisation, avoid indefinite expansion, and restore ordinary decision capacity promptly. Only separately authorised emergency preservation powers may operate meanwhile.
+Expanded decision fields preserve three constituent triads and three resultant positions rather than pooling individual ballots. A constituent that has **received all three official ballots** but has no substantive F/A majority returns completed Unresolved (U); a constituent with an outstanding official ballot remains **pending**, not U. Two matching valid received constituent resultants may fix the virtual triad's mathematical majority, but ordinary effect still requires all three official constituent resultants; separately authorised emergency early action is the sole bounded exception. If no valid decision can be constituted within the lawful time and scope, record non-authorisation, avoid indefinite expansion, and restore ordinary decision capacity promptly. Only separately authorised emergency preservation powers may operate meanwhile.
 
 **Open issue:** identify the precise appointment authority and vertex eligibility mapping; neither can be presumed from this continuity sequence.
 
@@ -1799,7 +1799,7 @@ Classify the failure before selecting the remedy: absence, incapacity, recusal, 
 
 ### Emergency abstention and unresolved-result semantics
 
-For each triad, F if at least two valid For votes; A if at least two valid Against votes; otherwise U (Unresolved). Preserve the cause of U. Apply the same rule to the three constituent results. Thus F,F,U => F; F,A,U => U; A,A,U => A. No procedural failure or emergency authorises manufacturing a majority. A separately legitimate, narrow emergency-preservation power must be distinguished from a decision reached through voting.
+For each lawfully constituted triad, F if at least two valid official For ballots; A if at least two valid official Against ballots; **completed U (Unresolved) only after all three official ballots have been received without a substantive majority**. Before then, any missing ballot is pending, not U. Preserve the cause of completed U. Apply the same rule to three **received official constituent resultants** at the virtual-triad level, with all three required for ordinary effect. Thus F,F,U => F; F,A,U => U; A,A,U => A. No procedural failure or emergency authorises manufacturing a majority. A separately legitimate, narrow emergency-preservation power must be distinguished from a decision reached through voting.
 
 ### Outstanding integration safeguards
 
