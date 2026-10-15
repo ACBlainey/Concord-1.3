@@ -1269,7 +1269,8 @@ Chapters 28–30 govern emergency succession, degraded triads and deadlock; this
 
 
 <!-- V2.1 INTEGRATION 2026-10-13: AUTHORIAL SOURCE RECONCILIATION; DEVELOPMENTAL; REVERSIBLE -->
-## 100.x — V2.1 integration: parallel Stewardship versus conference and substitution
+
+## 100.12 parallel Stewardship versus conference and substitution
 
 Parallel Stewardship remains advisory unless independently appointed to a legally vacant official position. A conference does not promote an adviser into a voter, confer jurisdiction or substitute for an auditable GTP candidate selection. A selected substitute holds one decision-specific bounded position, with uniqueness and conflict checks across the entire decision event. Existing committed ballots cannot be displaced. See Integrations 022, 031 and 123.
 
