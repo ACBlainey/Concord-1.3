@@ -70,6 +70,10 @@
 **Important distinction:** These authorial directions settle their stated principles. They do not implicitly settle constitutional quorum, appointment, authenticated authority or implementation validity.
 
 
+## 15 October 2026 — Chapters 54 and 132 cross-section reconciliation
+
+- **G-023 partial:** Chapter 132 now explicitly distinguishes a two-resultant mathematical majority from the mandatory three-official-resultant ordinary effect gate, missing/pending from completed U, and independently authorised emergency action from ordinary urgency. GTP parent/child geometry is unconditionally nonhierarchical; any task-bounded hierarchical coordination requires separate lawful authorisation. Chapter 54's expanded decision-record clauses now require three received constituent resultants for ordinary virtual-triad completion, retain pending statuses separately, and record independently authorised emergency early action as a distinct bounded state. Source-completeness and remaining cross-chapter review continue.
+
 ## 15 October 2026 — Chapters 1–10 and 151 cross-section reconciliation
 
 - **G-023 partially addressed:** In Section 01, aligned the early F/A/U arithmetic clause with three-holder lawful constitution, mathematical two-matching-vote majority, three received official ballots for ordinary effect, and missing-versus-completed-U distinctions at both constituent and final-resultant stages. Marked the historical portable-module collective-deliberation default as textually superseded by normally isolated voting with separately authorised conference. In Chapter 151 §151.1, clarified that nested federation concerns independently lawful institutional competence, not GTP geometric command. Broader cross-section and completeness audits remain pending.
