@@ -70,6 +70,10 @@
 **Important distinction:** These authorial directions settle their stated principles. They do not implicitly settle constitutional quorum, appointment, authenticated authority or implementation validity.
 
 
+## 15 October 2026 — Chapters 100 and 198 cross-section reconciliation
+
+- **G-023 partial:** Chapter 100 now explicitly separates non-consuming advisory shadow indications from official ballots, requires three lawfully selected holders before voting, prevents a returning original from superseding an alternate's committed official ballot, and preserves the three-official-ballot ordinary completion rule. Chapter 198 now states GTP is the currently adopted multiresolution spatial reference/coordination mesh rather than merely a hypothetical future implementation, while distinguishing constitutional jurisdictional priority from any presumed geometric hierarchy. No claim of completion for all 22 sections or historical sources.
+
 ## 15 October 2026 — Chapters 54 and 132 cross-section reconciliation
 
 - **G-023 partial:** Chapter 132 now explicitly distinguishes a two-resultant mathematical majority from the mandatory three-official-resultant ordinary effect gate, missing/pending from completed U, and independently authorised emergency action from ordinary urgency. GTP parent/child geometry is unconditionally nonhierarchical; any task-bounded hierarchical coordination requires separate lawful authorisation. Chapter 54's expanded decision-record clauses now require three received constituent resultants for ordinary virtual-triad completion, retain pending statuses separately, and record independently authorised emergency early action as a distinct bounded state. Source-completeness and remaining cross-chapter review continue.
