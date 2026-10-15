@@ -29,6 +29,9 @@ Assign each newly identified issue a permanent sequential identifier: `FI2-001`,
 
 ## Reconciliation log
 
+- 2026-10-15: Inspected emergency/continuity/authority interfaces in Chapters 25–30, 56, 61–63 and 67. Repetition of expiry, restoration, continuing duties and Clock independence serves distinct emergency, delegation and authority-boundary functions; no erroneous duplicate identified in this sample. §63.2 expressly warns that concise restoration packages do not justify deleting source detail. Chapter 29 §29.2 ordinary implementation wording remains inconsistent with Chapter 12 §12.0 and is covered by FI2-001/003. No new issue number assigned and no substantive text changed.
+
+
 - 2026-10-15: Applied authorial clarification that purposeful repetition supporting or explaining other architecture is not erroneous. FI2-002 (decision records in general process versus detailed operations), FI2-004 (GTP mechanics versus decentralisation application) and FI2-005 (shared competence across distinct governance functions) reclassified as legitimate supporting material; no deletion proposed. Verified substantive contradiction remains between Chapter 12 §12.0 mandatory three-vote ordinary effect and Chapter 29 §29.2 earlier ordinary two-vote progression, §29.8 third occupancy language and Chapter 54 §54.38. FI2-001/FI2-003 retained as conflicts, not duplicate-removal candidates.
 
 
