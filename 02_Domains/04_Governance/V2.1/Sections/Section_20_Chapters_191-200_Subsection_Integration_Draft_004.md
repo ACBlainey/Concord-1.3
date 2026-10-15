@@ -1565,6 +1565,18 @@ Jurisdictional overlap must be examined with existing Concord **Fractal Permissi
 
 **Constitutional Emergency V2 §§211–244:** Crisis creates risks of political, institutional, security, information, algorithmic, metric and economic capture. Detection systems, dashboards and external providers can become de facto governors if their outputs are treated as commands. Recursive oversight must itself be bounded, privacy-protective and terminable; no permanent reviewer sovereign is created. The owner of an emergency repository or software deployment does not thereby acquire constitutional authority. Separate constitutional legitimacy from empirical effectiveness; evidence of success, simulations and exercises cannot replace lawful authorisation. Preserve negative results, dissent, failed mechanisms, uncertainty and corrections without institutionalising failed emergency powers. **Open:** independent capture review, recursion stopping conditions, real algorithmic explainability and privacy-enforced audit.
 
+
+### Future design architecture — deferred implementation interfaces (G-014, G-015, G-016, G-018, G-022)
+
+**ARCHITECTURE TO BE DESIGNED — OUTSIDE CURRENT V2.1 TEXT-INTEGRATION SCOPE.** The principles in this chapter remain operative as stated. The following are design requirements, **not** invented deployed services, automatic authority grants or grounds to delay consolidation. Resolve these at the indicated interfaces when working systems and domain owners exist:
+
+- **G-014 — Architecture to be designed:** Specify BTA/Clock/KCS/SMM owner-state contracts, partial asynchronous transitions, failure compensation, surviving duties and cross-owner dispute routing.
+- **G-015 — Architecture to be designed:** Define host-specific BTA required-field profile, versioned 28-field mappings, original-key preservation and rejection of ambiguous conversions.
+- **G-016 — Architecture to be designed:** Specify independently authorised restoration, residual beneficiary duties, orphan referrals, retirement versus hibernation and verifiable discharge.
+- **G-018 — Architecture to be designed:** Design authenticated multi-owner adapters, durable journal, compare-and-swap or compensation, idempotent replay and independently verified owner acknowledgements.
+- **G-022 — Architecture to be designed:** Define source-to-rule traceability and graduation evidence: independent owner services, durable storage, authenticated transport, adverse-case tests, security review and constitutional approval.
+
+**Future acceptance evidence:** record accountable owner, actual mandate, state-machine/adapter specification, failure and recovery paths, independent review and provenance. Preserve CAP ≠ PERM ≠ AUTH. Do not mark implementation as tested or operational until supported by real evidence.
 # Chapter 199 — Governance and Cross-System Disagreement
 
 ## 199.1 Systems May Disagree
