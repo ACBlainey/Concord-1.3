@@ -1254,7 +1254,7 @@ The objective is to avoid ambiguity where ambiguity creates dangerous uncertaint
 
 # Chapter 198 — Governance and Jurisdiction
 
-### 198.V21 — Bounded decision and jurisdiction interface
+## 198.21 Spatial address, authority and jurisdictional conflicts
 
 A GTP spatial address locates participants and consequences; it does not prove authority or exhaust jurisdiction. Every proposed decision must identify subject, participants, geographic reach, material externalities, time and delegated mandate. Overlapping GTP fields do not merge voting rights. Positive jurisdiction conflicts follow the constitutional conflict procedure, not a presumption that larger triangles outrank smaller ones. Negative conflicts require legitimate referral or bounded coordination rather than improvised general power. Origin-included or origin-excluded expanded triads must establish issue-specific decision authority.
 
