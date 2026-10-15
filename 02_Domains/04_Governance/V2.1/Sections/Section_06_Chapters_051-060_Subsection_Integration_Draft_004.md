@@ -1024,12 +1024,6 @@ The principle remains:
 
 # Chapter 54 — Decision Architecture: Expanded Operational Rules
 
-### 54.39 Bounded Decision and Jurisdiction Interface
-
-For an expanded triadic proposal, record the decision topology: origin R, adjacent A/B/C, origin-included or origin-excluded mode, separately authorised and conflict-checked eligible constituent positions, three constituent majority results, virtual-triad result, any Unresolved cause, implementation scope, minority reasoning, sunset and review. Three resultant votes, never nine pooled individual ballots, determine the virtual result: F/F/U yields F; F/A/U remains Unresolved. Expansion does not alter proposal scope or resource authority absent the ordinary material-amendment procedure.
-
-**Open issue:** define individual-ballot confidentiality and public resultant disclosure consistent with §§54.28–54.30 and independent Steward voting.
-
 
 ## 54.1 Why Detailed Procedure Is Retained
 
@@ -1744,6 +1738,12 @@ Competence, forum, participation and result are distinct validity gates. Officia
 The authoritative decision record separates: decision/event identity and lawful mandate; three independently eligible official positions; individual single-use ballot commits; anonymous participation count projection; mathematical result; separately justified early acceptance; contextual conference activation and disclosure; constituent resultants where expanded; downstream CBPR/BTA action grant and effect state; ACKS owner-specific receipt/effect/discharge evidence; KCS propagation; protected Historical provenance; and independently authorised concern, review or remedy.
 
 **Unresolved within Chapter 54:** precise authenticated owner attestation, atomic persistence and protected projection implementations; conference after partial commitment; reconciliation of provisional inputs with immutable official votes. These are implementation/source questions, not a reason to conflate a ballot with a revocable host execution grant.
+
+### 54.39 Bounded Decision and Jurisdiction Interface
+
+For an expanded triadic proposal, record the decision topology: origin R, adjacent A/B/C, origin-included or origin-excluded mode, separately authorised and conflict-checked eligible constituent positions, three constituent majority results, virtual-triad result, any Unresolved cause, implementation scope, minority reasoning, sunset and review. Three resultant votes, never nine pooled individual ballots, determine the virtual result: F/F/U yields F; F/A/U remains Unresolved. Expansion does not alter proposal scope or resource authority absent the ordinary material-amendment procedure.
+
+**Open issue:** define individual-ballot confidentiality and public resultant disclosure consistent with §§54.28–54.30 and independent Steward voting.
 
 # Chapter 55 — Deliberative Integrity
 
