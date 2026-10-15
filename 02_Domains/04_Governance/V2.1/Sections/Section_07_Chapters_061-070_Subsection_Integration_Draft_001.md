@@ -2905,6 +2905,6 @@ Impartiality does not require absence of worldview.
 
 **Source basis:** V1 Governance Component Recovery Map G-R10; Expanded Triadic Governance Reconstruction 001.
 
-Disclose material conflict. Abstention is not vacancy or Against; do not substitute simply to obtain a preferred vote. Recusal requires separate legal status and replacement authority; origin-triad conflicts may warrant exclusion from expanded field. Two matching valid official votes may already determine outcome. **[LOCAL ISSUE:]** recusal eligibility and substitute rules.
+Disclose material conflict. Abstention is not vacancy or Against; do not substitute simply to obtain a preferred vote. Recusal requires separate legal status and replacement authority; origin-triad conflicts may warrant exclusion from expanded field. Two matching valid official votes may already determine the mathematical majority, but all three official ballots remain mandatory before ordinary outcome effect; only separately authorised emergency action may proceed after two matching votes. **[LOCAL ISSUE:]** recusal eligibility and substitute rules.
 
 
