@@ -1586,7 +1586,7 @@ Relevant questions include:
 - What externalities exist?
 - What level preserves practical accountability?
 
-### V2.1 — Operational Mesh Scale
+### Operational Mesh Scale
 
 GTP's parent/child terms describe spatial subdivision, not a command hierarchy. Every spatial resolution exists conceptually at all times. Different resolutions may operate simultaneously, including overlapping coordination areas. Operational subdivision or consolidation responds to workload and capacity, with explicit hysteresis to prevent oscillation, but neither creates nor transfers lawful authority. Choose the lowest capable legitimate decision field by competence, externalities, resources and jurisdiction.
 
@@ -1722,7 +1722,7 @@ does not thereby acquire authority over:
 
 The scope should remain connected to the responsibility.
 
-### V2.1 — Common Coordination Versus Binding Power
+### Common Coordination Versus Binding Power
 
 Sharing information, logistical planning or infrastructure does not grant general power to override an independent local jurisdiction. A binding shared decision requires a separately constituted common competence, bounded to the common field and subject to review. Even an expanded virtual-triad majority cannot manufacture that competence. Where local decisions remain independent, preference aggregation across other regions does not supersede them.
 
