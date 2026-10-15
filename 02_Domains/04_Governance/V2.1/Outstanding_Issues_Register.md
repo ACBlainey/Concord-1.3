@@ -70,6 +70,10 @@
 **Important distinction:** These authorial directions settle their stated principles. They do not implicitly settle constitutional quorum, appointment, authenticated authority or implementation validity.
 
 
+## 15 October 2026 — Further Chapter 12 contradiction scan
+
+- **G-008/G-023, partial:** Reconciled remaining source-comparison language that described the three-holder voting constitution as undecided, the mandatory third ballot as provenance-only, or general urgency as sufficient to bypass ordinary completion. Corrected the historical-context heading and emergency/Clock table entry. The operative rule remains three lawfully selected holders before voting, all three official ballots before ordinary effect, with a separately authorised emergency exception after two matching ballots. Further source-completeness audit remains pending.
+
 ## 15 October 2026 — Chapter 12 assembly consistency pass
 
 - **G-008/G-023 partial reconciliation:** Chapter 12's historical portable-module quorum table and cases now explicitly follow the 15 October authorial three-holder constitution and mandatory third-ballot ordinary completion. The expanded two-stage voting clause now distinguishes **pending/missing** ballots and constituent resultants from a genuine **U (Unresolved)** official outcome; ordinary resultant effect requires all three constituent ballots and all three final resultants. The independent emergency exception is preserved. No source passages were silently abridged. Broader whole-chapter clause/source audit remains pending.
