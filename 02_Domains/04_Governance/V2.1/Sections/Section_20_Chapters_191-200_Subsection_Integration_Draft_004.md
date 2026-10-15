@@ -1546,7 +1546,7 @@ It helps prevent category confusion.
 
 
 <!-- V2.1 INTEGRATION 2026-10-13: AUTHORIAL SOURCE RECONCILIATION; DEVELOPMENTAL; REVERSIBLE -->
-## 198.x — V2.1 integration: jurisdiction and conference
+## 198.22 Conference does not delegate jurisdiction
 
 A Steward's attendance at conference does not delegate their jurisdiction or waive protected rights. GTP location and scale identify contexts, not command rank. Binding shared decisions require explicit lawful competence; exceptional conference and urgent conditions do not create it. See Integrations 051–052 and 122–123.
 
@@ -1555,7 +1555,7 @@ A Steward's attendance at conference does not delegate their jurisdiction or wai
 **Constitutional Emergency V2 §§211–244:** Crisis creates risks of political, institutional, security, information, algorithmic, metric and economic capture. Detection systems, dashboards and external providers can become de facto governors if their outputs are treated as commands. Recursive oversight must itself be bounded, privacy-protective and terminable; no permanent reviewer sovereign is created. The owner of an emergency repository or software deployment does not thereby acquire constitutional authority. Separate constitutional legitimacy from empirical effectiveness; evidence of success, simulations and exercises cannot replace lawful authorisation. Preserve negative results, dissent, failed mechanisms, uncertainty and corrections without institutionalising failed emergency powers. **Open:** independent capture review, recursion stopping conditions, real algorithmic explainability and privacy-enforced audit.
 
 
-## 198.V21b — Existing permission, authority-composition and cross-boundary gates
+## 198.23 Permission composition and cross-boundary gates
 
 Jurisdictional overlap must be examined with existing Concord **Fractal Permission Architecture** (bounded participant/action/context/basis/conditions/time), **Multi-Key Authority** (§17: independent authority keys do not automatically compose), and **Cross Boundary Externality Recognition** (§§15–17: material consequence and coordination do not create jurisdiction). Permission, capability, ownership, office and legal authority are distinct. A spatially shared GTP node, an emergency need, a technical dependency or an administrative routing path does not itself create a superior or composite government. A proposed consequential cross-boundary act must identify its real authority sources, current scope, applicable prohibitions, affected parties, legitimate shared or independent route and host commit verification. Unknown or disputed competence remains recorded as such; it is not silently treated as permission. **[LOCAL ISSUE — FI-060, FI-062, FI-076:]** constitutional priority, negative gaps, contested standing and independent remedy paths remain to be settled.
 
