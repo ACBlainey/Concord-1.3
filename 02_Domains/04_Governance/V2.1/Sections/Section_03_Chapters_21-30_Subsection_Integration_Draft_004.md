@@ -93,7 +93,7 @@ They should not automatically justify permanent constitutional change.
 
 Permanent lessons discovered during emergency conditions should enter the ordinary constitutional development process after the emergency where practical.
 
-### Chapter 21 — Emergency change classification and constitutional anti-capture
+### Emergency change classification and constitutional anti-capture
 
 **Constitutional Emergency V2 §§225–244:** Repository write access, protocol maintenance and technical capability are not constitutional amendment authority. Distinguish refactoring, operational change, policy change, constitutional amendment and constitutional replacement by **substantive effect**, not the label attached to a commit. Emergency procedures may be adapted temporarily within lawful scope; emergency authority must not entrench unrelated permanent amendments or rewrite its own limiting principles. A successful pilot is evidence, not legitimacy; the Ratchet and Historical preserve learning without converting past emergency practice into current power. Superseded protocols retain provenance; correction does not erase the original. **Open:** constitutional amendment thresholds, emergency exceptions, owner-controlled deployment and archival status projections.
 
@@ -1408,7 +1408,7 @@ Relevant questions include:
 
 A substitute occupies one lawfully vacant bounded decision position, not an additional vote. A conference cannot create a vacancy, reverse a committed ballot, select a substitute without lawful eligibility and selection, or grant a fresh mandate. Recusal and proven unavailability must be distinguished from valid abstention; the latter is not automatically vacancy. The vertex-adjacent and context-controlled fractal candidate pools retain their independently authorised screening, unbiased selection and audit requirements. The late third ballot remains separately recordable while eligible. See Integrations 022, 031, 115 and 121–123.
 
-### Chapter 28 — Constitutional Emergency V2 declaration and classification interface
+### Constitutional Emergency V2 declaration and classification interface
 
 **Recovered source:** `03_Cross_Domain_Architecture/Constitutional_Emergency/Constitutional Emergency V2.md`, Chapters 19–30 and 41–60. Emergency recognition, declaration, activation of a particular power and exercise of that power are separate events with separately reviewable evidence. False positives, false negatives, manufactured declarations and disputed assessments must remain distinguishable; classification can change as evidence changes. The five emergency levels (local, regional, civilisational, planetary and existential) classify **operational threat scope**, not governance rank or authority. A Level V existential threat does not create absolute powers. Compound and cascading failures may span multiple domains and substrates; AI-caused and AI-affected emergencies are distinct, and due process is not removed by substrate. GTP scales identify affected contexts, never automatic jurisdiction. Record threat evidence, independent issuer competence, declaration, contested assessments, timebase and expiry. **Unresolved:** lawful classification/declaration owner and thresholds, emergency triad constitution and cross-domain consent; no automated detection may silently adjudicate.
 
@@ -1479,7 +1479,7 @@ Two independently valid matching official For or Against ballots determine the s
 A temporary expanded virtual triad is not an automatic succession route and must not be convened merely to reverse a lawful decision or bypass abstention. Its constituent membership, lawful competence, resultants and termination must be independently authorised and recorded.
 
 
-### Chapter 29 — Emergency and time-critical implementation following a decisive two-vote majority
+### Emergency and time-critical implementation following a decisive two-vote majority
 
 **Authorial resolution, cross-reference to Chapter 12:** Two independently valid matching For or Against Steward votes determine the substantive majority. The third official vote is required for provenance, dissent and a complete voting record, but cannot alter an already established two-matching-vote result. Determinacy does not dispense with lawful forum constitution, identity, competence, independently applicable quorum, decision-event boundary or implementation authority.
 
@@ -1593,13 +1593,13 @@ Emergency Governance should therefore consider independence of information as we
 
 A degraded triad does not automatically become a conference, an expanded forum or an emergency body. Two independently valid matching official F/A ballots can determine a result without the third occupied position; whether acceptance proceeds early remains context-dependent. An unavailable or recused position can be filled only by separately lawful, bounded substitution. A valid abstention cannot be silently replaced. Remaining voting authority is not consumed by another Steward's commitment or by the count-only projection. See Integrations 031, 048, 110, 121–123.
 
-### Chapter 29 — Constitutional Emergency V2 stewardship and automation safeguards
+### Constitutional Emergency V2 stewardship and automation safeguards
 
 **Recovered source:** Constitutional Emergency V2, Chapters 61–90. Emergency Stewardship is fiduciary operational responsibility, not political elevation. Capability, specialist expertise, information, participation and measured performance do not confer authority; metrics are sensors rather than rulers. Triadic independent reasoning, dissent and cause-specific abstention remain important under compressed tempo; parallel Stewardship, succession and temporary delegation require independently valid mandates. A person being present does not alone constitute meaningful human oversight of automation. Machine detection must not silently become machine adjudication. Emergency infrastructure, vendor dependence, economic control and code changes are capture vectors requiring independent review. **Unresolved:** enforceable delegation, fallback and automated-action gates, secure decision records, independent owner oversight and substitution eligibility.
 
 # Chapter 30 — Emergency Abstention and Decision Failure
 
-### 30.V21a Emergency deadlock, unresolved results and preservation powers
+### Emergency deadlock, unresolved results and preservation powers
 
 Apply the same three-position triadic substantive result rule to each lawful constituent and to the three constituent **resultants** of a virtual triad: two valid For positions determine For, two valid Against determine Against, and no matching pair yields Unresolved. Examples: `F,F,U → F`, `F,A,U → U`, `A,A,U → A`. `U` at a constituent level is not itself an individual Steward abstention, nor a vacancy, an Against ballot or a procedural defect. Record the specific reason for any unresolved state and keep independently invalid decisions outside the tally.
 
