@@ -6499,7 +6499,7 @@ The following rules emerge as the current operational baseline:
 
 <!-- V2.1 INTEGRATION 2026-10-13: AUTHORIAL SOURCE RECONCILIATION; DEVELOPMENTAL; REVERSIBLE -->
 
-## 9.53 isolated commitment and contextual conference
+## 9.53 Isolated Commitment and Contextual Conference
 
 Ordinary official Steward votes are independently reasoned and committed in isolation. A legitimate contextual wrapper may authorise conference under circumstances not exhaustively foreseeable; conference itself creates neither jurisdiction nor a vote. Each Steward position retains one independently authenticated, bounded, single-use ballot. A valid committed ballot is immutable and its authority consumed. Conference before commitment may permit only context-authorised information exchange; the rules for preliminary positions and for conference after partial commitment remain unresolved. Two matching valid F/A votes determine the substantive outcome; contextual early acceptance, remaining third-position participation, and host execution are separate states. The anonymous 0–3 committed-position count is an informational projection only, never a vote disclosure, authority token, or gate on another Steward. Post-commit concerns, review and replacement decisions require independent authority and new linked identities. See Integrations 110, 115, 121–123.
 
