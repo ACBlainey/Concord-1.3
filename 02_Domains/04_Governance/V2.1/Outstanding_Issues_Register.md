@@ -70,6 +70,10 @@
 **Important distinction:** These authorial directions settle their stated principles. They do not implicitly settle constitutional quorum, appointment, authenticated authority or implementation validity.
 
 
+## 15 October 2026 — Chapter 12 assembly consistency pass
+
+- **G-008/G-023 partial reconciliation:** Chapter 12's historical portable-module quorum table and cases now explicitly follow the 15 October authorial three-holder constitution and mandatory third-ballot ordinary completion. The expanded two-stage voting clause now distinguishes **pending/missing** ballots and constituent resultants from a genuine **U (Unresolved)** official outcome; ordinary resultant effect requires all three constituent ballots and all three final resultants. The independent emergency exception is preserved. No source passages were silently abridged. Broader whole-chapter clause/source audit remains pending.
+
 ## 15 October 2026 — Chapter 132 GTP conflict disposition
 
 - **G-009 resolved for textual-conflict work:** Chapter 132's operative clauses now distinguish the always-present geometric mesh, nonhierarchical default, lawful optional bounded coordination, and separately sourced institutional competence. The superseded optional-use/hierarchical-territorial interpretations are historical evidence only. Expanded constituent resultants and the third-ballot ordinary-completion rule were aligned. This is **not** a claim of operational GTP implementation or completed provenance/graduation.
