@@ -249,7 +249,7 @@ Governance metrics require claim-level definitions, collection methods, proxies,
 
 Distributed political authority can coexist with a monopoly on measurement, models, certification, evidence routing or investigation. The audit proposes monitoring source, data, model lineage, funding, framing, personnel and infrastructure concentrations as separate dependency dimensions, not one independence score. **[LOCAL ISSUE:]** aggregate epistemic risk register and independent calibration.
 
-## 102.V21 — Existing maturity and knowledge-state metrics interface
+## 102.11 Existing maturity and knowledge-state metrics interface
 
 Concord **State and Maturity Mapping** (§§6–16, 23–26) uses context-specific dimensions, sufficiency and freshness rather than a universal maturity score. **KCS Change Propagation** (§§16, 20) can propagate materially corrected metrics to dependent assessments without granting a metric supplier authority over governance. Distinguish measurement owner, data provenance, epistemic uncertainty, calibration, threshold owner and the independently lawful actor authorised to change a policy. Aggregated performance indicators can conceal correlated source error or concentrated supplier control. **[LOCAL ISSUE — FI-044, FI-071:]** independently calibrated thresholds, ownership and contestation of consequential metric claims remain unresolved.
 
@@ -1153,7 +1153,7 @@ Exit is easiest before dependency forms.
 
 A legitimate civil objective does not select a preferred contractor, technology or compulsory procurement method automatically. Compare credible alternative means and the least intrusive sufficient capability; identify conflicts where an institution benefits from its own purchase recommendation. Separate purchasing competence, resource custody, contract authority and execution. **[LOCAL ISSUE:]** procurement challenge, market comparison and cumulative supplier dependence.
 
-## 106.V21 — Procurement independence and cumulative dependency interface
+## 106.22 Procurement independence and cumulative dependency interface
 
 Concord **KCS Change Propagation** (§20) distinguishes supplier dependency from supplier authority. **Multi-Key Authority** (§§17, 23) requires independently legitimate composition and current consequential authority; **Lifecycle Stewardship Review** (§§8, 15) distinguishes continuing a civil function from retaining a particular supplier or institution. Procurement evaluation should represent alternative providers, switching constraints, ownership concentration, technical lock-in, financial incentives and cumulative control over essential services, without converting commercial convenience into civil jurisdiction. A procurement award and each consequential payment remain separately authorised acts. **[LOCAL ISSUE — FI-046, FI-068:]** concentration thresholds, conflict verification, alternative capacity and independent remedy owner remain open.
 
@@ -1668,7 +1668,7 @@ They should not collapse into one authority.
 
 Budgets, grants and procurement are tools for a justified civil function, not independent constitutional authority. Separate appropriation, custody, contract, decision and payment execution; detect cumulative concentration through related offices or infrastructure. Emergency spending requires specific scope, audit, expiry and restoration. **[LOCAL ISSUE:]** financial owner attestations and recovery ledger.
 
-## 108.V21 — Existing multi-key financial mandate and consequential commit interface
+## 108.18 Existing multi-key financial mandate and consequential commit interface
 
 Concord **Multi-Key Authority** (§§17, 21–23) distinguishes spending permission, valid financial mandate, independent required authorities and current conditions; individually valid approvals do not automatically compose into a new power. **Concord Bounded Participant Runtime** (§§11, 13) requires revalidation at consequential commit and records uncertain external effects rather than blind retry. **Bounded Transition Architecture** (§§10, 19) retains pending-owner and partial-effect references. Financial proposal, authorised appropriation, execution attempt, confirmed transfer and recovery/remedy are distinct states. The budget custodian and payment infrastructure must provide owner-specific attestations; a Steward vote alone cannot mint spending authority. **[LOCAL ISSUE — FI-018, FI-047:]** financial mandate schema, double-spend/idempotency proof, independent audit and remedy allocation remain open.
 
