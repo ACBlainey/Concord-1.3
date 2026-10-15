@@ -1424,7 +1424,7 @@ The governance decision record and its lawful host effect are separate state tra
 
 ## Chapter 12 — Clause disposition and validity reconciliation (working annex, not enacted)
 
-**Purpose.** This is a consolidation map, not a replacement for source text. The original §12.4, §12.10 and §12.11 paragraphs and Candidate 013 restatements remain in this manuscript for provenance; duplicate headings are **not** two separately operative laws. Final numbering and removal of duplicate operative presentation require authorial approval and an independently checked source-to-clause map.
+**Purpose.** This is a consolidation map, not a replacement for source text. Sections §12.4, §12.10 and §12.11 now retain their shared base text once alongside the distinct V2.1 spatial, operational-scale and legal-escalation clarifications. The duplicated base paragraphs in §§12.10–12.11 were checked for verbatim correspondence before their second occurrences were removed; §12.4 was checked and no equivalent repeated passage was found. The original source remains available in historical versions. These working interpretations are **not** separately enacted laws. The remaining constitutional validity, implementation and source-to-clause checks still require independent review.
 
 | Clause | Preserved overlap | Proposed single operative placement | Unresolved check |
 | --- | --- | --- | --- |
