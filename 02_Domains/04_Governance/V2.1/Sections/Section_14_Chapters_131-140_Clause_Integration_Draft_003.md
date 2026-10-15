@@ -469,6 +469,14 @@ The operative rule in §§132.0, 132.1 and 132.4 is that **all GTP geometric lev
 
 **Implementation boundary [FI-004, FI-006, FI-009, FI-010, FI-059, FI-061].** The ordinary six incident triangle-owned positions, first/second ring candidate construction and provisional node-centred outer-ring method are described in §132.0c. Remaining validation concerns nonregular nodes, mixed-resolution seams, unbiased distinct-person selection, mesh-revision freezing, dynamic workload hysteresis and independent lawful appointment. Historical source conflict is resolved in favour of the nonhierarchical, all-resolutions-present working interpretation; this does not certify implementation or graduate provisional topology.
 
+
+### Future design architecture — deferred implementation interfaces (G-010)
+
+**ARCHITECTURE TO BE DESIGNED — OUTSIDE CURRENT V2.1 TEXT-INTEGRATION SCOPE.** The principles in this chapter remain operative as stated. The following are design requirements, **not** invented deployed services, automatic authority grants or grounds to delay consolidation. Resolve these at the indicated interfaces when working systems and domain owners exist:
+
+- **G-010 — Architecture to be designed:** Design workload activation/deactivation metrics and hysteresis, overlap and mixed-resolution competence, notice, handover and jurisdictional conflict handling without geometric command hierarchy.
+
+**Future acceptance evidence:** record accountable owner, actual mandate, state-machine/adapter specification, failure and recovery paths, independent review and provenance. Preserve CAP ≠ PERM ≠ AUTH. Do not mark implementation as tested or operational until supported by real evidence.
 # Chapter 133 — Governance and Mars
 
 ## 133.1 Mars as Application
