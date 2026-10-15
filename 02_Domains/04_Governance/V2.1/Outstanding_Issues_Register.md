@@ -70,6 +70,10 @@
 **Important distinction:** These authorial directions settle their stated principles. They do not implicitly settle constitutional quorum, appointment, authenticated authority or implementation validity.
 
 
+## 16 October 2026 — Chapter 149 capacity shortfall and jurisdiction
+
+- **G-023 partial:** Chapter 149 now expressly states that local capability shortfall permits lawful assistance, shared coordination or competence review, not automatic jurisdiction transfer to a larger GTP triangle. Wider-scope authority still requires its own constitutional or institutional authorisation. Source and remaining manuscript checks remain open.
+
 ## 16 October 2026 — Chapter 149 support and spatial authority
 
 - **G-023 partial:** Chapter 149 §149.6 now specifies that lawful wider-scope or neighbouring assistance does not confer command over smaller GTP cells; mandate, consent/shared competence and bounded execution authority remain separate. Historical completeness and other sectional checks remain open.
