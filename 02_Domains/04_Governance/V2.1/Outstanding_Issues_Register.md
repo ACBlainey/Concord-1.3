@@ -72,6 +72,9 @@
 
 ## 15 October 2026 — Cross-register reconciliation checkpoint
 
+- **FI2-006 disposition:** Chapter 151 §151.13 now expressly distinguishes constitutionally constituted institutional federation from GTP geometric nesting. This resolves the terminology/duplicate-architecture candidate without deleting the §151.1 federation discussion. The operational allocation of jurisdiction, delegation and concurrent competence remains under G-009/G-010; it is not an FI2 duplicate defect.
+
+
 - **G-001–G-003: authorial rules resolved and incorporated.** Direct operative corrections made in Chapters 9, 12, 29, 54, 69 and 122. Implementation, authentication, event identity and whole-manuscript validation remain separate open work; these do not reopen the settled voting rule.
 - **G-008/G-023: partially addressed, not closed.** A targeted voting-language review covered all 22 sectional files. This does not establish complete semantic consistency, final Chapter 12 assembly, or preservation of every source clause. Purposeful contextual repetition is not a defect.
 - **G-004–G-007 and G-009–G-027:** retained as distinct open or partially source-resolved work until the required evidence and approvals exist. Synthetic fixture success is not operational proof.
