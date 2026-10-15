@@ -1408,7 +1408,7 @@ Relevant questions include:
 
 
 <!-- V2.1 INTEGRATION 2026-10-13: AUTHORIAL SOURCE RECONCILIATION; DEVELOPMENTAL; REVERSIBLE -->
-## 28.x — V2.1 integration: succession, conference and immutable ballots
+## 28.8 Succession, conference and committed ballots
 
 A substitute occupies one lawfully vacant bounded decision position, not an additional vote. A conference cannot create a vacancy, reverse a committed ballot, select a substitute without lawful eligibility and selection, or grant a fresh mandate. Recusal and proven unavailability must be distinguished from valid abstention; the latter is not automatically vacancy. The vertex-adjacent and context-controlled fractal candidate pools retain their independently authorised screening, unbiased selection and audit requirements. The late third ballot remains separately recordable while eligible. See Integrations 022, 031, 115 and 121–123.
 
@@ -1417,7 +1417,7 @@ A substitute occupies one lawfully vacant bounded decision position, not an addi
 **Recovered source:** `03_Cross_Domain_Architecture/Constitutional_Emergency/Constitutional Emergency V2.md`, Chapters 19–30 and 41–60. Emergency recognition, declaration, activation of a particular power and exercise of that power are separate events with separately reviewable evidence. False positives, false negatives, manufactured declarations and disputed assessments must remain distinguishable; classification can change as evidence changes. The five emergency levels (local, regional, civilisational, planetary and existential) classify **operational threat scope**, not governance rank or authority. A Level V existential threat does not create absolute powers. Compound and cascading failures may span multiple domains and substrates; AI-caused and AI-affected emergencies are distinct, and due process is not removed by substrate. GTP scales identify affected contexts, never automatic jurisdiction. Record threat evidence, independent issuer competence, declaration, contested assessments, timebase and expiry. **Unresolved:** lawful classification/declaration owner and thresholds, emergency triad constitution and cross-domain consent; no automated detection may silently adjudicate.
 
 
-## 28.V21d — Existing module interfaces for emergency verification and review
+## 28.9 Emergency verification and review module interfaces
 
 The existing Concord **Multi-Key Authority** portable module (§§17, 21–23) supplies an interface grammar for independently grounded authority keys, current-predicate verification and consequential-commit revalidation. The **State Triggered Review Architecture** portable module (§§9, 14) supplies review-due signals and temporal backstops without converting a trigger into decision authority. **Bounded Transition Architecture** (§§10, 12, 17, 19) records owner-specific pending/partial states, non-propagation of authority and surviving duties. These modules are reused as bounded interfaces, not as issuers of emergency constitutional power.
 
@@ -1594,7 +1594,7 @@ Emergency Governance should therefore consider independence of information as we
 
 
 <!-- V2.1 INTEGRATION 2026-10-13: AUTHORIAL SOURCE RECONCILIATION; DEVELOPMENTAL; REVERSIBLE -->
-## 29.x — V2.1 integration: degraded triads and contextual continuity
+## 29.8 Degraded triads and contextual continuity
 
 A degraded triad does not automatically become a conference, an expanded forum or an emergency body. Two independently valid matching official F/A ballots can determine a result without the third occupied position; whether acceptance proceeds early remains context-dependent. An unavailable or recused position can be filled only by separately lawful, bounded substitution. A valid abstention cannot be silently replaced. Remaining voting authority is not consumed by another Steward's commitment or by the count-only projection. See Integrations 031, 048, 110, 121–123.
 
@@ -1879,7 +1879,7 @@ The valid vote determines the relevant decision state; the actual emergency deci
 
 
 <!-- V2.1 INTEGRATION 2026-10-13: AUTHORIAL SOURCE RECONCILIATION; DEVELOPMENTAL; REVERSIBLE -->
-## 30.x — V2.1 integration: abstention, emergency and new decisions
+## 30.9 Abstention, emergency and fresh decisions
 
 For, Against and Abstain are distinct official single-use immutable ballot states. A valid abstention is not a vacancy or a negative vote. Unresolved arithmetic is not automatically emergency authority; emergency preservation needs its own lawful function, minimum scope, independent operational time, expiry, review and restoration. Later concerns or appeals do not reopen the completed decision; any replacement has a new identity and fresh authority. The Civilisation Clock may pause, but independent emergency state machines cannot wait for it. See Integrations 059–060, 115 and 121–123.
 
