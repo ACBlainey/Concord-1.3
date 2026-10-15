@@ -4711,7 +4711,7 @@ It may represent:
 
 Where practicable, the reason for abstention should be recorded.
 
-### V2.1 — Three-Position Result Semantics
+### Three-Position Result Semantics
 
 For any lawfully constituted three-position decision, distinguish For (F), Against (A), and Unresolved (U). Two valid matching F positions yield F; two valid matching A positions yield A; otherwise U, subject to separately valid quorum, eligibility and decision-class rules. U is not a substantive Against vote. Record abstention, recusal, absence, failed authentication, conflict and evidential insufficiency as different causes, not interchangeable votes. This rule applies independently at each authorised constituent triad and at the three-resultant virtual-triad stage. No arithmetic result creates jurisdiction or appointment authority.
 
@@ -6503,7 +6503,7 @@ The following rules emerge as the current operational baseline:
 
 Ordinary official Steward votes are independently reasoned and committed in isolation. A legitimate contextual wrapper may authorise conference under circumstances not exhaustively foreseeable; conference itself creates neither jurisdiction nor a vote. Each Steward position retains one independently authenticated, bounded, single-use ballot. A valid committed ballot is immutable and its authority consumed. Conference before commitment may permit only context-authorised information exchange; the rules for preliminary positions and for conference after partial commitment remain unresolved. Two matching valid F/A votes determine the substantive outcome; contextual early acceptance, remaining third-position participation, and host execution are separate states. The anonymous 0–3 committed-position count is an informational projection only, never a vote disclosure, authority token, or gate on another Steward. Post-commit concerns, review and replacement decisions require independent authority and new linked identities. See Integrations 110, 115, 121–123.
 
-### Chapter 9 — V2.1 operative reconciliation of deliberation, commitment and review
+### Operative Reconciliation of Deliberation, Commitment and Review
 
 **Developmental precedence:** Retained references to meetings, deliberation and reconsideration describe available governance processes, not a standing entitlement to see other Stewards' votes or to revoke a committed official ballot. Ordinary official voting is isolated; conference requires independently lawful contextual authorisation, with open-ended legitimate circumstances and bounded CWA/CIBB information access. Chapter 9's generic references to deliberation therefore **do not override** Stage 122.
 
@@ -6512,7 +6512,7 @@ A valid official ballot is an authenticated, one-use authority-consuming state t
 **Unresolved within Chapter 9:** competent conference exception owner; preliminary position disclosure; conference after partial commitment; exact privacy projection and authority-enforcement interfaces. These do not prevent applying the settled isolation, commitment and result rules.
 
 
-### Chapter 9 — Portable triadic decision module: core process and source-specific disposition
+### Portable Triadic Decision Module: Core Process and Source-Specific Disposition
 
 **Incorporated source:** `04_Portable_Modules/Triadic Decision Making Module.md`, §§1–22. This portable source is a general-purpose decision architecture; its earlier deliberation and voting descriptions are preserved here with explicit interfaces to later V2.1 authorial rules.
 
