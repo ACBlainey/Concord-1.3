@@ -1385,7 +1385,7 @@ Overlap is not automatically constitutional failure.
 
 It requires a method for resolving conflict.
 
-### V2.1 — Cross-Resolution Jurisdiction Test
+### Cross-Resolution Jurisdiction Test
 
 Before a cross-cell or cross-resolution binding decision, establish the applicable geographic, functional, institutional, personal, technological and issue-specific authority. Determine whether the question is independent local action, coordination without transfer, or a genuinely shared competence with a valid authorisation instrument. GTP scale and virtual-triad arithmetic cannot create jurisdiction. Record overlap, affected rights, resource responsibility, conflict-resolution route, expiry and review.
 
