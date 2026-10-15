@@ -1737,7 +1737,7 @@ Stage 090 intentionally uses externally asserted booleans for authentication and
 
 Competence, forum, participation and result are distinct validity gates. Official Steward commitment is atomic, single-use and immutable; a second matching valid F/A ballot determines the outcome without requiring a third occupied position. Ordinary progression permits remaining participation; early acceptance requires independent contextual justification. A third valid ballot cannot change the determined outcome. Conference is a separately authorised exceptional information context, not a second voting mode or revocation. Host execution requires independent current authority; CBPR owns commit/effect reconciliation, BTA transition history, ACKS owner-specific acknowledgements, KCS downstream changes and Historical protected provenance. Receipt ACK is not evidence of effect. The Civilisation Clock cannot stall an independently authorised emergency route. See Integrations 097, 110, 115 and 121–123.
 
-### Chapter 54 — V2.1 operative reconciliation of decision record and authority lifecycle
+### Operative Reconciliation of Decision Record and Authority Lifecycle
 
 **Developmental precedence:** General terms such as *decision reversal*, *withdrawal*, *revocation* and *supersession* in this chapter concern independently lawful decisions, mandates, implementation grants, corrections and later decisions. They **must not be read as authority to revoke, edit or resubmit a valid committed official Steward ballot**. A challenged forged or unauthorised ballot is a validity challenge, not discretionary ballot withdrawal. Preserve the original event and append any separately authorised correction or replacement decision under a new identity.
 
@@ -2146,7 +2146,7 @@ The fixture's `review_required` condition is true when the duty or custody proje
 
 <!-- END G05 STAGE 091 PRIVACY-SAFE PROJECTION INTERFACE -->
 
-### Chapter 55 — V2.1 G05 integration: Transition effects and correction
+### G05 Transition Effects and Correction
 
 **Developmental clause, unresolved interfaces retained:** BTA distinguishes proposed, partially effected, recovered, restored and closed states. Rollback or restoration claims must not erase externally realised effects, evidence or continuing duties. A technical receipt is not proof of effect or discharge; verify each with the appropriate owner and preserve independent Historical provenance. KCS downstream dependency propagation does not confer authority. G05 001 stages 074–081; ACKS 097–098.
 
@@ -2511,7 +2511,7 @@ The operational principle is:
 
 > **Accountability should follow the actual exercise, delegation, implementation, supervision and review of authority. No participant should gain immunity merely because responsibility has been distributed across enough people, institutions or automated systems to make the chain difficult to see.**
 
-### Chapter 56 — V2.1 G05 integration: Custody and surviving obligations
+### G05 Custody and Surviving Obligations
 
 **Developmental clause, unresolved interfaces retained:** Duty custody requires authenticated lawful transfer, beneficiary protections, provenance and acceptance. A nominated successor or Civil Contact referral is not an authorised custody assignment. When no valid owner accepts, preserve an orphan record and refer without claiming closure. Restoration of function does not extinguish unresolved compensation, privacy, remediation or archival duties. G05 001 stages 081–083; G05 Custody Reconciliation 002.
 
@@ -2864,7 +2864,7 @@ Periodic institutional review may therefore examine:
 
 > **Governance should evaluate institutions not only according to their formal mandate but according to the behaviour their funding, prestige, measurement, promotion, survival, information and authority structures predictably reward.**
 
-### Chapter 57 — V2.1 G05 integration: Cumulative and distributed control
+### G05 Cumulative and Distributed Control
 
 **Developmental clause, unresolved interfaces retained:** Review successive restrictions and concurrent control across owners, domains and spatial resolutions to detect cumulative deprivation or de facto concentration. Exposure unions, uninterrupted intervals and concurrent-controller counts are review signals, not proof of illegality. Numerical fixture thresholds are not constitutional law. Any renewed mandate needs fresh lawful authority and proportionality assessment. G05 001 stages 084–087.
 
@@ -3040,7 +3040,7 @@ Branching should preserve shared foundational protections where those protection
 
 > **The Concord should preserve lawful cultural diversity and local experimentation while maintaining constitutional protections that prevent culture, tradition or majority preference from becoming an unlimited source of authority over individuals or minorities.**
 
-### Chapter 58 — V2.1 G05 integration: Authenticated owner evidence and privacy
+### G05 Authenticated Owner Evidence and Privacy
 
 **Developmental clause, unresolved interfaces retained:** Governance cannot infer authority from fixture booleans, self-reported status or technical capability. Obtain live owner-issued scope, expiry and validity evidence before consequential commit. CWA/CIBB protect a single authoritative record and issue only legitimate projections; public visibility must not expose restricted beneficiary, Steward or deliberation data. In-memory models are not deployed privacy or custody enforcement. G05 001 stages 070–075, 091.
 
@@ -3351,7 +3351,7 @@ Local variation should operate above, not erase, that floor.
 
 > **The purpose of Governance is not to eliminate difference. It is to create constitutional conditions in which different lawful communities, cultures and intelligences can coexist, coordinate shared systems, resolve genuine conflicts and preserve foundational protections without requiring unnecessary uniformity or allowing difference to become domination.**
 
-### Chapter 59 — V2.1 G05 integration: Cross-context resource coordination
+### G05 Cross-Context Resource Coordination
 
 **Developmental clause, unresolved interfaces retained:** GTP intersections and collisions indicate overlapping effects, not command rank. Reconciliation proposals cannot allocate another owner's resources or transfer authority. Independent resource and host owners must validate each consequential operation, including changed KCS dependencies and partial execution. Shared competence requires its own lawful mandate. G05 001 stages 076–080.
 
@@ -3603,7 +3603,7 @@ The principle is to avoid unnecessarily making future decisions impossible.
 
 > **The Concord should not assume that its current categories, institutions or mechanisms exhaust the possible future. Governance should preserve constitutional principles, knowledge and correction capability strongly enough that civilisation can encounter genuinely novel entities, technologies, environments and failures without either abandoning its ethical foundations or becoming trapped by obsolete architecture.**
 
-### Chapter 60 — V2.1 G05 integration: Unknown futures and reversible governance
+### G05 Unknown Futures and Reversible Governance
 
 **Developmental clause, unresolved interfaces retained:** Future unforeseen failures justify preserving adaptable bounded interfaces, not granting open-ended emergency powers. Recovery, replacement, hibernation and retirement may each leave duties. Treat claims of complete restoration and final closure as independently evidenced, reviewable states; preserve options and historical evidence. G05 001 stages 079–083.
 
