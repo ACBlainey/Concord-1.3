@@ -2152,7 +2152,7 @@ The fixture's `review_required` condition is true when the duty or custody proje
 
 **Unresolved:** actual owner attestation and executable enforcement, constitutional competence/thresholds and independent review remain subject to source validation; do not interpret fixture evidence as deployed authority.
 
-### Chapter 55 — BTA complete field contract and legacy mapping safeguards
+### BTA Complete Field Contract and Legacy Mapping Safeguards
 
 The graduated BTA portable contract defines **28 named fields**, materially optional except where a host profile requires them (Integration 068). A V2.1 host must distinguish omitted/irrelevant, unknown and materially required-but-missing, rather than demanding every field on every transition. The historical machine-readable YAML uses six differently named fields; mappings are *candidate semantic comparisons*, not automatic synonyms, especially externality review versus external consequence. Preserve original keys, values and provenance, quarantine ambiguous legacy conversions, and do not infer permission, restoration or discharge from transition status. Materially missing owner, scope, dependency or temporal proof blocks only the affected consequential step. Earlier small schema fixture tests do not establish complete BTA conformance. Actual owner attestations, durable transactional history and full field-level contract validation remain open.
 
@@ -2517,7 +2517,7 @@ The operational principle is:
 
 **Unresolved:** actual owner attestation and executable enforcement, constitutional competence/thresholds and independent review remain subject to source validation; do not interpret fixture evidence as deployed authority.
 
-### Chapter 56 — Isolation, reconnection and succession in constitutional continuity
+### Isolation, Reconnection and Succession in Constitutional Continuity
 
 **Constitutional Emergency V2 §§131–165:** Local institutions may continue exercising their already-lawful functions during communications isolation. Delay, including interplanetary latency, is not automatically constitutional failure. Isolation cannot manufacture sovereignty or a standing successor. On reconnection, preserve original decisions and evidence, reconcile conflicting commitments and rights impacts through independently competent owners, and review without presuming that every isolated action was wrongful. Distributed constitutional records need integrity and authenticity; a valid cryptographic hash proves unchanged bytes, not truth or lawful authority. Backup copies and machine-readable representations are not automatically the controlling constitutional source. Succession requires defined trigger, eligibility, scope, duration, records and lawful acceptance. AI state recovery and forking introduce distinct identity/continuity questions, not merely infrastructure duplication. **Open:** actual offline owner attestations, conflict arbitration, AI identity reconciliation and cross-planetary time semantics.
 
@@ -3609,7 +3609,7 @@ The principle is to avoid unnecessarily making future decisions impossible.
 
 **Unresolved:** actual owner attestation and executable enforcement, constitutional competence/thresholds and independent review remain subject to source validation; do not interpret fixture evidence as deployed authority.
 
-### Chapter 60 — Recovery completion and institutional sunset
+### Recovery Completion and Institutional Sunset
 
 **Constitutional Emergency V2 §§166–190:** Recovery is a constitutional phase, beginning during response and extending beyond the cessation of danger. Automatic return to ordinary Governance, Judiciary and rights exercise is the default; emergency delegations and temporary institutions expire rather than being promoted by crisis. Restoration must examine accessible rights in practice, courts and cases, infrastructure, property, contracts, data, secrecy, psychosocial impacts and AI continuity. A green dashboard does not prove restoration, and a resumed service does not discharge outstanding individual duties. Emergency-collected data and restricted records require retention/disclosure review; original mistakes remain in Historical with linked correction. Reconstruction is not permission for unrelated political redesign. **Open:** domain-specific restoration criteria, custody/compensation owners, contract unwinding and actual termination enforcement.
 
