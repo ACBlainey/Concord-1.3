@@ -1702,7 +1702,7 @@ Examples may include:
 - major commons;
 - or systemic risk.
 
-Central coordination can solve problems that no local actor can resolve alone.
+Central coordination can solve problems that no local actor can resolve alone. **Coordination is not itself an authority grant:** each participating owner may act within its own mandate; any binding shared decision or compulsory effect requires a separately lawful common competence, independently verified implementation authority and review.
 
 
 ## 150.2 Central Coordination Is Not Total Government
@@ -1728,7 +1728,7 @@ Sharing information, logistical planning or infrastructure does not grant genera
 
 ## 150.3 Enumerated Central Authority
 
-Higher levels may benefit from explicitly defined authority.
+**A broader coordination scale is not inherently a higher office.** Where the constitution independently establishes a central or federated institution, its functions and authority must be explicitly enumerated. GTP geometric containment, shared information and a larger affected area alone confer no priority or command.
 
 Enumerated authority makes expansion more visible.
 
@@ -1742,7 +1742,7 @@ It may specify:
 
 ## 150.4 Residual Local Authority
 
-Functions not requiring central coordination may remain local.
+Functions not requiring central coordination may remain local. Even when central coordination is useful, ordinary local competence is not silently transferred or extinguished; any lawful delegation must identify its scope, duration, limits, and restoration or termination conditions.
 
 The exact constitutional allocation requires further development.
 
