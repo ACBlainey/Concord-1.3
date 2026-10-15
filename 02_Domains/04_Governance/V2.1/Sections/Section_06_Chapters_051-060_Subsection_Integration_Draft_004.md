@@ -1024,7 +1024,7 @@ The principle remains:
 
 # Chapter 54 — Decision Architecture: Expanded Operational Rules
 
-### 54.V21 — Bounded decision and jurisdiction interface
+### 54.39 Bounded Decision and Jurisdiction Interface
 
 For an expanded triadic proposal, record the decision topology: origin R, adjacent A/B/C, origin-included or origin-excluded mode, separately authorised and conflict-checked eligible constituent positions, three constituent majority results, virtual-triad result, any Unresolved cause, implementation scope, minority reasoning, sunset and review. Three resultant votes, never nine pooled individual ballots, determine the virtual result: F/F/U yields F; F/A/U remains Unresolved. Expansion does not alter proposal scope or resource authority absent the ordinary material-amendment procedure.
 
@@ -1534,7 +1534,7 @@ The final decision record should preserve where appropriate:
 
 This creates a reconstructable chain.
 
-### V2.1 — Expanded Virtual-Triad Record
+### 54.40 Expanded Virtual-Triad Record
 
 When expanded voting is authorised, the decision record must include origin R, edge-adjacent A/B/C, the origin-excluded or origin-included mode, source of common jurisdiction, each constituent triad's verified voting positions, individual F/A/U inputs, constituent F/A/U resultants, and the final three-resultant F/A/U decision. Record quorum, abstention and recusal causes, independent authorisation, conflicts, scope, expiry, review, resource authority and implementation responsibility. A pooled nine-vote tally is diagnostic only and has no decision effect.
 
