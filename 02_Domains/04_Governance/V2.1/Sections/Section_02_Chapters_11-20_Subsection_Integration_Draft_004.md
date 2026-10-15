@@ -815,7 +815,6 @@ Where the existing votes do not determine a majority, continue deliberation, obt
 
 The expanded forum may decide only within the specifically authorised common field. Independent local decisions outside that field remain intact. A failure to obtain the desired outcome is not grounds for recursive expansion, forum shopping or silent transfer of power. Temporary expanded structures dissolve when the defined task is complete or their authorisation expires; continuation requires a separate lawful decision. Emergency preservation, succession and substitute appointments remain governed by their independent constitutional provisions.
 
-<!-- BEGIN V2.1 CHAPTER 12 EXECUTION-BOUNDARY RECONCILIATION REGISTER -->
 
 ### Chapter 12 — Extended-triad voting and operational authority: unresolved execution gates
 
@@ -832,9 +831,7 @@ The expanded forum may decide only within the specifically authorised common fie
 
 **Assembly instruction:** Preserve the original V2 §12.9 and full recovered Candidate 013 §12.9 until author-approved reconciliation. Do not count the repeated subsection heading as a second independently authorised procedure.
 
-<!-- END V2.1 CHAPTER 12 EXECUTION-BOUNDARY RECONCILIATION REGISTER -->
 
-<!-- BEGIN V2.1 G03 QUORUM AND V1.1 TRIADIC SOURCE RESOLUTION -->
 
 ### Chapter 12 — Source-derived arithmetic and remaining constitutional validity gates
 
@@ -866,7 +863,6 @@ Authorial direction 048 supersedes the earlier full-three-occupied quorum *assum
 
 **Reconciliation effect:** This authorial direction resolves the preferred timing principle left open in Integration 048 and displaces the assumption that all three ballots must be received before an otherwise lawful decisive majority may be implemented. It does **not** independently settle the distinct constitutional quorum/valid-constitution question, which must not be conflated with the arithmetic threshold.
 
-<!-- END V2.1 AUTHORIAL RESOLUTION — TWO-VOTE DETERMINACY AND IMPLEMENTATION TIMING -->
 
 ## 12.10 Horizontal Expansion Before Vertical Escalation
 
@@ -6264,7 +6260,6 @@ Governance should not permit a change of constitutional regime to occur merely t
 
 
 
-<!-- BEGIN V2.1 SHARED STEWARDSHIP ASCENSION SOURCE INCORPORATION -->
 ### Chapter 19 — Shared Steward allocation, parallel practice and bounded ascension
 
 **Incorporated source:** `03_Cross_Domain_Architecture/Stewardship_Selection_and_Allocation/README.md`, §§1–13, especially the authorial directions of 12 October 2026. This is a shared cross-domain architecture, **not** a newly completed appointment mechanism.
@@ -6278,7 +6273,6 @@ Governance should not permit a change of constitutional regime to occur merely t
 **Lifecycle and transition interface.** Track participant standing, training, accreditation, eligibility, parallel assignment/practice, candidacy, selection, appointment, mandate, currently exercisable authority, absence, recusal, suspension, vacancy, succession and retirement with distinct owner, effective interval and provenance. Entry requires current tier, accreditation and conflict checks; unresolved gates stay pending. Actual appointment requires an independently lawful selector and mandate validated at commit. A shadow Steward never inherits an absent Steward's authority by proximity. Temporary acting or substitute roles require separate bounded constitution, expiry and review. Duties and Historical records survive officeholder exit.
 
 **[LOCAL OPEN DEPENDENCIES:]** Legitimate selector and appointing triad constitution; allocation of parallel positions; competing eligible candidates; office-specific tenure, recall, rotation and succession; privacy and independence of shadow comparisons; decision-class evaluation research; actual Education/Historical/office owner interfaces. Preserve these as local flags rather than blocking incorporation.
-<!-- END V2.1 SHARED STEWARDSHIP ASCENSION SOURCE INCORPORATION -->
 
 # Chapter 20 — Whistleblowing, Challenge and Internal Correction
 
@@ -6371,7 +6365,6 @@ Expanded voting is exceptional, not an ordinary remedy for substantive disagreem
 ## Integration dependencies
 
 Cross-check Chapters 9, 28–30, 54, 100, 132, 149–151 and 198. Do not modify the V2 canonical original. Final clause numbering, placement and normative force require review before this annex can be merged into Chapter 12.
-<!-- BEGIN V2.1 STEWARDSHIP LIFECYCLE CROSS-CHAPTER ALIGNMENT 2026-10-12 — Chapter 12 -->
 
 ### Chapter 12 — Parallel Steward selection, appointment and voting-position boundary
 
@@ -6381,9 +6374,7 @@ An independently frozen shadow vote, reasoned abstention or forecast belongs to 
 
 Do not invent comparative promotion metrics: decision classes and valid outcome tests are not yet known. Preserve original independent reasoning and later reality observations for future evidence-appropriate review. Cross-reference Chapter 100 and emergency Chapters 28–30; see `03_Cross_Domain_Architecture/Stewardship_Selection_and_Allocation/README.md` §§10–13.
 
-<!-- END V2.1 STEWARDSHIP LIFECYCLE CROSS-CHAPTER ALIGNMENT 2026-10-12 -->
 
-<!-- BEGIN V2.1 OPTIONAL HIERARCHY CROSS-CHAPTER RECONCILIATION 2026-10-12 — Chapter 12 -->
 
 ### Chapter 12 — Triadic decisions within optional cross-scale coordination
 
@@ -6391,9 +6382,7 @@ Do not invent comparative promotion metrics: decision classes and valid outcome 
 
 Where a proposed arrangement would give binding direction rather than merely organise information or logistics, require the actual independently lawful shared/delegated competence, affected-domain permissions, office mandates, scope and termination; use MKA to check authority at the consequential act. The choice to create such an arrangement, its scale, selector, hierarchy and review details are **not specified** here and cannot be inferred from GTP nesting. Record cross-scale decision-event identity and provenance so one Steward does not gain duplicate voting weight through overlapping roles.
 
-<!-- END V2.1 OPTIONAL HIERARCHY CROSS-CHAPTER RECONCILIATION 2026-10-12 -->
 
-<!-- BEGIN V2.1 CHAPTER 12 DUPLICATE CLAUSE DISPOSITION AND VALIDITY MATRIX 2026-10-12 — SOURCE-PRESERVING ASSEMBLY AID -->
 
 ## Chapter 12 — Clause disposition and validity reconciliation (working annex, not enacted)
 
@@ -6423,9 +6412,7 @@ Where a proposed arrangement would give binding direction rather than merely org
 
 **Open constitutional gates, not inferred by this table:** legal quorum and constitution of partially occupied triads; completion/finalisation of missing third votes; eligible substitution and expanded-resultant appointment; exact decision-event identity and appeal boundaries; legal issuer for exceptional action; binding cross-area competence. Source-preserving integration is not proof of implementation or authorial graduation.
 
-<!-- END V2.1 CHAPTER 12 DUPLICATE CLAUSE DISPOSITION AND VALIDITY MATRIX 2026-10-12 -->
 
-<!-- BEGIN V2.1 QUORUM SOURCE COMPARISON 2026-10-12 — EVIDENCE-BASED WORKING ANALYSIS -->
 
 ## Chapter 12 — Quorum and lawful forum: portable-module source comparison (not enacted)
 
@@ -6457,9 +6444,7 @@ Where a proposed arrangement would give binding direction rather than merely org
 
 **No premature quorum rule adopted.** Neither a universal “two holders always suffice” nor a universal “all three holders must participate” follows from the portable source or the authorial arithmetic decision. The constitutional decision is specifically how to constitute a lawful three-position forum under temporary absence, permanent vacancy, conflict recusal and emergency. Preserve that fork for authorial resolution after further V1/V1.2 source recovery; do not fill it by assumption.
 
-<!-- END V2.1 QUORUM SOURCE COMPARISON 2026-10-12 -->
 
-<!-- BEGIN V2.1 TRIAD VOTE AUTHORITY SEPARATE FROM IMPLEMENTATION 2026-10-12 — Chapter 12 -->
 
 ### Chapter 12 — Authorial clarification: vote authority is not implementation authority
 
@@ -6469,9 +6454,7 @@ Keep separate records for (1) lawful triad constitution and voting-position auth
 
 **Quorum question narrowed:** G-001 asks only what constitutes a lawful **voting forum**, including absence, recusal and vacancy. Do not use an implementation mandate or inability to implement as a proxy for voting quorum. Nor should the voting triad be described as the executing authority. CAP ≠ PERM ≠ AUTH applies independently to the implementer. The applicable Civilisation Clock transition schedules ordinary implementation where required; lawful urgent action can occur independently of a paused Clock **only by an already competent, bounded implementation actor**.
 
-<!-- END V2.1 TRIAD VOTE AUTHORITY SEPARATE FROM IMPLEMENTATION 2026-10-12 -->
 
-<!-- BEGIN V2.1 AUTHORIAL VOTE-DRIVEN STATE MACHINE CORRECTION 2026-10-12 — Chapter 12 -->
 
 ### Chapter 12 — Vote-driven state transition and bounded authority (authorial correction)
 
@@ -6483,9 +6466,7 @@ Keep separate records for (1) lawful triad constitution and voting-position auth
 
 **Unresolved ownership detail:** Which existing state machine is authoritative for each decision class, exactly when a vote-result event is accepted/committed, how rejected/pending/failed transitions are represented, and which downstream effects require independent act authority must be recovered from original Concord state-machine and bounded-authority architecture. BTA provides an integration contract, not proof that one universal state machine exists. Quorum still concerns validity of the voting forum; an invalid vote cannot lawfully drive a state transition.
 
-<!-- END V2.1 AUTHORIAL VOTE-DRIVEN STATE MACHINE CORRECTION 2026-10-12 -->
 
-<!-- BEGIN V2.1 AFFECTED-SYSTEM BOUNDED ACTION AUTHORITY 2026-10-12 — Chapter 12 -->
 
 ### Chapter 12 — Domain-owned bounded authority for consequences of a vote
 
@@ -6495,9 +6476,7 @@ For each affected system, resolve the actual consequential act, context, route, 
 
 **Important distinction:** A decision-state change is not automatically the same as completed physical, financial, medical or infrastructural action. A valid vote should not be re-decided by downstream actors, but they must not act outside their own independently bounded competence. When the voted decision itself has immediate legal effect, represent that as the appropriate host-defined transition; do not infer authority for further downstream acts.
 
-<!-- END V2.1 AFFECTED-SYSTEM BOUNDED ACTION AUTHORITY 2026-10-12 -->
 
-<!-- BEGIN V2.1 DECISION-DEPENDENT CONSEQUENCE ROUTING 2026-10-12 — Chapter 12 -->
 
 ### Chapter 12 — Do not preassign unknown decision consequences or executors
 
@@ -6507,10 +6486,8 @@ A valid triadic vote drives the lawful decision-state transition through the rel
 
 The state machine must not be misrepresented as a universal executive authority or as a machine that automatically knows all future actors. BTA can represent discovered multi-owner transition relations, unresolved dependencies and partial outcomes; MKA can test actual consequential acts when their route and authority dimensions are known. **Unresolved consequence/owner is a legitimate explicit state**, not permission to guess an executor or infer authority from the vote. Earlier references to a named 'implementation owner' as a required *pre-vote* field are conditional placeholders for cases where the owner is already legitimately known, not universal prerequisites.
 
-<!-- END V2.1 DECISION-DEPENDENT CONSEQUENCE ROUTING 2026-10-12 -->
 
 
-<!-- BEGIN V2.1 CH12 AUTHORIAL CONTEXTUAL QUORUM AND PROVISIONAL APPOINTMENT 2026-10-12 -->
 
 ### Chapter 12 — Authorial resolution: contextual quorum and two-vote decision sufficiency
 
@@ -6524,7 +6501,6 @@ The triadic design principally avoids deadlock, increases the independent knowle
 
 Reuse `03_Cross_Domain_Architecture/Stewardship_Selection_and_Allocation/README.md` §§10–13, Education accreditation, Participation standing, Historical provenance, contextual authority and existing portable modules. Do **not** now prescribe a founding board, membership, candidate score, appointment algorithm, anti-capture protocol, expiry schedule or automatic ascension. Appointment and founding legitimacy, choice among multiple qualified candidates, review and capture safeguards remain deliberately open pending source recovery and authorial development. Earlier procedural examples are illustrative only.
 
-<!-- END V2.1 CH12 AUTHORIAL CONTEXTUAL QUORUM AND PROVISIONAL APPOINTMENT 2026-10-12 -->
 
 
 ### Chapter 12 — Authorial decision finality and new-instance authority (12 October 2026)
