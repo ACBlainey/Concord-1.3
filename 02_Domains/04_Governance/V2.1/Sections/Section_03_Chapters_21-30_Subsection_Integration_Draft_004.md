@@ -1201,7 +1201,7 @@ Degradation should not become elimination.
 
 # Chapter 28 — Emergency Succession
 
-### 28.V21c Constitutional Emergency ownership and asynchronous dependency contracts
+### Emergency ownership and asynchronous dependencies
 
 Constitutional Emergency V2 remains the owning source for emergency classes, declaration, activation, bounded emergency power, rights limitations, sunset, review and restoration; the PH-02 emergency-operations architecture distinguishes advisory, directive and compulsory action. Governance Chapters 28–30 implement only their lawful succession, triadic continuity, deadlock and GTP coordination interfaces. No governance integration note, fixture, Clock, BTA or KCS dependency engine creates an emergency constitution. For each invoked emergency power, preserve the existing source authority, class, competent issuer, activation event, necessary scope, independent operational expiry, review and restoration. An emergency declaration is not itself every particular compulsory action grant.
 
@@ -1210,14 +1210,14 @@ The BTA graduated contract has 28 named fields, **materially optional unless the
 KCS identifies downstream assumptions materially affected by an emergency owner-state change, BTA describes the consequential asynchronous crossing, and the variable Civilisational Clock schedules or wakes relevant ordinary work; none is the authority owner. When the Clock resumes, queued decisions depending on changed prerequisites require current owner revalidation, while unrelated tasks should not be needlessly blocked. Stale feedback, disputed owner states, expired grants and incomplete recovery retain their distinct states and historical references. **Open conformance issues:** actual BTA host-profile requirements, legacy field mappings, KCS dependency completeness and authenticated owner-state reconciliation; no assertion of deployed integration is made.
 
 
-### 28.V21b Bounded emergency preservation and restoration
+### Bounded preservation and restoration
 
 Urgent ordinary action under an existing mandate is distinct from activation of exceptional emergency power. A serious imminent threat, operational urgency or cross-area impact never independently creates an emergency office, shared command or compulsory jurisdiction. Each exceptional measure requires a pre-existing constitutional or legal source, competent activation, evidence of necessity, proportionality, bounded functional and spatial scope, affected-rights safeguards and independently enforced termination. GTP neighbours may share observations, logistics and voluntary assistance without thereby binding each other's assets or Steward positions.
 
 Preserve separate event provenance for threat assessment, declaration where legally required, activation of each power, each specific protective measure, any cross-area mandate, renewal, expiry, review and restoration. Emergency powers must expire when their predicate ends or their lawful sunset is reached, independently of Civilisational Clock progression. Termination of exceptional powers does not erase continuing remediation, compensation, audit or remedy obligations. An Against or Unresolved vote cannot be relabelled to manufacture permission. **Open local matters:** empowered declaring institutions, exact activation thresholds, maximum duration and renewal oversight, non-derogable rights and emergency review routes.
 
 
-### 28.V21a Independent emergency time and state-machine reconciliation
+### Independent emergency time and state machines
 
 The Civilisational Clock is a variable-duration dependency and scheduling architecture, not a continuously advancing timer. It may pause awaiting feedback. Threat observation, classification, lawful declaration, individual power activation, operational decisions and effects, independent expiry, restoration and remedy must be represented as distinct events; none is automatically the authority for another. Emergency detection, legitimate activation, operational response, monitoring, deadlines, sunset and review must remain possible through independently resilient operational time while the Clock is paused. Clock independence removes no legal authority, necessity, proportionality, rights or consent requirement, and resumption cannot reactivate expired emergency power.
 
@@ -1226,7 +1226,7 @@ Constitutional Emergency and relevant domain owners determine legitimate states 
 **Open implementation questions:** independent time-source resilience, declaring institutions and thresholds, extensions and sunset enforcement, degraded judicial review, and cross-system dependency reconciliation.
 
 
-### 28.V21 — Position-specific succession and mesh continuity
+### Position-specific succession and mesh continuity
 
 An unavailable or compromised Steward may be replaced only through a pre-authorised succession mechanism for the specific decision position. Parallel Stewardship is advisory and confers no automatic succession or voting entitlement. A six-Steward GTP vertex represents potential roles, not a universal succession list. Every exceptional appointment must document its cause, position, eligibility and competence, independence and conflicts, jurisdiction, duration, expiry and ordinary-office restoration.
 
@@ -1425,14 +1425,14 @@ The emergency state machine must respond on an independently progressing timebas
 
 # Chapter 29 — Degraded Triads
 
-### 29.V21a Degradation is cause-specific, not a numerical emergency power
+### Cause-specific degradation and authority limits
 
 A single unavailable Steward does not invalidate an already determined outcome from two independently valid matching official ballots; a split pair remains substantively unresolved unless a lawful third ballot or other legitimate mechanism resolves it. If two Stewards are unavailable, there is no ordinary two-vote majority. A compromised shared information source can degrade independence even with three nominally occupied positions. Record whether each deficiency is absence, incapacity, identity/authentication failure, material conflict recusal, evidential insufficiency, communication isolation or contested independence before selecting postponement, evidence collection, lawful substitution, reconstitution or separately authorised emergency preservation. Abstention for insufficient information is not a vacancy and must not automatically produce a substitute.
 
 Emergency preservation by fewer Stewards requires its own pre-existing lawful authority, activation and bounded Emergency Authority Envelope, including actor, affected rights, necessity, proportionate interference, independent operational expiry, oversight and remedy. The number of available Stewards alone cannot create jurisdiction or convert advice into binding directives or compulsion. Restoration of normal independent participation and retrospective accountability remain duties even if urgent preservation succeeded. Where different isolated areas acted under conflicting good-faith succession records, reconcile evidence and effects without automatically rewriting either historical record.
 
 
-### 29.V21 — Degraded triad continuity and bounded restoration
+### Degraded triad continuity and restoration
 
 Before extraordinary voting, distinguish temporary absence, vacancy, communication or authentication failure, recusal, incapacity, insufficient evidence, compromised independence and principled abstention. Record urgency and whether safe delay is possible; these causes are not interchangeable.
 
@@ -1611,7 +1611,7 @@ Apply the same three-position triadic substantive result rule to each lawful con
 Where a decision remains unresolved under urgent conditions, preserve the no-authorised-state-change default for that decision. Independently existing emergency-preservation powers may nevertheless permit a minimal, proportionate and time-limited protective act through their own lawful owner and activation path. This is **not** a manufactured vote, a silent override, an emergency replacement of a dissenting Steward or automatic escalation to a geometrically larger GTP authority. Record the preservation action and its distinct basis, external effect, uncertainty, review, expiry and restoration. A choice not to intervene also requires evidence-sensitive assessment of avoidable harm, but the risk of inaction alone cannot mint an ungranted power.
 
 
-### 30.V21 — Abstention, unresolved outcomes and emergency non-authorisation
+### Abstention, unresolved outcomes and non-authorisation
 
 A three-position decision produces For or Against only on two valid corresponding votes; otherwise its result is Unresolved. Record separately whether Unresolved arises from abstention, absence, recusal, invalid authentication, insufficient evidence or another cause. Against is a substantive decision, not the same as Unresolved. Abstention is neither consent, opposition nor vacancy, and never independently authorises replacement; a legitimate two-vote majority remains effective despite third-position abstention.
 
