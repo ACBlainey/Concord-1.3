@@ -1431,7 +1431,7 @@ The governance decision record and its lawful host effect are separate state tra
 
 ### Voting-validity decision table (interpretive only)
 
-| Situation | Substantive arithmetic | Legal effect / next action |
+| Situation | Substantive arithmetic | Decision state / next action |
 | --- | --- | --- |
 | Two independently valid matching official F votes | For majority determined | Requires separately valid forum, quorum, jurisdiction, event identity and implementation authority; ordinary effect at next applicable Clock transition, lawful urgent effect may be immediate |
 | Two independently valid matching official A votes | Against majority determined | Same validity gates; third official vote remains provenance obligation, not a veto |
