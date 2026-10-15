@@ -1,13 +1,13 @@
 # Governance V2.1 — Working Reconstruction and Sectional Revision
 
-**Status:** Development workspace, not canonical. **Governance V2 Canonical.md must remain unchanged.**
+**Status:** Intended master Governance document. Governance V2.1 supersedes the erroneous V2 after conflicts and wording have been corrected. **Governance V2 Canonical.md remains unchanged as historical provenance, not competing operative authority.**
 
 
 ## Source labels, succession and resolution policy — authorial direction, 14 October 2026
 
 - Treat labels such as **canonical**, **non-canonical**, **provisional** and **working** as historical indicators of what was regarded as most up to date at the time of writing. They are **not** proof of completeness, validation, substantive correctness, or superior source authority. Do not discard an older architecture merely because its status label differs.
 - Assess substantive rules by their actual text, chronology, authorial clarification, compatibility and provenance. Recover older omitted architecture where relevant; distinguish genuine supersession from migration omission. Resolve conflicts on their merits and flag unresolved questions at the affected V2.1 provision.
-- **Governance V2.1 is the intended successor to Governance V2.** V2.1 will supersede V2 when the identified issues have been addressed and the architecture reconciled. Until then, retain V2 unchanged as a historical source and comparison baseline, without treating its former label as a veto on V2.1 development.
+- **Governance V2.1 is the intended successor to Governance V2.** V2.1 will supersede V2 when the identified issues have been addressed and the architecture reconciled. Retain V2 unchanged as a historical source and comparison baseline, without treating its former label as a veto on V2.1 authority. Once conflicts and wording are corrected, the V2.1 text is operational governance architecture; do not label its provisions provisional merely because implementation evidence or cross-domain interfaces remain to be developed.
 - Completion of source consolidation does not itself resolve the flagged issues. Do not use historical status labels as a substitute for issue resolution, actual implementation evidence or constitutional review.
 
 ## Current consolidation state — 14 October 2026
@@ -38,7 +38,7 @@ The local V2 source has **215 numbered chapters**. Plan 22 sectional manuscripts
 - Three constituent results, not pooled individual ballots, define the standard expanded virtual triad.
 - Local capable authority is preferred; a large-area event does not by itself create overriding central authority.
 
-**Sectional assembly has progressed:** all 22 source-preserved section files exist; multiple ten-chapter subsection integration drafts have been committed. These remain developmental and require conflict-resolution and integrity checks before graduation. Earlier targeted chapter patches remain provenance, not the sole integration location.
+**Sectional assembly has progressed:** all 22 source-preserved section files exist; multiple ten-chapter subsection integration drafts have been committed. These require conflict-resolution and integrity checks before V2.1 supersession; provisions incorporated into V2.1 are intended as operative governance rules once conflicts and wording are corrected, not as merely provisional proposals. Earlier targeted chapter patches remain provenance, not the sole integration location.
 
 
 ## G05 integration — bounded governance, continuity and recovery
@@ -57,3 +57,9 @@ The local V2 source has **215 numbered chapters**. Plan 22 sectional manuscripts
 Current primary **developmental working text** is under `Sections/`, not isolated `Integration/` notes. Source-preserved originals remain untouched. Reconciled material has been inserted in the relevant subsection drafts for Chapters 9, 12, 28–30, 54, 100, 132, 149–151 and 198. The source notes (121–123) remain evidence and provenance, not alternative chapter authority.
 
 Open questions belong within the affected V2.1 section **and** the single `Outstanding_Issues_Register.md`, rather than preventing consolidation. Priority is to merge remaining G05, triadic decision, GTP and authority lifecycle material into their actual chapter sections, reconcile older conflicting clauses, and audit preservation. No original V2 source or historical file should be silently overwritten.
+
+## Authorial direction — 16 October 2026: operative V2.1 status
+
+**Governance V2.1 is the master successor to erroneous V2.** Do not describe incorporated V2.1 governance rules as *provisional* merely because the document is being corrected or because no deployed software exists. Once textual conflicts and wording are corrected, its provisions are operative governance architecture. Preserve V2 unchanged for provenance, not as a competing master.
+
+Distinguish a **settled constitutional rule** from **architecture explicitly still to be designed**: a deferred implementation interface, unspecified parameter, or unavailable deployed system is a specific engineering dependency, not a reason to downgrade the surrounding V2.1 rule. Retained source passages that explicitly discuss unsettled alternatives must be reconciled or locally flagged rather than silently treated as operative contradictions. Audit records should describe outstanding textual checks and source-preservation evidence, not call the intended master document provisional.
