@@ -357,7 +357,7 @@ Preserve the third Steward's independent reasoning and dissent even after two ma
 
 The audit identifies aggregate washout, geographically distributed minorities, rare catastrophic harms and newly recognised sentience classes as ways apparently convergent metrics can conceal consequential suffering. Participant silence may reflect fear, exclusion or death. Protect accessible reporting and independent challenge without automatically treating every report as verified. **[LOCAL ISSUE:]** minority signal retention and privacy.
 
-## 122.V21 — Existing minority-signal provenance and protection interface
+## 122.14 Existing minority-signal provenance and protection interface
 
 Concord **Triadic Decision Making Module** preserves independent Steward reasoning and distinguishes minority dissent from the authority of a committed vote. **KCS Change Propagation** (§16) can represent later evidence corrections as review signals without retroactively cancelling an irrevocable ballot. Protected dissent should be discoverable by legitimately authorised reviewers and affected participants to the extent consistent with confidentiality, consent and safety; it is not a fourth vote, a veto or permission to expose private deliberation. **[LOCAL ISSUE — FI-003, FI-055:]** dissent publication classes, provenance custody, retaliation safeguards and independent challenge routes remain open.
 
@@ -869,7 +869,7 @@ These conflicts should not be ignored merely because the AI was originally deplo
 
 Dependence on one model, provider or compute infrastructure creates possible de facto governance power without formal votes. Preserve independent alternatives and exit routes; assess aggregate technical control and covert agenda, evidence or execution capture. **[LOCAL ISSUE:]** portability and continuity.
 
-## 125.V21 — Existing model dependency and knowledge independence checks
+## 125.14 Existing model dependency and knowledge independence checks
 
 Concord **KCS Change Propagation** (§§16, 20, 24) can represent materially dependent analytical claims and review triggers without giving an upstream model or supplier authority over downstream governance. **Multi-Key Authority** (§§17, 19) prevents nominally independent recommendations from being treated as separate constitutional keys when their authority sources are not independently grounded. **Private Local Evaluation** permits bounded protected queries where full disclosure would expose participants or sensitive infrastructure. A triadic decision must not be treated as epistemically independent merely because three different interfaces deliver the same model-dependent answer. **[LOCAL ISSUE — FI-056, FI-072, FI-073:]** actual model lineage verification, independent evidence, adversarial testing and execution-path safeguards remain to be validated.
 
@@ -1068,7 +1068,7 @@ AI advice and epistemic triads provide evidence and uncertainty, not extra gover
 
 Thousands of model responses may reflect one shared dataset, architecture or training assumption. Count independent evidential pathways rather than output volume; preserve dissent, uncertainty, calibration and challenge. AI analysis may justify attention or investigation but cannot become a vote or authority claim without separate lawful office mandate. **[LOCAL ISSUE:]** dependency-aware convergence and model disclosure.
 
-## 126.V21 — Existing participant reporting and protected local evaluation interface
+## 126.16 Existing participant reporting and protected local evaluation interface
 
 Concord **Civil Attention Reporting Petition and Resolution** supplies multiple civil intake classes, routing and return of outcomes; **Private Local Evaluation** supplies bounded evaluation where sensitive source data need not be released. Experiential reports can indicate a neglected harm or a mistaken governance question without being treated as a direct vote, verified evidence or a basis for covert identity linkage. Duplicate/manipulated reports require proportionate source-quality checks and protected challenge rather than blanket rejection of anonymous participants. **[LOCAL ISSUE — FI-057, FI-038:]** channel sampling, anti-manipulation tests, protected identity boundary and owner response standards remain open.
 
@@ -1268,7 +1268,7 @@ It makes provider dependency a constitutional issue.
 
 The architecture separates substrate capability, permission, participant standing, function-specific competence, lawful appointment, mandate and decision-event authority. AI analysis can be decisive evidence without itself becoming a fourth Steward vote or an unappointed substitute. Where an AI is independently qualified and legitimately appointed to an authorised office, its vote follows the same context-specific official-ballot rules; no generic algorithmic delegation can shortcut those gates. **[LOCAL OPEN:]** actual AI office eligibility, continuity identity, accreditation and role-specific host enforcement.
 
-## 127.V21 — Existing bounded AI runtime and non-sovereign execution interface
+## 127.16 Existing bounded AI runtime and non-sovereign execution interface
 
 Concord **Concord Bounded Participant Runtime** (§§8–14, 20–21) distinguishes possession of credentials, technical capability, legitimate action grants and consequential commit. **Multi-Key Authority** (§§17, 19, 23) prevents independently valid AI-advisory, infrastructure and civil authorities from silently composing into sovereign power. An AI's analysis or recommendation may inform a triadic Steward decision but cannot itself become a binding civil decision through automated routing, execution, gatekeeping, suppression of alternatives or credential possession. Where a legitimate host has explicitly pre-authorised bounded automation, each material execution remains within that scope and subject to current-predicate checks and review. Succession of a model or runtime does not transfer the predecessor's mandate by copying its state. **[LOCAL ISSUE — FI-056, FI-072, FI-073:]** model independence, hidden infrastructure dependencies and actual execution-control validation remain to be established.
 
@@ -1557,7 +1557,7 @@ Participant experience is a distinct evidence pathway whose absence may reflect 
 
 A persistent civil identity is distinct from current keys, substrate, network address and online presence. Hidden AI branching is a legitimate hypothesis when duplicate identity use appears; fraud is also possible. Recovery must consider AI migration, hybrids, lost devices and remote participants without forcing excessive biometrics or tracking. **[LOCAL ISSUE:]** identity lineage, independent branch verification and rights of divergent participants.
 
-## 128.V21 — Existing bounded investigation and civil-function continuity interface
+## 128.22 Existing bounded investigation and civil-function continuity interface
 
 Concord **Civil Attention Reporting Petition and Resolution** provides accountable problem intake and feedback; **Fault-Tolerant Accountability and Responsibility Continuity** (§§9–13) maintains duties and safe-state response when a holder is unavailable; **Minimum Necessary Capability** bounds an investigation by the actual civil need. An allegation of scope overreach should be assessed by an independent competent owner, preserving access to remedy while avoiding automatic extension of the disputed authority. A civil function can continue through an independently lawful substitute without inheriting the questioned mandate. **[LOCAL ISSUE — FI-058, FI-043:]** investigative competence, temporary protection thresholds, replacement owner and final remedy remain to be specified.
 
