@@ -1,6 +1,6 @@
 # V2 to V2.1 Preservation Audit 002 — Chapters 11–20
 
-Status: quantitative screening only; no clause-preservation certification.
+Status: quantitative source-preservation screening only; no clause-preservation certification. Governance V2.1 is the intended operative master after conflict and wording correction; the audit's incomplete evidence does not render its governance rules provisional.
 
 Source: local author-provided `Governance V2 Canonical (2).md` compared with V2.1 Section 02 draft. Original source not modified.
 
