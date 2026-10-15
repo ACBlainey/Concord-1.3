@@ -149,7 +149,7 @@ The principle is:
 
 Institutional federation and GTP's geometric mesh are distinct. Lawful federal competences may be exclusive, shared, advisory or coordinated, but geometric parent/child triangles alone create no chain of command. Concurrent spatial resolutions can support federation without implying institutional superiority. In overlapping decision fields, establish the lawful competence basis before any aggregation. An authorised virtual triad aggregates three constituent results, not all neighbouring regions' independent political choices.
 
-**Open issue:** reconcile the older 'nested governance' language with genuine lawful delegation, without mistaking geometric nesting for institutional hierarchy.
+**Interpretive reconciliation:** The older 'nested governance' language in §151.1 describes constitutionally constituted institutional layers and allocations of responsibility, not geometric parent/child inheritance of authority. A lawful federation may separately establish enumerated delegation, institutional priority or concurrent competence; none arises from GTP containment, map scale or proximity alone. This resolves the terminology question while retaining open implementation questions concerning the actual constitutional competence and conflict-resolution rules.
 
 ## 151.14 Federal conference and distinct authority classes
 
