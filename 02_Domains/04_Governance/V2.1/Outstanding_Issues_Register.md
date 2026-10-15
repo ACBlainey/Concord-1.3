@@ -70,6 +70,10 @@
 **Important distinction:** These authorial directions settle their stated principles. They do not implicitly settle constitutional quorum, appointment, authenticated authority or implementation validity.
 
 
+## 16 October 2026 — Chapters 100 and 132 alternate-return cross-section alignment
+
+- **G-023 partial:** Chapter 100's Parallel Steward substitute provision now requires identity, eligibility, conflicts, office-state and mandate revalidation for original-Steward restoration before alternate ballot commitment, without a fourth ballot or new mandate. Chapter 132's GTP node-ring substitution provision now expressly carries the same pre-commit restoration and immutable committed-ballot boundary; geometric eligibility does not itself authorise appointment or return. Source completeness and remaining sectional consistency still require audit.
+
 ## 16 October 2026 — Chapter 54 ballot-versus-resultant terminology
 
 - **G-023 partial:** Chapter 54 §54.40 now distinguishes three official individual ballots (For/Against/authorised abstention) from the constituent F/A/U **derived resultants**. Completed U is a received no-majority resultant, never a missing ballot or resultant; final ordinary effect still requires all three official constituent resultants. This avoids conflating an individual abstention with a virtual-triad Unresolved result. Remaining manuscript/source checks stay open.
