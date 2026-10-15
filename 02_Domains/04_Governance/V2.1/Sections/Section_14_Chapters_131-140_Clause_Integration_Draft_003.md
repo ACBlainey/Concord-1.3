@@ -2199,7 +2199,6 @@ Market evidence should therefore inform but not define the constitutional object
 
 > **Markets can provide powerful decentralised coordination and discovery, but market price, contribution, wealth or ability to pay should not determine constitutional worth or rights. Governance should compare real institutional alternatives, preserving competition and autonomy where markets function well while addressing monopoly, externality, dependency and other failures without assuming public intervention is itself failure-free.**
 
-<!-- BEGIN V2.1 GTP OPTIONAL BOUNDED HIERARCHICAL COORDINATION 2026-10-12 — AUTHORIAL CLARIFICATION, WORKING INTEGRATION -->
 
 ### Chapter 132 — Optional bounded hierarchical coordination across GTP scales
 
@@ -2211,9 +2210,7 @@ Any such arrangement requires an independently valid lawful basis and relevant c
 
 **Intentionally open:** No universal circumstances, trigger, chain of command, level, voting procedure or hierarchy-design algorithm are prescribed here. Those depend on the actual task and independently applicable constitutional and domain rules. This clarification qualifies categorical readings of earlier nonhierarchy wording without reinstating the obsolete assumption that GTP is inherently a territorial command hierarchy. All prior source text is retained for clause-level reconciliation.
 
-<!-- END V2.1 GTP OPTIONAL BOUNDED HIERARCHICAL COORDINATION 2026-10-12 -->
 
-<!-- BEGIN V2.1 OPTIONAL HIERARCHY CROSS-CHAPTER RECONCILIATION 2026-10-12 — Chapter 132 -->
 
 ### Chapter 132 — Legacy-clause interpretive reconciliation: nested geometry and optional coordination
 
@@ -2223,9 +2220,7 @@ The “lowest capable legitimate decision field” is a default subsidiarity pre
 
 **Clause disposition pending:** Keep §§132.1, 132.2, 132.4, 132.5 and 132.12 old and recovered wording visible; at final assembly reconcile the obsolete optional-use framing and categorical nonhierarchy language against the adopted conceptual mesh **with optional bounded hierarchical coordination**. Do not treat the new flexibility as retroactive authorisation for any existing command relationship.
 
-<!-- END V2.1 OPTIONAL HIERARCHY CROSS-CHAPTER RECONCILIATION 2026-10-12 -->
 
-<!-- BEGIN V2.1 TRIAD VOTE AUTHORITY SEPARATE FROM IMPLEMENTATION 2026-10-12 — Chapter 132 -->
 
 ### Chapter 132 — GTP voting competence and external implementation authority
 
@@ -2233,9 +2228,7 @@ The “lowest capable legitimate decision field” is a default subsidiarity pre
 
 Record separately the voting forum and decision event, resultant/majority provenance, and the competent implementation owner and mandate. Cross-cell agreement may determine a valid vote without transferring operational jurisdiction or resources. Any binding action requires independent lawful implementation authority and its own checks at the act; optional hierarchical coordination does not change this separation.
 
-<!-- END V2.1 TRIAD VOTE AUTHORITY SEPARATE FROM IMPLEMENTATION 2026-10-12 -->
 
-<!-- BEGIN V2.1 AUTHORIAL VOTE-DRIVEN STATE MACHINE CORRECTION 2026-10-12 — Chapter 132 -->
 
 ### Chapter 132 — GTP voting drives state machine; geometry does not execute
 
@@ -2243,26 +2236,20 @@ Record separately the voting forum and decision event, resultant/majority proven
 
 Do not mistake BTA's cross-system transition record for a source of jurisdiction or a universal executor; host state-machine ownership, transition predicates, legal effective time and downstream implementation contracts remain to be located and reconciled.
 
-<!-- END V2.1 AUTHORIAL VOTE-DRIVEN STATE MACHINE CORRECTION 2026-10-12 -->
 
-<!-- BEGIN V2.1 AFFECTED-SYSTEM BOUNDED ACTION AUTHORITY 2026-10-12 — Chapter 132 -->
 
 ### Chapter 132 — Cross-scale decisions and distributed domain execution
 
 A GTP-local, expanded or cross-scale vote may lawfully determine a shared decision state, including under optional bounded hierarchical coordination. It **does not centralise action authority**. Each affected system and jurisdiction retains its own bounded authority rules for resulting acts; GTP geometry, constituent resultants and coordination arrangements supply no substitute. Multi-system consequences may be asynchronous and partially implemented, and must retain per-system owner, mandate, state, review and provenance. BTA relates transitions; it does not impose a single implementing authority.
 
-<!-- END V2.1 AFFECTED-SYSTEM BOUNDED ACTION AUTHORITY 2026-10-12 -->
 
-<!-- BEGIN V2.1 DECISION-DEPENDENT CONSEQUENCE ROUTING 2026-10-12 — Chapter 132 -->
 
 ### Chapter 132 — GTP does not predetermine post-vote execution topology
 
 GTP geometry, mesh coverage, an expanded resultant or optional hierarchical coordination do not tell us in advance what a triad will decide, which systems its decision will affect, or who will act. The actual lawful vote and resulting decision-state transition determine which consequences require resolution. Only then can relevant domain-specific bounded authority and actual actors be established, potentially across several systems or spatial scales. Do not impose a fixed cross-cell executor, hierarchical command route or mandatory multi-system fan-out on every vote. Preserve unknown and non-action outcomes explicitly.
 
-<!-- END V2.1 DECISION-DEPENDENT CONSEQUENCE ROUTING 2026-10-12 -->
 
 
-<!-- BEGIN V2.1 CH132 SPATIAL APPOINTMENT NONINFERENCE 2026-10-12 -->
 
 ### Chapter 132 — GTP spatial offices do not establish appointment hierarchy
 
@@ -2270,7 +2257,6 @@ GTP geometry, mesh coverage, an expanded resultant or optional hierarchical coor
 
 **Contextual quorum:** Two independently valid matching official Steward votes settle the substantive triadic outcome; the third contributes epistemic and historical provenance, not an additional legal vote threshold. Do not infer from six vertex associations, conceptual triangles or concurrently used GTP scales that a particular human/AI Steward is appointed, qualified or entitled to vote. These are separate questions of legitimate office and contextual authority. Preserve optional bounded cross-scale coordination without inferring a spatial governing hierarchy.
 
-<!-- END V2.1 CH132 SPATIAL APPOINTMENT NONINFERENCE 2026-10-12 -->
 
 
 ### Chapter 132 — GTP mesh decisions are separate historical state-machine instances (12 October 2026)
