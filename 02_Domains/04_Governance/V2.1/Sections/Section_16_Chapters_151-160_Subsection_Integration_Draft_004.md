@@ -143,7 +143,7 @@ The principle is:
 
 ## 151.12 Federation Principle
 
-> **Federation should allocate responsibility across nested levels according to consequence, competence and shared constitutional purpose. Higher layers may coordinate genuine common problems while local residual authority remains meaningful, and jurisdiction conflicts should be resolved constitutionally rather than through automatic upward expansion.**
+> **Federation may allocate responsibility among independently constituted institutions according to consequence, competence and shared constitutional purpose. A lawfully mandated wider-scope institution may coordinate genuine common problems while residual local competence remains meaningful; neither 'higher' institutional standing nor authority arises from GTP geometric parent/child containment. Jurisdiction conflicts must be resolved through the applicable constitutional process, not automatic upward expansion.**
 
 
 <!-- V2.1 INTEGRATION 2026-10-13: AUTHORIAL SOURCE RECONCILIATION; DEVELOPMENTAL; REVERSIBLE -->
