@@ -1,0 +1,32 @@
+# V2.1 — Flagged Issues 2 — Reconciliation Register
+
+## Purpose
+This register records issues discovered during the V2.1 substantive duplication and source-preservation reconciliation. It is separate from the earlier `Flagged_Issues` work and its registers. All new working notes, comparison registers, and supporting reconciliation documents for this pass belong in this folder.
+
+## Preservation rules
+- This is architectural integration, **not editing**. Do not compress, abridge, paraphrase, simplify, or silently change substantive material.
+- Preserve all unique reasoning, examples, qualifications, constraints, interfaces, and architectural details.
+- Similarity is not proof of duplication. Only remove **obvious, demonstrable duplication** after verifying that no unique material is lost.
+- Record conflicts and uncertain overlaps here for later resolution; do not silently choose between competing provisions.
+- Historical source files remain available for provenance, but current unique architecture must survive in V2.1.
+- Do not treat prior "canonical" labels as proof of completeness or validation.
+
+## Issue numbering
+Assign each newly identified issue a permanent sequential identifier: `FI2-001`, `FI2-002`, etc. Never reuse identifiers. Record the exact repository path, chapter/subsection, competing passages or precise locations, issue type, why it matters, and proposed follow-up. Do not label a suspected conflict resolved without explicit supporting verification.
+
+## Issue register
+
+| ID | Type | Exact source locations | Description and unique-material risk | Status |
+|---|---|---|---|---|
+| — | — | — | No conflicts or questionable duplications have yet been registered in this new pass. | — |
+
+## Reconciliation log
+
+- 2026-10-15: Register established as a clean, separate workspace. Existing earlier issue registers are unchanged. Section 22's prior exact-line source-preservation comparison reported zero missing non-empty lines; this is not a semantic duplication/conflict clearance.
+
+## Status vocabulary
+- **Open** — issue identified, awaiting examination.
+- **Needs source comparison** — relevant passages require direct comparison.
+- **Pending decision** — architectural choice must be made later.
+- **Verified duplicate** — exact redundant material confirmed with no unique detail lost.
+- **Resolved** — supported by documented reconciliation and verification.
