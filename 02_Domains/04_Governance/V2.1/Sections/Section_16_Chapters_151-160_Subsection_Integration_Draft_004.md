@@ -7,6 +7,8 @@
 
 ## 151.1 Nested Governance
 
+**Interpretive boundary:** Here *nested* means independently constituted institutional or functional responsibilities, not geometric parent/child command in the always-present GTP mesh. Any legally binding federation, priority or delegation must have its own lawful source and bounded scope; this section does not establish an automatic regional or planetary superior office.
+
 A federation may combine:
 
 - local;
