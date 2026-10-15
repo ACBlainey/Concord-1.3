@@ -70,6 +70,10 @@
 **Important distinction:** These authorial directions settle their stated principles. They do not implicitly settle constitutional quorum, appointment, authenticated authority or implementation validity.
 
 
+## 16 October 2026 — Chapter 12 pending-result and completion boundary
+
+- **G-008/G-023 partial:** Clarified Chapter 12's determinacy clause: a split or otherwise nonmatching pair with an outstanding third ballot is **pending**, not a completed U; U requires a completed official event without F/A majority. Replaced the ambiguous 'exceptional finalisation' future-design phrase with explicit prohibition on giving ordinary effect to an absent mandatory ballot. Separately authorised emergency early action remains the only bounded two-matching-ballot exception. Further source and whole-manuscript audit remain open.
+
 ## 16 October 2026 — Alternate restoration and spatial upward-transfer reconciliation
 
 - **G-023 partial:** Chapter 29's late-original return rule now expressly permits reclaiming a position from a lawfully appointed alternate **only before that alternate commits** an official ballot, with mandate/identity revalidation and no fourth vote; any committed alternate ballot remains immutable. Chapter 30's restoration interface carries the same rule. Chapter 149's 'authority moved upward' language now requires a separate lawful constitutional/institutional authorisation, not GTP geometric containment or workload reassignment. Remaining section-wide and source-completeness audits remain open.
