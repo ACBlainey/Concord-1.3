@@ -70,6 +70,10 @@
 **Important distinction:** These authorial directions settle their stated principles. They do not implicitly settle constitutional quorum, appointment, authenticated authority or implementation validity.
 
 
+## 16 October 2026 — Chapters 150–151 spatial versus institutional coordination principle
+
+- **G-023 partial:** Reconciled the principle statements in Chapter 150 §150.10 and Chapter 151 §151.12 with the already incorporated Chapter 132 GTP mesh rule. Coordination across jurisdictions requires independently lawful competence; smaller geometric cells are not inherently 'lower' authorities, and an institution's wider lawful remit is not derived from spatial containment. Institutional federation may independently establish bounded competence and conflict-resolution priority. Remaining whole-manuscript/source checks remain open.
+
 ## 16 October 2026 — Chapters 100 and 132 alternate-return cross-section alignment
 
 - **G-023 partial:** Chapter 100's Parallel Steward substitute provision now requires identity, eligibility, conflicts, office-state and mandate revalidation for original-Steward restoration before alternate ballot commitment, without a fourth ballot or new mandate. Chapter 132's GTP node-ring substitution provision now expressly carries the same pre-commit restoration and immutable committed-ballot boundary; geometric eligibility does not itself authorise appointment or return. Source completeness and remaining sectional consistency still require audit.
