@@ -723,13 +723,7 @@ All test results are **unit-level fixture evidence**, not end-to-end system cert
 
 <!-- END G05 STAGES 070-087 EVIDENCE MAP -->
 
-### Chapter 24 — V2.1 G05 integration: Emergency authority
-
-**Developmental clause, unresolved interfaces retained:** A declared emergency is not itself a grant of unrestricted authority. Separate threat recognition, classification, declaration, lawful protective power activation, action and expiry/restoration. An urgent response must have an independently established necessity, minimum proportionate scope, owner, rights limits, audit and review. The Civilisation Clock is variable and may pause; emergency operational time, mandate expiry and reaction must remain independently active. BTA records partial transitions and surviving consequences. G05 001; Integrations 053, 057–060.
-
-**Unresolved:** actual owner attestation and executable enforcement, constitutional competence/thresholds and independent review remain subject to source validation; do not interpret fixture evidence as deployed authority.
-
-### Chapter 24 — Recovered emergency authority envelope and rights-continuity clauses
+### 24.11 Emergency authority envelope and rights continuity
 
 **Source-specific developmental consolidation.** PH-02 (9 September 2026), §§2–20, and Phase D4, §§11–12, supply the following working constraints. Their historical development labels do not preclude substantive recovery, but these clauses do not enact new emergency powers.
 
