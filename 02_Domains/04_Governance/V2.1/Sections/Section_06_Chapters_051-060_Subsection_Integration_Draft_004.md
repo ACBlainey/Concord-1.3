@@ -1746,6 +1746,16 @@ For an expanded triadic proposal, record the decision topology: origin R, adjace
 
 When expanded voting is authorised, the decision record must include origin R, edge-adjacent A/B/C, the origin-excluded or origin-included mode, source of common jurisdiction, each constituent triad's verified voting positions, individual F/A/U inputs, constituent F/A/U resultants, and the final three-resultant F/A/U decision. Record quorum, abstention and recusal causes, independent authorisation, conflicts, scope, expiry, review, resource authority and implementation responsibility. A pooled nine-vote tally is diagnostic only and has no decision effect.
 
+
+### Future design architecture — deferred implementation interfaces (G-017, G-019, G-020)
+
+**ARCHITECTURE TO BE DESIGNED — OUTSIDE CURRENT V2.1 TEXT-INTEGRATION SCOPE.** The principles in this chapter remain operative as stated. The following are design requirements, **not** invented deployed services, automatic authority grants or grounds to delay consolidation. Resolve these at the indicated interfaces when working systems and domain owners exist:
+
+- **G-017 — Architecture to be designed:** Design active-domain and Historical custody ownership mapping, signed lineage, version conflicts, lawful exceptions and durable HI-1/HCM-1 handoff acknowledgements.
+- **G-019 — Architecture to be designed:** Implement CIBB/CWA protected master and least-privilege projections with authenticated identity, contextual expiry, alias protection, redaction, revocation and leakage tests.
+- **G-020 — Architecture to be designed:** Define each actual domain's read/write acceptance contract and independent acknowledgement; reuse HI-1/HCM-1 for Historical and preserve domain authority.
+
+**Future acceptance evidence:** record accountable owner, actual mandate, state-machine/adapter specification, failure and recovery paths, independent review and provenance. Preserve CAP ≠ PERM ≠ AUTH. Do not mark implementation as tested or operational until supported by real evidence.
 # Chapter 55 — Deliberative Integrity
 
 ## 55.1 Independent Thought Before Comparison
