@@ -1433,7 +1433,7 @@ The governance decision record and its lawful host effect are separate state tra
 
 | Situation | Substantive arithmetic | Decision state / next action |
 | --- | --- | --- |
-| Two independently valid matching official F votes | For majority determined | Requires separately valid forum, quorum, jurisdiction, event identity and implementation authority; ordinary effect at next applicable Clock transition, lawful urgent effect may be immediate |
+| Two independently valid matching official F votes | For majority determined | Requires separately valid forum, quorum, jurisdiction, event identity and implementation authority; ordinary outcome waits for all three official ballots; emergency action may trigger after two matching ballots through independently bounded authority |
 | Two independently valid matching official A votes | Against majority determined | Same validity gates; third official vote remains provenance obligation, not a veto |
 | One F, one A, third official vote pending | No majority yet | Preserve pending official ballot; no implementation on an invented majority |
 | One or more U / abstention ballots | Apply F/A/U arithmetic only to valid official votes | Reason-sensitive handling; U does not automatically mean absence, recusal or vacancy |
