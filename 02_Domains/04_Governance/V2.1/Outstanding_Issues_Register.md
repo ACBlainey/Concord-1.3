@@ -70,6 +70,10 @@
 **Important distinction:** These authorial directions settle their stated principles. They do not implicitly settle constitutional quorum, appointment, authenticated authority or implementation validity.
 
 
+## 15 October 2026 — Chapter 12 final assembly structure pass
+
+- **G-008 remains partial:** Normalised two duplicate Chapter 12 chapter-level headings into uniquely numbered §§12.28–12.29 annex sections, preserving their source comparison and validity tables. Clarified that the discarded historical proposal concerned three *affirmative* votes, not the controlling three-holder constitution or three mandatory official ballots. Ordinary time-critical decisions remain ordinary and cannot bypass the third ballot. No broad claim of whole-manuscript or historical source completeness is made.
+
 ## 15 October 2026 — Further Chapter 12 contradiction scan
 
 - **G-008/G-023, partial:** Reconciled remaining source-comparison language that described the three-holder voting constitution as undecided, the mandatory third ballot as provenance-only, or general urgency as sufficient to bypass ordinary completion. Corrected the historical-context heading and emergency/Clock table entry. The operative rule remains three lawfully selected holders before voting, all three official ballots before ordinary effect, with a separately authorised emergency exception after two matching ballots. Further source-completeness audit remains pending.
