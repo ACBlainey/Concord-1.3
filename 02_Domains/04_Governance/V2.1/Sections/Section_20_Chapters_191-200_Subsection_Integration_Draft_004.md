@@ -1296,9 +1296,7 @@ This remains important for:
 - local services;
 - and physical enforcement.
 
-GTP may eventually provide one implementation architecture.
-
-Governance should remain independent of GTP’s final form.
+**GTP is Concord's currently adopted multiresolution spatial reference and coordination mesh.** All conceptual triangle levels exist concurrently, and the appropriate resolution may be used for a task without creating a superior government at a larger scale. Its future technical implementation or a lawful replacement may evolve, but such evolution does not create or transfer jurisdiction. Governance legitimacy, rights and bounded authority remain independent of the spatial representation.
 
 ## 198.4 Functional Jurisdiction
 
@@ -1393,7 +1391,7 @@ Before a cross-cell or cross-resolution binding decision, establish the applicab
 
 Some conflicts may be resolved through:
 
-- explicit constitutional hierarchy;
+- **independently enacted constitutional priority or institutional hierarchy, never presumed from GTP geometric parent/child containment**;
 - subsidiarity;
 - negotiated coordination;
 - or Judiciary.
