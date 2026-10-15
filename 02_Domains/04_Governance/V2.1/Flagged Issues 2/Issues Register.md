@@ -29,6 +29,9 @@ Assign each newly identified issue a permanent sequential identifier: `FI2-001`,
 
 ## Reconciliation log
 
+- 2026-10-15: Follow-up validation found and corrected additional stale ordinary-completion wording in Chapter 12 (historical Integration 048 summary, missing third-ballot classification, ordinary completion vs provenance) and Chapter 29 (pending provenance, Clock/emergency gating, immediate preservation distinction). This extends the direct reconciliation beyond initial headings while preserving the legitimate distinction between triadic emergency action and separately lawful immediate protective functions. FI2-001/003 remain verification-pending until full cross-section review.
+
+
 - 2026-10-15: Implemented authorially settled triadic completion rule directly in Chapters 9, 12, 29 and 54 (four sectional files, 20 precise substitutions). Three selected eligible holders before voting; two matching ballots fix mathematical majority only; three received official ballots mandatory before ordinary outcome effect; independently authorised emergency may act after two matching ballots; Clock scheduling never substitutes for missing ballot; committed ballots immutable; host authority separate. Preserved unique conference, alternate, owner, audit and provenance architecture. Earlier 12 October interpretation expressly marked superseded in Chapter 12. FI2-001 and FI2-003 operative conflicts reconciled at identified locations; wider chapter-wide validation remains necessary.
 
 
