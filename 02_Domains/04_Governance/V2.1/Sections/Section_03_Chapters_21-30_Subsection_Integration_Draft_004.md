@@ -1301,33 +1301,6 @@ Emergency succession therefore transfers:
 
 It does not transfer ownership of the office.
 
-## 28.3 Succession Order
-
-A succession architecture may define:
-
-- primary successor;
-- secondary successor;
-- emergency delegate;
-- temporary collective body;
-- or other fallback.
-
-The final sequence should be coordinated with Continuity and Emergency architecture.
-
-A succession system should consider failure of the succession mechanism itself.
-
-For example:
-
-- What if the primary successor is also unavailable?
-- What if the successor is involved in the emergency?
-- What if identity cannot be verified?
-- What if communications are lost?
-- What if different regions recognise different successors?
-- What if the succession record is corrupted?
-- What if a successor is technically available but functionally incapable?
-
-
-<!-- BEGIN V2.1 INTEGRATED 28 — CANDIDATE 006 VERBATIM -->
-
 ## 28.3 Succession Order and Position Legitimacy
 
 A succession architecture may define:
@@ -1348,7 +1321,6 @@ An emergency appointment must not silently enlarge the authority of the office, 
 
 **Recovered emergency interface.** Constitutional Emergency V2 Chapters 21, 82 and 92 distinguish declaration authority, delegated succession and activation of particular emergency powers. Emergency classification does not confer greater Steward standing (Chapter 54). Verify the lawful appointment separately from any exceptional authority exercised by the successor. This chapter controls the position succession; Constitutional Emergency V2 controls the scope and expiry of emergency powers.
 
-<!-- END V2.1 INTEGRATED 28 — CANDIDATE 006 -->
 ## 28.4 Restoration
 
 Where the normal steward returns and remains constitutionally capable, emergency succession should have a defined restoration process.
@@ -1519,33 +1491,6 @@ A Steward may be:
 
 Degraded-triad rules should therefore respond to practical decision capacity.
 
-## 29.2 One Steward Unavailable
-
-Where one steward is unavailable, possible responses include:
-
-- delay;
-- emergency substitute;
-- delegated replacement;
-- escalation;
-- or a predefined degraded decision rule.
-
-The correct response depends upon urgency and decision class.
-
-Where delay is safe, preserving ordinary triadic decision structure may be preferable.
-
-Where delay creates serious harm, emergency substitution or degraded authority may become necessary.
-
-The architecture should distinguish:
-
-**temporary unavailability**
-
-from
-
-**vacancy requiring succession**.
-
-
-<!-- BEGIN V2.1 INTEGRATED 29 — CANDIDATE 006 VERBATIM -->
-
 ## 29.2 One Steward Unavailable and Degraded Decision Validity
 
 Where one Steward is unavailable, responses may include:
@@ -1564,7 +1509,6 @@ Two matching valid votes in a three-position triad may yield a substantive major
 
 A temporary expanded virtual triad is not an automatic succession route and must not be convened merely to reverse a lawful decision or bypass abstention. Its constituent membership, lawful competence, resultants and termination must be independently authorised and recorded.
 
-<!-- END V2.1 INTEGRATED 29 — CANDIDATE 006 -->
 <!-- BEGIN V2.1 EMERGENCY TRIADIC MAJORITY TIMING — AUTHORIAL DIRECTION 2026-10-12 -->
 
 ### Chapter 29 — Emergency and time-critical implementation following a decisive two-vote majority
