@@ -1117,7 +1117,7 @@ A mechanism repeatedly demonstrating failure should become easier, not harder, t
 
 # Chapter 100 — Governance and Parallel Stewardship
 
-### 100.V21 — Independent advisory reasoning and separately authorised substitution
+### 100.13 Independent Advisory Reasoning and Separately Authorised Substitution
 
 Parallel Stewardship is an independent advisory function: it can evaluate evidence, assumptions, alternatives and constitutional risk, but agreement is not proof, dissent is not a fourth vote, and neither supplies executive command. Parallel reasoning should ordinarily be recorded before exposure to primary conclusions; shared evidence, model lineage, institutional dependency, funding and common assumptions require correlated-failure checks.
 
@@ -1168,7 +1168,7 @@ It may also create de facto authority.
 
 The formal decision authority should remain visible.
 
-### V2.1 — Advisory Authority Boundary
+### 100.14 Advisory Authority Boundary
 
 Parallel Stewardship supplies independent constitutional reasoning, scrutiny and challenge. It does not by itself create an extra voting position, succession entitlement or emergency executive power. A Parallel Steward may serve in another capacity only after separately valid, independently reviewable appointment with explicit eligibility, identity, competence, scope and expiry. Advisory agreement or disagreement is not a constituent or virtual-triad vote.
 
