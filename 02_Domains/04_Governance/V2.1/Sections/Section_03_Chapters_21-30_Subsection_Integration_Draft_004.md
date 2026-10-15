@@ -1812,13 +1812,36 @@ Preserve original Chapter 28–30 language until detailed clause reconciliation.
 
 
 
-### Emergency vote, host transition and bounded execution
+### Chapters 28–30 — Emergency vote and separately bounded execution
 
-A valid contextual emergency triad exercises **voting authority**, not general operational authority. Two independently valid matching official ballots determine its For/Against result without requiring the third ballot as an execution gate. The authorised host state machine records the resulting decision-state transition; the vote neither creates an emergency mandate nor appoints an executor. Succession or temporary substitution confers only the expressly authorised position mandate, not blanket power to implement the result.
+**Authorial rule (12 October 2026):** Emergency triads exercise lawful **voting authority**, not automatic operational authority over the consequence of their vote. A determined official majority is a decision record for the separately competent implementing owner; the vote itself neither creates an emergency mandate nor transfers executive power to the triad or a substitute voter.
 
-Emergency declaration, power activation, triadic decision, implementation and restoration are separately owned and authorised events. Each affected operational system (including Health, Utilities, Security and Continuity) checks its own mandate, current conditions, permission, urgency, expiry and review before consequential action. One decision can cause multiple asynchronous owner transitions; BTA records partial completion and residual duties, while MKA checks independently required authority. No universal responder or execution chain is presumed before the actual decision and affected systems are known. Pending routing or owner resolution is explicitly recorded.
+Degraded voting constitution, lawful replacement of a voting position, emergency declaration, exceptional power activation, and implementation by the competent operational actor are separate state/authority questions. A substitute Steward may receive bounded **voting-position authority** without inheriting any power to execute the result. Conversely, an operational responder with a lawful emergency mandate cannot fabricate a triadic vote or cure a voting quorum defect by acting.
 
-The competent emergency state machine may receive events and carry out independently lawful urgent transitions while the variable Civilisation Clock is paused. Neither the emergency timebase nor the vote substitutes for lawful authority. Operational responders cannot fabricate a triadic majority, and voting Stewards do not personally implement the result by virtue of voting. Preserve distinct provenance for the vote, host transition, implementing owner, authority basis, effect, expiry, review and restoration.
+Independent emergency timing permits authorised implementers to act without waiting for a Civilisation Clock transition where applicable law allows; it does not bypass the voting or implementation authority checks. Record vote outcome, implementation owner, authority basis, effective action, expiry, review and restoration as separately owned events. Existing Chapter 28–30 source wording about a successor receiving office responsibilities must be interpreted within the **actual office mandate**, not as blanket authority to implement a triadic result.
+
+
+
+### Chapters 28–30 — Emergency vote-driven transition, not Steward execution
+
+**Authorial correction:** A lawful triadic majority changes the relevant decision state **through the authorised state machine**. The voting Stewards do not personally acquire authority to implement the decision. Separately bounded emergency responders may execute consequential operational acts when the resulting state and their independent mandates permit; they do not redecide the valid vote. Distinguish decision-state transition, emergency power-state transition, operational action and restoration. They may have different owners and temporal predicates.
+
+A paused Civilisation Clock must not block independent emergency state-machine evaluation and lawful urgent transitions. The emergency timebase cannot itself create authority; current factual predicates and consequential authority are independently checked. BTA preserves cross-owner transition relations and partial states; MKA verifies the actor's authority for actual consequential acts. Do not assume that a third-ballot provenance delay is a mandatory clock or execution gate after a lawfully determined two-vote majority.
+
+
+
+### Chapters 28–30 — Emergency actions remain bounded by affected systems
+
+A valid emergency triadic vote drives its lawful state-machine transition; it does not issue a universal executive authority token. Every affected operational system (such as Health, Utilities, Security or Continuity) determines its own authorised response under its applicable emergency and ordinary bounded-authority rules. A shared emergency decision may cause multiple independently owned operational transitions with different readiness, permission, urgency, expiry and restoration states. BTA records partial completion and residual duties; MKA checks each actual consequential act as appropriate. A paused Civilisation Clock does not stop independently lawful emergency response, but urgency does not dissolve any affected system's constitutional limits.
+
+
+
+### Chapters 28–30 — Emergency decision-dependent routing
+
+The valid vote determines the relevant decision state; the actual emergency decision then determines what operational consequences, affected systems and bounded authorities must be considered. Do not preassign a universal responder or implementation chain to a decision not yet made. Pre-existing emergency mandates may already identify lawful actors for certain event classes, but those are independently sourced and conditional, not invented by this governance chapter. Urgency permits time-critical lawful routing without waiting for the variable Civilisation Clock; it does not justify assuming an unknown executor or bypassing affected-system authority. Pending owner or consequence resolution must be recorded explicitly and handled under the actual host's emergency rules.
+
+
+
 
 ### Chapters 28–30 — Source-verified emergency/Clock/state-machine interface
 
