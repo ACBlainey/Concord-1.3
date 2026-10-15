@@ -1819,7 +1819,7 @@ Neither layer should presume complete epistemic superiority.
 
 ## 150.10 Central Coordination Principle
 
-> **Central coordination is legitimate where the problem genuinely exceeds lower jurisdictions, but civilisation-wide responsibility should remain function-specific, bounded and reviewable. A narrow central function must not become a pathway to total Governance merely through usefulness, information advantage or control of shared resources.**
+> **Central coordination is legitimate where a problem genuinely exceeds the capacity or lawful competence of individual participating jurisdictions and a separate lawful coordination mandate exists. Such jurisdictions are not 'lower' in authority merely because their GTP spatial cells are smaller. Civilisation-wide responsibility remains function-specific, bounded and reviewable. A narrow central function must not become a pathway to total Governance merely through usefulness, information advantage or control of shared resources.**
 
 
 <!-- V2.1 INTEGRATION 2026-10-13: AUTHORIAL SOURCE RECONCILIATION; DEVELOPMENTAL; REVERSIBLE -->
