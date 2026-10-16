@@ -1,6 +1,6 @@
 # V2.1 Section 06 — Subsection Integration Draft 004
 
-**Developmental; not canonical.** All original source retained. Proposed insertions occur at precise subsection boundaries and are fully reversible.
+**Governance V2.1 integrated section.** The original source and integrated additions are retained for provenance. Historical draft designations do not suspend the operative V2.1 rules.
 
 # Chapter 51 — Adversarial Governance
 
