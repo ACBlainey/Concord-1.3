@@ -72,3 +72,9 @@ The paragraph screen identifies 28 non-verbatim source blocks. These fall into t
 - **Original §132.12 (one closing principle):** The old optional neutral nested framework is superseded by the adopted mesh rules. Its surviving safeguards—rights, representation, context and legitimacy not deriving from regular geometry—remain controlling.
 
 **Disposition:** Chapter 132's 28 non-verbatim blocks are now accounted for by source group and constitutional treatment. Retain the original chapter in the source-preserved file; do not insert obsolete hierarchical or optional-topology claims into the operational V2.1 chapter. Cross-domain implementation details remain design work, not a reason to describe the settled governance principles as provisional.
+
+## Sections 02–03 status reconciliation
+
+The opening V2.1 section headers and embedded working-assembly status lines in Sections 02 and 03 have been corrected so historical draft labels no longer assert that integrated V2.1 governance is noncanonical. The old source-preservation descriptions remain provenance, not a competing operative status. Commits: `57f4550`, `f31c6c2`, `3d7de18`, `386345d`.
+
+**Outstanding verification:** Chapters 11–30 must still be compared with an independent original V2 baseline; an assembly's own claim to reproduce V2 is not proof of preservation. Locate the source snapshot before closing this check.
