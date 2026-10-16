@@ -34,3 +34,9 @@ Scope: compare each `Source_Preserved_001.md` chapter against its matching `Subs
 - Chapters 131–140: **9/10** have every original source paragraph block verbatim. **Chapter 132 is a substantive exception: 28 of 67 original paragraph blocks do not match verbatim.** This is not merely heading renumbering. The original GTP text presents GTP as optional, with neutral *hierarchical territorial partitioning*; the integrated chapter instead contains later nonhierarchical mesh governance and expanded spatial-substitution mechanics. This is a **source-retention / supersession mapping issue**, not proof that the earlier rule should be restored as operative.
 
 **Current preservation accounting:** 164 of 165 chapters screened across these sections and the prior 125-chapter audit have either full contiguous retention or every original paragraph block preserved verbatim. Chapter 132 requires a paragraph-to-clause supersession table, recording which old statements are contradicted by later authorial architecture, which survive semantically and which need preservation as historical development. Do not reinsert superseded hierarchical governance as a competing operational rule. Other untested blocks are Chapters 11–30 and 141–160, plus any remaining comparison gaps.
+
+## Chapters 141–160 — preservation check
+
+Seventeen of twenty chapters retain their complete original text contiguously. Chapters 149, 150 and 151 require source-to-current mapping: respectively three, two and four original paragraph blocks differ. These concern higher-level coordination, upward transfer of authority and nested federation language. Check their meaning against the nonhierarchical GTP mesh and bounded coordination rules before making any restoration. Do not reinstate superseded hierarchy as an operative rule.
+
+The standard preserved-source paths for Chapters 11–30 were not found in this pass. Locate their preservation baseline before claiming a result.
