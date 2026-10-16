@@ -1,12 +1,16 @@
 # Governance V2.1 — Consolidated Outstanding Issues Register
 
-**Status:** Working single-point backlog for later resolution; not constitutional canon, an authority grant, or a substitute for preserved source files.  
-**Updated:** 15 October 2026.  
+**Status:** Closed historical audit and consolidation register; not an active work queue, constitutional authority grant, or substitute for preserved source files.  
+**Updated:** 16 October 2026 — audit and consolidation closed.  
 **Scope:** Known open constitutional, integration and implementation-validation issues identified in the V2.1 sectional manuscripts, reconciled candidates, G03/G05 integration records and validation registers. This is a living index, not a claim that every historical Concord source has been exhaustively audited.
 
 **V2.1 supersession rule (authorial clarification, 16 October 2026):** Governance V2 is erroneous because substantial original and essential architecture was omitted. Much of that architecture has been restored in V2.1. **V2.1 may supersede V2 at any point by authorial designation; perfection, exhaustive reconciliation, formal validation, software implementation and cross-domain deployment are not prerequisites.** The current task is to clean up V2.1 as thoroughly as practicable, correcting wording and conflicts while clearly recording remaining architecture-to-be-designed interfaces. There is **no governance graduation process**. References to “graduation” elsewhere in this historical register describe superseded terminology or distinct portable-module tests, not a Governance V2.1 adoption gate.
 
 **Interpretation of dated audit notes:** This register retains historical 12 October assessments for provenance. Wherever an older entry says the third Steward ballot is optional, provenance-only, or unnecessary for ordinary legal effect, that reading is **superseded by the author's 15 October direction**: a full three-holder triad must be constituted before voting, and all three official ballots must be received before ordinary decision effect. Two matching official ballots establish the mathematical majority and may trigger only a separately authorised emergency effect. Do not treat the older passages as alternative live rules.
+
+## Audit and consolidation closure — 16 October 2026
+
+**Status: COMPLETE / CLOSED.** The Governance V2.1 recovery, audit, consolidation and flagged-issue reconciliation campaign is concluded. Substantial essential architecture omitted from erroneous V2 has been restored to V2.1. This register is retained as a historical record, **not an active backlog or prerequisite to supersession**. Any remaining textual inconsistency, omitted material, or cross-domain/software design issue will be addressed **ad hoc when encountered**, in the relevant V2.1 chapter or later design work. No systematic continuation of this audit is required, and no governance graduation, perfection, or validation process is required before V2.1 may supersede V2 by authorial designation. Previous per-item statuses and dated analyses below are retained solely for provenance; they do not reopen this closed campaign.
 
 ## Register rules
 
