@@ -60,6 +60,6 @@ Open questions belong within the affected V2.1 section **and** the single `Outst
 
 ## Authorial direction — 16 October 2026: operative V2.1 status
 
-**Governance V2.1 is the master successor to erroneous V2.** Do not describe incorporated V2.1 governance rules as *provisional* merely because the document is being corrected or because no deployed software exists. Once textual conflicts and wording are corrected, its provisions are operative governance architecture. Preserve V2 unchanged for provenance, not as a competing master.
+**Governance V2.1 is the master successor to erroneous V2.** Do not describe incorporated V2.1 governance rules as *provisional* merely because the document is being corrected or because no deployed software exists. Its incorporated provisions state the governance architecture; remaining textual cleanup does not suspend them or require validation before supersession. Preserve V2 unchanged for provenance, not as a competing master.
 
 Distinguish a **settled constitutional rule** from **architecture explicitly still to be designed**: a deferred implementation interface, unspecified parameter, or unavailable deployed system is a specific engineering dependency, not a reason to downgrade the surrounding V2.1 rule. Retained source passages that explicitly discuss unsettled alternatives must be reconciled or locally flagged rather than silently treated as operative contradictions. Audit records should describe outstanding textual checks and source-preservation evidence, not call the intended master document provisional.
