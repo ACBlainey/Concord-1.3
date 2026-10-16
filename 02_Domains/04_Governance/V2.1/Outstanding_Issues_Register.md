@@ -6,6 +6,8 @@
 
 **V2.1 supersession rule (authorial clarification, 16 October 2026):** Governance V2 is erroneous because substantial original and essential architecture was omitted. Much of that architecture has been restored in V2.1. **V2.1 may supersede V2 at any point by authorial designation; perfection, exhaustive reconciliation, formal validation, software implementation and cross-domain deployment are not prerequisites.** The current task is to clean up V2.1 as thoroughly as practicable, correcting wording and conflicts while clearly recording remaining architecture-to-be-designed interfaces. There is **no governance graduation process**. References to “graduation” elsewhere in this historical register describe superseded terminology or distinct portable-module tests, not a Governance V2.1 adoption gate.
 
+**Interpretation of dated audit notes:** This register retains historical 12 October assessments for provenance. Wherever an older entry says the third Steward ballot is optional, provenance-only, or unnecessary for ordinary legal effect, that reading is **superseded by the author's 15 October direction**: a full three-holder triad must be constituted before voting, and all three official ballots must be received before ordinary decision effect. Two matching official ballots establish the mathematical majority and may trigger only a separately authorised emergency effect. Do not treat the older passages as alternative live rules.
+
 ## Register rules
 
 - Record new unresolved Governance V2.1 questions **here** rather than creating further free-standing issue registers. Detailed evidence and proposed solutions may remain in their original source or sectioned draft; link them from this register.
