@@ -48,3 +48,14 @@ The standard preserved-source paths for Chapters 11–30 were not found in this 
 **Chapter 150 (two changed blocks):** The original preference for explicitly bounded higher-level authority is restated as function-specific lawful competence; the closing principle now removes the inference that smaller spatial cells are constitutionally subordinate. Sections 150.1–150.2 and 150.10 preserve the need for genuine cross-jurisdictional coordination and safeguards against power concentration, while requiring a separate lawful mandate for binding effects.
 
 These findings map historical wording to operative V2.1 clauses. The original text remains in its source-preserved file; do not restore conflicting hierarchy to V2.1.
+
+## Supersession mapping — Chapter 151
+
+Four original paragraph blocks are reworded in the V2.1 integrated chapter, rather than silently omitted:
+
+1. **Enumerated higher-layer functions** → §151.3 specifies enumerated competences of separately constituted wider-scope institutions, expressly denying any authority arising from GTP spatial scale.
+2. **Functions remaining local** → §151.4 retains local residual competence where shared coordination is not legally required; mere usefulness of coordination does not extinguish local authority.
+3. **Conflict between layers** → §151.6 identifies disputes between lawfully constituted institutions or competences, preserving negotiation, constitutional interpretation and Judiciary without presuming geometric hierarchy.
+4. **Federation closing principle** → §151.12 restates shared constitutional purpose, consequence, competence, local residual authority and constitutional conflict resolution while excluding automatic upward expansion; §151.13 expressly distinguishes institutional federation from the GTP mesh.
+
+These are deliberate nonhierarchical clarifications to superseded historical wording, not an instruction to reintroduce spatial superior/subordinate government. Original paragraphs remain in the source-preserved chapter.
