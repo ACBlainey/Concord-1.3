@@ -74,6 +74,10 @@
 
 - **G-024 partial:** The author supplied a readable local `Governance V2 Canonical (2).md` snapshot with all 215 unique sequential chapter headings. `Validation/V2_to_V2_1_Source_Preservation_Audit_001.md` compares Chapter 1–10 character and numbered-heading inventories to the V2.1 Section 01 draft. Chapters 2, 3, 5, 6, 8 and 10 match on both quantitative counts; Chapters 1, 4, 7 and 9 have added/changed material. **Counts are not proof of exact textual retention or clause completeness.** Continue paragraph-level source diff and remaining sections; preserve both originals.
 
+## 16 October 2026 — G-024 complete-chapter fingerprints, Chapters 51–60
+
+- `Validation/V2_to_V2_1_Source_Preservation_Audit_004.md` verifies complete-text, same-length DJB2-32 fingerprints for Chapters 51, 52 and 53 against the author-supplied V2 snapshot. Chapters 54–60 are expanded and require original-source clause retention review. A 32-bit fingerprint is a reproducible screening check, not cryptographic proof. **G-024 remains open**; V2.1 is the intended operative master after conflicts and wording corrections.
+
 ## 16 October 2026 — G-024 sampled source retention, Chapters 21–30
 
 - `Validation/V2_to_V2_1_Source_Preservation_Audit_003.md` compares original V2 with V2.1 Section 03 Chapters 21–30. All ten top-level headings present; Chapters 22–23 match character counts; 15/15 sampled V2 source strings appear in the corresponding V2.1 chapters. Larger emergency expansions in Chapters 28–30 require detailed clause and authority-state review. **G-024 remains open**; no sampled evidence warrants reinstating erroneous V2 as master.
