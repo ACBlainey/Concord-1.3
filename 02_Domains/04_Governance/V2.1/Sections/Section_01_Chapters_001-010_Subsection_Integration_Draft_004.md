@@ -1,6 +1,6 @@
 # V2.1 Section 01 — Subsection Integration Draft 004
 
-**Developmental; not canonical.** Original source section preserved exactly; V2.1 additions inserted inside named subsections and delimited for reversal.
+**Governance V2.1 integrated section.** The original source and integrated additions are retained for provenance. Historical draft designations do not suspend the operative V2.1 rules.
 
 # Chapter 1 — The Philosophy of Stewardship
 
