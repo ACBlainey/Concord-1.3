@@ -38,7 +38,7 @@ The local V2 source has **215 numbered chapters**. Plan 22 sectional manuscripts
 - Three constituent results, not pooled individual ballots, define the standard expanded virtual triad.
 - Local capable authority is preferred; a large-area event does not by itself create overriding central authority.
 
-**Sectional assembly has progressed:** all 22 source-preserved section files exist; multiple ten-chapter subsection integration drafts have been committed. These require conflict-resolution and integrity checks before V2.1 supersession; provisions incorporated into V2.1 are intended as operative governance rules once conflicts and wording are corrected, not as merely provisional proposals. Earlier targeted chapter patches remain provenance, not the sole integration location.
+**Sectional assembly has progressed:** all 22 source-preserved section files exist; multiple ten-chapter subsection integration drafts have been committed. Continue conflict-resolution and integrity checks as editorial cleanup, not prerequisites for V2.1 supersession. Incorporated provisions state the V2.1 governance architecture, not merely provisional proposals. Earlier targeted chapter patches remain provenance, not the sole integration location.
 
 
 ## G05 integration — bounded governance, continuity and recovery
