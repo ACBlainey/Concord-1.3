@@ -78,3 +78,9 @@ The paragraph screen identifies 28 non-verbatim source blocks. These fall into t
 The opening V2.1 section headers and embedded working-assembly status lines in Sections 02 and 03 have been corrected so historical draft labels no longer assert that integrated V2.1 governance is noncanonical. The old source-preservation descriptions remain provenance, not a competing operative status. Commits: `57f4550`, `f31c6c2`, `3d7de18`, `386345d`.
 
 **Outstanding verification:** Chapters 11–30 must still be compared with an independent original V2 baseline; an assembly's own claim to reproduce V2 is not proof of preservation. Locate the source snapshot before closing this check.
+
+## Independent original V2 snapshot comparison — Chapters 11–30
+
+Compared chapter-level character lengths and DJB2-32 fingerprints from the user-provided original `Governance V2 Canonical (2).md` snapshot against the integrated Section 02 and 03 chapters. **Eight chapters are character-for-character identical to the original:** 11, 13, 14, 15, 16, 17, 22 and 23. **Twelve chapters differ in length or fingerprint:** 12, 18, 19, 20, 21, 24, 25, 26, 27, 28, 29 and 30. These chapters contain integrated additions and require paragraph-level retention/supersession verification; fingerprint mismatch alone does not establish omission. This is an independent baseline comparison, rather than reliance on the integrated assembly's source-preservation claim.
+
+Section 02 and 03 status declarations were also reconciled to reflect the adopted V2.1 document (commits `57f4550`, `f31c6c2`, `3d7de18`, `386345d`).
