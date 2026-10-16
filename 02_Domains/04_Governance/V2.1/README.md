@@ -10,6 +10,10 @@
 - **Governance V2.1 is the intended successor to Governance V2.** V2.1 may supersede V2 by authorial designation at any point; remaining cleanup and design issues do not prevent supersession. Retain V2 unchanged as a historical source and comparison baseline, without treating its former label as a veto on V2.1 authority. The incorporated V2.1 provisions express the governing architecture; do not label settled rules provisional merely because implementation evidence or cross-domain interfaces remain to be developed.
 - Completion of source consolidation does not itself resolve every flagged issue. Record remaining textual cleanup and architecture-to-be-designed interfaces without making validation or implementation a gate to V2.1 supersession.
 
+## Audit closure — 16 October 2026
+
+The Governance V2.1 recovery, audit and consolidation campaign is **complete and closed**. The `Outstanding_Issues_Register.md` is now a historical record rather than an active work queue. Any further issues are addressed **ad hoc when encountered**, in their affected V2.1 chapters or later domain/interface designs. V2.1 may supersede erroneous V2 by authorial designation without further audit, graduation, perfection or validation. Historical source records are retained for provenance.
+
 ## Current consolidation state — 14 October 2026
 
 The identified `Integration/` and `Reconciled_Candidates/` queues have been consolidated into the relevant V2.1 section drafts and their 109 source records moved to `Completed/`; GitHub omits the now-empty directories. Chapter patches and superseded candidate versions are not competing current architecture. Continue with the issues flagged at their actual chapter locations and the consolidated issues register. The 22 sectional drafts cover the intended 215-chapter V2 structure; structural completeness, consistency and resolution of outstanding issues still require checking.
