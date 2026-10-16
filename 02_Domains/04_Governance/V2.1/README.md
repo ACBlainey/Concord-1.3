@@ -1,14 +1,14 @@
-# Governance V2.1 — Working Reconstruction and Sectional Revision
+# Governance V2.1 — Consolidated Governance Architecture
 
-**Status:** Intended master Governance document. Governance V2.1 supersedes the erroneous V2 after conflicts and wording have been corrected. **Governance V2 Canonical.md remains unchanged as historical provenance, not competing operative authority.**
+**Status:** Consolidated successor architecture to the erroneous Governance V2. Substantial original and essential architecture omitted from V2 has been restored in V2.1. **V2.1 may supersede V2 whenever the author designates it; exhaustive cleanup, perfection, validation and software implementation are not preconditions.** Governance V2 remains unchanged for historical provenance.
 
 
 ## Source labels, succession and resolution policy — authorial direction, 14 October 2026
 
 - Treat labels such as **canonical**, **non-canonical**, **provisional** and **working** as historical indicators of what was regarded as most up to date at the time of writing. They are **not** proof of completeness, validation, substantive correctness, or superior source authority. Do not discard an older architecture merely because its status label differs.
 - Assess substantive rules by their actual text, chronology, authorial clarification, compatibility and provenance. Recover older omitted architecture where relevant; distinguish genuine supersession from migration omission. Resolve conflicts on their merits and flag unresolved questions at the affected V2.1 provision.
-- **Governance V2.1 is the intended successor to Governance V2.** V2.1 will supersede V2 when the identified issues have been addressed and the architecture reconciled. Retain V2 unchanged as a historical source and comparison baseline, without treating its former label as a veto on V2.1 authority. Once conflicts and wording are corrected, the V2.1 text is operational governance architecture; do not label its provisions provisional merely because implementation evidence or cross-domain interfaces remain to be developed.
-- Completion of source consolidation does not itself resolve the flagged issues. Do not use historical status labels as a substitute for issue resolution, actual implementation evidence or constitutional review.
+- **Governance V2.1 is the intended successor to Governance V2.** V2.1 may supersede V2 by authorial designation at any point; remaining cleanup and design issues do not prevent supersession. Retain V2 unchanged as a historical source and comparison baseline, without treating its former label as a veto on V2.1 authority. The incorporated V2.1 provisions express the governing architecture; do not label settled rules provisional merely because implementation evidence or cross-domain interfaces remain to be developed.
+- Completion of source consolidation does not itself resolve every flagged issue. Record remaining textual cleanup and architecture-to-be-designed interfaces without making validation or implementation a gate to V2.1 supersession.
 
 ## Current consolidation state — 14 October 2026
 
@@ -23,7 +23,7 @@ The local V2 source has **215 numbered chapters**. Plan 22 sectional manuscripts
 3. Draft changed chapters as temporary **chapter patches** in `Chapter_Patches/`; do not replace V2 or silently rewrite unrelated provisions.
 4. Assemble the complete ten-chapter section under `Sections/` after all chapters in that block are inspected. Mark any unresolved textual conflict at its exact location; do not label settled V2.1 governance rules provisional or subordinate to V2.
 5. Maintain a change register recording source location, old clause, proposed replacement, rationale, provenance and validation status.
-6. Validate voting logic, authority boundaries, geometric semantics, emergency safeguards and consistency before graduation.
+6. Check voting logic, authority boundaries, geometric semantics, emergency safeguards and textual consistency as thoroughly as practicable. Record unresolved implementation interfaces for later design. **There is no governance graduation process.**
 
 ## First affected sections
 - **Section 02 (Chapters 11–20):** Chapter 12 — horizontal expansion, origin-excluded and origin-included resultant voting, local decision authority.
