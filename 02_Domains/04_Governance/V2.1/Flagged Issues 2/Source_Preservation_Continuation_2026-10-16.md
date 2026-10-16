@@ -17,3 +17,11 @@ Scope: compare each `Source_Preserved_001.md` chapter against its matching `Subs
 1. Check Chapter 83 source paragraph-by-paragraph, preserving substantive architecture and explanatory overlap.
 2. Continue sections 17–19 and 21–22, then audit expanded chapters in sections 02, 14–16 and 20.
 3. Classify genuine architectural contradictions separately from justified supporting repetition. Record each distinct issue in `Flagged Issues 2`; never remove text merely to improve the duplication count.
+
+## Continued scan — sections 17–19 and 21–22
+
+- Chapters **161–190**: 30/30 complete source chapters present as verbatim contiguous substrings in the integrated chapter.
+- Chapters **201–215**: 15/15 complete source chapters present as verbatim contiguous substrings in the integrated chapter.
+- Chapter **83** heading-aware paragraph check: all **123 non-heading source paragraphs** appear verbatim in the integrated chapter. The six nonmatching blocks are headings only: original `83.8`–`83.13` are renumbered in the integration. This establishes literal preservation of every original paragraph, but numbering consistency and added architecture remain separate checks.
+
+**Updated scope:** All 125 source chapters checked across Sections 04–05, 07–09, 11–13, 17–19 and 21–22 have their original text preserved either as complete contiguous chapters (124) or, for Chapter 83, as every original paragraph with renumbered headings. Remaining untested integrated blocks and semantic conflict checks are not complete.
