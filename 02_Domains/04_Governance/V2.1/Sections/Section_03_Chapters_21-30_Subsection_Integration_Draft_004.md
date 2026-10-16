@@ -1,6 +1,6 @@
 # V2.1 Section 03 — Subsection Integration Draft 004
 
-**Developmental; not canonical.** Original working assembly (including its existing marked annex) preserved exactly; V2.1 additions inserted inside named subsections and delimited for reversal.
+**Governance V2.1 integrated section.** This section forms part of the V2.1 governance text. Historical assembly labels and integration markers record provenance and do not suspend the operative rules stated here. Source text and additions are retained for traceability; unresolved implementation interfaces are identified where they arise.
 
 # Governance V2.1 — Section 03 (Chapters 21–30) — Working Assembly 001
 
