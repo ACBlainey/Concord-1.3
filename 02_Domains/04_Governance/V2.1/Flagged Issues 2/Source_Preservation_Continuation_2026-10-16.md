@@ -40,3 +40,11 @@ Scope: compare each `Source_Preserved_001.md` chapter against its matching `Subs
 Seventeen of twenty chapters retain their complete original text contiguously. Chapters 149, 150 and 151 require source-to-current mapping: respectively three, two and four original paragraph blocks differ. These concern higher-level coordination, upward transfer of authority and nested federation language. Check their meaning against the nonhierarchical GTP mesh and bounded coordination rules before making any restoration. Do not reinstate superseded hierarchy as an operative rule.
 
 The standard preserved-source paths for Chapters 11–30 were not found in this pass. Locate their preservation baseline before claiming a result.
+
+## Supersession mapping — Chapters 149–150
+
+**Chapter 149 (three changed blocks):** Original statements that higher-level support can be justified, upward transfer must have an articulable reason, and local authorities need sufficient capability are not discarded as concerns. Section 149.10 now separates lawful, instrument-specific reassignment of competence from GTP spatial level changes; there is **no automatic upward authority transfer**. The source's competence test survives in the unchanged subsidiarity rule: lowest *competent* scope. The changed blocks are substantive corrections to a hierarchical implication, not evidence of missing governance function.
+
+**Chapter 150 (two changed blocks):** The original preference for explicitly bounded higher-level authority is restated as function-specific lawful competence; the closing principle now removes the inference that smaller spatial cells are constitutionally subordinate. Sections 150.1–150.2 and 150.10 preserve the need for genuine cross-jurisdictional coordination and safeguards against power concentration, while requiring a separate lawful mandate for binding effects.
+
+These findings map historical wording to operative V2.1 clauses. The original text remains in its source-preserved file; do not restore conflicting hierarchy to V2.1.
