@@ -4,6 +4,8 @@
 **Updated:** 15 October 2026.  
 **Scope:** Known open constitutional, integration and implementation-validation issues identified in the V2.1 sectional manuscripts, reconciled candidates, G03/G05 integration records and validation registers. This is a living index, not a claim that every historical Concord source has been exhaustively audited.
 
+**V2.1 supersession rule (authorial clarification, 16 October 2026):** There is **no governance graduation process**. V2 remains the current predecessor while V2.1 is completed. Once V2.1 is deemed ready after textual consolidation and conflict correction, V2.1 directly supersedes V2 as the master governance document. Software deployment, cross-domain implementation and operational validation are separate future activities, **not conditions for that document supersession**. References to “graduation” elsewhere in this historical register describe superseded terminology or distinct portable-module tests, not a Governance V2.1 adoption gate.
+
 ## Register rules
 
 - Record new unresolved Governance V2.1 questions **here** rather than creating further free-standing issue registers. Detailed evidence and proposed solutions may remain in their original source or sectioned draft; link them from this register.
@@ -38,7 +40,7 @@
 | G-015 | **BTA 28-field contract conformance** | **Resolved for current V2.1 manuscript-integration scope (15 Oct 2026).** Missing working-system/cross-domain interface architecture marked **ARCHITECTURE TO BE DESIGNED** at Chapter 198. Future implementation and operational validation are deferred, **not claimed completed**. | Specify host-required fields and versioned mappings, preserve original keys/provenance, reject ambiguous conversions and run real owner-event conformance tests. See Integration 068. |
 | G-016 | **Recovery, restoration, retirement and continuing duties** | **Resolved for current V2.1 manuscript-integration scope (15 Oct 2026).** Missing working-system/cross-domain interface architecture marked **ARCHITECTURE TO BE DESIGNED** at Chapter 198. Future implementation and operational validation are deferred, **not claimed completed**. | Define legally effective restoration, unresolved beneficiary duties, orphan referrals, retirement/hibernation distinctions, discharge and independently authorised closure. See G05 001–003 and Section 20. |
 
-## C. Custody, privacy, owner systems and G05 graduation
+## C. Custody, privacy, owner systems and G05 implementation verification
 
 | ID | Outstanding issue | Current position / why still open | Required resolution / evidence |
 | --- | --- | --- | --- |
@@ -49,7 +51,7 @@
 | G-021 | **Cumulative restriction / anti-capture review** | **Resolved for current V2.1 manuscript-integration scope (15 Oct 2026).** Missing working-system/cross-domain interface architecture marked **ARCHITECTURE TO BE DESIGNED** at Chapter 100. Future implementation and operational validation are deferred, **not claimed completed**. | Define constitutional review criteria, anti-capture limits, cumulative rights effects, evidence access and independent remedy. |
 | G-022 | **G05 operational graduation** | **Resolved for current V2.1 manuscript-integration scope (15 Oct 2026).** Missing working-system/cross-domain interface architecture marked **ARCHITECTURE TO BE DESIGNED** at Chapter 198. Future implementation and operational validation are deferred, **not claimed completed**. | Complete source-to-rule traceability, independent owner services, authenticated transport, durable storage, failure/recovery/paused-clock tests, security review and formal constitutional approval. See `Validation/README.md` and G05 003. |
 
-## D. Manuscript-wide reconciliation and graduation
+## D. Manuscript-wide reconciliation and readiness
 
 | ID | Outstanding issue | Current position / why still open | Required resolution / evidence |
 | --- | --- | --- | --- |
