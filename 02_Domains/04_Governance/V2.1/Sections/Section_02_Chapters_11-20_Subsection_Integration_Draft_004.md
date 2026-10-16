@@ -427,9 +427,9 @@ It is to make constitutional velocity visible.
 
 # Chapter 12 — Managing Governance Work
 
-## 12.0 Consolidated triadic governance working rule
+## 12.0 Consolidated triadic governance rule
 
-**Status:** Working V2.1 consolidation of previously incorporated material, not final constitutional adoption. Superseded V2 wording is preserved in the original V2 document rather than repeated here. The working rule reflects the latest incorporated authorial distinctions; unresolved source issues remain locally flagged.
+**Authority and source status:** This section states the controlling V2.1 triadic governance rule. V2.1 is the author-designated master successor to erroneous V2 after textual conflicts and wording are corrected. Superseded V2 wording remains in the unchanged historical V2 source rather than being repeated here as a competing rule. Any genuinely unresolved implementation interface or source discrepancy is flagged locally; neither makes the settled three-holder constitution, three-ballot ordinary completion or bounded emergency exception provisional.
 
 **Mandate before vote.** A valid triadic decision requires a defined civil question, legitimate functional and jurisdictional mandate, three independently authorised Steward positions, eligible participants, bounded evidence context, and an auditable decision-event boundary. Technical capability, office title, geometry, appointment and permission are distinct from specific vote authority. A Steward's official ballot is Favour (F), Against (A) or Abstain; abstention is not Against or a vacancy.
 
