@@ -84,3 +84,15 @@ The opening V2.1 section headers and embedded working-assembly status lines in S
 Compared chapter-level character lengths and DJB2-32 fingerprints from the user-provided original `Governance V2 Canonical (2).md` snapshot against the integrated Section 02 and 03 chapters. **Eight chapters are character-for-character identical to the original:** 11, 13, 14, 15, 16, 17, 22 and 23. **Twelve chapters differ in length or fingerprint:** 12, 18, 19, 20, 21, 24, 25, 26, 27, 28, 29 and 30. These chapters contain integrated additions and require paragraph-level retention/supersession verification; fingerprint mismatch alone does not establish omission. This is an independent baseline comparison, rather than reliance on the integrated assembly's source-preservation claim.
 
 Section 02 and 03 status declarations were also reconciled to reflect the adopted V2.1 document (commits `57f4550`, `f31c6c2`, `3d7de18`, `386345d`).
+
+## Completed original V2 paragraph-level comparison — Chapters 11–30
+
+The original user-provided `Governance V2 Canonical (2).md` snapshot was read independently, and each original paragraph block was compared directly against the integrated V2.1 chapter.
+
+- **All source paragraphs retained:** Chapters 11, 13–27 (inclusive), except none, and Chapters 18–27 specifically; the precise passing set is **11, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27** (16 chapters). Chapters 18–21 and 24–27 have additive integration without source paragraph loss.
+- **Chapter 12:** 7 of 252 source paragraph blocks are no longer verbatim; changes cluster in the original temporary expanded decision-structure account. Compare against the adopted excluding-origin / including-origin virtual-triad voting mechanics, one-authority-per-result and lawful competence rules.
+- **Chapter 28:** 3 of 55 source paragraph blocks differ; changes concern continuity/emergency coordination and successor-of-successor failure modes.
+- **Chapter 29:** 6 of 54 source paragraph blocks differ; changes concern absence, substitution, urgency and the original 'temporary unavailability' classification.
+- **Chapter 30:** 3 of 53 source paragraph blocks differ; changes concern emergency deadlock, nonmajority, substitution and escalation options.
+
+**Disposition:** Independent comparison for all Chapters 11–30 is now complete. Four chapters require semantic supersession mapping, not automatic reinstatement of superseded language. The source snapshot remains unchanged. This replaces the previous fingerprint-only outstanding verification note.
