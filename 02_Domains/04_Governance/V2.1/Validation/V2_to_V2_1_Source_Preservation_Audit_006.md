@@ -27,3 +27,7 @@
 - **160:** V2.1 is shorter by exactly one character. This could be a terminal newline/formatting difference, but it **must not** be certified identical until checked; the fingerprints differ.
 
 **Next:** inspect source-level differences for Chapters 132, 140, 149, 150, 151 and 160. No original V2 source or V2.1 governance chapter was edited by this audit. G-023 and G-024 remain open.
+
+## Chapter 160 one-character discrepancy resolved
+
+The V2 chapter ends with two newline characters after its final bolded Reality Trees principle; the V2.1 Section 16 file ends with one. The final source sentence and all its visible words match. This is an **end-of-file newline difference**, not missing architectural content. The chapter's original substantive text was not modified; the full-text fingerprint differs because of this single terminal newline. Accordingly, **25 of 30** chapters are substantively unchanged, with 24 byte-for-byte length/fingerprint matches and one confirmed formatting-only difference. Chapters 132, 140 and 149–151 remain expanded and require clause checks.
