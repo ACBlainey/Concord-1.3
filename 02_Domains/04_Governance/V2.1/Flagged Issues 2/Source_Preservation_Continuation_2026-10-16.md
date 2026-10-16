@@ -25,3 +25,12 @@ Scope: compare each `Source_Preserved_001.md` chapter against its matching `Subs
 - Chapter **83** heading-aware paragraph check: all **123 non-heading source paragraphs** appear verbatim in the integrated chapter. The six nonmatching blocks are headings only: original `83.8`–`83.13` are renumbered in the integration. This establishes literal preservation of every original paragraph, but numbering consistency and added architecture remain separate checks.
 
 **Updated scope:** All 125 source chapters checked across Sections 04–05, 07–09, 11–13, 17–19 and 21–22 have their original text preserved either as complete contiguous chapters (124) or, for Chapter 83, as every original paragraph with renumbered headings. Remaining untested integrated blocks and semantic conflict checks are not complete.
+
+## Expanded paragraph-level audit — Sections 01, 06, 10 and 14
+
+- Chapters 1–10: all **10/10** original chapter texts preserved; Chapter 9 is not a contiguous substring but **all 674 source paragraph blocks** appear verbatim.
+- Chapters 51–60: all **10/10** original chapter texts preserved; Chapter 54 is noncontiguous but **all 225 source paragraph blocks** appear verbatim.
+- Chapters 91–100: all **10/10** original chapter texts preserved; Chapter 100 is noncontiguous but **all 51 source paragraph blocks** appear verbatim.
+- Chapters 131–140: **9/10** have every original source paragraph block verbatim. **Chapter 132 is a substantive exception: 28 of 67 original paragraph blocks do not match verbatim.** This is not merely heading renumbering. The original GTP text presents GTP as optional, with neutral *hierarchical territorial partitioning*; the integrated chapter instead contains later nonhierarchical mesh governance and expanded spatial-substitution mechanics. This is a **source-retention / supersession mapping issue**, not proof that the earlier rule should be restored as operative.
+
+**Current preservation accounting:** 164 of 165 chapters screened across these sections and the prior 125-chapter audit have either full contiguous retention or every original paragraph block preserved verbatim. Chapter 132 requires a paragraph-to-clause supersession table, recording which old statements are contradicted by later authorial architecture, which survive semantically and which need preservation as historical development. Do not reinsert superseded hierarchical governance as a competing operational rule. Other untested blocks are Chapters 11–30 and 141–160, plus any remaining comparison gaps.
