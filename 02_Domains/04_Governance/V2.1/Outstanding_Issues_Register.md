@@ -2,7 +2,7 @@
 
 **Status:** Working single-point backlog for later resolution; not constitutional canon, an authority grant, or a substitute for preserved source files.  
 **Updated:** 15 October 2026.  
-**Scope:** Known open constitutional, integration, validation and graduation issues identified in the V2.1 sectional manuscripts, reconciled candidates, G03/G05 integration records and validation registers. This is a living index, not a claim that every historical Concord source has been exhaustively audited.
+**Scope:** Known open constitutional, integration and implementation-validation issues identified in the V2.1 sectional manuscripts, reconciled candidates, G03/G05 integration records and validation registers. This is a living index, not a claim that every historical Concord source has been exhaustively audited.
 
 ## Register rules
 
