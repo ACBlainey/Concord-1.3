@@ -4,7 +4,7 @@
 
 # Governance V2.1 — Section 03 (Chapters 21–30) — Working Assembly 001
 
-**Status:** Source-preserving sectional working draft; not canonical.
+**Status:** Integrated Governance V2.1 section; historical draft designations are retained for provenance only.
 
 The complete original V2 Chapters 21–30 are reproduced without alteration. A separately labelled provisional integration annex follows Chapter 30.
 
