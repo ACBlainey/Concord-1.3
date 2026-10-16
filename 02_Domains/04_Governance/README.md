@@ -2,6 +2,12 @@
 
 **Status:** ESTABLISHED / SUBSTANTIAL ARCHITECTURE
 
+## Current governance authority — 16 October 2026
+
+**Governance V2.1 is the CURRENT OPERATIONAL GOVERNANCE DOCUMENT and supersedes Governance V2.** The former V2 document is erroneous due to omission of substantial essential original architecture; it is retained solely as superseded historical provenance. V2.1 is authoritative without a graduation process, perfection, software deployment or validation requirement. Remaining issues are handled ad hoc as encountered.
+
+See [Governance V2.1](V2.1/README.md) and its sectional manuscripts for the current governance architecture.
+
 ## Persistent function
 
 This domain provides legitimate collective direction, decision, delegation, administration and stewardship within constitutional bounds.
