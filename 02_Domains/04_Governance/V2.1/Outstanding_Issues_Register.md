@@ -74,6 +74,10 @@
 
 - **G-024 partial:** The author supplied a readable local `Governance V2 Canonical (2).md` snapshot with all 215 unique sequential chapter headings. `Validation/V2_to_V2_1_Source_Preservation_Audit_001.md` compares Chapter 1–10 character and numbered-heading inventories to the V2.1 Section 01 draft. Chapters 2, 3, 5, 6, 8 and 10 match on both quantitative counts; Chapters 1, 4, 7 and 9 have added/changed material. **Counts are not proof of exact textual retention or clause completeness.** Continue paragraph-level source diff and remaining sections; preserve both originals.
 
+## 16 October 2026 — G-024 direct source-retention comparison across 125 chapters
+
+- `Validation/V2_to_V2_1_Source_Preservation_Audit_008.md` compares original repository source-preserved and integrated chapter texts directly in 13 section pairs (Chapters 31–50, 61–90, 101–130, 161–190 and 201–215). **124/125 source chapter bodies occur as a full contiguous verbatim block in their integrated counterpart.** The only exception is Chapter 83, where conflicting section numbers were renumbered; all 34 substantial original prose paragraphs examined occur verbatim. This materially reduces the risk of accidental source deletion. It does **not** certify additions conflict-free or establish the source-preserved baselines' identity with the local V2 original. G-024 remains open for remaining sections and historical-source cross-checks.
+
 ## 16 October 2026 — G-008 Chapter 12 controlling rule and source-verification separation
 
 - Chapter 12 §12.0 now identifies its triadic constitution, three-ballot ordinary completion, and separately authorised emergency exception as **controlling V2.1 rules**, rather than a non-adopted working consolidation. §12.9.6's cross-source checks are explicitly provenance and implementation-interface checks, **not a graduation gate for settled V2.1 rules**. Detailed duplicate-clause reconciliation, unresolved design boundaries and actual deployment evidence remain separate tasks. G-008/G-023/G-027 are not automatically closed by this status correction.
