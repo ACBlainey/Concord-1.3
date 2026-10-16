@@ -21,7 +21,7 @@ The local V2 source has **215 numbered chapters**. Plan 22 sectional manuscripts
 1. Read the corresponding ten chapters from the preserved V2 source.
 2. Cross-check relevant V1 text, author-confirmed reconstruction, GTP source and other Concord interfaces.
 3. Draft changed chapters as temporary **chapter patches** in `Chapter_Patches/`; do not replace V2 or silently rewrite unrelated provisions.
-4. Assemble the complete ten-chapter section under `Sections/` after all chapters in that block are inspected. Mark it *working draft*, never canonical.
+4. Assemble the complete ten-chapter section under `Sections/` after all chapters in that block are inspected. Mark any unresolved textual conflict at its exact location; do not label settled V2.1 governance rules provisional or subordinate to V2.
 5. Maintain a change register recording source location, old clause, proposed replacement, rationale, provenance and validation status.
 6. Validate voting logic, authority boundaries, geometric semantics, emergency safeguards and consistency before graduation.
 
@@ -44,7 +44,7 @@ The local V2 source has **215 numbered chapters**. Plan 22 sectional manuscripts
 ## G05 integration — bounded governance, continuity and recovery
 - [G05 integrated architecture](G05%20%E2%80%94%20Bounded%20Governance%2C%20Continuity%20and%20Recovery%20Integration%20001.md) consolidates the 070–087 validation candidates, constitutional boundary conditions, owner-system interfaces, surviving duties, emergency protection and aggregate-control review.
 - [Validation evidence register](Validation/README.md) tracks stage-level tests, CI caveats and remaining end-to-end work.
-- **Integration candidate only:** this material is now incorporated into the V2.1 working architecture, but it has not been graduated into preserved V2 canonical or assembled chapter sections. Source resolution and the graduation gate remain mandatory.
+- **Integrated V2.1 material:** this material is incorporated into the V2.1 governance architecture. Preserve source trace, reconcile actual conflicting clauses and verify section assembly. It does **not** need to be graduated into the historical V2 canonical file, which remains unchanged.
 
 
 ## G05 integration continuation
@@ -54,7 +54,7 @@ The local V2 source has **215 numbered chapters**. Plan 22 sectional manuscripts
 
 ## Sectional consolidation status — 13 October 2026
 
-Current primary **developmental working text** is under `Sections/`, not isolated `Integration/` notes. Source-preserved originals remain untouched. Reconciled material has been inserted in the relevant subsection drafts for Chapters 9, 12, 28–30, 54, 100, 132, 149–151 and 198. The source notes (121–123) remain evidence and provenance, not alternative chapter authority.
+Current primary **V2.1 governance text undergoing final wording and conflict reconciliation** is under `Sections/`, not isolated `Integration/` notes. Source-preserved originals remain untouched. Reconciled material has been inserted in the relevant subsection drafts for Chapters 9, 12, 28–30, 54, 100, 132, 149–151 and 198. The source notes (121–123) remain evidence and provenance, not alternative chapter authority.
 
 Open questions belong within the affected V2.1 section **and** the single `Outstanding_Issues_Register.md`, rather than preventing consolidation. Priority is to merge remaining G05, triadic decision, GTP and authority lifecycle material into their actual chapter sections, reconcile older conflicting clauses, and audit preservation. No original V2 source or historical file should be silently overwritten.
 
