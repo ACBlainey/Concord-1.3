@@ -4,7 +4,7 @@
 
 # Governance V2.1 — Section 02 (Chapters 11–20) — Working Assembly 001
 
-**Status:** Source-preserving sectional working draft; not canonical.
+**Status:** Integrated Governance V2.1 section; historical draft designations are retained for provenance only.
 
 The complete original text of V2 Chapters 11–20 is reproduced below without alteration. A clearly marked provisional Chapter 12 integration annex follows the ten chapters. The annex is not a replacement for original text.
 
