@@ -1735,21 +1735,18 @@ Constitutional matters require the separately competent constitutional review ro
 
 Existential or civilisation-wide emergencies should activate appropriate emergency mechanisms.
 
-A wider GTP spatial forum or differently competent institution cannot intervene merely because of scale, resources, influence or claimed superior authority.
+A wider GTP spatial forum or differently competent institution cannot intervene merely because of scale, resources, influence or claimed superior authority. Where a matter exceeds the local forum's lawful scope or capability, the existing decision must not silently acquire broader jurisdiction. A separately constituted competent decision event or independent domain-specific review may be required where:
 
-It should intervene where the lower level:
+- the existing forum lacks the relevant expertise, capacity or lawful contextual eligibility;
+- consequences extend beyond its legitimate jurisdiction or affect other GTP areas;
+- unresolved conflict requires a separately competent procedure;
+- constitutional rights or independently reserved judicial questions are implicated;
+- systemic risk requires a wider spatial scope or specialised safeguards; or
+- an emergency meets the conditions of a separately lawful emergency route.
 
-- lacks sufficient competence;
-- lacks lawful competence or contextual eligibility for the particular act;
-- creates consequences beyond its jurisdiction;
-- cannot resolve a conflict;
-- affects constitutional rights;
-- creates systemic risk;
-- or encounters a matter reserved to independently competent constitutional or judicial review.
+These are reasons to identify the correct competent function and decision event, **not triggers for automatic intervention by a superior GTP authority**. Chapter 9 §§9.20.1–9.20.3 distinguish wider spatial decision events from ordinary expanded-triad voting, whose established constituent procedure is specified in Chapter 12 §§12.9.1–12.9.5. The lawful composition and aggregation of distinct wider-scale events still require design.
 
-This principle protects both autonomy and efficiency.
-
-Centralisation should be treated as a response to demonstrated coordination problems rather than the default structure of governance.
+This principle protects local autonomy while allowing necessary coordination. Coordination is not a standing centralisation of political authority.
 
 ## 2.5 Decision Authority
 
