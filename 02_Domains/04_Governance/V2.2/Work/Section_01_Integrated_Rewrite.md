@@ -2318,20 +2318,19 @@ Capability is not sovereignty.
 
 ## 3.7 Delegated Authority
 
-Delegated authority is the constitutionally recognised ability to make decisions binding upon others or upon a defined civilisational system.
+Delegation establishes a constitutionally recognised function, eligible decision holder and bounded conditions under which a consequential decision may become binding on others or on a defined civilisational system. It does not confer continuously possessed authority. **Authority exists for a particular lawful act only when the required current state and contextual conditions are satisfied, and is consumed by its valid commitment.**
 
-Because authority can constrain others, it requires stronger justification than mere participation.
+Because consequential decisions can constrain others, the delegated function requires stronger justification than mere participation. Its lawful mandate must identify:
 
-Delegated authority should therefore identify:
+- purpose and eligible function;
+- scope, jurisdiction and rights constraints;
+- decision-event constitution and act-time validity conditions;
+- limits on operational discretion;
+- accountability and independent review;
+- temporal conditions and termination;
+- and the separately lawful route for correction or a new consequential decision.
 
-- purpose;
-- scope;
-- jurisdiction;
-- limits;
-- accountability;
-- duration;
-- review;
-- and termination.
+Neither standing, participation, competence, credentials nor a prior delegation can substitute for current act-time authority. Chapter 2 §§2.5–2.7 governs delegation and automation; Chapter 9 §§9.3.1, 9.12.1 and 9.41.2 governs constitution, ballot commitment and state validation.
 
 ## 3.8 Why These Dimensions Must Remain Separate
 
