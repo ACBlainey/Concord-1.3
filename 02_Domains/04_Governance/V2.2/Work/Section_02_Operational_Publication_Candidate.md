@@ -2626,7 +2626,7 @@ Economic stewards do not own the economy.
 
 Nor do they possess general authority over citizens merely because economic activity is involved.
 
-Their responsibility is to maintain conditions in which economic systems can operate consistently with constitutional principles.
+Their governance responsibility is to assess and address constitutional compatibility, systemic risks and capture through lawfully bounded decisions and referrals to competent domain owners. This does not confer direct operational management of economic systems.
 
 This may include attention to:
 
