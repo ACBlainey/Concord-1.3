@@ -720,6 +720,16 @@ The appropriate mechanism depends upon the nature of the issue.
 
 The important principle is that coordination should preserve the underlying constitutional responsibilities rather than making them disappear inside a new collective body.
 
+### 12.8.1 Individual representation, information return and collective decision boundaries
+
+A single Steward may attend an external meeting, negotiation, summit or consultation as the triad's representative. A meeting with one outside politician or official does not require all three Stewards to attend merely to produce a numerically balanced delegation. Attendance, communication and negotiation are not themselves official triadic decisions or a grant of consequential authority.
+
+The attending Steward must preserve and communicate to the other two Stewards all materially relevant information obtained or exchanged, including proposals, evidence, representations, requests, apparent commitments, disagreements, pressures and conditions, subject to lawful confidentiality, security and information-access constraints. The record must distinguish the outside party's statements from the Steward's own interpretations and must support independent assessment by the other two positions. A representative must not use selective disclosure to manufacture consent or prevent effective independent judgement.
+
+An individual Steward may explain an existing authorised position, explore options and state that a proposal will be referred to the triad for a lawful decision. The Steward must not make a new binding commitment, promise an official outcome or represent personal agreement as the triad's decision without a separate valid mandate and decision event. External pressure, urgency or purported agreement at a meeting cannot bypass the triadic decision requirements. This separation between contact and commitment also limits the opportunity for external coercion or capture of a lone representative.
+
+Where all three Stewards attend, their simultaneous presence does not itself constitute an official decision procedure. A decision during a meeting is possible only if the question and scope have been lawfully authorised and the applicable voting, independence, record, conflict, state and effect safeguards are satisfied. **Design interface:** The detailed mechanism for decisions within live meetings, including contextual conference versus isolated ballots, contemporaneous records, external representations, confidentiality and implementation acknowledgement, remains to be designed by the competent Foreign Affairs and/or inter-triad coordination systems. The same boundary applies to cross-border questions between neighbouring GTP areas; neither the meeting nor geographical adjacency creates common authority.
+
 ## 12.9 Temporary Expanded Triads and Virtual Resultants
 
 A temporary expanded triadic decision structure may be convened only for a defined question whose lawful consequence and competence field requires more than the originating triad. The existence of neighbouring GTP triangles, shared interests or an emergency does not independently grant common decision authority.
