@@ -6869,8 +6869,11 @@ The constitutional problem is not measurement.
 It is recursive self-validation.
 
 
-## 10.5 Chapter 10 Consistency Review — Metrics Cannot Manufacture Authority
+## 10.5 Measurement, Automatic Action and Constitutional Review
 
-Chapter 10's metric and feedback architecture is consistent with the prohibition on converting measurement into authority. A metric, reputation score, AI benchmark, automated threshold or institutional success claim may be evidence or an input to a separately lawful process; it does not independently confer permission, appointment, jurisdiction or continuing authority. Automated consequential acts still require valid context and state conditions at the act instant. Feedback and audit must remain independently contestable, and correction of an earlier decision requires a separate authorised event.
+A metric, reputation score, AI benchmark, automated threshold or institutional success claim is evidence or an input to a separately lawful process; it cannot independently confer appointment, jurisdiction, permission, a ballot, or continuously held authority. Where a consequential automatic response is legitimate, the responsible system must establish its specific lawful function, rights constraints, accountable owner, current enabling state, defined transition and review path. The act consumes its contextual authority at commitment; a metric threshold is not an independent source of that authority.
 
-**Significant source-completeness issue:** The retained Chapter 10 source ends immediately after §10.4, with the sentence “It is recursive self-validation.” There is no further Chapter 10 text in this Section 01 source. **Do not invent the missing continuation or assume the chapter is substantively complete.** Check other historical source versions and any existing continuation before deciding whether additional architecture belongs here. This observation records the present boundary; it does not authorise compression or replacement of §10.4.
+Independent measurement, methodological contestability, plural evidence, protection against incentive gaming and separation between performance assessment and institutional self-expansion are safeguards against recursive capture. A failure finding or successful score can justify investigation or consideration of a new decision, but cannot itself change the constitutional scope of an office. Review of an earlier decision or policy requires an independently lawful event and preserves the original committed record.
+
+**Architectural boundary:** The competent Metrics, Governance and affected domain owners must specify metric provenance, independent evaluation, automatic-response thresholds, human and AI contestation, protected access, failure handling and audit interfaces where not otherwise established. This chapter does not infer additional metric procedures from a missing source continuation.
+
