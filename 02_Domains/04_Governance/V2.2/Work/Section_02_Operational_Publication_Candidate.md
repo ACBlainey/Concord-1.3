@@ -6323,7 +6323,7 @@ It means fundamental constitutional protections should not disappear merely beca
 
 A contribution system may become political hierarchy if high contributors acquire increasing authority because of their contribution score.
 
-Governance V2 therefore prohibits automatic conversion:
+Governance therefore prohibits automatic conversion:
 
 **Contribution**  
 ≠  
