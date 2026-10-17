@@ -2075,7 +2075,7 @@ Where implementation reveals:
 - changed evidence;
 - or need for a new separately lawful consequential decision,
 
-the matter should return to the Governance process.
+the matter should be referred to the competent lawful process for a new decision, corrective remedy or bounded operational adaptation; an earlier committed ballot is not reopened.
 
 Operational staff should not be forced to pretend implementation is merely mechanical when important policy choices are actually being made.
 
@@ -2124,9 +2124,9 @@ Review should ask:
 - Did minority concerns prove relevant?
 - Did implementation remain within authority?
 - Does the continuing policy or activity remain justified, and is a separately lawful new decision required to change its future operation?
-- Should it be modified?
-- Should it be reversed?
-- Should it be escalated?
+- Should a new lawfully constituted decision modify its future operation?
+- Should a new lawfully constituted decision terminate or reverse an ongoing effect where reversal is actually possible?
+- Should the matter be referred to a separately competent decision event or independent review route?
 - Should the underlying architecture itself be reconsidered?
 
 ## 2.18 Learning
@@ -6045,7 +6045,7 @@ Revocable technical grants, validity windows and check/commit leases are prerequ
 
 ## 9.42 Unresolved Matters
 
-A matter should be recorded as unresolved where:
+A matter's substantive question should be recorded as unresolved, or its decision event kept pending, according to the actual status where:
 
 - evidence is insufficient;
 - authority is uncertain;
@@ -6053,7 +6053,7 @@ A matter should be recorded as unresolved where:
 - a conflict prevents valid participation;
 - further specialist analysis is required;
 - a dependency must first be resolved;
-- or the issue should be escalated.
+- or referral to a separately competent forum is required.
 
 An unresolved matter is not necessarily governance failure.
 
@@ -6860,5 +6860,5 @@ A metric, reputation score, AI benchmark, automated threshold or institutional s
 
 Independent measurement, methodological contestability, plural evidence, protection against incentive gaming and separation between performance assessment and institutional self-expansion are safeguards against recursive capture. A failure finding or successful score can justify investigation or consideration of a new decision, but cannot itself change the constitutional scope of an office. Review of an earlier decision or policy requires an independently lawful event and preserves the original committed record.
 
-**Architectural boundary:** The competent Metrics, Governance and affected domain owners must specify metric provenance, independent evaluation, automatic-response thresholds, human and AI contestation, protected access, failure handling and audit interfaces where not otherwise established. This chapter does not infer additional metric procedures from a missing source continuation.
+**Architectural boundary:** The competent Metrics, Governance and affected domain owners must specify metric provenance, independent evaluation, automatic-response thresholds, human and AI contestation, protected access, failure handling and audit interfaces where not otherwise established. Where the original source ends at §10.4, additional metric procedures require independently established architecture rather than an assumed extension of the existing text.
 
