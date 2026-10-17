@@ -4690,15 +4690,15 @@ This distinction mirrors the wider Governance principle:
 
 **Responsibility does not create ownership.**
 
-A steward may possess authority to:
+A Steward may be lawfully mandated to perform resource-related functions such as:
 
-- protect;
-- regulate;
-- monitor;
-- allocate public resources;
-- or intervene against harmful use
+- protection;
+- regulation;
+- monitoring;
+- allocation of public resources;
+- or intervention against harmful use.
 
-within defined constitutional limits.
+The mandate and eligibility to perform such functions are not standing permission for consequential acts. Each act remains bounded by the relevant competence, rights limits, decision-state authorisation and implementation-owner checks.
 
 That does not convert the steward into the proprietor of civilisation’s resources.
 
