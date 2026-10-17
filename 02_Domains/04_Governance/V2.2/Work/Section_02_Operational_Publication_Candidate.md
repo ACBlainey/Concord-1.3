@@ -5751,9 +5751,7 @@ The earlier Governance principle remains:
 
 > **A Predictive Brake exists to preserve future optionality, not to convert uncertainty into permanent prohibition.**
 
-A brake is therefore a Governance action informed by planning.
-
-It is not a planning command.
+A brake is therefore a proposed or lawfully authorised Governance action informed by planning, not a planning command. A warning, threshold crossing or predictive model output cannot itself impose a brake. Consequential restriction and later release each require their applicable lawful decision, rights checks, bounded effect and accountable implementation path; release must not be treated as automatic merely because a model changes its estimate.
 
 ## 17.18 Planning and Predictive Brake Failure
 
