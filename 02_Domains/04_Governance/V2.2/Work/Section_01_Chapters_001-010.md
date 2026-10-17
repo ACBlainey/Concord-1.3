@@ -5881,6 +5881,16 @@ A decision whose effects or required competence exceed the local triad may requi
 
 Emergency implementation authority belongs to the affected executing system within the lawful decision scope. A paused Civilisation Clock must not prevent separately authorised emergency action; coordination and later reconciliation must preserve the emergency decision identity, authority, effective time, implementation and review records.
 
+### 9.40.2 Emergency Authority Does Not Displace Ordinary Governance
+
+Emergency systems, procedures and authority are **strictly confined to the emergency for which they are lawfully constituted**. Their activation does not suspend, transfer, absorb or supersede the ongoing ordinary duties, offices, decisions or contextual bounded authority of stewards performing normal governance functions. Those functions continue under their existing lawful authority.
+
+No emergency steward, emergency body, coordinating actor, wider-scale GTP decision event, external party or other participant acquires general control of a region or its ordinary governance merely because an emergency exists within or affects that region. Emergency authority is **not a power to take over regional administration, displace lawful local stewards, command unrelated functions, or establish continuing superior jurisdiction**.
+
+Where an emergency response necessarily interacts with an ordinary function, the interaction must be limited to the specific emergency need, lawfully authorised scope and necessary operational effect. Such interaction does not transfer ownership of the function or its ordinary decision authority. Emergency action and normal governance remain separately identified, bounded and accountable, even when they operate simultaneously in the same geographical area.
+
+The emergency authority ends when its authorised emergency purpose or lawful duration ends; it does not persist as a standing governance mandate. Any subsequent non-emergency policy or structural change requires its own separately constituted ordinary lawful decision event. **Emergency provisions are for responding to emergencies, not for institutional capture, takeover or a coup.**
+
 ## 9.41 Meeting Protocol
 
 A formal Governance meeting should identify where appropriate:
