@@ -844,9 +844,9 @@ Expanded constituent triads, one-position substitutions and GTP node mappings re
 
 **[LOCAL VALIDATION — FI-004, FI-005, FI-008, FI-029, FI-031:]** Validate the actual host constitution/commit gates, irregular GTP node mapping, exceptional position continuity and authoritative event boundary. The controlling rule remains three-holder constitution and three-official-ballot ordinary completion; arithmetic majority alone does not complete an ordinary vote.
 
-### 12.9.8 Authorial source precedence and bounded position continuity
+### 12.9.8 Bounded Position Continuity
 
-Authorial direction 048 settled the two-matching-ballot mathematical majority, but its earlier rejection of a complete three-holder voting constitution is superseded by the 15 October authorial rule requiring three selected holders before voting and all three official ballots before ordinary effect. The operative voting threshold and separate constitutional/implementation gates are set out above and in the following authorial resolution; neither provisional source is a competing operative rule.
+A triadic voting forum must have three lawfully selected distinct holders before voting. Two matching valid substantive ballots determine the majority, while all three official ballots are required for ordinary completion. The bounded emergency exception does not change the ordinary completion rule. Constitutional constitution, vote validity and consequential implementation authority are separate gates.
 
 **Position continuity:** When a position is unavailable, a lawful process may permit (1) the original Steward's later official vote while its authority remains unconsumed, (2) an independently constituted expanded resultant occupying precisely one position, (3) a bounded temporary substitute authorised for that position, or (4) a non-official, non-consuming provisional indication that can be replaced before official commitment. These mechanisms are not automatically available merely because the position is missing. An official committed ballot cannot be superseded within its event; no replacement may create a fourth vote or alter a completed majority.
 
