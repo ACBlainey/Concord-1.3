@@ -54,6 +54,13 @@ This is a working audit record, **not** an operational section. Compare the pres
 
 **Further checks:** Finish paragraph-by-paragraph coverage classification, examine Chapter 1–7 integrated material for retained conflicting wording, and identify any genuine authorial choices rather than promoting editorial ambiguity to operational law.
 
+## Additional substantive reconciliation — 17 October 2026
+
+- **Chapter 1:** The fiduciary definition, delegable scope and Parallel Steward provisions now explicitly separate enduring duty from act-time authority. Parallel Stewards can fill an official position only through the separately lawful Chapter 12 §12.9.0a process; an original Steward is not automatically responsible for an independently committed substitute ballot.
+- **Chapter 9 Ratchet:** A Ratchet warning or success record remains evidence. Even an independently assigned Ratchet function cannot act consequentially without current lawful state validation and an accountable executing owner.
+- **Chapter 9 abstention and completion:** §§9.14–9.18 distinguish a request for more evidence, a lawfully available official abstention, recusal, absence, and completed Unresolved (U). The same distinctions apply to Chapter 12 constituent resultants. Repeated inability to complete must be diagnosed by cause, not counted as one homogeneous abstention metric.
+- **Remaining C11 check:** Review §9.53 against §§9.12–9.18, §9.28–9.29 and §9.40–9.41 for unique procedural content before removing any duplication. Verify source details for protected information sharing, vote-count metadata, host acknowledgement, emergency exceptions and independent review.
+
 ## Publication gate
 
 Do not overwrite the published Section 01 until the chapter-by-chapter contradiction scan, full substantive preservation comparison and remaining authorial-decision log have been reviewed. Unbuilt implementation architecture may remain as precise boundaries.
