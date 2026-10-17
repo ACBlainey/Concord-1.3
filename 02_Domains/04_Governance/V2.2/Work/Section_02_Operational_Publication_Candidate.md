@@ -901,21 +901,21 @@ Subsidiarity therefore requires both.
 
 The “lowest competent architecture” means the smallest **lawfully competent and practically capable decision field**, considering the affected rights, resources, externalities and implementation requirements. It need not be the smallest geometric GTP cell. Multiple spatial resolutions may operate concurrently; operational subdivision and consolidation do not create a command chain.
 
-## 12.11 Vertical Escalation
+## 12.11 Exceptional Referral and Competence Escalation
 
-A matter may require vertical escalation where:
+A matter may require referral to a separately competent forum or exceptional coordination where:
 
 - horizontal coordination fails;
 - constitutional interpretation is required;
 - jurisdictions remain in unresolved conflict;
 - consequences become systemic;
-- the lower level lacks necessary authority;
-- the lower level lacks necessary capability;
+- the originating forum lacks necessary lawful competence;
+- the originating forum lacks necessary practical capability;
 - rights are materially threatened;
 - infrastructure risk becomes civilisation-wide;
 - or an emergency exceeds local capacity.
 
-Escalation should identify why the lower level is insufficient.
+The referral record must identify the specific limitation of the originating forum and why the proposed receiving forum is competent.
 
 A wider spatial or cross-domain forum does not inherit superior jurisdiction merely because the matter was escalated. Any resulting decision requires its own competent mandate, lawfully constituted decision procedure and bounded act-time authority. Coordination may expand the decision field without transferring the originating forum's authority.
 
@@ -929,9 +929,9 @@ The escalation record should therefore preserve:
 - review and challenge routes;
 - and conditions for returning the matter to ordinary competent handling.
 
-### 12.11.1 Legal Escalation Distinguished from Spatial Subdivision
+### 12.11.1 Legal Referral Distinguished from Spatial Subdivision
 
-“Vertical escalation” in this chapter refers only to referral, review, delegation or decision by an **independently constituted institution** holding a lawful relevant competence. It does not mean movement from a child GTP triangle to a parent triangle, nor does it imply that a larger geometric area possesses superior power. Constitutional hierarchy, appellate priority and lawful federation may exist where expressly established; their source is legal authority, never tessellation alone.
+“Competence escalation” in this chapter refers only to referral, review, delegation or decision by an **independently constituted institution** holding a lawful relevant competence. It does not mean movement from a child GTP triangle to a parent triangle, nor does it imply that a larger geometric area possesses superior power. Constitutional hierarchy, appellate priority and lawful federation may exist where expressly established; their source is legal authority, never tessellation alone.
 
 Where escalation transfers any decision power, the record must identify the constitutional instrument, the originating and receiving competent offices, the exact matter and powers, any retained local jurisdiction, expiry, review and route for return. Referral for advice or coordination alone transfers no decision authority.
 
