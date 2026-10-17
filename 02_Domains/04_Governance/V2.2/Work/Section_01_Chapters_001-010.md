@@ -4837,6 +4837,14 @@ The precise thresholds require later system integration.
 
 **\[CONTINUES — §9.21 Experimental Decisions onward. The next continuation preserves the detailed decision architecture, Predictive Brake, decision records, implementation, audit, review, versioning, judicial/emergency interaction and the remaining V1 operational procedure without compression.\]**
 
+### 9.20.1 Lowest Competent Decision Level and GTP Spatial Escalation
+
+A governance decision should be made at the **lowest GTP spatial scale at which the selected stewards are competent and lawfully authorised to decide the matter**. Local proximity alone does not confer competence or authority. A decision may exceed the competence or legitimate scope of a local triad because its effects extend across multiple areas, it concerns high-security matters, it has Concord-wide implications, or it presents another type of consequence not yet foreseen.
+
+Where the relevant competence or scope is insufficient, the matter may need to be **passed to a larger GTP spatial scale** capable of considering and deciding for the affected area, including its constituent smaller areas. This is a change in the spatial scale of decision-making, **not the creation of an inherent hierarchy of stewards or a standing superior office**. The GTP mesh exists conceptually at multiple scales, and the appropriate scale is selected for the matter; multiple scales may operate concurrently.
+
+The exact classes of decisions requiring a larger scale, the criteria for determining competence, the selection of the appropriate GTP scale, and the lawful escalation and coordination mechanisms **remain to be designed**. No exhaustive list or automatic escalation threshold is asserted here. Spatial scale alone does not establish expertise, eligibility, security clearance or decision authority; these must be established for the particular decision.
+
 ## 9.21 Experimental Decisions
 
 Where uncertainty is high but potential benefit is significant, Governance should consider whether a proposal can be tested in a controlled environment.
