@@ -415,7 +415,7 @@ The purpose is not to impose a universal ideal rate.
 
 It is to make constitutional velocity visible.
 
-## 11.8 Chapter 11 Consistency Reconciliation — Controlled Change Without Authority Accumulation
+## 11.8 Controlled Change Without Authority Accumulation
 
 Controlled persistence, operational revision, constitutional change, parameter drift and architectural drift remain distinct. A change proposal, successful trial, committee review, technical rollout or repeated precedent **does not acquire authority by taking place**. Each consequential adoption or implementation requires the relevant separately lawful, state-conditioned decision and execution acts; committed decisions remain immutable events, while a later policy change is a new authorised event, not revocation of a consumed ballot.
 
