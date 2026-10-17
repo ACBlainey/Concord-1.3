@@ -444,7 +444,7 @@ Controlled persistence, operational revision, constitutional change, parameter d
 ---
 
 
-### 12.0a Recovered decision-interface qualifications
+### 12.0a Decision-interface qualifications
 
 The triad is the default governance decision unit wherever the triadic protocol applies, without making every governance function universally triadic. Each Steward's independent reasoning and decision position must be preserved before forming a collective result. Any expanded decision field must explicitly determine whether the originating triad is included or excluded; constituent triad results are not pooled individual ballots. Without the required valid majority, no substantive state change is authorised. These decision mechanics remain subject to the distinct eligibility, mandate and implementation gates in this chapter.
 
