@@ -3766,11 +3766,11 @@ Any compulsory economic intervention, resource reallocation or consequential sys
 
 ## 15.1 Monetary Governance and Implementation Boundaries
 
-This chapter forms part of the operative Governance architecture. Its monetary stewardship principles, rights constraints, anti-capture boundaries, accountability duties and separation of economic coordination from constitutional authority apply as stated.
+Governance is responsible for the constitutional boundaries of monetary decisions: rights protection, anti-capture safeguards, accountability, competent authorisation and separation of economic coordination from political authority. Governance does not thereby become the designer, issuer, operator or validator of monetary instruments.
 
-Detailed monetary instruments and mechanisms described in this chapter must be read according to their actual terms: an identified option, model, design proposal or possible implementation is not automatically an issued currency, deployed service, exclusive standard or immutable constitutional requirement. Ratchet and other lawful economic systems may interoperate with, refine or replace particular implementations through independently authorised decisions and recorded transitions, without silently displacing the chapter's operative safeguards.
+A monetary option, model or proposed implementation does not acquire operational effect or exclusive status through its description in this chapter. Adoption, alteration or retirement of a monetary arrangement requires the appropriate lawful governance decision and separately competent domain implementation. Ratchet and other economic systems retain their own responsibilities; their technical operations do not create or expand governance authority.
 
-The monetary reasoning and alternative designs remain available for lawful evaluation. Technical interfaces, economic calibration and deployment conditions remain specific architecture-to-be-designed requirements; they do not make the whole chapter provisional or confer monetary authority by implication.
+**Governance interface requirement:** Consequential monetary proposals must identify their competent domain owner, affected rights, mandate, decision-event provenance, act-time authority and review route. Technical calibration, deployment and instrument design remain with the relevant competent domains.
 
 ## 15.2 Why Money Matters to Governance
 
