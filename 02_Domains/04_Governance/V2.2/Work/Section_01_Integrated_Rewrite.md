@@ -555,7 +555,7 @@ Fiduciary responsibility is held in trust; each exercise of authority is bounded
 
 ### Fiduciary Stewardship
 
-A **Fiduciary Steward** owes a duty of care, constitutional loyalty, impartiality, articulable reasoning and accountability to the purpose for which authority was delegated.
+A **Fiduciary Steward** owes a duty of care, constitutional loyalty, impartiality, articulable reasoning and accountability to the legitimate constitutional function for which the Steward is appointed or lawfully selected.
 
 The steward’s obligation is therefore to the constitutional function and its beneficiaries rather than to personal, factional or institutional interests.
 
@@ -565,7 +565,7 @@ The steward’s obligation is therefore to the constitutional function and its b
 
 Delegation does not create unlimited discretion.
 
-Nor can delegation ordinarily create authority that the delegating authority did not itself possess.
+Delegation cannot confer a function or permit an act outside the lawful source's legitimate delegable scope; each consequential act still requires independent current-state validation.
 
 ### Constitutional Standing
 
@@ -1236,7 +1236,7 @@ Repeated jurisdictional uncertainty may therefore become evidence that Governanc
 
 # 1.16 Parallel Stewards Do Not Automatically Acquire Executive Authority
 
-Parallel Stewardship remains advisory unless authority is separately and explicitly delegated.
+Parallel Stewardship remains advisory in its parallel capacity. A Parallel Steward may occupy an official voting position only through a separately lawful selection or substitution procedure, and then acts solely within that one decision position. The selection and substitution mechanics are specified in Chapter 12 §12.9.0a.
 
 Parallel Stewards may independently reproduce the constitutional reasoning expected of an Official Steward.
 
@@ -1250,7 +1250,7 @@ They may identify:
 
 They do not acquire executive authority merely by reaching a different or better-supported conclusion.
 
-The Official Steward remains responsible for the delegated decision unless the architecture specifically assigns decision authority elsewhere.
+An Official Steward remains accountable for that Steward's own official ballot, instruction and acts. An independently selected substitute is accountable for the ballot that substitute lawfully commits; prior appointment or advice does not automatically transfer that ballot's authorship or liability.
 
 # 1.17 Advisory Functions Cannot Become De Facto Command
 
@@ -5082,7 +5082,7 @@ A Ratchet reputation signal may inform trust.
 
 It does not create constitutional standing.
 
-Ratchet therefore participates in the evidence and learning architecture of Governance while remaining outside the constitutional authority chain unless authority is separately and explicitly delegated.
+Ratchet participates in Governance evidence and learning, not in constitutional authority by default. Any consequential Ratchet-initiated act requires a separately legitimate function, lawful current-state authorisation and an accountable executing owner; technical capability, repeated success or a standing automation mandate alone do not authorise it.
 
 ## 9.24 Predictive Brake
 
