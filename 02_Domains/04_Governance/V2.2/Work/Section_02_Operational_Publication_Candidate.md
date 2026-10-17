@@ -6485,7 +6485,7 @@ Every Steward retains the right and duty to report suspected invalid constitutio
 
 A challenge may trigger preservation of evidence, protective measures within independently lawful authority, and referral for competent review. The reviewer must distinguish an incomplete ordinary vote, a completed immutable decision, a separately lawful emergency effect and a subsequent host-system implementation event. Corrective or remedial consequences require their own lawful decision and execution states; they do not retroactively replace the original ballot event.
 
-Reporting and review interfaces must preserve privacy, contextual access controls, protection against retaliation, conflict separation and provenance. The exact independent review forum, protective-response mandate and cross-domain appeal procedure remain architecture to be designed where not already established.
+Reporting and review interfaces must preserve privacy, contextual access controls, protection against retaliation, conflict separation and provenance. The exact independent review forum, protective-response mandate, cross-domain appeal procedure, emergency degraded-action threshold, temporary protective-review interval and owner-level correction interfaces remain architecture to be designed where not already established. These unresolved implementation details do not suspend the existing protection of good-faith challenge or authorise an unbounded emergency response.
 
 ## 20.8 Chapter 20 Consistency Reconciliation — Challenge and Independent Correction
 
