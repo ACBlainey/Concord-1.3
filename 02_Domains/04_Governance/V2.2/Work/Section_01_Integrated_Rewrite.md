@@ -3478,7 +3478,7 @@ Recursive failure is particularly dangerous because attempted correction can mak
 
 Governance should therefore examine not only first-order effects but whether the response changes the architecture of future power, dependency or failure.
 
-**\[CONTINUES — §6.12 Catastrophic Failure, §6.13 Unknown Failure, and the remaining failure-response architecture.\]**
+
 
 ## 6.12 Catastrophic Failure
 
@@ -3918,13 +3918,13 @@ Model use should therefore preserve:
 - uncertainty;
 - and evidence of prior prediction performance.
 
-## 6.16 Chapter 6 Consistency Reconciliation — Failure Does Not Confer Control
+## 6.16 Failure Response, Independent Authority and Continuity
 
-Failure detection, diagnosis, containment, correction, learning and architectural revision are **distinct activities**, none of which inherently acquires governance authority. A failure label, audit result, risk metric, coordinating group, technical controller or emergency response team cannot displace an otherwise lawful steward or assume general regional governance. Containment or correction affecting rights, resources or systems requires its own lawful contextual authority at the action instant, within its actual purpose and scope.
+Detection, diagnosis, containment, correction, recording, learning and architectural revision are distinct activities. A failure report, risk indicator, audit finding or model prediction supplies evidence, not new authority. Any consequential response must identify the responsible lawful function, actual current conditions, affected rights, scope and independent act-time authorisation. Containment must remain proportionate to the observed threat and cannot become an unbounded standing takeover.
 
-Repeated failure may justify separately authorised review or reconsideration, but cannot automatically expand an incumbent's jurisdiction or create permanent supervisory power. Corrective action does not revoke or edit an earlier consumed ballot: where a new consequential decision is required, it is an independently constituted event with its own unique identity. The original failure and decision histories remain recoverable.
+Ordinary governance continues during failures, including while separately lawful emergency procedures respond to the specific emergency. A paused Civilisation Clock cannot delay independently authorised emergency reaction; recovery and reconciliation of the affected systems require independent state validation. A genuinely extreme existential crisis may require narrowly necessary interruption of affected ordinary functions, but the lawful threshold, competent issuer, protection of unaffected functions and restoration mechanism must be designed.
 
-An extreme existential crisis may exceptionally interrupt only those ordinary functions that cannot safely continue, under a separately designed lawful route; ordinary stewardship otherwise continues. The source Chapter 6 failure taxonomy and safeguards remain intact, including its unresolved implementation details.
+The failure response must preserve immutable decision records, evidence, causal uncertainty, protected reporting and independent review. Accountability for negligence, misconduct and consequences persists after the authority for a particular action has been consumed. Later corrective action needs a new lawful act; it cannot revise a committed ballot. Failure classification, owner interfaces and technical recovery rules require the relevant domain-specific mechanisms.
 
 # Chapter 7 — Good-Faith Error, Negligence and Misconduct
 
@@ -4232,29 +4232,23 @@ Where appropriate, good-faith self-reporting may be treated as evidence of const
 
 ## 7.12 Articulability, proportionate exercise and differentiated accountability
 
-**Incorporated source:** `Governance Operating Boundary and Authority Lifecycle — Source Resolution 001.md`, §§16–18. Consequential governance should articulate the precise question, mandate, evidence quality, alternatives, uncertainty, reasoning, rights effects, expected consequences and implementation responsibility. An AI or model recommendation is evidence or advice, not a transfer of authority. Having a lawful power does not justify maximal use: intervention and non-intervention are assessed against the legitimate purpose and reasonably sufficient, least-rights-intrusive options. Review must distinguish justified adverse outcomes, good-faith error, inadequate evidence, implementation failure, negligence, recklessness, conflict, corruption, deliberate misconduct, systemic failure and unforeseeable harm. Correction is not disloyalty, and an adverse outcome alone is not misconduct. **[LOCAL ISSUE:]** Consequence-specific review thresholds and remedy routes remain for domain owners.
+Consequential governance should articulate the precise question, mandate, evidence quality, alternatives, uncertainty, reasoning, rights effects, expected consequences and implementation responsibility. An AI or model recommendation is evidence or advice, not a transfer of authority. Having a lawful power does not justify maximal use: intervention and non-intervention are assessed against the legitimate purpose and reasonably sufficient, least-rights-intrusive options. Review must distinguish justified adverse outcomes, good-faith error, inadequate evidence, implementation failure, negligence, recklessness, conflict, corruption, deliberate misconduct, systemic failure and unforeseeable harm. Correction is not disloyalty, and an adverse outcome alone is not misconduct. **[LOCAL ISSUE:]** Consequence-specific review thresholds and remedy routes remain for domain owners.
 
 
 
-## 7.13 Chapter 7 Consistency Reconciliation — Accountability Without Authority Inheritance
+## 7.13 Accountability After Commitment
 
-Good-faith error, negligence, recklessness, misconduct, whistleblowing and correction remain distinct accountability categories. A finding of misconduct or a credible report is **evidence for lawful review**, not an authority source for a meeting, investigator, auditor, complainant or emergency actor. Investigation, protective measures, adjudication and remedies each require the appropriate separately constituted, bounded authority; a steward's earlier consumed decision authority cannot be reused to revise their committed ballot.
+Good-faith error, negligence, recklessness, conflicts of interest, deliberate misconduct, whistleblowing and protected correction remain distinct categories. The lawfulness of the original act, the reasonableness of its evidence and conduct, the resulting harm and the responsibility for subsequent remedy must be evaluated separately. An unfavourable outcome does not alone prove misconduct; good intentions do not excuse reckless or prohibited conduct.
 
-Responsibility and fiduciary accountability may persist after an act even though its particular contextual authority was consumed at commitment. Delegation and automation do not erase accountability, but neither do they automatically give a supposed “superior” standing power to intervene in unrelated decisions. The existing distinctions between reasonable error and culpable conduct remain operative; no automatic sanction or new procedural threshold is created by this reconciliation.
+Fiduciary accountability and duties of candour, reporting, review and remedy may continue after an authorised act has consumed its specific contextual authority. Delegation, automation and parallel advice do not erase responsibility, but neither do they automatically make an appointing or supervising steward liable for an independently committed act. Attribution follows actual instruction, competence, knowledge, duty, control and causal contribution.
 
-# Chapter 8 — Provisional Governance Invariants and Unresolved Foundations
+A credible report, audit finding or misconduct classification is grounds for separately lawful investigation or review, not an automatic authority to punish, remove, disclose protected information or reverse a committed ballot. Corrective action and any fresh decision require independent competent authority, current state conditions and preserved provenance. The competent Judiciary and other domain owners must specify investigation, evidentiary and remedy interfaces.
 
-## 8.1 Status of This Chapter
+# Chapter 8 — Governance Invariants and Unresolved Architectural Boundaries
 
-This chapter occupies a deliberately provisional position.
+## 8.1 Scope and Function of Governance Invariants
 
-Some of the constitutional invariants of Governance can already be identified from existing Concord material.
-
-Others may emerge or require revision after consolidation of Judiciary, Emergency, Continuity, KCS, Metrics, Roadway, Recursive Oversight and related systems.
-
-The purpose of this chapter is therefore not to invent missing doctrine merely to fill structural space.
-
-It records what can presently be stated with reasonable confidence and preserves unresolved questions for later recursion.
+This chapter states the Governance invariants that constrain lawful action, and identifies specific architectural interfaces that still require definition. An unresolved interface does not invalidate an established invariant or permit an institution to invent authority. Further work in Judiciary, Emergency, Continuity, KCS, Metrics, Roadway and Recursive Oversight must preserve these constraints unless a separately lawful constitutional change occurs.
 
 ## 8.2 Current Governance Invariants
 
@@ -4320,7 +4314,7 @@ Formal rights, formal authority and formal safeguards must be examined against t
 
 Governance cannot exempt itself from the principles it applies to other systems.
 
-### Restoration Addition — Invariant 16: Measurement Cannot Become Automatic Constitutional Judgement
+### Invariant 16: Measurement Cannot Become Automatic Constitutional Judgement
 
 Measurement may trigger:
 
@@ -4341,7 +4335,7 @@ not:
 
 unless a narrowly defined automatic mechanism has itself been constitutionally authorised and remains reviewable.
 
-### Restoration Addition — Invariant 17: Formal Authority and De Facto Authority Must Both Be Reviewable
+### Invariant 17: Formal Authority and De Facto Authority Must Both Be Reviewable
 
 Governance must examine:
 
@@ -4361,7 +4355,7 @@ A system may be formally constitutional while becoming practically dominated by:
 - credentialing bodies;
 - or other actors without formal sovereignty.
 
-### Restoration Addition — Invariant 18: Constitutional Restrictions Follow Delegated Authority
+### Invariant 18: Constitutional Restrictions Follow Delegated Authority
 
 A restriction does not disappear when authority is transferred.
 
@@ -4376,13 +4370,13 @@ Where a power is delegated through:
 
 the relevant constitutional constraint continues to apply.
 
-### Restoration Addition — Invariant 19: Operational Indispensability Does Not Create Sovereignty
+### Invariant 19: Operational Indispensability Does Not Create Sovereignty
 
 Dependency may justify resilience measures.
 
 It does not create constitutional ownership of the dependent system.
 
-### Restoration Addition — Invariant 20: Every Safeguard Remains Reviewable
+### Invariant 20: Every Safeguard Remains Reviewable
 
 Safeguards are constitutional mechanisms, not infallible objects.
 
@@ -4425,9 +4419,7 @@ An unresolved question should not disappear merely because later drafts become c
 
 Uncertainty is itself architectural information.
 
-A provisional mechanism may be preferable to no mechanism.
-
-But its provisional status should remain visible.
+A narrowly bounded interim mechanism may be used only where separately lawful and competent. Its scope, expiry, justification, rights protections and independent review must remain explicit.
 
 Where future systems resolve one of these questions, the Governance record should preserve:
 
@@ -4435,7 +4427,7 @@ Where future systems resolve one of these questions, the Governance record shoul
 - the new evidence or architecture;
 - what changed;
 - why it changed;
-- and whether the previous provisional mechanism remains historically relevant.
+- and the preserved provenance of the earlier mechanism.
 
 ### 8.3.2 Open Questions Are Not Constitutional Vacuums
 
@@ -4451,13 +4443,13 @@ An unresolved architectural question does not imply unlimited discretion.
 
 Existing constitutional constraints continue to apply.
 
-## 8.4 Chapter 8 Consistency Reconciliation — Invariants and Open Foundations
+## 8.4 Invariants Governing Act-Time Authority and Institutional Scope
 
-The listed invariants are retained. Their references to “delegated,” “bounded,” “reviewable” and “correctable” authority must be read with the **instantaneous, state-conditioned exercise and consumption** model: enduring roles and legitimate functions are prerequisites, not stored exercisable power. Correction and review operate through independently lawful later events and do not alter an immutable prior ballot.
+The preceding invariants bind both enduring institutional functions and particular consequential acts. A fiduciary role, office, appointment, delegation or technical credential establishes responsibilities and eligibility, not a reservoir of exercisable authority. A lawful act must satisfy the actual current state and defined scope, and consumes its authority in the committed transition. Later review and correction use new independently lawful events and preserve the original record.
 
-**Additional cross-chapter constraints:** no action, meeting or group acquires authority by existing; a GTP larger spatial scale is not a superior governance tier; larger-scale event composition and vote aggregation remain undecided; emergency authority coexists with ordinary stewardship without takeover except for a narrowly necessary interruption during a genuine existential crisis. No existing Chapter 8 invariant silently overrides these constraints.
+No meeting, group, expert system, metric, technical state machine or operational dependency can create authority by existing. The GTP mesh provides nonhierarchical spatial scales; a larger triangle is not an inherently superior political office. The constitution and aggregation of wider-scale decision events remain an identified design boundary. Emergency action is specific to the emergency and does not take over ordinary stewardship; only an extreme existential crisis may warrant narrowly necessary interruption of affected ordinary functions under a separately defined lawful mechanism.
 
-The chapter's historical heading and “provisional” development wording, and the unresolved questions in §8.3, are preserved for later explicit editorial resolution. Their presence does not itself suspend established governance rules or supply permission to invent missing architecture. Open technical and constitutional interfaces remain expressly open.
+The invariants constrain open implementation interfaces without implying that missing technical mechanisms have been completed. The responsible domain must define authentication, owner attestation, competent forum selection, review, expiry, rights protection and recovery where necessary. These gaps do not suspend the settled prohibitions against manufactured or unbounded authority.
 
 # Chapter 9 — Governance Process and Decision Architecture
 
@@ -4885,7 +4877,7 @@ The exact thresholds remain subject to further development through Governance, M
 
 ## 9.20 Decision Risk Should Affect Authority Level
 
-A provisional architecture is:
+Decision consequence classes guide the required evidentiary and procedural safeguards, without themselves creating superior political authority:
 
 **Routine**  
 Low consequence, reversible and clearly within established rules.  
@@ -4905,7 +4897,7 @@ Potential constitutional breach, existential risk, systemic instability or emerg
 
 The precise thresholds require later system integration.
 
-**\[CONTINUES — §9.21 Experimental Decisions onward. The next continuation preserves the detailed decision architecture, Predictive Brake, decision records, implementation, audit, review, versioning, judicial/emergency interaction and the remaining V1 operational procedure without compression.\]**
+
 
 ### 9.20.1 Lowest Competent Decision Level and GTP Spatial Escalation
 
@@ -5127,7 +5119,7 @@ Prediction is fallible.
 
 The brake should not become permanent merely because a model once identified risk.
 
-### 9.24.1 Restoration Addition — Predictive Brake as Preservation of Optionality
+### 9.24.1 Predictive Brake as Preservation of Optionality
 
 The Predictive Brake exists to preserve future optionality where continued movement may create irreversible or difficult-to-reverse harm.
 
@@ -5288,7 +5280,7 @@ It is to generate:
 
 If a satisfactory solution is found, the brake may be partially or fully released through appropriate governance procedure.
 
-### 9.25.1 Restoration Addition — Brake-to-Problem-Solving Sequence
+### 9.25.1 Brake-to-Problem-Solving Sequence
 
 A Predictive Brake should normally trigger active problem-solving rather than passive prohibition.
 
@@ -6018,7 +6010,7 @@ Default official voting isolation remains intact. Any separately authorised conf
 
 The exact technical state-machine guards, authority attestations and contextual-wrapper interfaces should be checked against their dedicated source architectures during subsequent V2.2 integration. This subsection does not replace those implementations or imply that an activity can generate its own authority.
 
-### 9.41.2 State-Conditioned Authority at the Commitment Instant — Source Cross-Check
+### 9.41.2 State-Conditioned Authority at the Commitment Instant
 
 **Source cross-check:** `V2.1/Completed/Glass_Hammer_Instantaneous_Authority_Correction_103.md`, `Glass_Hammer_State_Consumption_Clarification_104.md`, `Glass_Hammer_Architecture_Consolidation_and_Analogy_Boundary_121.md`, and `Governance Operating Boundary and Authority Lifecycle — Source Resolution 001.md` (also reviewed against the independent voting state-machine visual aid).
 
@@ -6663,7 +6655,7 @@ The following rules emerge as the current operational baseline:
 **Canonical means current, not final.**
 
 
-<!-- V2.1 INTEGRATION 2026-10-13: AUTHORIAL SOURCE RECONCILIATION; DEVELOPMENTAL; REVERSIBLE -->
+
 
 ## 9.53 Isolated Commitment and Contextual Conference
 
