@@ -6477,10 +6477,13 @@ A challenge to an expanded or cross-scale decision must be able to identify the 
 
 Parallel Steward observations and independently recorded shadow reasoning may supply review evidence, but do not become official ballots or confer appointment authority. Where a challenge alleges duplicate participation, invalid succession, vote-shopping, coercion or an unauthorised coordination hierarchy, preserve the provenance and refer the question to the competent independent review route. The detailed cross-domain referral and protective interfaces remain to be designed; this does not authorise unilateral replacement of a committed official vote.
 
-## 20.7 Protected correction, dissent and challenge during triadic governance
+## 20.7 Protected Correction, Dissent and Challenge During Triadic Governance
 
+Every Steward retains the right and duty to report suspected invalid constitution, compromised independence, coercion, inaccurate evidence or implementation outside a lawful mandate. Protected dissent and reporting must not expose another Steward's sealed official ballot, confer a second vote or authorise unilateral withdrawal of an already committed ballot. The official three-position voting and confidence record remains governed by Chapter 12.
 
+A challenge may trigger preservation of evidence, protective measures within independently lawful authority, and referral for competent review. The reviewer must distinguish an incomplete ordinary vote, a completed immutable decision, a separately lawful emergency effect and a subsequent host-system implementation event. Corrective or remedial consequences require their own lawful decision and execution states; they do not retroactively replace the original ballot event.
 
+Reporting and review interfaces must preserve privacy, contextual access controls, protection against retaliation, conflict separation and provenance. The exact independent review forum, protective-response mandate and cross-domain appeal procedure remain architecture to be designed where not already established.
 
 ## 20.8 Chapter 20 Consistency Reconciliation — Challenge and Independent Correction
 
