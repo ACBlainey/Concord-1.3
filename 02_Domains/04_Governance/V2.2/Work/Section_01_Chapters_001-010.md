@@ -5960,6 +5960,20 @@ Default official voting isolation remains intact. Any separately authorised conf
 
 The exact technical state-machine guards, authority attestations and contextual-wrapper interfaces should be checked against their dedicated source architectures during subsequent V2.2 integration. This subsection does not replace those implementations or imply that an activity can generate its own authority.
 
+### 9.41.2 State-Conditioned Authority at the Commitment Instant — Source Cross-Check
+
+**Source cross-check:** `V2.1/Completed/Glass_Hammer_Instantaneous_Authority_Correction_103.md`, `Glass_Hammer_State_Consumption_Clarification_104.md`, `Glass_Hammer_Architecture_Consolidation_and_Analogy_Boundary_121.md`, and `Governance Operating Boundary and Authority Lifecycle — Source Resolution 001.md` (also reviewed against the independent voting state-machine visual aid).
+
+The preceding references to authority being “available” or “already authorised” **must not be read as a continuously possessed grant, lease, balance, stored token or standing power**. Persistent features are the legitimate function, role, eligibility, competence, capability, procedures and evidence of prerequisites. The specific lawful contextual authority is determined **at the exact decision or authorised-act event**, conditioned on the authoritative current state and all applicable context guards. Its successful exercise changes that state and **consumes the event-specific authority**. An office, meeting, group, prior consent record or earlier successful action cannot supply a reusable authority reservoir.
+
+For an identified decision event and action, the implementation must verify the actual current state and relevant conditions, permit only the defined lawful transition, and atomically commit the new state with an immutable event record **within the authoritative state-machine boundary**. A duplicate request returns or reconciles the prior result rather than executing a second transition. **A different event identifier alone does not create a fresh legitimate enabling state**. Competing attempts must not both consume the same state. Technical one-use tokens, receipts, validity windows and ACKs are evidence, replay guards or reconciliation mechanisms, **not stored constitutional authority**.
+
+A decision-system transition does not prove that a separate external host has atomically executed a physical effect. The host must reconcile actual execution identity, uncertain outcomes and its own lawful act-time authority conditions; retry must not blindly repeat an unknown committed action. Subsequent consequential acts need their **own independently legitimate state and authority determination**, not inheritance from the vote.
+
+The three-room, locked-case, hammer and seventh-digit imagery is **explanatory only**, not a required physical or software controller design. The anonymous participation count discloses only how many distinct steward positions committed, never the content of their votes and never an extra enabling authority state.
+
+**Integration caution:** Earlier source descriptions of revocable “authority grants,” validity windows or check/commit leases may model *prerequisite evidence and technical controls*, not continuing authority. Preserve those passages for source reconciliation; do not promote the lease model into the operational authority semantics. The exact cross-system owner interfaces and external-effect atomicity limits require further design.
+
 ## 9.42 Unresolved Matters
 
 A matter should be recorded as unresolved where:
