@@ -65,11 +65,21 @@ This is a reference for integration and checking, **not** an independent grant o
 - The precise crisis threshold, lawful authorisation route, safeguards and restoration mechanism are **not yet determined**; retain these as open design questions rather than inventing powers.
 - Initial Section 01 integration: §9.40.3.
 
+
+## C08 — Meetings, groups and actions cannot acquire authority
+
+- **No meeting, action or group can acquire authority** through assembling, discussing, voting, reaching consensus, recording minutes, coordinating or acting.
+- Authority must be **separately and lawfully constituted**, contextual and bounded; it cannot emerge from the activity itself. Distinguish lawful exercise of an existing bounded authority from supposed acquisition of authority by an event.
+- Check the dedicated **bounded contextual authority** and **state-machine** architecture: lawful steward selection and decision-state guards do not mean that the meeting or state machine manufactures authority. Official voting consumes the bounded authority of the steward position at commitment.
+- Conference, emergency coordination, ordinary expanded voting and larger-GTP decision arrangements cannot create general or superior authority through aggregation or participation.
+- Apply **CAP ≠ PERM ≠ AUTH** and preserve separate execution-system authority.
+- Initial Section 01 integration: §9.41.1. Exact state-machine and authority source interfaces must be checked during further integration.
+
 ## Cross-section review procedure
 
 For **each** V2.2 section:
 
-1. Read the entire section and compare its relevant rules against **C01–C07**, including cross-references to other sections.
+1. Read the entire section and compare its relevant rules against **C01–C08**, including cross-references to other sections.
 2. Identify any missing clarification, inconsistent architecture, unintended implied hierarchy, unauthorised authority transfer, ambiguity or unresolved interface.
 3. Preserve existing text and conflicts; add the necessary clarification in the relevant numbered subsection without silently deleting or rewriting source passages.
 4. Do not convert undecided mechanisms into fixed rules. Record exactly what remains to be designed.
