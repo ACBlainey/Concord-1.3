@@ -75,11 +75,22 @@ This is a reference for integration and checking, **not** an independent grant o
 - Apply **CAP ≠ PERM ≠ AUTH** and preserve separate execution-system authority.
 - Initial Section 01 integration: §9.41.1. Exact state-machine and authority source interfaces must be checked during further integration.
 
+
+## C09 — Glass-hammer authority is instantaneous and state-conditioned
+
+- Source checks: `V2.1/Completed/Glass_Hammer_Instantaneous_Authority_Correction_103.md`, `Glass_Hammer_State_Consumption_Clarification_104.md`, `Glass_Hammer_Architecture_Consolidation_and_Analogy_Boundary_121.md` and `Governance Operating Boundary and Authority Lifecycle — Source Resolution 001.md`.
+- Persistent role, competence, function, capability, prerequisite evidence, validity windows and technical tokens are **not continuously held authority**. Contextual authority is determined and consumed **at the instant of the legitimate act** against the authoritative current state.
+- Successful action changes the enabling state and records an immutable event. Replaying the same request, or inventing a fresh event ID without a newly legitimate state, cannot recreate authority.
+- Distinguish local atomic state transitions from uncertain external host effects; ACKs and retries reconcile outcomes, not authority.
+- The room, hammer, lock and seventh-digit apparatus is an **analogy**, not an implementation specification.
+- Earlier lease/revocation formulations require source reconciliation, not silent promotion into operational authority semantics.
+- Initial Section 01 integration: §9.41.2.
+
 ## Cross-section review procedure
 
 For **each** V2.2 section:
 
-1. Read the entire section and compare its relevant rules against **C01–C08**, including cross-references to other sections.
+1. Read the entire section and compare its relevant rules against **C01–C09**, including cross-references to other sections.
 2. Identify any missing clarification, inconsistent architecture, unintended implied hierarchy, unauthorised authority transfer, ambiguity or unresolved interface.
 3. Preserve existing text and conflicts; add the necessary clarification in the relevant numbered subsection without silently deleting or rewriting source passages.
 4. Do not convert undecided mechanisms into fixed rules. Record exactly what remains to be designed.
