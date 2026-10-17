@@ -6471,12 +6471,7 @@ Institutions that suppress criticism in the name of unity may destroy their own 
 
 
 
----
-
-# V2.1 Working Annex — Chapter 12 Proposed Integration (Not Canonical)
-
-
-### 20.6.1 Challenge routes for expanded and cross-scale decisions
+### 20.6.1 Challenge Routes for Expanded and Cross-Scale Decisions
 
 A challenge to an expanded or cross-scale decision must be able to identify the originating decision event, participating constituent triads, lawful jurisdiction and mandate, official resultants, relevant recusal or substitution records, and any consequential host-system act. The challenge process must not treat an unresolved vote as a negative vote, pool nine constituent ballots into a single tally, or treat a larger GTP scale as superior jurisdiction. The substantive voting and coordination rules are in §§12.5–12.13 and 12.25; challenge and correction remain independently authorised acts under this chapter.
 
