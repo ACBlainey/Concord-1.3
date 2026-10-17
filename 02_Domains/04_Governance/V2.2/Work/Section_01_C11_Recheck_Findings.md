@@ -37,6 +37,23 @@ This is a working audit record, **not** an operational section. Compare the pres
 - **Possible internal Chapter 12 conflict to examine during Section 02 rewrite:** §12.9.0 states six incident-triangle node positions and independent offices, while §12.9.2 says “six-Steward node-to-office mapping ... remain unresolved”. Distinguish an already established conceptual GTP node-to-triangle mapping from any genuinely unbuilt implementation/eligibility interface. Do not erase the settled conceptual architecture.
 - **Open implementation boundary:** The §12.9.0a node-centred enumeration beyond the first two rings, irregular topology, deduplication, security and randomisation standards still require detailed design. The settled first two rings and bounded-position substitution must not be downgraded.
 
+## Cross-section reference and invariant pass — 17 October 2026
+
+**Method adopted:** Where a mechanism is defined outside the section being integrated, add a precise chapter/subsection pointer rather than duplicating the full mechanism. Preserve one authoritative operational explanation, and flag genuinely missing interfaces at their owning location. Working changes do not modify the published section.
+
+**Corrections committed:**
+- Chapter 8 invariants 1, 3, 5, 6, 13 and 18 now distinguish ongoing institutional responsibility and delegation from instantaneous state-conditioned act authority, and independently lawful subsequent correction from retrospective ballot alteration.
+- Chapter 8 §8.3 now identifies Chapter 12 §§12.9.0a and 12.9.1–12.9.5 as already-established alternate and expanded-triad procedures, while leaving the distinct wider-GTP-scale event composition under Chapter 9 §9.20.3 genuinely open.
+- Chapter 2 §2.4 no longer says a wider forum “should intervene” automatically when local competence is insufficient. It instead identifies separately competent lawful routes and points to Chapters 9 and 12.
+
+**Preservation classification, first subset:**
+- The old Chapter 1 appended §1.24 numbered reconciliation points are *editorial/precedence commentary*, not independently operative rules. Their underlying act-time authority, bounded delegation, nonhierarchical GTP, emergency continuity and no-authority-by-coordination constraints survive in Chapters 1, 2, 8 and 9. Still inspect for individual source-level details not present in the rewrite.
+- The old Chapter 9 continuation markers and source cross-check annotations are *provenance/editorial residue*, not missing operative mechanisms.
+- The old Chapter 9 delegated-voter and higher-layer-approval formulations are *superseded conflicts*; replacements are recorded in Chapter 9 and Chapter 2 §2.4.
+- The old Chapter 10 source-completeness note is *audit evidence*, not an operative rule. Its unresolved original continuation remains an explicit Work audit question.
+
+**Further checks:** Finish paragraph-by-paragraph coverage classification, examine Chapter 1–7 integrated material for retained conflicting wording, and identify any genuine authorial choices rather than promoting editorial ambiguity to operational law.
+
 ## Publication gate
 
 Do not overwrite the published Section 01 until the chapter-by-chapter contradiction scan, full substantive preservation comparison and remaining authorial-decision log have been reviewed. Unbuilt implementation architecture may remain as precise boundaries.
