@@ -1010,7 +1010,7 @@ It does not define intrinsic constitutional worth.
 
 ## 1.9.4 Capability Is Not Authority
 
-Governance V2 generalises another Concord principle:
+The constitutional rule is:
 
 **Capability may justify responsibility appropriate to that capability, but capability alone does not establish authority over others.**
 
@@ -1276,7 +1276,7 @@ If an economic institution formally “advises” but can destroy the system if 
 
 If a metric formally “informs” but funding, rights or access automatically follow its score, the metric may have become an authority mechanism.
 
-Governance V2 therefore establishes:
+Governance establishes:
 
 **Where practical influence becomes functionally equivalent to governance power, constitutional review should examine the practical effect rather than relying only upon formal labels.**
 
@@ -1324,7 +1324,7 @@ Civilisation may become dependent upon systems providing:
 
 Dependency may create leverage.
 
-Governance V2 therefore establishes:
+Governance establishes:
 
 **Operational indispensability does not create constitutional sovereignty.**
 
@@ -2205,7 +2205,7 @@ An official decision-state transition and its external implementation are differ
 
 Subsequent development of Ratchet, AI participation architecture and wider Concord systems has made it increasingly important to distinguish several dimensions that historical political systems often combine.
 
-Governance V2 therefore distinguishes:
+Governance distinguishes:
 
 1.  **Constitutional Standing**
 2.  **Participation**
@@ -2282,7 +2282,7 @@ Contribution does not automatically establish:
 - authority;
 - or sovereignty.
 
-**\[CONTINUES — Section 3.5 onward. The preservation baseline remains controlling and no source material has been abridged.\]**
+
 
 ## 3.5 Trust and Reputation
 
@@ -2376,7 +2376,7 @@ A lawful delegated mandate defines an eligible bounded decision function, not an
 
 ## 4.1 The General Principle
 
-Governance V2 adopts:
+Governance adopts:
 
 **Influence may inform an independently lawful decision, but neither influence nor delegation creates exercisable authority absent the specific constitutional mandate and act-time state conditions.**
 
@@ -2999,7 +2999,7 @@ It is to make failure:
 
 ### 6.1.1 Failure Taxonomy
 
-Governance V2 uses the wider Concord failure taxonomy as an explicit diagnostic framework:
+Governance uses the following failure taxonomy as a diagnostic framework:
 
 1.  **Individual Failure**
 2.  **Group Failure**
@@ -3555,7 +3555,7 @@ and
 
 Some failures will not fit existing categories.
 
-Governance V2 explicitly recognises:
+Governance recognises:
 
 **Absence of a predefined failure category does not imply constitutional acceptability.**
 
@@ -4875,7 +4875,7 @@ Decisions requiring accelerated procedure under defined emergency authority.
 
 The exact thresholds remain subject to further development through Governance, Metrics, Judiciary and Constitutional Emergency.
 
-## 9.20 Decision Risk Should Affect Authority Level
+## 9.20 Decision Risk Determines Evidentiary and Procedural Safeguards
 
 Decision consequence classes guide the required evidentiary and procedural safeguards, without themselves creating superior political authority:
 
@@ -4889,11 +4889,11 @@ Material consequence but within established authority.
 
 **High consequence**  
 Large resource commitment, significant population impact, irreversible effects or substantial constitutional implications.  
-→ Wider consultation, enhanced analysis and/or higher-layer approval.
+→ Wider consultation and enhanced analysis, followed where necessary by a separately constituted decision at the lowest competent GTP spatial scale or by the appropriate independent constitutional or domain-specific review. No standing higher-layer political approval is created.
 
 **Exceptional**  
 Potential constitutional breach, existential risk, systemic instability or emergency condition.  
-→ Mandatory escalation or specialised constitutional process.
+→ Independently competent constitutional, judicial or emergency procedure where the defined lawful conditions apply; exceptional risk alone does not create an additional authority tier.
 
 The precise thresholds require later system integration.
 
@@ -6008,11 +6008,11 @@ For a triadic vote, the state machine enforces the lawful constitution of three 
 
 Default official voting isolation remains intact. Any separately authorised conference is an information-exchange condition, not an authority-creating event; it neither creates extra votes nor permits disclosure or amendment of committed official ballots. Ordinary expanded voting, larger-GTP-scale decision events and emergency coordination are equally subject to their **own separately constituted, contextual, bounded authority**; aggregation, spatial coverage and emergency activation do not manufacture a superior jurisdiction.
 
-The exact technical state-machine guards, authority attestations and contextual-wrapper interfaces should be checked against their dedicated source architectures during subsequent V2.2 integration. This subsection does not replace those implementations or imply that an activity can generate its own authority.
+The responsible system owners must specify exact state-machine guards, authority attestations and contextual-wrapper interfaces. These technical boundaries cannot confer authority through an activity's mere occurrence.
 
 ### 9.41.2 State-Conditioned Authority at the Commitment Instant
 
-**Source cross-check:** `V2.1/Completed/Glass_Hammer_Instantaneous_Authority_Correction_103.md`, `Glass_Hammer_State_Consumption_Clarification_104.md`, `Glass_Hammer_Architecture_Consolidation_and_Analogy_Boundary_121.md`, and `Governance Operating Boundary and Authority Lifecycle — Source Resolution 001.md` (also reviewed against the independent voting state-machine visual aid).
+
 
 The preceding references to authority being “available” or “already authorised” **must not be read as a continuously possessed grant, lease, balance, stored token or standing power**. Persistent features are the legitimate function, role, eligibility, competence, capability, procedures and evidence of prerequisites. The specific lawful contextual authority is determined **at the exact decision or authorised-act event**, conditioned on the authoritative current state and all applicable context guards. Its successful exercise changes that state and **consumes the event-specific authority**. An office, meeting, group, prior consent record or earlier successful action cannot supply a reusable authority reservoir.
 
@@ -6022,7 +6022,7 @@ A decision-system transition does not prove that a separate external host has at
 
 The three-room, locked-case, hammer and seventh-digit imagery is **explanatory only**, not a required physical or software controller design. The anonymous participation count discloses only how many distinct steward positions committed, never the content of their votes and never an extra enabling authority state.
 
-**Integration caution:** Earlier source descriptions of revocable “authority grants,” validity windows or check/commit leases may model *prerequisite evidence and technical controls*, not continuing authority. Preserve those passages for source reconciliation; do not promote the lease model into the operational authority semantics. The exact cross-system owner interfaces and external-effect atomicity limits require further design.
+Revocable technical grants, validity windows and check/commit leases are prerequisite evidence and technical controls, not continuing constitutional authority. They must not create a reusable power token or override the current lawful state. Exact cross-system owner interfaces and external-effect atomicity limits require further design.
 
 ## 9.42 Unresolved Matters
 
