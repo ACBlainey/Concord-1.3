@@ -560,6 +560,8 @@ The detailed triadic architecture is operative in Governance. Cross-domain inter
 
 ## 12.2 The Normal Triad
 
+**The triad as one decision-making office.** In conventional hierarchical governance, a particular decision-making office may be occupied by one mayor, governor or other official. The Concord divides the equivalent decision function among three Stewards. Together they constitute a single abstract decision-making unit, not three independent offices each possessing the whole authority. The division does **not** triple the office's authority, create three separate sovereign powers or multiply its voting weight. Each Steward contributes one independent official ballot to the one triadic decision. All three lawfully selected positions and, ordinarily, all three committed ballots are required for a complete valid decision. Only a separately lawful emergency or time-critical procedure may act on the mathematically decisive two matching ballots before the third arrives; this does not enlarge the triad's authority or remove the third position. This conceptual explanation is stated here once; the detailed state and ballot rules remain in the operative provisions of this chapter.
+
 The fundamental Governance V1 decision unit is a three-steward triad.
 
 The normal structure is a triangle, with each steward possessing one decision position.
