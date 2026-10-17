@@ -1,7 +1,5 @@
 # Governance V2.2 — Section 01 — Chapters 001–010
 
-**V2.2 consolidated Section 01.** All inherited chapter text, integration additions, consistency reconciliations and identified unresolved issues are preserved. Historical V2.1 draft labels within inherited material are retained as provenance, not as a statement of this section's version.
-
 # Chapter 1 — The Philosophy of Stewardship
 
 ## 1.1 Introduction: Governance as a Constitutional Trust
