@@ -1400,7 +1400,7 @@ The enduring rule remains:
 > **Use the lowest competent architecture capable of resolving the actual problem.**
 
 
-**Consolidated cross-reference:** The Chapter 12 rules for independent ballots, two-matching-vote determinacy, contextual conference, expanded constituent resultants and one-position GTP substitution are specified in §§12.0–12.9. The node vocabulary and provisional outer-ring candidate selection are specified in §§12.9.0–12.9.0a and Chapter 132. **Architecture to be designed — cross-forum verification:** Remaining checks concern independent forum constitution, position return, origin-included participant uniqueness, disclosure boundaries and host commitment—without relaxing three-holder constitution or committed-ballot finality.
+**Applicable governance rules:** Independent ballots, two-matching-vote determinacy, contextual conference, expanded constituent resultants and one-position GTP substitution are governed by §§12.0–12.9. Node terminology and outer-ring candidate-selection boundaries are governed by §§12.9.0–12.9.0a and Chapter 132. **Architecture to be designed — cross-forum verification:** Remaining checks concern independent forum constitution, position return, origin-included participant uniqueness, disclosure boundaries and host commitment—without relaxing three-holder constitution or committed-ballot finality.
 
 ## 12.26 Governance operating cycle and Steward mandate lifecycle
 
