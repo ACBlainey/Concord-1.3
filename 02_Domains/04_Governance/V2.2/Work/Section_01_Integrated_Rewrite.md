@@ -4453,11 +4453,6 @@ The invariants constrain open implementation interfaces without implying that mi
 
 # Chapter 9 — Governance Process and Decision Architecture
 
-### 9.0a Steward abstention, nonparticipation and legitimate substitution
-
-A Steward's **insufficient-information abstention** identifies a need for further evidence, not a vacant office or authority to install a replacement voter. A material **conflict-of-interest recusal** may establish a decision-specific unavailable position, but any substitute requires a separately lawful vacancy finding, independently valid appointment and the complete decision-event identity and conflict checks. Temporary absence, incapacity, authentication failure, recusal, abstention and a substantive Against ballot are different states and must not be silently exchanged. Where two independently valid official For or Against ballots match, the mathematical majority is determined even if a third ballot remains outstanding; ordinary effect is barred until all three official ballots arrive. Separately authorised emergency action may proceed after two matching ballots; procedural validity, effective time and host implementation remain separately gated. A third Steward's later valid ballot may complete the record but cannot revoke a committed ballot or change the determined majority. A substitute occupies the original bounded position, never a fourth vote. Governance must preserve protected deliberation, independent review and attributable records without treating an appeal or concern as retroactive vote withdrawal.
-
-
 ## 9.1 Introduction
 
 The philosophical principles of stewardship are insufficient unless they can be translated into operational governance.
@@ -4657,7 +4652,7 @@ AI assistance should be appropriately recorded where it materially affects signi
 
 The use of AI does not remove human or institutional accountability merely because the output was machine-generated.
 
-Where an AI itself possesses explicitly delegated authority in a future constitutional architecture, that authority should be defined separately rather than inferred from analytical use.
+Any AI consequential action requires a separately legitimate eligible function and its own lawful current-state authorisation. Analytical assistance, model capability and repeated successful recommendations do not create a governance ballot or authority.
 
 ## 9.10 Deliberation
 
@@ -4821,6 +4816,11 @@ Potential conflicts may include:
 - or another circumstance capable of materially compromising impartial judgement.
 
 Where appropriate, the steward should recuse themselves.
+
+### 9.17.1 Distinguishing abstention, absence and substitution
+
+A Steward's **insufficient-information abstention** identifies a need for further evidence, not a vacant office or authority to install a replacement voter. A material **conflict-of-interest recusal** may establish a decision-specific unavailable position, but any substitute requires a separately lawful vacancy finding, independently valid appointment and the complete decision-event identity and conflict checks. Temporary absence, incapacity, authentication failure, recusal, abstention and a substantive Against ballot are different states and must not be silently exchanged. Where two independently valid official For or Against ballots match, the mathematical majority is determined even if a third ballot remains outstanding; ordinary effect is barred until all three official ballots arrive. Separately authorised emergency action may proceed after two matching ballots; procedural validity, effective time and host implementation remain separately gated. A third Steward's later valid ballot may complete the record but cannot revoke a committed ballot or change the determined majority. A substitute occupies the original bounded position, never a fourth vote. Governance must preserve protected deliberation, independent review and attributable records without treating an appeal or concern as retroactive vote withdrawal.
+
 
 ## 9.18 Recusal
 
@@ -5910,7 +5910,7 @@ It does not eliminate:
 - audit;
 - or eventual post-event review.
 
-The detailed Emergency material remains later in this document pending comparison with the dedicated Emergency architecture.
+Emergency procedures are governed by the dedicated constitutional emergency architecture, with the specific triadic and continuity constraints below. Where emergency owner-system interfaces remain undefined, they require explicit design and do not confer general emergency authority.
 
 The governing principle remains:
 
@@ -6657,7 +6657,7 @@ The following rules govern ordinary operation:
 
 
 
-## 9.53 Isolated Commitment, Contextual Conference and Triadic Decision Procedure
+## 9.53 Consolidated Triadic Voting Conditions
 
 ### 9.53.1 Constitutional purpose and limits of triadic reasoning
 
