@@ -915,7 +915,7 @@ A matter may require referral to a separately competent forum or exceptional coo
 - infrastructure risk becomes civilisation-wide;
 - or an emergency exceeds local capacity.
 
-The referral record must identify the specific limitation of the originating forum and why the proposed receiving forum is competent.
+The referral record must identify the specific limitation of the originating forum and why the proposed receiving forum is competent. Exceptional referral, reconstitution or recursive expansion must not be repeated merely to seek a preferred vote outcome. Each proposed change of forum must have an independently legitimate reason, bounded stopping rule, conflict and duplicate-participation controls, expiry and auditable provenance; **no expansion-until-approval** is permitted.
 
 A wider spatial or cross-domain forum does not inherit superior jurisdiction merely because the matter was escalated. Any resulting decision requires its own competent mandate, lawfully constituted decision procedure and bounded act-time authority. Coordination may expand the decision field without transferring the originating forum's authority.
 
