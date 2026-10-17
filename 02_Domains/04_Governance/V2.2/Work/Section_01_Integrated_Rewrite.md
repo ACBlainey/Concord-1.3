@@ -2564,21 +2564,11 @@ Governance should therefore examine practical reality rather than relying only u
 
 ## 5.2 The Practical Exercise Principle
 
-Governance V2 establishes:
-
-**A formally available constitutional protection is weakened where exercising it is made practically impossible through avoidable dependency, retaliation, information asymmetry, resource denial, technical lock-in or disproportionate penalty.**
+**A formally available constitutional protection is weakened where its practical exercise becomes impossible or prohibitively difficult through dependency, retaliation, information asymmetry, resource denial, institutional or technological lock-in, inaccessible procedure or disproportionate penalty.**
 
 This does not mean every right must be effortless.
 
 It means the system should not pretend a right remains meaningful when architecture has made its exercise functionally impossible.
-
-### Restoration Addition — The Practical Exercise Doctrine
-
-The source-survival audit of Governance V1 and the later Ratchet-derived examination showed that the practical-right principle requires a broader formulation than technical availability alone.
-
-Governance therefore additionally recognises the following doctrine:
-
-> **A formal right is constitutionally weakened where its practical exercise becomes impossible or prohibitively difficult through dependency, retaliation, information asymmetry, resource denial, institutional lock-in, technological barriers, inaccessible procedure or disproportionate penalty.**
 
 The distinction between a right existing **in law** and a right existing **in practice** must remain visible throughout the Governance architecture.
 
@@ -2720,7 +2710,7 @@ A system cannot credibly rely upon consent where refusal produces disproportiona
 
 ### 5.3.1 Existence Is Not a Debt to the System
 
-The Ratchet consolidation identified a principle that also has direct Governance relevance:
+The constitutional principle is:
 
 > **Existence is not a debt to the system.**
 
@@ -2961,13 +2951,15 @@ Qualitative evidence may be essential.
 
 The purpose is to detect divergence between constitutional text and lived constitutional reality.
 
-## 5.6 Chapter 5 Consistency Reconciliation — Practical Rights and Bounded Action
+## 5.6 Practical Rights, Lawful Remedies and Bounded Intervention
 
-Practical constitutional rights are not extinguished by procedural availability, administrative convenience, dependency or an emergency declaration. Consent, exit, access, review and remedies must remain practically exercisable where constitutionally applicable; participation in a process or attendance at a meeting does not by itself surrender rights or create authority over another participant.
+The practical exercise of a constitutional right is assessed by its real availability, accessibility and effective remedy, not solely by whether a nominal mechanism exists. A person may require information, assistance, protected reporting, portability, alternative access channels, safeguards against retaliation or independently lawful review to make a right meaningful. These protections do not automatically confer a power to override another participant's rights or to bypass legitimate evidence and procedural requirements.
 
-Any governance response intended to protect or restore a practical right requires its own lawful contextual authority. Neither a perceived rights deficit nor an asserted benevolent objective creates an unrestricted intervention power. Emergency action is limited to the emergency; only a genuinely extreme existential crisis may justify narrowly necessary interruption of affected ordinary governance functions, without automatic transfer of sovereignty.
+A detected rights barrier is evidence requiring assessment and, where justified, a lawful remedy. It does not itself empower an observer, auditor, service provider, steward, committee or automated system to intervene. Every consequential protective or corrective act must have a competent lawful purpose, proportionate scope, actual enabling state and accountable implementation. Its authority is consumed at commitment; the rights protection and subsequent accountability persist.
 
-The existing Chapter 5 rights and review architecture is preserved. Specific rights-remedy owner interfaces and crisis constraints must be resolved in their competent domains rather than inferred from this consistency note.
+A later remedy may lawfully alter future operation, restore access or address harm, but cannot retroactively rewrite a committed official ballot. Judicial and constitutional review remain distinct from governance execution. Rights constraints apply equally to ordinary and emergency actions; a genuine emergency cannot become a general exemption from practical rights.
+
+**Implementation boundaries:** The competent domains must specify concrete accessibility standards, protected challenge channels, remedy execution, evidence access, rights balancing and host-system interfaces where not already defined. Absence of a specific technical mechanism does not suspend the established constitutional duty to protect practical exercise.
 
 # Chapter 6 — Governance Failure as a Constitutional Problem
 
