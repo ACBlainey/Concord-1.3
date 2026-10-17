@@ -1546,7 +1546,7 @@ It requires preservation of the constitutional chain through which authority was
 
 ## 1.23 Functional authority justification and inherent sunset
 
-**Incorporated source:** `Governance Operating Boundary and Authority Lifecycle — Source Resolution 001.md`, §§2–13, 21–22. Governance exists to perform legitimate civil functions, not perpetuate its institutions. The justification chain is **observed condition → rights-relevant problem → legitimate objective → required function → demonstrated need for special authority → minimum sufficient capability and proportionate authority → bounded contextual exercise**. Existing office, expertise, selection, reputation, popularity or a declared function does not establish necessity. A legitimate function may instead be discharged through information, ordinary consent, voluntary cooperation or interoperability without coercive authority. **Minimum necessary does not mean minimum possible:** under-capability can fail the legitimate function; excess creates unnecessary power. CAP ≠ PERM ≠ AUTH. Authority is a contextual envelope of actor, purpose, action, object, spatial and informational scope, activation, time, delegation, review and provenance—not a general Boolean permission. **Function ends → solely function-derived authority ends**, absent a separately justified successor function. Context changes trigger re-evaluation; successor authority is not automatic inheritance. Delegation cannot exceed the legitimate delegable grant. Routine pre-legitimated functions may use low-friction authorisation; consequential and irreversible actions require stronger evidence, independence and review. **Implementation boundary:** The responsible domain must define the exact owner attestations and threshold parameters for its consequential acts.
+Governance exists to perform legitimate civil functions, not perpetuate its institutions. The justification chain is **observed condition → rights-relevant problem → legitimate objective → required function → demonstrated need for special authority → minimum sufficient capability and proportionate authority → bounded contextual exercise**. Existing office, expertise, selection, reputation, popularity or a declared function does not establish necessity. A legitimate function may instead be discharged through information, ordinary consent, voluntary cooperation or interoperability without coercive authority. **Minimum necessary does not mean minimum possible:** under-capability can fail the legitimate function; excess creates unnecessary power. CAP ≠ PERM ≠ AUTH. Authority is a contextual envelope of actor, purpose, action, object, spatial and informational scope, activation, time, delegation, review and provenance—not a general Boolean permission. **Function ends → solely function-derived authority ends**, absent a separately justified successor function. Context changes trigger re-evaluation; successor authority is not automatic inheritance. Delegation cannot exceed the legitimate delegable grant. Routine pre-legitimated functions may use low-friction authorisation; consequential and irreversible actions require stronger evidence, independence and review. **Implementation boundary:** The responsible domain must define the exact owner attestations and threshold parameters for its consequential acts.
 
 
 
@@ -1731,21 +1731,21 @@ Domain matters should be addressed by the appropriate stewardship domain.
 
 Cross-domain matters should be coordinated between relevant stewards.
 
-Constitutional matters should escalate to constitutional review.
+Constitutional matters require the separately competent constitutional review route; they do not become subject to a superior GTP office merely by affecting a wider area.
 
 Existential or civilisation-wide emergencies should activate appropriate emergency mechanisms.
 
-Higher authority should not intervene merely because it possesses greater authority.
+A wider GTP spatial forum or differently competent institution cannot intervene merely because of scale, resources, influence or claimed superior authority.
 
 It should intervene where the lower level:
 
 - lacks sufficient competence;
-- lacks sufficient authority;
+- lacks lawful competence or contextual eligibility for the particular act;
 - creates consequences beyond its jurisdiction;
 - cannot resolve a conflict;
 - affects constitutional rights;
 - creates systemic risk;
-- or encounters a matter explicitly requiring higher review.
+- or encounters a matter reserved to independently competent constitutional or judicial review.
 
 This principle protects both autonomy and efficiency.
 
@@ -1753,7 +1753,7 @@ Centralisation should be treated as a response to demonstrated coordination prob
 
 ## 2.5 Decision Authority
 
-Every significant decision should have a clearly identifiable responsible authority.
+Every significant decision must identify the responsible lawful function, selected decision actors, actual enabling context and state, and the precise authority consumed at the consequential decision transition.
 
 The responsible steward should be able to answer:
 
@@ -1808,7 +1808,7 @@ A steward may delegate operational responsibilities where doing so improves:
 Delegation should specify where relevant:
 
 - the responsibility delegated;
-- the authority granted;
+- the eligible lawful functions and conditions for each consequential act;
 - the limits of that authority;
 - the recipient;
 - jurisdiction;
@@ -1817,11 +1817,9 @@ Delegation should specify where relevant:
 - reporting requirements;
 - review mechanisms;
 - escalation conditions;
-- and circumstances requiring return or termination of authority.
+- and the conditions under which the mandate, eligibility or function terminates or must be reconsidered.
 
-Delegation transfers defined authority.
-
-It does not transfer unlimited personal discretion.
+Delegation assigns defined responsibilities, eligible functions and bounded conditions. It does not transfer a reusable stock of authority or unlimited personal discretion. Every consequential delegated act requires its own current lawful contextual state, and its authority is consumed at commitment.
 
 Delegation does not automatically transfer ultimate constitutional responsibility.
 
@@ -1837,7 +1835,7 @@ A steward cannot make an unlawful or unconstitutional action lawful merely by ou
 
 ## 2.7 Automated Delegation
 
-Authority may eventually be delegated to automated systems.
+Automated systems may perform constitutionally bounded functions where separately lawful mandates and act-time authorisation permit. Technical capability, scheduling, previous approval and possession of credentials do not independently supply authority.
 
 Automation can improve:
 
@@ -1854,7 +1852,7 @@ It also introduces additional risks.
 Where an automated process materially exercises delegated authority, Governance should identify:
 
 - who authorised it;
-- what authority was delegated;
+- which eligible function, lawful source, scope and state conditions permit each automated consequential act;
 - what rules govern it;
 - what data it relies upon;
 - what conditions trigger review;
@@ -2063,11 +2061,11 @@ An AI output is not a decision.
 
 A metric threshold is not necessarily a decision.
 
-A governance decision occurs when the constitutionally authorised process creates or preserves an authorised state.
+A governance decision occurs through the lawfully constituted and state-conditioned decision process. Each official consequential ballot is an independently authenticated, immutable, single-use transition whose act-specific authority is consumed at commitment. Ordinary triadic outcome completion requires all three official positions; a mathematical two-position majority alone is not ordinary completion. Separately authorised emergency action may proceed after two matching official positions within its own strict scope.
 
 ## 2.15 Implementation
 
-Implementation should not silently rewrite the original decision.
+Implementation must not silently rewrite the original decision or its committed official ballots. The affected executing system must independently verify its own lawful act-time conditions and reconcile the actual execution outcome; a decision record is not an unrestricted command to external systems.
 
 Where implementation reveals:
 
@@ -2078,7 +2076,7 @@ Where implementation reveals:
 - dependency;
 - legal conflict;
 - changed evidence;
-- or need for substantive additional authority,
+- or need for a new separately lawful consequential decision,
 
 the matter should return to the Governance process.
 
@@ -2128,7 +2126,7 @@ Review should ask:
 - Did new evidence emerge?
 - Did minority concerns prove relevant?
 - Did implementation remain within authority?
-- Should the decision continue?
+- Does the continuing policy or activity remain justified, and is a separately lawful new decision required to change its future operation?
 - Should it be modified?
 - Should it be reversed?
 - Should it be escalated?
@@ -2189,17 +2187,17 @@ Governance must therefore preserve a category for:
 
 The absence of an existing rule for a problem does not make the problem constitutionally irrelevant.
 
-## 2.20 Chapter 2 Consistency Reconciliation — Decision Process and Authorisation
+## 2.20 Constitutional Decision and Execution Boundaries
 
-Chapter 2's process, delegation and implementation rules are retained. The following resolves their interpretation against the V2.2 clarifications.
+A governance protocol supplies a defined process for lawful decision-making, not an independent source of political authority. The constitution, lawful functional mandate, selected decision participants, current decision state and the relevant rights constraints govern every consequential act. Eligibility, office, appointment and delegation remain distinct from act-time authority; **CAP ≠ PERM ≠ AUTH**.
 
-- **Competence is not superior jurisdiction (§2.4):** References to “higher authority” and intervention by a higher level do not create a chain of command. A wider GTP spatial decision is a separate bounded event only where the ordinary competent scope is insufficient; the steward composition and vote aggregation for that event remain undecided. Constitutional review, domain coordination and emergency action are different functions, not interchangeable escalation routes.
-- **Authority is not transferred as an enduring asset (§§2.5–2.7):** References to “authority granted,” “delegation transfers defined authority,” and automated systems exercising delegated authority describe authorised responsibilities, eligibility, context and operating constraints. They do not establish continuously possessed authority. Each consequential decision or automated act must satisfy the current lawful contextual state at its own commitment instant. CAP ≠ PERM ≠ AUTH. Automation cannot generate or inherit authority through capability, scheduling or prior approvals.
-- **Deliberation and parallel reasoning do not create voting power (§§2.12–2.14):** Independent analysis, discussion and minority positions remain valuable evidence. Official triadic ballots are independently committed in default isolation. Conference is allowed only where separately context-authorised and cannot confer authority or expose committed votes for amendment. A meeting or agreement is not itself an authorised decision.
-- **Decision and execution are distinct transitions (§§2.14–2.15):** A valid decision-state transition consumes its event-specific authority. Execution by an affected system must satisfy its own contextual conditions; operational discretion is not a blank policy mandate. Review, appeal or correction of a committed decision requires a new independently authorised event, not editing its original ballot or record.
-- **Emergency is not takeover (§2.4):** Emergency mechanisms address the emergency only and coexist with ordinary governance, subject to the exceptional existential-crisis boundary in §9.40.3.
+The lowest competent GTP spatial scale is the default. Where the actual decision field exceeds its competence, a separately constituted wider-scale event may be needed, without creating a hierarchy of offices. Constitutional review, judicial review, functional coordination and emergency procedure have distinct lawful purposes; none is an automatic substitute for the others. The composition and aggregation of larger-scale decision events remain to be designed.
 
-**Open design interfaces:** Domain coordination, constitutional review routing, automated act-time checks and external execution reconciliation require owner-system detail. No new authority mechanism is conferred here.
+Independent parallel analysis and deliberation provide evidence, not additional votes. Official triadic voting defaults to isolated individual commitment; a conference requires separate contextual authorisation and cannot expose committed choices for alteration. Meetings, group agreement and advisory consensus cannot manufacture authority.
+
+An official decision-state transition and its external implementation are different acts. Each requires the appropriate lawful state and scope. A committed ballot is immutable; subsequent review, appeal or correction requires a new independently authorised event, with a linked record rather than modification of the original. Ordinary triadic completion requires all three official ballots, even where two matching ballots already establish the mathematical majority. Emergency two-ballot action requires separate lawful emergency conditions and does not displace unaffected ordinary governance.
+
+**Implementation boundaries:** Domain referral, constitutional review routing, automated act-time checks, independently lawful host execution and cross-system reconciliation require precise owner-system interfaces. No missing technical interface supplies permission to bypass the established constitutional constraints.
 
 # Chapter 3 — Constitutional Standing, Participation and Authority
 
@@ -2368,11 +2366,11 @@ The Concord should therefore resist the temptation to represent all status throu
 
 Different constitutional dimensions should remain distinct.
 
-## 3.9 Chapter 3 Consistency Reconciliation — Standing Is Not Act-Time Authority
+## 3.9 Standing, Eligibility and Act-Time Authority
 
-The standing, participation, contribution, reputation and capability distinctions in Chapter 3 are retained. The phrase “delegated authority is the constitutionally recognised ability” in §3.7 identifies an **eligible bounded decision function**, not a persistent stock of authority held by a participant or office. The actual exercise must be justified and state-conditioned at the particular action instant, then consumed. Eligibility, voting rights, appointment, consent, reputation, AI capability and technical access are neither interchangeable nor independently sufficient to authorise an act (CAP ≠ PERM ≠ AUTH).
+Constitutional standing, participation, contribution, trust, reputation, capability, appointment, voting eligibility, consent, technical access and lawful decision authority are distinct dimensions. Standing does not automatically confer authorship or governance authority. Participation in a discussion or parallel analysis does not grant an official ballot; collective participation cannot create group sovereignty. Conversely, limited stewardship eligibility does not reduce a participant's independently protected rights.
 
-Standing does not automatically confer authorship or decision authority; participation does not automatically confer an official ballot; collective participation does not produce group sovereignty. Conversely, limited stewardship authority does not diminish a participant's separately protected rights or standing. Each distinction remains independently reviewable. Chapter 3 requires no newly invented eligibility or participation thresholds.
+A lawful delegated mandate defines an eligible bounded decision function, not an enduring stock of power. The actual consequential act must satisfy the relevant current constitutional state, scope and conditions, and consumes its authority at commitment. **CAP ≠ PERM ≠ AUTH.** These distinctions remain independently reviewable. Specific eligibility or participation thresholds must come from their competent substantive architecture, not from an assumed single ranking.
 
 # Chapter 4 — The Separation of Influence and Authority
 
@@ -2380,7 +2378,7 @@ Standing does not automatically confer authorship or decision authority; partici
 
 Governance V2 adopts:
 
-**Influence may inform authority, but influence does not become authority without legitimate constitutional delegation.**
+**Influence may inform an independently lawful decision, but neither influence nor delegation creates exercisable authority absent the specific constitutional mandate and act-time state conditions.**
 
 This principle applies to:
 
@@ -2482,7 +2480,7 @@ The constitutional risk increases if:
 6.  the AI participates in measuring the success of its own recommendations;
 7.  and increasing dependence is then treated as evidence that greater delegation is required.
 
-This would create a recursive authority loop.
+This would create a recursive capture loop: growing practical control and dependence could be mistaken for legitimate constitutional authority, although no new authority is lawfully created.
 
 Governance must therefore distinguish:
 
@@ -2519,15 +2517,17 @@ Oversight requires practical capability to examine, challenge and intervene.
 
 ## 4.7 Aggregate authority, manufactured need and de facto control
 
-**Incorporated source:** `Governance Operating Boundary and Authority Lifecycle — Source Resolution 001.md`, §§14–15, 19–20. Multiple individually bounded permissions, roles, resources and credentials can combine into effective general control. **Minimum local capability is not necessarily minimum aggregate capability**; check the composite authority surface and cross-domain dependencies. Economic dependency, infrastructure, information monopoly, advisory dominance, reputation and technical capability may create de facto power without lawful authority. If an authority's own actions produce the conditions later cited to expand that authority, the causal loop requires independent review; authority cannot manufacture its own proof of necessity. Legitimate goals such as safety, stability and efficiency do not justify unlimited optimisation at the expense of rights, dissent or other constitutional objectives. **Implementation boundary:** Aggregate-power detection and causal audit require independently governed implementation.
+Multiple individually bounded permissions, roles, resources and credentials can combine into effective general control. **Minimum local capability is not necessarily minimum aggregate capability**; check the composite authority surface and cross-domain dependencies. Economic dependency, infrastructure, information monopoly, advisory dominance, reputation and technical capability may create de facto power without lawful authority. If an authority's own actions produce the conditions later cited to expand that authority, the causal loop requires independent review; authority cannot manufacture its own proof of necessity. Legitimate goals such as safety, stability and efficiency do not justify unlimited optimisation at the expense of rights, dissent or other constitutional objectives. **Implementation boundary:** Aggregate-power detection and causal audit require independently governed implementation.
 
 
 
-## 4.8 Chapter 4 Consistency Reconciliation — Influence, Composite Control and Authority
+## 4.8 Composite Control and Independent Safeguards
 
-Chapter 4 correctly distinguishes persuasive influence and de facto control from constitutional authority. Its §4.7 “aggregate authority” language describes the **risk of accumulated practical control**, not a lawful acquisition of constitutional authority through combining credentials, roles, resources, groups, meetings or advisory systems. Neither repeated successful acts nor operational indispensability creates an enduring authority reservoir.
+Individually bounded permissions, roles, credentials, infrastructure, information channels, resources, advisory systems and reputational advantages can combine into de facto general control. This composite control must be evaluated across functions and domains: the minimum capability of each separate component does not establish that their aggregate control is constitutionally safe.
 
-Composite control must still be examined for capture, manufactured necessity, information monopolies and cross-domain dependencies. Those risks may warrant independent audit or a new lawfully constituted decision, but no risk assessment, oversight meeting, expert consensus, AI recommendation or metric can itself manufacture permission to act. Any corrective intervention needs its own contextual authority and act-time state transition. The technical detection and independent ownership interfaces remain to be designed, as §4.7 already records.
+Practical dominance is not lawful political authority. No meeting, expert consensus, risk score, AI recommendation, audit result, technical state-machine output or operational indispensability manufactures permission to act. Repeated successful acts do not accumulate an authority reservoir. Where an institution's own actions create the dependency subsequently used to justify more power, the claimed necessity requires independent causal scrutiny.
+
+Capture detection, independent audit, plural evidence, separation of duties and contestation must themselves remain rights-bounded. Any consequential corrective intervention requires its own lawful context, competent decision, current state and authorised execution. **Implementation boundary:** Independent ownership, composite-control detection and causal audit mechanisms require system-specific design.
 
 # Chapter 5 — Practical Constitutional Rights
 
