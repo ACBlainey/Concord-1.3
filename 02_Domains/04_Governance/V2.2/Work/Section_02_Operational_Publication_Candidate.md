@@ -6379,11 +6379,9 @@ This may eventually produce de facto AI governance without an explicit constitut
 
 Governance should not permit a change of constitutional regime to occur merely through accumulated convenience.
 
-## 19.18 Steward selection, independence and anti-entrenchment
+## 19.18 Steward Selection, Independence and Anti-Entrenchment
 
-
-
-
+Selection and appointment must not become self-reinforcing institutional privileges. The office-owning domain must maintain a contestable and independently reviewable boundary between qualification, candidate allocation, lawful appointment and decision-specific voting authority. The shared Steward allocation and parallel-practice rules below supply the current constraints; they do not establish an exclusive selection algorithm or empower incumbents to appoint their own successors without a separate lawful mandate.
 
 ### Shared Steward allocation, parallel practice and bounded ascension
 
