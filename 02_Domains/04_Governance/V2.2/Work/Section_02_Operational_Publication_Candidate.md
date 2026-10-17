@@ -2585,7 +2585,7 @@ The boundary can therefore be summarised:
 
 > **Science informs civilisation about reality. Governance determines lawful civilisational action. Neither function should capture the other.**
 
-## 13.29 Chapter 13 Consistency Reconciliation — Domain Knowledge Is Not Governance Authority
+## 13.30 Domain Knowledge Is Not Governance Authority
 
 Scientific stewardship, epistemic evaluation, expert accreditation, research independence and cross-domain advice do not confer constitutional voting authority or jurisdiction over other domains. A scientific finding or uncertainty label supplies evidence, not an executable mandate. Neither a council of experts nor an advisory meeting can acquire authority through consensus. A domain steward may act only within the separately lawful function, context and authoritative state of the particular act; inter-domain coordination is not an implicit command hierarchy.
 
@@ -3767,7 +3767,7 @@ A compact principle is:
 
 > **The economy serves civilisation. Civilisation does not exist merely to serve the economy.**
 
-## 14.32 Chapter 14 Consistency Reconciliation — Economic Function Without Economic Sovereignty
+## 14.33 Economic Function Without Economic Sovereignty
 
 Economic stewardship's coordination, market monitoring, enterprise protections, anti-monopoly functions and resource planning do not create ownership of the economy or general authority over participants. Wealth, market dominance, infrastructure dependence, contribution, expertise and economic necessity are not governance authority. No enterprise, advisory body or coordinating group can manufacture authority by acting together.
 
@@ -4625,7 +4625,7 @@ Nor should it be elevated to immutable constitutional requirement before compari
 
 This preserves both the idea and the Concord’s commitment to correction.
 
-## 15.26 Chapter 15 Consistency Reconciliation — Monetary Systems and Act-Time Authority
+## 15.28 Monetary Systems and Act-Time Authority
 
 Monetary creation, verification, energy reference, banking, taxation, public finance and monetary stewardship remain distinct functional subjects. Monetary control, ledger administration, issuance capability, validator status, financial holdings and emergency liquidity provision do not generate constitutional authority over governance or participants. A monetary authority is not a general governance authority, and technical validation of a transaction is not independent constitutional permission for a consequential act.
 
@@ -5987,7 +5987,7 @@ The constitutional boundary can be stated:
 
 > **Planning makes futures visible. Governance chooses authorised action in the present.**
 
-## 17.22 Chapter 17 Consistency Reconciliation — Planning Is Not Command
+## 17.28 Planning Is Not Command
 
 Scenario analysis, foresight, Reality Trees, Roadway, risk signals and planning recommendations are information and preparedness functions. A planner, simulation, planning committee or long-range model cannot acquire governance authority through accuracy, influence, urgency or the scope of its forecast. No scenario label, automated threshold or proposed plan authorises compulsory implementation without a separate lawful, state-conditioned decision and host act.
 
