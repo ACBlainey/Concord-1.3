@@ -16,11 +16,11 @@ A steward does not exercise power as a personal entitlement.
 
 A steward does not acquire sovereignty merely by occupying an office.
 
-A steward holds authority in trust for a defined purpose, on behalf of civilisation.
+A steward holds a fiduciary mandate in trust for a defined purpose, on behalf of civilisation. That mandate establishes responsibilities and the lawful prerequisites for specific acts; it is not a continuously held stock of exercisable authority.
 
 The office exists because a responsibility must be discharged.
 
-Authority exists because some degree of authority is necessary to discharge that responsibility.
+A particular exercise of authority is legitimate only where the constitutional purpose requires it and the current authoritative state permits that bounded act.
 
 The authority does not exist first, with responsibilities subsequently invented to justify it.
 
@@ -97,13 +97,13 @@ Instead, the steward exercises delegated constitutional authority for the purpos
 
 The office is therefore one of trust rather than privilege.
 
-Authority exists only because civilisation has constitutionally entrusted that authority to the steward.
+The constitutional order entrusts the steward with defined responsibility and an eligible mandate. Each consequential exercise of authority must be independently justified against its actual context and current state.
 
 The steward remains accountable for the exercise of that trust.
 
 ## 1.3 Stewardship as a Fiduciary Duty
 
-Every steward acts only through delegated constitutional authority.
+Every steward acts under constitutionally defined responsibilities and a lawful bounded mandate. Exercisable authority is determined at the instant of each legitimate consequential act, and is consumed by its authorised state transition.
 
 Authority originates from the constitutional order.
 
@@ -131,7 +131,7 @@ Contribution does not itself create constitutional standing over others.
 
 Authority remains defined by the constitutional purpose and limits of the office.
 
-Appointment delegates constitutional authority for a defined period, condition or function and within defined constitutional limits.
+Appointment establishes a defined fiduciary office, eligible function, scope, duration and constitutional constraints. It does not continuously vest reusable authority; each consequential exercise requires its own lawful contextual state.
 
 The steward therefore **exercises authority**.
 
@@ -543,7 +543,7 @@ That distinction transforms governance from the possession of power into the pra
 
 The following definitions form part of the constitutional vocabulary of the Concord Governance architecture.
 
-They are retained because terminology itself carries architectural information. Later operational systems may refine individual terms, but their Governance meaning should remain visible until those interfaces have been fully audited.
+These definitions distinguish responsibilities, standing, functional eligibility, lawful decision authority, technical capability and institutional influence. Their application remains subject to the contextual state and the constitutional boundaries defined in this chapter.
 
 ### Stewardship
 
@@ -551,7 +551,7 @@ They are retained because terminology itself carries architectural information. 
 
 A steward does not own the authority of office or exercise it as a personal entitlement.
 
-Authority is held in trust, remains bounded by constitutional purpose, and is subject to review, replacement and continual improvement.
+Fiduciary responsibility is held in trust; each exercise of authority is bounded by constitutional purpose and current lawful state, and remains accountable and reviewable after its authority is consumed.
 
 ### Fiduciary Stewardship
 
@@ -561,7 +561,7 @@ The steward’s obligation is therefore to the constitutional function and its b
 
 ### Delegated Authority
 
-**Delegated Authority** is constitutionally recognised authority transferred to a steward or operational entity for a defined purpose, scope, jurisdiction, duration or condition.
+**Delegated Authority** is the constitutionally defined eligibility and bounded mandate under which a steward or operational entity may be authorised for a particular purpose, action, scope, jurisdiction, time and state. The authority to perform a consequential act is determined against the current lawful state at commitment, exercised only within that context, and consumed by the act's authorised transition. Delegation cannot manufacture authority absent in the lawful source, nor create an enduring transferable reservoir.
 
 Delegation does not create unlimited discretion.
 
@@ -836,7 +836,7 @@ Cross-domain or disputed matters require coordination, review or escalation rath
 
 Advisory systems inform decisions but do not silently become decision authorities.
 
-A steward therefore possesses only the authority delegated to the office.
+A steward retains only the defined office, fiduciary obligations and eligible mandate entrusted to that role. The steward does not possess continuously exercisable authority: each consequential act requires a fresh lawful contextual determination and consumes that act's authority at commitment.
 
 Appointment to an office does not create general authority over matters outside that office’s constitutional mandate.
 
@@ -918,7 +918,7 @@ An economist does not acquire sovereignty because an economic problem is complex
 
 A security expert does not acquire unlimited authority because a threat exists.
 
-**\[CONTINUES — Section 1.9.2 onward. The preservation baseline remains controlling; no existing source material has been condensed or replaced.\]**
+
 
 ## 1.9.2 Reputation Is Not Authority
 
@@ -1520,7 +1520,7 @@ A central principle remains:
 
 **Emergency authority is an exception to procedure, not an exception to constitutional principle.**
 
-The detailed Emergency architecture is retained later in Governance V2 pending full comparison with the dedicated Constitutional Emergency system.
+Emergency action remains bounded to the specific emergency and cannot replace ordinary governance. Ordinary stewardship continues outside the narrowly affected functions. A genuinely extreme existential crisis may require narrowly necessary interruption of affected ordinary functions; the competent authorisation, threshold, safeguards and restoration mechanism require specific design.
 
 # 1.22 Authority Must Be Traceable
 
@@ -1546,25 +1546,23 @@ It requires preservation of the constitutional chain through which authority was
 
 ## 1.23 Functional authority justification and inherent sunset
 
-**Incorporated source:** `Governance Operating Boundary and Authority Lifecycle — Source Resolution 001.md`, §§2–13, 21–22. Governance exists to perform legitimate civil functions, not perpetuate its institutions. The justification chain is **observed condition → rights-relevant problem → legitimate objective → required function → demonstrated need for special authority → minimum sufficient capability and proportionate authority → bounded contextual exercise**. Existing office, expertise, selection, reputation, popularity or a declared function does not establish necessity. A legitimate function may instead be discharged through information, ordinary consent, voluntary cooperation or interoperability without coercive authority. **Minimum necessary does not mean minimum possible:** under-capability can fail the legitimate function; excess creates unnecessary power. CAP ≠ PERM ≠ AUTH. Authority is a contextual envelope of actor, purpose, action, object, spatial and informational scope, activation, time, delegation, review and provenance—not a general Boolean permission. **Function ends → solely function-derived authority ends**, absent a separately justified successor function. Context changes trigger re-evaluation; successor authority is not automatic inheritance. Delegation cannot exceed the legitimate delegable grant. Routine pre-legitimated functions may use low-friction authorisation; consequential and irreversible actions require stronger evidence, independence and review. **[LOCAL ISSUE:]** Exact owner attestations and threshold parameters remain domain-specific.
+**Incorporated source:** `Governance Operating Boundary and Authority Lifecycle — Source Resolution 001.md`, §§2–13, 21–22. Governance exists to perform legitimate civil functions, not perpetuate its institutions. The justification chain is **observed condition → rights-relevant problem → legitimate objective → required function → demonstrated need for special authority → minimum sufficient capability and proportionate authority → bounded contextual exercise**. Existing office, expertise, selection, reputation, popularity or a declared function does not establish necessity. A legitimate function may instead be discharged through information, ordinary consent, voluntary cooperation or interoperability without coercive authority. **Minimum necessary does not mean minimum possible:** under-capability can fail the legitimate function; excess creates unnecessary power. CAP ≠ PERM ≠ AUTH. Authority is a contextual envelope of actor, purpose, action, object, spatial and informational scope, activation, time, delegation, review and provenance—not a general Boolean permission. **Function ends → solely function-derived authority ends**, absent a separately justified successor function. Context changes trigger re-evaluation; successor authority is not automatic inheritance. Delegation cannot exceed the legitimate delegable grant. Routine pre-legitimated functions may use low-friction authorisation; consequential and irreversible actions require stronger evidence, independence and review. **Implementation boundary:** The responsible domain must define the exact owner attestations and threshold parameters for its consequential acts.
 
 
 
-## 1.24 Chapter 1 Consistency Reconciliation — Responsibility, Instantaneous Authority and Spatial Competence
+## 1.24 Act-Time Authority, Nonhierarchical Competence and Accountability
 
-**Scope:** This subsection reconciles Chapter 1's existing terminology with the bounded contextual authority and state-consumption architecture. Earlier passages are retained verbatim for provenance and later editorial resolution.
+Stewardship responsibilities, fiduciary duties, appointments and lawful functional mandates persist as institutional relationships. They do not constitute continuously held or transferable quantities of exercisable authority. A particular consequential action is permitted only where its responsible actor, purpose, scope, affected rights, jurisdiction, timing, lawful source and actual current state satisfy the governing conditions. The authority of that act is exercised and consumed in its authorised state transition. The record and accountability persist; the act's authority does not.
 
-1. **Stewardship and fiduciary duty persist; exercised authority does not.** Statements in §§1.1–1.8 such as “holds authority in trust,” “appointment delegates constitutional authority,” “possesses only the authority delegated,” or authority being “transferred” describe constitutional responsibility, a legitimate functional mandate, eligibility and the conditions under which a future action may be authorised. They must **not** be interpreted as a continuously held quantity of exercisable authority. At each consequential action, lawful contextual authority is determined against the current authoritative state, is exercised in the authorised transition, and is consumed. Office and fiduciary accountability continue after that instant; the particular act's authority does not. See §9.41.2 and Clarification C09.
+A delegation establishes eligible responsibilities and limits, not an independently reusable reservoir. The delegator cannot transfer more legitimate scope than exists, and a delegate cannot derive additional power merely from office, expertise, repeated success, technical capability, an approval token or a previous decision. **CAP ≠ PERM ≠ AUTH.** Any subsequent act must meet its own current contextual conditions.
 
-2. **Delegation does not create an authority reservoir.** A lawful delegation may establish responsibilities, eligible actors, defined functions and prerequisites for later bounded acts. The delegate does not inherit an independently reusable power from the delegator; each act must satisfy its own scope and state conditions. The Chapter 1 references to delegation, accountability and superior stewards remain recorded, but cannot themselves justify a standing command hierarchy or unbounded supervisory control.
+**Spatial and functional competence are not a chain of command.** Governance ordinarily acts at the lowest GTP spatial scale that is both lawful and competent for the actual question. Wider consequences may require a separately constituted larger-scale decision event; the larger spatial triangle is not an inherently superior political office. Multiple GTP resolutions can operate concurrently. The exact composition and aggregation of independently lawful larger-scale decisions remain to be designed. Functional referral, constitutional review and judicial process are distinct from spatial enlargement and cannot be substituted for one another.
 
-3. **Lowest competent level is spatial and functional, not a chain of command.** The terms “higher level,” “higher authority,” “superior steward” and “centralisation” in §§1.11–1.12 are legacy descriptions that must not imply that a larger GTP area inherently governs its smaller areas. A decision requiring wider coverage or competence is separately constituted for its own event; ordinary decisions remain with their competent stewards. The composition and aggregation of larger-scale decisions remain open under §§9.20.1–9.20.3 and Clarifications C03–C05.
+**Emergency authority remains specific and bounded.** An emergency may justify independently lawful accelerated decisions and action for the emergency itself, without a standing enlargement of office or displacement of ordinary regional governance. Unaffected functions continue normally. Only a genuinely extreme existential crisis may require narrowly necessary interruption of affected ordinary functions; its lawful authorisation, safeguards and restoration mechanism require separate specification.
 
-4. **Emergency provisions do not suspend ordinary stewardship by default.** The possible emergency “expansion” in §1.21 must be read as strictly event-specific emergency procedure and effect, not a standing enlargement of office or takeover of regional governance. Ordinary governance continues independently. Only a genuine extreme existential crisis may justify narrowly necessary interruption of affected ordinary functions, under an as-yet-undesigned lawful mechanism. See §§9.40.2–9.40.3 and Clarifications C06–C07.
+**No activity manufactures authority.** Meetings, conferences, coordination, advisory consensus, majority counts, committee size, algorithms, infrastructure dependence, de facto influence and state-machine operation cannot themselves generate political authority. Technical systems enforce and record separately legitimate act-time conditions; they do not create a constitutional source of authority. Capture risks arising from aggregated practical control require independent review, and any corrective intervention must itself be lawful.
 
-5. **Influence, meetings and coordination cannot produce authority.** The anti-capture and influence boundaries in §§1.9–1.20 also apply to committees, meetings, votes, consensus, expertise, group size, operational necessity and technical state-machine outputs. They are not authority sources. The state machine enforces lawful contextual conditions and consumption, not a power to manufacture authority. See §§9.41.1–9.41.2 and Clarifications C08–C09.
-
-**Outstanding editorial/design work:** Chapter 1 retains legacy possessive, transfer and hierarchical formulations, and §1.21 refers to emergency expansion. These are explicitly identified here rather than silently rewritten. The exact actor/state attestation interfaces, exceptional crisis authorisation, and wider-scale voting constitution remain open where already flagged. The chapter's philosophical fiduciary obligations remain intact.
+Fiduciary accountability, review, correction, transparency and responsibility for consequences remain after an act is completed. A committed official ballot cannot be revoked or rewritten; later correction requires an independently legitimate decision event and an immutable linked record. Exact host attestation, cross-system execution reconciliation, larger-scale voting composition and existential-crisis authorisation are implementation boundaries for their competent system owners.
 
 # Chapter 2 — The Constitutional Framework
 
@@ -2521,7 +2519,7 @@ Oversight requires practical capability to examine, challenge and intervene.
 
 ## 4.7 Aggregate authority, manufactured need and de facto control
 
-**Incorporated source:** `Governance Operating Boundary and Authority Lifecycle — Source Resolution 001.md`, §§14–15, 19–20. Multiple individually bounded permissions, roles, resources and credentials can combine into effective general control. **Minimum local capability is not necessarily minimum aggregate capability**; check the composite authority surface and cross-domain dependencies. Economic dependency, infrastructure, information monopoly, advisory dominance, reputation and technical capability may create de facto power without lawful authority. If an authority's own actions produce the conditions later cited to expand that authority, the causal loop requires independent review; authority cannot manufacture its own proof of necessity. Legitimate goals such as safety, stability and efficiency do not justify unlimited optimisation at the expense of rights, dissent or other constitutional objectives. **[LOCAL ISSUE:]** Aggregate-power detection and causal audit require independently governed implementation.
+**Incorporated source:** `Governance Operating Boundary and Authority Lifecycle — Source Resolution 001.md`, §§14–15, 19–20. Multiple individually bounded permissions, roles, resources and credentials can combine into effective general control. **Minimum local capability is not necessarily minimum aggregate capability**; check the composite authority surface and cross-domain dependencies. Economic dependency, infrastructure, information monopoly, advisory dominance, reputation and technical capability may create de facto power without lawful authority. If an authority's own actions produce the conditions later cited to expand that authority, the causal loop requires independent review; authority cannot manufacture its own proof of necessity. Legitimate goals such as safety, stability and efficiency do not justify unlimited optimisation at the expense of rights, dissent or other constitutional objectives. **Implementation boundary:** Aggregate-power detection and causal audit require independently governed implementation.
 
 
 
