@@ -2036,7 +2036,7 @@ Governance should therefore avoid treating defeated reasoning as worthless reaso
 
 A significant governance decision should identify where appropriate:
 
-- responsible authority;
+- responsible lawful function and intended executing owner;
 - authority basis;
 - decision;
 - relevant evidence;
@@ -4463,7 +4463,7 @@ Governance therefore requires procedures capable of answering:
 - How are decisions made?
 - How is disagreement preserved?
 - What happens when no decision can be reached?
-- How is authority delegated?
+- How are bounded responsibilities and eligible functions delegated?
 - What happens when a steward abstains?
 - How are conflicts handled?
 - How are decisions implemented?
@@ -4472,9 +4472,7 @@ Governance therefore requires procedures capable of answering:
 - How are failed decisions corrected?
 - How is the complete history preserved?
 
-Governance V1 developed substantial detail around these questions.
-
-That detail is retained.
+These questions are addressed through the procedures, decision conditions, safeguards and interfaces defined in this chapter.
 
 ## 9.2 Observation and Issue Identification
 
@@ -4508,9 +4506,9 @@ Before substantive governance action, the responsible body should determine:
 - what jurisdiction applies;
 - what stewardship domain applies;
 - what decision class applies;
-- whether the body possesses authority;
-- whether another body must participate;
-- whether escalation is required;
+- which legitimate function, selected decision positions and current state could authorise the proposed consequential act;
+- whether another independently competent function or domain must participate;
+- whether a separately constituted competent forum or lawful review route is required;
 - and whether the matter is constitutional, judicial, emergency or ordinary governance.
 
 A core operating rule is:
@@ -4619,9 +4617,7 @@ The Governance system should not itself become the sole custodian of the evidenc
 
 Specialist advice should be sought where the decision exceeds the reasonable competence of the deciding body.
 
-Experts advise.
-
-Authorised stewards decide.
+Experts advise. Lawfully selected Stewards decide only within their competent bounded decision event; expert consensus cannot select or replace an official Steward.
 
 Where specialist advice conflicts, the disagreement should remain visible.
 
@@ -4647,7 +4643,7 @@ AI may assist Governance through:
 
 AI assistance should be appropriately recorded where it materially affects significant decisions.
 
-The use of AI does not remove human or institutional accountability merely because the output was machine-generated.
+The use of AI does not remove the accountability of the actors and systems that actually select, authorise, implement or supervise its use merely because the output was machine-generated.
 
 Any AI consequential action requires a separately legitimate eligible function and its own lawful current-state authorisation. Analytical assistance, model capability and repeated successful recommendations do not create a governance ballot or authority.
 
@@ -4698,7 +4694,7 @@ The transition can be evaluated according to:
 - affected rights;
 - and interaction with other system states.
 
-This provides a common analytical language between Governance and Ratchet while leaving decision authority with Governance.
+This provides a common analytical language between Governance and Ratchet. The decision event and executing host each require their own lawful state-conditioned authority; the model itself does not confer either.
 
 ## 9.12 Majority and State Change
 
@@ -5520,7 +5516,7 @@ The distinction is:
 
 **Governance decides what is authorised. Operations determine how to execute that authorised decision within the delegated implementation space.**
 
-Where implementation requires a new substantive decision, the matter returns to Governance.
+Where implementation requires a new substantive decision, it must be referred to a separately competent, lawfully constituted decision event. Referral does not revive the authority consumed by an earlier ballot.
 
 Implementation authority should therefore identify the boundary between:
 
@@ -5545,7 +5541,7 @@ A change that materially alters:
 - purpose;
 - or constitutional consequence
 
-may require renewed Governance authority.
+may require a new independently lawful Governance decision and a separately authorised implementing act.
 
 ## 9.30 Automated Implementation
 
