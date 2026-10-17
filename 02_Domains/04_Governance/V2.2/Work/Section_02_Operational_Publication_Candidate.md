@@ -865,9 +865,9 @@ Authorial direction 048 settled the two-matching-ballot mathematical majority, b
 **Reconciliation effect (controlling 15 October rule):** The earlier two-ballot ordinary implementation interpretation is superseded. Three distinct lawfully selected holders must constitute the triad before voting; two matching ballots determine only the mathematical majority; all three official ballots are mandatory before ordinary effect. Separately authorised emergency action may proceed after two matching ballots. Appointment, identity, absence and handover implementation details remain to be designed, but the three-holder constitutional baseline is settled.
 
 
-## 12.10 Horizontal Expansion Before Vertical Escalation
+## 12.10 Horizontal Coordination Before Exceptional Referral
 
-Where practical, Governance should attempt horizontal coordination before escalating a matter into a higher permanent layer.
+Where practical and lawful, Governance should attempt horizontal coordination before referring a matter to a separately competent wider-scope or cross-domain forum.
 
 This preserves:
 
@@ -879,7 +879,7 @@ This preserves:
 
 However, horizontal expansion should not be fetishised.
 
-If a matter genuinely requires civilisation-wide coordination, refusing higher-level action merely to preserve decentralisation can itself become harmful.
+If a matter genuinely requires civilisation-wide coordination, refusing lawful wider-scope action merely to preserve decentralisation can itself become harmful.
 
 The principle remains:
 
@@ -889,7 +889,7 @@ This contains two requirements.
 
 The first is anti-centralisation:
 
-**Do not move authority upward unnecessarily.**
+**Do not enlarge the decision field or transfer competence unnecessarily.**
 
 The second is competence:
 
