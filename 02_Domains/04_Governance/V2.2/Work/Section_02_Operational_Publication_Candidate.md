@@ -4594,7 +4594,7 @@ Each consequential monetary decision and execution must satisfy its own lawful b
 
 ## 16.1 Scope and Development Boundaries
 
-Resource Stewardship is an operative Governance responsibility. It covers property, environmental systems, public goods, private ownership, commons, economics, infrastructure, future generations, planetary settlement and long-term continuity.
+Governance has a constitutional stewardship responsibility where decisions affect property, environmental systems, public goods, private ownership, commons, infrastructure, future generations, planetary settlement and long-term continuity. This responsibility concerns lawful mandates, rights, accountability and coordination; it does not transfer operational resource management from the competent domains to Governance.
 
 Stewardship duties do not establish universal public ownership or unrestricted power to allocate, seize, regulate or command resources. Any consequential intervention requires the applicable constitutional rights, lawful mandate, bounded decision and host-system execution authority.
 
