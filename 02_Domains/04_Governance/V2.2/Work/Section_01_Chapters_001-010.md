@@ -5891,6 +5891,14 @@ Where an emergency response necessarily interacts with an ordinary function, the
 
 The emergency authority ends when its authorised emergency purpose or lawful duration ends; it does not persist as a standing governance mandate. Any subsequent non-emergency policy or structural change requires its own separately constituted ordinary lawful decision event. **Emergency provisions are for responding to emergencies, not for institutional capture, takeover or a coup.**
 
+### 9.40.3 Exceptional Existential-Crisis Interruption of Ordinary Governance
+
+The general rule in §9.40.2 is that emergency authority does not displace ordinary governance. **Only an extreme existential crisis** may justify temporarily setting aside ordinary day-to-day governance functions where their continuation is genuinely incompatible with immediate survival, continuity or defence. Examples may include a catastrophic disaster, an unforeseen black-swan event or war presenting an existential threat. The event's label alone does not establish that threshold.
+
+This is an **exception to the continuity of ordinary operations**, not a general transfer of sovereignty or a licence for emergency actors to seize regional governance. Any interruption must be confined to the functions, geographical scope and duration actually affected by the existential necessity; unaffected normal stewardship and contextual bounded authority continue. The interruption must not be used to displace stewards or appropriate unrelated functions where those functions can lawfully continue.
+
+The precise constitutional threshold, competent authorisation route, necessary safeguards, treatment of functions that cannot continue, continuity arrangements and restoration procedure **remain to be designed**. This section does not itself confer a new power to declare an existential crisis or to suspend governance. Any such mechanism must be separately constituted and bounded, protect against manufactured or prolonged emergencies, preserve records and accountability as conditions permit, and restore ordinary governance as soon as the exceptional necessity ceases.
+
 ## 9.41 Meeting Protocol
 
 A formal Governance meeting should identify where appropriate:
