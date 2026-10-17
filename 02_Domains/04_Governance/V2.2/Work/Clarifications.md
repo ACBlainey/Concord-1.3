@@ -96,13 +96,24 @@ This is a reference for integration and checking, **not** an independent grant o
 - Before publishing any V2.2 section, check its heading, introduction, subsection titles, body and ending for editorial and status language, including legacy inherited wording; remove or rewrite such wording in the **published copy only**, without erasing the corresponding working source.
 - Initial application: Section 01 operational publication; later sections must follow the same rule.
 
+## C11 — Consolidation means one coherent operational architecture
+
+- **Integration is not accumulation.** Do not construct an operational section by stacking the old architecture, later patches, amendments, reconciliations, source comparisons and contradictory alternatives in sequence. That is a working record, not an operational specification.
+- **Rewrite the published section into one complete, coherent architecture.** Incorporate all surviving substantive source rules directly into their proper chapters and subsections, reconciling definitions, state transitions, scope, exceptions, safeguards, dependencies and interfaces throughout.
+- **Remove superseded passages and contradictory former rules from the published operational text** once their unique valid substance has been incorporated. Keep the originals, the decisions and a traceable provenance record in Work. Source preservation applies to the working evidence; it is not a requirement to reproduce obsolete wording in the operational publication.
+- **No loss or compression:** do not abbreviate, summarise away, omit or flatten any unique substantive architecture during the rewrite. A coherent presentation may reorganise and eliminate duplication, but must preserve every still-applicable mechanism, condition, edge case, protection and distinction.
+- **Resolve actual conflicts where the available architecture settles them.** Where it does not, state the precise unresolved architectural boundary in the relevant operational subsection without leaving mutually contradictory instructions or treating the entire chapter as unactionable.
+- **One authoritative rule per issue:** readers must not need to reconstruct precedence from dated authorial decisions, historical interpretations, appended correction sections or editorial notes.
+- **Publication gate:** before moving a section to the main V2.2 folder, check chapter-by-chapter that the resulting text is complete, internally consistent, free of editorial status qualifications, and no longer structured as source plus patches. Verify retained substantive coverage against the full working source and C01–C11.
+- The current Section 02 publication candidate requires this substantive rewrite; removing status labels alone does not satisfy the gate. The same standard applies retrospectively to Section 01.
+
 ## Cross-section review procedure
 
 For **each** V2.2 section:
 
-1. Read the entire section and compare its relevant rules against **C01–C10**, including cross-references to other sections.
+1. Read the entire section and compare its relevant rules against **C01–C11**, including cross-references to other sections.
 2. Identify any missing clarification, inconsistent architecture, unintended implied hierarchy, unauthorised authority transfer, ambiguity or unresolved interface.
-3. Preserve existing text and conflicts; add the necessary clarification in the relevant numbered subsection without silently deleting or rewriting source passages.
+3. Preserve existing source text and conflicts in the working record. Reconcile and rewrite the operational publication as one coherent architecture, removing superseded wording only from the published copy while preserving all surviving substantive rules.
 4. Do not convert undecided mechanisms into fixed rules. Record exactly what remains to be designed.
 5. Retrieve the saved section from GitHub and verify the intended additions and preservation of prior content.
 6. Revisit this file when the author supplies further clarifications, and apply them to subsequent section reviews.
