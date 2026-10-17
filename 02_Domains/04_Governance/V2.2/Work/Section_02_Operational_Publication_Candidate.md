@@ -836,13 +836,13 @@ The expanded forum may decide only within the specifically authorised common fie
 
 
 
-### 12.9.7 Source-derived arithmetic and remaining constitutional validity gates
+### 12.9.7 Voting Arithmetic and Constitutional Validity Gates
 
-The recovered V1.1 **Triadic Decision Making Module** supports three equal positions, independent reasoning, Favour/Against/Abstain distinctions and a two-matching-substantive-vote majority. Later authorial direction 048 establishes the operative V2.1 precedence: **two independently valid matching official F/A ballots determine the result**, with three lawfully selected holders required to constitute the voting forum; subsequent temporary absence does not waive the mandatory third official ballot for ordinary completion. Validity still requires legitimate competence, distinct authorised positions, eligibility, forum identity, decision-event boundary and separate consequential implementation authority. A missing third ballot is an incomplete ordinary voting state, not an automatic negative or veto. No decision can be made operative merely by calculating an arithmetic majority.
+The triadic protocol requires three equal positions, independent reasoning and distinct Favour/Against/Abstain ballots. Under the operative voting rule, **two independently valid matching official F/A ballots determine the result**, with three lawfully selected holders required to constitute the voting forum; subsequent temporary absence does not waive the mandatory third official ballot for ordinary completion. Validity still requires legitimate competence, distinct authorised positions, eligibility, forum identity, decision-event boundary and separate consequential implementation authority. A missing third ballot is an incomplete ordinary voting state, not an automatic negative or veto. No decision can be made operative merely by calculating an arithmetic majority.
 
 Expanded constituent triads, one-position substitutions and GTP node mappings require their own lawful appointment and event-wide identity checks; they are not automatically authorised by the original portable module. A virtual triad aggregates **three constituent resultants**, never a pooled nine-ballot total. `DECISION_BOUNDARY_UNKNOWN`, invalid forum, unresolved valid vote and valid Against are distinct states.
 
-**[LOCAL VALIDATION — FI-004, FI-005, FI-008, FI-029, FI-031:]** Validate the actual host constitution/commit gates, irregular GTP node mapping, exceptional position continuity and authoritative event boundary. The earlier *universal three-affirmative-vote* proposal and its Q-1–Q-4 variants remain in original source records, not as operative alternatives in V2.1. This does **not** supersede the controlling three-holder constitution and three-official-ballot ordinary completion rule.
+**[LOCAL VALIDATION — FI-004, FI-005, FI-008, FI-029, FI-031:]** Validate the actual host constitution/commit gates, irregular GTP node mapping, exceptional position continuity and authoritative event boundary. The controlling rule remains three-holder constitution and three-official-ballot ordinary completion; arithmetic majority alone does not complete an ordinary vote.
 
 ### 12.9.8 Authorial source precedence and bounded position continuity
 
