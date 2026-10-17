@@ -441,7 +441,7 @@ The terms “canonical,” “provisional” and source-restoration labels appea
 
 **Expansion and continuity.** Cross-context coordination does not imply parent governance. A specifically authorised expanded triad uses three constituent F/A/U resultants, not nine pooled individual ballots; origin-excluded and origin-included 2+1 arrangements must each satisfy independent eligibility, uniqueness, quorum, context and commit checks. A recused/vacant position may be substituted only through separately lawful eligibility and selection; mere abstention is not grounds for substitution. Shared information or conference requires its own contextual authorisation and does not confer votes. Appointment, retained local competence, decision authority and implementation authority remain separate objects.
 
-**[LOCAL ISSUES:]** Authenticated three-holder constitution under lawful vacancy and provisional appointment; alternate return and pre-commit handover; vote-event identity and partial failure; deadlines and handling for an outstanding mandatory third ballot; expanded constituent eligibility and source disagreement; authorisation of exceptional conference; reconciliation with pre-existing Chapter 12 source passages referring to later ballot supersession. Ordinary completion after three ballots and emergency two-ballot triggering are resolved authorial rules, not open legal-effect questions. The earlier supersession formulation is **not** the current working rule for already committed official ballots.
+**Architecture to be designed — implementation interfaces:** Specify authenticated three-holder constitution under vacancy and lawful appointment; alternate return and pre-commit handover; decision-event identity and partial failure; deadlines and recovery for an outstanding mandatory third ballot; expanded-constituent eligibility and disputed information; and the lawful authorisation boundary for exceptional conference. These interfaces must preserve immutable committed official ballots, three-ballot ordinary completion and separately authorised two-ballot emergency action.
 
 ---
 
@@ -842,7 +842,7 @@ The triadic protocol requires three equal positions, independent reasoning and d
 
 Expanded constituent triads, one-position substitutions and GTP node mappings require their own lawful appointment and event-wide identity checks; they are not automatically authorised by their conceptual definition. A virtual triad aggregates **three constituent resultants**, never a pooled nine-ballot total. `DECISION_BOUNDARY_UNKNOWN`, invalid forum, unresolved valid vote and valid Against are distinct states.
 
-**[LOCAL VALIDATION — FI-004, FI-005, FI-008, FI-029, FI-031:]** Validate the actual host constitution/commit gates, irregular GTP node mapping, exceptional position continuity and authoritative event boundary. The controlling rule remains three-holder constitution and three-official-ballot ordinary completion; arithmetic majority alone does not complete an ordinary vote.
+**Architecture to be designed — host validation:** Validate the actual host constitution/commit gates, irregular GTP node mapping, exceptional position continuity and authoritative event boundary. The controlling rule remains three-holder constitution and three-official-ballot ordinary completion; arithmetic majority alone does not complete an ordinary vote.
 
 ### 12.9.8 Bounded Position Continuity
 
@@ -850,7 +850,7 @@ A triadic voting forum must have three lawfully selected distinct holders before
 
 **Position continuity:** When a position is unavailable, a lawful process may permit (1) the original Steward's later official vote while its authority remains unconsumed, (2) an independently constituted expanded resultant occupying precisely one position, (3) a bounded temporary substitute authorised for that position, or (4) a non-official, non-consuming provisional indication that can be replaced before official commitment. These mechanisms are not automatically available merely because the position is missing. An official committed ballot cannot be superseded within its event; no replacement may create a fourth vote or alter a completed majority.
 
-**[LOCAL VALIDATION — FI-029, FI-030, FI-031:]** Determine each continuity route's legitimate issuer, vacancy cause, appointment/return deadline, handover, record finalisation, eligibility and effect reconciliation. If independent authority, event boundary or commit-time validity is unknown, withhold consequential commitment. Emergency action remains independently time-bounded and cannot derive authority from urgency or a paused Civilisation Clock.
+**Architecture to be designed — continuity interfaces:** Determine each continuity route's legitimate issuer, vacancy cause, appointment/return deadline, handover, record finalisation, eligibility and effect reconciliation. If independent authority, event boundary or commit-time validity is unknown, withhold consequential commitment. Emergency action remains independently time-bounded and cannot derive authority from urgency or a paused Civilisation Clock.
 
 ### 12.9.9 Decisive Majority, Provenance and Effective Implementation
 
@@ -1402,7 +1402,7 @@ The enduring rule remains:
 > **Use the lowest competent architecture capable of resolving the actual problem.**
 
 
-**Consolidated cross-reference:** The Chapter 12 rules for independent ballots, two-matching-vote determinacy, contextual conference, expanded constituent resultants and one-position GTP substitution are specified in §§12.0–12.9. The node vocabulary and provisional outer-ring candidate selection are specified in §§12.9.0–12.9.0a and Chapter 132. **[LOCAL VALIDATION — FI-008, FI-009, FI-029, FI-031:]** Remaining checks concern independent forum constitution, position return, origin-included participant uniqueness, disclosure boundaries and host commitment—not revival of superseded quorum or ballot-revocation rules.
+**Consolidated cross-reference:** The Chapter 12 rules for independent ballots, two-matching-vote determinacy, contextual conference, expanded constituent resultants and one-position GTP substitution are specified in §§12.0–12.9. The node vocabulary and provisional outer-ring candidate selection are specified in §§12.9.0–12.9.0a and Chapter 132. **Architecture to be designed — cross-forum verification:** Remaining checks concern independent forum constitution, position return, origin-included participant uniqueness, disclosure boundaries and host commitment—without relaxing three-holder constitution or committed-ballot finality.
 
 ## 12.26 Governance operating cycle and Steward mandate lifecycle
 
@@ -1420,7 +1420,7 @@ The governance decision record and its lawful host effect are separate state tra
 
 **Historical and review custody:** Preserve original commitments, late ballots, validity challenges, corrections and independently authorised later decisions as linked, non-overwriting records. KCS corrections trigger affected-owner review, not automatic vote reversal; BTA represents asynchronous pending/partial owner transitions without manufacturing authority; emergency operational expiry and reaction use independent state machines, not a possibly paused Civilisation Clock. Restoration of service does not restore consumed authority.
 
-**[LOCAL VALIDATION — FI-008, FI-029, FI-031:]** Specify host acknowledgement contracts, commit deduplication, exact decision/event identity, receipt completeness, lawful implementation timing and independent review/appeal routes. This section does not authorise a new cross-owner command channel.
+**Architecture to be designed — acknowledgement and execution interfaces:** Specify host acknowledgement contracts, commit deduplication, exact decision/event identity, receipt completeness, lawful implementation timing and independent review/appeal routes. This section does not authorise a new cross-owner command channel.
 
 ## 12.28 Voting Validity and Exceptional Coordination
 
