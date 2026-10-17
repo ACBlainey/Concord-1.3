@@ -6263,7 +6263,7 @@ At minimum, Governance should be able to establish:
 
 ## 19.8 Code Is Not the Constitution
 
-Governance V2 adopts:
+The operative constitutional rule is:
 
 > **Code is not the Constitution.**
 
