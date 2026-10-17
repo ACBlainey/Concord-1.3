@@ -425,6 +425,12 @@ The purpose is not to impose a universal ideal rate.
 
 It is to make constitutional velocity visible.
 
+## 11.8 Chapter 11 Consistency Reconciliation — Controlled Change Without Authority Accumulation
+
+Controlled persistence, operational revision, constitutional change, parameter drift and architectural drift remain distinct. A change proposal, successful trial, committee review, technical rollout or repeated precedent **does not acquire authority by taking place**. Each consequential adoption or implementation requires the relevant separately lawful, state-conditioned decision and execution acts; committed decisions remain immutable events, while a later policy change is a new authorised event, not revocation of a consumed ballot.
+
+The terms “canonical,” “provisional” and source-restoration labels appearing in the inherited Chapter 11 text are historical editorial classifications, not limits on the actionability of operative governance rules. Published V2.2 text must express the actual rules directly, without these status labels. Genuine change-control dependencies and open design boundaries should remain precise and operational. No general power to amend constitutional rules is inferred from operational change-management capability.
+
 # Chapter 12 — Managing Governance Work
 
 ## 12.0 Consolidated triadic governance rule
@@ -1583,6 +1589,20 @@ Reuse `03_Cross_Domain_Architecture/Stewardship_Selection_and_Allocation/README.
 - **G-007 — Architecture to be designed:** Design event identity, ancestry, retry/idempotency, protected cross-alias uniqueness, lawful appeal boundaries and unknown-boundary quarantine.
 
 **Future acceptance evidence:** record accountable owner, actual mandate, state-machine/adapter specification, failure and recovery paths, independent review and provenance. Preserve CAP ≠ PERM ≠ AUTH. Do not mark implementation as tested or operational until supported by real evidence.
+## 12.23 Chapter 12 Consistency Reconciliation — Triadic State and Bounded Decisions
+
+The normal triad, lawful constitution of three selected positions, alternate substitution, independent ballot commitment, expansion and emergency procedures in this chapter must be read together with §§9.18.1, 9.20.1–9.20.3, 9.37.1, 9.40.1–9.40.3 and 9.41.1–9.41.2.
+
+- **No persistent vote authority:** Steward eligibility, selection, role and mandate are prerequisites, not held authority tokens. A lawful ballot is authorised and consumed at its act-time state transition. Technical grants, check/commit windows, revocation messages and ACKs do not store constitutional authority; their cross-system races require owner-level reconciliation.
+- **Three distinct positions:** An ordinary triad cannot become a valid vote with fewer than three lawfully selected positions. A lawful alternate may substitute for an absent or conflicted selected steward under the applicable state rules; the original may supersede an alternate only before that alternate commits. No steward casts more than one position's official vote.
+- **Completion versus emergency effect:** Two aligned ballots mathematically determine a majority, but the ordinary vote awaits all three official ballot outcomes. Separately lawful emergency execution after two matching votes does not create a standing authority or eliminate the third steward's ordinary position.
+- **No post-commit revision:** Official ballots and their event records are immutable. Later correction or reconsideration is an independent new decision event, not a revocation or amendment of the previous ballot. A new event ID alone does not generate a new enabling state.
+- **Expanded voting is not larger-scale sovereignty:** Constituent triads provide bounded resultant positions; expansion does not increase each resultant's vote weight or confer superior authority. A separately constituted wider GTP spatial decision may be needed where the question's competent scope is wider; its participant composition and aggregation remain to be designed rather than inferred from ordinary expanded-triad patterns.
+- **Conference, meetings and review:** Conference is an authorised information-sharing condition, not a new authority holder. Meeting attendance, consensus, recording and audit cannot manufacture decision authority. Default official ballot independence remains protected.
+- **Emergency coexistence:** Emergency action is confined to the specific emergency and cannot replace ordinary regional governance. Only a genuinely extreme existential crisis may require narrowly necessary interruption of affected ordinary functions; the precise lawful mechanism is still to be designed.
+
+**Significant source conflicts preserved:** Older “provisional-position,” “authority grant,” “revocation race” and “higher-tier escalation” terminology requires publication-level semantic cleanup against the state-consumption and nonhierarchical GTP rules. The working source retains these passages for provenance; no invented implementation is inserted here.
+
 # Chapter 13 — Stewardship Domains
 
 ## 13.1 Introduction
@@ -2575,6 +2595,12 @@ Scientific Stewardship may not automatically:
 The boundary can therefore be summarised:
 
 > **Science informs civilisation about reality. Governance determines lawful civilisational action. Neither function should capture the other.**
+
+## 13.29 Chapter 13 Consistency Reconciliation — Domain Knowledge Is Not Governance Authority
+
+Scientific stewardship, epistemic evaluation, expert accreditation, research independence and cross-domain advice do not confer constitutional voting authority or jurisdiction over other domains. A scientific finding or uncertainty label supplies evidence, not an executable mandate. Neither a council of experts nor an advisory meeting can acquire authority through consensus. A domain steward may act only within the separately lawful function, context and authoritative state of the particular act; inter-domain coordination is not an implicit command hierarchy.
+
+Independent research, disagreement, evidence provenance and participant rights remain protected. An urgent scientific warning can justify a separately constituted response but cannot itself create emergency sovereignty or override ordinary triadic voting conditions. Exact cross-domain referral and host execution interfaces remain owner-specific design matters.
 
 # Chapter 14 — Economic Stewardship
 
@@ -3751,6 +3777,12 @@ Economic Stewardship may not automatically:
 A compact principle is:
 
 > **The economy serves civilisation. Civilisation does not exist merely to serve the economy.**
+
+## 14.32 Chapter 14 Consistency Reconciliation — Economic Function Without Economic Sovereignty
+
+Economic stewardship's coordination, market monitoring, enterprise protections, anti-monopoly functions and resource planning do not create ownership of the economy or general authority over participants. Wealth, market dominance, infrastructure dependence, contribution, expertise and economic necessity are not governance authority. No enterprise, advisory body or coordinating group can manufacture authority by acting together.
+
+Any compulsory economic intervention, resource reallocation or consequential system instruction must have a separately lawful contextual purpose, rights boundary, act-time state transition and accountable execution route. Economic data and simulations are evidence, not permission; an economic emergency cannot confer general regional sovereignty. The chapter's substantive economic and lifecycle architecture remains intact.
 
 # Chapter 15 — Monetary Architecture
 
