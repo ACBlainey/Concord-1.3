@@ -2486,7 +2486,7 @@ A useful emergency format may be:
 
 **What evidence would change the recommendation**
 
-This allows Governance to act without pretending uncertainty has disappeared.
+This allows Governance to evaluate emergency action without pretending uncertainty has disappeared. Scientific urgency, an expert recommendation or a changing confidence estimate does not itself constitute a triad, commit an official ballot or grant implementation authority; any consequential response remains subject to the separately lawful emergency decision and host-system checks.
 
 ## 13.26 Science Metrics
 
