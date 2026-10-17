@@ -2965,6 +2965,14 @@ Qualitative evidence may be essential.
 
 The purpose is to detect divergence between constitutional text and lived constitutional reality.
 
+## 5.6 Chapter 5 Consistency Reconciliation — Practical Rights and Bounded Action
+
+Practical constitutional rights are not extinguished by procedural availability, administrative convenience, dependency or an emergency declaration. Consent, exit, access, review and remedies must remain practically exercisable where constitutionally applicable; participation in a process or attendance at a meeting does not by itself surrender rights or create authority over another participant.
+
+Any governance response intended to protect or restore a practical right requires its own lawful contextual authority. Neither a perceived rights deficit nor an asserted benevolent objective creates an unrestricted intervention power. Emergency action is limited to the emergency; only a genuinely extreme existential crisis may justify narrowly necessary interruption of affected ordinary governance functions, without automatic transfer of sovereignty.
+
+The existing Chapter 5 rights and review architecture is preserved. Specific rights-remedy owner interfaces and crisis constraints must be resolved in their competent domains rather than inferred from this consistency note.
+
 # Chapter 6 — Governance Failure as a Constitutional Problem
 
 ## 6.1 Failure Is Expected
@@ -3922,6 +3930,14 @@ Model use should therefore preserve:
 - uncertainty;
 - and evidence of prior prediction performance.
 
+## 6.16 Chapter 6 Consistency Reconciliation — Failure Does Not Confer Control
+
+Failure detection, diagnosis, containment, correction, learning and architectural revision are **distinct activities**, none of which inherently acquires governance authority. A failure label, audit result, risk metric, coordinating group, technical controller or emergency response team cannot displace an otherwise lawful steward or assume general regional governance. Containment or correction affecting rights, resources or systems requires its own lawful contextual authority at the action instant, within its actual purpose and scope.
+
+Repeated failure may justify separately authorised review or reconsideration, but cannot automatically expand an incumbent's jurisdiction or create permanent supervisory power. Corrective action does not revoke or edit an earlier consumed ballot: where a new consequential decision is required, it is an independently constituted event with its own unique identity. The original failure and decision histories remain recoverable.
+
+An extreme existential crisis may exceptionally interrupt only those ordinary functions that cannot safely continue, under a separately designed lawful route; ordinary stewardship otherwise continues. The source Chapter 6 failure taxonomy and safeguards remain intact, including its unresolved implementation details.
+
 # Chapter 7 — Good-Faith Error, Negligence and Misconduct
 
 ## 7.1 Governance Must Expect Error
@@ -4232,6 +4248,12 @@ Where appropriate, good-faith self-reporting may be treated as evidence of const
 
 
 
+## 7.13 Chapter 7 Consistency Reconciliation — Accountability Without Authority Inheritance
+
+Good-faith error, negligence, recklessness, misconduct, whistleblowing and correction remain distinct accountability categories. A finding of misconduct or a credible report is **evidence for lawful review**, not an authority source for a meeting, investigator, auditor, complainant or emergency actor. Investigation, protective measures, adjudication and remedies each require the appropriate separately constituted, bounded authority; a steward's earlier consumed decision authority cannot be reused to revise their committed ballot.
+
+Responsibility and fiduciary accountability may persist after an act even though its particular contextual authority was consumed at commitment. Delegation and automation do not erase accountability, but neither do they automatically give a supposed “superior” standing power to intervene in unrelated decisions. The existing distinctions between reasonable error and culpable conduct remain operative; no automatic sanction or new procedural threshold is created by this reconciliation.
+
 # Chapter 8 — Provisional Governance Invariants and Unresolved Foundations
 
 ## 8.1 Status of This Chapter
@@ -4440,6 +4462,14 @@ Where a final universal architecture has not been determined, existing lawful Go
 An unresolved architectural question does not imply unlimited discretion.
 
 Existing constitutional constraints continue to apply.
+
+## 8.4 Chapter 8 Consistency Reconciliation — Invariants and Open Foundations
+
+The listed invariants are retained. Their references to “delegated,” “bounded,” “reviewable” and “correctable” authority must be read with the **instantaneous, state-conditioned exercise and consumption** model: enduring roles and legitimate functions are prerequisites, not stored exercisable power. Correction and review operate through independently lawful later events and do not alter an immutable prior ballot.
+
+**Additional cross-chapter constraints:** no action, meeting or group acquires authority by existing; a GTP larger spatial scale is not a superior governance tier; larger-scale event composition and vote aggregation remain undecided; emergency authority coexists with ordinary stewardship without takeover except for a narrowly necessary interruption during a genuine existential crisis. No existing Chapter 8 invariant silently overrides these constraints.
+
+The chapter's historical heading and “provisional” development wording, and the unresolved questions in §8.3, are preserved for later explicit editorial resolution. Their presence does not itself suspend established governance rules or supply permission to invent missing architecture. Open technical and constitutional interfaces remain expressly open.
 
 # Chapter 9 — Governance Process and Decision Architecture
 
