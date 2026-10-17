@@ -1575,7 +1575,7 @@ Reuse `03_Cross_Domain_Architecture/Stewardship_Selection_and_Allocation/README.
 
 ### 12.29.13 Future design architecture — deferred implementation interfaces (G-004, G-005, G-006, G-007)
 
-**ARCHITECTURE TO BE DESIGNED — OUTSIDE CURRENT V2.1 TEXT-INTEGRATION SCOPE.** The principles in this chapter remain operative as stated. The following are design requirements, **not** invented deployed services, automatic authority grants or grounds to delay consolidation. Resolve these at the indicated interfaces when working systems and domain owners exist:
+**ARCHITECTURE TO BE DESIGNED — IMPLEMENTATION INTERFACES.** The principles in this chapter remain operative as stated. The following are design requirements, **not** invented deployed services, automatic authority grants or grounds to delay consolidation. Resolve these at the indicated interfaces when working systems and domain owners exist:
 
 - **G-004 — Architecture to be designed:** Specify triangle-owned Steward-to-node identity, eligible-holder and office-location mapping; geometric incidence must never appoint a voter.
 - **G-005 — Architecture to be designed:** Define lawful constituent-triad appointment, distinct-holder checks, common competence, resultants, recusal and decision-event proof for both expanded modes.
