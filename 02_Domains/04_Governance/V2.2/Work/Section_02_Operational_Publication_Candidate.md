@@ -470,7 +470,7 @@ Institutional office, competence, standing procedure, technical capability and v
 
 A delayed acknowledgement or status query reports or reconciles an outcome; it does not renew the consumed authority. A local atomic transaction cannot guarantee atomicity of an external physical effect: unknown host outcomes require identity-based reconciliation, not blind replay. Two matching valid ballots determine the mathematical majority; ordinary acceptance requires all three official ballots, while emergency action after two matching ballots requires separate emergency authority and current owner-state checks. A successful local state-machine transaction does not establish authenticated external-owner state, distributed atomicity, lawful jurisdiction or host execution authority. The third Steward retains independently valid remaining ballot eligibility after emergency action; no Civilisational Clock tick is a prerequisite for independently authorised emergency action. Ordinary urgent decisions still require the third official ballot.
 
-**Open implementation boundary:** bind actual owner attestations, revocation evidence and cross-system effect reconciliation to the committing state machine without converting prerequisite validity windows into continuing authority.
+**Architecture to be designed — governance commitment interface:** Specify how competent owner attestations, revocation evidence and uncertain downstream effects are verified at the authoritative commitment boundary. Prerequisite validity windows must not become continuing or reusable governance authority.
 
 ### 12.0f Contextual quorum, missing positions and provisional records
 
