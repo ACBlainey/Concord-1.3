@@ -5170,7 +5170,7 @@ The planner’s role is:
 
 **Make futures visible.**
 
-Governance determines what authorised action follows.
+Governance may decide only matters within its lawful competence; any resulting action requires the separately competent implementing system's authority.
 
 Planning therefore belongs to the advisory and analytical architecture.
 
