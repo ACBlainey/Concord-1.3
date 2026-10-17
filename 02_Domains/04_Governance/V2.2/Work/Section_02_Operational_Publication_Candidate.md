@@ -6165,7 +6165,7 @@ Judicial review and correction of a prior decision do not reopen or modify a con
 
 A constitution may formally separate institutions while practical power remains concentrated.
 
-Governance V2 therefore examines both:
+Governance must therefore examine both:
 
 **institutional form**
 
