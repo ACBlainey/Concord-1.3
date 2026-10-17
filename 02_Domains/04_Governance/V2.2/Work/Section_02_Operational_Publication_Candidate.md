@@ -6392,7 +6392,7 @@ Selection and appointment must not become self-reinforcing institutional privile
 
 **[LOCAL OPEN DEPENDENCIES:]** Legitimate selector and appointing triad constitution; allocation of parallel positions; competing eligible candidates; office-specific tenure, recall, rotation and succession; privacy and independence of shadow comparisons; decision-class evaluation research; actual Education/Historical/office owner interfaces. Preserve these as local flags rather than blocking incorporation.
 
-## 19.19 Chapter 19 Consistency Reconciliation — Capture Detection Is Not Authority
+## 19.19 Capture Detection Is Not Authority
 
 Economic, algorithmic, infrastructural, reputational, majority and minority capture can occur as **de facto influence and control** without creating de jure authority. Combining multiple functions, committees, stewards, technical privileges or independent analytical results does not create extra votes, wider jurisdiction or a continuing authority reservoir. Anti-capture interventions, separation measures and adjudications must themselves pass lawful contextual state and rights constraints.
 
@@ -6480,7 +6480,7 @@ A challenge may trigger preservation of evidence, protective measures within ind
 
 Reporting and review interfaces must preserve privacy, contextual access controls, protection against retaliation, conflict separation and provenance. The exact independent review forum, protective-response mandate, cross-domain appeal procedure, emergency degraded-action threshold, temporary protective-review interval and owner-level correction interfaces remain architecture to be designed where not already established. These unresolved implementation details do not suspend the existing protection of good-faith challenge or authorise an unbounded emergency response.
 
-## 20.8 Chapter 20 Consistency Reconciliation — Challenge and Independent Correction
+## 20.8 Challenge and Independent Correction
 
 Whistleblowing, protected dissent, evidence submission, appeals and independent review are protected functions, not a means for a complainant, reviewer, meeting or coordinating group to acquire governance authority. The right to challenge a decision does not include a power to rewrite its committed ballots or immutable record. Corrective outcomes must be constituted as new, separately lawful decision and execution events, with provenance linking them to the original.
 
