@@ -4588,7 +4588,7 @@ Any decision to adopt, operate, modify or retire such a system requires the comp
 
 Monetary creation, verification, energy reference, banking, taxation, public finance and monetary stewardship remain distinct functional subjects. Monetary control, ledger administration, issuance capability, validator status, financial holdings and emergency liquidity provision do not generate constitutional authority over governance or participants. A monetary authority is not a general governance authority, and technical validation of a transaction is not independent constitutional permission for a consequential act.
 
-Each consequential monetary decision and execution must satisfy its own lawful bounded context and current state, with separate reconciliation for host-system effects and immutable decision records. Neither a currency rule, financial metric, automated controller nor group of validators acquires authority simply by operating. The substantive monetary design and unresolved implementation choices remain preserved.
+Each consequential monetary decision and execution must satisfy its own lawful bounded context and current state, with separate reconciliation for host-system effects and immutable decision records. Neither a currency rule, financial metric, automated controller nor group of validators acquires authority simply by operating. Monetary instrument design, calibration and implementation choices remain responsibilities of the competent economic and technical domains; they do not create independent governance authority.
 
 # Chapter 16 — Resource Stewardship
 
