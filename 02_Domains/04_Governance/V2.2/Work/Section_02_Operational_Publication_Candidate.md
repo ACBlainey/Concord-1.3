@@ -3248,7 +3248,7 @@ Economic concentration becomes constitutionally important where it converts into
 - monopoly;
 - or practical inability of Governance to regulate the economic actor.
 
-Governance V2 therefore makes explicit:
+The operative Governance safeguard is:
 
 **Economic power must not silently become constitutional authority.**
 
