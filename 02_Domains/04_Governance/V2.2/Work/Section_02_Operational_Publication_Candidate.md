@@ -5145,7 +5145,7 @@ This chapter does not itself resolve:
 
 Those questions remain explicitly open.
 
-## 16.18 Chapter 16 Consistency Reconciliation — Resource Duties Without Standing Control
+## 16.18 Resource Duties Without Standing Control
 
 Resource stewardship, commons protection, intergenerational obligations, environmental measurement and product lifecycle duties do not create ownership of resources or general power to command participants. Scarcity, concentration, ecological urgency or stewardship responsibility may justify considering a bounded intervention but cannot by itself supply authority. Each consequential act must have its own lawful context, rights limits, state-conditioned authorisation and accountable execution.
 
