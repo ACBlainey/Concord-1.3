@@ -425,7 +425,7 @@ The terms “canonical,” “provisional” and source-restoration labels appea
 
 ## 12.0 Consolidated triadic governance rule
 
-**Authority and source status:** This V2.2 section carries forward the operative triadic governance rule established in V2.1, which superseded the erroneous V2 governance text. The current reconciliation clarifies its expression without treating inherited editorial labels as competing authority. Superseded V2 wording remains in the unchanged historical V2 source rather than being repeated here as a competing rule. Any genuinely unresolved implementation interface or source discrepancy is flagged locally; neither makes the settled three-holder constitution, three-ballot ordinary completion or bounded emergency exception provisional.
+**Governing triadic rule:** Three lawfully selected distinct Steward holders are required to constitute a valid voting forum. Ordinary completion requires three official ballots. Two matching substantive ballots establish the majority, but do not dispense with the third ballot for ordinary completion. A separately lawful bounded emergency may act upon two matching ballots before the third is received. Unresolved implementation interfaces do not suspend these requirements.
 
 **Mandate before vote.** A valid triadic decision requires a defined civil question, legitimate functional and jurisdictional mandate, three independently authorised Steward positions, eligible participants, bounded evidence context, and an auditable decision-event boundary. Technical capability, office title, geometry, appointment and permission are distinct from specific vote authority. A Steward's official ballot is Favour (F), Against (A) or Abstain; abstention is not Against or a vacancy.
 
