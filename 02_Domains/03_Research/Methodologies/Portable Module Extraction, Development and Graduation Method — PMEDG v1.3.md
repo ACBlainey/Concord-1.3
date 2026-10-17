@@ -52,6 +52,28 @@ A mechanism can be portable while still experimental.
 
 A graduated portable module has completed the stated portable-package development cycle. It has not thereby been proven universally correct.
 
+## 3.1a Subordinate and independent status of portable modules
+
+**Portable modules are standalone external-use artefacts, subordinate to the competent Concord system architecture from which their behaviour is derived.** A portable module is not itself an operational Concord system, a constitutional authority, a domain owner, or a source of permission. Independence means it can be read, tested and implemented outside Concord without requiring the live Concord infrastructure; it does **not** mean independence from the source architecture's constraints or authority to amend that architecture.
+
+**Architecture flows from the competent source system to the portable specification, not in reverse.** Neither extraction, testing, graduation, external adoption nor subsequent module revision may establish, replace, delete, silently narrow or override a rule of an operational Concord system. Extract means **copy and faithfully adapt for standalone use**, never cut, move or remove architecture from its owning source. Original source files must remain intact. A module may simplify presentation or substitute explicit external integration contracts, but must identify those adaptations and cannot present them as changed Concord law.
+
+A portable module may inform Concord architectural development **only when expressly authorised by the competent architecture owner through the applicable lawful development and decision process**. Such authorisation must identify the specific proposed change, responsible owner, scope, review and recorded adoption into the actual system document. Discovery of an inconsistency or missing rule is a research finding to be referred to that owner, not a licence to back-propagate the module's wording into operational governance.
+
+When the module conflicts with the current competent source architecture, **the source architecture controls Concord operation**. Record the mismatch, quarantine the conflicting portable claim, and revise or withdraw the module as appropriate. Do not use a portable module as a fallback source of authority when the system document is incomplete or disputed; instead inspect original and historical system sources and resolve the issue through the competent architecture process.
+
+Graduation validates a module's defined standalone transfer evidence only. It does not certify current Concord operational deployment, amend system architecture or confer any decision or implementation authority. Release documentation must identify its source architecture and version, applicable scope, external-use boundaries, dependencies, known deviations and a conformity review trigger when the source architecture changes.
+
+**Required pre-release check:** confirm the source has been copied rather than removed; no operational source was modified by extraction; all normative module rules trace to the current competent source or explicitly labelled external adaptations; any suggested upstream change has separate explicit authorisation; and no portable-module reference is being used to justify an operational system rule.
+
+> **Portable Module ≠ Operational System ≠ Architectural Authority**
+
+> **Standalone Independence ≠ Authority Independence**
+
+> **Extraction = Copy and Adapt, Never Cut**
+
+> **Module-to-System Change Requires Explicit Authorisation**
+
 ## 3.2 Source before abstraction
 
 Do not extract a module from a convenient summary while ignoring the wider source architecture.
