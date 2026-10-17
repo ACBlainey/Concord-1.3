@@ -4323,7 +4323,7 @@ Possible examples include:
 - catastrophic disaster;
 - or systemic cyber failure.
 
-Emergency monetary authority should remain subject to:
+A monetary crisis does not independently create voting authority or confer a general emergency mandate. Any consequential intervention requires a separately lawful decision by a fully constituted competent triad, with the two-matching-ballot emergency exception available only where independently authorised, followed by host-system verification of the bounded monetary act. Emergency monetary authority should remain subject to:
 
 - defined triggers;
 - proportionality;
