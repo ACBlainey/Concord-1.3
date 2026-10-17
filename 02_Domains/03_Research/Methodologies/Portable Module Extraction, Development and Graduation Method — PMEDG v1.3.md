@@ -56,7 +56,7 @@ A graduated portable module has completed the stated portable-package developmen
 
 **Portable modules are standalone external-use artefacts, subordinate to the competent Concord system architecture from which their behaviour is derived.** A portable module is not itself an operational Concord system, a constitutional authority, a domain owner, or a source of permission. Independence means it can be read, tested and implemented outside Concord without requiring the live Concord infrastructure; it does **not** mean independence from the source architecture's constraints or authority to amend that architecture.
 
-**Architecture flows from the competent source system to the portable specification, not in reverse.** Neither extraction, testing, graduation, external adoption nor subsequent module revision may establish, replace, delete, silently narrow or override a rule of an operational Concord system. Extract means **copy and faithfully adapt for standalone use**, never cut, move or remove architecture from its owning source. Original source files must remain intact. A module may simplify presentation or substitute explicit external integration contracts, but must identify those adaptations and cannot present them as changed Concord law.
+**Architecture flows from the competent source system to the portable specification, not in reverse.** Neither extraction, testing, graduation, external adoption nor subsequent module revision may establish, replace, delete, silently narrow or override a rule of an operational Concord system. Extract means **copy and faithfully adapt for standalone use**, never cut, move or remove architecture from its owning source. Original source files must remain intact. **Extraction is a read-only copying operation against the source documents: no passage, heading, diagram, rule, annotation or other material may be deleted, moved out, truncated, overwritten or altered in the source as a consequence of making a portable module.** All abstraction, simplification, reformatting and adaptation occurs exclusively in the separate module copy. Any separately authorised amendment of an operational system must be conducted as its own independent, traceable system-development action, never disguised as extraction. A module may simplify presentation or substitute explicit external integration contracts, but must identify those adaptations and cannot present them as changed Concord law.
 
 A portable module may inform Concord architectural development **only when expressly authorised by the competent architecture owner through the applicable lawful development and decision process**. Such authorisation must identify the specific proposed change, responsible owner, scope, review and recorded adoption into the actual system document. Discovery of an inconsistency or missing rule is a research finding to be referred to that owner, not a licence to back-propagate the module's wording into operational governance.
 
@@ -70,7 +70,7 @@ Graduation validates a module's defined standalone transfer evidence only. It do
 
 > **Standalone Independence ≠ Authority Independence**
 
-> **Extraction = Copy and Adapt, Never Cut**
+> **Extraction = Copy Only; Never Remove or Alter Source Material**
 
 > **Module-to-System Change Requires Explicit Authorisation**
 
