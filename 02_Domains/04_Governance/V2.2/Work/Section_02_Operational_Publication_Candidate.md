@@ -935,13 +935,13 @@ The escalation record should therefore preserve:
 
 Where escalation transfers any decision power, the record must identify the constitutional instrument, the originating and receiving competent offices, the exact matter and powers, any retained local jurisdiction, expiry, review and route for return. Referral for advice or coordination alone transfers no decision authority.
 
-## 12.12 Escalation Is Not Failure
+## 12.12 Referral Is Not Failure
 
-Escalation should not automatically be interpreted as evidence that lower governance failed.
+A lawful referral or request for wider-scope coordination should not automatically be interpreted as evidence that the originating governance forum failed.
 
-A local steward may act correctly by recognising that a problem exceeds local authority.
+A Steward may act correctly by recognising that a problem exceeds the forum's competence, capacity or jurisdiction.
 
-Indeed, refusal to escalate when escalation is constitutionally necessary may represent the greater failure.
+Indeed, refusing a constitutionally necessary referral may represent the greater failure.
 
 Governance should reward accurate recognition of jurisdictional limits rather than encourage institutions to retain every problem.
 
