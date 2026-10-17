@@ -82,6 +82,15 @@ The separate consolidated §9.53 has been eliminated from the working Section 01
 
 **Review still required:** Existing §§9.12–9.18 and §§9.40–9.41 may repeat relocated rules; reduce repetition only after unique protections have been checked. The cross-section pointer policy remains: do not copy the Chapter 12 operating procedure into Chapter 9.
 
+## Chapter 9 overlap reduction — 17 October 2026
+
+- §9.12 now states the no-majority principle and points to §9.12.1 for the single detailed ballot, determinacy, ordinary completion and emergency-effect rule.
+- Former unnumbered §9.14 “Three-Position Result Semantics” is now §9.14.1, restricted to the unique status distinction between official Abstain, evidence requests, pending, invalid positions and completed Unresolved (U), with Chapter 12 constituent-resultant pointers.
+- §9.17.1 no longer repeats the entire majority, vote-count and emergency-completion mechanics; it retains its unique cause-specific recusal, conflict and substitution constraints.
+- §9.3.1 now refers to §9.18.1 for return and replacement and Chapter 12 for the detailed alternate pool, rather than re-explaining both.
+- §9.40.1 now points to the authoritative ballot conditions in §9.12.1, retaining the emergency-specific constitutional scope, spatial decision, Civilisation Clock and executing-host safeguards.
+- **Further pass:** Review §9.41.1–9.41.2 against §§9.10.2, 9.12.1 and 9.29.1, keeping unique state-machine and external-host replay protections. Review source preservation and Chapter 10 completeness before publication.
+
 ## Publication gate
 
 Do not overwrite the published Section 01 until the chapter-by-chapter contradiction scan, full substantive preservation comparison and remaining authorial-decision log have been reviewed. Unbuilt implementation architecture may remain as precise boundaries.
