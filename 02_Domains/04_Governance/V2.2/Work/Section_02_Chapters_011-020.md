@@ -4636,6 +4636,12 @@ Nor should it be elevated to immutable constitutional requirement before compari
 
 This preserves both the idea and the Concord’s commitment to correction.
 
+## 15.26 Chapter 15 Consistency Reconciliation — Monetary Systems and Act-Time Authority
+
+Monetary creation, verification, energy reference, banking, taxation, public finance and monetary stewardship remain distinct functional subjects. Monetary control, ledger administration, issuance capability, validator status, financial holdings and emergency liquidity provision do not generate constitutional authority over governance or participants. A monetary authority is not a general governance authority, and technical validation of a transaction is not independent constitutional permission for a consequential act.
+
+Each consequential monetary decision and execution must satisfy its own lawful bounded context and current state, with separate reconciliation for host-system effects and immutable decision records. Neither a currency rule, financial metric, automated controller nor group of validators acquires authority simply by operating. The substantive monetary design and unresolved implementation choices remain preserved.
+
 # Chapter 16 — Resource Stewardship
 
 ## 16.1 Status
@@ -5184,6 +5190,12 @@ Until the dedicated Resource architecture is completed, Governance should not im
 - or final intergenerational-rights doctrine.
 
 Those questions remain explicitly open.
+
+## 16.18 Chapter 16 Consistency Reconciliation — Resource Duties Without Standing Control
+
+Resource stewardship, commons protection, intergenerational obligations, environmental measurement and product lifecycle duties do not create ownership of resources or general power to command participants. Scarcity, concentration, ecological urgency or stewardship responsibility may justify considering a bounded intervention but cannot by itself supply authority. Each consequential act must have its own lawful context, rights limits, state-conditioned authorisation and accountable execution.
+
+The inherited labels “ACTIVE / PROVISIONAL / REQUIRES FUTURE RECURSION,” “Provisional Resource Principle” and “Provisionality Must Remain Visible” describe historical editorial status rather than a substantive prohibition on applying established resource rules. In the **published operational copy**, replace status qualifications with precise descriptions of any genuinely incomplete resource mechanism, while retaining the working text unchanged for provenance. No missing threshold or resource allocation mechanism is invented here.
 
 # Chapter 17 — Civilisational Planning
 
@@ -5994,6 +6006,12 @@ The constitutional boundary can be stated:
 
 > **Planning makes futures visible. Governance chooses authorised action in the present.**
 
+## 17.22 Chapter 17 Consistency Reconciliation — Planning Is Not Command
+
+Scenario analysis, foresight, Reality Trees, Roadway, risk signals and planning recommendations are information and preparedness functions. A planner, simulation, planning committee or long-range model cannot acquire governance authority through accuracy, influence, urgency or the scope of its forecast. No scenario label, automated threshold or proposed plan authorises compulsory implementation without a separate lawful, state-conditioned decision and host act.
+
+Planning at multiple GTP spatial scales does not establish a superior tier of governance. A genuinely wider-scope issue may require a separately constituted competent event without displacing ordinary local decisions. Planning failures and existential threats do not themselves confer general emergency power. Cross-domain planning interfaces and execution details remain with their lawful owners.
+
 # Chapter 18 — Institutional Relationships
 
 ## 18.1 Governance Is One System Among Several
@@ -6162,6 +6180,12 @@ AI involvement should not be inferred from capability alone.
 **Recovered source:** `GTP Spatial Triadic Governance — V1.2 Architecture Recovery 001.md`, §§15–17. Governance chooses among legitimate civil actions; Judiciary adjudicates disputes, legality and constitutional boundaries. Their shared triadic method does not merge their institutional functions. Epistemic triads and GTP evidence meshes supply independent information, not votes or governance mandates. Historical holds durable decision provenance, not the authority to make decisions. Significant governance decisions should preserve GTP context, decision scope, authority source, participating positions, material qualification/conflicts, evidence and uncertainty, nonofficial preliminary positions where lawfully recorded, committed official ballots, dissent/abstention, outcome, implementation effects and review conditions. Protected information is retained under its own contextual access rules. **[LOCAL ISSUE:]** Disclosure of preliminary reasoning and conference content must not compromise official voting isolation, protected data or future independent reviews.
 
 
+
+## 18.12 Chapter 18 Consistency Reconciliation — Independent Institutional Functions
+
+Governance, Judiciary, Historical, Research, KCS, Continuity, Ratchet, Roadway, metrics and AI systems retain distinct functions and accountability. Information exchange, custody, evidence, review, technical access, enforcement capability and inter-domain coordination do not convert one institution into the constitutional authority of another. An oversight meeting or shared workflow cannot create collective sovereignty.
+
+Judicial review and correction of a prior decision do not reopen or modify a consumed ballot. Each new consequential adjudicative, protective or executive act requires the appropriate independent lawful contextual state. An affected execution system remains responsible for its own lawful act-time checks; an upstream governance vote is not an unlimited host-effect command. Interfaces not defined in the chapter remain to be specified by their actual system owners.
 
 # Chapter 19 — Governance Capture and Power Separation
 
@@ -6409,6 +6433,12 @@ Governance should not permit a change of constitutional regime to occur merely t
 
 **[LOCAL OPEN DEPENDENCIES:]** Legitimate selector and appointing triad constitution; allocation of parallel positions; competing eligible candidates; office-specific tenure, recall, rotation and succession; privacy and independence of shadow comparisons; decision-class evaluation research; actual Education/Historical/office owner interfaces. Preserve these as local flags rather than blocking incorporation.
 
+## 19.19 Chapter 19 Consistency Reconciliation — Capture Detection Is Not Authority
+
+Economic, algorithmic, infrastructural, reputational, majority and minority capture can occur as **de facto influence and control** without creating de jure authority. Combining multiple functions, committees, stewards, technical privileges or independent analytical results does not create extra votes, wider jurisdiction or a continuing authority reservoir. Anti-capture interventions, separation measures and adjudications must themselves pass lawful contextual state and rights constraints.
+
+A more capable AI, a dominant infrastructure operator or an acclaimed expert may supply evidence or perform separately authorised functions but does not thereby acquire political sovereignty. Steward selection and anti-entrenchment protections cannot be replaced by self-certified competence or by the institution controlling its own metric. No universal selection mechanism is invented where the recovered source does not establish one.
+
 # Chapter 20 — Whistleblowing, Challenge and Internal Correction
 
 ## 20.1 The Need for Internal Challenge
@@ -6525,3 +6555,9 @@ Where a proposed arrangement would give binding direction rather than merely org
 **Recovered source:** `GTP Spatial Triadic Governance — V1.2 Architecture Recovery 001.md`, §§1A, 15–18, 19A. Steward dissent and abstention must be preserved as attributable governance evidence and diagnostic signals, not punished as disloyalty. Failure or capture of a local triad can trigger independent challenge, adjacent coordination and separately legitimate review without manufacturing a superior political office. Corrective decisions and later evidence must be linked to the original immutable decision record, not silently overwrite committed votes or Historical provenance. The ability to produce evidence, challenge an outcome or hold archival custody does not grant executive authority. **[LOCAL ISSUE:]** Emergency degraded-action threshold, provisional review time, protection for dissenters and owner-level correction interfaces require separate specification; this does not prevent inclusion of the original safeguards.
 
 
+
+## 20.8 Chapter 20 Consistency Reconciliation — Challenge and Independent Correction
+
+Whistleblowing, protected dissent, evidence submission, appeals and independent review are protected functions, not a means for a complainant, reviewer, meeting or coordinating group to acquire governance authority. The right to challenge a decision does not include a power to rewrite its committed ballots or immutable record. Corrective outcomes must be constituted as new, separately lawful decision and execution events, with provenance linking them to the original.
+
+Protection against retaliation remains applicable without converting a reporting channel or Historical evidence custodian into a general executive office. Failure or capture of a local triad can justify independent lawful review or appropriate spatial coordination, but not automatic installation of a superior governance tier. Emergency protective action is limited to its separately lawful emergency context. The chapter's exact challenge, protective and cross-domain implementation interfaces remain to be designed where not already specified.
