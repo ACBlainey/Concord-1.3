@@ -512,7 +512,7 @@ A protected voting-context record should bind the decision and question versions
 
 ### 12.0j Decision validity gates and historical event boundaries
 
-Apply separate **competence → forum → participation → substantive resolution → consequential commit** gates. Competence identifies the legitimate source for the exact question, affected rights and jurisdictions. Forum establishes the correct ordinary, expanded, shared-competence or emergency procedure. Participation verifies independently authorised position holders, distinct identities, eligibility, conflict/recusal cause and applicable contextual quorum. Resolution then applies the original triadic For/Against/Abstain arithmetic within each valid triad, with a constituent's non-majority **Unresolved** resultant kept distinct from individual abstention and procedural invalidity. Commit independently rechecks current state and effect authority. Invalid constitution, absent jurisdiction, valid unresolved result and valid Against result must never be collapsed into one state. The previously proposed universal three-occupied-position quorum is superseded by the later two-valid-matching-official-votes clarification, subject to all remaining gates.
+Apply separate **competence → forum → participation → substantive resolution → consequential commit** gates. Competence identifies the legitimate source for the exact question, affected rights and jurisdictions. Forum establishes the correct ordinary, expanded, shared-competence or emergency procedure. Participation verifies independently authorised position holders, distinct identities, eligibility, conflict/recusal cause and applicable contextual quorum. Resolution then applies the original triadic For/Against/Abstain arithmetic within each valid triad, with a constituent's non-majority **Unresolved** resultant kept distinct from individual abstention and procedural invalidity. Commit independently rechecks current state and effect authority. Invalid constitution, absent jurisdiction, valid unresolved result and valid Against result must never be collapsed into one state. A valid triadic decision requires three distinct, lawfully selected Steward positions before its decision state can authorise voting. Two independently valid matching substantive ballots establish the mathematical majority but do not dispense with the third official ballot for ordinary completion or effect. Only a separately lawful bounded emergency procedure may act on two matching ballots before the third arrives; the remaining position and its ballot remain part of the constituted triad. These are distinct constitution, resolution, completion and implementation gates.
 
 A decision-event boundary is a substantive legal and state-machine relationship, **not** merely a newly generated DecisionID. Constituent stages, technical retries and continued deliberation remain part of their original legitimate event; a fresh identifier cannot reset one-Steward-one-position uniqueness or replay consumed authority. After completion, the original decision and ballots are historical and immutable. Reconsideration, appeal, remedy or a changed-circumstances decision is a **new decision instance** only under a separately legitimate mandate and current state, preserving links to prior history rather than altering it. If an apparent new stage's legal relationship to an existing event cannot be established, mark `DECISION_BOUNDARY_UNKNOWN` and withhold consequential commitment pending competent resolution. Independent later lawful decisions need not be permanently merged merely because they concern similar questions.
 
@@ -556,7 +556,7 @@ This chapter develops related mechanisms concerning:
 
 The purpose is to ensure that the Governance system can expand its decision field without simply centralising authority.
 
-The detailed triadic architecture is retained pending later comparison with the Triadic Decision Making Module, Judiciary and other systems.
+The detailed triadic architecture is operative in Governance. Cross-domain interfaces with Judiciary and other systems require their own competent integration and may not suspend or silently modify Governance's established triadic requirements.
 
 ## 12.2 The Normal Triad
 
@@ -572,11 +572,7 @@ The triad is intended to provide:
 - triangulation;
 - and a small enough decision unit to remain practical.
 
-The triad therefore remains the current default decision structure within this draft where the relevant V1 architecture specifies it.
-
-This is **not yet declared a final universal constitutional invariant**.
-
-Its final status will be reviewed after consolidation of the other systems.
+The triad is the established ordinary Governance decision unit. A valid triadic vote requires three distinct, lawfully selected Steward positions. Two matching official ballots establish a majority, but ordinary completion and effect require all three official ballots; a separately lawful emergency route may trigger bounded action after two matching ballots. Expanded voting preserves the constituent triads and their bounded authority rather than replacing them with an unconstrained higher office. See §§12.0a–12.0g and Chapter 9 for the operative state and ballot rules.
 
 ## 12.3 Why a Triad May Need to Expand
 
