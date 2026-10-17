@@ -419,8 +419,6 @@ It is to make constitutional velocity visible.
 
 Controlled persistence, operational revision, constitutional change, parameter drift and architectural drift remain distinct. A change proposal, successful trial, committee review, technical rollout or repeated precedent **does not acquire authority by taking place**. Each consequential adoption or implementation requires the relevant separately lawful, state-conditioned decision and execution acts; committed decisions remain immutable events, while a later policy change is a new authorised event, not revocation of a consumed ballot.
 
-The terms “canonical,” “provisional” and source-restoration labels appearing in the inherited Chapter 11 text are historical editorial classifications, not limits on the actionability of operative governance rules. Published V2.2 text must express the actual rules directly, without these status labels. Genuine change-control dependencies and open design boundaries should remain precise and operational. No general power to amend constitutional rules is inferred from operational change-management capability.
-
 # Chapter 12 — Managing Governance Work
 
 ## 12.0 Consolidated triadic governance rule
