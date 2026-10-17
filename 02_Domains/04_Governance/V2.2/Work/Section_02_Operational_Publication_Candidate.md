@@ -1051,7 +1051,7 @@ The two concepts are constitutionally distinct.
 
 ## 12.16 Emergency Priority
 
-An emergency may legitimately reorder ordinary Governance priorities.
+An independently established emergency condition may legitimately reorder ordinary Governance priorities, but priority reordering does not itself constitute an emergency mandate, an official triadic decision or permission to execute consequential acts. Emergency action remains subject to its separately lawful decision and host-system authority gates, including the permitted two-matching-ballot exception from a fully constituted triad where applicable. A paused Civilisation Clock must not block an independently authorised emergency response.
 
 Immediate preservation of:
 
