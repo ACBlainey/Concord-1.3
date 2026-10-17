@@ -3779,27 +3779,13 @@ Any compulsory economic intervention, resource reallocation or consequential sys
 
 # Chapter 15 — Monetary Architecture
 
-## 15.1 Status
+## 15.1 Monetary Governance and Implementation Boundaries
 
-Governance V1 contains substantial monetary architecture.
+This chapter forms part of the operative Governance architecture. Its monetary stewardship principles, rights constraints, anti-capture boundaries, accountability duties and separation of economic coordination from constitutional authority apply as stated.
 
-Governance V2 retains it.
+Detailed monetary instruments and mechanisms described in this chapter must be read according to their actual terms: an identified option, model, design proposal or possible implementation is not automatically an issued currency, deployed service, exclusive standard or immutable constitutional requirement. Ratchet and other lawful economic systems may interoperate with, refine or replace particular implementations through independently authorised decisions and recorded transitions, without silently displacing the chapter's operative safeguards.
 
-However, its status is clarified.
-
-The detailed mechanisms in this chapter should presently be treated as:
-
-**CANDIDATE / DEVELOPMENTAL ECONOMIC ARCHITECTURE**
-
-rather than immutable constitutional requirements.
-
-Ratchet and later Concord economic systems may modify, absorb or replace parts of this architecture.
-
-No material is removed at this stage merely because later systems may overlap.
-
-This distinction is important.
-
-The Concord should preserve developed monetary reasoning without prematurely converting a particular implementation into constitutional dogma.
+Preserve the full monetary reasoning and alternatives for source continuity. Any unresolved technical interfaces, economic calibration or deployment conditions remain specific architecture-to-be-designed requirements; they do not make the whole chapter provisional or confer monetary authority by implication.
 
 ## 15.2 Why Money Matters to Governance
 
