@@ -1552,6 +1552,22 @@ It requires preservation of the constitutional chain through which authority was
 
 
 
+## 1.24 Chapter 1 Consistency Reconciliation — Responsibility, Instantaneous Authority and Spatial Competence
+
+**Scope:** This subsection reconciles Chapter 1's existing terminology with the bounded contextual authority and state-consumption architecture. Earlier passages are retained verbatim for provenance and later editorial resolution.
+
+1. **Stewardship and fiduciary duty persist; exercised authority does not.** Statements in §§1.1–1.8 such as “holds authority in trust,” “appointment delegates constitutional authority,” “possesses only the authority delegated,” or authority being “transferred” describe constitutional responsibility, a legitimate functional mandate, eligibility and the conditions under which a future action may be authorised. They must **not** be interpreted as a continuously held quantity of exercisable authority. At each consequential action, lawful contextual authority is determined against the current authoritative state, is exercised in the authorised transition, and is consumed. Office and fiduciary accountability continue after that instant; the particular act's authority does not. See §9.41.2 and Clarification C09.
+
+2. **Delegation does not create an authority reservoir.** A lawful delegation may establish responsibilities, eligible actors, defined functions and prerequisites for later bounded acts. The delegate does not inherit an independently reusable power from the delegator; each act must satisfy its own scope and state conditions. The Chapter 1 references to delegation, accountability and superior stewards remain recorded, but cannot themselves justify a standing command hierarchy or unbounded supervisory control.
+
+3. **Lowest competent level is spatial and functional, not a chain of command.** The terms “higher level,” “higher authority,” “superior steward” and “centralisation” in §§1.11–1.12 are legacy descriptions that must not imply that a larger GTP area inherently governs its smaller areas. A decision requiring wider coverage or competence is separately constituted for its own event; ordinary decisions remain with their competent stewards. The composition and aggregation of larger-scale decisions remain open under §§9.20.1–9.20.3 and Clarifications C03–C05.
+
+4. **Emergency provisions do not suspend ordinary stewardship by default.** The possible emergency “expansion” in §1.21 must be read as strictly event-specific emergency procedure and effect, not a standing enlargement of office or takeover of regional governance. Ordinary governance continues independently. Only a genuine extreme existential crisis may justify narrowly necessary interruption of affected ordinary functions, under an as-yet-undesigned lawful mechanism. See §§9.40.2–9.40.3 and Clarifications C06–C07.
+
+5. **Influence, meetings and coordination cannot produce authority.** The anti-capture and influence boundaries in §§1.9–1.20 also apply to committees, meetings, votes, consensus, expertise, group size, operational necessity and technical state-machine outputs. They are not authority sources. The state machine enforces lawful contextual conditions and consumption, not a power to manufacture authority. See §§9.41.1–9.41.2 and Clarifications C08–C09.
+
+**Outstanding editorial/design work:** Chapter 1 retains legacy possessive, transfer and hierarchical formulations, and §1.21 refers to emergency expansion. These are explicitly identified here rather than silently rewritten. The exact actor/state attestation interfaces, exceptional crisis authorisation, and wider-scale voting constitution remain open where already flagged. The chapter's philosophical fiduciary obligations remain intact.
+
 # Chapter 2 — The Constitutional Framework
 
 ## 2.1 The Constitution, Stewardship and Protocols
