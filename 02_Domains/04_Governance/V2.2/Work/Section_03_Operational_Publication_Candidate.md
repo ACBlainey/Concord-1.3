@@ -1447,9 +1447,9 @@ does not equal
 
 **three constitutional votes concentrated into one person**.
 
-The surviving Steward may possess emergency preservation authority.
+The surviving Steward may exercise emergency preservation authority **only where a separate, currently valid mandate names or lawfully covers that actor and action**. Mere survival in office, inability to reach colleagues or a pending ballot does not activate that mandate. Preserve any already committed ballots under their original decision ID; do not restart, duplicate or reassign those ballots to reconstruct an apparent majority.
 
-That is different from acquiring ordinary triadic sovereignty.
+That is different from acquiring ordinary triadic sovereignty. **Architecture to be designed — two-position outage recovery:** Specify authenticated vacancy and incapacity evidence, eligible same-position alternates, collision-free selection, reconstitution acknowledgement and the treatment of decisions whose ballots were already committed before communications failed.
 
 ## 29.4 Preservation Actions
 
@@ -1615,9 +1615,11 @@ Emergency preservation where the status quo itself creates grave danger requires
 
 ## 30.3 Default Preservation
 
-Where no authorised state change can be made, the default may remain preservation of the existing state where that is safer.
+Where no authorised state change can be made, **inaction does not itself become an authorised decision**. Preserve the existing state only to the extent that preservation is lawful and safer within the actor’s existing mandate; record material foreseeable harm from delay and escalate through the independently authorised route.
 
-Where the existing state itself is catastrophic, emergency architecture must provide an alternative lawful pathway.
+Where the existing state itself presents imminent catastrophic harm, the appropriate response is an **already lawful, narrowly bounded emergency preservation pathway**, if one exists. This chapter does not create that pathway, permit a lone Steward to invent it, or treat necessity as a replacement for issuer competence, activation, expiry or review. Where no such route exists, record the constitutional capability gap rather than describing an unauthorised intervention as lawful.
+
+**Architecture to be designed — catastrophic-status-quo fallback:** Identify the competent emergency issuer, objective activation evidence, minimum protective actions, independent time limits, host execution checks and prompt review where ordinary triadic completion is impossible.
 
 The general question remains:
 
