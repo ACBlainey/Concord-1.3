@@ -4711,7 +4711,7 @@ Where the applicable governance architecture requires a majority to authorise a 
 
 A non-majority is not a weak approval.
 
-It is insufficient authority to make the proposed change.
+It does not establish the substantive majority required for the proposed change, and cannot authorise that change. The validity of each official ballot and any separate execution authority must also be established.
 
 For example:
 
@@ -4725,7 +4725,7 @@ It means:
 
 The same principle may apply where participation falls below the required decision threshold.
 
-This rule is retained from Governance V1 pending later review of the Triadic Decision Making Module and related systems.
+For an ordinary triadic decision, two matching valid official For or Against ballots determine the substantive majority, but the outcome cannot take ordinary effect until all three official positions have cast their ballots. A separately lawful emergency path may permit bounded early action after two matching valid ballots; it does not change ordinary completion or the three-selected-holder constitution requirement.
 
 ## 9.13 A Vote Is Itself an Action Where It Changes State
 
@@ -4733,7 +4733,7 @@ Voting should not be treated as constitutionally neutral merely because it is pr
 
 Where a vote changes the state of the system, the vote participates in the exercise of authority.
 
-A steward therefore remains accountable for their governance action through voting.
+A steward remains accountable for an official ballot even after its single-use contextual authority is consumed at commitment. A committed ballot cannot be revoked, amended or recast; later review or corrective decisions require new independently lawful events.
 
 ## 9.14 Abstention
 
@@ -4749,9 +4749,7 @@ It may represent:
 - insufficient information;
 - uncertainty;
 - inability to evaluate the question;
-- conflict of interest;
-- refusal to participate;
-- procedural concern;
+- a procedural concern, where abstention is lawfully permitted;
 - or another reason.
 
 Where practicable, the reason for abstention should be recorded.
@@ -4793,16 +4791,16 @@ The protocol should define in advance where possible:
 
 - when absence prevents a decision;
 - when the matter should wait;
-- when a delegated steward may act;
+- when an independently eligible alternate may occupy the same position through the lawful selection process;
 - when a substitute may be appointed;
-- when escalation occurs;
+- when a separately competent functional or spatial decision forum is required;
 - and when emergency continuity procedures apply.
 
 Absence must not silently become consent.
 
 ## 9.17 Conflict of Interest
 
-A steward should disclose a material conflict before participating in a decision.
+A steward must disclose a material conflict before exercising a consequential decision position. A material conflict is managed through the separately lawful recusal and alternate procedure, not disguised as an ordinary official abstention.
 
 Potential conflicts may include:
 
@@ -4815,7 +4813,7 @@ Potential conflicts may include:
 - reputational interest;
 - or another circumstance capable of materially compromising impartial judgement.
 
-Where appropriate, the steward should recuse themselves.
+Where the conflict makes participation unlawful, the steward must recuse and the affected position must be filled through the lawful substitution process before a valid official ballot is cast.
 
 ### 9.17.1 Distinguishing abstention, absence and substitution
 
@@ -4873,7 +4871,7 @@ Questions affecting constitutional principles, structures, rights or foundationa
 
 Decisions requiring accelerated procedure under defined emergency authority.
 
-The exact thresholds remain subject to further development through Governance, Metrics, Judiciary and Constitutional Emergency.
+The competent Governance, Metrics, Judiciary and Constitutional Emergency interfaces must specify the exact thresholds and safeguards for each lawful emergency route.
 
 ## 9.20 Decision Risk Determines Evidentiary and Procedural Safeguards
 
@@ -4895,7 +4893,7 @@ Large resource commitment, significant population impact, irreversible effects o
 Potential constitutional breach, existential risk, systemic instability or emergency condition.  
 → Independently competent constitutional, judicial or emergency procedure where the defined lawful conditions apply; exceptional risk alone does not create an additional authority tier.
 
-The precise thresholds require later system integration.
+The competent system owners must specify exact consequence-class thresholds and their evidence and procedure requirements. These classifications do not independently create jurisdiction or act-time authority.
 
 
 
