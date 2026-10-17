@@ -1583,7 +1583,7 @@ Reuse `03_Cross_Domain_Architecture/Stewardship_Selection_and_Allocation/README.
 - **G-007 — Architecture to be designed:** Design event identity, ancestry, retry/idempotency, protected cross-alias uniqueness, lawful appeal boundaries and unknown-boundary quarantine.
 
 **Future acceptance evidence:** record accountable owner, actual mandate, state-machine/adapter specification, failure and recovery paths, independent review and provenance. Preserve CAP ≠ PERM ≠ AUTH. Do not mark implementation as tested or operational until supported by real evidence.
-## 12.23 Chapter 12 Consistency Reconciliation — Triadic State and Bounded Decisions
+## 12.30 Triadic State and Bounded Decisions — Chapter-Wide Rules
 
 The normal triad, lawful constitution of three selected positions, alternate substitution, independent ballot commitment, expansion and emergency procedures in this chapter must be read together with §§9.18.1, 9.20.1–9.20.3, 9.37.1, 9.40.1–9.40.3 and 9.41.1–9.41.2.
 
