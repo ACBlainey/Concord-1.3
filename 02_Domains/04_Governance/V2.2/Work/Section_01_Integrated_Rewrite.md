@@ -4252,11 +4252,11 @@ This chapter states the Governance invariants that constrain lawful action, and 
 
 ## 8.2 Current Governance Invariants
 
-The following principles presently appear sufficiently established to function as Governance invariants:
+The following Governance invariants constrain all relevant institutional functions and consequential acts:
 
-### Invariant 1 — Authority Is Delegated
+### Invariant 1 — Authority Is Contextual and Not Personally Possessed
 
-No steward possesses constitutional authority as inherent personal property.
+No steward possesses constitutional authority as inherent personal property or a standing stock of power. A lawful office or mandate establishes eligibility and responsibilities; consequential authority exists only for a valid, current, state-conditioned act and is consumed at commitment.
 
 ### Invariant 2 — Authority Is Purpose-Specific
 
@@ -4264,19 +4264,19 @@ Authority exists for a defined constitutional responsibility.
 
 ### Invariant 3 — Authority Is Bounded
 
-Delegated authority has limits.
+Every consequential exercise is limited by its legitimate purpose, scope, current state, affected rights, competent function and act-time conditions. Delegation cannot create a reusable reservoir of authority.
 
 ### Invariant 4 — Authority Is Traceable
 
 Significant exercises of authority should be capable of constitutional reconstruction.
 
-### Invariant 5 — Authority Is Reviewable
+### Invariant 5 — Acts and Institutions Are Reviewable
 
-No ordinary governance authority should be beyond constitutional review.
+No ordinary governance institution or consequential act is exempt from constitutional review. Review does not retroactively revoke or rewrite a committed official ballot.
 
-### Invariant 6 — Authority Is Correctable
+### Invariant 6 — Errors Are Correctable Through New Lawful Acts
 
-The system must retain mechanisms capable of correcting governance error.
+The system must retain mechanisms for remedying governance error through independently lawful correction, review or a new decision. A committed ballot or historical event is immutable.
 
 ### Invariant 7 — Delegation Does Not Create New Constitutional Power
 
@@ -4302,9 +4302,9 @@ Emergency procedures may change operational processes but remain constitutionall
 
 Governance should preserve evidence of failure rather than erase it for institutional convenience.
 
-### Invariant 13 — Correction Is Constitutionally Legitimate
+### Invariant 13 — Subsequent Correction Is Constitutionally Legitimate
 
-Changing a decision in response to evidence is a feature of governance, not an inherent failure of authority.
+New evidence may justify a separately constituted corrective decision or remedy. Such correction is a new attributable act and must not amend, withdraw or recast the earlier committed decision.
 
 ### Invariant 14 — Practical Reality Matters
 
@@ -4355,11 +4355,11 @@ A system may be formally constitutional while becoming practically dominated by:
 - credentialing bodies;
 - or other actors without formal sovereignty.
 
-### Invariant 18: Constitutional Restrictions Follow Delegated Authority
+### Invariant 18: Constitutional Restrictions Follow Delegated Functions
 
-A restriction does not disappear when authority is transferred.
+Constitutional constraints remain applicable when responsibilities, eligible functions or bounded mandates are delegated; no enduring exercisable authority is transferred.
 
-Where a power is delegated through:
+Where a bounded function is assigned through:
 
 - an agency;
 - contractor;
@@ -4368,7 +4368,7 @@ Where a power is delegated through:
 - automated system;
 - or another actor,
 
-the relevant constitutional constraint continues to apply.
+the relevant constitutional constraint continues to apply at every consequential act. The executing system must independently validate its own lawful state.
 
 ### Invariant 19: Operational Indispensability Does Not Create Sovereignty
 
@@ -4393,8 +4393,8 @@ They remain subject to:
 The following remain intentionally unresolved or incomplete:
 
 - the final universal criteria for stewardship eligibility;
-- the complete selection architecture for every stewardship domain;
-- the final relationship between triadic governance and other decision structures;
+- the complete selection architecture for every stewardship domain, while retaining the established Chapter 12 §12.9.0a cause-specific alternate selection and substitution procedure;
+- the composition and aggregation of distinct wider-GTP-scale decision events (Chapter 9 §9.20.3), without altering the established ordinary and expanded triadic procedure (Chapter 12 §§12.9.1–12.9.5);
 - exact thresholds for decision classes;
 - exact constitutional amendment thresholds;
 - final AI stewardship eligibility;
