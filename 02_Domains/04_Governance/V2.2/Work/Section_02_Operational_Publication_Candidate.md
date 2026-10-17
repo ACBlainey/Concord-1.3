@@ -6463,7 +6463,7 @@ Otherwise the system may require a person to report misconduct to the institutio
 
 ## 20.6 Challenge Is Not Disloyalty
 
-Governance V2 adopts:
+The operative Governance principle is:
 
 > **Good-faith constitutional challenge is a form of stewardship, not institutional disloyalty.**
 
