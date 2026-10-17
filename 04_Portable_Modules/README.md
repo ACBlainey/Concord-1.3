@@ -36,3 +36,17 @@ A portable module can be read, evaluated and implemented independently. Its pres
 > **Discoverability != Architectural Ownership**
 
 > **Graduated Release != Deletion of Developmental Provenance**
+
+## Architectural Authority and Independence
+
+Portable modules are standalone artefacts intended for external reading, testing and implementation. They are **subordinate to the current competent Concord system architecture** and do not define, amend or override the architecture of any operational Concord system. Standalone portability does not confer constitutional, domain, voting or implementation authority.
+
+Extraction means **copying and adapting** the source mechanism while leaving the owning operational system documents intact. A portable module must not be produced by cutting architecture out of a system document. Where a module differs from its current source, the discrepancy must be reviewed and corrected in the module; it must not be used as a reason to silently change the system.
+
+A portable-module finding may influence Concord architecture only through **explicit authorisation and adoption by the competent system owner** under the applicable lawful process, recorded in the operational system document. Graduation or external reuse does not itself authorise such adoption.
+
+The controlling development method is `02_Domains/03_Research/Methodologies/Portable Module Extraction, Development and Graduation Method — PMEDG v1.3.md`, especially §3.1a.
+
+> **Portable Module ≠ Operational System ≠ Architectural Authority**
+
+> **Extraction = Copy, Never Cut**
