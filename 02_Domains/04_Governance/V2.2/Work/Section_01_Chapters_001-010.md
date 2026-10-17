@@ -5871,6 +5871,16 @@ The inability to follow ordinary procedure may justify emergency procedure.
 
 It does not create constitutional emptiness.
 
+### 9.40.1 Emergency Voting, Constitution and Spatial Scope
+
+An emergency may justify accelerated action only through **separately lawful, bounded emergency authority**. Urgency does not itself constitute a triad, appoint a steward, enlarge the spatial jurisdiction of an event, or grant one decision event authority over another.
+
+For an ordinary three-position triadic decision using the authorised emergency path, **three distinct lawful steward positions must first be constituted**. After constitution, two matching valid official For or Against ballots may permit the separately authorised emergency action before receipt of the third ballot. This exception concerns **timing of emergency effect**, not a general permission to replace three-position constitution with two-position voting, revoke a ballot, or alter the fixed majority.
+
+A decision whose effects or required competence exceed the local triad may require a **separately constituted larger-GTP-scale decision event**, as outlined in §§9.20.1–9.20.3. Emergency urgency does not automatically establish which larger-scale steward composition or aggregation rule applies; those mechanisms remain to be designed. The ordinary expanded-voting architecture remains a distinct route under its own rules.
+
+Emergency implementation authority belongs to the affected executing system within the lawful decision scope. A paused Civilisation Clock must not prevent separately authorised emergency action; coordination and later reconciliation must preserve the emergency decision identity, authority, effective time, implementation and review records.
+
 ## 9.41 Meeting Protocol
 
 A formal Governance meeting should identify where appropriate:
