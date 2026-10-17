@@ -1451,7 +1451,7 @@ The governance decision record and its lawful host effect are separate state tra
 
 
 
-## 12.29 Quorum and lawful forum: historical portable-module comparison and controlling V2.1 resolution
+## 12.29 Quorum and lawful forum: historical portable-module comparison and operative triad rule
 
 **Source examined (historical comparison, not an alternate operative rule):** `04_Portable_Modules/Triadic Decision Making Module.md` §§6–11. Its basic table expressly describes complete three-position cases (3F, 2F/1A, 1F/2A, 3A, 1F/1A/1U), establishes that abstention is information rather than an Against vote, distinguishes action from non-action, and permits escalation when a triad cannot responsibly resolve a question. The source **does not specify a constitutional minimum attendance, how an unoccupied third office affects quorum, or who may constitute a substitute**. It cannot by itself settle G-001.
 
