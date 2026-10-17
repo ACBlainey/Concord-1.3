@@ -4732,9 +4732,7 @@ It means:
 
 **No authorised state change.**
 
-The same principle may apply where participation falls below the required decision threshold.
-
-For an ordinary triadic decision, two matching valid official For or Against ballots determine the substantive majority, but the outcome cannot take ordinary effect until all three official positions have cast their ballots. A separately lawful emergency path may permit bounded early action after two matching valid ballots; it does not change ordinary completion or the three-selected-holder constitution requirement.
+A missing ballot leaves the event pending; a completed event with no substantive majority is Unresolved. The precise three-position ballot, completion and exceptional emergency conditions are defined in §9.12.1 and §9.40.1.
 
 ### 9.12.1 Ballot commitment, majority and ordinary completion
 
@@ -4772,9 +4770,9 @@ A request for further evidence is not by itself a completed official ballot. Onl
 
 Where practicable, the reason for abstention should be recorded.
 
-### Three-Position Result Semantics
+### 9.14.1 Distinct status and result records
 
-For any voting event, first require three distinct lawfully selected Steward holders to constitute its three positions. Two matching valid official F ballots fix the mathematical For (F) majority; two matching valid official A ballots fix the mathematical Against (A) majority. **Ordinary effect requires all three official ballots.** A completed three-ballot event with no F/A majority yields Unresolved (U); a missing ballot remains pending, not U. Official abstention, recusal, absence, failed authentication, conflict and evidential insufficiency require distinct cause/status records and must not be conflated. The same constitution, pending-versus-U and three-resultant ordinary-completion rules apply independently at each authorised constituent triad and at the final virtual-triad stage, whose constituent composition is specified in Chapter 12 §§12.9.1–12.9.5. Only separately authorised emergency action may proceed after two matching valid official ballots or resultants. No arithmetic result creates jurisdiction or appointment authority.
+An authorised official Abstain ballot, a request for evidence, a pending position, recusal, absence, failed authentication and a completed Unresolved result are different records and must not be conflated. A completed three-ballot event without a substantive For or Against majority is Unresolved (U); a missing official ballot leaves the event pending. The full majority, validity and ordinary-completion rules are in §9.12.1. The same pending-versus-U distinction applies at each authorised expanded-vote constituent triad and final virtual-triad stage, with their composition defined in Chapter 12 §§12.9.1–12.9.5. No arithmetic result confers jurisdiction or appointment authority.
 
 ## 9.15 Abstention as a Diagnostic Signal
 
@@ -4835,7 +4833,7 @@ Where the conflict makes participation unlawful, the steward must recuse and the
 
 ### 9.17.1 Distinguishing abstention, absence and substitution
 
-A Steward's **insufficient-information abstention** identifies a need for further evidence, not a vacant office or authority to install a replacement voter. A material **conflict-of-interest recusal** may establish a decision-specific unavailable position, but any substitute requires a separately lawful vacancy finding, independently valid appointment and the complete decision-event identity and conflict checks. Temporary absence, incapacity, authentication failure, recusal, abstention and a substantive Against ballot are different states and must not be silently exchanged. Where two independently valid official For or Against ballots match, the mathematical majority is determined even if a third ballot remains outstanding; ordinary effect is barred until all three official ballots arrive. The anonymous vote-count indicator reveals only how many official ballots have been committed, not their content, and does not change the state-machine validity gates. Separately authorised emergency action may proceed after two matching ballots; procedural validity, effective time and host implementation remain separately gated. A third Steward's later valid ballot may complete the record but cannot revoke a committed ballot or change the determined majority. A substitute occupies the original bounded position, never a fourth vote. Governance must preserve protected deliberation, independent review and attributable records without treating an appeal or concern as retroactive vote withdrawal.
+A Steward's **insufficient-information abstention** identifies a need for further evidence, not a vacant office or authority to install a replacement voter. A material **conflict-of-interest recusal** may establish a decision-specific unavailable position, but any substitute requires a separately lawful vacancy finding, independently valid appointment and the complete decision-event identity and conflict checks. Temporary absence, incapacity, authentication failure, recusal, abstention and a substantive Against ballot are different states and must not be silently exchanged. The determination of majority, the informational-only vote count, ordinary three-ballot completion and bounded emergency effect are governed by §§9.12.1 and 9.40.1. None of these permits a substitute to revoke a committed ballot or turn a cause-specific recusal into an ordinary abstention. A substitute occupies the original bounded position, never a fourth vote. Governance must preserve protected deliberation, independent review and attributable records without treating an appeal or concern as retroactive vote withdrawal.
 
 
 ## 9.18 Recusal
