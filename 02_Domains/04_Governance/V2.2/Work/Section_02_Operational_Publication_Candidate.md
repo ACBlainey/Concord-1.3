@@ -968,7 +968,7 @@ Where an exceptional mandate or coordination arrangement is established temporar
 - technical complexity;
 - or systemic risk,
 
-that transfer should not automatically become permanent.
+the exceptional mandate or arrangement must remain bounded to its lawful purpose and must not become permanent merely because it was used.
 
 Once the condition justifying exceptional coordination ends, the matter should return to ordinary competent handling at the appropriate functional and spatial scope. No consumed voting authority remains available to transfer back.
 
