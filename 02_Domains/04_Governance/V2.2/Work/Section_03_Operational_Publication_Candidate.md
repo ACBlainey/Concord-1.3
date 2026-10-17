@@ -1828,4 +1828,12 @@ For three **received, valid official constituent resultants**, (F,A,U) yields a 
 
 Changing decision forum does not manufacture jurisdiction or authority. GTP scale is not institutional superiority and a failed local vote does not confer general regional governance power.
 
+### 30.12.1 Evidence arrival after an unresolved or expired emergency decision
+
+New evidence does not retrospectively alter a committed ballot, a completed Unresolved result, an expired emergency activation or an already executed host transition. Where evidence arrives **before** a pending position has cast its official ballot, the competent Steward may consider it within that position’s existing lawful decision window; the evidence itself is not a ballot and does not extend an otherwise expired mandate. Where the decision has completed or its lawful window has closed, any materially different outcome requires a separately constituted, newly identified decision or a distinct pre-authorised emergency action. Neither an automated evidence update nor a later review may silently reopen the earlier vote.
+
+The decision record must distinguish the evidence timestamp, authenticated receipt, the affected position’s ballot-commit timestamp, decision completion, emergency activation, expiry and downstream host acceptance. Late or conflicting evidence must be routed for review without replaying an accepted command. An execution host must reject an expired grant even if a valid historical decision record remains available for audit; outstanding remedy, compensation and restoration obligations are not erased by that rejection.
+
+**Architecture to be designed — late-evidence reconciliation:** Specify authenticated ordering, contested timestamps, receipt acknowledgement, recovery after disconnected operation and the lawful interface for fresh decisions. Do not infer that a paused Civilisation Clock freezes emergency expiry or that a reconnected Steward can overwrite a committed ballot.
+
 **Architecture to be designed — decision-failure verification:** Verify F/A/U combinations, substitution incentives, duplicate positions, emergency deadlines and interregional disagreements against the implemented lawful voting and emergency interfaces.
