@@ -67,8 +67,20 @@ This is a working audit record, **not** an operational section. Compare the pres
 - Relocated the unique constitutional purpose and limits of triadic reasoning from former §9.53.1 to §9.10.1, where deliberation and epistemic independence are explained.
 - Relocated the operative action/restraint, implementation and subsequent-review content from former §9.53.5 to §9.29.1.
 - Relocated the remaining conference, protected count, owner-reconciliation and constituent-validity design boundaries from former §9.53.6 to §9.42.1.
-- **Still to consolidate:** §9.53.2–§9.53.4 overlap earlier constitution, recusal, evidence, ballot, majority and emergency provisions. Preserve any unique detailed safeguards before removing them. The numbering of surviving §9.53 subsections will be normalized when their remaining material is integrated.
+- **Completed in the subsequent pass:** Former §9.53.2–§9.53.4 have been relocated to §§9.3.1, 9.10.2 and 9.12.1; no standalone §9.53 remains. Continue the duplication review at the destination sections.
 - The published Section 01 remains unchanged; these changes are only in `Work/Section_01_Integrated_Rewrite.md`.
+
+## Chapter 9 §9.53 integration completed — 17 October 2026
+
+The separate consolidated §9.53 has been eliminated from the working Section 01. Its substantive provisions were **relocated without compression**:
+- Former §9.53.1 → §9.10.1, triadic reasoning, epistemic purpose and limits.
+- Former §9.53.2 → §9.3.1, lawful forum constitution, event identity and Chapter 12 cross-reference.
+- Former §9.53.3 → §9.10.2, independent official reasoning, evidence equivalence, bounded conference and preliminary positions.
+- Former §9.53.4 → §9.12.1, authenticated immutable ballots, vote-count projection, mathematical majority, ordinary three-ballot completion and bounded emergency exception.
+- Former §9.53.5 → §9.29.1, restraint, execution and independent corrective review.
+- Former §9.53.6 → §9.42.1, owner-specific implementation interfaces requiring design.
+
+**Review still required:** Existing §§9.12–9.18 and §§9.40–9.41 may repeat relocated rules; reduce repetition only after unique protections have been checked. The cross-section pointer policy remains: do not copy the Chapter 12 operating procedure into Chapter 9.
 
 ## Publication gate
 
