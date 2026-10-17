@@ -4515,11 +4515,11 @@ A core operating rule is:
 
 **Authority must be established before action.**
 
-Where immediate emergency action is genuinely necessary, emergency authority should itself provide the constitutional basis for accelerated action.
+Where immediate emergency action is genuinely necessary, a separately lawful bounded emergency procedure must supply the constitutional basis for accelerated action. The three-position constitution and narrow two-matching-ballot emergency exception are stated in §9.40.1; the affected executing system retains its own act-time authorisation requirement.
 
 ### 9.3.1 Decision-event identity and lawful forum constitution
 
-The decision process first identifies the precise proposed state change, its legitimate question, affected rights and resources, relevant jurisdiction, lawful source, competent forum and bounded decision-event identity. **Three distinct eligible Steward holders must be lawfully selected before the forum enters a valid voting state.** Eligibility, appointment and participation are not themselves act-time authority. The same Steward cannot cast more than one official position's vote in the same event, including constituent or substituted positions.
+The decision process first identifies the precise proposed state change, its legitimate question, affected rights and resources, relevant jurisdiction, lawful source, competent forum and bounded decision-event identity. The alternate-selection and expanded-voting details remain in Chapter 12 (§§12.9.0a–12.9.5), rather than being duplicated here. **Three distinct eligible Steward holders must be lawfully selected before the forum enters a valid voting state.** Eligibility, appointment and participation are not themselves act-time authority. The same Steward cannot cast more than one official position's vote in the same event, including constituent or substituted positions.
 
 An unavailable or conflicted position requires the separately lawful alternate or substitute procedure specified in Chapter 12 (§12.9.0a); an expanded-triad voting event is a distinct procedure (§§12.9.1–12.9.5), not a substitute for a missing position. A returning original Steward may supersede an alternate only before that position's official ballot has been committed. Neither a vacant office, duplicate holder nor merely advisory parallel Steward constitutes a third official voting position. Identity, event ancestry, lawful position occupancy, recusal and protected evidence access must be verified without creating a new decision event through technical retries.
 
