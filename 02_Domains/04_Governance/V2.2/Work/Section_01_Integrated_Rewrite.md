@@ -4517,6 +4517,12 @@ A core operating rule is:
 
 Where immediate emergency action is genuinely necessary, emergency authority should itself provide the constitutional basis for accelerated action.
 
+### 9.3.1 Decision-event identity and lawful forum constitution
+
+The decision process first identifies the precise proposed state change, its legitimate question, affected rights and resources, relevant jurisdiction, lawful source, competent forum and bounded decision-event identity. **Three distinct eligible Steward holders must be lawfully selected before the forum enters a valid voting state.** Eligibility, appointment and participation are not themselves act-time authority. The same Steward cannot cast more than one official position's vote in the same event, including constituent or substituted positions.
+
+An unavailable or conflicted position requires the separately lawful alternate or substitute procedure specified in Chapter 12 (§12.9.0a); an expanded-triad voting event is a distinct procedure (§§12.9.1–12.9.5), not a substitute for a missing position. A returning original Steward may supersede an alternate only before that position's official ballot has been committed. Neither a vacant office, duplicate holder nor merely advisory parallel Steward constitutes a third official voting position. Identity, event ancestry, lawful position occupancy, recusal and protected evidence access must be verified without creating a new decision event through technical retries.
+
 ## 9.4 Proposal Registration
 
 A governance proposal should be sufficiently defined to permit meaningful evaluation.
@@ -4675,6 +4681,12 @@ This makes later review more informative.
 
 A triad reduces dependence on one actor's incomplete knowledge, bias, fatigue, capture or error. Three distinct positions permit independent judgement, identifiable responsibility, dissent, majority determinacy and practical repeated use without committee-scale overhead. The number three does not guarantee independence, correct evidence, diverse judgement, legitimate competence, absence of correlated failure or a wise outcome. Applying a triadic reasoning method in Judiciary, research, organisations, AI governance or emergency management does not transfer the specific constitutional authority of a Governance triad to those settings.
 
+### 9.10.2 Independent official reasoning and bounded conference
+
+All three positions receive substantially equivalent relevant evidence with provenance, uncertainty, alternatives and foreseeable consequences. Each Steward ordinarily reasons and commits their official ballot **in isolation**. Parallel reasoning, consultation and preliminary nonofficial assessments may improve evidence but create no additional vote or decision authority.
+
+Conference is possible only where the applicable decision context independently authorises it. Its legitimate circumstances cannot be exhaustively predicted in advance, but its information-sharing scope and privacy protections must be bounded. Conference never creates jurisdiction, permits a fourth vote, exposes committed official choices for reconsideration, or allows a Steward to revoke a committed ballot. Nonofficial preliminary assessments, where permitted, are not official votes and consume no ballot authority.
+
 ## 9.11 Decision as State Transition
 
 A governance decision may be represented as:
@@ -4723,6 +4735,14 @@ It means:
 The same principle may apply where participation falls below the required decision threshold.
 
 For an ordinary triadic decision, two matching valid official For or Against ballots determine the substantive majority, but the outcome cannot take ordinary effect until all three official positions have cast their ballots. A separately lawful emergency path may permit bounded early action after two matching valid ballots; it does not change ordinary completion or the three-selected-holder constitution requirement.
+
+### 9.12.1 Ballot commitment, majority and ordinary completion
+
+Each position has one independently authenticated, state-conditioned, single-use official ballot. Commitment is an immutable transition that consumes that ballot's contextual authority. The ballot cannot be amended, withdrawn, recast or revoked, even if the Steward subsequently learns how others voted. A visible anonymous count of 0, 1, 2 or 3 committed positions is informational only: it reveals neither ballot content nor voter identity and does not gate the remaining lawful ballots.
+
+Two valid matching **For** ballots establish the mathematical affirmative majority; two valid matching **Against** ballots establish the mathematical rejection majority. The third position remains independently entitled and ordinarily required to cast its official ballot; it cannot change an already mathematically determined majority. **An ordinary governance outcome does not take effect until all three official ballots have been received and the other lawful validity and effective-time conditions are satisfied.** A pending third position is not an Abstain vote. For, Against, Abstain and Unresolved are distinct states; a one-For/one-Against/one-Abstain result has no affirmative or negative substantive majority. Abstention for insufficient evidence is not equivalent to recusal, absence or invalid authentication.
+
+Only a separately lawful bounded emergency mandate may permit action after two matching valid official ballots before the third arrives. Urgency alone cannot create that mandate, remove the three-selected-holder constitution requirement or confer execution authority. The affected host must independently authorise and reconcile any consequential implementation.
 
 ## 9.13 A Vote Is Itself an Action Where It Changes State
 
@@ -6664,28 +6684,6 @@ The following rules govern ordinary operation:
 
 
 
-
-## 9.53 Consolidated Triadic Voting Conditions
-
-### 9.53.2 Forum constitution and decision scope
-
-The decision process first identifies the precise proposed state change, its legitimate question, affected rights and resources, relevant jurisdiction, lawful source, competent forum and bounded decision-event identity. **Three distinct eligible Steward holders must be lawfully selected before the forum enters a valid voting state.** Eligibility, appointment and participation are not themselves act-time authority. The same Steward cannot cast more than one official position's vote in the same event, including constituent or substituted positions.
-
-An unavailable or conflicted position requires the separately lawful alternate or substitute procedure specified in Chapter 12 (§12.9.0a); an expanded-triad voting event is a distinct procedure (§§12.9.1–12.9.5), not a substitute for a missing position. A returning original Steward may supersede an alternate only before that position's official ballot has been committed. Neither a vacant office, duplicate holder nor merely advisory parallel Steward constitutes a third official voting position. Identity, event ancestry, lawful position occupancy, recusal and protected evidence access must be verified without creating a new decision event through technical retries.
-
-### 9.53.3 Independent reasoning and contextual information sharing
-
-All three positions receive substantially equivalent relevant evidence with provenance, uncertainty, alternatives and foreseeable consequences. Each Steward ordinarily reasons and commits their official ballot **in isolation**. Parallel reasoning, consultation and preliminary nonofficial assessments may improve evidence but create no additional vote or decision authority.
-
-Conference is possible only where the applicable decision context independently authorises it. Its legitimate circumstances cannot be exhaustively predicted in advance, but its information-sharing scope and privacy protections must be bounded. Conference never creates jurisdiction, permits a fourth vote, exposes committed official choices for reconsideration, or allows a Steward to revoke a committed ballot. Nonofficial preliminary assessments, where permitted, are not official votes and consume no ballot authority.
-
-### 9.53.4 Official ballots, determinacy and completion
-
-Each position has one independently authenticated, state-conditioned, single-use official ballot. Commitment is an immutable transition that consumes that ballot's contextual authority. The ballot cannot be amended, withdrawn, recast or revoked, even if the Steward subsequently learns how others voted. A visible anonymous count of 0, 1, 2 or 3 committed positions is informational only: it reveals neither ballot content nor voter identity and does not gate the remaining lawful ballots.
-
-Two valid matching **For** ballots establish the mathematical affirmative majority; two valid matching **Against** ballots establish the mathematical rejection majority. The third position remains independently entitled and ordinarily required to cast its official ballot; it cannot change an already mathematically determined majority. **An ordinary governance outcome does not take effect until all three official ballots have been received and the other lawful validity and effective-time conditions are satisfied.** A pending third position is not an Abstain vote. For, Against, Abstain and Unresolved are distinct states; a one-For/one-Against/one-Abstain result has no affirmative or negative substantive majority. Abstention for insufficient evidence is not equivalent to recusal, absence or invalid authentication.
-
-Only a separately lawful bounded emergency mandate may permit action after two matching valid official ballots before the third arrives. Urgency alone cannot create that mandate, remove the three-selected-holder constitution requirement or confer execution authority. The affected host must independently authorise and reconcile any consequential implementation.
 
 # Chapter 10 — Governance, Metrics and Behavioural Feedback
 
