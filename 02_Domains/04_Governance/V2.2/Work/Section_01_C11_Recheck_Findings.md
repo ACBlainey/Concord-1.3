@@ -91,6 +91,14 @@ The separate consolidated §9.53 has been eliminated from the working Section 01
 - §9.40.1 now points to the authoritative ballot conditions in §9.12.1, retaining the emergency-specific constitutional scope, spatial decision, Civilisation Clock and executing-host safeguards.
 - **Further pass:** Review §9.41.1–9.41.2 against §§9.10.2, 9.12.1 and 9.29.1, keeping unique state-machine and external-host replay protections. Review source preservation and Chapter 10 completeness before publication.
 
+## Meeting protocol, act-time state and records — 17 October 2026
+
+- §9.41.1 now uses direct pointers to §§9.3.1, 9.10.2, 9.12.1, 9.29.1, 9.40 and Chapter 12 rather than reproducing the official triad and conference conditions. It retains the unique constitutional rule that neither meetings nor coordination manufacture authority.
+- §9.41.2 **retains** the distinct technical safeguards: authoritative current-state verification, atomic commitment within the decision-system boundary, duplicate request reconciliation, competing attempts, event-ID reuse constraints, one-use receipts/ACKs as evidence only, and external-host uncertain-execution reconciliation. These are not mere repetitions of voting rules.
+- §9.41 meeting minutes now identify a meeting's lawful context and link separately committed official ballots through their own event identities, avoiding an implication that meeting minutes themselves constitute a vote or decision.
+- §9.26 decision records distinguish selected official positions, advisory participants, authenticated ballots, and act-time authority evidence; AI contribution details are retained.
+- Chapter 10 still has an unlocated source continuation beyond §10.4; §10.5 remains a bounded operational reconciliation and does not pretend to reconstruct missing original content.
+
 ## Publication gate
 
 Do not overwrite the published Section 01 until the chapter-by-chapter contradiction scan, full substantive preservation comparison and remaining authorial-decision log have been reviewed. Unbuilt implementation architecture may remain as precise boundaries.
