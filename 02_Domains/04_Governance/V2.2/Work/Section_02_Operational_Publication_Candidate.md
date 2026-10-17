@@ -6383,7 +6383,7 @@ Governance should not permit a change of constitutional regime to occur merely t
 
 ## 19.18 Steward Selection, Independence and Anti-Entrenchment
 
-Selection and appointment must not become self-reinforcing institutional privileges. The office-owning domain must maintain a contestable and independently reviewable boundary between qualification, candidate allocation, lawful appointment and decision-specific voting authority. The shared Steward allocation and parallel-practice rules below supply the current constraints; they do not establish an exclusive selection algorithm or empower incumbents to appoint their own successors without a separate lawful mandate.
+Selection and appointment must not become self-reinforcing institutional privileges. The office-owning domain must maintain a contestable and independently reviewable boundary between qualification, candidate allocation, lawful appointment and decision-specific voting authority. The shared Steward allocation and parallel-practice rules below supply the current constraints; they do not establish an exclusive selection algorithm or empower incumbents to appoint their own successors without a separate lawful mandate. Neither historical GTP architecture nor the recovered stewardship sources establish a universal public election, sortition or superior-ruler appointment mechanism. Candidacy, eligibility, allocation, appointment, office mandate and decision-specific authority must remain separately identifiable and independently auditable.
 
 ### Shared Steward allocation, parallel practice and bounded ascension
 
