@@ -1238,7 +1238,7 @@ If only a small group understands:
 
 that group may acquire practical authority beyond its formal mandate.
 
-Governance V2 therefore establishes:
+The operative Governance rule is:
 
 **Governance complexity should itself be treated as a potential capture mechanism.**
 
