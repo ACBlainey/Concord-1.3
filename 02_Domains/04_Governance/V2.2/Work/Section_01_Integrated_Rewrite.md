@@ -5547,6 +5547,14 @@ A change that materially alters:
 
 may require a new independently lawful Governance decision and a separately authorised implementing act.
 
+### 9.29.1 Decision effect, implementation and corrective review
+
+A proposal, recommendation, AI output, metric threshold, preliminary position, meeting consensus and mathematical majority are not interchangeable with an authorised state transition. A proposal to stop an existing activity can itself require consequential action; rejection and inaction must be distinguished from authorised termination. Where no lawful majority exists, the process must withhold unauthorised change and may seek additional evidence, lawful substitution, independently competent referral or a new legitimate decision. Persistent inability to decide is a governance-health signal, not an implied mandate.
+
+The decision record preserves the question and version, forum identity, lawful mandate, position graph, evidence and uncertainty, alternatives, official ballots, dissent and abstention, determinacy, completion, actual implementation and later effects. The host executing a result must independently verify its own current lawful state and rights constraints; a completed governance vote does not itself grant an unrestricted host action.
+
+A later concern, appeal, correction, new evidence or remedy requires a new independently lawful event and linked provenance. It cannot rewrite a committed ballot or reopen the same completed decision by relabelling it. Review must examine correlated errors, minority concerns, repeated abstentions, information deficits, capture, failures of restraint and failures to act.
+
 ## 9.30 Automated Implementation
 
 Some decisions may be implemented automatically.
@@ -6060,6 +6068,10 @@ Repeated unresolved questions may reveal:
 - persistent conflict;
 - excessive complexity;
 - or a problem for which the current Governance architecture has no competent mechanism.
+
+### 9.42.1 Triadic process interfaces requiring design
+
+The competent owners must define contextual conference exceptions, lawful preliminary information sharing, conference after partial commitment, protected vote-count projections, cross-owner event identity and receipts, authority-enforced constituent constitution, evidence equivalence, execution reconciliation, and domain-specific handling of unresolved or absent positions. These are implementation boundaries, not permission to replace the established triadic rules with an older collective-deliberation default or an automatic hierarchy of GTP offices.
 
 ## 9.43 The Default Safe State
 
@@ -6674,18 +6686,6 @@ Each position has one independently authenticated, state-conditioned, single-use
 Two valid matching **For** ballots establish the mathematical affirmative majority; two valid matching **Against** ballots establish the mathematical rejection majority. The third position remains independently entitled and ordinarily required to cast its official ballot; it cannot change an already mathematically determined majority. **An ordinary governance outcome does not take effect until all three official ballots have been received and the other lawful validity and effective-time conditions are satisfied.** A pending third position is not an Abstain vote. For, Against, Abstain and Unresolved are distinct states; a one-For/one-Against/one-Abstain result has no affirmative or negative substantive majority. Abstention for insufficient evidence is not equivalent to recusal, absence or invalid authentication.
 
 Only a separately lawful bounded emergency mandate may permit action after two matching valid official ballots before the third arrives. Urgency alone cannot create that mandate, remove the three-selected-holder constitution requirement or confer execution authority. The affected host must independently authorise and reconcile any consequential implementation.
-
-### 9.53.5 Action, restraint, execution and review
-
-A proposal, recommendation, AI output, metric threshold, preliminary position, meeting consensus and mathematical majority are not interchangeable with an authorised state transition. A proposal to stop an existing activity can itself require consequential action; rejection and inaction must be distinguished from authorised termination. Where no lawful majority exists, the process must withhold unauthorised change and may seek additional evidence, lawful substitution, independently competent referral or a new legitimate decision. Persistent inability to decide is a governance-health signal, not an implied mandate.
-
-The decision record preserves the question and version, forum identity, lawful mandate, position graph, evidence and uncertainty, alternatives, official ballots, dissent and abstention, determinacy, completion, actual implementation and later effects. The host executing a result must independently verify its own current lawful state and rights constraints; a completed governance vote does not itself grant an unrestricted host action.
-
-A later concern, appeal, correction, new evidence or remedy requires a new independently lawful event and linked provenance. It cannot rewrite a committed ballot or reopen the same completed decision by relabelling it. Review must examine correlated errors, minority concerns, repeated abstentions, information deficits, capture, failures of restraint and failures to act.
-
-### 9.53.6 Architecture requiring specific design
-
-The competent owners must define contextual conference exceptions, lawful preliminary information sharing, conference after partial commitment, protected vote-count projections, cross-owner event identity and receipts, authority-enforced constituent constitution, evidence equivalence, execution reconciliation, and domain-specific handling of unresolved or absent positions. These are implementation boundaries, not permission to replace the established triadic rules with an older collective-deliberation default or an automatic hierarchy of GTP offices.
 
 # Chapter 10 — Governance, Metrics and Behavioural Feedback
 
