@@ -86,11 +86,21 @@ This is a reference for integration and checking, **not** an independent grant o
 - Earlier lease/revocation formulations require source reconciliation, not silent promotion into operational authority semantics.
 - Initial Section 01 integration: §9.41.2.
 
+## C10 — Operational document cleanliness and actionable status
+
+- **Published operational governance documents contain operative architecture, definitions, duties, procedures, constraints and genuinely necessary design boundaries — not the history of their drafting.** Keep provenance, source-resolution narratives, audit trails, consolidation commentary, editorial reconciliation notes, testing commentary, integration-status reports and similar working material in `V2.2/Work/` or other appropriate work records.
+- **Do not label an operational document, chapter, section or rule “unverified,” “untested,” “non-canonical,” “noncanonical,” “provisional,” “draft,” “pending validation,” or similar status wording implying that the rule cannot be acted upon.** Do not import such legacy labels from historical source files into the operational publication.
+- **Operational status does not require perfection, testing or prior validation.** Established rules are operative unless a substantive rule itself explicitly and lawfully limits its applicability.
+- Where architecture genuinely does not yet define an implementation mechanism, state the **specific missing mechanism or actual operational boundary** in neutral, precise terms. Do not convert that technical gap into a blanket disclaimer against acting on the rest of the document.
+- **Separate working integration from publication:** preserve every original source passage and unresolved conflict in working files for provenance and reconciliation, but prepare the published operational version as a coherent authoritative text without editorial residue. Do not silently discard unique substantive architecture while cleaning its presentation.
+- Before publishing any V2.2 section, check its heading, introduction, subsection titles, body and ending for editorial and status language, including legacy inherited wording; remove or rewrite such wording in the **published copy only**, without erasing the corresponding working source.
+- Initial application: Section 01 operational publication; later sections must follow the same rule.
+
 ## Cross-section review procedure
 
 For **each** V2.2 section:
 
-1. Read the entire section and compare its relevant rules against **C01–C09**, including cross-references to other sections.
+1. Read the entire section and compare its relevant rules against **C01–C10**, including cross-references to other sections.
 2. Identify any missing clarification, inconsistent architecture, unintended implied hierarchy, unauthorised authority transfer, ambiguity or unresolved interface.
 3. Preserve existing text and conflicts; add the necessary clarification in the relevant numbered subsection without silently deleting or rewriting source passages.
 4. Do not convert undecided mechanisms into fixed rules. Record exactly what remains to be designed.
