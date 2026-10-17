@@ -6706,6 +6706,19 @@ A valid official ballot is an authenticated, one-use authority-consuming state t
 
 **[LOCAL IMPLEMENTATION DEPENDENCIES:]** Authority-verified constituent constitution, contextual information isolation, decision-event identity, actual commit receipts and execution grants, protected record custody, evidence quality, and domain-specific rules for provisional reasoning remain owner-system work. None of these unresolved gates excludes the recovered portable process from V2.1.
 
+## 9.54 Chapter 9 Consistency Review — Authority and Decision Boundaries
+
+Chapter 9 has been checked against Clarifications C01–C09. Its detailed triad constitution, independent official ballots, alternate rules, consumed vote authority, ordinary three-ballot completion, separately authorised two-ballot emergency effect, event-bounded wider GTP scale, and no-takeover emergency provisions are retained. The newly inserted §§9.18.1, 9.20.1–9.20.3, 9.37.1, 9.40.1–9.40.3 and 9.41.1–9.41.2 supply explicit reconciliation without removing older source text.
+
+**Significant residual wording conflicts, preserved for later editorial resolution:**
+
+- §9.20's legacy “higher-layer approval” wording must not be interpreted as an inherent GTP governance hierarchy. Wider spatial coverage is a separately constituted decision event, not standing supervision.
+- §9.40's general reference to emergency alteration of “ordinary voting procedures” does not override the lawful three-position triad constitution or grant general regional control. The distinct existential-crisis interruption threshold is specified in §9.40.3; exact authorisation mechanisms remain undesigned.
+- Generic §9.41 meeting and earlier deliberation terminology cannot imply that a meeting, consensus or conference creates authority, or that committed votes may be disclosed for revision.
+- Older references to delegated, held or revocable authority must not imply a persistent power token or reusable grant. The act-time state-consumption model governs, subject to its still-unresolved owner-system interfaces.
+
+The legacy V2.1 draft header, continuation marker and historical source labels are **editorial residue** rather than substantive authority. They remain preserved here for an explicit later cleanup pass. No original ballots, decision records or historical source text are rewritten by this review.
+
 # Chapter 10 — Governance, Metrics and Behavioural Feedback
 
 ## 10.1 Metrics Are Evidence, Not Objectives
@@ -6879,3 +6892,9 @@ The constitutional problem is not measurement.
 
 It is recursive self-validation.
 
+
+## 10.5 Chapter 10 Consistency Review — Metrics Cannot Manufacture Authority
+
+Chapter 10's metric and feedback architecture is consistent with the prohibition on converting measurement into authority. A metric, reputation score, AI benchmark, automated threshold or institutional success claim may be evidence or an input to a separately lawful process; it does not independently confer permission, appointment, jurisdiction or continuing authority. Automated consequential acts still require valid context and state conditions at the act instant. Feedback and audit must remain independently contestable, and correction of an earlier decision requires a separate authorised event.
+
+**Significant source-completeness issue:** The retained Chapter 10 source ends immediately after §10.4, with the sentence “It is recursive self-validation.” There is no further Chapter 10 text in this Section 01 source. **Do not invent the missing continuation or assume the chapter is substantively complete.** Check other historical source versions and any existing continuation before deciding whether additional architecture belongs here. This observation records the present boundary; it does not authorise compression or replacement of §10.4.
