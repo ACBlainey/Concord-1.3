@@ -4386,19 +4386,19 @@ They remain subject to:
 
 ## 8.3 Questions Not Yet Resolved
 
-The following remain intentionally unresolved or incomplete:
+The following specific architectural interfaces and criteria remain to be designed or completed:
 
-- the final universal criteria for stewardship eligibility;
+- universal stewardship eligibility criteria beyond established domain-specific conditions;
 - the complete selection architecture for every stewardship domain, while retaining the established Chapter 12 §12.9.0a cause-specific alternate selection and substitution procedure;
 - the composition and aggregation of distinct wider-GTP-scale decision events (Chapter 9 §9.20.3), without altering the established ordinary and expanded triadic procedure (Chapter 12 §§12.9.1–12.9.5);
 - exact thresholds for decision classes;
 - exact constitutional amendment thresholds;
-- final AI stewardship eligibility;
-- final hybrid intelligence governance rules;
-- final treatment of future intelligence classes;
-- final Resource Stewardship architecture;
-- final relationship between Governance and the dedicated Emergency system;
-- final governance succession mechanisms;
+- AI stewardship eligibility criteria;
+- hybrid intelligence governance rules;
+- governance rules for future intelligence classes;
+- Resource Stewardship interfaces and responsibilities not yet defined elsewhere;
+- specific owner-system interfaces between Governance and the dedicated Emergency system;
+- governance succession procedures not already defined by established lawful substitution rules;
 - final KCS governance interface;
 - final Metrics trigger architecture;
 - final Recursive Oversight escalation architecture;
@@ -4407,7 +4407,7 @@ The following remain intentionally unresolved or incomplete:
 
 These questions are not filled by speculation merely for the sake of apparent completeness.
 
-They remain explicit targets for later recursion.
+Until specified, each unresolved interface remains subject to existing constitutional limits, competent decision-event constitution and independent act-time authority checks.
 
 ### 8.3.1 Preservation of Unresolved Questions
 
@@ -4427,13 +4427,13 @@ Where future systems resolve one of these questions, the Governance record shoul
 
 ### 8.3.2 Open Questions Are Not Constitutional Vacuums
 
-Where a final universal architecture has not been determined, existing lawful Governance may still operate through:
+Where a required interface has not been determined, existing lawful Governance may still operate through separately lawful and bounded:
 
-- current delegation;
-- established procedure;
-- temporary rules;
-- local experimentation;
-- or case-specific constitutional interpretation.
+- defined delegated functions;
+- established decision procedures;
+- time-limited rules;
+- authorised local experimentation;
+- or competent case-specific constitutional interpretation.
 
 An unresolved architectural question does not imply unlimited discretion.
 
