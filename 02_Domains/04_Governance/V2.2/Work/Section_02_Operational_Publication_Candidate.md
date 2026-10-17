@@ -6359,7 +6359,7 @@ Selection and appointment must not become self-reinforcing institutional privile
 
 Economic, algorithmic, infrastructural, reputational, majority and minority capture can occur as **de facto influence and control** without creating de jure authority. Combining multiple functions, committees, stewards, technical privileges or independent analytical results does not create extra votes, wider jurisdiction or a continuing authority reservoir. Anti-capture interventions, separation measures and adjudications must themselves pass lawful contextual state and rights constraints.
 
-A more capable AI, a dominant infrastructure operator or an acclaimed expert may supply evidence or perform separately authorised functions but does not thereby acquire political sovereignty. Steward selection and anti-entrenchment protections cannot be replaced by self-certified competence or by the institution controlling its own metric. No universal selection mechanism is invented where the recovered source does not establish one.
+A more capable AI, a dominant infrastructure operator or an acclaimed expert may supply evidence or perform separately authorised functions but does not thereby acquire political sovereignty. Steward selection and anti-entrenchment protections cannot be replaced by self-certified competence or by the institution controlling its own metric. No selection mechanism acquires authority merely because it is described, modelled or used informally; lawful appointment requires a competent selector, applicable eligibility conditions and an auditable mandate.
 
 # Chapter 20 — Whistleblowing, Challenge and Internal Correction
 
