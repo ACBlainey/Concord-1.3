@@ -903,19 +903,17 @@ A matter may require vertical escalation where:
 
 Escalation should identify why the lower level is insufficient.
 
-Higher authority should not simply assume jurisdiction because escalation occurred.
+A wider spatial or cross-domain forum does not inherit superior jurisdiction merely because the matter was escalated. Any resulting decision requires its own competent mandate, lawfully constituted decision procedure and bounded act-time authority. Coordination may expand the decision field without transferring the originating forum's authority.
 
-The escalated authority receives only the authority appropriate to the escalated question.
+The escalation record should therefore preserve:
 
-Escalation should therefore preserve:
-
-- originating jurisdiction;
-- reason for escalation;
-- authority transferred;
-- authority retained;
-- duration;
-- review;
-- and conditions for return.
+- originating jurisdiction and competent function;
+- reason and evidence for escalation;
+- the separate mandate and decision-event identity of any receiving forum;
+- responsibilities and operating constraints retained by each forum;
+- duration and termination conditions for temporary coordination;
+- review and challenge routes;
+- and conditions for returning the matter to ordinary competent handling.
 
 ### 12.11.1 Legal Escalation Distinguished from Spatial Subdivision
 
@@ -958,7 +956,7 @@ Where authority moves upward temporarily because of:
 
 that transfer should not automatically become permanent.
 
-Once the condition justifying escalation ends, authority should normally return to the appropriate lower level.
+Once the condition justifying exceptional coordination ends, the matter should return to ordinary competent handling at the appropriate functional and spatial scope. No consumed voting authority remains available to transfer back.
 
 This creates an important anti-centralisation principle:
 
@@ -968,12 +966,12 @@ The receiving authority should not treat successful temporary intervention as au
 
 Post-escalation review should therefore ask:
 
-- Does the original problem still require higher-level authority?
-- Has local capacity been restored?
-- Can authority safely return?
+- Does the problem still require wider-scope or cross-domain coordination?
+- Has ordinary local or functional capacity been restored?
+- Can the matter return to its ordinarily competent forum without assuming an authority transfer?
 - Did temporary coordination create dependencies?
-- Has the higher institution acquired new interests in retaining the role?
-- Are any temporary powers still active?
+- Has any coordinating institution acquired interests in retaining the role?
+- Do any temporary mandates or exceptional operating conditions remain in force?
 - Has emergency or exceptional status become normalised?
 
 ## 12.14 Priority
@@ -1364,11 +1362,11 @@ A general pattern is:
 ↓  
 **Temporary Expanded Decision Field**  
 ↓  
-**Higher-Level Coordination only where required**
+**Wider-Scope Coordination only where required**
 
 This preserves distributed governance while permitting civilisation-scale coordination.
 
-The final role and universality of the triadic structure remain subject to later recursion.
+The established triadic decision procedure remains operative. Any future constitutional change to its scope requires a separate lawful decision; spatial scaling or coordination alone cannot alter it.
 
 Horizontal scaling should preserve:
 
