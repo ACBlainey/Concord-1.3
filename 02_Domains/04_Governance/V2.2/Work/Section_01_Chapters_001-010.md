@@ -4855,6 +4855,20 @@ All other matters continue to be decided through their ordinary competent triads
 
 The conditions and procedures for selecting a larger spatial decision scale remain to be designed, as recorded in §9.20.1. Neither referral nor ordinary vote expansion creates enduring superior office or generalised authority.
 
+### 9.20.3 Composition and Aggregation of Larger-Scale Decision Events
+
+The **number, eligibility, selection and composition of stewards** participating in a larger-GTP-scale decision event have not yet been determined. A larger-scale decision is not necessarily restricted to three directly voting stewards. Depending on the matter and the eventual lawful procedure, it may involve a substantially larger number of stewards, potentially including stewards from **all lower-scale GTP areas affected by the proposed decision**.
+
+Possible decision structures include:
+
+- **Triadic aggregation:** constituent steward votes or triadic results are aggregated through an authorised expanded-voting process into a final triadic decision structure.
+- **Direct aggregate voting:** a larger group of eligible stewards votes within one defined decision event, and the votes are counted under an authorised aggregate decision rule. For example, 30 participating stewards might return 20 For and 10 Against. This is an illustration of a possible structure, **not an adopted voting threshold or operative rule**.
+- **Other bounded compositions or aggregation methods** developed for the circumstances of a particular class of wider-scale decision.
+
+These possibilities must not be treated as interchangeable with the **ordinary three-position triadic voting rules**, nor as permission to bypass those rules in existing ordinary decision events. A distinct larger-scale decision procedure would require its own lawful constitution, eligibility and conflict rules, vote-counting and completion conditions, authority bounds, unique event identity, records and implementation interface. Which method applies, and how it is authorised, **remains to be designed**.
+
+Whatever composition is eventually selected, the larger-scale decision remains **one bounded decision event**, not a permanent council or superior authority over unrelated triads or decisions. Ordinary governance and ordinary expanded triadic voting continue under their own established rules.
+
 ## 9.21 Experimental Decisions
 
 Where uncertainty is high but potential benefit is significant, Governance should consider whether a proposal can be tested in a controlled environment.
