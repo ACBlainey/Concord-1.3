@@ -1,14 +1,6 @@
-# V2.1 Section 03 — Subsection Integration Draft 004
+# Governance V2.2 — Section 03 — Chapters 021–030
 
-**Governance V2.1 integrated section.** This section forms part of the V2.1 governance text. Historical assembly labels and integration markers record provenance and do not suspend the operative rules stated here. Source text and additions are retained for traceability; unresolved implementation interfaces are identified where they arise.
 
-# Governance V2.1 — Section 03 (Chapters 21–30) — Working Assembly 001
-
-**Status:** Integrated Governance V2.1 section; historical draft designations are retained for provenance only.
-
-The complete original V2 Chapters 21–30 are reproduced without alteration. A separately labelled provisional integration annex follows Chapter 30.
-
----
 
 # Chapter 21 — Constitutional Self-Modification
 
