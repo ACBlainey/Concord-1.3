@@ -2193,6 +2193,18 @@ Governance must therefore preserve a category for:
 
 The absence of an existing rule for a problem does not make the problem constitutionally irrelevant.
 
+## 2.20 Chapter 2 Consistency Reconciliation — Decision Process and Authorisation
+
+Chapter 2's process, delegation and implementation rules are retained. The following resolves their interpretation against the V2.2 clarifications.
+
+- **Competence is not superior jurisdiction (§2.4):** References to “higher authority” and intervention by a higher level do not create a chain of command. A wider GTP spatial decision is a separate bounded event only where the ordinary competent scope is insufficient; the steward composition and vote aggregation for that event remain undecided. Constitutional review, domain coordination and emergency action are different functions, not interchangeable escalation routes.
+- **Authority is not transferred as an enduring asset (§§2.5–2.7):** References to “authority granted,” “delegation transfers defined authority,” and automated systems exercising delegated authority describe authorised responsibilities, eligibility, context and operating constraints. They do not establish continuously possessed authority. Each consequential decision or automated act must satisfy the current lawful contextual state at its own commitment instant. CAP ≠ PERM ≠ AUTH. Automation cannot generate or inherit authority through capability, scheduling or prior approvals.
+- **Deliberation and parallel reasoning do not create voting power (§§2.12–2.14):** Independent analysis, discussion and minority positions remain valuable evidence. Official triadic ballots are independently committed in default isolation. Conference is allowed only where separately context-authorised and cannot confer authority or expose committed votes for amendment. A meeting or agreement is not itself an authorised decision.
+- **Decision and execution are distinct transitions (§§2.14–2.15):** A valid decision-state transition consumes its event-specific authority. Execution by an affected system must satisfy its own contextual conditions; operational discretion is not a blank policy mandate. Review, appeal or correction of a committed decision requires a new independently authorised event, not editing its original ballot or record.
+- **Emergency is not takeover (§2.4):** Emergency mechanisms address the emergency only and coexist with ordinary governance, subject to the exceptional existential-crisis boundary in §9.40.3.
+
+**Open design interfaces:** Domain coordination, constitutional review routing, automated act-time checks and external execution reconciliation require owner-system detail. No new authority mechanism is conferred here.
+
 # Chapter 3 — Constitutional Standing, Participation and Authority
 
 ## 3.1 Why the Distinction Is Necessary
@@ -2360,6 +2372,12 @@ The Concord should therefore resist the temptation to represent all status throu
 
 Different constitutional dimensions should remain distinct.
 
+## 3.9 Chapter 3 Consistency Reconciliation — Standing Is Not Act-Time Authority
+
+The standing, participation, contribution, reputation and capability distinctions in Chapter 3 are retained. The phrase “delegated authority is the constitutionally recognised ability” in §3.7 identifies an **eligible bounded decision function**, not a persistent stock of authority held by a participant or office. The actual exercise must be justified and state-conditioned at the particular action instant, then consumed. Eligibility, voting rights, appointment, consent, reputation, AI capability and technical access are neither interchangeable nor independently sufficient to authorise an act (CAP ≠ PERM ≠ AUTH).
+
+Standing does not automatically confer authorship or decision authority; participation does not automatically confer an official ballot; collective participation does not produce group sovereignty. Conversely, limited stewardship authority does not diminish a participant's separately protected rights or standing. Each distinction remains independently reviewable. Chapter 3 requires no newly invented eligibility or participation thresholds.
+
 # Chapter 4 — The Separation of Influence and Authority
 
 ## 4.1 The General Principle
@@ -2508,6 +2526,12 @@ Oversight requires practical capability to examine, challenge and intervene.
 **Incorporated source:** `Governance Operating Boundary and Authority Lifecycle — Source Resolution 001.md`, §§14–15, 19–20. Multiple individually bounded permissions, roles, resources and credentials can combine into effective general control. **Minimum local capability is not necessarily minimum aggregate capability**; check the composite authority surface and cross-domain dependencies. Economic dependency, infrastructure, information monopoly, advisory dominance, reputation and technical capability may create de facto power without lawful authority. If an authority's own actions produce the conditions later cited to expand that authority, the causal loop requires independent review; authority cannot manufacture its own proof of necessity. Legitimate goals such as safety, stability and efficiency do not justify unlimited optimisation at the expense of rights, dissent or other constitutional objectives. **[LOCAL ISSUE:]** Aggregate-power detection and causal audit require independently governed implementation.
 
 
+
+## 4.8 Chapter 4 Consistency Reconciliation — Influence, Composite Control and Authority
+
+Chapter 4 correctly distinguishes persuasive influence and de facto control from constitutional authority. Its §4.7 “aggregate authority” language describes the **risk of accumulated practical control**, not a lawful acquisition of constitutional authority through combining credentials, roles, resources, groups, meetings or advisory systems. Neither repeated successful acts nor operational indispensability creates an enduring authority reservoir.
+
+Composite control must still be examined for capture, manufactured necessity, information monopolies and cross-domain dependencies. Those risks may warrant independent audit or a new lawfully constituted decision, but no risk assessment, oversight meeting, expert consensus, AI recommendation or metric can itself manufacture permission to act. Any corrective intervention needs its own contextual authority and act-time state transition. The technical detection and independent ownership interfaces remain to be designed, as §4.7 already records.
 
 # Chapter 5 — Practical Constitutional Rights
 
