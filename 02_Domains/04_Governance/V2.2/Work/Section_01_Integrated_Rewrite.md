@@ -5432,9 +5432,9 @@ Every significant governance decision should produce a decision record.
 At minimum, where applicable, it should contain:
 
 - proposal;
-- authority;
-- participants;
-- votes;
+- lawful function, competent decision event and act-time authority evidence;
+- selected official position holders and any separately recorded advisers;
+- authenticated official ballots and commitment status;
 - abstentions;
 - conflicts;
 - recusals;
@@ -5465,7 +5465,7 @@ but:
 
 **why it happened under the information and authority available at the time.**
 
-Where AI materially contributes to a decision, the record may additionally identify:
+Where AI materially contributes to a decision, the record should identify where applicable:
 
 - the AI system or systems involved;
 - model or version where relevant;
@@ -5985,17 +5985,16 @@ The precise constitutional threshold, competent authorisation route, necessary s
 
 ## 9.41 Meeting Protocol
 
-A formal Governance meeting should identify where appropriate:
+A formal Governance meeting or authorised conference, where permitted, should identify where appropriate:
 
 - date;
 - participants;
-- authority;
+- the lawful purpose and bounded context of the meeting (not an authority created by attendance);
 - agenda;
 - proposals considered;
 - evidence available;
 - conflicts;
-- decisions;
-- votes;
+- independently constituted decisions and official ballots, if any, recorded under their own decision-event identities;
 - unresolved matters;
 - and next actions.
 
@@ -6018,7 +6017,7 @@ This distinction matters because discussion must not later be misrepresented as 
 
 Likewise, an informal statement by a Steward should not silently become institutional policy merely because it was recorded in a meeting.
 
-Where authority is exercised, the record should make that transition visible.
+Where a separate decision event lawfully commits a ballot or another consequential transition, the meeting record should point to its immutable event record rather than claiming the meeting itself exercised that authority.
 
 ### 9.41.1 No Authority Acquisition by Meeting, Group or Action
 
