@@ -102,3 +102,7 @@ The separate consolidated §9.53 has been eliminated from the working Section 01
 ## Publication gate
 
 Do not overwrite the published Section 01 until the chapter-by-chapter contradiction scan, full substantive preservation comparison and remaining authorial-decision log have been reviewed. Unbuilt implementation architecture may remain as precise boundaries.
+
+## Chapter 10 original-source comparison — closed (17 October 2026)
+
+The original Governance V2 file at `ACBlainey/Concord-1.2/01_Constitutional_Core/Governance/Governance V2 Canonical.md` was read by Git blob SHA `c65a269fdc95b79a8b815bb6ec7381529a6c151f` and compared directly with V2.1 `Sections/Section_01_Chapters_001-010_Source_Preserved_001.md`. The Chapter 10 text is identical after trimming terminal whitespace (3,741 characters in each). Both contain §§10.1–10.4 and end 'It is recursive self-validation.' The Concord-1.3 copy of Governance V2 has the same Git blob SHA. **There was no Chapter 10 omission in the V2-to-V2.1 transfer.** The V2.2 §10.5 is new operational consolidation, not missing text restoration. Close the source-completeness issue; separate technical metrics-domain architecture remains an ordinary design boundary.
