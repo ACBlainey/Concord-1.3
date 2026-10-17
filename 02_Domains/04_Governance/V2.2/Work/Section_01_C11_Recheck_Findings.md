@@ -97,7 +97,7 @@ The separate consolidated §9.53 has been eliminated from the working Section 01
 - §9.41.2 **retains** the distinct technical safeguards: authoritative current-state verification, atomic commitment within the decision-system boundary, duplicate request reconciliation, competing attempts, event-ID reuse constraints, one-use receipts/ACKs as evidence only, and external-host uncertain-execution reconciliation. These are not mere repetitions of voting rules.
 - §9.41 meeting minutes now identify a meeting's lawful context and link separately committed official ballots through their own event identities, avoiding an implication that meeting minutes themselves constitute a vote or decision.
 - §9.26 decision records distinguish selected official positions, advisory participants, authenticated ballots, and act-time authority evidence; AI contribution details are retained.
-- Chapter 10 still has an unlocated source continuation beyond §10.4; §10.5 remains a bounded operational reconciliation and does not pretend to reconstruct missing original content.
+- Chapter 10 source comparison is closed: Governance V2 and V2.1 Chapter 10 are identical through §10.4; §10.5 is a new operational reconciliation, not a reconstructed source continuation.
 
 ## Publication gate
 
