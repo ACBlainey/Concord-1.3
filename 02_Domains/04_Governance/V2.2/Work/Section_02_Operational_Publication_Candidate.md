@@ -1422,19 +1422,13 @@ The governance decision record and its lawful host effect are separate state tra
 
 **[LOCAL VALIDATION — FI-008, FI-029, FI-031:]** Specify host acknowledgement contracts, commit deduplication, exact decision/event identity, receipt completeness, lawful implementation timing and independent review/appeal routes. This section does not authorise a new cross-owner command channel.
 
-## 12.28 Clause disposition and validity reconciliation (source-trace and operative-clause map)
+## 12.28 Voting Validity and Exceptional Coordination
 
+The voting-validity rules in this chapter apply to a complete triad of three distinct, lawfully selected holders. Two matching valid substantive ballots determine the majority, while ordinary completion requires all three official ballots. Only separately lawful bounded emergency action may proceed on two matching ballots before the third arrives. Each committed ballot is final. The final three-position F/A/U distribution records vote-support confidence. A voting result never independently creates implementation authority.
 
-| Clause | Preserved overlap | Consolidated operative placement | Unresolved check |
-| --- | --- | --- | --- |
-| 12.4 | The consolidated §12.4 contains the base Horizontal Expansion text and the distinct V2.1 spatial interpretation; no second copy of the base passage was found in the current clause | One §12.4 retains the base text once, followed by the meaning-of-horizontal-expansion clarification and bounded coordination qualification | Independently verify historical Candidate 013 provenance; retain the open aggregate-restriction review interface |
-| 12.9 | Original temporary expanded triad and recovered virtual-resultant subsection are related, not interchangeable duplicates | Keep original purpose/scope provision followed by bounded resultant and node-ring technical subclauses | Validate nine distinct holders, legal constitution, event identity and quorum |
-| 12.10 | The second occurrence of the identical base paragraphs was removed after comparison; the operational-scale interpretation is retained in full | One §12.10 with shared base text once and clarified subsidiarity rule | Verify optional bounded hierarchy compatibility and lawful cross-scale competence |
-| 12.11 | The second occurrence of the identical base paragraphs was removed after comparison; the legal-versus-geometric escalation qualification is retained in full | One §12.11 with common base text once and explicit lawful delegation/referral boundaries | Verify constitutional instrument, expiry and return mechanism |
+Horizontal coordination, expanded resultants, cross-scale referral and exceptional action require their own lawful competence, event identity and termination conditions. They do not add voting weight, create a superior GTP tier or override the ordinary triad constitution.
 
-**Controlling authorial interpretation (15 October 2026):** The table below assumes that three distinct lawful Steward holders have already been selected and the decision state machine has validated the complete triad. Every position must cast an official ballot. Two matching ballots determine the majority, but no ordinary outcome takes effect before all three ballots arrive. Only an emergency may trigger a separately bounded action after two matching ballots; the third ballot remains mandatory. Completed votes cannot be changed. The final three-ballot distribution provides the vote-support confidence metric (3/3, 2/3 or 1/3). Historical terms such as quorum, legal effect or pending provenance in individual rows must not be read to override these settled rules.
-
-### 12.28.1 Voting-validity decision table (interpretive only)
+### 12.28.1 Voting-Validity Decision Table
 
 | Situation | Substantive arithmetic | Decision state / next action |
 | --- | --- | --- |
