@@ -4633,19 +4633,11 @@ Each consequential monetary decision and execution must satisfy its own lawful b
 
 # Chapter 16 — Resource Stewardship
 
-## 16.1 Status
+## 16.1 Scope and Development Boundaries
 
-Resource Stewardship was identified as an important Governance domain but remains less fully developed than several other stewardship systems.
+Resource Stewardship is an operative Governance responsibility. Its established principles apply now, while specific allocation, cross-domain ownership, environmental threshold and resource-remedy interfaces require further design.
 
-Governance V2 therefore preserves existing principles and adds only extensions that follow reasonably from already established Concord architecture.
-
-This chapter remains:
-
-**ACTIVE / PROVISIONAL / REQUIRES FUTURE RECURSION**
-
-It is intentionally not filled with speculative detail merely to create apparent completeness.
-
-The provisional status is itself important information.
+This chapter preserves existing principles and extends them only where supported by established Concord architecture. It does not invent mechanisms to create an appearance of completeness. Missing interfaces are identified as design requirements rather than grounds to suspend the rules that are already stated.
 
 Resource Stewardship touches:
 
@@ -4660,9 +4652,9 @@ Resource Stewardship touches:
 - planetary settlement;
 - and long-term continuity.
 
-Prematurely completing the architecture without adequate comparison to those systems could create conflicts that later require substantial correction.
+Designing those remaining interfaces without adequate comparison to the competent systems could create conflicts that later require substantial correction.
 
-The present objective is therefore to preserve what is already established, clarify boundaries that follow directly from existing principles, and explicitly retain unresolved questions.
+The chapter therefore states the applicable duties, clarifies the boundaries that follow from existing principles, and identifies the particular interfaces requiring further design.
 
 ## 16.2 Resources as a Stewardship Responsibility
 
@@ -5135,17 +5127,17 @@ Questions likely to require later recursion include:
 
 These questions should remain open rather than being prematurely answered by analogy alone.
 
-## 16.17 Provisional Resource Principle
+## 16.17 Resource Stewardship Principle
 
 The present Resource Stewardship principle is:
 
 **Resources should be used in ways compatible with autonomy, legitimate property, shared commons, long-term continuity, environmental responsibility, intergenerational stewardship and protection against coercive concentration. Stewardship authority over resources does not constitute ownership of those resources.**
 
-This principle remains subject to later recursion.
+Further development of the competent resource systems may specify implementation mechanisms, but does not suspend this principle.
 
-### 16.17.1 Provisional Resource Boundary
+### 16.17.1 Resource Responsibility Boundary
 
-Resource Stewardship presently appears to include responsibility for:
+Resource Stewardship includes responsibility, within its lawful mandate, for:
 
 - resource sustainability;
 - commons protection;
@@ -5167,9 +5159,9 @@ These systems overlap.
 
 They should not silently merge.
 
-### 16.17.2 Provisionality Must Remain Visible
+### 16.17.2 Interfaces Requiring Further Design
 
-Until the dedicated Resource architecture is completed, Governance should not imply that this chapter resolves:
+This chapter does not itself resolve:
 
 - final property doctrine;
 - complete commons governance;
@@ -5184,7 +5176,7 @@ Those questions remain explicitly open.
 
 Resource stewardship, commons protection, intergenerational obligations, environmental measurement and product lifecycle duties do not create ownership of resources or general power to command participants. Scarcity, concentration, ecological urgency or stewardship responsibility may justify considering a bounded intervention but cannot by itself supply authority. Each consequential act must have its own lawful context, rights limits, state-conditioned authorisation and accountable execution.
 
-The inherited labels “ACTIVE / PROVISIONAL / REQUIRES FUTURE RECURSION,” “Provisional Resource Principle” and “Provisionality Must Remain Visible” describe historical editorial status rather than a substantive prohibition on applying established resource rules. In the **published operational copy**, replace status qualifications with precise descriptions of any genuinely incomplete resource mechanism, while retaining the working text unchanged for provenance. No missing threshold or resource allocation mechanism is invented here.
+The original V2 source retains its historical editorial status labels for provenance. The operative chapter applies the established resource duties and explicitly identifies incomplete interfaces; it does not invent missing thresholds, property doctrines or allocation mechanisms.
 
 # Chapter 17 — Civilisational Planning
 
