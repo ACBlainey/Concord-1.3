@@ -4785,6 +4785,18 @@ The record should show:
 
 The objective is transparency without unnecessary exposure of private information.
 
+### 9.18.1 Lawful Constitution, Absence, Recusal and Alternate Steward Boundaries
+
+**Constitution precedes valid voting.** An ordinary triadic decision must first have three distinct, eligible, lawfully selected steward holders assigned to its three positions. The decision state machine must not treat the event as validly constituted for voting authority before all three positions are filled. An absent candidate cannot be counted as a selected holder merely to make up the required number.
+
+**After lawful constitution**, an original selected steward who becomes absent or cannot continue because of a material conflict may be replaced for that position through the lawful alternate procedure. Such substitution preserves the three-position decision structure; it does not create a fourth vote or give one steward multiple positions. An original steward who returns **before the alternate has cast the official ballot** may supersede that alternate under the established return rule. A valid committed ballot cannot be displaced, withdrawn or recast by the original's subsequent return.
+
+A steward already selected for a position **cannot be arbitrarily removed** or replaced to change the anticipated outcome. Eligibility, material conflict and absence must be distinguished from mere disagreement, dissent or a decision to vote Against. An alternate has no independent voting entitlement outside the particular position and decision event for which lawfully selected.
+
+**Reasons require distinct handling:** an evidentially insufficient basis for judgement calls for gathering information or other lawful handling of the information deficit; it does not automatically justify replacing a steward. A material conflict calls for the lawful conflict/recusal and alternate route. Absence requires its own status and authorised continuity route. An official abstention, where lawfully available, must not be retroactively redescribed as absence or consent. The exact implementation interfaces and any genuinely exceptional cases not already defined remain matters for later design.
+
+These position and substitution rules govern **ordinary triadic and authorised expanded-triad voting**. The makeup and voting rules of distinct larger-scale GTP decision events remain undecided under §9.20.3 and must not be inferred from this ordinary triad provision.
+
 ## 9.19 Decision Classes
 
 Not every decision requires the same threshold or procedure.
