@@ -6026,15 +6026,13 @@ Where authority is exercised, the record should make that transition visible.
 
 The distinction is between **constituting and validating an already authorised contextual exercise** and **creating authority from the activity itself**. A meeting may exchange information, develop proposals, provide evidence, document deliberation or support a lawfully authorised process. It cannot transform consensus, attendance, recorded minutes, collective agreement, expertise, urgency or institutional practice into permission or decision authority. A group acting together has no collective authority beyond the separately established, bounded authority lawfully assigned to its actual decision mechanism and participating positions.
 
-For a triadic vote, the state machine enforces the lawful constitution of three selected steward positions and the required voting transitions. It **does not grant authority because three people assembled or because a vote was held**. A ballot is a single-use, contextual exercise of the authority already available to that lawfully selected steward position for that event. Upon valid commitment the ballot's authority is consumed; subsequent acts cannot recover, pool, inherit or transfer it. The resulting state change and any execution by an affected system must satisfy their own lawful bounds. **CAP ≠ PERM ≠ AUTH** applies throughout.
+For triadic voting, lawful constitution and official ballot commitment are governed by §§9.3.1 and 9.12.1. Assembly, attendance and the mere occurrence of a vote create no authority. **CAP ≠ PERM ≠ AUTH** applies throughout; the executing host remains separately bounded under §9.29.1.
 
-Default official voting isolation remains intact. Any separately authorised conference is an information-exchange condition, not an authority-creating event; it neither creates extra votes nor permits disclosure or amendment of committed official ballots. Ordinary expanded voting, larger-GTP-scale decision events and emergency coordination are equally subject to their **own separately constituted, contextual, bounded authority**; aggregation, spatial coverage and emergency activation do not manufacture a superior jurisdiction.
+The default isolation and contextual conference conditions are specified in §9.10.2. Ordinary expanded voting (Chapter 12 §§12.9.1–12.9.5), separately constituted larger-GTP-scale events (§9.20.3), and emergency coordination (§9.40) cannot acquire superior jurisdiction by aggregation, spatial coverage or activation.
 
-The responsible system owners must specify exact state-machine guards, authority attestations and contextual-wrapper interfaces. These technical boundaries cannot confer authority through an activity's mere occurrence.
+The owner-specific state-machine guards, attestations and contextual-wrapper interfaces are identified in §9.42.1; missing technical interfaces cannot confer authority through an activity's mere occurrence.
 
 ### 9.41.2 State-Conditioned Authority at the Commitment Instant
-
-
 
 A lawful mandate and verified prerequisites **are not a continuously possessed grant, lease, balance, stored token or standing power**. Persistent features are the legitimate function, role, eligibility, competence, capability, procedures and evidence of prerequisites. The specific lawful contextual authority is determined **at the exact decision or authorised-act event**, conditioned on the authoritative current state and all applicable context guards. Its successful exercise changes that state and **consumes the event-specific authority**. An office, meeting, group, prior consent record or earlier successful action cannot supply a reusable authority reservoir.
 
@@ -6042,7 +6040,7 @@ For an identified decision event and action, the implementation must verify the 
 
 A decision-system transition does not prove that a separate external host has atomically executed a physical effect. The host must reconcile actual execution identity, uncertain outcomes and its own lawful act-time authority conditions; retry must not blindly repeat an unknown committed action. Subsequent consequential acts need their **own independently legitimate state and authority determination**, not inheritance from the vote.
 
-The three-room, locked-case, hammer and seventh-digit imagery is **explanatory only**, not a required physical or software controller design. The anonymous participation count discloses only how many distinct steward positions committed, never the content of their votes and never an extra enabling authority state.
+The anonymous participation-count rule is in §9.12.1. The three-room, locked-case, hammer and seventh-digit imagery is explanatory only, not a required physical or software controller design.
 
 Revocable technical grants, validity windows and check/commit leases are prerequisite evidence and technical controls, not continuing constitutional authority. They must not create a reusable power token or override the current lawful state. Exact cross-system owner interfaces and external-effect atomicity limits require further design.
 
