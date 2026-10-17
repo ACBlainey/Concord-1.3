@@ -5948,6 +5948,18 @@ Likewise, an informal statement by a Steward should not silently become institut
 
 Where authority is exercised, the record should make that transition visible.
 
+### 9.41.1 No Authority Acquisition by Meeting, Group or Action
+
+**A meeting cannot acquire authority. No action, gathering, group, office, procedure, coordination arrangement, vote count or emergency label can acquire authority merely by existing or occurring.** Authority is not an asset accumulated by participation, a property of a meeting, or a consequence of performing an action. It must be separately and lawfully constituted for the particular actor, decision and context under the applicable bounded authority and state-machine architecture.
+
+The distinction is between **constituting and validating an already authorised contextual exercise** and **creating authority from the activity itself**. A meeting may exchange information, develop proposals, provide evidence, document deliberation or support a lawfully authorised process. It cannot transform consensus, attendance, recorded minutes, collective agreement, expertise, urgency or institutional practice into permission or decision authority. A group acting together has no collective authority beyond the separately established, bounded authority lawfully assigned to its actual decision mechanism and participating positions.
+
+For a triadic vote, the state machine enforces the lawful constitution of three selected steward positions and the required voting transitions. It **does not grant authority because three people assembled or because a vote was held**. A ballot is a single-use, contextual exercise of the authority already available to that lawfully selected steward position for that event. Upon valid commitment the ballot's authority is consumed; subsequent acts cannot recover, pool, inherit or transfer it. The resulting state change and any execution by an affected system must satisfy their own lawful bounds. **CAP ≠ PERM ≠ AUTH** applies throughout.
+
+Default official voting isolation remains intact. Any separately authorised conference is an information-exchange condition, not an authority-creating event; it neither creates extra votes nor permits disclosure or amendment of committed official ballots. Ordinary expanded voting, larger-GTP-scale decision events and emergency coordination are equally subject to their **own separately constituted, contextual, bounded authority**; aggregation, spatial coverage and emergency activation do not manufacture a superior jurisdiction.
+
+The exact technical state-machine guards, authority attestations and contextual-wrapper interfaces should be checked against their dedicated source architectures during subsequent V2.2 integration. This subsection does not replace those implementations or imply that an activity can generate its own authority.
+
 ## 9.42 Unresolved Matters
 
 A matter should be recorded as unresolved where:
