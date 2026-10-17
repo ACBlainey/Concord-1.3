@@ -531,7 +531,7 @@ CRSTL records causal/dependency and uncertain ordering as provenance; State Map 
 
 The Concord’s Governance system is based upon distributed stewardship rather than concentration of authority.
 
-Governance V1 developed the triad as a basic decision unit.
+The triad is the basic governance decision unit.
 
 However, not every problem remains within the jurisdiction, knowledge or consequence boundary of a single triad.
 
