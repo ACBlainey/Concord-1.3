@@ -1604,7 +1604,7 @@ The Concord does not treat governance as one undifferentiated activity.
 
 Different civilisational responsibilities require different forms of knowledge, expertise, evidence and authority.
 
-Governance V1 therefore developed distinct stewardship domains.
+The Concord's earlier governance architecture developed distinct stewardship domains, whose operative responsibilities and boundaries are consolidated here.
 
 These domains are retained because they prevent a general governing institution from automatically claiming competence over every area of civilisation.
 
