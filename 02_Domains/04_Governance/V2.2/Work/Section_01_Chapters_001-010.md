@@ -5724,6 +5724,16 @@ A technically small parameter change can sometimes create a large constitutional
 
 Parameter changes should therefore not automatically be treated as non-substantive merely because the surrounding rule text remains unchanged.
 
+### 9.37.1 Immutable Vote Instances and Subsequent Decisions
+
+Each vote is a separate decision event with its own unique identifier. Once an official ballot is committed, that ballot is fixed and cannot be withdrawn, altered, revoked or retrospectively replaced. Completion of the event does not reopen any of its ballots.
+
+The same underlying question, policy or issue may be considered again through a **new, independently constituted vote instance** with a **new unique decision identifier**. This is not a redo, reopening or version change of the earlier vote. It is a separate exercise of bounded authority, subject to its own lawful steward selection, deliberation, ballots, outcome and effective-time rules.
+
+The new decision may refer to, affirm, amend or supersede the effect of an earlier decision where the relevant authority permits. It does not change the earlier decision's recorded votes, result or historical existence. The record must retain both decision identifiers and, where applicable, the relationship between them.
+
+**Decision-event identity is distinct from policy or rule versioning.** A later policy version may result from a new decision event, but the policy's version number is not a substitute for the unique identifier of the vote that authorised it.
+
 ## 9.38 Constitutional Decisions
 
 Where a proposal potentially changes the constitutional order, ordinary governance procedure is insufficient.
