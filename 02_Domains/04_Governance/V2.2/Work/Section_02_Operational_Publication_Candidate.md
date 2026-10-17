@@ -4578,25 +4578,11 @@ Economic Stewardship does not automatically control currency issuance.
 
 Clear boundaries reduce cross-domain capture.
 
-### 15.27.5 Energy-Backed Currency Remains a Candidate Implementation
+### 15.27.5 Energy-Backed Currency — Adoption Boundary
 
-The energy-backed currency architecture should remain preserved as a serious developed Concord proposal.
+Energy-backed currency is a developed monetary design option, not an immutable constitutional requirement or an automatically authorised monetary system. Its technical and economic merits must be evaluated against Ratchet, productive-capability models, alternative monetary designs, interplanetary economics and available evidence.
 
-Its status is:
-
-**candidate implementation pending wider economic and constitutional validation**.
-
-It should not be removed merely because later architecture becomes more general.
-
-Nor should it be elevated to immutable constitutional requirement before comparison with:
-
-- Ratchet;
-- productive-capability models;
-- monetary alternatives;
-- interplanetary economics;
-- and future evidence.
-
-This preserves both the idea and the Concord’s commitment to correction.
+Any decision to adopt, operate, modify or retire such a system requires the competent lawful decision and execution processes, including economic calibration, constitutional compatibility and applicable cross-domain safeguards. Maintaining the design as an available option neither mandates adoption nor permits monetary infrastructure to confer governance authority.
 
 ## 15.28 Monetary Systems and Act-Time Authority
 
