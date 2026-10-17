@@ -6014,7 +6014,7 @@ The responsible system owners must specify exact state-machine guards, authority
 
 
 
-The preceding references to authority being “available” or “already authorised” **must not be read as a continuously possessed grant, lease, balance, stored token or standing power**. Persistent features are the legitimate function, role, eligibility, competence, capability, procedures and evidence of prerequisites. The specific lawful contextual authority is determined **at the exact decision or authorised-act event**, conditioned on the authoritative current state and all applicable context guards. Its successful exercise changes that state and **consumes the event-specific authority**. An office, meeting, group, prior consent record or earlier successful action cannot supply a reusable authority reservoir.
+A lawful mandate and verified prerequisites **are not a continuously possessed grant, lease, balance, stored token or standing power**. Persistent features are the legitimate function, role, eligibility, competence, capability, procedures and evidence of prerequisites. The specific lawful contextual authority is determined **at the exact decision or authorised-act event**, conditioned on the authoritative current state and all applicable context guards. Its successful exercise changes that state and **consumes the event-specific authority**. An office, meeting, group, prior consent record or earlier successful action cannot supply a reusable authority reservoir.
 
 For an identified decision event and action, the implementation must verify the actual current state and relevant conditions, permit only the defined lawful transition, and atomically commit the new state with an immutable event record **within the authoritative state-machine boundary**. A duplicate request returns or reconciles the prior result rather than executing a second transition. **A different event identifier alone does not create a fresh legitimate enabling state**. Competing attempts must not both consume the same state. Technical one-use tokens, receipts, validity windows and ACKs are evidence, replay guards or reconciliation mechanisms, **not stored constitutional authority**.
 
@@ -6598,7 +6598,7 @@ and
 
 ## 9.52 Core Operating Rules
 
-The following rules emerge as the current operational baseline:
+The following rules govern ordinary operation:
 
 **Authority must be established before action.**
 
@@ -6620,9 +6620,9 @@ The following rules emerge as the current operational baseline:
 
 **Absence is not abstention and is not consent.**
 
-**Delegation transfers defined authority, not unlimited discretion.**
+**Delegation establishes bounded responsibilities and eligibility; it does not transfer a reusable stock of exercisable authority or unlimited discretion.**
 
-**Delegation cannot create authority that the delegating body did not possess.**
+**Delegation cannot authorise acts outside the lawful source's legitimate delegable scope, and each consequential act must satisfy its own current lawful state.**
 
 **Conflicts of interest must be disclosed and managed.**
 
@@ -6652,7 +6652,7 @@ The following rules emerge as the current operational baseline:
 
 **Successful institutions remain reviewable.**
 
-**Canonical means current, not final.**
+**Current operating rules remain subject to independently lawful review and correction, not retroactive alteration of committed official acts.**
 
 
 
