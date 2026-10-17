@@ -61,6 +61,15 @@ This is a working audit record, **not** an operational section. Compare the pres
 - **Chapter 9 abstention and completion:** §§9.14–9.18 distinguish a request for more evidence, a lawfully available official abstention, recusal, absence, and completed Unresolved (U). The same distinctions apply to Chapter 12 constituent resultants. Repeated inability to complete must be diagnosed by cause, not counted as one homogeneous abstention metric.
 - **Remaining C11 check:** Review §9.53 against §§9.12–9.18, §9.28–9.29 and §9.40–9.41 for unique procedural content before removing any duplication. Verify source details for protected information sharing, vote-count metadata, host acknowledgement, emergency exceptions and independent review.
 
+## Chapter 9 structural integration pass — 17 October 2026
+
+- Removed residual historical source-status commentary in §9.1; clarified legitimate event conditions in §§9.3–9.4, independently competent specialist advice in §9.8, and decision/host authority separation in §§9.11 and 9.29.
+- Relocated the unique constitutional purpose and limits of triadic reasoning from former §9.53.1 to §9.10.1, where deliberation and epistemic independence are explained.
+- Relocated the operative action/restraint, implementation and subsequent-review content from former §9.53.5 to §9.29.1.
+- Relocated the remaining conference, protected count, owner-reconciliation and constituent-validity design boundaries from former §9.53.6 to §9.42.1.
+- **Still to consolidate:** §9.53.2–§9.53.4 overlap earlier constitution, recusal, evidence, ballot, majority and emergency provisions. Preserve any unique detailed safeguards before removing them. The numbering of surviving §9.53 subsections will be normalized when their remaining material is integrated.
+- The published Section 01 remains unchanged; these changes are only in `Work/Section_01_Integrated_Rewrite.md`.
+
 ## Publication gate
 
 Do not overwrite the published Section 01 until the chapter-by-chapter contradiction scan, full substantive preservation comparison and remaining authorial-decision log have been reviewed. Unbuilt implementation architecture may remain as precise boundaries.
