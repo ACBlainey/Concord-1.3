@@ -4845,6 +4845,16 @@ Where the relevant competence or scope is insufficient, the matter may need to b
 
 The exact classes of decisions requiring a larger scale, the criteria for determining competence, the selection of the appropriate GTP scale, and the lawful escalation and coordination mechanisms **remain to be designed**. No exhaustive list or automatic escalation threshold is asserted here. Spatial scale alone does not establish expertise, eligibility, security clearance or decision authority; these must be established for the particular decision.
 
+### 9.20.2 Event-Bounded Larger-Scale Decisions and Ordinary Vote Expansion
+
+A decision referred to a larger GTP spatial scale is a **singular, separately identified decision event**. The stewards selected for that event exercise only the authority lawfully constituted for that specific question and its defined scope. Their decision creates **no standing authority over other decisions**, no general supervisory jurisdiction over smaller GTP areas, and no continuing power to approve, veto, direct or override unrelated decisions.
+
+All other matters continue to be decided through their ordinary competent triads at the appropriate GTP spatial scale. A larger-scale decision may have effects throughout its lawfully defined affected area, including smaller constituent areas, but this breadth of effect must not be confused with a hierarchical power over the stewards who decide other matters.
+
+**Ordinary expansion of voting is a distinct mechanism.** Where an authorised triadic voting process expands through its established mesh/extended-voting architecture, that expansion operates within the decision event and its existing rules; it is not, merely by reason of expansion, a referral to a standing higher authority. The expanded voting mechanism retains its own bounded decision scope and does not acquire authority over separate votes.
+
+The conditions and procedures for selecting a larger spatial decision scale remain to be designed, as recorded in §9.20.1. Neither referral nor ordinary vote expansion creates enduring superior office or generalised authority.
+
 ## 9.21 Experimental Decisions
 
 Where uncertainty is high but potential benefit is significant, Governance should consider whether a proposal can be tested in a controlled environment.
