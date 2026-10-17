@@ -730,6 +730,10 @@ An individual Steward may explain an existing authorised position, explore optio
 
 Where all three Stewards attend, their simultaneous presence does not itself constitute an official decision procedure. A decision during a meeting is possible only if the question and scope have been lawfully authorised and the applicable voting, independence, record, conflict, state and effect safeguards are satisfied. **Design interface:** The detailed mechanism for decisions within live meetings, including contextual conference versus isolated ballots, contemporaneous records, external representations, confidentiality and implementation acknowledgement, remains to be designed by the competent Foreign Affairs and/or inter-triad coordination systems. The same boundary applies to cross-border questions between neighbouring GTP areas; neither the meeting nor geographical adjacency creates common authority.
 
+### 12.8.2 Cross-scale coordination and authority boundaries
+
+GTP parent/child terminology describes spatial resolution, not a superior or subordinate governance office. A cross-scale or purpose-specific coordination arrangement may organise information, consultation or logistics without creating a new voting position or superior command. Binding direction requires independently lawful shared or delegated competence, affected-domain permissions, a bounded mandate, decision-event identity, act-time checks and termination. No majority of neighbouring regions automatically overrides another region's lawful policy; nor does a coordination meeting transform advisory or Parallel Steward reasoning into an official ballot. See §§12.9–12.13 for expanded voting and Chapter 20 for independent challenge of its validity.
+
 ## 12.9 Temporary Expanded Triads and Virtual Resultants
 
 A temporary expanded triadic decision structure may be convened only for a defined question whose lawful consequence and competence field requires more than the originating triad. The existence of neighbouring GTP triangles, shared interests or an emergency does not independently grant common decision authority.
@@ -6491,42 +6495,11 @@ Institutions that suppress criticism in the name of unity may destroy their own 
 # V2.1 Working Annex — Chapter 12 Proposed Integration (Not Canonical)
 
 
-## Proposed insertion after V2 §12.9 — Voting topology
+### 20.6.1 Challenge routes for expanded and cross-scale decisions
 
-Define originating GTP triangle R and its three edge-adjacent triangles A, B, C. In the **origin-excluded** arrangement, A, B and C each form a separately authorised three-Steward constituent triad and produce one resultant vote; R is excluded. In the **origin-included** arrangement, the constituent triads each contain two authorised Stewards from A/B/C respectively and one authorised Steward from R. Each constituent triad produces one resultant vote. The three results form a final virtual triad; **nine individual votes are never pooled**.
+A challenge to an expanded or cross-scale decision must be able to identify the originating decision event, participating constituent triads, lawful jurisdiction and mandate, official resultants, relevant recusal or substitution records, and any consequential host-system act. The challenge process must not treat an unresolved vote as a negative vote, pool nine constituent ballots into a single tally, or treat a larger GTP scale as superior jurisdiction. The substantive voting and coordination rules are in §§12.5–12.13 and 12.25; challenge and correction remain independently authorised acts under this chapter.
 
-A three-position triad returns For if at least two valid ballots are For, Against if at least two valid ballots are Against, and Unresolved otherwise. Apply the same rule to the three constituent results. Unresolved does not mean Against, and no valid majority does not authorise a state change through this vote. Individual eligibility, independence, recusal, delegation and duplicate-effective-vote constraints require further formal validation.
-
-## Proposed clarification to §§12.5–12.8 — Scope and jurisdiction
-
-A GTP spatial parent/child relation denotes geometric resolution, not a superior/subordinate governance authority. Decisions ordinarily remain at the lowest capable legitimate level. Cross-region information sharing or coordination does not automatically confer a common decision authority. Genuine material cross-boundary effects may require a separately authorised shared decision. A majority of independent regions does not automatically override another region's lawful local policy.
-
-## Proposed clarification to §§12.9–12.13 — Exceptional continuity
-
-Expanded voting is exceptional, not an ordinary remedy for substantive disagreement. Parallel Stewards provide independent advisory reasoning, not automatic executive votes. Substitute Stewards require a separate bounded succession basis. Reconstitution or recursive expansion must document scope, authority, constituent topology, selection, conflict controls, stopping rule, expiry and audit. No expansion-until-approval.
-
-## Integration dependencies
-
-Cross-check Chapters 9, 28–30, 54, 100, 132, 149–151 and 198. Do not modify the V2 canonical original. Final clause numbering, placement and normative force require review before this annex can be merged into Chapter 12.
-
-### Parallel Steward selection, appointment and voting-position boundary
-
-**Working interface alignment; no new constitutional appointment power.** Historical owns protected stewardship provenance; Education owns training/accreditation; participant tier and office-specific requirements govern eligibility. Experience as a Parallel Steward supports later ascension candidacy but **does not** create a constituted voting position, automatic appointment, mandate, quorum or right of succession. The selector and final appointment rule remain open in the shared Stewardship Selection and Allocation architecture.
-
-An independently frozen shadow vote, reasoned abstention or forecast belongs to the Parallel Steward's learning and provenance record, **not** the official Chapter 12 triadic tally. A Parallel Steward may cast an official vote only if separately and lawfully appointed to the specific bounded voting position for that decision event, with eligibility, conflict review, identity, independence, authority and expiry verified. A position may not be multiplied by relabelling the same event or a shadow record. Official F/A/U arithmetic and the 12 October two-vote-majority rule remain unchanged.
-
-Do not invent comparative promotion metrics: decision classes and valid outcome tests are not yet known. Preserve original independent reasoning and later reality observations for future evidence-appropriate review. Cross-reference Chapter 100 and emergency Chapters 28–30; see `03_Cross_Domain_Architecture/Stewardship_Selection_and_Allocation/README.md` §§10–13.
-
-
-
-### Triadic decisions within optional cross-scale coordination
-
-**Working interface; not an appointment or voting rule.** Chapter 132 now permits a purpose-specific hierarchical **coordination** arrangement where independently lawful, while GTP remains a continuously present multiscale spatial mesh without default governance rank. Chapter 12's voting position, decision-event, quorum, eligibility, two-matching-vote majority and provenance rules apply unchanged to any participating Steward. A coordinating function does not acquire a superior vote, appoint an additional Steward, replace a lawful triad, override an independently competent decision, or convert a shadow/parallel ballot into an official ballot by virtue of a larger spatial scale.
-
-Where a proposed arrangement would give binding direction rather than merely organise information or logistics, require the actual independently lawful shared/delegated competence, affected-domain permissions, office mandates, scope and termination; use MKA to check authority at the consequential act. The choice to create such an arrangement, its scale, selector, hierarchy and review details are **not specified** here and cannot be inferred from GTP nesting. Record cross-scale decision-event identity and provenance so one Steward does not gain duplicate voting weight through overlapping roles.
-
-
-
+Parallel Steward observations and independently recorded shadow reasoning may supply review evidence, but do not become official ballots or confer appointment authority. Where a challenge alleges duplicate participation, invalid succession, vote-shopping, coercion or an unauthorised coordination hierarchy, preserve the provenance and refer the question to the competent independent review route. The detailed cross-domain referral and protective interfaces remain to be designed; this does not authorise unilateral replacement of a committed official vote.
 
 ## 20.7 Protected correction, dissent and challenge during triadic governance
 
