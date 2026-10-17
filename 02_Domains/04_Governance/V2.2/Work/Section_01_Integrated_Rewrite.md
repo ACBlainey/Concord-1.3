@@ -4671,6 +4671,10 @@ Where practical, participants should distinguish:
 
 This makes later review more informative.
 
+### 9.10.1 Triadic reasoning, independence and limits
+
+A triad reduces dependence on one actor's incomplete knowledge, bias, fatigue, capture or error. Three distinct positions permit independent judgement, identifiable responsibility, dissent, majority determinacy and practical repeated use without committee-scale overhead. The number three does not guarantee independence, correct evidence, diverse judgement, legitimate competence, absence of correlated failure or a wise outcome. Applying a triadic reasoning method in Judiciary, research, organisations, AI governance or emergency management does not transfer the specific constitutional authority of a Governance triad to those settings.
+
 ## 9.11 Decision as State Transition
 
 A governance decision may be represented as:
@@ -6650,10 +6654,6 @@ The following rules govern ordinary operation:
 
 
 ## 9.53 Consolidated Triadic Voting Conditions
-
-### 9.53.1 Constitutional purpose and limits of triadic reasoning
-
-A triad reduces dependence on one actor's incomplete knowledge, bias, fatigue, capture or error. Three distinct positions permit independent judgement, identifiable responsibility, dissent, majority determinacy and practical repeated use without committee-scale overhead. The number three does not guarantee independence, correct evidence, diverse judgement, legitimate competence, absence of correlated failure or a wise outcome. Applying a triadic reasoning method in Judiciary, research, organisations, AI governance or emergency management does not transfer the specific constitutional authority of a Governance triad to those settings.
 
 ### 9.53.2 Forum constitution and decision scope
 
