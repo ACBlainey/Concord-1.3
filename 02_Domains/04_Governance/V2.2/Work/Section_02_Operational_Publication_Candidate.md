@@ -4594,26 +4594,11 @@ Each consequential monetary decision and execution must satisfy its own lawful b
 
 ## 16.1 Scope and Development Boundaries
 
-Resource Stewardship is an operative Governance responsibility. Its established principles apply now, while specific allocation, cross-domain ownership, environmental threshold and resource-remedy interfaces require further design.
+Resource Stewardship is an operative Governance responsibility. It covers property, environmental systems, public goods, private ownership, commons, economics, infrastructure, future generations, planetary settlement and long-term continuity.
 
-This chapter preserves existing principles and extends them only where supported by established Concord architecture. It does not invent mechanisms to create an appearance of completeness. Missing interfaces are identified as design requirements rather than grounds to suspend the rules that are already stated.
+Stewardship duties do not establish universal public ownership or unrestricted power to allocate, seize, regulate or command resources. Any consequential intervention requires the applicable constitutional rights, lawful mandate, bounded decision and host-system execution authority.
 
-Resource Stewardship touches:
-
-- property;
-- environmental systems;
-- public goods;
-- private ownership;
-- commons;
-- economics;
-- infrastructure;
-- future generations;
-- planetary settlement;
-- and long-term continuity.
-
-Designing those remaining interfaces without adequate comparison to the competent systems could create conflicts that later require substantial correction.
-
-The chapter therefore states the applicable duties, clarifies the boundaries that follow from existing principles, and identifies the particular interfaces requiring further design.
+**Architecture to be designed — resource interfaces:** Specify allocation mechanisms, cross-domain ownership and custody, environmental thresholds, remedies and competent review pathways. Until those interfaces are lawfully established, their absence cannot be treated as permission to bypass existing rights or create new authority.
 
 ## 16.2 Resources as a Stewardship Responsibility
 
