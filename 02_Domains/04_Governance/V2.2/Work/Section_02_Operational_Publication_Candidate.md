@@ -738,6 +738,8 @@ GTP parent/child terminology describes spatial resolution, not a superior or sub
 
 A temporary expanded triadic decision structure may be convened only for a defined question whose lawful consequence and competence field requires more than the originating triad. The existence of neighbouring GTP triangles, shared interests or an emergency does not independently grant common decision authority.
 
+Expanded voting is exceptional, not a remedy for substantive disagreement or a way to rerun an unfavourable result. Each constituent triad is a separately lawful three-position decision event; its resultant carries one of the three final-triad positions, never the pooled weight of its individual ballots. An unresolved constituent resultant is not an Against vote and cannot be silently converted into a final majority.
+
 The convening record shall establish:
 
 - originating triangle R and the three edge-adjacent triangles A, B and C, where this specific GTP arrangement is used;
