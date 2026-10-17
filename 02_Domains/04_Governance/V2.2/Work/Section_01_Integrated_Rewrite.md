@@ -1103,20 +1103,20 @@ This preserves the central distinction between stewardship and rule:
 
 # 1.11 Lowest Competent Level Is the Default
 
-A matter should remain at the lowest competent governance level capable of resolving it lawfully and effectively.
+A matter should remain at the lowest competent GTP spatial scale and within the independently lawful functional competence capable of resolving it effectively. GTP scales are conceptual spatial references, not a hierarchy of governing offices; multiple scales may operate at the same time.
 
-Higher-level involvement requires a reason.
+A separately constituted wider-scale decision event, independent constitutional review or functional referral requires a specific lawful reason and competence. None creates a standing superior office.
 
 Possible reasons include:
 
-- insufficient local authority;
+- absence of lawful competence for the precise local decision;
 - insufficient local capability;
 - cross-jurisdictional effects;
 - constitutional rights implications;
 - systemic risk;
 - unresolved conflict;
-- failure of the lower level;
-- or an explicitly reserved higher-level function.
+- failure of the ordinarily competent forum;
+- or a function independently reserved to another competent institution.
 
 Subsidiarity protects:
 
@@ -1129,9 +1129,9 @@ Subsidiarity protects:
 - resilience;
 - and protection against unnecessary centralisation.
 
-Higher authority should not intervene merely because it possesses greater resources or considers itself more competent.
+No larger GTP spatial forum or differently competent institution may intervene merely because it possesses greater resources or considers itself more competent.
 
-Centralisation should respond to demonstrated need rather than institutional preference.
+Wider spatial scope must be justified by the actual affected decision field, not institutional preference. The constitution and aggregation of such a wider decision event remain to be designed; they are not inferred from ordinary expanded voting.
 
 # 1.12 Delegation Does Not Transfer Ultimate Accountability
 
@@ -1141,7 +1141,7 @@ Delegation does not automatically erase the accountability attached to the origi
 
 However, accountability must follow the actual decision structure rather than applying a simplistic rule that the superior is always responsible for everything or that the delegate is always solely responsible.
 
-Where a superior steward:
+Where an appointing, directing, supervising or otherwise responsible steward:
 
 - ordered an action;
 - created the unsafe policy;
@@ -1150,7 +1150,7 @@ Where a superior steward:
 - failed a required oversight duty;
 - or deliberately used delegation to evade a constitutional restriction,
 
-the superior cannot escape accountability merely because another entity executed the action.
+that steward cannot escape accountability merely because another entity executed the action.
 
 Likewise, where a delegate independently exceeds their authority, the delegate remains responsible for that independent conduct.
 
@@ -1172,9 +1172,9 @@ It must not make responsibility disappear.
 
 # 1.13 Delegation Cannot Create Authority That Did Not Exist
 
-Governance V2 explicitly adds:
+The constitutional boundary is:
 
-**A delegating authority cannot ordinarily delegate authority that it does not itself possess.**
+**Delegation cannot lawfully authorise an act outside the source's legitimate delegable function, scope and constitutional limits.** A mandate establishes responsibilities and eligibility, not a reusable transfer of exercisable authority. Every consequential act still requires its own lawful contextual state at commitment.
 
 If a steward is constitutionally prohibited from taking an action, that steward should not be able to evade the prohibition by instructing:
 
@@ -1187,7 +1187,7 @@ If a steward is constitutionally prohibited from taking an action, that steward 
 
 to perform the prohibited action on its behalf.
 
-Constitutional limitations travel through the delegation chain.
+Constitutional limitations apply to every actor and consequential act in the delegation chain; a delegated mandate cannot evade them.
 
 This prevents **authority laundering**.
 
@@ -1209,7 +1209,7 @@ When a matter materially affects another constitutional domain, the appropriate 
 - referral;
 - joint deliberation;
 - jurisdictional review;
-- escalation;
+- referral to a separately competent decision forum;
 - or another constitutionally defined process.
 
 The response is not unilateral expansion of mandate.
