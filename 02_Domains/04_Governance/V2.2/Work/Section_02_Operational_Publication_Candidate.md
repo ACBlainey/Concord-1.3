@@ -6135,7 +6135,7 @@ A judicial finding, corrected scientific claim or KCS update may require a fresh
 
 Detailed inter-domain referral, evidence-disclosure, remedy and implementation interfaces remain to be designed by their competent owners.
 
-## 18.12 Chapter 18 Consistency Reconciliation — Independent Institutional Functions
+## 18.12 Independent Institutional Functions
 
 Governance, Judiciary, Historical, Research, KCS, Continuity, Ratchet, Roadway, metrics and AI systems retain distinct functions and accountability. Information exchange, custody, evidence, review, technical access, enforcement capability and inter-domain coordination do not convert one institution into the constitutional authority of another. An oversight meeting or shared workflow cannot create collective sovereignty.
 
