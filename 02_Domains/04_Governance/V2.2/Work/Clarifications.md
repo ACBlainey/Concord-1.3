@@ -107,6 +107,17 @@ This is a reference for integration and checking, **not** an independent grant o
 - **Publication gate:** before moving a section to the main V2.2 folder, check chapter-by-chapter that the resulting text is complete, internally consistent, free of editorial status qualifications, and no longer structured as source plus patches. Verify retained substantive coverage against the full working source and C01–C11.
 - The current Section 02 publication candidate requires this substantive rewrite; removing status labels alone does not satisfy the gate. The same standard applies retrospectively to Section 01.
 
+
+## C11 review finding — Published Section 01 (17 October 2026)
+
+**Result: DOES NOT MEET C11; substantive integrated rewrite required.** The published Section 01 is still largely a source-preserving accumulation of inherited text plus later consistency sections, not a unified operational rewrite. The preserved working copy and original sources remain available; do not delete or silently condense them.
+
+- Chapters 1–9 append separately titled consistency-reconciliation material instead of integrating it throughout the affected provisions; Chapter 10 also has a separate consistency review.
+- Chapter 8 is headed “Provisional Governance Invariants and Unresolved Foundations” and includes development-status language that C10 prohibits in the operational publication.
+- Chapter 9 contains V2.1 integration metadata, a continuation marker, source-specific disposition and conflict notes, and an explicit developmental-precedence explanation. These require coherent incorporation, not mere removal of their headings.
+- Chapter 9 includes older risk-level / “higher-layer approval” wording adjacent to later nonhierarchical GTP and instantaneous-authority constraints. Reconcile the actual lawful decision and spatial-scope mechanism in place; do not retain ambiguous competing rules.
+- The operational publication must be rebuilt chapter-by-chapter, preserving every still-applicable substantive rule, exception, interface and safeguard in a single coherent text. Work records retain original wording and precedence history. Do not regard Section 01 as C11-compliant until the integrated text and coverage comparison are completed.
+
 ## Cross-section review procedure
 
 For **each** V2.2 section:
