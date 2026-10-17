@@ -4491,11 +4491,9 @@ Ratchet distinguishes among:
 - exchange;
 - and optional monetary mechanisms.
 
-Governance V2 therefore does not declare the Energy-Backed Currency architecture to be the final Concord monetary system.
+This chapter does not designate Energy-Backed Currency as the exclusive or final Concord monetary implementation. The constitutional safeguards governing monetary power are operative; the selection and deployment of a particular currency or Ratchet-linked mechanism require their own lawful design, competence and implementation decisions.
 
-Instead:
-
-**The Governance V1 monetary architecture is preserved as developed economic material pending full economic consolidation with Ratchet and related systems.**
+The earlier energy-backed monetary design remains preserved in full for comparison and integration with Ratchet and related systems, without being silently imposed or discarded.
 
 No substantive material should be discarded until that comparison is complete.
 
