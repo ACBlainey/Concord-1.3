@@ -4734,26 +4734,27 @@ A steward remains accountable for an official ballot even after its single-use c
 
 ## 9.14 Abstention
 
-An abstention is not automatically equivalent to:
+A recorded abstention or request for more information is not automatically equivalent to:
 
 - For;
 - Against;
 - consent;
 - or absence.
 
-It may represent:
+Its cause must be recorded and distinguished. It may reflect:
 
-- insufficient information;
-- uncertainty;
-- inability to evaluate the question;
-- a procedural concern, where abstention is lawfully permitted;
-- or another reason.
+- insufficient information requiring additional evidence;
+- uncertainty or inability to evaluate the question;
+- a procedural concern, where an official abstention is lawfully permitted;
+- or another expressly recognised reason.
+
+A request for further evidence is not by itself a completed official ballot. Only an authorised official abstention, where the governing voting protocol permits it, may be counted as such; conflict recusal and absence are not official abstentions.
 
 Where practicable, the reason for abstention should be recorded.
 
 ### Three-Position Result Semantics
 
-For any voting event, first require three distinct lawfully selected Steward holders to constitute its three positions. Two matching valid official F ballots fix the mathematical For (F) majority; two matching valid official A ballots fix the mathematical Against (A) majority. **Ordinary effect requires all three official ballots.** A completed three-ballot event with no F/A majority yields Unresolved (U); a missing ballot remains pending, not U. Official abstention, recusal, absence, failed authentication, conflict and evidential insufficiency require distinct cause/status records and must not be conflated. The same constitution, pending-versus-U and three-resultant ordinary-completion rules apply independently at each authorised constituent triad and at the final virtual-triad stage. Only separately authorised emergency action may proceed after two matching valid official ballots or resultants. No arithmetic result creates jurisdiction or appointment authority.
+For any voting event, first require three distinct lawfully selected Steward holders to constitute its three positions. Two matching valid official F ballots fix the mathematical For (F) majority; two matching valid official A ballots fix the mathematical Against (A) majority. **Ordinary effect requires all three official ballots.** A completed three-ballot event with no F/A majority yields Unresolved (U); a missing ballot remains pending, not U. Official abstention, recusal, absence, failed authentication, conflict and evidential insufficiency require distinct cause/status records and must not be conflated. The same constitution, pending-versus-U and three-resultant ordinary-completion rules apply independently at each authorised constituent triad and at the final virtual-triad stage, whose constituent composition is specified in Chapter 12 §§12.9.1–12.9.5. Only separately authorised emergency action may proceed after two matching valid official ballots or resultants. No arithmetic result creates jurisdiction or appointment authority.
 
 ## 9.15 Abstention as a Diagnostic Signal
 
@@ -4765,18 +4766,18 @@ Does the abstention prevent the required majority?
 **System level:**  
 Why did the steward abstain?
 
-Repeated abstention by one steward may indicate:
+Repeated recorded non-final positions, requests for more evidence, recusals or inability to complete a ballot may indicate different problems. Each cause must be classified separately rather than counted as the same official abstention. Relevant causes include:
 
 - insufficient expertise;
 - poor access to evidence;
-- conflict of interest;
+- material conflicts of interest;
 - disengagement;
 - excessive workload;
 - procedural dysfunction;
 - fear of accountability;
 - or another deeper governance problem.
 
-Abstention therefore becomes governance information rather than merely a voting statistic.
+The recorded cause and procedural status therefore become governance information rather than merely a voting statistic. An insufficient-information response triggers lawful evidence gathering, not automatic substitution or an official Unresolved result.
 
 ## 9.16 Absence
 
@@ -4784,12 +4785,12 @@ Absence should be distinguished from abstention.
 
 An absent steward has not necessarily exercised a decision position.
 
-The protocol should define in advance where possible:
+The decision protocol and Chapter 12 §12.9.0a substitution procedure must distinguish:
 
 - when absence prevents a decision;
 - when the matter should wait;
 - when an independently eligible alternate may occupy the same position through the lawful selection process;
-- when a substitute may be appointed;
+- when a separately lawful substitute may occupy the original position without adding a vote;
 - when a separately competent functional or spatial decision forum is required;
 - and when emergency continuity procedures apply.
 
@@ -4814,7 +4815,7 @@ Where the conflict makes participation unlawful, the steward must recuse and the
 
 ### 9.17.1 Distinguishing abstention, absence and substitution
 
-A Steward's **insufficient-information abstention** identifies a need for further evidence, not a vacant office or authority to install a replacement voter. A material **conflict-of-interest recusal** may establish a decision-specific unavailable position, but any substitute requires a separately lawful vacancy finding, independently valid appointment and the complete decision-event identity and conflict checks. Temporary absence, incapacity, authentication failure, recusal, abstention and a substantive Against ballot are different states and must not be silently exchanged. Where two independently valid official For or Against ballots match, the mathematical majority is determined even if a third ballot remains outstanding; ordinary effect is barred until all three official ballots arrive. Separately authorised emergency action may proceed after two matching ballots; procedural validity, effective time and host implementation remain separately gated. A third Steward's later valid ballot may complete the record but cannot revoke a committed ballot or change the determined majority. A substitute occupies the original bounded position, never a fourth vote. Governance must preserve protected deliberation, independent review and attributable records without treating an appeal or concern as retroactive vote withdrawal.
+A Steward's **insufficient-information abstention** identifies a need for further evidence, not a vacant office or authority to install a replacement voter. A material **conflict-of-interest recusal** may establish a decision-specific unavailable position, but any substitute requires a separately lawful vacancy finding, independently valid appointment and the complete decision-event identity and conflict checks. Temporary absence, incapacity, authentication failure, recusal, abstention and a substantive Against ballot are different states and must not be silently exchanged. Where two independently valid official For or Against ballots match, the mathematical majority is determined even if a third ballot remains outstanding; ordinary effect is barred until all three official ballots arrive. The anonymous vote-count indicator reveals only how many official ballots have been committed, not their content, and does not change the state-machine validity gates. Separately authorised emergency action may proceed after two matching ballots; procedural validity, effective time and host implementation remain separately gated. A third Steward's later valid ballot may complete the record but cannot revoke a committed ballot or change the determined majority. A substitute occupies the original bounded position, never a fourth vote. Governance must preserve protected deliberation, independent review and attributable records without treating an appeal or concern as retroactive vote withdrawal.
 
 
 ## 9.18 Recusal
