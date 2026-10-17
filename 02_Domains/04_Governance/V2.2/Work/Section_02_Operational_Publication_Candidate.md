@@ -958,9 +958,9 @@ A healthy Governance system should allow actors to say:
 
 That statement may be evidence of responsible stewardship.
 
-## 12.13 Escalation Should Be Reversible
+## 12.13 Exceptional Coordination Must Terminate When Its Basis Ends
 
-Where authority moves upward temporarily because of:
+Where an exceptional mandate or coordination arrangement is established temporarily because of:
 
 - scale;
 - emergency;
