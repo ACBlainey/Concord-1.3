@@ -1690,7 +1690,15 @@ Formal closure should not falsely declare all recovery complete.
 
 It marks the end of extraordinary constitutional status.
 
-## 38.21 Compact Emergency Recovery Principle
+## 38.21 Closure, Outstanding Obligations and Return to Ordinary Governance
+
+Emergency expiry, de-escalation, restoration of service and formal closure are distinct events. Expiry ends use of the particular extraordinary mandate; it does not automatically prove that recovery is complete. Restoring a service does not automatically restore ordinary institutional control, and formal closure cannot extinguish valid claims, audit duties, compensation, remedy or unresolved constitutional review.
+
+A closure record must distinguish actions completed under lawful emergency authority, actions still being safely completed under separately valid execution rules, and new work requiring ordinary authority. No expired emergency decision can be revived merely by carrying an item forward on a recovery ledger. Each fresh commitment requires its own competent authority and decision identity. An emergency office cannot perpetuate itself by withholding closure or claiming continuing recovery needs.
+
+**Architecture to be designed — emergency closure and recovery transfer interface:** Specify competent closure decisions, transfer of unresolved obligations to ordinary hosts, evidence custody, financial and property reconciliation, independent expiry verification, and remedies for contested emergency actions.
+
+## 38.22 Compact Emergency Recovery Principle
 
 The Emergency Governance architecture can be summarised:
 
@@ -2341,3 +2349,17 @@ Versioning may preserve:
 A currently operative version may supersede an older version for future operation.
 
 It should not erase the older version historically.
+
+## 40.9 Decision Provenance, Authorship and Authority Separation
+
+Provenance must distinguish the person or system that authored an account, the source that supplied evidence, the Steward who committed an official position, the lawful decision constituted from those positions, and the affected host that executed an authorised action. Attribution of authorship or custody does not confer standing, voting competence, execution permission or constitutional authority.
+
+A completed decision record must preserve its unique identity, committed Steward positions, outcome and confidence information where defined, applicable mandate, timing and any execution acknowledgements. Subsequent evidence, corrections or regrets may be appended with their own provenance, but must not silently overwrite the original vote or present a new decision as a revision of a consumed mandate. Where a position is a formal abstention, it must not be represented as substantive agreement or assigned an invented confidence value.
+
+**Architecture to be designed — cross-domain provenance interface:** Define immutable decision identifiers, evidence-to-decision linkage, separately attributable execution records, correction appendices, custody transfer, access controls and independent verification of replayed or conflicting records.
+
+## 40.10 Provenance During Degraded Operation
+
+A communication partition, failed recording host or paused Civilisation Clock must not erase provenance requirements or authorise retrospective fabrication. Records may be incomplete, delayed or reconstructed, but their uncertainty, capture time, reconstruction time, sources and conflicts must remain distinguishable. Reconciliation must preserve competing accounts for competent review rather than allowing the first connected system to overwrite history.
+
+The evidentiary duty to preserve records may survive expiry, office succession and emergency closure; that continuing duty does not itself renew the expired authority to act.
