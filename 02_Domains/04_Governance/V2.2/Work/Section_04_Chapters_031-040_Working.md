@@ -258,9 +258,13 @@ Such changes, however, should enter ordinary Governance rather than remain throu
 
 ## 31.10 Recovered cross-source governance interface
 
-**Source basis:** Constitutional Emergency V2, Chapters 5–14; Governance Operating Boundary and Authority Lifecycle §§4–13.
+Emergency resource authority must trace each diversion to a specific evidenced threat, affected rights, minimum sufficient scope, temporal expiry and restoration ledger. Scarcity and urgency do not grant a general budget or requisition power. Decisions that redirect resources require a distinct lawful mandate and contemporaneous proportionality record. The affected domain retains its ordinary expertise and all functions not displaced by that mandate.
 
-Emergency resource authority must trace each diversion to a specific evidenced threat, affected rights, minimum sufficient scope, temporal expiry and restoration ledger. Scarcity and urgency do not grant a general budget or requisition power. Decisions that redirect resources require a distinct lawful mandate and contemporaneous proportionality record; the affected domain retains its ordinary expertise and non-displaced functions. **[LOCAL DEPENDENCY:]** Resource owner attestations, emergency priority and restitution routes remain to be implemented.
+Emergency classification, urgency, scarcity, physical control of a resource, or operational indispensability does not itself create authority to requisition, redirect or permanently transfer that resource. Where the lawful authority required for a proposed intervention does not exist, the intervention cannot be inferred from necessity alone.
+
+Expiry of the emergency mandate ends authority for new diversions. It does not erase completed lawful transactions, outstanding return, compensation, accounting, remedy or restoration obligations.
+
+**Architecture to be designed — emergency resource execution and restitution interface:** Define resource-owner attestations, priority signalling, execution-host validation, return and compensation routes, and duplicate/replay protection without allowing those mechanisms to create Governance authority.
 
 
 
@@ -476,9 +480,13 @@ Economic rescue should not silently produce constitutional authority.
 
 ## 32.10 Emergency financial authority and recovery
 
-**Source basis:** Constitutional Emergency V2 Chapters 5–14, 31–40, 166–190.
+Financial emergency measures remain function-specific. Exceptional expenditure, guarantees, procurement, restrictions and redistribution require an identifiable threat, lawful competence, evidence, bounded scope, affected-rights analysis, audit and termination conditions. Emergency classification is not a blanket appropriation power, a general monetary mandate or authority to redesign the economy.
 
-Financial emergency measures remain function-specific: exceptional expenditure, guarantees, procurement and redistribution require identifiable threat, competence, evidence, scope, affected rights, audit and termination. An emergency classification is not a blanket appropriation or permanent economic mandate. Financial liabilities, compensation and surviving contracts remain part of recovery even after operational danger ends. **[LOCAL ISSUE:]** budget owner, disbursement execution and post-emergency accounting.
+A Governance decision authorising a bounded financial measure does not transfer ordinary financial-system operation to Governance. Execution remains with the affected lawful system or host, subject to validation of the specific authority granted. Control of payment infrastructure, reserves, accounts or settlement capability does not itself create decision authority.
+
+Expiry prevents new use of the emergency financial mandate but does not cancel liabilities, compensation, lawful commitments, surviving contracts, accounting, remedy or recovery obligations already created. Any continuation or materially new measure requires independently valid authority.
+
+**Architecture to be designed — emergency financial execution and recovery interface:** Define budget ownership, disbursement validation, settlement continuity, liability recording, post-emergency accounting and duplicate/replay protection without allowing financial infrastructure to mint Governance authority.
 
 
 
