@@ -666,6 +666,16 @@ Security should consider:
 
 Security requirements should remain proportionate and should not justify unreviewable permanent surveillance.
 
+## 33.9 Infrastructure Execution, Isolation and Restoration Boundaries
+
+Infrastructure criticality establishes operational priority, not an independent source of constitutional authority. Emergency classification, technical control, possession of credentials, or an operator's indispensability cannot authorise an otherwise unlawful takeover of an affected infrastructure system.
+
+Where a lawful emergency decision requires intervention, the affected execution host must validate the decision's scope, competence, time bounds and execution identity before acting. A communications outage or paused Civilisation Clock does not suspend independently timed emergency expiry. Pre-existing bounded continuity mandates may operate during isolation, but must not expand merely because central coordination is unavailable.
+
+Restoration must distinguish restoring minimum viable service from restoring ordinary institutional control. A temporary operator may be required to preserve evidence, account for actions, return control and assist remedy after its operational authority expires; those obligations do not extend the operator's power to initiate new emergency actions. See Chapters 30, 34 and 35 for partial execution, evidence continuity and reconnection.
+
+**Architecture to be designed — infrastructure emergency execution interface:** Define host validation, degraded-network authorisation checks, independently timed expiry, duplicate-action prevention, restoration handoff and accountability where essential infrastructure has no reachable ordinary operator.
+
 # Chapter 34 — Evidence Continuity
 
 ## 34.1 Evidence During Crisis
