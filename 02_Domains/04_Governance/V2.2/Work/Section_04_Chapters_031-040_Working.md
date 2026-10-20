@@ -817,6 +817,14 @@ Evidence continuity is therefore not merely administrative.
 
 It forms part of constitutional continuity itself.
 
+## 34.9 Emergency Evidence Integrity and Delayed Reconstruction
+
+Evidence custody and decision authority are separate. A record keeper, automated recorder, AI analyst or recovering network node may preserve, attest, transmit or compare evidence but does not thereby acquire power to authorise an emergency action or revise a committed Steward ballot. Evidence reconstructed after a communications outage must be distinguished from evidence contemporaneously available to the decision-maker; the later record must not be silently presented as the earlier decision basis.
+
+Where recording is degraded, retain available decision identifiers, source provenance, independent time evidence, uncertainty, custody changes and any known gaps. A missing record does not prove that authority existed or that a particular action was lawful. Reconnection and reconstruction must preserve conflicting accounts for review rather than overwriting them with a convenient single narrative.
+
+**Architecture to be designed — degraded evidence interface:** Define tamper-evident offline capture, cross-host reconciliation, independent time attestation, access controls, evidence-gap disclosure and handoff to competent review without making the evidence system an authority source.
+
 # Chapter 35 — Communications Failure
 
 ## 35.1 Governance Without Connectivity
@@ -943,11 +951,13 @@ Reconciliation should preserve:
 
 A central record should not erase legitimate local emergency history merely because one branch later becomes dominant.
 
-## 35.9 Communication failure and bounded local continuity
+## 35.9 Bounded Local Continuity During Communication Failure
 
-**Recovered source:** Constitutional Emergency V2 Chapters 11–18, 131–165; G05 Existing State Machine/BTA Clock Emergency Interface 060.
+Loss of communications does not suspend the Constitution or create general local sovereignty. Where central or neighbouring contexts are unreachable, preserve already lawful local functions and minimum necessary protective operations within independently valid mandates. Record time, uncertainty, attempted contact, authority basis, actions and effects; reconcile conflicting decisions when communication returns. The Civilisation Clock may pause, so urgent emergency detection and operational deadlines require independently progressing operational time and state-machine triggers.
 
-Loss of communications does not suspend the Constitution or create general local sovereignty. Where central or neighbouring contexts are unreachable, preserve already lawful local functions and minimum necessary protective operations within independently valid mandates. Record time, uncertainty, attempted contact, authority basis, actions and effects; reconcile conflicting decisions when communication returns. The Civilisation Clock may pause, so urgent emergency detection and operational deadlines require independently progressing operational time and state-machine triggers. **[LOCAL OPEN:]** degraded communication threshold, local activation authority and reconciliation order.
+Reconnection does not retrospectively validate an action that lacked authority when performed. Conflicting commands must be compared by decision identity, lawful scope, execution state and recorded timing; later arrival is not by itself precedence. Duplicate or replayed execution requests must be rejected, while lawful completed acts and surviving restoration obligations remain in the record.
+
+**Architecture to be designed — degraded communications interface:** Define the threshold for degraded operation, the already-lawful local activation routes, independently timed expiry, proof of authority during isolation and deterministic reconciliation of conflicting instructions without creating new sovereignty.
 
 
 
@@ -1062,11 +1072,13 @@ That evidence should enter ordinary review.
 
 Crisis experimentation should not automatically become permanent architecture.
 
-## 36.8 Emergency constitutional branching
+## 36.8 Emergency Branch Authority and Reconciliation
 
-**Recovered source:** Constitutional Emergency V2 Chapters 1–14, 166–190.
+An emergency branch is a temporary, purpose-specific operational route within the existing Constitution, not a fork that establishes new sovereignty. Preserve the ordinary-state baseline, trigger evidence, affected functions, delegated authority, expiry, review, and restoration route. The branch must remain reversible where feasible and must not quietly become permanent governance after the triggering condition ends.
 
-An emergency branch is a temporary, purpose-specific operational route within the existing Constitution, not a fork that establishes new sovereignty. Preserve the ordinary-state baseline, trigger evidence, affected functions, delegated authority, expiry, review, and restoration route. The branch must remain reversible where feasible and must not quietly become permanent governance after the triggering condition ends. **[LOCAL ISSUE:]** actual branch owner, trigger and rollback controls.
+A branch identifier is a provenance and reconciliation aid, not a new authority source. Distinct branches may record incompatible operational states during isolation; neither gains automatic supremacy by lasting longer, reconnecting first or holding more infrastructure. Reconciliation requires the applicable lawful decision process, protection of completed lawful actions, and a separate assessment of any action lacking authority. A branch cannot appoint permanent successors, amend constitutional rules or extend its own expiry by assertion.
+
+**Architecture to be designed — branch lifecycle interface:** Define lawful branch activation, the accountable affected host, baseline snapshots, isolation-time authority checks, branch-state comparison, independent expiry and restoration or rollback controls.
 
 
 
@@ -1209,11 +1221,13 @@ from
 
 **system recovery**.
 
-## 37.8 Emergency review and de-escalation
+## 37.8 Review, De-escalation and Sunset Enforcement
 
-**Source basis:** Constitutional Emergency V2 Chapters 41–50,107–130.
+Review must examine evidence available at the time, uncertainty, necessity, proportionality, affected rights, alternatives and expiry. Emergency levels I–V classify operational scale, not authority rank. Escalation does not activate every power; de-escalation is required when the justification for a higher emergency level no longer holds, and continuation bears the burden of proof.
 
-Review evidence-at-time, uncertainty, necessity, proportionality, affected rights, alternatives and expiry. Emergency levels I–V classify operational scale, not authority rank. Escalation does not activate every power; de-escalation is mandatory once justified and continuation bears the burden of proof. **[LOCAL ISSUE:]** independent review and sunset enforcement.
+Review is not itself a new grant of emergency power. Expiry and host enforcement must operate independently of whether a reviewer is reachable or the Civilisation Clock advances. An adverse review can initiate the lawful corrective or termination route but cannot silently rewrite a committed ballot, extend an expired mandate or substitute for a fresh authorised decision. Outstanding accountability and restoration survive termination.
+
+**Architecture to be designed — emergency review and sunset interface:** Specify independent review competence, access to degraded evidence, host-enforced expiry, escalation/de-escalation triggers and corrective routing when reviewers or networks are unavailable.
 
 
 
@@ -2131,13 +2145,23 @@ Loss of institutional memory may create:
 
 Where critical memory is lost, the loss itself should be treated as a Governance failure requiring correction.
 
-## 39.9 Constitutional continuity versus institutional survival
+## 39.9 Constitutional Continuity Versus Institutional Survival
 
-**Source basis:** Constitutional Emergency V2 Chapters 31–40,166–190.
+Protect constitutional function when institutions fail: rights, judiciary, provenance, services and restoration, rather than perpetuation of emergency office. Every significant intervention needs an anticipated end and ordinary-governance transition.
 
-Protect constitutional function when institutions fail: rights, judiciary, provenance, services and restoration, rather than perpetuation of emergency office. Every significant intervention needs an anticipated end and ordinary-governance transition. **[LOCAL ISSUE:]** successor office and continuity owner.
+A continuity custodian may preserve records, coordinate handover and perform independently authorised duties, but continuity responsibility does not automatically confer a vacant Steward's vote, successor office or general emergency authority. Succession requires the applicable lawful selection and competence process; the ordinary three-Steward constitution rule and lawful alternate provisions continue to govern official triadic decisions. A technical host may maintain services without acquiring political sovereignty.
+
+**Architecture to be designed — continuity and succession interface:** Identify record custodians, authorised handover routes, competence checks, lawful successor selection and accountability where an office or institution becomes unavailable.
 
 
+
+## 39.10 Continuity Handover and Non-Inheritance of Authority
+
+Continuity arrangements must distinguish preserving constitutional capability from preserving a particular officeholder or institutional arrangement. The lawful handover record should identify the affected function, prior authority and its expiry, custodied records, outstanding obligations, replacement competence and the separate authority under which any successor may act.
+
+The fact that a prior Steward, institution or automated system ceased functioning does not transfer its unspent or consumed authority to the custodian of its records. Existing valid mandates may be completed only within their own scope and expiry; further decisions require lawful constitution and independent decision identities. The successor may inherit duties to account, restore or remedy without inheriting power to reopen committed ballots.
+
+**Architecture to be designed — continuity handover protocol:** Define verifiable succession and custodian records, interrupted-case transfer, responsibility for outstanding restoration and independent checks against duplicate decisions or authority inheritance.
 
 # Chapter 40 — Provenance and Governance
 
@@ -2314,6 +2338,6 @@ Versioning may preserve:
 - evidence;
 - and superseding version.
 
-A current canonical version may replace an older version operationally.
+A currently operative version may supersede an older version for future operation.
 
 It should not erase the older version historically.
