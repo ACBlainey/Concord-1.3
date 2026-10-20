@@ -256,7 +256,7 @@ Not every pre-emergency arrangement should automatically be restored if the emer
 
 Such changes, however, should enter ordinary Governance rather than remain through inertia.
 
-## 31.10 Recovered cross-source governance interface
+## 31.10 Emergency Resource Execution and Restitution
 
 Emergency resource authority must trace each diversion to a specific evidenced threat, affected rights, minimum sufficient scope, temporal expiry and restoration ledger. Scarcity and urgency do not grant a general budget or requisition power. Decisions that redirect resources require a distinct lawful mandate and contemporaneous proportionality record. The affected domain retains its ordinary expertise and all functions not displaced by that mandate.
 
