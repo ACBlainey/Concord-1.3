@@ -1553,6 +1553,21 @@ Stage 088 demonstrates that BTA continuity duties (081), succession records (082
 
 
 
+### G05 Stage 091 — Public and restricted continuing-duty projections
+
+**Evidence provenance:** `Validation/g05_privacy_projections_091.py` and `Validation/test_g05_privacy_projections_091.py`; successful CI run [38183249574](https://github.com/ACBlainey/Concord-1.3/actions/runs/38183249574), 16 fixture tests. This is a tested prototype interface, not a deployed access-control service or independent constitutional grant.
+
+The public duty projection returns only whether a record was found, whether an obligation remains open, whether an orphan referral is pending, whether a custody projection is present, whether review is required, and an explicit `authority_granted: False` field for found records. It excludes beneficiary references, custodian identities, evidence identifiers and originating transition identifiers. An unknown duty returns `found: False` and `review_required: False`; absence of a match is not proof of discharge.
+
+A separate privileged projection returns a protected beneficiary reference only when the caller supplies `access_verified=True`; otherwise it returns `access_denied: True`. The fixture flag is not identity authentication, a contextual-wrapper enforcement mechanism or an authorisation decision. Real integration requires owner-issued, purpose-scoped access decisions, minimum necessary disclosure, tamper-evident provenance, revocation, audit and protected Historical retention.
+
+The fixture's `review_required` condition is true when the duty or custody projection is absent or an orphan referral exists. It is a review signal, not a determination that custody is invalid or that a protective intervention is authorised. Public projection consistency is not proof of independent owner acknowledgement, lawful succession or closure. No central coordinator may reveal protected data merely to reconcile records.
+
+**Required interfaces:** Historical owns archival/provenance controls; Continuity and the competent duty owner govern active duty/custody state; contextual wrappers enforce access boundaries; Civil Contact provides discoverability and referral without adjudication. None of these owner interfaces is implemented by Stage 091.
+
+
+
+
 ## 54.27 Minority Reasoning
 
 Where a significant minority disagrees, their reasoning should remain attached to the decision record where appropriate.
@@ -2126,20 +2141,6 @@ and
 The operational principle is:
 
 > **Governance should seek genuine independent reasoning before convergence, preserve material uncertainty and dissent, expose common-source dependence, and distinguish deliberation intended to improve a decision from procedure used merely to delay or manufacture agreement.**
-
-
-
-### G05 Stage 091 — Public and restricted continuing-duty projections
-
-**Evidence provenance:** `Validation/g05_privacy_projections_091.py` and `Validation/test_g05_privacy_projections_091.py`; successful CI run [38183249574](https://github.com/ACBlainey/Concord-1.3/actions/runs/38183249574), 16 fixture tests. This is a tested prototype interface, not a deployed access-control service or independent constitutional grant.
-
-The public duty projection returns only whether a record was found, whether an obligation remains open, whether an orphan referral is pending, whether a custody projection is present, whether review is required, and an explicit `authority_granted: False` field for found records. It excludes beneficiary references, custodian identities, evidence identifiers and originating transition identifiers. An unknown duty returns `found: False` and `review_required: False`; absence of a match is not proof of discharge.
-
-A separate privileged projection returns a protected beneficiary reference only when the caller supplies `access_verified=True`; otherwise it returns `access_denied: True`. The fixture flag is not identity authentication, a contextual-wrapper enforcement mechanism or an authorisation decision. Real integration requires owner-issued, purpose-scoped access decisions, minimum necessary disclosure, tamper-evident provenance, revocation, audit and protected Historical retention.
-
-The fixture's `review_required` condition is true when the duty or custody projection is absent or an orphan referral exists. It is a review signal, not a determination that custody is invalid or that a protective intervention is authorised. Public projection consistency is not proof of independent owner acknowledgement, lawful succession or closure. No central coordinator may reveal protected data merely to reconcile records.
-
-**Required interfaces:** Historical owns archival/provenance controls; Continuity and the competent duty owner govern active duty/custody state; contextual wrappers enforce access boundaries; Civil Contact provides discoverability and referral without adjudication. None of these owner interfaces is implemented by Stage 091.
 
 
 
