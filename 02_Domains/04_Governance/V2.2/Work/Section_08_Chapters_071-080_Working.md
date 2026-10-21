@@ -884,7 +884,7 @@ Delegation is purpose-specific and cannot transfer more authority than the deleg
 
 ## 74.1 No Single Selection Method Is Presumed Universal
 
-Governance V2 does not assume that all stewards must be selected through one mechanism.
+Governance does not require a single appointment mechanism for every Stewardship domain; selection must satisfy the established lawful triad, eligibility and competence constraints.
 
 Possible methods include:
 
