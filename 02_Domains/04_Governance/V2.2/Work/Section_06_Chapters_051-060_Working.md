@@ -1568,6 +1568,16 @@ The fixture's `review_required` condition is true when the duty or custody proje
 
 
 
+### G05 Transition Effects and Correction
+
+**Operational boundary and implementation interface:** BTA distinguishes proposed, partially effected, recovered, restored and closed states. Rollback or restoration claims must not erase externally realised effects, evidence or continuing duties. A technical receipt is not proof of effect or discharge; verify each with the appropriate owner and preserve independent Historical provenance. KCS downstream dependency propagation does not confer authority. G05 001 stages 074–081; ACKS 097–098.
+
+**Architecture to be designed — owner-enforced implementation:** Define authenticated owner attestation, executable enforcement, constitutional competence and thresholds, and independent review. Prototype fixtures do not establish deployed authority.
+
+### BTA Complete Field Contract and Legacy Mapping Safeguards
+
+The BTA transition interface defines **28 named fields**, materially optional except where an authorised host profile requires them. This is an interface description, not an architectural delegation from an independently published extract. An implementing host must distinguish omitted/irrelevant, unknown and materially required-but-missing, rather than demanding every field on every transition. The historical machine-readable YAML uses six differently named fields; mappings are *candidate semantic comparisons*, not automatic synonyms, especially externality review versus external consequence. Preserve original keys, values and provenance, quarantine ambiguous legacy conversions, and do not infer permission, restoration or discharge from transition status. Materially missing owner, scope, dependency or temporal proof blocks only the affected consequential step. Earlier small schema fixture tests do not establish complete BTA conformance. Actual owner attestations, durable transactional history and full field-level contract validation remain open.
+
 ## 54.27 Minority Reasoning
 
 Where a significant minority disagrees, their reasoning should remain attached to the decision record where appropriate.
@@ -2143,16 +2153,6 @@ The operational principle is:
 > **Governance should seek genuine independent reasoning before convergence, preserve material uncertainty and dissent, expose common-source dependence, and distinguish deliberation intended to improve a decision from procedure used merely to delay or manufacture agreement.**
 
 
-
-### G05 Transition Effects and Correction
-
-**Operational boundary and implementation interface:** BTA distinguishes proposed, partially effected, recovered, restored and closed states. Rollback or restoration claims must not erase externally realised effects, evidence or continuing duties. A technical receipt is not proof of effect or discharge; verify each with the appropriate owner and preserve independent Historical provenance. KCS downstream dependency propagation does not confer authority. G05 001 stages 074–081; ACKS 097–098.
-
-**Architecture to be designed — owner-enforced implementation:** Define authenticated owner attestation, executable enforcement, constitutional competence and thresholds, and independent review. Prototype fixtures do not establish deployed authority.
-
-### BTA Complete Field Contract and Legacy Mapping Safeguards
-
-The BTA transition interface defines **28 named fields**, materially optional except where an authorised host profile requires them. This is an interface description, not an architectural delegation from an independently published extract. An implementing host must distinguish omitted/irrelevant, unknown and materially required-but-missing, rather than demanding every field on every transition. The historical machine-readable YAML uses six differently named fields; mappings are *candidate semantic comparisons*, not automatic synonyms, especially externality review versus external consequence. Preserve original keys, values and provenance, quarantine ambiguous legacy conversions, and do not infer permission, restoration or discharge from transition status. Materially missing owner, scope, dependency or temporal proof blocks only the affected consequential step. Earlier small schema fixture tests do not establish complete BTA conformance. Actual owner attestations, durable transactional history and full field-level contract validation remain open.
 
 # Chapter 56 — Governance Accountability Architecture
 
