@@ -825,9 +825,7 @@ It is:
 
 This is the constitutional meaning of stewardship.
 
-But this reconstruction is not yet complete.
-
-The remaining task is to continue checking the detailed Governance V1 architecture against the reconstruction, restoring any operational, economic, constitutional, emergency, institutional or procedural material that has not yet survived into V2.
+Governance remains subject to ongoing examination of historical architecture and cross-domain interfaces. Where distinct operational, economic, constitutional, emergency, institutional or procedural material has been omitted, it must be evaluated and restored without silently displacing existing unique provisions.
 
 ## 64.1 Governance Is Not a Claim of Perfection
 
