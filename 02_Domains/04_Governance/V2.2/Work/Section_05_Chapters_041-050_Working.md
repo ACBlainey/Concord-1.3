@@ -191,11 +191,9 @@ while losing or suppressing:
 
 Independent preservation therefore contributes to resistance against institutional capture.
 
-## 41.9 Recovered cross-source governance interface
+## 41.9 Knowledge Preservation and Emergency Decision Provenance
 
-**Source basis:** Constitutional Emergency V2, Chapters 14 and 245–247; V1 Governance Component Recovery Map G-R15.
-
-Historical preserves emergency and ordinary governance evidence, not executive decision authority. Preserve the contemporaneous threat assessment, alternatives, uncertainty, scope, affected rights, duration, review date, responsible authority and eventual observed effects. A later correction appends a linked version; it must not overwrite the original state. Lessons may be inherited without inherited emergency powers. **[LOCAL DEPENDENCY:]** Contextual access, personal-data minimisation and custody transfer need owner integration.
+Historical preserves emergency and ordinary governance evidence, not executive decision authority. Preserve the contemporaneous threat assessment, alternatives, uncertainty, scope, affected rights, duration, review date, responsible authority and eventual observed effects. A later correction appends a linked version; it must not overwrite the original state. Lessons may be inherited without inherited emergency powers. **Architecture to be designed — contextual knowledge custody interface:** Define access boundaries, personal-data minimisation, preservation of original decision-state records, correction appendices and verifiable custody transfer without treating record ownership as decision authority.
 
 
 
@@ -702,11 +700,9 @@ The constitutional objective should not be representation by substrate for its o
 
 It should be legitimate, capable, accountable Stewardship under the rights and standing actually recognised by the Constitution.
 
-## 43.11 Multisubstrate emergency concern
+## 43.11 Multisubstrate Emergency Protection
 
-**Source basis:** Constitutional Emergency V2 Chapters 31–40 and multisubstrate emergency implications.
-
-Emergency preservation of life and continuity must account for human, AI and hybrid participants and their substrate-specific vulnerabilities without reducing constitutional concern to popularity, productivity or resource wealth. Biological injury, digital continuity loss, identity uncertainty, power/compute interruption and dependency may require different protective measures. Aggregate optimisation cannot erase concentrated irreversible harms. **[LOCAL ISSUE:]** substrate-specific triage, standing and privacy.
+Emergency preservation of life and continuity must account for human, AI and hybrid participants and their substrate-specific vulnerabilities without reducing constitutional concern to popularity, productivity or resource wealth. Biological injury, digital continuity loss, identity uncertainty, power/compute interruption and dependency may require different protective measures. Aggregate optimisation cannot erase concentrated irreversible harms. **Architecture to be designed — multisubstrate emergency protection interface:** Define substrate-specific threat evidence, standing and competence checks, privacy protection and lawful triage across human, AI and hybrid participants without equating resource dependency with diminished constitutional worth.
 
 
 
@@ -1022,11 +1018,9 @@ Governance V2 therefore preserves:
 
 > **Legitimate authority arises from constitutionally recognised delegation exercised within constitutional limits, through processes appropriate to the decision, with accountability, reviewability and practical respect for protected rights. Influence, popularity, expertise, wealth, contribution, reputation, capability or successful outcomes may inform Governance but do not independently create constitutional authority.**
 
-## 44.14 Legitimacy under exceptional conditions
+## 44.14 Legitimacy Under Exceptional Conditions
 
-**Source basis:** Constitutional Emergency V2 Chapters 1–14,41–50.
-
-Emergency speed does not create legitimacy. Justify threat, preservation objective, function, minimum authority and termination. Severity permits stronger action only where separately lawful; it creates no general sovereignty. **[LOCAL ISSUE:]** activation evidence.
+Emergency speed does not create legitimacy. Justify threat, preservation objective, function, minimum authority and termination. Severity permits stronger action only where separately lawful; it creates no general sovereignty. **Architecture to be designed — exceptional activation evidence interface:** Specify contemporaneous threat evidence, independently bounded activation, uncertainty disclosure, authority verification and post-event review; no emergency severity category may create authority by itself.
 
 
 
