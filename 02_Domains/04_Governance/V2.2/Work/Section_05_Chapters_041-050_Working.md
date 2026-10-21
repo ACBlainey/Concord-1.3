@@ -2226,10 +2226,8 @@ Future evidence may reveal:
 
 The Concord’s commitment is therefore to controlled continuity with correction rather than permanent textual immutability.
 
-# PART V — GOVERNANCE FAILURE CHALLENGE FOUNDATIONS
-
 ## 50.13 Independent Review Across Constitutional Interfaces
 
 Governance decides within mandate, Judiciary independently reviews, Historical preserves provenance, Research tests evidence, and operational domains execute lawfully. Policy correction does not replace individual remedy. **Architecture to be designed — independent cross-domain review interface:** Define referrals, jurisdiction and competence checks, privacy-preserving access to protected records, Judiciary review and individual remedy, Historical provenance, Research evidence assessment and operational execution boundaries. No review body inherits the authority of the original decision merely by examining it.
 
-
+# PART V — GOVERNANCE FAILURE CHALLENGE FOUNDATIONS
