@@ -780,7 +780,7 @@ Legitimacy is therefore contextual without becoming arbitrary.
 
 ## 44.3 Majority Approval Is Not Ethical Legitimacy
 
-Governance V2 preserves the principle:
+The Governance architecture preserves the principle:
 
 > **Majority approval is not ethical legitimacy.**
 
@@ -1014,7 +1014,7 @@ The inability to correct is a deeper constitutional failure than the need to cor
 
 ## 44.13 Constitutional Legitimacy Principle
 
-Governance V2 therefore preserves:
+Governance therefore preserves:
 
 > **Legitimate authority arises from constitutionally recognised delegation exercised within constitutional limits, through processes appropriate to the decision, with accountability, reviewability and practical respect for protected rights. Influence, popularity, expertise, wealth, contribution, reputation, capability or successful outcomes may inform Governance but do not independently create constitutional authority.**
 
@@ -1953,15 +1953,7 @@ Large-scale systems therefore require stronger attention to:
 
 ## 50.1 Purpose
 
-Governance V2 is being reconstructed before all other operational systems have completed equivalent consolidation.
-
-This chapter therefore records explicit future audit interfaces.
-
-It prevents later reviewers from assuming the current Governance architecture is complete merely because the document is large.
-
-Governance V2 remains an integration-stage architecture.
-
-Its current size is not evidence of completion.
+Governance must remain compatible with other Concord systems even where those systems are at different stages of development. This chapter establishes continuing cross-domain review interfaces. The existence of an operational Governance rule does not remove the duty to identify and correct contradictions revealed by Judiciary, Historical, Research, emergency systems or other affected domains.
 
 ## 50.2 Judiciary Audit
 
@@ -1987,7 +1979,7 @@ Governance must not silently become constitutional interpreter of last resort.
 
 ## 50.3 Constitutional Emergency Audit
 
-Future review should compare every emergency section in Governance V2 against the dedicated Emergency architecture.
+Review should compare emergency governance provisions against the dedicated Emergency architecture as that architecture develops.
 
 No emergency material should be removed merely because the dedicated document exists.
 
@@ -2131,7 +2123,7 @@ The final architecture should prevent the ultimate oversight mechanism from beco
 
 ## 50.10 Ratchet Audit
 
-Although Ratchet has already informed Governance V2 substantially, a later final cross-audit should examine:
+Review of Ratchet-related interfaces should examine:
 
 - contribution;
 - contextual trust;
@@ -2192,17 +2184,17 @@ and:
 
 **What does Governance currently assume that another system has shown to be incomplete, unsafe or unnecessary?**
 
-Only after that recursion should Governance V2 be considered for final canonical status.
+This review does not suspend otherwise lawful Governance operation or grant the reviewing systems authority to amend Governance by implication. Material corrections require the applicable authorised amendment process.
 
-### 50.12.1 Final Source-Survival Requirement
+### 50.12.1 Source-Survival and Completeness Requirement
 
-Before Governance V2 replaces its preservation sources, the final recursion should include a source-survival audit against:
+When revising Governance, source-survival review should compare the proposed text against:
 
 - Governance V1;
-- the complete Governance V2 preservation baseline;
+- the relevant preserved Governance baselines;
 - Restoration Packages I–III;
 - Ratchet-derived additions;
-- and genuinely additive material introduced during reconstruction.
+- and genuinely additive material introduced through later development.
 
 Each substantive item should be classified as:
 
@@ -2217,13 +2209,11 @@ Each substantive item should be classified as:
 - UNCERTAIN;
 - or INTENTIONALLY INCOMPLETE.
 
-No accidental **MISSING** item should remain before the reconstructed version is treated as source-complete.
+Any **MISSING** item must be restored or explicitly addressed through the applicable lawful amendment process; a change of document status alone cannot erase an unresolved substantive omission.
 
-### 50.12.2 Canonical Does Not Mean Final
+### 50.12.2 Current Operation Does Not Mean Finality
 
-Even after canonicalisation:
-
-> **Canonical means current, not final.**
+A currently operative version remains subject to evidence, correction and lawful amendment.
 
 Future evidence may reveal:
 
