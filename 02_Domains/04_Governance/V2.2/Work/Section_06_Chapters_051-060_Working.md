@@ -1,9 +1,5 @@
 # Governance V2.2 — Section 06 — Chapters 051–060
 
-# V2.1 Section 06 — Subsection Integration Draft 004
-
-**Governance V2.1 integrated section.** The original source and integrated additions are retained for provenance. Historical draft designations do not suspend the operative V2.1 rules.
-
 # Chapter 51 — Adversarial Governance
 
 ## 51.1 Why Governance Must Be Attacked
@@ -1718,7 +1714,7 @@ Stage 090 intentionally uses externally asserted booleans for authentication and
 
 
 
-<!-- V2.1 INTEGRATION 2026-10-13: AUTHORIAL SOURCE RECONCILIATION; DEVELOPMENTAL; REVERSIBLE -->
+
 
 ## 54.38 Decision-State and Execution Separation
 
@@ -2137,7 +2133,7 @@ The operational principle is:
 
 > **Governance should seek genuine independent reasoning before convergence, preserve material uncertainty and dissent, expose common-source dependence, and distinguish deliberation intended to improve a decision from procedure used merely to delay or manufacture agreement.**
 
-<!-- BEGIN G05 STAGE 091 PRIVACY-SAFE PROJECTION INTERFACE -->
+
 
 ### G05 Stage 091 — Public and restricted continuing-duty projections
 
@@ -2151,7 +2147,7 @@ The fixture's `review_required` condition is true when the duty or custody proje
 
 **Required interfaces:** Historical owns archival/provenance controls; Continuity and the competent duty owner govern active duty/custody state; contextual wrappers enforce access boundaries; Civil Contact provides discoverability and referral without adjudication. None of these owner interfaces is implemented by Stage 091.
 
-<!-- END G05 STAGE 091 PRIVACY-SAFE PROJECTION INTERFACE -->
+
 
 ### G05 Transition Effects and Correction
 
@@ -2161,7 +2157,7 @@ The fixture's `review_required` condition is true when the duty or custody proje
 
 ### BTA Complete Field Contract and Legacy Mapping Safeguards
 
-The graduated BTA portable contract defines **28 named fields**, materially optional except where a host profile requires them (Integration 068). An implementing host must distinguish omitted/irrelevant, unknown and materially required-but-missing, rather than demanding every field on every transition. The historical machine-readable YAML uses six differently named fields; mappings are *candidate semantic comparisons*, not automatic synonyms, especially externality review versus external consequence. Preserve original keys, values and provenance, quarantine ambiguous legacy conversions, and do not infer permission, restoration or discharge from transition status. Materially missing owner, scope, dependency or temporal proof blocks only the affected consequential step. Earlier small schema fixture tests do not establish complete BTA conformance. Actual owner attestations, durable transactional history and full field-level contract validation remain open.
+The BTA transition interface defines **28 named fields**, materially optional except where an authorised host profile requires them. This is an interface description, not an architectural delegation from an independently published extract. An implementing host must distinguish omitted/irrelevant, unknown and materially required-but-missing, rather than demanding every field on every transition. The historical machine-readable YAML uses six differently named fields; mappings are *candidate semantic comparisons*, not automatic synonyms, especially externality review versus external consequence. Preserve original keys, values and provenance, quarantine ambiguous legacy conversions, and do not infer permission, restoration or discharge from transition status. Materially missing owner, scope, dependency or temporal proof blocks only the affected consequential step. Earlier small schema fixture tests do not establish complete BTA conformance. Actual owner attestations, durable transactional history and full field-level contract validation remain open.
 
 # Chapter 56 — Governance Accountability Architecture
 
