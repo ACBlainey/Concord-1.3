@@ -763,9 +763,9 @@ The system may need to act under uncertainty concerning:
 
 This remains a major future constitutional problem.
 
-## 62.10 Multidimensional authority envelope
+## 62.10 Multidimensional Authority Envelope — Research Candidate
 
-**Source basis:** Bounded Contextual Authority, sections 8–11 and 19–20 (candidate research).
+**Research provenance:** Bounded Contextual Authority, sections 8–11 and 19–20. The dimensional envelope is a candidate representation, not a self-executing permission model.
 
 Authority is not a single role-derived permission. The proposed envelope distinguishes purpose, permitted actions, protected objects, space, information, duration, conditions, delegation, termination and exceptional rules. Each requested act requires current context, legitimate function, scope and rights checks. A technical credential cannot itself prove lawful permission. **Architecture to be designed — authority-envelope host interface:** Define representation, expiry and revalidation at each consequential use.
 
@@ -891,9 +891,9 @@ The principle is:
 
 > **Civilisation should be governable without becoming owned by those who govern it.**
 
-# PART VII — SOURCE-SURVIVAL RECONSTRUCTION AND OPERATIONAL DETAIL
+# PART VII — GOVERNANCE RECORDS AND OPERATIONAL DETAIL
 
-## 64.5 Triadic observation does not constitute governance voting
+## 64.5 Triadic Observation Does Not Constitute Governance Voting
 
 **Source basis:** Triadic Epistemics — Independent Measurement §§5–15 (candidate research).
 
@@ -1333,7 +1333,7 @@ The decision record distinguishes proposal, mandate, competent context, evidence
 
 
 
-## 65.21 Claim-level evidence record and thresholds
+## 65.21 Claim-Level Evidence Record and Thresholds — Research Candidate
 
 **Source basis:** Epistemic Independence, Contestability and Provenance §§3–5,13–14,36 (preliminary research).
 
@@ -1341,7 +1341,7 @@ The preliminary Civil Evidence architecture distinguishes C0 observation, C1 der
 
 
 
-## 65.22 Triadic epistemic falsification boundary
+## 65.22 Triadic Epistemic Falsification Boundary — Adversarial Evidence
 
 **Audit source:** Triadic Epistemics Direct Adversarial Audit §§162–166 (historical adversarial evidence, not adopted law).
 
@@ -1906,7 +1906,7 @@ A proposal begins as a defined civil problem, not a claim of power. Record the o
 
 
 
-## 66.27 Threat provenance before authority
+## 66.27 Threat Provenance Before Authority — Audit-Derived Candidate
 
 **Audit source:** Integrated Threat-Governance Loop Adversarial Audit §§37–39 (historical adversarial evidence; not adopted law).
 
@@ -2601,19 +2601,19 @@ These questions remain open.
 
 > **Stewardship requires the careful, impartial, transparent where appropriate, articulable, constitutionally loyal, accountable and correctable exercise of delegated authority in service of the responsibility entrusted to the office rather than the personal or institutional interests of the Steward.**
 
-## 69.18 Functional legitimacy audit and fiduciary justification
+## 69.18 Functional Legitimacy Audit and Fiduciary Justification — Research Candidate
 
 **Source basis:** Legitimate Function and the Authority Justification Chain §§12–14,29–32 (research candidate, not adopted constitutional test).
 
-Apply the proposed ten-test legitimate-function audit: LF-01 upstream traceability to rights and civil objective; LF-02 non-circularity; LF-03 rights compatibility; LF-04 functional specificity; LF-05 demonstrable need; LF-06 proportionality; LF-07 alternative means; LF-08 current relevance; LF-09 non-self-perpetuation; LF-10 reviewability. A declared mission or an existing office cannot certify its own legitimacy. Failed tests initiate scrutiny, not automatic erasure of a potentially legitimate function whose records are incomplete. **Architecture to be designed — legitimate-function assessment:** Define competent assessor, independent review and appeal for contested findings.
+The research candidate proposes a ten-test legitimate-function audit for assessment and possible authorised adoption, not an independently binding constitutional test: LF-01 upstream traceability to rights and civil objective; LF-02 non-circularity; LF-03 rights compatibility; LF-04 functional specificity; LF-05 demonstrable need; LF-06 proportionality; LF-07 alternative means; LF-08 current relevance; LF-09 non-self-perpetuation; LF-10 reviewability. A declared mission or an existing office cannot certify its own legitimacy. Failed tests initiate scrutiny, not automatic erasure of a potentially legitimate function whose records are incomplete. **Architecture to be designed — legitimate-function assessment:** Define competent assessor, independent review and appeal for contested findings.
 
 
 
-## 69.19 BCA adversarial qualifications to legitimate function
+## 69.19 BCA Adversarial Qualifications to Legitimate Function — Audit Findings
 
 **Audit source:** BCA Adversarial Attack and Falsification Audit §§48–55, BCA-R1–R5 (historical adversarial evidence, not adopted law).
 
-The 100-attack BCA audit rejects a self-grounding function claim: declared function is not legitimate function, and a holder must not solely authenticate high-impact activating conditions. Recover proposed refinements BCA-R1 legitimate function, R2 non-circularity, R3 fresh review on expansion, R4 independent validation of high-impact self-activation and R5 successor-function re-scoping. **Architecture to be designed — independent function recognition:** Define independent competence and authority without recursive self-certification.
+The 100-attack BCA audit challenges a self-grounding function claim; its proposed refinements require independent adoption before becoming operative architecture. In that audit,  declared function is not legitimate function, and a holder must not solely authenticate high-impact activating conditions. Recover proposed refinements BCA-R1 legitimate function, R2 non-circularity, R3 fresh review on expansion, R4 independent validation of high-impact self-activation and R5 successor-function re-scoping. **Architecture to be designed — independent function recognition:** Define independent competence and authority without recursive self-certification.
 
 
 
