@@ -859,9 +859,9 @@ The current process is:
 
 Governance V2 is an example of this process.
 
-The method should remain available after canonicalisation.
+The method remains available throughout operation and subsequent lawful revision.
 
-Canonical status does not end recursion.
+Current operational status does not end recursion.
 
 ## 53.2 Why V2 Exists
 
@@ -1008,19 +1008,13 @@ Architecture and evidence should therefore develop together.
 
 A concept should not become more certain merely because it has accumulated more text.
 
-## 53.9 Controlled Canonicalisation
+## 53.9 Controlled Operational Revision
 
-Canonicalisation should mean:
-
-**This is the current working architecture.**
-
-It should not mean:
-
-**This architecture can no longer be challenged.**
+An operative architecture is the currently applicable version for the relevant scope. Its operational status does not make it immune to evidence, challenge, correction or lawful amendment. Revisions must preserve decision provenance, the authority for each change and the superseded text needed to reconstruct earlier acts.
 
 The principle remains:
 
-> **Canonical means current, not final.**
+> **Current operation does not mean finality.**
 
 # PART VI — OPERATIONAL GOVERNANCE CONSOLIDATION
 
@@ -1732,32 +1726,32 @@ Competence, forum, participation and result are distinct validity gates. Officia
 
 ### Operative Reconciliation of Decision Record and Authority Lifecycle
 
-**Developmental precedence:** General terms such as *decision reversal*, *withdrawal*, *revocation* and *supersession* in this chapter concern independently lawful decisions, mandates, implementation grants, corrections and later decisions. They **must not be read as authority to revoke, edit or resubmit a valid committed official Steward ballot**. A challenged forged or unauthorised ballot is a validity challenge, not discretionary ballot withdrawal. Preserve the original event and append any separately authorised correction or replacement decision under a new identity.
+**Interpretive boundary:** General terms such as *decision reversal*, *withdrawal*, *revocation* and *supersession* in this chapter concern independently lawful decisions, mandates, implementation grants, corrections and later decisions. They **must not be read as authority to revoke, edit or resubmit a valid committed official Steward ballot**. A challenged forged or unauthorised ballot is a validity challenge, not discretionary ballot withdrawal. Preserve the original event and append any separately authorised correction or replacement decision under a new identity.
 
 The authoritative decision record separates: decision/event identity and lawful mandate; three independently eligible official positions; individual single-use ballot commits; anonymous participation count projection; mathematical result; mandatory three-ballot ordinary completion or separately authorised emergency two-ballot action; contextual conference activation and disclosure; constituent resultants where expanded; downstream CBPR/BTA action grant and effect state; ACKS owner-specific receipt/effect/discharge evidence; KCS propagation; protected Historical provenance; and independently authorised concern, review or remedy.
 
-**Unresolved within Chapter 54:** precise authenticated owner attestation, atomic persistence and protected projection implementations; conference after partial commitment; reconciliation of provisional inputs with immutable official votes. These are implementation/source questions, not a reason to conflate a ballot with a revocable host execution grant.
+**Architecture to be designed — Chapter 54 execution and commitment interfaces:** Specify authenticated owner attestation, atomic persistence, protected projections, exceptional conference after partial commitment and reconciliation of preliminary inputs with immutable official votes. These implementation requirements do not conflate a ballot with a revocable host execution grant.
 
 ### 54.39 Bounded Decision and Jurisdiction Interface
 
 For an expanded triadic proposal, record the decision topology: origin R, adjacent A/B/C, origin-included or origin-excluded mode, separately authorised and conflict-checked eligible constituent positions, three **received official constituent resultants** (each requiring its own three official ballots for ordinary completion), virtual-triad result after all three official resultants, any completed Unresolved cause or separately recorded pending status, implementation scope, minority reasoning, sunset and review. Three **received official constituent resultants**, never nine pooled individual ballots, determine the ordinary virtual result: F/F/U yields F; F/A/U yields completed Unresolved (U). A missing resultant is pending, not U; ordinary effect waits for all three official resultants, with only separately authorised emergency early action after two matching valid resultants. Expansion does not alter proposal scope or resource authority absent the ordinary material-amendment procedure.
 
-**Open issue:** define individual-ballot confidentiality and public resultant disclosure consistent with §§54.28–54.30 and independent Steward voting.
+**Architecture to be designed — expanded voting disclosure:** Define individual-ballot confidentiality and public resultant disclosure consistent with §§54.28–54.30 and independent Steward voting.
 
 ### 54.40 Expanded Virtual-Triad Record
 
 When expanded voting is authorised, the decision record must include origin R, edge-adjacent A/B/C, the origin-excluded or origin-included mode, source of common jurisdiction, each constituent triad's verified voting positions, **three received official individual ballots** (For, Against or an authorised abstention with its cause), the **derived constituent F/A/U resultant** (where U means a completed no-majority outcome, not a missing ballot), and the final three-resultant F/A/U decision **only after all three official constituent resultants have been received for ordinary completion**. Record missing resultants as pending, not U; any independently authorised emergency early action has its own bounded authority and state. Record quorum, abstention and recusal causes, independent authorisation, conflicts, scope, expiry, review, resource authority and implementation responsibility. A pooled nine-vote tally is diagnostic only and has no decision effect.
 
 
-### Future design architecture — deferred implementation interfaces (G-017, G-019, G-020)
+### Architecture to Be Designed — Cross-Domain Implementation Interfaces (G-017, G-019, G-020)
 
-**ARCHITECTURE TO BE DESIGNED — OUTSIDE CURRENT V2.1 TEXT-INTEGRATION SCOPE.** The principles in this chapter remain operative as stated. The following are design requirements, **not** invented deployed services, automatic authority grants or grounds to delay consolidation. Resolve these at the indicated interfaces when working systems and domain owners exist:
+The principles in this chapter apply within their lawful scope. The following implementation interfaces require accountable domain owners and independently evidenced execution contracts; their description does not assert that a service has been deployed or confer authority:
 
 - **G-017 — Architecture to be designed:** Design active-domain and Historical custody ownership mapping, signed lineage, version conflicts, lawful exceptions and durable HI-1/HCM-1 handoff acknowledgements.
 - **G-019 — Architecture to be designed:** Implement CIBB/CWA protected master and least-privilege projections with authenticated identity, contextual expiry, alias protection, redaction, revocation and leakage tests.
 - **G-020 — Architecture to be designed:** Define each actual domain's read/write acceptance contract and independent acknowledgement; reuse HI-1/HCM-1 for Historical and preserve domain authority.
 
-**Future acceptance evidence:** record accountable owner, actual mandate, state-machine/adapter specification, failure and recovery paths, independent review and provenance. Preserve CAP ≠ PERM ≠ AUTH. Do not mark implementation as tested or operational until supported by real evidence.
+**Implementation acceptance evidence:** Record accountable owner, actual mandate, state-machine or adapter specification, failure and recovery paths, independent review and provenance. Preserve CAP ≠ PERM ≠ AUTH. A specification or test fixture does not establish deployed enforcement.
 # Chapter 55 — Deliberative Integrity
 
 ## 55.1 Independent Thought Before Comparison
