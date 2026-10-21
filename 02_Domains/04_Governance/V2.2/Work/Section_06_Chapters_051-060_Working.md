@@ -1525,12 +1525,12 @@ The final decision record should preserve where appropriate:
 This creates a reconstructable chain.
 
 
-<!-- BEGIN INTEGRATED G05 CUSTODY RECONCILIATION 002 — SOURCE TEXT VERBATIM -->
+### Custody Reconciliation — Independent Owner Projections
 
-## Problem
+**Problem**
 Stage 088 demonstrates that BTA continuity duties (081), succession records (082) and orphan referrals (083) may truthfully disagree because they are separate owner-controlled projections. A transfer committed in one ledger is not proof that every other record has changed. No single G05 coordinator may silently rewrite all three.
 
-## Protocol boundary
+**Protocol boundary**
 1. **Evidence intake:** identify duty ID, origin BTA transition, previous custodian, proposed successor, event ID, source and expected revisions, and independent owner/successor evidence references. Keep beneficiary identities within contextual access wrappers.
 2. **Owner-issued transition:** the competent domain owner determines whether custody may transfer. Succession evidence is not a self-issued mandate; an audit/coordination service cannot make the decision.
 3. **Reconciliation check:** compare live duty, succession and orphan records for matching identity, transition provenance, revisions and open obligation state. Check externally verified issuer and successor attestations. Stage 089 provides only this *candidate* comparison.
@@ -1540,7 +1540,7 @@ Stage 088 demonstrates that BTA continuity duties (081), succession records (082
 7. **Dispute and revocation:** contested, superseded or revoked attestations require a fresh owner review; previously issued evidence is preserved for Historical, subject to privacy wrappers.
 8. **Emergency separation:** a temporary protective mandate cannot be treated as successor acceptance or permanent custody. Expiry creates audit and follow-up duties, not implicit reassignment.
 
-## Negative invariants
+**Negative invariants**
 - **CAP ≠ PERM ≠ AUTH.** Reconciliation verifies consistency; it cannot create mandate.
 - **GTP is a spatial mesh.** No governance hierarchy or custody inheritance from finer/coarser spatial resolution.
 - **BTA owns transition semantics.** A reconciled projection does not declare BTA complete.
@@ -1550,12 +1550,12 @@ Stage 088 demonstrates that BTA continuity duties (081), succession records (082
 - **Historical provenance and protected beneficiary data remain owner-governed.**
 - **No automatic closure, no automatic orphan deletion, no automatic authority.**
 
-## Evidence and limits
+**Evidence and limits**
 - Stage 088 cross-stage test (12 tests) demonstrated that independent ledger states remain inconsistent after a succession transfer; this is a real **prototype interface gap**, not evidence of deployed system failure.
 - Stage 089 checks a proposed reconciliation event against three existing fixture ledgers (18 tests). Its verification inputs are caller-provided booleans, not cryptographically verified attestations; it makes no writes and cannot prove real-world authority.
 - Future validation: tamper-evident event signatures, authenticated owner services, transactional/idempotent acknowledgements, conflict handling, privacy-safe public projections, concurrency tests, revocation and replay resistance, complete BTA/KCS interface contract tests.
 
-<!-- END INTEGRATED G05 CUSTODY RECONCILIATION 002 -->
+
 
 ## 54.27 Minority Reasoning
 
@@ -1708,14 +1708,14 @@ The expanded decision architecture can be summarised:
 
 > **A significant Governance decision should remain identifiable from proposal through authority, evidence, deliberation, implementation, measurement, review, correction and closure. No stage should be allowed to silently become a source of new constitutional authority merely because the previous stage authorised participation in the process.**
 
-<!-- BEGIN G05 MULTI-OWNER ACKNOWLEDGEMENT 090 -->
+### Multi-Owner Acknowledgement Contract
 
-## Acknowledgement contract candidate
+**Acknowledgement contract**
 A proposed reconciliation event names the competent source owners. Each owner independently accepts or rejects the event after authenticating the sender, checking scope and source revision, and preserving provenance. Duplicate identical acknowledgements are idempotent; conflicting or replayed acknowledgements are held for review. All required acknowledgements permit only a **projection-consensus report**, never automatic custody assignment, discharge of duties, or constitutional authority.
 
 Stage 090 intentionally uses externally asserted booleans for authentication and scope. It **does not implement cryptographic signatures**, durable storage, a secure transport, real atomic transactions or owner-service integration. The journal's owner list is supplied by the caller; it is not an authoritative owner registry.
 
-<!-- END G05 MULTI-OWNER ACKNOWLEDGEMENT 090 -->
+
 
 
 <!-- V2.1 INTEGRATION 2026-10-13: AUTHORIAL SOURCE RECONCILIATION; DEVELOPMENTAL; REVERSIBLE -->
@@ -2155,13 +2155,13 @@ The fixture's `review_required` condition is true when the duty or custody proje
 
 ### G05 Transition Effects and Correction
 
-**Developmental clause, unresolved interfaces retained:** BTA distinguishes proposed, partially effected, recovered, restored and closed states. Rollback or restoration claims must not erase externally realised effects, evidence or continuing duties. A technical receipt is not proof of effect or discharge; verify each with the appropriate owner and preserve independent Historical provenance. KCS downstream dependency propagation does not confer authority. G05 001 stages 074–081; ACKS 097–098.
+**Operational boundary and implementation interface:** BTA distinguishes proposed, partially effected, recovered, restored and closed states. Rollback or restoration claims must not erase externally realised effects, evidence or continuing duties. A technical receipt is not proof of effect or discharge; verify each with the appropriate owner and preserve independent Historical provenance. KCS downstream dependency propagation does not confer authority. G05 001 stages 074–081; ACKS 097–098.
 
-**Unresolved:** actual owner attestation and executable enforcement, constitutional competence/thresholds and independent review remain subject to source validation; do not interpret fixture evidence as deployed authority.
+**Architecture to be designed — owner-enforced implementation:** Define authenticated owner attestation, executable enforcement, constitutional competence and thresholds, and independent review. Prototype fixtures do not establish deployed authority.
 
 ### BTA Complete Field Contract and Legacy Mapping Safeguards
 
-The graduated BTA portable contract defines **28 named fields**, materially optional except where a host profile requires them (Integration 068). A V2.1 host must distinguish omitted/irrelevant, unknown and materially required-but-missing, rather than demanding every field on every transition. The historical machine-readable YAML uses six differently named fields; mappings are *candidate semantic comparisons*, not automatic synonyms, especially externality review versus external consequence. Preserve original keys, values and provenance, quarantine ambiguous legacy conversions, and do not infer permission, restoration or discharge from transition status. Materially missing owner, scope, dependency or temporal proof blocks only the affected consequential step. Earlier small schema fixture tests do not establish complete BTA conformance. Actual owner attestations, durable transactional history and full field-level contract validation remain open.
+The graduated BTA portable contract defines **28 named fields**, materially optional except where a host profile requires them (Integration 068). An implementing host must distinguish omitted/irrelevant, unknown and materially required-but-missing, rather than demanding every field on every transition. The historical machine-readable YAML uses six differently named fields; mappings are *candidate semantic comparisons*, not automatic synonyms, especially externality review versus external consequence. Preserve original keys, values and provenance, quarantine ambiguous legacy conversions, and do not infer permission, restoration or discharge from transition status. Materially missing owner, scope, dependency or temporal proof blocks only the affected consequential step. Earlier small schema fixture tests do not establish complete BTA conformance. Actual owner attestations, durable transactional history and full field-level contract validation remain open.
 
 # Chapter 56 — Governance Accountability Architecture
 
@@ -2520,13 +2520,13 @@ The operational principle is:
 
 ### G05 Custody and Surviving Obligations
 
-**Developmental clause, unresolved interfaces retained:** Duty custody requires authenticated lawful transfer, beneficiary protections, provenance and acceptance. A nominated successor or Civil Contact referral is not an authorised custody assignment. When no valid owner accepts, preserve an orphan record and refer without claiming closure. Restoration of function does not extinguish unresolved compensation, privacy, remediation or archival duties. G05 001 stages 081–083; G05 Custody Reconciliation 002.
+**Operational boundary and implementation interface:** Duty custody requires authenticated lawful transfer, beneficiary protections, provenance and acceptance. A nominated successor or Civil Contact referral is not an authorised custody assignment. When no valid owner accepts, preserve an orphan record and refer without claiming closure. Restoration of function does not extinguish unresolved compensation, privacy, remediation or archival duties. G05 001 stages 081–083; G05 Custody Reconciliation 002.
 
-**Unresolved:** actual owner attestation and executable enforcement, constitutional competence/thresholds and independent review remain subject to source validation; do not interpret fixture evidence as deployed authority.
+**Architecture to be designed — owner-enforced implementation:** Define authenticated owner attestation, executable enforcement, constitutional competence and thresholds, and independent review. Prototype fixtures do not establish deployed authority.
 
 ### Isolation, Reconnection and Succession in Constitutional Continuity
 
-**Constitutional Emergency V2 §§131–165:** Local institutions may continue exercising their already-lawful functions during communications isolation. Delay, including interplanetary latency, is not automatically constitutional failure. Isolation cannot manufacture sovereignty or a standing successor. On reconnection, preserve original decisions and evidence, reconcile conflicting commitments and rights impacts through independently competent owners, and review without presuming that every isolated action was wrongful. Distributed constitutional records need integrity and authenticity; a valid cryptographic hash proves unchanged bytes, not truth or lawful authority. Backup copies and machine-readable representations are not automatically the controlling constitutional source. Succession requires defined trigger, eligibility, scope, duration, records and lawful acceptance. AI state recovery and forking introduce distinct identity/continuity questions, not merely infrastructure duplication. **Open:** actual offline owner attestations, conflict arbitration, AI identity reconciliation and cross-planetary time semantics.
+**Constitutional Emergency V2 §§131–165:** Local institutions may continue exercising their already-lawful functions during communications isolation. Delay, including interplanetary latency, is not automatically constitutional failure. Isolation cannot manufacture sovereignty or a standing successor. On reconnection, preserve original decisions and evidence, reconcile conflicting commitments and rights impacts through independently competent owners, and review without presuming that every isolated action was wrongful. Distributed constitutional records need integrity and authenticity; a valid cryptographic hash proves unchanged bytes, not truth or lawful authority. Backup copies and machine-readable representations are not automatically the controlling constitutional source. Succession requires defined trigger, eligibility, scope, duration, records and lawful acceptance. AI state recovery and forking introduce distinct identity/continuity questions, not merely infrastructure duplication. **Architecture to be designed — isolated continuity and succession:** Define offline owner attestations, conflict arbitration, AI identity reconciliation and cross-planetary time semantics.
 
 # Chapter 57 — Governance and Institutional Incentives
 
@@ -2873,9 +2873,9 @@ Periodic institutional review may therefore examine:
 
 ### G05 Cumulative and Distributed Control
 
-**Developmental clause, unresolved interfaces retained:** Review successive restrictions and concurrent control across owners, domains and spatial resolutions to detect cumulative deprivation or de facto concentration. Exposure unions, uninterrupted intervals and concurrent-controller counts are review signals, not proof of illegality. Numerical fixture thresholds are not constitutional law. Any renewed mandate needs fresh lawful authority and proportionality assessment. G05 001 stages 084–087.
+**Operational boundary and implementation interface:** Review successive restrictions and concurrent control across owners, domains and spatial resolutions to detect cumulative deprivation or de facto concentration. Exposure unions, uninterrupted intervals and concurrent-controller counts are review signals, not proof of illegality. Numerical fixture thresholds are not constitutional law. Any renewed mandate needs fresh lawful authority and proportionality assessment. G05 001 stages 084–087.
 
-**Unresolved:** actual owner attestation and executable enforcement, constitutional competence/thresholds and independent review remain subject to source validation; do not interpret fixture evidence as deployed authority.
+**Architecture to be designed — owner-enforced implementation:** Define authenticated owner attestation, executable enforcement, constitutional competence and thresholds, and independent review. Prototype fixtures do not establish deployed authority.
 
 # Chapter 58 — Governance and Cultural Variation
 
@@ -3049,9 +3049,9 @@ Branching should preserve shared foundational protections where those protection
 
 ### G05 Authenticated Owner Evidence and Privacy
 
-**Developmental clause, unresolved interfaces retained:** Governance cannot infer authority from fixture booleans, self-reported status or technical capability. Obtain live owner-issued scope, expiry and validity evidence before consequential commit. CWA/CIBB protect a single authoritative record and issue only legitimate projections; public visibility must not expose restricted beneficiary, Steward or deliberation data. In-memory models are not deployed privacy or custody enforcement. G05 001 stages 070–075, 091.
+**Operational boundary and implementation interface:** Governance cannot infer authority from fixture booleans, self-reported status or technical capability. Obtain live owner-issued scope, expiry and validity evidence before consequential commit. CWA/CIBB protect a single authoritative record and issue only legitimate projections; public visibility must not expose restricted beneficiary, Steward or deliberation data. In-memory models are not deployed privacy or custody enforcement. G05 001 stages 070–075, 091.
 
-**Unresolved:** actual owner attestation and executable enforcement, constitutional competence/thresholds and independent review remain subject to source validation; do not interpret fixture evidence as deployed authority.
+**Architecture to be designed — owner-enforced implementation:** Define authenticated owner attestation, executable enforcement, constitutional competence and thresholds, and independent review. Prototype fixtures do not establish deployed authority.
 
 # Chapter 59 — Governance and Peaceful Coexistence
 
@@ -3360,9 +3360,9 @@ Local variation should operate above, not erase, that floor.
 
 ### G05 Cross-Context Resource Coordination
 
-**Developmental clause, unresolved interfaces retained:** GTP intersections and collisions indicate overlapping effects, not command rank. Reconciliation proposals cannot allocate another owner's resources or transfer authority. Independent resource and host owners must validate each consequential operation, including changed KCS dependencies and partial execution. Shared competence requires its own lawful mandate. G05 001 stages 076–080.
+**Operational boundary and implementation interface:** GTP intersections and collisions indicate overlapping effects, not command rank. Reconciliation proposals cannot allocate another owner's resources or transfer authority. Independent resource and host owners must validate each consequential operation, including changed KCS dependencies and partial execution. Shared competence requires its own lawful mandate. G05 001 stages 076–080.
 
-**Unresolved:** actual owner attestation and executable enforcement, constitutional competence/thresholds and independent review remain subject to source validation; do not interpret fixture evidence as deployed authority.
+**Architecture to be designed — owner-enforced implementation:** Define authenticated owner attestation, executable enforcement, constitutional competence and thresholds, and independent review. Prototype fixtures do not establish deployed authority.
 
 # Chapter 60 — Governance and Unknown Futures
 
@@ -3612,11 +3612,11 @@ The principle is to avoid unnecessarily making future decisions impossible.
 
 ### G05 Unknown Futures and Reversible Governance
 
-**Developmental clause, unresolved interfaces retained:** Future unforeseen failures justify preserving adaptable bounded interfaces, not granting open-ended emergency powers. Recovery, replacement, hibernation and retirement may each leave duties. Treat claims of complete restoration and final closure as independently evidenced, reviewable states; preserve options and historical evidence. G05 001 stages 079–083.
+**Operational boundary and implementation interface:** Future unforeseen failures justify preserving adaptable bounded interfaces, not granting open-ended emergency powers. Recovery, replacement, hibernation and retirement may each leave duties. Treat claims of complete restoration and final closure as independently evidenced, reviewable states; preserve options and historical evidence. G05 001 stages 079–083.
 
-**Unresolved:** actual owner attestation and executable enforcement, constitutional competence/thresholds and independent review remain subject to source validation; do not interpret fixture evidence as deployed authority.
+**Architecture to be designed — owner-enforced implementation:** Define authenticated owner attestation, executable enforcement, constitutional competence and thresholds, and independent review. Prototype fixtures do not establish deployed authority.
 
 ### Recovery Completion and Institutional Sunset
 
-**Constitutional Emergency V2 §§166–190:** Recovery is a constitutional phase, beginning during response and extending beyond the cessation of danger. Automatic return to ordinary Governance, Judiciary and rights exercise is the default; emergency delegations and temporary institutions expire rather than being promoted by crisis. Restoration must examine accessible rights in practice, courts and cases, infrastructure, property, contracts, data, secrecy, psychosocial impacts and AI continuity. A green dashboard does not prove restoration, and a resumed service does not discharge outstanding individual duties. Emergency-collected data and restricted records require retention/disclosure review; original mistakes remain in Historical with linked correction. Reconstruction is not permission for unrelated political redesign. **Open:** domain-specific restoration criteria, custody/compensation owners, contract unwinding and actual termination enforcement.
+**Constitutional Emergency V2 §§166–190:** Recovery is a constitutional phase, beginning during response and extending beyond the cessation of danger. Automatic return to ordinary Governance, Judiciary and rights exercise is the default; emergency delegations and temporary institutions expire rather than being promoted by crisis. Restoration must examine accessible rights in practice, courts and cases, infrastructure, property, contracts, data, secrecy, psychosocial impacts and AI continuity. A green dashboard does not prove restoration, and a resumed service does not discharge outstanding individual duties. Emergency-collected data and restricted records require retention/disclosure review; original mistakes remain in Historical with linked correction. Reconstruction is not permission for unrelated political redesign. **Architecture to be designed — recovery completion and sunset:** Define domain-specific restoration criteria, custody and compensation owners, contract unwinding and independently enforced termination.
 
