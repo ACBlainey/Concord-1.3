@@ -1377,19 +1377,15 @@ This right may be limited where security or investigation legitimately requires 
 
 The limitation itself should remain reviewable.
 
-## 46.10 Emergency truthfulness, privacy and public communication
+## 46.10 Emergency Truthfulness, Privacy and Public Communication
 
-**Recovered source:** Constitutional Emergency V2 Chapters 14–18; Governance Operating Boundary and Authority Lifecycle §§16–18.
-
-Emergency communications should prioritise factual accuracy, operational clarity, acknowledged uncertainty, accessibility, realistic expectations and timely correction. Manipulative reassurance or propaganda is not a legitimate substitute for public understanding. Public trust does not mean mandatory agreement or compliance. Publish the lawful basis and scope of restrictions where safe, while retaining narrowly justified privacy and operational secrecy subject to review and expiry. **[LOCAL OPEN:]** information-owner projection and secrecy exception procedures.
+Emergency communications should prioritise factual accuracy, operational clarity, acknowledged uncertainty, accessibility, realistic expectations and timely correction. Manipulative reassurance or propaganda is not a legitimate substitute for public understanding. Public trust does not mean mandatory agreement or compliance. Publish the lawful basis and scope of restrictions where safe, while retaining narrowly justified privacy and operational secrecy subject to review and expiry. **Architecture to be designed — emergency public-information interface:** Define responsible information owners, public projections of lawful authority and restrictions, correction channels, narrowly bounded secrecy exceptions, protected personal data and independent review of withheld material.
 
 
 
-## 46.11 Civil identity and nonambient linkability
+## 46.11 Civil Identity and Non-Ambient Linkability
 
-**Audit source:** Concord Citizen ID — Threat, Privacy and Misuse Audit §§3–8,16–18,33–36 (historical research evidence; not adopted law).
-
-The Citizen ID audit rejects treating one permanent identifier as identity, credential, network endpoint and tracking key. A persistent opaque civil root should remain separated from names, replaceable credentials, official routing, services and exceptional access. Pairwise/contextual identifiers should prevent unnecessary correlation. Transparency of lawful authority use does not require general public discoverability of participants. **[LOCAL ISSUE:]** resolver, CWA access and disclosure review.
+Civil identity architecture must not treat one permanent identifier as identity, credential, network endpoint and tracking key. A persistent opaque civil root should remain separated from names, replaceable credentials, official routing, services and exceptional access. Pairwise/contextual identifiers should prevent unnecessary correlation. Transparency of lawful authority use does not require general public discoverability of participants. **Architecture to be designed — civil identity disclosure interface:** Define contextual identity resolution, access through the applicable authorised channel, exceptional disclosure thresholds, review and audit without introducing general public discoverability or ambient tracking.
 
 
 
@@ -1755,11 +1751,9 @@ Local resilience should not require total isolation.
 
 The objective is the ability to continue essential operation during disruption.
 
-## 48.10 Governance resilience and distributed competence
+## 48.10 Governance Resilience and Distributed Competence
 
-**Recovered source:** V1 Governance Component Recovery Map G-R02A,G-R02B,G-R11,G-R14.
-
-Resilience requires replacing unavailable actors and functions without making any one office, node, institution or infrastructure indispensable. GTP geometric scales coexist; activating a different governance resolution is not creating or destroying triangles or automatically transferring jurisdiction. Record duty custody and temporary authorisations through disruption. **[LOCAL ISSUE:]** distributed quorum, replacement eligibility, outage and reconciliation procedures.
+Resilience requires replacing unavailable actors and functions without making any one office, node, institution or infrastructure indispensable. GTP geometric scales coexist; activating a different governance resolution is not creating or destroying triangles or automatically transferring jurisdiction. Record duty custody and temporary authorisations through disruption. **Architecture to be designed — distributed continuity interface:** Define lawful three-Steward constitution under outage, eligibility and alternate selection, evidence of competence, duty custody, time-bounded continuity mandates and reconciliation of isolated decisions. Distributed resilience cannot create additional votes or permit an incomplete triad to exercise ordinary triadic authority.
 
 
 
@@ -2244,10 +2238,8 @@ The Concord’s commitment is therefore to controlled continuity with correction
 
 # PART V — GOVERNANCE FAILURE CHALLENGE FOUNDATIONS
 
-## 50.13 Independent review across constitutional interfaces
+## 50.13 Independent Review Across Constitutional Interfaces
 
-**Source basis:** Constitutional Emergency V2 Chapters 107–130,166–190.
-
-Governance decides within mandate, Judiciary independently reviews, Historical preserves provenance, Research tests evidence, and operational domains execute lawfully. Policy correction does not replace individual remedy. **[LOCAL ISSUE:]** referral and protected records.
+Governance decides within mandate, Judiciary independently reviews, Historical preserves provenance, Research tests evidence, and operational domains execute lawfully. Policy correction does not replace individual remedy. **Architecture to be designed — independent cross-domain review interface:** Define referrals, jurisdiction and competence checks, privacy-preserving access to protected records, Judiciary review and individual remedy, Historical provenance, Research evidence assessment and operational execution boundaries. No review body inherits the authority of the original decision merely by examining it.
 
 
