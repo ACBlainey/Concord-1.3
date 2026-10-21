@@ -583,15 +583,15 @@ Governance retains the following open design questions, to be resolved through t
 These include:
 
 1.  What final selection mechanisms should apply to each stewardship domain?
-2.  Should triadic governance remain the universal default decision structure, a strong default, or one module among several?
+2.  How should any separately authorised exception to established triadic governance be defined without treating a research alternative as operational authority?
 3.  What precise decision classes and thresholds should exist?
 4.  How should constitutional amendment thresholds operate?
-5.  What degree of citizen participation should occur at each governance layer?
+5.  What degree of citizen participation should occur at each spatial resolution and decision context, without implying hierarchical governance layers?
 6.  How should delegation operate at very large civilisational scale?
-7.  What is the final interface between Governance and Judiciary?
-8.  Which Emergency material belongs in Governance after the dedicated Emergency architecture is consolidated?
-9.  What is the final Resource Stewardship architecture?
-10. What economic and monetary architecture survives consolidation with Ratchet?
+7.  Which specific Governance–Judiciary interface contracts remain to be designed while preserving independent judicial authority?
+8.  How should Governance and dedicated Emergency architecture exchange bounded authority, evidence and closure records without duplicating emergency command?
+9.  Which Resource Stewardship interface contracts remain to be defined, without treating resource control as governance authority?
+10. How should economic, monetary and Ratchet interfaces be reconciled without silently deleting distinct architecture?
 11. What constitutional status may future sentient AI possess?
 12. Under what conditions may AI hold independent stewardship authority?
 13. How should duplicated or forked AI identity affect governance participation?
@@ -627,7 +627,7 @@ Possible indicators may include control over:
 - communication;
 - or practical veto.
 
-The final diagnostic remains undeveloped.
+**Architecture to be designed — de facto authority diagnostic:** Define independently reviewable indicators and thresholds without treating observed influence as lawful authority.
 
 ## 62.2 Additional Open Question — Authority Without Office
 
@@ -899,7 +899,7 @@ The principle is:
 
 **Source basis:** Triadic Epistemics — Independent Measurement §§5–15 (candidate research).
 
-The research candidate has three deliberately differentiated formal observation pathways and a participant-derived evidence stream. These are epistemic channels, not three governance Stewards, and participant reports are not a fourth vote. Compare formal and lived evidence; persistent disagreement or silence requires diagnosis, not automatic suppression or compulsory response. **Architecture to be designed — independent observation interface:** Define evidence ownership, participant privacy and independence of observation channels.
+The research candidate distinguishes three differentiated formal observation pathways and a participant-derived evidence stream; these remain an evidential design candidate rather than a prescribed governance institution. These are epistemic channels, not three governance Stewards, and participant reports are not a fourth vote. Compare formal and lived evidence; persistent disagreement or silence requires diagnosis, not automatic suppression or compulsory response. **Architecture to be designed — independent observation interface:** Define evidence ownership, participant privacy and independence of observation channels.
 
 
 
