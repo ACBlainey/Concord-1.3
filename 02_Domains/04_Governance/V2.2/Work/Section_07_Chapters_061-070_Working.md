@@ -516,22 +516,20 @@ Questions include:
 - Are citizens able to challenge the system?
 - Is the system learning?
 
-## 61.32 Canonical Means Current, Not Final
+## 61.32 Current Operation Does Not Mean Finality
 
 No current Governance document is immune to future evidence.
 
 The principle is:
 
-> **Canonical means current, not final.**
+> **Current operation does not mean finality.**
 
-Canonical status identifies the current operative architecture.
-
-It does not create immunity from:
+The currently operative architecture remains subject to:
 
 - evidence;
 - criticism;
 - testing;
-- or revision.
+- and lawful revision.
 
 ## 61.33 Governance Self-Boundary
 
@@ -773,104 +771,33 @@ Authority is not a single role-derived permission. The proposed envelope disting
 
 
 
-# Chapter 63 — Current Status of Governance V2
+# Chapter 63 — Governance Preservation, Revision and Evidence Status
 
-Governance V2 should presently be classified as:
+Governance must retain the full architecture necessary to reconstruct the authority, safeguards, exceptions, dependencies and observed effects of its decisions. A currently operative governance document is not thereby empirically validated or immune to lawful correction. This chapter defines ongoing preservation and review obligations, not a publication gate or document-development status.
 
-**ACTIVE DEVELOPMENT / UPDATED DRAFT / SOURCE-COMPLETE RECONSTRUCTION IN PROGRESS**
+## 63.1 Source Preservation Requirement
 
-It should not yet be classified as:
+Preserve the complete source record and trace material changes to their authority and provenance. Earlier detailed architecture, including edge cases, safeguards and operational reasoning, must not be displaced merely by a shorter synthesis.
 
-**FINAL CANONICAL GOVERNANCE ARCHITECTURE**
+The governing requirement is **preservation of unique architecture + lawful correction + additive improvements**, with genuine duplication removed only after comparison.
 
-because:
+## 63.2 Restoration and Missing Architecture
 
-- other Concord systems still require consolidation;
-- their interfaces may change Governance;
-- the complete V1 source-survival audit is still being completed;
-- a Governance Failure Challenge has not yet been performed;
-- and empirical validation remains limited.
+Where omitted or under-preserved material is identified, assess its distinct function and restore it in the relevant operational location. Restoration must not silently remove existing unique mechanisms. Where source versions conflict, retain evidence of the conflict and identify the authorial decision or interface design required to resolve it.
 
-The correct development sequence is therefore:
+## 63.3 Validation and Evidence Status
 
-**Governance V1**  
-↓  
-**V1 Source Preservation**  
-↓  
-**Ratchet-Informed V2 Integration**  
-↓  
-**Governance V2 Draft**  
-↓  
-**Other System Consolidation**  
-↓  
-**Cross-System Interface Audit**  
-↓  
-**Final Governance Recursion**  
-↓  
-**Governance Failure Challenge**  
-↓  
-**Experimental Validation Programme**  
-↓  
-**Future Canonical Candidate**
+Governance claims have differing evidential support. Historical precedent, institutional analogy, simulation, prototype tests and demonstrated operational enforcement are not interchangeable. Evidence status and material uncertainty must remain visible to competent reviewers; detailed drafting alone does not prove empirical validity.
 
-## 63.1 Source Preservation Status
+## 63.4 Continuing Review and Failure Challenge
 
-The current reconstruction is explicitly information-preserving.
+Governance architecture remains subject to source-survival review, cross-system interface assessment, adversarial failure challenge, experimental validation where appropriate and continued evidence review. These are continuing assurance obligations, not prerequisites that suspend otherwise lawful operation.
 
-The preservation baseline remains the complete Governance V2 source.
-
-Earlier shorter syntheses are not authorised to replace it.
-
-Their role is limited to contributing genuinely additive improvements where those improvements do not erase baseline information.
-
-The reconstruction therefore follows:
-
-> **complete preservation baseline + restoration material + genuinely additive later improvements**
-
-rather than:
-
-> **new synthesis replacing the preservation baseline**
-
-## 63.2 Restoration Status
-
-Restoration Packages I–III contain material identified as missing or under-preserved during previous source comparison.
-
-Their integration is additive.
-
-They do not justify removing source material merely because the restoration package expresses the same concept more concisely.
-
-## 63.3 Validation Status
-
-Different Governance claims possess different levels of evidence.
-
-Some principles have substantial historical support.
-
-Some mechanisms have analogues in functioning institutions.
-
-Some remain theoretical.
-
-Some remain explicitly experimental.
-
-The document therefore should not present its full architecture as empirically validated merely because it is detailed.
-
-## 63.4 Canonical Readiness Conditions
-
-Before stronger canonical status, Governance should undergo:
-
-- complete source-survival audit;
-- cross-system interface audit;
-- final recursion;
-- Failure Challenge;
-- experimental testing;
-- and continued evidence review.
-
-No accidental substantive omissions should remain.
+Review must preserve independent scrutiny, protected provenance and the boundaries between evidence assessment, constitutional interpretation, governance decision and host execution.
 
 ## 63.5 Preservation Principle
 
-The controlling reconstruction principle is:
-
-> **Nothing is removed merely because the new architecture can express its headline principle more concisely. Detail, mechanisms, examples, safeguards, edge cases, failure conditions and operational reasoning are themselves information and must be assessed before removal.**
+> **Nothing is removed merely because the current architecture can express its headline principle more concisely. Detail, mechanisms, examples, safeguards, edge cases, failure conditions and operational reasoning are themselves information and must be assessed before removal.**
 
 # Chapter 64 — Interim Closing Principle
 
