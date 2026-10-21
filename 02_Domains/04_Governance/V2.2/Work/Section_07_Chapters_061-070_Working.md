@@ -2613,7 +2613,7 @@ The research candidate proposes a ten-test legitimate-function audit for assessm
 
 **Audit source:** BCA Adversarial Attack and Falsification Audit §§48–55, BCA-R1–R5 (historical adversarial evidence, not adopted law).
 
-The 100-attack BCA audit challenges a self-grounding function claim; its proposed refinements require independent adoption before becoming operative architecture. In that audit,  declared function is not legitimate function, and a holder must not solely authenticate high-impact activating conditions. Recover proposed refinements BCA-R1 legitimate function, R2 non-circularity, R3 fresh review on expansion, R4 independent validation of high-impact self-activation and R5 successor-function re-scoping. **Architecture to be designed — independent function recognition:** Define independent competence and authority without recursive self-certification.
+The 100-attack BCA audit challenges a self-grounding function claim; its proposed refinements require independent adoption before becoming operative architecture. The audit distinguishes declared function from legitimate function and challenges unilateral authentication of high-impact activating conditions by the authority holder. Its proposed refinements are BCA-R1 legitimate function, R2 non-circularity, R3 fresh review on expansion, R4 independent validation of high-impact self-activation and R5 successor-function re-scoping. **Architecture to be designed — independent function recognition:** Define independent competence and authority without recursive self-certification.
 
 
 
