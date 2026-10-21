@@ -1644,7 +1644,7 @@ The ability to reconsider is a constitutional strength.
 
 ## 54.33 Decision Reversal
 
-Some decisions should be reversed where evidence shows they are:
+A committed Steward ballot cannot be reversed, withdrawn or resubmitted. A later lawful decision with a new identity may reverse the continuing policy or mandate established by an earlier decision, where evidence shows the earlier policy or mandate is:
 
 - harmful;
 - ineffective;
@@ -1660,13 +1660,7 @@ Correction may therefore require managed withdrawal.
 
 ## 54.34 Supersession
 
-A decision replaced by another should be marked:
-
-**SUPERSEDED**
-
-rather than silently deleted.
-
-The record should identify the successor decision.
+Where a later independently authorised decision replaces the continuing policy or mandate of an earlier decision, mark the earlier policy or mandate **SUPERSEDED** rather than silently deleting it. Preserve the original immutable ballots and decision event, identify the successor decision under its own unique identity and record the authority and scope of the replacement. Supersession does not reopen or edit the earlier vote.
 
 ## 54.35 Decision History
 
@@ -1728,13 +1722,13 @@ The authoritative decision record separates: decision/event identity and lawful 
 
 **Architecture to be designed — Chapter 54 execution and commitment interfaces:** Specify authenticated owner attestation, atomic persistence, protected projections, exceptional conference after partial commitment and reconciliation of preliminary inputs with immutable official votes. These implementation requirements do not conflate a ballot with a revocable host execution grant.
 
-### 54.39 Bounded Decision and Jurisdiction Interface
+## 54.39 Bounded Decision and Jurisdiction Interface
 
 For an expanded triadic proposal, record the decision topology: origin R, adjacent A/B/C, origin-included or origin-excluded mode, separately authorised and conflict-checked eligible constituent positions, three **received official constituent resultants** (each requiring its own three official ballots for ordinary completion), virtual-triad result after all three official resultants, any completed Unresolved cause or separately recorded pending status, implementation scope, minority reasoning, sunset and review. Three **received official constituent resultants**, never nine pooled individual ballots, determine the ordinary virtual result: F/F/U yields F; F/A/U yields completed Unresolved (U). A missing resultant is pending, not U; ordinary effect waits for all three official resultants, with only separately authorised emergency early action after two matching valid resultants. Expansion does not alter proposal scope or resource authority absent the ordinary material-amendment procedure.
 
 **Architecture to be designed — expanded voting disclosure:** Define individual-ballot confidentiality and public resultant disclosure consistent with §§54.28–54.30 and independent Steward voting.
 
-### 54.40 Expanded Virtual-Triad Record
+## 54.40 Expanded Virtual-Triad Record
 
 When expanded voting is authorised, the decision record must include origin R, edge-adjacent A/B/C, the origin-excluded or origin-included mode, source of common jurisdiction, each constituent triad's verified voting positions, **three received official individual ballots** (For, Against or an authorised abstention with its cause), the **derived constituent F/A/U resultant** (where U means a completed no-majority outcome, not a missing ballot), and the final three-resultant F/A/U decision **only after all three official constituent resultants have been received for ordinary completion**. Record missing resultants as pending, not U; any independently authorised emergency early action has its own bounded authority and state. Record quorum, abstention and recusal causes, independent authorisation, conflicts, scope, expiry, review, resource authority and implementation responsibility. A pooled nine-vote tally is diagnostic only and has no decision effect.
 
