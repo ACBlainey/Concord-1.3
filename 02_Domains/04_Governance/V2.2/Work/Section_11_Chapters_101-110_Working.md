@@ -2068,11 +2068,17 @@ High-consequence systems may require:
 - monitoring;
 - and fallback.
 
-## 110.11 Technology Principle
+## 110.11 Technology, State Machines and Authority Separation
+
+Technology may detect conditions, prepare recommendations and execute specifically authorised transitions, but the presence of a capability is not permission to use it and neither capability nor permission alone constitutes contextual authority (**CAP ≠ PERM ≠ AUTH**). For consequential operations, identify the decision event, competent authority, bounded scope, state-machine gate, affected-system execution owner, audit evidence, expiry and recovery route.
+
+An official triadic decision requires three selected positions and the prescribed ballot completion rules; software must not manufacture an extra ballot from advisory reasoning, infer approval from an incomplete ordinary majority or silently change a committed ballot. Emergency action uses a separately lawful bounded path that does not wait for the variable Civilisation Clock to resume. Technical fallback must preserve rights, evidence and independent review.
+
+## 110.12 Technology Principle
 
 > **Governance should treat technology as capability, not permission. Technical systems may implement lawful authority but cannot independently create it, and major Governance technology should remain subject to constitutional assessment, provenance, review, correction, replacement and practical exit.**
 
-## 110.12 Identity infrastructure without a universal dossier
+## 110.13 Identity Infrastructure Without a Universal Dossier
 
 A root civil identity registry should not also hold detailed credentials, network routes, location histories, service records and all access logs. Avoid catastrophic single-point compromise and broad administrative AI correlation by architecture, not only operator promises. Separate custody, cryptographic authority, lookup, service access and operational monitoring. **Architecture to be designed — identity infrastructure:** Specify registry topology, outage continuity and insider-access controls.
 
