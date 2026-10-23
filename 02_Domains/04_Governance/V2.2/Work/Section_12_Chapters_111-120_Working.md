@@ -410,21 +410,19 @@ Secret surveillance may require stronger independent review precisely because or
 
 **Audit source:** BCA Adversarial Attack and Falsification Audit §§10,50–51 (historical adversarial evidence, not adopted law).
 
-Verifying whether contextual authority remains valid does not authorise universal participant tracking. BCA-R8 explicitly rejects this inference. Use proportionate state evidence, event receipts, scoped inspection and independent review; accept that uncertainty may require bounded temporary safeguards rather than continuous observation. **[LOCAL ISSUE:]** privacy-preserving completion attestations.
+Verifying whether contextual authority remains valid does not authorise universal participant tracking. BCA-R8 explicitly rejects this inference. Use proportionate state evidence, event receipts, scoped inspection and independent review; accept that uncertainty may require bounded temporary safeguards rather than continuous observation. **Architecture to be designed — privacy-preserving attestations:** Specify privacy-preserving completion attestations.
 
 
 
 ## 112.15 Identity-linked surveillance and log minimisation
 
-**Audit source:** Citizen ID Threat, Privacy and Misuse Audit §§6–9,13–15,32–35 (historical research evidence; not adopted law).
+Resolver access, delivery receipts, fraud monitoring and oversight logs can each become a covert participant-location or association database. Separate reachability from location; query access must have purpose, bounded scope, provenance and independent review. Potential future usefulness is not justification for indefinite collection. Even oversight records should minimise private content. **Architecture to be designed — surveillance records:** Specify retention, participant notice and protected exceptional disclosure.
 
-Resolver access, delivery receipts, fraud monitoring and oversight logs can each become a covert participant-location or association database. Separate reachability from location; query access must have purpose, bounded scope, provenance and independent review. Potential future usefulness is not justification for indefinite collection. Even oversight records should minimise private content. **[LOCAL ISSUE:]** retention, participant notice and protected exceptional disclosure.
-
-## 112.16 — Existing protected evaluation and cumulative disclosure interfaces
+## 112.16 Protected Evaluation and Cumulative Disclosure Interfaces
 
 Protected local evaluation may use sensitive inputs without authorising disclosure of those inputs. The Contextual Wrapper and Information Black Box systems maintain one protected master and expose only independently permitted contextual projections. The Knowledge Control System tracks information integrity and access state separately from authority to act. Cumulative releases, repeated queries and cross-context correlation require safeguards even when each isolated projection appears permissible.
 
-A reviewer receives only the necessary bounded evidence or attested result, subject to purpose, access, retention, audit and lawful challenge. Review must not become an unrestricted surveillance channel. **[LOCAL VALIDATION:]** Aggregate disclosure thresholds, correlation tests, protected review credentials, exceptional access, retention and remedy need host-level specifications.
+A reviewer receives only the necessary bounded evidence or attested result, subject to purpose, access, retention, audit and lawful challenge. Review must not become an unrestricted surveillance channel. **Architecture to be designed — protected review:** Specify aggregate disclosure thresholds, correlation tests, protected review credentials, exceptional access, retention and remedy at the responsible system interface.
 
 # Chapter 113 — Security Classification and Secrecy
 
