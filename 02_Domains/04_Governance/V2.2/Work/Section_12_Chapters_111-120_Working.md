@@ -737,7 +737,11 @@ A system built entirely around mistrust may become:
 
 Security should preserve enough trust for institutions to function.
 
-## 114.12 Internal Security Principle
+## 114.12 Internal Security Authority Boundaries
+
+Detection of internal abuse does not itself confer disciplinary, executive or voting authority on security personnel, auditors or monitoring systems. A suspected insider event requires authenticated evidence, a bounded competent response, protected reporting, independent review and a remedy route. Temporary containment must expire or be reauthorised by its lawful owner; it cannot remove a lawfully selected Steward from an active vote except through the applicable cause-specific substitution rules. Committed official ballots remain immutable.
+
+## 114.13 Internal Security Principle
 
 > **Governance should protect critical functions against corruption, sabotage, insider abuse and capture through proportionate access controls, separation, monitoring and independent verification without turning security into universal internal suspicion or an excuse for unchecked surveillance.**
 
@@ -882,7 +886,11 @@ The principle remains:
 
 > **Security protects constitutional Governance; it does not replace it.**
 
-## 115.10 External Threat Principle
+## 115.10 External Threats and Emergency Separation
+
+External attack or coercion may justify a separately lawful bounded emergency response, but neither the declaration of a threat nor coordination across a larger GTP area creates standing superior authority. Normal Steward duties and contextual mandates continue outside the emergency's affected scope. Only the independently established existential-crisis conditions can justify exceptional displacement of ordinary governance, with safeguards, expiry and subsequent review.
+
+## 115.11 External Threat Principle
 
 > **Governance should resist cyberattack, coercion, bribery, disinformation and dependency-based external manipulation while preserving legitimate openness, criticism, exchange and disagreement. External threat must not become a general justification for suppressing internal pluralism or expanding unreviewable authority.**
 
@@ -1019,11 +1027,15 @@ Likewise, a successor should not automatically become responsible for previous m
 
 Responsibility should follow actual role and knowledge.
 
-## 116.11 Peaceful Transfer Principle
+## 116.11 Transfer and In-Flight Decision Events
+
+Office succession does not rewrite the identity or authority of a previously constituted voting event. A Steward's committed official ballot remains final after departure. A vacancy or unavailability before commitment follows lawful position-specific alternate selection, with no duplicate official vote. Any new decision on the same issue requires a separate unique decision identifier; incoming officeholders do not acquire the power to revoke completed votes.
+
+## 116.12 Peaceful Transfer Principle
 
 > **Constitutional authority should transfer through defined rules rather than personal possession. Records, credentials, responsibilities and operational capability should move with the office while prior accountability remains attributable and public functions continue without dependence upon the outgoing Steward’s consent.**
 
-## 116.12 Transfer, Appointment and Office-State Continuity
+## 116.13 Transfer, Appointment and Office-State Continuity
 
 Peaceful transfer of office must distinguish selection, appointment, mandate, live authority, suspension, acting office, vacancy and succession. Officeholder departure cannot silently abandon duties or erase original decisions; preserve handover and validate successor authority. Parallel service does not become automatic replacement. **Architecture to be designed — office transfer:** Specify lawful selector, acting-office status and custody of outstanding duties.
 
