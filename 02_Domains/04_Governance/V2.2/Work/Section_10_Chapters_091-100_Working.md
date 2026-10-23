@@ -698,7 +698,13 @@ Participants should know how the experiment ends if:
 
 Exit should be designed before dependency forms.
 
-## 96.11 Experimentation Principle
+## 96.11 Experimental Authority and Reversion
+
+An experiment is not an alternative path to permanent governance authority. Its decision event must establish the competent sponsor, participating systems, affected rights, lawful consent conditions, scope, resource commitments, evidence collection, review, expiry and exit. Experiments may compare governance mechanisms but may not silently replace constitutional voting requirements, create standing superior GTP offices or grant their evaluators executive command.
+
+Scaling, extension or permanent adoption requires a fresh lawful decision within the relevant competence and a distinct versioned event. An experiment's prior approval does not authorise indefinite renewal. On termination, the affected systems execute their own lawful restoration or migration plans, preserving evidence, negative results and affected-party remedy. Emergency suspension remains separately bounded and cannot be used as a routine experiment-management shortcut.
+
+## 96.12 Experimentation Principle
 
 > **Governance should use bounded experimentation to generate evidence where uncertainty can be safely contained, preserving baselines, negative results, replication, context and practical exit so experimentation becomes a learning mechanism rather than a route for quietly normalising unvalidated architecture.**
 
