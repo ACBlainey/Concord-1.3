@@ -953,41 +953,23 @@ At resumption, reconcile any emergency actions, changed dependencies and stale q
 
 # Chapter 99 — Governance and the Constitutional Ratchet
 
-## 99.1 Historical Governance Meaning
+## 99.1 Constitutional Ratchet Function
 
-Governance V1 used the term **Constitutional Ratchet** to describe a controlled mechanism by which successful learning could become established practice.
+The Constitutional Ratchet provides a controlled route by which demonstrated learning can become established practice. A representative progression is:
 
-A simplified progression was:
+**Proposal** → **Evidence** → **Experiment** → **Review** → **Refinement** → **Validation** → **Established Practice**
 
-**Proposal**  
-↓  
-**Evidence**  
-↓  
-**Experiment**  
-↓  
-**Review**  
-↓  
-**Refinement**  
-↓  
-**Validation**  
-↓  
-**Established Practice**
+Each transition requires the appropriate evidence, competence, consent where applicable, constitutional review and separately lawful decision authority. Progression through these stages is not itself a vote, automatic policy change or grant of executive power.
 
-The term predates the broader Ratchet architecture now contained in Ratchet V4.2.
+## 99.2 Preservation Without Irreversibility
 
-## 99.2 Preservation of the Original Concept
+Governance must be capable of preserving demonstrated improvement without making it irreversible. Established practice retains the evidence and reasons for its adoption while remaining challengeable, reviewable and revisable when new information warrants.
 
-The original Governance concept should not be deleted merely because Ratchet later expanded into a much larger coordination architecture.
+The Constitutional Ratchet concerns the persistence of governance learning. It is related to, but distinct from, the broader Ratchet architecture; neither may silently acquire authority from the other.
 
-Its substantive idea remains important:
+## 99.3 Broader Ratchet Interfaces
 
-> **Governance should be capable of preserving demonstrated improvement without making improvement irreversible.**
-
-The historical concept forms part of the developmental provenance of the wider Ratchet architecture.
-
-## 99.3 Ratchet Expansion
-
-Ratchet later developed this basic intuition into a broader system involving:
+The broader Ratchet architecture may provide evidence and coordination relating to:
 
 - participation;
 - contribution;
@@ -1001,13 +983,7 @@ Ratchet later developed this basic intuition into a broader system involving:
 - failure handling;
 - and controlled persistence.
 
-The historical relationship should therefore be preserved.
-
-Governance informed Ratchet.
-
-Ratchet later returned additional governance insights.
-
-This is recursion in practice.
+Those functions can inform constitutional learning, but their outputs do not constitute lawful governance decisions. Governance acts only within its own bounded authority and cannot take ownership of Ratchet merely because it relies on Ratchet evidence.
 
 ## 99.4 Constitutional Ratcheting Is Not Irreversibility
 
