@@ -897,7 +897,15 @@ Automatic intervention may still be legitimate where explicitly authorised.
 
 The metric itself should not silently become law.
 
-## 97.12 Governance Metrics Principle
+## 97.12 Metrics, Confidence and Execution Gates
+
+Governance metrics are evidence, not independent grants of CAP, PERM or AUTH. A metric threshold may initiate a separately authorised investigation, review or state-machine response, but it cannot by itself constitute a triad, cast a Steward's official ballot, complete an ordinary vote or confer implementation authority.
+
+The triadic vote-support confidence record is distinct from predictive model confidence or measured policy success: three matching official ballots yield 100% support; a two-to-one split yields 66% for the prevailing position and 33% for the dissenting position. These fractions describe the final ballot distribution, not the correctness of the decision. No ordinary decision becomes effective merely because two matching ballots already determine the majority.
+
+Where automated metric-triggered action is lawfully authorised, specify the competent issuer, event identity, threshold evidence, bounded effect, expiry, override and independent review. The affected system validates its own execution authority and records the result. Metrics providers do not acquire governance sovereignty by operating the measurement interface.
+
+## 97.13 Governance Metrics Principle
 
 > **Governance metrics should provide multidimensional evidence about actual constitutional and operational performance without becoming universal scores, automatic sovereignty or self-certifying targets. Metrics require context, independent review, qualitative evidence and continued examination for gaming.**
 
