@@ -1313,9 +1313,7 @@ Constitutional protections therefore place substantive limits upon legitimate co
 
 ## 118.11 Coercion requires separate necessity
 
-**Source basis:** Governance Operating Boundary and Authority Lifecycle §§4–10,17–22; Constitutional Emergency V2 Chapters 1–14.
-
-A legitimate objective does not automatically require compulsory authority: consider voluntary consent, information, coordination and less intrusive means first. Coercion must be lawful, demonstrably necessary, proportionate, limited, reviewable and terminated when function ends. Emergency severity is not an independent coercion grant. **[LOCAL ISSUE:]** rights tests and judicial remedies.
+A legitimate objective does not automatically require compulsory authority: consider voluntary consent, information, coordination and less intrusive means first. Coercion must be lawful, demonstrably necessary, proportionate, limited, reviewable and terminated when function ends. Emergency severity is not an independent coercion grant. **Architecture to be designed — coercion review:** Specify rights tests and effective judicial remedies.
 
 
 
@@ -1509,9 +1507,7 @@ Exit rate is therefore evidence requiring interpretation.
 
 ## 119.14 Exit, office vacancy and continuing obligations
 
-**Recovered source:** V1 Governance Component Recovery Map G-R11–G-R12; Stewardship Selection and Allocation README §13.
-
-A participant's exit, a Steward's resignation and an office's vacancy are distinct states. Withdrawal does not retroactively invalidate committed ballots or automatically discharge existing lawful obligations. Identify outstanding duties, their custody, surviving remedies, and the separately constituted actor authorised to continue them. A shadow Steward, neighbouring triad or coarser GTP context does not automatically inherit office. Temporary continuity requires bounded mandate, provenance and termination. **[LOCAL OPEN:]** contractual survival, officeholder incapacity, contested exit and duty reassignment.
+A participant's exit, a Steward's resignation and an office's vacancy are distinct states. Withdrawal does not retroactively invalidate committed ballots or automatically discharge existing lawful obligations. Identify outstanding duties, their custody, surviving remedies, and the separately constituted actor authorised to continue them. A shadow Steward, neighbouring triad or coarser GTP context does not automatically inherit office. Temporary continuity requires bounded mandate, provenance and termination. **Architecture to be designed — practical exit:** Specify contractual survival, officeholder incapacity, contested exit and lawful duty reassignment.
 
 
 
@@ -1834,8 +1830,6 @@ They should not become substitutes for actual constitutional judgement.
 
 ## 120.19 Rights-relevant problem rather than disfavoured difference
 
-**Source basis:** Legitimate Function and the Authority Justification Chain §§5–10,16,28.
-
-Observed difference, dissent, unusual clothing or unpopular private belief is not itself a rights-relevant civil problem. Governance intervention requires a demonstrable connection to harm, denied civil access, autonomy interference or a legitimate voluntarily requested function. Rights conflicts require explicit balancing, evidence, consent and less intrusive alternatives, not simple optimisation of public convenience. **[LOCAL ISSUE:]** rights review and evidentiary thresholds.
+Observed difference, dissent, unusual clothing or unpopular private belief is not itself a rights-relevant civil problem. Governance intervention requires a demonstrable connection to harm, denied civil access, autonomy interference or a legitimate voluntarily requested function. Rights conflicts require explicit balancing, evidence, consent and less intrusive alternatives, not simple optimisation of public convenience. **Architecture to be designed — rights review:** Specify rights review and evidentiary thresholds.
 
 
