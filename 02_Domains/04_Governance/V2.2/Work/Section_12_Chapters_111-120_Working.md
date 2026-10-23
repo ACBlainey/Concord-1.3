@@ -217,8 +217,6 @@ Current benevolence is not a complete privacy safeguard.
 
 ## 111.16 Evidence versioning and dependent decision review
 
-**Source basis:** Epistemic Independence, Contestability and Provenance §§4–5,22–23,46–49.
-
 Record source, method, collection time, transformations, assumptions, confidence by claim, challenge history, model version and decisions that used the evidence. If material evidence is withdrawn or weakened, search dependencies and flag affected decisions for separately authorised review; do not automatically cancel or rewrite past votes. Provenance supports auditability but is not proof of truth. **Architecture to be designed — corrected-evidence review:** Specify the dependency index, protected records and owner-triggered review.
 
 
@@ -407,8 +405,6 @@ Secret surveillance may require stronger independent review precisely because or
 > **Surveillance should be treated as a high-consequence Governance capability because modern technology can make observation cheap, persistent, predictive and reusable across future administrations. Legitimate surveillance should remain purpose-specific, proportionate, reviewable and constrained against mass accumulation becoming infrastructure for future coercion.**
 
 ## 112.14 BCA sunset verification without pervasive surveillance
-
-**Audit source:** BCA Adversarial Attack and Falsification Audit §§10,50–51 (historical adversarial evidence, not adopted law).
 
 Verifying whether contextual authority remains valid does not authorise universal participant tracking. BCA-R8 explicitly rejects this inference. Use proportionate state evidence, event receipts, scoped inspection and independent review; accept that uncertainty may require bounded temporary safeguards rather than continuous observation. **Architecture to be designed — privacy-preserving attestations:** Specify privacy-preserving completion attestations.
 
@@ -1112,7 +1108,7 @@ Its constitutional regulation requires especially strong:
 - accountability;
 - and review.
 
-Detailed force architecture remains outside the present source reconstruction unless supported by the relevant Concord systems.
+Detailed force architecture belongs to the competent security, emergency and judicial systems. Governance must preserve the constitutional interface without inventing operational powers for those systems.
 
 Force should not be normalised merely because it is available.
 
