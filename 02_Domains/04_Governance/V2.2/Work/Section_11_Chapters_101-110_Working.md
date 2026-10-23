@@ -115,7 +115,7 @@ The shared constitutional relationship must remain explicit.
 
 ## 102.1 Constitutional Metrics
 
-Governance V1 identified Constitutional Metrics as measures intended to help determine whether Governance remains aligned with constitutional purpose.
+Constitutional Metrics are measures intended to help determine whether Governance remains aligned with constitutional purpose.
 
 These may differ from ordinary policy performance metrics.
 
@@ -253,13 +253,9 @@ Concord **State and Maturity Mapping** (§§6–16, 23–26) uses context-specif
 
 # Chapter 103 — Governance and the Concord Library
 
-## 103.1 Historical Concept
+## 103.1 Constitutional Knowledge Infrastructure
 
-Governance V1 referred to the **Concord Library and Provenance** as part of the constitutional knowledge infrastructure.
-
-Later development of KCS, provenance systems, repository architecture and continuity has expanded this concept substantially.
-
-The original Governance material should nevertheless survive.
+The **Concord Library and Provenance** form part of the constitutional knowledge infrastructure. The Library operates alongside KCS, provenance systems, repository architecture and continuity mechanisms while retaining the underlying governance requirement: records and their developmental history remain recoverable, distinguishable and reviewable.
 
 ## 103.2 Purpose of the Concord Library
 
