@@ -107,7 +107,13 @@ Branching therefore may become a normal feature rather than merely an experiment
 
 The shared constitutional relationship must remain explicit.
 
-## 101.10 Branching Principle
+## 101.10 Branching and Non-Hierarchical Governance
+
+Branching is a lawful variation of operational practice, not a withdrawal from the shared constitutional rights and authority boundaries. Each branch must identify the affected community, jurisdiction, competent decision event, participant consent where required, shared-system dependencies, review, exit and cross-branch remedy. No branch acquires authority over another by greater size, technical capacity or location in a larger GTP triangle.
+
+GTP scales are simultaneous spatial abstractions, not a hierarchy of governors. A decision spanning multiple branches or areas requires a separately competent, bounded coordination event; it cannot be imposed by an assumed superior standing office. Branch coexistence must preserve continuity for affected people and infrastructure across overlapping areas.
+
+## 101.11 Branching Principle
 
 > **Governance branching may permit lawful communities to test or retain different operational architectures under a shared constitutional core, provided rights, externalities, interoperability, practical exit and failure correction remain addressed. Comparative evidence should inform learning without automatically forcing successful local architecture upon every context.**
 
