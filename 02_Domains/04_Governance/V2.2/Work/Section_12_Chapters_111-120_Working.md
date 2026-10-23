@@ -1844,11 +1844,17 @@ These indicators remain diagnostic.
 
 They should not become substitutes for actual constitutional judgement.
 
-## 120.18 Rights in Practice Principle
+## 120.18 Rights, Remedies and State-Machine Enforcement
+
+Rights constraints apply at the point of actual consequential execution, not only during policy drafting. The affected system must verify the competent mandate, current consent where required, protected scope, expiry, necessity, proportionality, contestation and available remedy before committing a rights-affecting transition. Capability and technical access do not establish permission or authority (**CAP ≠ PERM ≠ AUTH**).
+
+A completed triadic vote may change a bounded decision state but does not extinguish independent judicial review or transfer execution power to a reviewing body. Emergency rights restrictions must remain confined to the actual emergency; routine governance continues independently unless separately lawful existential-crisis conditions apply. Record refusals, partial failures, correction decisions and remedies without altering the original committed ballot record.
+
+## 120.19 Rights in Practice Principle
 
 > **A constitutional right should be evaluated not only by whether it exists in formal text but by whether a person can understand, access, exercise, defend and remedy it within practical conditions. Dependency, cost, delay, retaliation, information asymmetry, automation and infrastructure can hollow out rights without formally repealing them.**
 
-## 120.19 Rights-relevant problem rather than disfavoured difference
+## 120.20 Rights-Relevant Problem Rather Than Disfavoured Difference
 
 Observed difference, dissent, unusual clothing or unpopular private belief is not itself a rights-relevant civil problem. Governance intervention requires a demonstrable connection to harm, denied civil access, autonomy interference or a legitimate voluntarily requested function. Rights conflicts require explicit balancing, evidence, consent and less intrusive alternatives, not simple optimisation of public convenience. **Architecture to be designed — rights review:** Specify rights review and evidentiary thresholds.
 
