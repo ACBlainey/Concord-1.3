@@ -754,11 +754,9 @@ Long-running allocation should be reviewed where:
 
 > **Public resource allocation is an exercise of practical power and should therefore remain evidence-based, auditable, proportionate and attentive to opportunity cost, distribution, maintenance, strategic resilience and long-term capability. Control of resources should not silently become constitutional sovereignty.**
 
-## 105.16 Recovered cross-source governance interface
+## 105.16 Resource Allocation and Cross-Domain Authority
 
-**Source basis:** Governance Operating Boundary and Authority Lifecycle §§4–8, 14–15; V1 Governance Component Recovery Map G-R08.
-
-Resource allocation must be justified by an actual civil objective and demonstrable function, with minimum sufficient capability rather than maximum available control. Resource custody, budget authority, policy decision and implementation are separate; cross-context collisions need owner coordination rather than assumed superior GTP authority. Aggregate control of infrastructure, credentials and funding may create effective power even where individual grants appear bounded. **[LOCAL DEPENDENCY:]** Cross-domain scarcity priority and resource-owner execution receipts require implementation.
+Resource allocation must be justified by an actual civil objective and demonstrable function, with minimum sufficient capability rather than maximum available control. Resource custody, budget authority, policy decision and implementation are separate; cross-context collisions need owner coordination rather than assumed superior GTP authority. Aggregate control of infrastructure, credentials and funding may create effective power even where individual grants appear bounded. **Architecture to be designed — allocation execution:** Specify cross-domain scarcity priorities and resource-owner execution receipts without presuming superior GTP authority.
 
 
 
