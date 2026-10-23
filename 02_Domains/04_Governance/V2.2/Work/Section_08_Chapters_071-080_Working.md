@@ -290,7 +290,7 @@ Expertise evidence should preserve relevant version provenance.
 
 > **Governance requires expertise but must not convert expertise into sovereignty. Expert contribution should be evaluated according to domain relevance, evidence, methods, uncertainty, conflicts, demonstrated competence and practical performance while preserving the distinction between factual expertise and legitimate authority to decide contested constitutional values.**
 
-## 71.16 Dependency-aware epistemic independence
+## 71.16 Dependency-Aware Epistemic Independence — Research-Derived Safeguards
 
 **Source basis:** Epistemic Independence, Contestability and Provenance §§2,6–9,15–17.
 
@@ -298,7 +298,7 @@ Expertise has evidential weight but never sovereign power. Different institution
 
 
 
-## 71.17 Independent expertise under shared infrastructure
+## 71.17 Independent Expertise Under Shared Infrastructure — Audit Findings
 
 **Audit source:** Triadic Epistemics Direct Adversarial Audit Attack Class A (historical adversarial evidence, not adopted law).
 
@@ -628,7 +628,7 @@ A highly active participant does not gain additional constitutional standing mer
 
 > **Citizens should possess practical and accessible routes to raise problems, propose change, obtain information, challenge authority and participate in decisions where appropriate, without requiring continuous political engagement or allowing participation volume, wealth, organisational capacity or computational assistance to become automatic constitutional authority.**
 
-## 72.21 Pseudonymous participation and accountable civil standing
+## 72.21 Pseudonymous Participation and Accountable Civil Standing — Audit-Derived Safeguards
 
 **Audit source:** Citizen ID Threat, Privacy and Misuse Audit §§24–28,31–36 (historical research evidence; not adopted law).
 
@@ -1891,7 +1891,7 @@ A persuasive AI explanation should not silently become constitutional interpreta
 
 > **Governance education should prepare Stewards and citizens to understand authority, limits, evidence, failure, challenge and correction. It should preserve constitutional literacy without becoming indoctrination, and it should teach the failures and uncertainties of the system as seriously as its intended strengths.**
 
-## 76.17 GTP four-direction evidence check
+## 76.17 GTP Four-Direction Evidence Check — Research Candidate
 
 **Source basis:** Triadic Epistemics — Recursive GTP Mesh §§11–29 (candidate research).
 
@@ -2455,7 +2455,7 @@ The variable Civilisation Clock orders ordinary governance transitions but canno
 
 
 
-## 78.17 Preparation lead time and temporal capture
+## 78.17 Preparation Lead Time and Temporal Capture — Audit Findings
 
 **Audit source:** Integrated Threat-Governance Loop Adversarial Audit §§32–41 (historical adversarial evidence; not adopted law).
 
@@ -2752,11 +2752,11 @@ Where evidence is incomplete, prefer sufficient, proportionate and reversible in
 
 
 
-## 79.19 BCA adversarial irreversibility and legibility
+## 79.19 BCA Adversarial Irreversibility and Legibility — Audit Findings
 
 **Audit source:** BCA Adversarial Attack and Falsification Audit §§45,51 (historical adversarial evidence, not adopted law).
 
-The BCA audit's attacks 96–97 show bounded scope alone cannot justify irreversible destruction; higher consequence requires stronger evidence, proportionality and review. BCA-R9 calls for reasonably understandable operational authority rules and R12 for stronger review as irreversibility rises. **Architecture to be designed — irreversible consequence safeguards:** Define consequence thresholds and narrowly bounded urgency exceptions, without treating an audit proposal as an existing authority grant.
+The BCA audit's attacks 96–97 challenge the assumption that bounded scope alone justifies irreversible destruction; they recommend stronger evidence, proportionality and review as consequence increases. These audit findings do not independently create a new authority threshold. BCA-R9 proposes reasonably understandable operational authority rules and R12 proposes stronger review as irreversibility rises; their implementation requires lawful adoption and defined competent reviewers. **Architecture to be designed — irreversible consequence safeguards:** Define consequence thresholds and narrowly bounded urgency exceptions, without treating an audit proposal as an existing authority grant.
 
 
 
