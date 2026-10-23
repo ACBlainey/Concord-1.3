@@ -260,7 +260,13 @@ Examples include:
 
 Governance should evaluate practical effect.
 
-## 92.11 Correction Principle
+## 92.11 Correction, Decision Finality and Independent Review
+
+A completed triadic decision and its committed official ballots are immutable within that decision event. Discovering error, regret or changed evidence does not permit a Steward to revoke a consumed ballot, reopen its original vote or alter the original record. A consequential correction that requires a new governance decision must be independently authorised under a new event identity and version, with its own three-holder constitution and ordinary completion rules. This preserves both the original decision's provenance and the legitimacy of subsequent correction.
+
+The affected system remains responsible for lawful execution and technical reversal within its mandate. Review, appeal, compensation, emergency containment and subsequent policy revision are distinct processes; none acquires executive authority merely by identifying a defect. Where immediate harm requires action before ordinary completion, only separately lawful bounded emergency authority may be used, with subsequent review and recorded reconciliation.
+
+## 92.12 Correction Principle
 
 > **Correction should address the actual cause and consequence of failure without assuming that punishment, reversal, replacement or additional procedure is always the correct response. Every correction creates a new architecture that must itself remain observable, reviewable and open to failure analysis.**
 
