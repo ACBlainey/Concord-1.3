@@ -1420,9 +1420,7 @@ Underlying records should remain recoverable independently where practical.
 
 ## 107.18 Governance staffing and office-state continuity
 
-**Recovered source:** Stewardship Selection and Allocation README §§3–13; V1 Governance Component Recovery Map G-R11–12.
-
-Separate role eligibility, Education accreditation, selection, appointment, office mandate and each exercise of authority. Parallel Steward training provides comparative evidence but not automatic appointment, vote or promotion. Staffing changes must preserve pending matters, record custody, rights, conflict checks and unfulfilled duties. **[LOCAL ISSUE:]** selector, tenure, temporary acting office and succession.
+Separate role eligibility, Education accreditation, selection, appointment, office mandate and each exercise of authority. Parallel Steward training provides comparative evidence but not automatic appointment, vote or promotion. Staffing changes must preserve pending matters, record custody, rights, conflict checks and unfulfilled duties. **Architecture to be designed — staffing and appointment:** Specify lawful selector, tenure, temporary acting office and succession, without converting training or parallel advisory status into voting authority.
 
 
 
@@ -1869,9 +1867,7 @@ The architecture should match the function.
 
 ## 109.14 Infrastructure continuity and independent recovery
 
-**Recovered source:** Constitutional Emergency V2 Chapters 131–190; Governance Operating Boundary and Authority Lifecycle §§14–15.
-
-Infrastructure control is operational capability, not general constitutional authority. Emergency maintenance, backup, failover and restoration must distinguish custody, authorisation, execution and evidence of actual service recovery. A cryptographically valid receipt proves only the stated event, not the factual correctness of the underlying claim. Restoration includes rights, records, service access, remedy and discharge of surviving obligations, not merely a return to uptime. **[LOCAL OPEN:]** infrastructure-owner attestation, emergency transition and cross-domain recovery.
+Infrastructure control is operational capability, not general constitutional authority. Emergency maintenance, backup, failover and restoration must distinguish custody, authorisation, execution and evidence of actual service recovery. A cryptographically valid receipt proves only the stated event, not the factual correctness of the underlying claim. Restoration includes rights, records, service access, remedy and discharge of surviving obligations, not merely a return to uptime. **Architecture to be designed — infrastructure recovery:** Specify infrastructure-owner attestation, emergency transition and cross-domain recovery.
 
 
 
@@ -2070,8 +2066,6 @@ High-consequence systems may require:
 
 ## 110.12 Identity infrastructure without a universal dossier
 
-**Audit source:** Citizen ID Threat, Privacy and Misuse Audit §§6,17–20,33–36 (historical research evidence; not adopted law).
-
-A root civil identity registry should not also hold detailed credentials, network routes, location histories, service records and all access logs. Avoid catastrophic single-point compromise and broad administrative AI correlation by architecture, not only operator promises. Separate custody, cryptographic authority, lookup, service access and operational monitoring. **[LOCAL ISSUE:]** registry topology, outage continuity and insider access.
+A root civil identity registry should not also hold detailed credentials, network routes, location histories, service records and all access logs. Avoid catastrophic single-point compromise and broad administrative AI correlation by architecture, not only operator promises. Separate custody, cryptographic authority, lookup, service access and operational monitoring. **Architecture to be designed — identity infrastructure:** Specify registry topology, outage continuity and insider-access controls.
 
 
