@@ -121,7 +121,15 @@ For example:
 
 Containment plans should consider these effects.
 
-## 91.10 Containment Principle
+## 91.10 Containment Authority and Exit
+
+Containment is an operational response to a bounded failure, not an independent source of governance authority. The affected system executes a lawful containment measure only within its existing mandate or a separately authorised emergency mandate. A triadic governance decision may change the authorised decision state but does not itself transfer technical execution authority to Stewards, auditors or an emergency coordinator.
+
+Every consequential containment event must identify its initiating condition, competent authorising actor, affected scope, rights impact, evidence-preservation duties, review owner, expiry or reauthorisation boundary and restoration criteria. Emergency containment must remain independently time-bounded even while the variable Civilisation Clock is paused. No pause, incident declaration or escalation through the GTP spatial mesh creates a standing superior authority.
+
+Where containment affects protected rights or institutional independence, the lawful review and remedy route remains available. Review does not give the reviewing body executive command. Restoration must reconcile dependencies and preserve the incident record rather than silently erase the containment event.
+
+## 91.11 Containment Principle
 
 > **Containment should prevent failure from propagating while preserving as much lawful capability, evidence and reversibility as the actual risk permits. Temporary containment must not become permanent authority merely because the emergency response proved operationally convenient.**
 
