@@ -351,7 +351,13 @@ Appropriate:
 
 may be necessary.
 
-## 93.8 Failure Record Principle
+## 93.8 Decision and Failure Provenance
+
+Preserve the identity and version of each decision event, the three official ballot receipts, the final support distribution and confidence, recorded dissent and reasons, applicable authority boundaries, implementation acknowledgements and later outcomes. A mathematical majority, completed official vote and affected-system execution are different events and must not be collapsed into a single success indicator.
+
+A new corrective decision must reference the prior event without overwriting it. Preserve failed, withdrawn or expired execution attempts and emergency interventions as separate records. Historical retains protected knowledge and provenance; access and disclosure remain subject to lawful privacy, safety, evidentiary and review boundaries. The record's existence never authorises its custodian to alter an official decision.
+
+## 93.9 Failure Record Principle
 
 > **Governance failure, near-miss, safeguard failure and failed correction should remain part of the civilisational record so that future Governance inherits evidence rather than institutional amnesia.**
 
