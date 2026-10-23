@@ -1261,6 +1261,10 @@ Temporary substitute authority ends on its defined expiry, completion of the aut
 
 Parallel Stewardship supplies independent constitutional reasoning, scrutiny and challenge. It does not by itself create an extra voting position, succession entitlement or emergency executive power. A Parallel Steward may serve in another capacity only after separately valid, independently reviewable appointment with explicit eligibility, identity, competence, scope and expiry. Advisory agreement or disagreement is not a constituent or virtual-triad vote.
 
-## 100.17 Architecture to Be Designed — Cumulative Restrictions and Review
+## 100.17 Official Voting and Advisory Boundaries
+
+Parallel Steward indications remain advisory and cannot count as official ballots. A lawful substitute occupies one existing position rather than creating an additional vote. The original may reclaim that position only before the substitute commits its official ballot, after renewed eligibility and mandate checks. Committed official ballots are immutable. Two matching ballots establish the majority; ordinary completion still requires all three. Emergency action after two matching ballots requires independent emergency authority. Conferences and expanded constituent resultants retain their separate lawful formation and identity checks.
+
+## 100.18 Architecture to Be Designed — Cumulative Restrictions and Review
 
 Define constitutional cumulative-restriction thresholds, cross-domain evidence visibility, anti-capture review, affected-party notice, contestation and independent remedy. Implementing owners must establish actual mandate, state-machine or adapter specification, failure and recovery paths, independent review and provenance. Preserve **CAP ≠ PERM ≠ AUTH**. No implementation is to be described as tested or operational without supporting evidence.
