@@ -1243,7 +1243,7 @@ High-consequence decisions may justify substantial redundancy.
 > **Parallel Stewardship provides independent advisory reasoning to expose alternative interpretations, evidence and failure modes without silently acquiring executive authority. Its value depends upon meaningful independence rather than the mere existence of multiple advisers.**
 
 
-### Parallel Steward Provenance and Ascension Interface
+## 100.12 Parallel Steward Provenance and Ascension Interface
 
 **Stewardship selection and allocation interface.** Historical owns stewardship knowledge and protected contemporaneous records; Education owns training/accreditation; participation tier and office-specific requirements control eligibility. Parallel Stewards independently record reasoning, abstention and **non-official shadow voting indications** before the official outcome is known. These advisory indications do not consume an official position's vote authority or count toward the three official ballots required for ordinary completion. Their records may support later ascension candidacy, but neither agreement with an incumbent nor years served automatically earns promotion, official voting authority or succession.
 
@@ -1253,15 +1253,15 @@ Chapters 28–30 govern emergency succession, degraded triads and deadlock; this
 
 
 
-## 100.12 Parallel Stewardship Versus Conference and Substitution
+## 100.13 Parallel Stewardship Versus Conference and Substitution
 
 Parallel Stewardship remains advisory unless independently appointed to a legally vacant official position. A conference does not promote an adviser into a voter, confer jurisdiction or substitute for an auditable GTP candidate selection. A selected substitute holds one decision-specific bounded position, with uniqueness and conflict checks across the entire decision event. A valid three-holder triad must be constituted before voting; a lawful alternate can occupy an unavailable position. A returning original Steward may reclaim the same position **only before** the alternate commits its official ballot, following current identity, eligibility, conflict, office-state and mandate revalidation. The alternate then ceases to hold that decision-position voting authority; the return creates no fourth ballot or new mandate. Existing committed ballots cannot be displaced. Ordinary effect requires all three official ballots, including a lawful alternate's ballot where applicable. See Chapter 12 for official ballot constitution, substitution and completion, and Chapters 28–30 for emergency continuity.
 
-### Emergency Oversight, Judicial Separation and Effective Remedy
+## 100.14 Emergency Oversight, Judicial Separation and Effective Remedy
 
 **Constitutional Emergency V2 §§107–130:** Emergency secrecy may temporarily delay public disclosure, but must have owner, reason, scope, review/expiry and eventual disclosure criteria; secrecy does not erase evidence or constitutional memory. The Judiciary reviews emergency legality and rights without becoming executive command or resource allocator. Review should remain usable under urgency and avoid paralysis, while retaining procedural fairness. Judicial abstention does not automatically validate executive action. Audit, learning and individual remedy are different functions; a successful emergency outcome does not prove every measure justified. Whistleblowing, dissent and negative evidence must remain protected. Classify error, negligence, recklessness and abuse distinctly. **Open:** emergency court competence, secrecy-wrapper enforcement, access and remedy timescales, protection against retaliatory suppression.
 
-### 100.13 Independent Advisory Reasoning and Separately Authorised Substitution
+## 100.15 Independent Advisory Reasoning and Separately Authorised Substitution
 
 Parallel Stewardship is an independent advisory function: it can evaluate evidence, assumptions, alternatives and constitutional risk, but agreement is not proof, dissent is not a fourth vote, and neither supplies executive command. Parallel reasoning should ordinarily be recorded before exposure to primary conclusions; shared evidence, model lineage, institutional dependency, funding and common assumptions require correlated-failure checks.
 
@@ -1271,10 +1271,10 @@ Temporary substitute authority ends on its defined expiry, completion of the aut
 
 **Architecture to be designed — expanded-triad eligibility:** Specify vertex-to-decision-position eligibility mapping and verify independence across expanded triads before any automatic selection is authorised.
 
-### 100.14 Advisory Authority Boundary
+## 100.16 Advisory Authority Boundary
 
 Parallel Stewardship supplies independent constitutional reasoning, scrutiny and challenge. It does not by itself create an extra voting position, succession entitlement or emergency executive power. A Parallel Steward may serve in another capacity only after separately valid, independently reviewable appointment with explicit eligibility, identity, competence, scope and expiry. Advisory agreement or disagreement is not a constituent or virtual-triad vote.
 
-### Architecture to Be Designed — Cumulative Restrictions and Review
+## 100.17 Architecture to Be Designed — Cumulative Restrictions and Review
 
 Define constitutional cumulative-restriction thresholds, cross-domain evidence visibility, anti-capture review, affected-party notice, contestation and independent remedy. Implementing owners must establish actual mandate, state-machine or adapter specification, failure and recovery paths, independent review and provenance. Preserve **CAP ≠ PERM ≠ AUTH**. No implementation is to be described as tested or operational without supporting evidence.
