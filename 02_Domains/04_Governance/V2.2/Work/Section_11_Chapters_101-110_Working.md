@@ -1145,13 +1145,11 @@ Exit is easiest before dependency forms.
 
 ## 106.21 Procurement, competing means and institutional interest
 
-**Source basis:** Legitimate Function and the Authority Justification Chain §§9–10,20,23,26.
-
-A legitimate civil objective does not select a preferred contractor, technology or compulsory procurement method automatically. Compare credible alternative means and the least intrusive sufficient capability; identify conflicts where an institution benefits from its own purchase recommendation. Separate purchasing competence, resource custody, contract authority and execution. **[LOCAL ISSUE:]** procurement challenge, market comparison and cumulative supplier dependence.
+A legitimate civil objective does not select a preferred contractor, technology or compulsory procurement method automatically. Compare credible alternative means and the least intrusive sufficient capability; identify conflicts where an institution benefits from its own purchase recommendation. Separate purchasing competence, resource custody, contract authority and execution. **Architecture to be designed — procurement challenge:** Specify procurement challenge, credible market comparison and cumulative supplier-dependence controls.
 
 ## 106.22 Procurement independence and cumulative dependency interface
 
-Concord **KCS Change Propagation** (§20) distinguishes supplier dependency from supplier authority. **Multi-Key Authority** (§§17, 23) requires independently legitimate composition and current consequential authority; **Lifecycle Stewardship Review** (§§8, 15) distinguishes continuing a civil function from retaining a particular supplier or institution. Procurement evaluation should represent alternative providers, switching constraints, ownership concentration, technical lock-in, financial incentives and cumulative control over essential services, without converting commercial convenience into civil jurisdiction. A procurement award and each consequential payment remain separately authorised acts. **[LOCAL ISSUE — FI-046, FI-068:]** concentration thresholds, conflict verification, alternative capacity and independent remedy owner remain open.
+Concord **KCS Change Propagation** (§20) distinguishes supplier dependency from supplier authority. **Multi-Key Authority** (§§17, 23) requires independently legitimate composition and current consequential authority; **Lifecycle Stewardship Review** (§§8, 15) distinguishes continuing a civil function from retaining a particular supplier or institution. Procurement evaluation should represent alternative providers, switching constraints, ownership concentration, technical lock-in, financial incentives and cumulative control over essential services, without converting commercial convenience into civil jurisdiction. A procurement award and each consequential payment remain separately authorised acts. **Architecture to be designed — procurement independence:** Specify concentration thresholds, conflict verification, alternative capacity and the independent remedy owner.
 
 # Chapter 107 — Governance Staffing
 
