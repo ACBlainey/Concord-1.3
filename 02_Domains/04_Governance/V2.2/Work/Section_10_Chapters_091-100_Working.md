@@ -937,7 +937,17 @@ Neither should own the decision.
 
 A temporal signal and a trajectory signal may jointly inform Governance while remaining advisory.
 
-## 98.6 Civilisation Clock Principle
+## 98.6 Clock-Controlled Implementation and Emergency Bypass
+
+The Civilisation Clock has two distinct roles that must not be conflated. Its temporal metrics inform judgement without granting policy authority; its variable, event-driven progression also provides an ordinary implementation boundary for decisions already validly completed through the competent governance process.
+
+For an ordinary triadic decision, all three official ballots must be received before completion. The completed decision ordinarily becomes implementable at the next applicable Civilisation Clock transition, subject to the affected system's own lawful execution authority, dependency checks and state-machine gates. A mathematical majority after two ballots does not itself authorise ordinary implementation.
+
+The Clock is not a fixed-rate timer. Its progression may be variable or paused while awaiting feedback. No emergency response may depend on its next transition. A separately authorised and bounded emergency pathway may act after two matching valid official ballots where the emergency rules permit, using an independent emergency timebase and state-machine safeguards. This does not confer standing emergency authority, cancel the third official ballot requirement for the completed record, or convert ordinary time pressure into an emergency.
+
+At resumption, reconcile any emergency actions, changed dependencies and stale queued ordinary transitions before executing them. Clock signals, vote validity, emergency authority and affected-system execution authority remain separate.
+
+## 98.7 Civilisation Clock Principle
 
 > **Civilisational temporal metrics may help Governance understand developmental phase, but no clock, phase label or temporal model should dictate policy automatically. Different systems may occupy different phases simultaneously, and interpretation remains a Governance judgement.**
 
