@@ -827,11 +827,11 @@ A review may examine validity, rights, evidence, implementation and remedy witho
 
 
 
-## 83.25 Bounded epistemic appeal and provisional finality
+## 83.25 Bounded Epistemic Appeal and Provisional Finality — Audit-Derived Proposal
 
 **Audit source:** Epistemic Independence Adversarial Audit §§38,45–46 (historical adversarial evidence; not adopted law).
 
-The epistemic adversarial audit proposes CH-0 authenticity through CH-8 authority-consequence challenge classes, and a bounded appeal sequence: initial assessment, material challenge, independent reconsideration, provisional finality, later reopening for new material evidence or process failure. Contestability is not veto or indefinite delay. **Architecture to be designed — epistemic appeals:** Define materiality thresholds, independent reviewers and protected evidence access.
+The epistemic adversarial audit proposes CH-0 authenticity through CH-8 authority-consequence challenge classes, and a bounded appeal sequence for possible lawful adoption rather than an already authorised appellate jurisdiction: initial assessment, material challenge, independent reconsideration, provisional finality, later reopening for new material evidence or process failure. Contestability is not veto or indefinite delay. **Architecture to be designed — epistemic appeals:** Define materiality thresholds, independent reviewers and protected evidence access.
 
 ## 83.26 Existing civil attention and review routing interfaces
 
@@ -1048,15 +1048,15 @@ For example, an institution rewarded for reducing complaints may make complaint 
 
 > **Complaint mechanisms should provide practical, protected and reviewable routes for reporting individual and systemic failure while resisting retaliation, harassment and metric gaming. Complaint volume is evidence, not automatic proof, and repeated complaints should feed institutional learning rather than disappear as isolated cases.**
 
-## 84.14 Formal and participant evidence discrepancy states
+## 84.14 Formal and Participant Evidence Discrepancy States — Research Candidate
 
 **Source basis:** Triadic Epistemics — Independent Measurement §§8–15 (candidate research).
 
-The proposed TE-1–TE-6 cross-channel states distinguish strong convergence, formal convergence with experiential absence, formal absence with experiential convergence, internal formal divergence, universal apparent convergence and universal uncertainty. Silence is ambiguous; apparent unanimity may hide shared dependencies or capture. Treat these as anomaly prompts, not automatic rights restrictions. **Architecture to be designed — cross-channel anomaly assessment:** Define thresholds, independent sampling, privacy and verification.
+The research candidate's TE-1–TE-6 cross-channel states distinguish strong convergence, formal convergence with experiential absence, formal absence with experiential convergence, internal formal divergence, universal apparent convergence and universal uncertainty. Silence is ambiguous; apparent unanimity may hide shared dependencies or capture. Treat these as anomaly prompts, not automatic rights restrictions. **Architecture to be designed — cross-channel anomaly assessment:** Define thresholds, independent sampling, privacy and verification.
 
 
 
-## 84.15 Identity collision is an inquiry trigger, not guilt
+## 84.15 Identity Collision Is an Inquiry Trigger, Not Guilt — Audit Findings
 
 **Audit source:** Citizen ID Threat, Privacy and Misuse Audit §§9–13,34–35 (historical research evidence; not adopted law).
 
@@ -2089,7 +2089,7 @@ The correction can become the next failure mechanism.
 
 > **Governance should classify failure sufficiently to support diagnosis and correction without forcing reality into a closed taxonomy. Individual, group, institutional, information, measurement, incentive, capture, gaming, concentration, recursive, catastrophic and unknown failures may interact, and the response should preserve evidence strongly enough that failure becomes cumulative knowledge rather than repeated surprise.**
 
-## 88.31 Recovered cross-source governance interface
+## 88.31 Governance Failure Classification and Cross-Domain Correction
 
 **Source basis:** V1 Governance Component Recovery Map G-R13; Governance Operating Boundary and Authority Lifecycle §§14–20.
 
@@ -2359,7 +2359,7 @@ Detect both wrongful action and harmful inaction; watch for repeated abstention,
 
 
 
-## 89.14 BCA audit failure classes and aggregated capability
+## 89.14 BCA Audit Failure Classes and Aggregated Capability — Audit Findings
 
 **Audit source:** BCA Adversarial Attack and Falsification Audit §§3–25,48–51 (historical adversarial evidence, not adopted law).
 
