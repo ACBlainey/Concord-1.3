@@ -1648,15 +1648,21 @@ These systems interact.
 
 They should not collapse into one authority.
 
-## 108.16 Governance Finance Principle
+## 108.16 Financial Decisions and Execution Authority
+
+Appropriation, custody, contracting, payment authorisation, payment execution and settlement are distinct states. A completed triadic decision may authorise a bounded governance objective but does not itself create money, transfer assets, satisfy multi-key financial mandates or give Stewards direct control over an affected payment system. Every consequential commit must validate the current mandate, required independent approvals, recipient, amount, expiry, conflict status and available resources.
+
+Where a transfer is uncertain, preserve its pending or partial-effect state and obtain the payment owner's evidence before retrying; an ambiguous acknowledgement is not proof of failure and must not trigger duplicate expenditure. Emergency expenditure remains purpose-specific and expires independently of any paused Civilisation Clock. Recovery and remedy are separately recorded and cannot retroactively erase the original payment event.
+
+## 108.17 Governance Finance Principle
 
 > **Governance institutions require sufficient resources to make their constitutional functions real, but funding itself can become a mechanism of control, capture or hidden liability. Public budgeting should preserve transparency, long-term obligations, maintenance, audit and functional independence without creating unreviewable financial authority.**
 
-## 108.17 Finance and bounded expenditure
+## 108.18 Finance and bounded expenditure
 
 Budgets, grants and procurement are tools for a justified civil function, not independent constitutional authority. Separate appropriation, custody, contract, decision and payment execution; detect cumulative concentration through related offices or infrastructure. Emergency spending requires specific scope, audit, expiry and restoration. **Architecture to be designed — financial accountability:** Specify financial-owner attestations and a recovery ledger.
 
-## 108.18 Existing multi-key financial mandate and consequential commit interface
+## 108.19 Multi-Key Financial Mandate and Consequential Commit Interface
 
 Concord **Multi-Key Authority** (§§17, 21–23) distinguishes spending permission, valid financial mandate, independent required authorities and current conditions; individually valid approvals do not automatically compose into a new power. **Concord Bounded Participant Runtime** (§§11, 13) requires revalidation at consequential commit and records uncertain external effects rather than blind retry. **Bounded Transition Architecture** (§§10, 19) retains pending-owner and partial-effect references. Financial proposal, authorised appropriation, execution attempt, confirmed transfer and recovery/remedy are distinct states. The budget custodian and payment infrastructure must provide owner-specific attestations; a Steward vote alone cannot mint spending authority. **Architecture to be designed — financial commits:** Specify the financial mandate schema, double-spend and idempotency proofs, independent audit and remedy allocation.
 
