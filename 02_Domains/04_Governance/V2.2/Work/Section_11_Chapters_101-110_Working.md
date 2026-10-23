@@ -239,21 +239,17 @@ The underlying constitutional function remains the real objective.
 
 ## 102.9 Epistemic metric provenance and feedback
 
-**Source basis:** Epistemic Independence, Contestability and Provenance §§4–8,20,32–35.
-
-Governance metrics require claim-level definitions, collection methods, proxies, model dependencies, uncertainty and independent contestability. A provenance-complete record can still be wrong; metric convergence from shared inputs is not independent corroboration. Track forecast calibration, false positives and negatives, capture through measurement or publication, and consequences of using the metric. **[LOCAL ISSUE:]** metric owner and independent calibration.
+Governance metrics require claim-level definitions, collection methods, proxies, model dependencies, uncertainty and independent contestability. A provenance-complete record can still be wrong; metric convergence from shared inputs is not independent corroboration. Track forecast calibration, false positives and negatives, capture through measurement or publication, and consequences of using the metric. **Architecture to be designed — metric accountability:** Specify the metric owner and independent calibration procedure.
 
 
 
 ## 102.10 Aggregate epistemic concentration
 
-**Audit source:** Epistemic Independence Adversarial Audit §§44,48–51 (historical adversarial evidence; not adopted law).
-
-Distributed political authority can coexist with a monopoly on measurement, models, certification, evidence routing or investigation. The audit proposes monitoring source, data, model lineage, funding, framing, personnel and infrastructure concentrations as separate dependency dimensions, not one independence score. **[LOCAL ISSUE:]** aggregate epistemic risk register and independent calibration.
+Distributed political authority can coexist with a monopoly on measurement, models, certification, evidence routing or investigation. Monitor source, data, model lineage, funding, framing, personnel and infrastructure concentrations as separate dependency dimensions, not one independence score. **Architecture to be designed — epistemic concentration:** Specify an aggregate epistemic risk register and independent calibration.
 
 ## 102.11 Existing maturity and knowledge-state metrics interface
 
-Concord **State and Maturity Mapping** (§§6–16, 23–26) uses context-specific dimensions, sufficiency and freshness rather than a universal maturity score. **KCS Change Propagation** (§§16, 20) can propagate materially corrected metrics to dependent assessments without granting a metric supplier authority over governance. Distinguish measurement owner, data provenance, epistemic uncertainty, calibration, threshold owner and the independently lawful actor authorised to change a policy. Aggregated performance indicators can conceal correlated source error or concentrated supplier control. **[LOCAL ISSUE — FI-044, FI-071:]** independently calibrated thresholds, ownership and contestation of consequential metric claims remain unresolved.
+Concord **State and Maturity Mapping** (§§6–16, 23–26) uses context-specific dimensions, sufficiency and freshness rather than a universal maturity score. **KCS Change Propagation** (§§16, 20) can propagate materially corrected metrics to dependent assessments without granting a metric supplier authority over governance. Distinguish measurement owner, data provenance, epistemic uncertainty, calibration, threshold owner and the independently lawful actor authorised to change a policy. Aggregated performance indicators can conceal correlated source error or concentrated supplier control. **Architecture to be designed — consequential metrics:** Specify independently calibrated thresholds, ownership and contestation of consequential metric claims.
 
 # Chapter 103 — Governance and the Concord Library
 
