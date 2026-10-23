@@ -459,7 +459,13 @@ The principle remains:
 
 > **Canonical means current, not final.**
 
-## 94.8 Learning Principle
+## 94.8 Learning and Authority Separation
+
+Historical preserves knowledge and decision provenance; Education develops and assesses relevant competence; Metrics and research provide evidence; Governance makes only the decisions for which it holds bounded contextual authority. A lesson, accreditation, published analysis or comparative success does not by itself confer appointment, voting, implementation or constitutional amendment authority.
+
+Lessons may change future training, thresholds, procedures and proposed architecture through the separately lawful process for each change. Learning from an unsuccessful vote does not permit retroactive amendment of its committed ballots. Where a lesson affects another domain, communicate the evidence and design implications without commanding that domain's implementation.
+
+## 94.9 Learning Principle
 
 > **Governance learning occurs when preserved evidence changes future judgement, architecture or behaviour. Success and failure should both be analysed for causal conditions, and cross-system learning should remain possible without allowing the system that discovered a lesson to acquire authority over unrelated domains.**
 
