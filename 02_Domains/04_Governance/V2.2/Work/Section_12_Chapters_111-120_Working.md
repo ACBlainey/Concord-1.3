@@ -565,9 +565,7 @@ It does not create constitutional immunity.
 
 ## 113.12 Secrecy, classification and time-limited access
 
-**Recovered source:** Constitutional Emergency V2 Chapters 107–130; Governance Operating Boundary and Authority Lifecycle §§15–18.
-
-Secrecy must be tied to demonstrable safety or privacy need, lawful owner, limited scope, effective interval, access review and eventual disclosure or lawful archival restriction. A confidentiality label cannot erase decision provenance or block independent oversight indefinitely. Emergency secrecy expires or requires fresh justification; disclosure must preserve protected participant records. **[LOCAL ISSUE:]** CWA projection classes, declassification and judicial review.
+Secrecy must be tied to demonstrable safety or privacy need, lawful owner, limited scope, effective interval, access review and eventual disclosure or lawful archival restriction. A confidentiality label cannot erase decision provenance or block independent oversight indefinitely. Emergency secrecy expires or requires fresh justification; disclosure must preserve protected participant records. **Architecture to be designed — secrecy review:** Specify contextual projection classes, declassification and judicial review.
 
 
 
@@ -1029,11 +1027,9 @@ Responsibility should follow actual role and knowledge.
 
 > **Constitutional authority should transfer through defined rules rather than personal possession. Records, credentials, responsibilities and operational capability should move with the office while prior accountability remains attributable and public functions continue without dependence upon the outgoing Steward’s consent.**
 
-## 116.12 Recovered cross-source governance interface
+## 116.12 Transfer, Appointment and Office-State Continuity
 
-**Source basis:** Stewardship Selection and Allocation README §13; V1 Governance Component Recovery Map G-R11–12.
-
-Peaceful transfer of office must distinguish selection, appointment, mandate, live authority, suspension, acting office, vacancy and succession. Officeholder departure cannot silently abandon duties or erase original decisions; preserve handover and validate successor authority. Parallel service does not become automatic replacement. **[LOCAL ISSUE:]** Selector, acting office and duty custody.
+Peaceful transfer of office must distinguish selection, appointment, mandate, live authority, suspension, acting office, vacancy and succession. Officeholder departure cannot silently abandon duties or erase original decisions; preserve handover and validate successor authority. Parallel service does not become automatic replacement. **Architecture to be designed — office transfer:** Specify lawful selector, acting-office status and custody of outstanding duties.
 
 
 
@@ -1160,9 +1156,7 @@ The scale and consequence should determine whether ordinary Governance remains c
 
 ## 117.10 Functional sunset and surviving functions
 
-**Source basis:** Bounded Contextual Authority §§5–7,12–13.
-
-Authority derived from a function terminates when that function ends, even before a clock expiry. A maximum duration and review can supplement functional termination. Later inspection, record custody or investigation needs independently justified continuing or successor function. **[LOCAL ISSUE:]** completion signals and duty custody.
+Authority derived from a function terminates when that function ends, even before a clock expiry. A maximum duration and review can supplement functional termination. Later inspection, record custody or investigation needs independently justified continuing or successor function. **Architecture to be designed — functional sunset:** Specify completion signals and custody of surviving duties.
 
 
 
