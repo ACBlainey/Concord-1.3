@@ -404,9 +404,7 @@ Restricted knowledge should still retain provenance and review where appropriate
 
 ## 103.13 Anomaly classification and local verification
 
-**Source basis:** Triadic Epistemics — Recursive GTP Mesh §§31–32 (candidate research).
-
-The recursive epistemic mesh proposes EA-1 civil reality, EA-2 measurement, EA-3 cross-channel, EA-4 spatial, EA-5 scale, EA-6 dependency, EA-7 institutional, EA-8 security, EA-9 temporal and EA-10 unknown anomalies. Candidate verification checks raw data, sensor health, calibration, definitions, software, dependencies, formal channels, participant evidence and cross-scale/functional comparisons, proportionate to consequence. Classification diagnoses uncertainty, not guilt or governing authority. **[LOCAL ISSUE:]** owner routing and independent checks.
+Anomaly classification may distinguish EA-1 civil reality, EA-2 measurement, EA-3 cross-channel, EA-4 spatial, EA-5 scale, EA-6 dependency, EA-7 institutional, EA-8 security, EA-9 temporal and EA-10 unknown anomalies. Verification should check raw data, sensor health, calibration, definitions, software, dependencies, formal channels, participant evidence and cross-scale/functional comparisons, proportionate to consequence. Classification diagnoses uncertainty, not guilt or governing authority. **Architecture to be designed — anomaly verification:** Specify owner routing and independent verification checks.
 
 
 
@@ -539,9 +537,7 @@ Underlying records should therefore remain independently accessible where practi
 
 ## 104.11 Technical credentials and bounded use
 
-**Source basis:** Bounded Contextual Authority §§8–11,18–19.
-
-Broad system credentials do not grant unlimited legitimate use. Repair access does not extend to unrelated protected records. Check current purpose, object, information and rights; audit any unavoidable gap between technical capability and lawful authority. **[LOCAL ISSUE:]** protected projections and privileged operation.
+Broad system credentials do not grant unlimited legitimate use. Repair access does not extend to unrelated protected records. Check current purpose, object, information and rights; audit any unavoidable gap between technical capability and lawful authority. **Architecture to be designed — protected information access:** Specify protected projections and controls on privileged operations.
 
 
 
