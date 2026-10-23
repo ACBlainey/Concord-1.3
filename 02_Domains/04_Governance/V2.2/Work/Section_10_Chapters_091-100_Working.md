@@ -545,7 +545,13 @@ Where practical, major architectural revisions may be:
 
 before civilisation-wide implementation.
 
-## 95.7 Revision Principle
+## 95.7 Revision Authority and Transition
+
+Changing an operational parameter, replacing a domain procedure and amending a constitutional authority boundary are distinct actions. Each requires its own competent decision forum, lawful scope and implementation owner. An ordinary triad cannot enlarge its mandate by classifying constitutional change as maintenance, correction or experiment; GTP spatial expansion likewise creates no superior standing governance tier.
+
+Record the old and new versions, the precise authorised change, the decision event, dependencies, review and transition conditions. Preserve access to the superseded architecture and its reasons without allowing old instructions to execute as if still current. Where revision affects active commitments, provide explicit migration and rollback boundaries rather than silently rewriting prior completed decisions.
+
+## 95.8 Revision Principle
 
 > **Governance architecture should change when evidence justifies change, but revision should preserve provenance, constitutional limits, transition capability and the lessons embodied in the architecture being replaced.**
 
