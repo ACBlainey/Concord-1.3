@@ -1245,7 +1245,7 @@ High-consequence decisions may justify substantial redundancy.
 
 ### Parallel Steward Provenance and Ascension Interface
 
-**Working alignment with shared Stewardship Selection and Allocation; no automatic executive authority.** Historical owns stewardship knowledge and protected contemporaneous records; Education owns training/accreditation; participation tier and office-specific requirements control eligibility. Parallel Stewards independently record reasoning, abstention and **non-official shadow voting indications** before the official outcome is known. These advisory indications do not consume an official position's vote authority or count toward the three official ballots required for ordinary completion. Their records may support later ascension candidacy, but neither agreement with an incumbent nor years served automatically earns promotion, official voting authority or succession.
+**Stewardship selection and allocation interface.** Historical owns stewardship knowledge and protected contemporaneous records; Education owns training/accreditation; participation tier and office-specific requirements control eligibility. Parallel Stewards independently record reasoning, abstention and **non-official shadow voting indications** before the official outcome is known. These advisory indications do not consume an official position's vote authority or count toward the three official ballots required for ordinary completion. Their records may support later ascension candidacy, but neither agreement with an incumbent nor years served automatically earns promotion, official voting authority or succession.
 
 **Reality-anchored but method-agnostic:** preserve later observable evidence alongside frozen original reasoning. No universal performance score, comparator weight or observation window is to be designed before real decision classes and suitable evidence exist. Incumbent agreement alone has no reward; sound independent dissent may prove more informative. Shadow ballots remain advisory until a separate lawful appointment constitutes an official Chapter 12 position.
 
@@ -1253,11 +1253,9 @@ Chapters 28–30 govern emergency succession, degraded triads and deadlock; this
 
 
 
-<!-- V2.1 INTEGRATION 2026-10-13: AUTHORIAL SOURCE RECONCILIATION; DEVELOPMENTAL; REVERSIBLE -->
-
 ## 100.12 Parallel Stewardship Versus Conference and Substitution
 
-Parallel Stewardship remains advisory unless independently appointed to a legally vacant official position. A conference does not promote an adviser into a voter, confer jurisdiction or substitute for an auditable GTP candidate selection. A selected substitute holds one decision-specific bounded position, with uniqueness and conflict checks across the entire decision event. A valid three-holder triad must be constituted before voting; a lawful alternate can occupy an unavailable position. A returning original Steward may reclaim the same position **only before** the alternate commits its official ballot, following current identity, eligibility, conflict, office-state and mandate revalidation. The alternate then ceases to hold that decision-position voting authority; the return creates no fourth ballot or new mandate. Existing committed ballots cannot be displaced. Ordinary effect requires all three official ballots, including a lawful alternate's ballot where applicable. See Integrations 022, 031 and 123.
+Parallel Stewardship remains advisory unless independently appointed to a legally vacant official position. A conference does not promote an adviser into a voter, confer jurisdiction or substitute for an auditable GTP candidate selection. A selected substitute holds one decision-specific bounded position, with uniqueness and conflict checks across the entire decision event. A valid three-holder triad must be constituted before voting; a lawful alternate can occupy an unavailable position. A returning original Steward may reclaim the same position **only before** the alternate commits its official ballot, following current identity, eligibility, conflict, office-state and mandate revalidation. The alternate then ceases to hold that decision-position voting authority; the return creates no fourth ballot or new mandate. Existing committed ballots cannot be displaced. Ordinary effect requires all three official ballots, including a lawful alternate's ballot where applicable. See Chapter 12 for official ballot constitution, substitution and completion, and Chapters 28–30 for emergency continuity.
 
 ### Emergency Oversight, Judicial Separation and Effective Remedy
 
@@ -1271,16 +1269,12 @@ A Parallel Steward becomes a voting substitute only through a separate, position
 
 Temporary substitute authority ends on its defined expiry, completion of the authorised decision or lawful restoration of ordinary office, as applicable. Restoration cannot displace an alternate's already committed official ballot or retroactively revoke its consumed decision-specific authority. Any continuing advisory role remains separate and non-executive.
 
-**Open issue:** resolve the vertex-to-decision-position eligibility mapping and test independence across expanded triads before specifying automatic selection.
+**Architecture to be designed — expanded-triad eligibility:** Specify vertex-to-decision-position eligibility mapping and verify independence across expanded triads before any automatic selection is authorised.
 
 ### 100.14 Advisory Authority Boundary
 
 Parallel Stewardship supplies independent constitutional reasoning, scrutiny and challenge. It does not by itself create an extra voting position, succession entitlement or emergency executive power. A Parallel Steward may serve in another capacity only after separately valid, independently reviewable appointment with explicit eligibility, identity, competence, scope and expiry. Advisory agreement or disagreement is not a constituent or virtual-triad vote.
 
-### Future design architecture — deferred implementation interfaces (G-021)
+### Architecture to Be Designed — Cumulative Restrictions and Review
 
-**ARCHITECTURE TO BE DESIGNED — OUTSIDE CURRENT V2.1 TEXT-INTEGRATION SCOPE.** The principles in this chapter remain operative as stated. The following are design requirements, **not** invented deployed services, automatic authority grants or grounds to delay consolidation. Resolve these at the indicated interfaces when working systems and domain owners exist:
-
-- **G-021 — Architecture to be designed:** Define constitutional cumulative-restriction thresholds, cross-domain evidence visibility, anti-capture review, affected-party notice, contestation and independent remedy.
-
-**Future acceptance evidence:** record accountable owner, actual mandate, state-machine/adapter specification, failure and recovery paths, independent review and provenance. Preserve CAP ≠ PERM ≠ AUTH. Do not mark implementation as tested or operational until supported by real evidence.
+Define constitutional cumulative-restriction thresholds, cross-domain evidence visibility, anti-capture review, affected-party notice, contestation and independent remedy. Implementing owners must establish actual mandate, state-machine or adapter specification, failure and recovery paths, independent review and provenance. Preserve **CAP ≠ PERM ≠ AUTH**. No implementation is to be described as tested or operational without supporting evidence.
