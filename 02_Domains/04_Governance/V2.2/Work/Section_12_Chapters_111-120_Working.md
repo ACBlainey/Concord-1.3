@@ -1158,11 +1158,15 @@ Civil disorder should not automatically trigger broad emergency authority.
 
 The scale and consequence should determine whether ordinary Governance remains competent.
 
-## 117.9 Civil Disorder Principle
+## 117.9 Civil Disorder and Bounded Emergency Response
+
+Civil disorder alone does not suspend normal local governance or permit an emergency coordinator to assume ordinary Steward duties. A lawful emergency action must identify the actual danger, affected scope, competent mandate, independent timebase, rights restrictions, review and termination. The variable Civilisation Clock may be paused, so emergency response cannot depend on its next transition. Ordinary triadic decisions continue to require three official ballots; only a separately authorised emergency action may proceed after two matching ballots where permitted.
+
+## 117.10 Civil Disorder Principle
 
 > **Governance should protect peaceful protest and legitimate disagreement while responding proportionately to serious violence or coercion. Civil disorder must not become a blanket justification for treating dissent as constitutional disloyalty or expanding extraordinary authority beyond actual necessity.**
 
-## 117.10 Functional sunset and surviving functions
+## 117.11 Functional Sunset and Surviving Functions
 
 Authority derived from a function terminates when that function ends, even before a clock expiry. A maximum duration and review can supplement functional termination. Later inspection, record custody or investigation needs independently justified continuing or successor function. **Architecture to be designed — functional sunset:** Specify completion signals and custody of surviving duties.
 
@@ -1315,11 +1319,15 @@ Some rights exist precisely because certain decisions should not depend solely u
 
 Constitutional protections therefore place substantive limits upon legitimate collective authority.
 
-## 118.10 Coercion Principle
+## 118.10 Coercive Action and Separate Execution Authority
+
+A governance decision does not itself grant a Steward, security officer or contractor physical enforcement powers. Any coercive implementation requires a separately competent affected-system mandate, necessity and proportionality checks, defined scope, independent review and an effective remedy. A meeting, group or declaration of urgency cannot acquire authority. Emergency authority applies only to its emergency and expires with its lawful purpose.
+
+## 118.11 Coercion Principle
 
 > **Governance possesses coercive capacity and should therefore examine both direct and hidden coercion. Legitimate coercion requires lawful purpose, necessity, proportionality and review, while dependency, infrastructure control, algorithms or economic leverage must not be allowed to disguise coercion as purely voluntary choice.**
 
-## 118.11 Coercion requires separate necessity
+## 118.12 Coercion Requires Separate Necessity
 
 A legitimate objective does not automatically require compulsory authority: consider voluntary consent, information, coordination and less intrusive means first. Coercion must be lawful, demonstrably necessary, proportionate, limited, reviewable and terminated when function ends. Emergency severity is not an independent coercion grant. **Architecture to be designed — coercion review:** Specify rights tests and effective judicial remedies.
 
@@ -1509,11 +1517,15 @@ Low exit may indicate:
 
 Exit rate is therefore evidence requiring interpretation.
 
-## 119.13 Practical Exit Principle
+## 119.13 Exit, Consent and Non-Punitive Continuity
+
+Exit must remain practicable rather than merely nominal. A lawful departure cannot be converted into indefinite compulsory service by unassigned institutional duties, withheld records or arbitrary transfer conditions. Surviving contractual and safety obligations must be individually identified and assigned through competent lawful mechanisms; they do not authorise indefinite retention of the departing participant. Records, property, privacy, remedies and continuity responsibilities remain distinguishable.
+
+## 119.14 Practical Exit Principle
 
 > **Exit can protect autonomy only where exit is practically possible. Governance should examine economic, social, technical, identity, infrastructure and data dependencies that can turn nominal choice into lock-in, while preserving the principle that fundamental constitutional protections do not disappear merely because a person might theoretically leave the system.**
 
-## 119.14 Exit, office vacancy and continuing obligations
+## 119.15 Exit, Office Vacancy and Continuing Obligations
 
 A participant's exit, a Steward's resignation and an office's vacancy are distinct states. Withdrawal does not retroactively invalidate committed ballots or automatically discharge existing lawful obligations. Identify outstanding duties, their custody, surviving remedies, and the separately constituted actor authorised to continue them. A shadow Steward, neighbouring triad or coarser GTP context does not automatically inherit office. Temporary continuity requires bounded mandate, provenance and termination. **Architecture to be designed — practical exit:** Specify contractual survival, officeholder incapacity, contested exit and lawful duty reassignment.
 
