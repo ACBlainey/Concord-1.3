@@ -1,9 +1,5 @@
 # Governance V2.2 — Section 14 — Chapters 131–140
 
-# V2.1 Section 14 — Clause Integration Draft 003
-
-**Developmental only.** Original V2 source retained; all additions explicitly delimited. Removing proposed blocks and this header must restore the source section.
-
 # Chapter 131 — Governance Across Distance
 
 ## 131.1 Latency
