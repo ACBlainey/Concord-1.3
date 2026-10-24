@@ -349,19 +349,17 @@ Minority reasoning should still be evaluated substantively.
 
 **Source basis:** V1 Governance Component Recovery Map G-R03,G-R13; Expanded Triadic Governance Reconstruction 001.
 
-Preserve the third Steward's mandatory official ballot, independent reasoning and dissent even after two matching valid official ballots determine the mathematical majority; the ordinary outcome cannot take effect until all three official ballots are received. Dissent and abstention are evidence about uncertainty, alternatives and governance health, not disloyalty or automatic incompetence. Parallel Stewardship remains advisory absent independent mandate. **[LOCAL ISSUE:]** protected dissent projections and later review.
+Preserve the third Steward's mandatory official ballot, independent reasoning and dissent even after two matching valid official ballots determine the mathematical majority; the ordinary outcome cannot take effect until all three official ballots are received. Dissent and abstention are evidence about uncertainty, alternatives and governance health, not disloyalty or automatic incompetence. Parallel Stewardship remains advisory absent independent mandate. **Architecture to be designed — protected dissent:** Specify protected dissent projections and later review.
 
 
 
 ## 122.13 Protect minority reality under aggregation
 
-**Audit source:** Triadic Epistemics Direct Adversarial Audit Attack Classes E–G (historical adversarial evidence, not adopted law).
-
-The audit identifies aggregate washout, geographically distributed minorities, rare catastrophic harms and newly recognised sentience classes as ways apparently convergent metrics can conceal consequential suffering. Participant silence may reflect fear, exclusion or death. Protect accessible reporting and independent challenge without automatically treating every report as verified. **[LOCAL ISSUE:]** minority signal retention and privacy.
+The audit identifies aggregate washout, geographically distributed minorities, rare catastrophic harms and newly recognised sentience classes as ways apparently convergent metrics can conceal consequential suffering. Participant silence may reflect fear, exclusion or death. Protect accessible reporting and independent challenge without automatically treating every report as verified. **Architecture to be designed — minority reporting:** Specify minority signal retention and privacy.
 
 ## 122.14 Existing minority-signal provenance and protection interface
 
-Concord **Triadic Decision Making Module** preserves independent Steward reasoning and distinguishes minority dissent from the authority of a committed vote. **KCS Change Propagation** (§16) can represent later evidence corrections as review signals without retroactively cancelling an irrevocable ballot. Protected dissent should be discoverable by legitimately authorised reviewers and affected participants to the extent consistent with confidentiality, consent and safety; it is not a fourth vote, a veto or permission to expose private deliberation. **[LOCAL ISSUE — FI-003, FI-055:]** dissent publication classes, provenance custody, retaliation safeguards and independent challenge routes remain open.
+Independent Steward reasoning preserves minority dissent without giving dissent the authority of a committed vote. **KCS Change Propagation** (§16) can represent later evidence corrections as review signals without retroactively cancelling an irrevocable ballot. Protected dissent should be discoverable by legitimately authorised reviewers and affected participants to the extent consistent with confidentiality, consent and safety; it is not a fourth vote, a veto or permission to expose private deliberation. **Architecture to be designed — dissent protection:** Specify dissent publication classes, provenance custody, retaliation safeguards and independent challenge routes.
 
 # Chapter 123 — Governance and Future Generations
 
