@@ -229,12 +229,17 @@ Re-convergence could involve:
 
 # Chapter 132 — Governance and GTP
 
-### 132.0d Candidate selection integrity and topology neutrality
+### 132.0a Constitutional portability and physical-office distinction
 
-For a lawful one-position node-adjacent substitution, freeze and record the eligible-holder set and GTP geometry revision before a fair selection. The selection procedure must be committed before the outcome is known; screen eligibility and independent appointment, deduplicate verified people across the complete decision event, and record protected exclusions and verifiable randomness evidence. At least two eligible holders require an unbiased draw over **people**, not duplicate office aliases; a single eligible holder is the default subject to all independent legality checks, subject to a neutral, predeclared failure route if eligibility rechecking fails. A failed eligibility recheck must never trigger an outcome-driven redraw. The substitution is one vote position, not an expanded constituent forum.
+GTP is Concord's adopted default spatial reference and coordination architecture, not the source of rights, ethical standing, consent, competence or authority. Any future duly authorised change of spatial implementation must use explicit change control, impact assessment, spatial-reference migration, provenance and continuity of affected rights and duties; this portability safeguard does not imply that GTP is presently an incidental optional module. A Steward's physical office address may lie anywhere appropriately within its assigned triangle; a mathematical vertex is a spatial reference, not a requirement for co-located offices or a superior six-person governing office. Functional, digital and non-territorial jurisdiction remains independently possible alongside the mesh.
 
-For third-and-higher substitution rings, use a **node-centred discovery method** starting from all incident triangles, excluding previously visited triangles and deduplicating positions and verified people. An origin-excluded five-neighbour frontier can create origin-dependent membership and must not be assumed neutral. **Architecture to be designed — outer-ring topology:** Validate irregular nodes, mixed-resolution seams, topology revisions and unbiased selection before operational use.
+### 132.0b Shared competence as a bounded mesh mandate
 
+Overlapping GTP areas may coordinate at several spatial scales simultaneously without creating a superior spatial government. Distinguish nonbinding information coordination, voluntary joint execution within each participant's lawful powers, binding shared competence under an independently legitimate common mandate, and exceptional emergency preservation under separately authorised emergency powers. Shared physical effects, adjacency, population, workload or majority sentiment do not independently grant jurisdiction over a nonconsenting area. Conversely, an already valid constitutional or legal competence spanning areas does not require fresh territorial unanimity unless its own law requires consent.
+
+A shared-competence record should identify the common question and assets, affected participants and nonparticipants, each binding mandate's lawful provenance, scope and rights limits, competent forum and independently valid triadic positions where applicable, implementation responsibilities, effective-time rule, review, contestation, withdrawal, continuity and termination. Consent or delegation cannot exceed the contributing participant's own competence. An opting-out party is not bound merely by a neighbours' agreement, but independently applicable duties remain enforceable through their own legal source. A change in scope or participants requires renewed authority; lawful commitments and continuity obligations may survive withdrawal. An expanded triad is not automatically a cross-jurisdiction legislature.
+
+**Architecture to be designed — shared competence:** instruments for creating or recognising shared competence, third-party rights protections, withdrawal liabilities, infrastructure continuity and timing. No universal unanimity rule, territorial veto or central office is inferred.
 
 ### 132.0c Node-associated Steward positions and bounded substitution rings
 
@@ -248,20 +253,11 @@ For ring three and beyond, the **provisional node-centred enumeration** discover
 
 **Architecture to be designed — substitution implementation:** authoritative office-to-node mappings, contested recusal review, lawful exceptional widening thresholds, independent randomness verification, nonregular nodes, mesh seams and third-ring topology validation.
 
+### 132.0d Candidate selection integrity and topology neutrality
 
-### 132.0b Shared competence as a bounded mesh mandate
+For a lawful one-position node-adjacent substitution, freeze and record the eligible-holder set and GTP geometry revision before a fair selection. The selection procedure must be committed before the outcome is known; screen eligibility and independent appointment, deduplicate verified people across the complete decision event, and record protected exclusions and verifiable randomness evidence. At least two eligible holders require an unbiased draw over **people**, not duplicate office aliases; a single eligible holder is the default subject to all independent legality checks, subject to a neutral, predeclared failure route if eligibility rechecking fails. A failed eligibility recheck must never trigger an outcome-driven redraw. The substitution is one vote position, not an expanded constituent forum.
 
-Overlapping GTP areas may coordinate at several spatial scales simultaneously without creating a superior spatial government. Distinguish nonbinding information coordination, voluntary joint execution within each participant's lawful powers, binding shared competence under an independently legitimate common mandate, and exceptional emergency preservation under separately authorised emergency powers. Shared physical effects, adjacency, population, workload or majority sentiment do not independently grant jurisdiction over a nonconsenting area. Conversely, an already valid constitutional or legal competence spanning areas does not require fresh territorial unanimity unless its own law requires consent.
-
-A shared-competence record should identify the common question and assets, affected participants and nonparticipants, each binding mandate's lawful provenance, scope and rights limits, competent forum and independently valid triadic positions where applicable, implementation responsibilities, effective-time rule, review, contestation, withdrawal, continuity and termination. Consent or delegation cannot exceed the contributing participant's own competence. An opting-out party is not bound merely by a neighbours' agreement, but independently applicable duties remain enforceable through their own legal source. A change in scope or participants requires renewed authority; lawful commitments and continuity obligations may survive withdrawal. An expanded triad is not automatically a cross-jurisdiction legislature.
-
-**Architecture to be designed — shared competence:** instruments for creating or recognising shared competence, third-party rights protections, withdrawal liabilities, infrastructure continuity and timing. No universal unanimity rule, territorial veto or central office is inferred.
-
-
-### 132.0a Constitutional portability and physical-office distinction
-
-GTP is Concord's adopted default spatial reference and coordination architecture, not the source of rights, ethical standing, consent, competence or authority. Any future duly authorised change of spatial implementation must use explicit change control, impact assessment, spatial-reference migration, provenance and continuity of affected rights and duties; this portability safeguard does not imply that GTP is presently an incidental optional module. A Steward's physical office address may lie anywhere appropriately within its assigned triangle; a mathematical vertex is a spatial reference, not a requirement for co-located offices or a superior six-person governing office. Functional, digital and non-territorial jurisdiction remains independently possible alongside the mesh.
-
+For third-and-higher substitution rings, use a **node-centred discovery method** starting from all incident triangles, excluding previously visited triangles and deduplicating positions and verified people. An origin-excluded five-neighbour frontier can create origin-dependent membership and must not be assumed neutral. **Architecture to be designed — outer-ring topology:** Validate irregular nodes, mixed-resolution seams, topology revisions and unbiased selection before operational use.
 
 ## 132.0 GTP Mesh Governance Architecture
 
