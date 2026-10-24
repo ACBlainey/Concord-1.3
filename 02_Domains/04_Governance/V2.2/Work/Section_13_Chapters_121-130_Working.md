@@ -1260,7 +1260,7 @@ Each selected position has exactly one official ballot. An alternate may lawfull
 
 > **Automated systems may legitimately execute or, where explicitly authorised and validated, decide within bounded domains, but increasing capability or routine reliance must not silently transform technical function into constitutional authority. Where human oversight is claimed, the human must possess the practical capacity and authority to exercise real judgement.**
 
-## 127.15 AI capability is not decision authority
+## 127.16 AI capability is not decision authority
 
 The architecture separates substrate capability, permission, participant standing, function-specific competence, lawful appointment, mandate and decision-event authority. AI analysis can be decisive evidence without itself becoming a fourth Steward vote or an unappointed substitute. Where an AI is independently qualified and legitimately appointed to an authorised office, its vote follows the same context-specific official-ballot rules; no generic algorithmic delegation can shortcut those gates. **Architecture to be designed — AI office eligibility:** Specify AI office eligibility, continuity identity, accreditation and role-specific host enforcement.
 
@@ -1541,11 +1541,11 @@ Constitutional standing identifies an entity's civil status and applicable prote
 
 Any future AI or hybrid Steward eligibility rules must preserve independent competence assessment, legitimate appointment, the same triadic selection and voting gates, and separation from provider control. **Architecture to be designed — substrate-inclusive appointment:** Specify continuity identity, competence thresholds, independence verification, appointment and replacement mechanisms without presuming that standing alone grants governance office.
 
-## 128.21 Standing Principle
+## 128.20 Standing Principle
 
 > **AI constitutional standing should be determined through explicit constitutional and evidential development rather than utility, intelligence, ownership status or operational dependence alone. Questions of sentience, agency, identity, continuity, vulnerability and responsibility may require separate analysis, with proportionate respect before certainty where irreversible harm under genuine uncertainty is plausible.**
 
-## 128.20 Participant evidence and substrate accessibility
+## 128.21 Participant evidence and substrate accessibility
 
 Participant experience is a distinct evidence pathway whose absence may reflect inability, fear, access barriers, sampling bias or genuinely absent harm. Human, AI and hybrid reports need accessible, privacy-respecting routes. Correlated testimony may share information sources and must be examined without erasing genuine minority harm. **Architecture to be designed — AI reporting:** Specify anonymity, anti-manipulation and substrate-specific reporting.
 
