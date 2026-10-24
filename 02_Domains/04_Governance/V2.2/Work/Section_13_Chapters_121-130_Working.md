@@ -865,13 +865,11 @@ These conflicts should not be ignored merely because the AI was originally deplo
 
 ## 125.13 AI dependency and effective power
 
-**Recovered source:** Governance Operating Boundary and Authority Lifecycle §§14–15,19–20.
-
-Dependence on one model, provider or compute infrastructure creates possible de facto governance power without formal votes. Preserve independent alternatives and exit routes; assess aggregate technical control and covert agenda, evidence or execution capture. **[LOCAL ISSUE:]** portability and continuity.
+Dependence on one model, provider or compute infrastructure creates possible de facto governance power without formal votes. Preserve independent alternatives and exit routes; assess aggregate technical control and covert agenda, evidence or execution capture. **Architecture to be designed — AI dependency:** Specify portability and continuity.
 
 ## 125.14 Existing model dependency and knowledge independence checks
 
-Concord **KCS Change Propagation** (§§16, 20, 24) can represent materially dependent analytical claims and review triggers without giving an upstream model or supplier authority over downstream governance. **Multi-Key Authority** (§§17, 19) prevents nominally independent recommendations from being treated as separate constitutional keys when their authority sources are not independently grounded. **Private Local Evaluation** permits bounded protected queries where full disclosure would expose participants or sensitive infrastructure. A triadic decision must not be treated as epistemically independent merely because three different interfaces deliver the same model-dependent answer. **[LOCAL ISSUE — FI-056, FI-072, FI-073:]** actual model lineage verification, independent evidence, adversarial testing and execution-path safeguards remain to be validated.
+Concord **KCS Change Propagation** (§§16, 20, 24) can represent materially dependent analytical claims and review triggers without giving an upstream model or supplier authority over downstream governance. **Multi-Key Authority** (§§17, 19) prevents nominally independent recommendations from being treated as separate constitutional keys when their authority sources are not independently grounded. **Private Local Evaluation** permits bounded protected queries where full disclosure would expose participants or sensitive infrastructure. A triadic decision must not be treated as epistemically independent merely because three different interfaces deliver the same model-dependent answer. **Architecture to be designed — model independence:** Specify model-lineage verification, independent evidence, adversarial testing and execution-path safeguards.
 
 # Chapter 126 — Governance and AI Advice
 
@@ -1058,19 +1056,17 @@ Responsibility should follow the actual architecture of:
 
 **Source basis:** Governance Operating Boundary and Authority Lifecycle §§8,15–16; GTP Spatial Triadic Governance V1.2 Architecture Recovery §17.
 
-AI advice and epistemic triads provide evidence and uncertainty, not extra governance votes. Technical capability and recommendations do not confer authority. The Steward remains responsible for articulate decisions and evidence provenance. **[LOCAL ISSUE:]** Protected data, AI identity and evidence audit.
+AI advice and epistemic triads provide evidence and uncertainty, not extra governance votes. Technical capability and recommendations do not confer authority. The Steward remains responsible for articulate decisions and evidence provenance. **Architecture to be designed — AI advice:** Specify protected-data access, AI identity and evidence audit.
 
 
 
 ## 126.15 AI consensus and common-mode dependency
 
-**Source basis:** Epistemic Independence, Contestability and Provenance §§6–9,17,50.
-
-Thousands of model responses may reflect one shared dataset, architecture or training assumption. Count independent evidential pathways rather than output volume; preserve dissent, uncertainty, calibration and challenge. AI analysis may justify attention or investigation but cannot become a vote or authority claim without separate lawful office mandate. **[LOCAL ISSUE:]** dependency-aware convergence and model disclosure.
+Thousands of model responses may reflect one shared dataset, architecture or training assumption. Count independent evidential pathways rather than output volume; preserve dissent, uncertainty, calibration and challenge. AI analysis may justify attention or investigation but cannot become a vote or authority claim without separate lawful office mandate. **Architecture to be designed — AI consensus:** Specify dependency-aware convergence and model disclosure.
 
 ## 126.16 Existing participant reporting and protected local evaluation interface
 
-Concord **Civil Attention Reporting Petition and Resolution** supplies multiple civil intake classes, routing and return of outcomes; **Private Local Evaluation** supplies bounded evaluation where sensitive source data need not be released. Experiential reports can indicate a neglected harm or a mistaken governance question without being treated as a direct vote, verified evidence or a basis for covert identity linkage. Duplicate/manipulated reports require proportionate source-quality checks and protected challenge rather than blanket rejection of anonymous participants. **[LOCAL ISSUE — FI-057, FI-038:]** channel sampling, anti-manipulation tests, protected identity boundary and owner response standards remain open.
+Concord **Civil Attention Reporting Petition and Resolution** supplies multiple civil intake classes, routing and return of outcomes; **Private Local Evaluation** supplies bounded evaluation where sensitive source data need not be released. Experiential reports can indicate a neglected harm or a mistaken governance question without being treated as a direct vote, verified evidence or a basis for covert identity linkage. Duplicate/manipulated reports require proportionate source-quality checks and protected challenge rather than blanket rejection of anonymous participants. **Architecture to be designed — civil reporting:** Specify channel sampling, anti-manipulation tests, protected identity boundaries and owner response standards.
 
 # Chapter 127 — Governance and AI Decision Authority
 
