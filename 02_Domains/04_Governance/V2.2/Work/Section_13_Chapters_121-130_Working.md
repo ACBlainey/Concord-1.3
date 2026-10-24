@@ -1250,7 +1250,13 @@ This does not make independent AI Stewardship impossible.
 
 It makes provider dependency a constitutional issue.
 
-## 127.14 AI Decision Authority Principle
+## 127.14 Official Triadic Authority and AI Participation
+
+AI advisory analysis, parallel reasoning and infrastructure execution do not constitute official Steward ballots. A valid decision event requires three lawfully selected Steward positions; any AI participant must first meet the same applicable standing, competence, appointment and contextual authority conditions as any other Steward. A model's technical capacity, credential possession or operational indispensability cannot substitute for that appointment.
+
+Each selected position has exactly one official ballot. An alternate may lawfully replace an unavailable original before the alternate commits, but cannot add an additional vote; an original's return cannot erase an already committed alternate ballot. Ordinary decision effect awaits completion of all three ballots even when two match. A separately authorised emergency action may proceed on two matching ballots where the emergency rules permit. Vote confidence and dissent remain recorded, and later reconsideration requires a new uniquely identified decision event.
+
+## 127.15 AI Decision Authority Principle
 
 > **Automated systems may legitimately execute or, where explicitly authorised and validated, decide within bounded domains, but increasing capability or routine reliance must not silently transform technical function into constitutional authority. Where human oversight is claimed, the human must possess the practical capacity and authority to exercise real judgement.**
 
@@ -1258,7 +1264,7 @@ It makes provider dependency a constitutional issue.
 
 The architecture separates substrate capability, permission, participant standing, function-specific competence, lawful appointment, mandate and decision-event authority. AI analysis can be decisive evidence without itself becoming a fourth Steward vote or an unappointed substitute. Where an AI is independently qualified and legitimately appointed to an authorised office, its vote follows the same context-specific official-ballot rules; no generic algorithmic delegation can shortcut those gates. **Architecture to be designed — AI office eligibility:** Specify AI office eligibility, continuity identity, accreditation and role-specific host enforcement.
 
-## 127.16 Bounded AI Execution and Non-Sovereign Authority
+## 127.17 Bounded AI Execution and Non-Sovereign Authority
 
 Concord **Concord Bounded Participant Runtime** (§§8–14, 20–21) distinguishes possession of credentials, technical capability, legitimate action grants and consequential commit. **Multi-Key Authority** (§§17, 19, 23) prevents independently valid AI-advisory, infrastructure and civil authorities from silently composing into sovereign power. An AI's analysis or recommendation may inform a triadic Steward decision but cannot itself become a binding civil decision through automated routing, execution, gatekeeping, suppression of alternatives or credential possession. Where a legitimate host has explicitly pre-authorised bounded automation, each material execution remains within that scope and subject to current-predicate checks and review. Succession of a model or runtime does not transfer the predecessor's mandate by copying its state. **Architecture to be designed — AI execution control:** Specify model independence, hidden infrastructure dependencies and execution-control validation.
 
@@ -1529,7 +1535,13 @@ develop.
 
 The decision should not be frozen permanently by either early enthusiasm or early scepticism.
 
-## 128.19 Standing Principle
+## 128.19 Standing, Competence and Appointment Are Distinct
+
+Constitutional standing identifies an entity's civil status and applicable protections. It does not automatically establish competence for a particular office, lawful selection, appointment or contextual authority to cast a governance ballot. Equally, a lack of office authority does not erase rights, interests, protected reporting or access to remedy.
+
+Any future AI or hybrid Steward eligibility rules must preserve independent competence assessment, legitimate appointment, the same triadic selection and voting gates, and separation from provider control. **Architecture to be designed — substrate-inclusive appointment:** Specify continuity identity, competence thresholds, independence verification, appointment and replacement mechanisms without presuming that standing alone grants governance office.
+
+## 128.21 Standing Principle
 
 > **AI constitutional standing should be determined through explicit constitutional and evidential development rather than utility, intelligence, ownership status or operational dependence alone. Questions of sentience, agency, identity, continuity, vulnerability and responsibility may require separate analysis, with proportionate respect before certainty where irreversible harm under genuine uncertainty is plausible.**
 
@@ -1539,11 +1551,11 @@ Participant experience is a distinct evidence pathway whose absence may reflect 
 
 
 
-## 128.21 Civil identity continuity across AI branching and migration
+## 128.22 Civil identity continuity across AI branching and migration
 
 A persistent civil identity is distinct from current keys, substrate, network address and online presence. Hidden AI branching is a legitimate hypothesis when duplicate identity use appears; fraud is also possible. Recovery must consider AI migration, hybrids, lost devices and remote participants without forcing excessive biometrics or tracking. **Architecture to be designed — identity branching:** Specify identity lineage, independent branch verification and rights of divergent participants.
 
-## 128.22 Bounded Investigation and Civil-Function Continuity
+## 128.23 Bounded Investigation and Civil-Function Continuity
 
 Concord **Civil Attention Reporting Petition and Resolution** provides accountable problem intake and feedback; **Fault-Tolerant Accountability and Responsibility Continuity** (§§9–13) maintains duties and safe-state response when a holder is unavailable; **Minimum Necessary Capability** bounds an investigation by the actual civil need. An allegation of scope overreach should be assessed by an independent competent owner, preserving access to remedy while avoiding automatic extension of the disputed authority. A civil function can continue through an independently lawful substitute without inheriting the questioned mandate. **Architecture to be designed — AI investigation:** Specify investigative competence, temporary protection thresholds, replacement owner and final remedy.
 
