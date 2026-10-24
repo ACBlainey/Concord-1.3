@@ -267,7 +267,7 @@ A shared-competence record should identify the common question and assets, affec
 GTP is Concord's adopted default spatial reference and coordination architecture, not the source of rights, ethical standing, consent, competence or authority. Any future duly authorised change of spatial implementation must use explicit change control, impact assessment, spatial-reference migration, provenance and continuity of affected rights and duties; this portability safeguard does not imply that GTP is presently an incidental optional module. A Steward's physical office address may lie anywhere appropriately within its assigned triangle; a mathematical vertex is a spatial reference, not a requirement for co-located offices or a superior six-person governing office. Functional, digital and non-territorial jurisdiction remains independently possible alongside the mesh.
 
 
-## 132.0 Consolidated working architecture
+## 132.0 GTP Mesh Governance Architecture
 
 **Status:** Consolidated V2.1 developmental reading assembled from existing recovered and reconciled clauses below. The retained V2 source wording, Candidate 014, source-conflict registers and authorial clarifications remain as evidence, not parallel competing operative rules. No constitutional graduation or implementation validation is asserted.
 
@@ -454,7 +454,6 @@ The principle is:
 
 Its use must preserve subsidiarity, representation, cultural context, practical rights, lawful delegation and the possibility of properly authorised constitutional evolution.
 
-<!-- V2.1 INTEGRATION 2026-10-13: AUTHORIAL SOURCE RECONCILIATION; DEVELOPMENTAL; REVERSIBLE -->
 The node-based substitution geometry, shared-competence limits and contextual conference safeguards are consolidated in Sections 132.0–132.5 and Chapter 12. Historical vertex terminology denotes the same abstract node, not a physical office or shared six-person government.
 
 ## 132.13 Persistent geometry — implementation and continuity qualification
@@ -465,14 +464,14 @@ The operative rule in §§132.0, 132.1 and 132.4 is that **all GTP geometric lev
 
 **[LOCAL VALIDATION:]** Determine numeric workload thresholds and persistence windows, asymmetric activation across the four child contexts, lawful officeholder allocation and continuity, mixed-resolution seams and node incidence, independent cross-context consent and anti-capture controls. Historical reconstruction is retained in the V1–V1.2 sources; no additional spatial hierarchy or implementation readiness is implied.
 
-## 132.14 Existing Module Interfaces and Remaining GTP Implementation Boundaries
+## 132.14 GTP Implementation Boundaries and Cross-System Interfaces
 
 **Existing architecture applied.** **State and Maturity Mapping** supplies context-relative workload and capacity observations, not a spatial jurisdiction grant. **Cross Boundary Externality Recognition** (§§15–17) distinguishes internal, overlapping, shared, disputed and unknown competence; **Fractal Permission Architecture** and **Multi-Key Authority** prevent adjacency, shared infrastructure or independently valid permissions from manufacturing a new common mandate. The operative spatial and substitution rules are consolidated in §§132.0–132.13 above; they are not restated here as a parallel rule.
 
 **Implementation boundary [FI-004, FI-006, FI-009, FI-010, FI-059, FI-061].** The ordinary six incident triangle-owned positions, first/second ring candidate construction and provisional node-centred outer-ring method are described in §132.0c. Remaining validation concerns nonregular nodes, mixed-resolution seams, unbiased distinct-person selection, mesh-revision freezing, dynamic workload hysteresis and independent lawful appointment. Historical source conflict is resolved in favour of the nonhierarchical, all-resolutions-present working interpretation; this does not certify implementation or graduate provisional topology.
 
 
-### Future design architecture — deferred implementation interfaces (G-010)
+### Architecture to Be Designed — GTP Implementation Interfaces
 
 **ARCHITECTURE TO BE DESIGNED — OUTSIDE CURRENT V2.1 TEXT-INTEGRATION SCOPE.** The principles in this chapter remain operative as stated. The following are design requirements, **not** invented deployed services, automatic authority grants or grounds to delay consolidation. Resolve these at the indicated interfaces when working systems and domain owners exist:
 
