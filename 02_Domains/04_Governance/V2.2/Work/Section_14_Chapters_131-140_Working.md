@@ -450,6 +450,73 @@ Its use must preserve subsidiarity, representation, cultural context, practical 
 
 The node-based substitution geometry, shared-competence limits and contextual conference safeguards are consolidated in Sections 132.0–132.5 and Chapter 12. Historical vertex terminology denotes the same abstract node, not a physical office or shared six-person government.
 
+### 132.12a Cross-Scale Coordination and Execution Boundaries
+
+### Optional bounded hierarchical coordination across GTP scales
+
+**Authorial clarification (12 October 2026):** The GTP spatial abstraction is continuously available at every resolution. Geometric parent/child relationships do **not** constitute a hierarchy of governance, confer jurisdiction or create superior offices. Independently lawful, task-bounded hierarchical *coordination* may be authorised, but it does not arise from geometry. Concurrent and overlapping nonhierarchical mesh coordination remains the normal model.
+
+**However, hierarchy is not constitutionally prohibited as a coordination arrangement.** Where a legitimate task or circumstance warrants it, participants or competent governance bodies may establish a **purpose-specific, bounded hierarchical coordination relationship** between functions operating at different spatial scales. This is a permitted possibility, **not** a standing territorial chain of command, default superior/subordinate relationship, prescribed structure or self-executing delegation.
+
+Any such arrangement requires an independently valid lawful basis and relevant consent/authority where applicable, identifiable purpose and scope, accountable participants, reviewability, and a lawful means of modification or termination. The geometric containment of one GTP triangle within another cannot by itself authorise direction, override an independently competent Steward, or expand a mandate. Hierarchical **coordination** and hierarchical **decision authority** must be distinguished; any actual binding authority needs its own separately legitimate source and limits.
+
+**Intentionally open:** No universal circumstances, trigger, chain of command, level, voting procedure or hierarchy-design algorithm are prescribed here. Those depend on the actual task and independently applicable constitutional and domain rules. This clarification qualifies categorical readings of earlier nonhierarchy wording without reinstating the obsolete assumption that GTP is inherently a territorial command hierarchy. All prior source text is retained for clause-level reconciliation.
+
+
+
+### Legacy-clause interpretive reconciliation: nested geometry and optional coordination
+
+**Working interpretation, subject to authorial clause approval.** Older §132.1 describes “neutral hierarchical territorial partitioning” and older §132.5 says the GTP hierarchical structure “may support nested jurisdiction”; later §132.5 says larger cells do not acquire command power and that local decisions remain with the lowest capable legitimate field. Read these without suppressing any source text: **hierarchical** can describe nested *geometry*; a task may additionally adopt a bounded *hierarchical coordination* arrangement, but neither description constitutes an inherent superior governing office. A legally constituted hierarchy of **binding decision authority** is possible only if its independent lawful source expressly supports that relationship; this is not supplied by the geometry or by a general permission to coordinate.
+
+The “lowest capable legitimate decision field” is a default subsidiarity preference, **not an absolute bar** to a lawfully authorised cross-scale task arrangement. A wider coordination role may be useful without displacing local lawful competence. The author has intentionally left when, how and at what scale such an arrangement might be used undefined; no generic command chain, hierarchical escalation trigger or appointment method should be inserted now.
+
+### GTP voting competence and external implementation authority
+
+**Authorial rule (12 October 2026):** Whether a triad operates locally, through a lawful expanded virtual triad, across concurrent GTP scales, or within optional hierarchical coordination, the Steward triad holds **bounded authority to vote**, not automatic authority to execute the decision. Geometry, scale, coordination rank, a resultant vote or a valid majority cannot manufacture the implementing actor's separately held constitutional or domain authority.
+
+Record separately the voting forum and decision event, resultant/majority provenance, and the competent implementation owner and mandate. Cross-cell agreement may determine a valid vote without transferring operational jurisdiction or resources. Any binding action requires independent lawful implementation authority and its own checks at the act; optional hierarchical coordination does not change this separation.
+
+
+
+### GTP voting drives state machine; geometry does not execute
+
+**Authorial correction:** In local, expanded, overlapping multiscale and optionally hierarchical GTP coordination, the authorised triadic vote determines the relevant decision outcome and drives the lawfully defined **state-machine transition**. The triad's authority is to vote, not to personally implement the downstream consequences. An expanded triad's bounded resultant occupies one authorised decision position; the correct decision event must be accepted by the actual competent host state machine, never inferred from GTP nesting or coordination hierarchy. Any separate operational act requires the responsible actor's independently valid authority.
+
+Do not mistake BTA's cross-system transition record for a source of jurisdiction or a universal executor; host state-machine ownership, transition predicates, legal effective time and downstream implementation contracts remain to be located and reconciled.
+
+
+
+### Cross-scale decisions and distributed domain execution
+
+A GTP-local, expanded or cross-scale vote may lawfully determine a shared decision state, including under optional bounded hierarchical coordination. It **does not centralise action authority**. Each affected system and jurisdiction retains its own bounded authority rules for resulting acts; GTP geometry, constituent resultants and coordination arrangements supply no substitute. Multi-system consequences may be asynchronous and partially implemented, and must retain per-system owner, mandate, state, review and provenance. BTA relates transitions; it does not impose a single implementing authority.
+
+
+
+### GTP does not predetermine post-vote execution topology
+
+GTP geometry, mesh coverage, an expanded resultant or optional hierarchical coordination do not tell us in advance what a triad will decide, which systems its decision will affect, or who will act. The actual lawful vote and resulting decision-state transition determine which consequences require resolution. Only then can relevant domain-specific bounded authority and actual actors be established, potentially across several systems or spatial scales. Do not impose a fixed cross-cell executor, hierarchical command route or mandatory multi-system fan-out on every vote. Preserve unknown and non-action outcomes explicitly.
+
+
+
+
+### GTP spatial offices do not establish appointment hierarchy
+
+**Working source-preserving cross-reference (12 October 2026):** GTP's recursively available spatial positions provide an organising and coordination context, not an independent authority to appoint, supervise or command Stewards. Steward office vacancies and qualified candidate ascension may be handled by an HR-like process and potentially a **specially bounded appointing Steward or board**, but this is an **authorial provisional outline only**, not enacted appointment machinery. The appointer's possible authority would concern the appointment act, not a superior position in the spatial mesh. The first-Steward bootstrap and subsequent ordinary appointments are distinct open questions. See `03_Cross_Domain_Architecture/Stewardship_Selection_and_Allocation/README.md` §§10–13 and Governance V2.1 `Outstanding_Issues_Register.md`.
+
+**Constitution and completion:** Three lawfully selected Steward holders must constitute the triad before voting. Two independently valid matching official ballots settle the mathematical majority, but all three official ballots are mandatory before ordinary effect; the third also contributes epistemic and historical evidence. Only separately authorised emergency action may trigger after two matching ballots. Do not infer from six vertex associations, conceptual triangles or concurrently used GTP scales that a particular human/AI Steward is appointed, qualified or entitled to vote. These are separate questions of legitimate office and contextual authority. Preserve optional bounded cross-scale coordination without inferring a spatial governing hierarchy.
+
+
+
+### GTP mesh decisions are separate historical state-machine instances (12 October 2026)
+
+**Authorial cross-chapter alignment:** GTP's permanently available conceptual tessellation and simultaneous operating scales do not create a persistent decision event or transfer voting authority between triangles. Once an authorised triadic decision has completed its state-machine transition, its result and provenance are historical and cannot be reopened by an overlapping scale, newly selected triangle, returning Steward or altered geometry. Any later decision, even about the same spatial area or prior issue, is a **new instance** requiring newly activated, independently legitimate contextual authority, a fresh decision-event identity and current competence/participant checks. A cross-scale handoff or technical retry cannot silently manufacture a new vote or duplicate the prior effect. Subsequent decisions may change the current spatial/operational state or order lawful remedy without rewriting historical decisions. The HR-style Steward appointment and founding-bootstrap outline remain provisional, not an authority source. See Governance V2.1 Integration 018 and the Chapter 12 decision-finality clarification.
+
+
+### Unique IDs across overlapping GTP scales (12 October 2026)
+
+**Authorial clarification:** Each triadic decision at any GTP scale is a uniquely identified state-machine instance. Concurrent scales, overlapping triangles, repeated spatial routing or a later scale handoff do **not** reset an existing decision's state, create another vote under its ID or duplicate its resultant actions. Each authorised vote and each resultant action is accepted against the current state of that decision and, where distinct actions exist, the individual action's recorded state. After the relevant transition, duplicate delivery has no further operative effect. A fresh decision on the same area or issue has a **new ID and freshly activated legitimate authority**; the new identifier is not itself an authority grant. Technical retries of an incomplete transition preserve the original identity and must be idempotent. The spatial mesh supplies coordination context, not a power to fork completed decisions.
+
+
 ## 132.13 Persistent geometry — implementation and continuity qualification
 
 The operative rule in §§132.0, 132.1 and 132.4 is that **all GTP geometric levels always exist**, including four geometrical child triangles per triangle; activating a level changes assigned operational coverage, not the lattice. The three triangle-owned Steward positions are a separate governance structure, and spatial parent/child never denotes command rank. Coarse, fine and overlapping legitimate functions may coexist.
@@ -2201,68 +2268,3 @@ Market evidence should therefore inform but not define the constitutional object
 ## 140.19 Markets Principle
 
 > **Markets can provide powerful decentralised coordination and discovery, but market price, contribution, wealth or ability to pay should not determine constitutional worth or rights. Governance should compare real institutional alternatives, preserving competition and autonomy where markets function well while addressing monopoly, externality, dependency and other failures without assuming public intervention is itself failure-free.**
-
-
-### Optional bounded hierarchical coordination across GTP scales
-
-**Authorial clarification (12 October 2026):** The GTP spatial abstraction is continuously available at every resolution. Geometric parent/child relationships do **not** constitute a hierarchy of governance, confer jurisdiction or create superior offices. Independently lawful, task-bounded hierarchical *coordination* may be authorised, but it does not arise from geometry. Concurrent and overlapping nonhierarchical mesh coordination remains the normal model.
-
-**However, hierarchy is not constitutionally prohibited as a coordination arrangement.** Where a legitimate task or circumstance warrants it, participants or competent governance bodies may establish a **purpose-specific, bounded hierarchical coordination relationship** between functions operating at different spatial scales. This is a permitted possibility, **not** a standing territorial chain of command, default superior/subordinate relationship, prescribed structure or self-executing delegation.
-
-Any such arrangement requires an independently valid lawful basis and relevant consent/authority where applicable, identifiable purpose and scope, accountable participants, reviewability, and a lawful means of modification or termination. The geometric containment of one GTP triangle within another cannot by itself authorise direction, override an independently competent Steward, or expand a mandate. Hierarchical **coordination** and hierarchical **decision authority** must be distinguished; any actual binding authority needs its own separately legitimate source and limits.
-
-**Intentionally open:** No universal circumstances, trigger, chain of command, level, voting procedure or hierarchy-design algorithm are prescribed here. Those depend on the actual task and independently applicable constitutional and domain rules. This clarification qualifies categorical readings of earlier nonhierarchy wording without reinstating the obsolete assumption that GTP is inherently a territorial command hierarchy. All prior source text is retained for clause-level reconciliation.
-
-
-
-### Legacy-clause interpretive reconciliation: nested geometry and optional coordination
-
-**Working interpretation, subject to authorial clause approval.** Older §132.1 describes “neutral hierarchical territorial partitioning” and older §132.5 says the GTP hierarchical structure “may support nested jurisdiction”; later §132.5 says larger cells do not acquire command power and that local decisions remain with the lowest capable legitimate field. Read these without suppressing any source text: **hierarchical** can describe nested *geometry*; a task may additionally adopt a bounded *hierarchical coordination* arrangement, but neither description constitutes an inherent superior governing office. A legally constituted hierarchy of **binding decision authority** is possible only if its independent lawful source expressly supports that relationship; this is not supplied by the geometry or by a general permission to coordinate.
-
-The “lowest capable legitimate decision field” is a default subsidiarity preference, **not an absolute bar** to a lawfully authorised cross-scale task arrangement. A wider coordination role may be useful without displacing local lawful competence. The author has intentionally left when, how and at what scale such an arrangement might be used undefined; no generic command chain, hierarchical escalation trigger or appointment method should be inserted now.
-
-### GTP voting competence and external implementation authority
-
-**Authorial rule (12 October 2026):** Whether a triad operates locally, through a lawful expanded virtual triad, across concurrent GTP scales, or within optional hierarchical coordination, the Steward triad holds **bounded authority to vote**, not automatic authority to execute the decision. Geometry, scale, coordination rank, a resultant vote or a valid majority cannot manufacture the implementing actor's separately held constitutional or domain authority.
-
-Record separately the voting forum and decision event, resultant/majority provenance, and the competent implementation owner and mandate. Cross-cell agreement may determine a valid vote without transferring operational jurisdiction or resources. Any binding action requires independent lawful implementation authority and its own checks at the act; optional hierarchical coordination does not change this separation.
-
-
-
-### GTP voting drives state machine; geometry does not execute
-
-**Authorial correction:** In local, expanded, overlapping multiscale and optionally hierarchical GTP coordination, the authorised triadic vote determines the relevant decision outcome and drives the lawfully defined **state-machine transition**. The triad's authority is to vote, not to personally implement the downstream consequences. An expanded triad's bounded resultant occupies one authorised decision position; the correct decision event must be accepted by the actual competent host state machine, never inferred from GTP nesting or coordination hierarchy. Any separate operational act requires the responsible actor's independently valid authority.
-
-Do not mistake BTA's cross-system transition record for a source of jurisdiction or a universal executor; host state-machine ownership, transition predicates, legal effective time and downstream implementation contracts remain to be located and reconciled.
-
-
-
-### Cross-scale decisions and distributed domain execution
-
-A GTP-local, expanded or cross-scale vote may lawfully determine a shared decision state, including under optional bounded hierarchical coordination. It **does not centralise action authority**. Each affected system and jurisdiction retains its own bounded authority rules for resulting acts; GTP geometry, constituent resultants and coordination arrangements supply no substitute. Multi-system consequences may be asynchronous and partially implemented, and must retain per-system owner, mandate, state, review and provenance. BTA relates transitions; it does not impose a single implementing authority.
-
-
-
-### GTP does not predetermine post-vote execution topology
-
-GTP geometry, mesh coverage, an expanded resultant or optional hierarchical coordination do not tell us in advance what a triad will decide, which systems its decision will affect, or who will act. The actual lawful vote and resulting decision-state transition determine which consequences require resolution. Only then can relevant domain-specific bounded authority and actual actors be established, potentially across several systems or spatial scales. Do not impose a fixed cross-cell executor, hierarchical command route or mandatory multi-system fan-out on every vote. Preserve unknown and non-action outcomes explicitly.
-
-
-
-
-### GTP spatial offices do not establish appointment hierarchy
-
-**Working source-preserving cross-reference (12 October 2026):** GTP's recursively available spatial positions provide an organising and coordination context, not an independent authority to appoint, supervise or command Stewards. Steward office vacancies and qualified candidate ascension may be handled by an HR-like process and potentially a **specially bounded appointing Steward or board**, but this is an **authorial provisional outline only**, not enacted appointment machinery. The appointer's possible authority would concern the appointment act, not a superior position in the spatial mesh. The first-Steward bootstrap and subsequent ordinary appointments are distinct open questions. See `03_Cross_Domain_Architecture/Stewardship_Selection_and_Allocation/README.md` §§10–13 and Governance V2.1 `Outstanding_Issues_Register.md`.
-
-**Constitution and completion:** Three lawfully selected Steward holders must constitute the triad before voting. Two independently valid matching official ballots settle the mathematical majority, but all three official ballots are mandatory before ordinary effect; the third also contributes epistemic and historical evidence. Only separately authorised emergency action may trigger after two matching ballots. Do not infer from six vertex associations, conceptual triangles or concurrently used GTP scales that a particular human/AI Steward is appointed, qualified or entitled to vote. These are separate questions of legitimate office and contextual authority. Preserve optional bounded cross-scale coordination without inferring a spatial governing hierarchy.
-
-
-
-### GTP mesh decisions are separate historical state-machine instances (12 October 2026)
-
-**Authorial cross-chapter alignment:** GTP's permanently available conceptual tessellation and simultaneous operating scales do not create a persistent decision event or transfer voting authority between triangles. Once an authorised triadic decision has completed its state-machine transition, its result and provenance are historical and cannot be reopened by an overlapping scale, newly selected triangle, returning Steward or altered geometry. Any later decision, even about the same spatial area or prior issue, is a **new instance** requiring newly activated, independently legitimate contextual authority, a fresh decision-event identity and current competence/participant checks. A cross-scale handoff or technical retry cannot silently manufacture a new vote or duplicate the prior effect. Subsequent decisions may change the current spatial/operational state or order lawful remedy without rewriting historical decisions. The HR-style Steward appointment and founding-bootstrap outline remain provisional, not an authority source. See Governance V2.1 Integration 018 and the Chapter 12 decision-finality clarification.
-
-
-### Unique IDs across overlapping GTP scales (12 October 2026)
-
-**Authorial clarification:** Each triadic decision at any GTP scale is a uniquely identified state-machine instance. Concurrent scales, overlapping triangles, repeated spatial routing or a later scale handoff do **not** reset an existing decision's state, create another vote under its ID or duplicate its resultant actions. Each authorised vote and each resultant action is accepted against the current state of that decision and, where distinct actions exist, the individual action's recorded state. After the relevant transition, duplicate delivery has no further operative effect. A fresh decision on the same area or issue has a **new ID and freshly activated legitimate authority**; the new identifier is not itself an authority grant. Technical retries of an incomplete transition preserve the original identity and must be idempotent. The spatial mesh supplies coordination context, not a power to fork completed decisions.
