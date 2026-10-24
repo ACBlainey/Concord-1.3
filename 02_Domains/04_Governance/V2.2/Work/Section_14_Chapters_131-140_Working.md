@@ -269,8 +269,6 @@ GTP is Concord's adopted default spatial reference and coordination architecture
 
 ## 132.0 GTP Mesh Governance Architecture
 
-**Status:** Consolidated V2.1 developmental reading assembled from existing recovered and reconciled clauses below. The retained V2 source wording, Candidate 014, source-conflict registers and authorial clarifications remain as evidence, not parallel competing operative rules. No constitutional graduation or implementation validation is asserted.
-
 **Spatial foundation.** GTP is the adopted *current spatial reference and coordination mesh*, not the source of Blainey's Laws, civil rights, consent or governance authority. Every triangular resolution exists conceptually at all times. Each triangle has four geometric child triangles; each activated governance triad has three distinct triangle-owned Steward positions. A node may be incident to six triangles without becoming a six-Steward office. Parent/child refers only to spatial containment. Offices need not be at geometric vertices. Future authorised spatial replacement requires continuity mapping, provenance and rights preservation.
 
 **Operational resolution.** Multiple resolutions and overlapping functional coordination fields may operate simultaneously. Sustained workload, capacity, externalities and lawful competence determine appropriate active coverage. Refinement and consolidation reallocate operations among already-existing spatial contexts; they do not create or abolish triangles or automatically move mandates. Upper/lower workload thresholds or persistence conditions supply hysteresis. Existing matters, records, rights, obligations, Steward standing and review pathways survive any lawful coverage change.
@@ -283,7 +281,7 @@ GTP is Concord's adopted default spatial reference and coordination architecture
 
 **Continuity and emergencies.** A variable or paused Civilisational Clock cannot gate independently authorised emergency detection, lawful activation, bounded emergency action, sunset or restoration. Ordinary urgency alone does not waive the third-ballot completion rule. Operational emergency timing and state-machine transitions are independent and later reconciled with Clock records. Emergency levels are classifications, not GTP government ranks. A committed decision can have continuing legal effects after its one-use vote authority is consumed, but action and resource expenditure require separate authority.
 
-**[LOCAL ISSUES:]** Node/office eligibility and mixed-resolution seams; origin-included identity and quorum proof; multi-triad common-competence creation; precise cross-resolution substitutions; workload thresholds and continuity handover; conference disclosure and execution timing. The adopted V2.1 reading supersedes any earlier suggestion that GTP is merely optional or that geometric parent/child implies a governance command hierarchy. Superseded source wording remains in original V2 and source records for provenance; it is not an alternative operative rule in this chapter. See Chapters 9, 12, 18–20 and 132's source-conflict register.
+**Architecture to be designed — GTP decision interfaces:** Specify node and office eligibility, mixed-resolution seams, origin-included identity and quorum proof, multi-triad common competence, cross-resolution substitution, workload and continuity handover, conference disclosure and execution timing. Geometry and spatial parent/child relationships do not create governance command authority. See Chapters 9, 12, 18–20 and 132's source-conflict register.
 
 ---
 
@@ -462,7 +460,7 @@ The operative rule in §§132.0, 132.1 and 132.4 is that **all GTP geometric lev
 
 **Activation and continuity:** Use sustained workload, capacity, population, infrastructure, transactions, resource demands, complexity and externalities as evidence for context-specific operational allocation. Refinement and consolidation require independently lawful Steward assignments and must preserve pending matters, local standing, records, rights, duties and review. Use distinct refinement/consolidation thresholds or persistence windows to prevent oscillation; neither geometric subdivision nor workload alone transfers authority.
 
-**[LOCAL VALIDATION:]** Determine numeric workload thresholds and persistence windows, asymmetric activation across the four child contexts, lawful officeholder allocation and continuity, mixed-resolution seams and node incidence, independent cross-context consent and anti-capture controls. Historical reconstruction is retained in the V1–V1.2 sources; no additional spatial hierarchy or implementation readiness is implied.
+**Architecture to be designed — activation and continuity:** Specify workload thresholds and persistence windows, asymmetric coverage across child contexts, lawful officeholder allocation and continuity, mixed-resolution seams, node incidence, independent cross-context consent and anti-capture controls. None of these mechanisms creates a spatial hierarchy.
 
 ## 132.14 GTP Implementation Boundaries and Cross-System Interfaces
 
@@ -473,9 +471,9 @@ The operative rule in §§132.0, 132.1 and 132.4 is that **all GTP geometric lev
 
 ### Architecture to Be Designed — GTP Implementation Interfaces
 
-**ARCHITECTURE TO BE DESIGNED — OUTSIDE CURRENT V2.1 TEXT-INTEGRATION SCOPE.** The principles in this chapter remain operative as stated. The following are design requirements, **not** invented deployed services, automatic authority grants or grounds to delay consolidation. Resolve these at the indicated interfaces when working systems and domain owners exist:
+The following interfaces require explicit implementation design by competent system owners. They confer no automatic authority:
 
-- **G-010 — Architecture to be designed:** Design workload activation/deactivation metrics and hysteresis, overlap and mixed-resolution competence, notice, handover and jurisdictional conflict handling without geometric command hierarchy.
+- **Architecture to be designed — GTP workload and jurisdiction:** Design workload activation/deactivation metrics and hysteresis, overlap and mixed-resolution competence, notice, handover and jurisdictional conflict handling without geometric command hierarchy.
 
 **Future acceptance evidence:** record accountable owner, actual mandate, state-machine/adapter specification, failure and recovery paths, independent review and provenance. Preserve CAP ≠ PERM ≠ AUTH. Do not mark implementation as tested or operational until supported by real evidence.
 # Chapter 133 — Governance and Mars
