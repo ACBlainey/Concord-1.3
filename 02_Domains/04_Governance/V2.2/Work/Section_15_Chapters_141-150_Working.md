@@ -809,7 +809,7 @@ Useful communication may distinguish:
 
 ## 144.13 Risk and Authority
 
-Claims of danger can justify expanded authority.
+Claims of danger may prompt consideration of separately authorised, strictly bounded emergency powers, but the claim itself cannot expand authority.
 
 Risk architecture should therefore preserve:
 
@@ -967,7 +967,7 @@ They should remain constitutionally bounded.
 
 ## 145.10 Emergency and Existential Risk
 
-An imminent existential threat may justify extraordinary emergency action.
+An imminent existential threat may warrant separately authorised extraordinary emergency action, bounded to the threat and subject to constitutional safeguards. Ordinary governance continues unless the distinct existential-crisis conditions for setting it aside are lawfully met; emergency coordination alone does not displace daily jurisdiction.
 
 The normal Emergency principle remains:
 
@@ -1831,5 +1831,5 @@ A conference across GTP scales or neighbouring jurisdictions may support evidenc
 
 ## 150.13 Cross-boundary recognition and voluntary coordination
 
-Distinguish a detected cross-cell consequence from a lawful shared decision forum by independently assessing whether competence is internal, shared or agreed, overlapping, disputed, absent or unknown. Its classifications include internal, shared/agreed, overlapping, disputed, absent and unknown authority; voluntary coordination and optional mediation remain available without inventing a central office. Where no shared authority exists, affected actors may take separately lawful bounded actions or coordinate effects voluntarily (**PARALLEL-VOLUNTARY-COORDINATION**). A binding shared action requires an independently legitimate competence instrument, current permission and appropriate standing for affected parties; the GTP spatial mesh supplies location/scale information, not a higher government. Scope may expand only on evidenced material dependencies, with recorded expansion and standing. **Architecture to be designed — cross-boundary remedies:** Specify the shared-competence instrument, externality thresholds, conflicting-owner remedies and third-party withdrawal effects under the applicable constitutional rules.
+Distinguish a detected cross-cell consequence from a lawful shared decision forum by independently assessing whether competence is internal, shared or agreed, overlapping, disputed, absent or unknown. Voluntary coordination and optional mediation remain available without inventing a central office. Where no shared authority exists, affected actors may take separately lawful bounded actions or coordinate effects voluntarily (**PARALLEL-VOLUNTARY-COORDINATION**). A binding shared action requires an independently legitimate competence instrument, current permission and appropriate standing for affected parties; the GTP spatial mesh supplies location/scale information, not a higher government. Scope may expand only on evidenced material dependencies, with recorded expansion and standing. **Architecture to be designed — cross-boundary remedies:** Specify the shared-competence instrument, externality thresholds, conflicting-owner remedies and third-party withdrawal effects under the applicable constitutional rules.
 
