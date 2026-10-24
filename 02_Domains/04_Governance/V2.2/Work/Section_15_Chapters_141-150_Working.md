@@ -1,9 +1,5 @@
 # Governance V2.2 — Section 15 — Chapters 141–150
 
-# V2.1 Section 15 — Subsection Integration Draft 004
-
-**Developmental; not canonical.** All original source retained. Proposed insertions occur at precise subsection boundaries and are fully reversible.
-
 # Chapter 141 — Governance and Property
 
 ## 141.1 Property and Autonomy
@@ -1678,7 +1674,6 @@ Governance should therefore observe practical concentration over time.
 > **Decentralisation should distribute authority, capability and infrastructure where this improves resilience, autonomy and local knowledge, while recognising that local systems can also fail through capture, inequality or inability to manage wider externalities. Subsidiarity means the lowest competent level, not the lowest level regardless of capability.**
 
 
-<!-- V2.1 INTEGRATION 2026-10-13: AUTHORIAL SOURCE RECONCILIATION; DEVELOPMENTAL; REVERSIBLE -->
 ## 149.16 Spatial mesh, workload allocation and authority limits
 
 The lowest capable legitimate decision field is selected by consequences, competence, rights, resources and jurisdiction, not GTP triangle size. All finer and coarser GTP spatial subdivisions conceptually exist simultaneously; operational activation or subdivision changes workload allocation, not the underlying mesh or constitutional rank. Multiple resolutions and overlapping decision fields may operate concurrently with explicit authority boundaries. Workload-driven reassignment should employ hysteresis to prevent oscillation.
@@ -1829,12 +1824,12 @@ Neither layer should presume complete epistemic superiority.
 
 Distinguish information exchange, coordination of shared logistics, independently authorised local policy and a separately authorised common decision on indivisible externalities. A four-to-one preference among affected regions does not authorise four regions to govern the fifth. Shared evacuation corridors, flood infrastructure and scarce common resources may nevertheless justify a properly constituted common decision with bounded scope and rights protections. A coarser GTP coordination field does not thereby become a central executive.
 
-**Open issue:** specify material-externality thresholds and the lawful common-decision forum without requiring uniform local policies.
+**Architecture to be designed — common competence:** Specify material-externality thresholds and a lawful common-decision forum without requiring uniform local policies.
 ## 150.12 Conference, host authority and binding action
 
-A conference across GTP scales or neighbouring jurisdictions may support evidence sharing and voluntary coordination but cannot create central command or territorial hierarchy. Binding shared action requires independently lawful common competence; emergency preservation is separately bounded. The host owner, not the conference, verifies current execution authority and records effects. See Integrations 051–052, 097 and 123.
+A conference across GTP scales or neighbouring jurisdictions may support evidence sharing and voluntary coordination but cannot create central command or territorial hierarchy. Binding shared action requires independently lawful common competence; emergency preservation is separately bounded. The host owner, not the conference, verifies current execution authority and records effects. The existence of a conference does not confer decision, implementation or resource authority.
 
 ## 150.13 Cross-boundary recognition and voluntary coordination
 
-Use the existing Concord **Cross Boundary Externality Recognition** portable module (§§15–17) to distinguish a detected cross-cell consequence from a lawful shared decision forum. Its classifications include internal, shared/agreed, overlapping, disputed, absent and unknown authority; voluntary coordination and optional mediation remain available without inventing a central office. Where no shared authority exists, affected actors may take separately lawful bounded actions or coordinate effects voluntarily (**PARALLEL-VOLUNTARY-COORDINATION**). A binding shared action requires an independently legitimate competence instrument, current permission and appropriate standing for affected parties; the GTP spatial mesh supplies location/scale information, not a higher government. Scope may expand only on evidenced material dependencies, with recorded expansion and standing. **[LOCAL ISSUE — FI-060, FI-062, FI-063:]** shared-competence instrument, externality thresholds, conflicting owner remedies and third-party withdrawal effects require constitutional determination.
+Distinguish a detected cross-cell consequence from a lawful shared decision forum by independently assessing whether competence is internal, shared or agreed, overlapping, disputed, absent or unknown. Its classifications include internal, shared/agreed, overlapping, disputed, absent and unknown authority; voluntary coordination and optional mediation remain available without inventing a central office. Where no shared authority exists, affected actors may take separately lawful bounded actions or coordinate effects voluntarily (**PARALLEL-VOLUNTARY-COORDINATION**). A binding shared action requires an independently legitimate competence instrument, current permission and appropriate standing for affected parties; the GTP spatial mesh supplies location/scale information, not a higher government. Scope may expand only on evidenced material dependencies, with recorded expansion and standing. **Architecture to be designed — cross-boundary remedies:** Specify the shared-competence instrument, externality thresholds, conflicting-owner remedies and third-party withdrawal effects under the applicable constitutional rules.
 
