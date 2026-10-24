@@ -1819,7 +1819,7 @@ Neither layer should presume complete epistemic superiority.
 > **Central coordination is legitimate where a problem genuinely exceeds the capacity or lawful competence of individual participating jurisdictions and a separate lawful coordination mandate exists. Such jurisdictions are not 'lower' in authority merely because their GTP spatial cells are smaller. Civilisation-wide responsibility remains function-specific, bounded and reviewable. A narrow central function must not become a pathway to total Governance merely through usefulness, information advantage or control of shared resources.**
 
 
-<!-- V2.1 INTEGRATION 2026-10-13: AUTHORIAL SOURCE RECONCILIATION; DEVELOPMENTAL; REVERSIBLE -->
+
 ## 150.11 Shared externalities and common decision competence
 
 Distinguish information exchange, coordination of shared logistics, independently authorised local policy and a separately authorised common decision on indivisible externalities. A four-to-one preference among affected regions does not authorise four regions to govern the fifth. Shared evacuation corridors, flood infrastructure and scarce common resources may nevertheless justify a properly constituted common decision with bounded scope and rights protections. A coarser GTP coordination field does not thereby become a central executive.
