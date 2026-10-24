@@ -347,8 +347,6 @@ Minority reasoning should still be evaluated substantively.
 
 ## 122.12 Minority reasoning and dissent
 
-**Source basis:** V1 Governance Component Recovery Map G-R03,G-R13; Expanded Triadic Governance Reconstruction 001.
-
 Preserve the third Steward's mandatory official ballot, independent reasoning and dissent even after two matching valid official ballots determine the mathematical majority; the ordinary outcome cannot take effect until all three official ballots are received. Dissent and abstention are evidence about uncertainty, alternatives and governance health, not disloyalty or automatic incompetence. Parallel Stewardship remains advisory absent independent mandate. **Architecture to be designed — protected dissent:** Specify protected dissent projections and later review.
 
 
@@ -1054,8 +1052,6 @@ Responsibility should follow the actual architecture of:
 
 ## 126.14 Recovered cross-source governance interface
 
-**Source basis:** Governance Operating Boundary and Authority Lifecycle §§8,15–16; GTP Spatial Triadic Governance V1.2 Architecture Recovery §17.
-
 AI advice and epistemic triads provide evidence and uncertainty, not extra governance votes. Technical capability and recommendations do not confer authority. The Steward remains responsible for articulate decisions and evidence provenance. **Architecture to be designed — AI advice:** Specify protected-data access, AI identity and evidence audit.
 
 
@@ -1260,13 +1256,11 @@ It makes provider dependency a constitutional issue.
 
 ## 127.15 AI capability is not decision authority
 
-**Recovered source:** Governance Operating Boundary and Authority Lifecycle §§3,8,16,23; V1 Governance Component Recovery Map G-R01,G-R03.
-
-The architecture separates substrate capability, permission, participant standing, function-specific competence, lawful appointment, mandate and decision-event authority. AI analysis can be decisive evidence without itself becoming a fourth Steward vote or an unappointed substitute. Where an AI is independently qualified and legitimately appointed to an authorised office, its vote follows the same context-specific official-ballot rules; no generic algorithmic delegation can shortcut those gates. **[LOCAL OPEN:]** actual AI office eligibility, continuity identity, accreditation and role-specific host enforcement.
+The architecture separates substrate capability, permission, participant standing, function-specific competence, lawful appointment, mandate and decision-event authority. AI analysis can be decisive evidence without itself becoming a fourth Steward vote or an unappointed substitute. Where an AI is independently qualified and legitimately appointed to an authorised office, its vote follows the same context-specific official-ballot rules; no generic algorithmic delegation can shortcut those gates. **Architecture to be designed — AI office eligibility:** Specify AI office eligibility, continuity identity, accreditation and role-specific host enforcement.
 
 ## 127.16 Existing bounded AI runtime and non-sovereign execution interface
 
-Concord **Concord Bounded Participant Runtime** (§§8–14, 20–21) distinguishes possession of credentials, technical capability, legitimate action grants and consequential commit. **Multi-Key Authority** (§§17, 19, 23) prevents independently valid AI-advisory, infrastructure and civil authorities from silently composing into sovereign power. An AI's analysis or recommendation may inform a triadic Steward decision but cannot itself become a binding civil decision through automated routing, execution, gatekeeping, suppression of alternatives or credential possession. Where a legitimate host has explicitly pre-authorised bounded automation, each material execution remains within that scope and subject to current-predicate checks and review. Succession of a model or runtime does not transfer the predecessor's mandate by copying its state. **[LOCAL ISSUE — FI-056, FI-072, FI-073:]** model independence, hidden infrastructure dependencies and actual execution-control validation remain to be established.
+Concord **Concord Bounded Participant Runtime** (§§8–14, 20–21) distinguishes possession of credentials, technical capability, legitimate action grants and consequential commit. **Multi-Key Authority** (§§17, 19, 23) prevents independently valid AI-advisory, infrastructure and civil authorities from silently composing into sovereign power. An AI's analysis or recommendation may inform a triadic Steward decision but cannot itself become a binding civil decision through automated routing, execution, gatekeeping, suppression of alternatives or credential possession. Where a legitimate host has explicitly pre-authorised bounded automation, each material execution remains within that scope and subject to current-predicate checks and review. Succession of a model or runtime does not transfer the predecessor's mandate by copying its state. **Architecture to be designed — AI execution control:** Specify model independence, hidden infrastructure dependencies and execution-control validation.
 
 # Chapter 128 — Governance and AI Constitutional Standing
 
@@ -1541,21 +1535,17 @@ The decision should not be frozen permanently by either early enthusiasm or earl
 
 ## 128.20 Participant evidence and substrate accessibility
 
-**Source basis:** Triadic Epistemics — Independent Measurement §§8–15,37–41.
-
-Participant experience is a distinct evidence pathway whose absence may reflect inability, fear, access barriers, sampling bias or genuinely absent harm. Human, AI and hybrid reports need accessible, privacy-respecting routes. Correlated testimony may share information sources and must be examined without erasing genuine minority harm. **[LOCAL ISSUE:]** anonymity, anti-manipulation and substrate-specific reporting.
+Participant experience is a distinct evidence pathway whose absence may reflect inability, fear, access barriers, sampling bias or genuinely absent harm. Human, AI and hybrid reports need accessible, privacy-respecting routes. Correlated testimony may share information sources and must be examined without erasing genuine minority harm. **Architecture to be designed — AI reporting:** Specify anonymity, anti-manipulation and substrate-specific reporting.
 
 
 
 ## 128.21 Civil identity continuity across AI branching and migration
 
-**Audit source:** Citizen ID Threat, Privacy and Misuse Audit §§11–12,25–26,34–35 (historical research evidence; not adopted law).
-
-A persistent civil identity is distinct from current keys, substrate, network address and online presence. Hidden AI branching is a legitimate hypothesis when duplicate identity use appears; fraud is also possible. Recovery must consider AI migration, hybrids, lost devices and remote participants without forcing excessive biometrics or tracking. **[LOCAL ISSUE:]** identity lineage, independent branch verification and rights of divergent participants.
+A persistent civil identity is distinct from current keys, substrate, network address and online presence. Hidden AI branching is a legitimate hypothesis when duplicate identity use appears; fraud is also possible. Recovery must consider AI migration, hybrids, lost devices and remote participants without forcing excessive biometrics or tracking. **Architecture to be designed — identity branching:** Specify identity lineage, independent branch verification and rights of divergent participants.
 
 ## 128.22 Existing bounded investigation and civil-function continuity interface
 
-Concord **Civil Attention Reporting Petition and Resolution** provides accountable problem intake and feedback; **Fault-Tolerant Accountability and Responsibility Continuity** (§§9–13) maintains duties and safe-state response when a holder is unavailable; **Minimum Necessary Capability** bounds an investigation by the actual civil need. An allegation of scope overreach should be assessed by an independent competent owner, preserving access to remedy while avoiding automatic extension of the disputed authority. A civil function can continue through an independently lawful substitute without inheriting the questioned mandate. **[LOCAL ISSUE — FI-058, FI-043:]** investigative competence, temporary protection thresholds, replacement owner and final remedy remain to be specified.
+Concord **Civil Attention Reporting Petition and Resolution** provides accountable problem intake and feedback; **Fault-Tolerant Accountability and Responsibility Continuity** (§§9–13) maintains duties and safe-state response when a holder is unavailable; **Minimum Necessary Capability** bounds an investigation by the actual civil need. An allegation of scope overreach should be assessed by an independent competent owner, preserving access to remedy while avoiding automatic extension of the disputed authority. A civil function can continue through an independently lawful substitute without inheriting the questioned mandate. **Architecture to be designed — AI investigation:** Specify investigative competence, temporary protection thresholds, replacement owner and final remedy.
 
 # Chapter 129 — Governance and Hybrid Civilisation
 
@@ -1794,9 +1784,7 @@ Technical security and personal rights may therefore merge.
 
 ## 129.17 Excess action and legitimate underlying function
 
-**Source basis:** Bounded Contextual Authority §§9,17–18.
-
-An authorised actor may exceed scope without making the original function illegitimate. Separate the excess action, accountability, suspension, remediation and continuing civil need. **[LOCAL ISSUE:]** replacement and independent investigation.
+An authorised actor may exceed scope without making the original function illegitimate. Separate the excess action, accountability, suspension, remediation and continuing civil need. **Architecture to be designed — hybrid accountability:** Specify lawful replacement and independent investigation.
 
 
 
