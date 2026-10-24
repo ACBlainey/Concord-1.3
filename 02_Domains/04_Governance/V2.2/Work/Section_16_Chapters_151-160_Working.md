@@ -1,9 +1,5 @@
 # Governance V2.2 — Section 16 — Chapters 151–160
 
-# V2.1 Section 16 — Subsection Integration Draft 004
-
-**Developmental; not canonical.** All original source retained. Proposed insertions occur at precise subsection boundaries and are fully reversible.
-
 # Chapter 151 — Governance and Federation
 
 
@@ -148,7 +144,7 @@ The principle is:
 > **Federation may allocate responsibility among independently constituted institutions according to consequence, competence and shared constitutional purpose. A lawfully mandated wider-scope institution may coordinate genuine common problems while residual local competence remains meaningful; neither 'higher' institutional standing nor authority arises from GTP geometric parent/child containment. Jurisdiction conflicts must be resolved through the applicable constitutional process, not automatic upward expansion.**
 
 
-<!-- V2.1 INTEGRATION 2026-10-13: AUTHORIAL SOURCE RECONCILIATION; DEVELOPMENTAL; REVERSIBLE -->
+
 ## 151.13 Constitutional federation and concurrent mesh scales
 
 Institutional federation and GTP's geometric mesh are distinct. Lawful federal competences may be exclusive, shared, advisory or coordinated, but geometric parent/child triangles alone create no chain of command. Concurrent spatial resolutions can support federation without implying institutional superiority. In overlapping decision fields, establish the lawful competence basis before any aggregation. An authorised virtual triad aggregates three constituent results, not all neighbouring regions' independent political choices.
