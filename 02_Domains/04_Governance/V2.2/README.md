@@ -25,3 +25,10 @@ Do not create parallel integration drafts, separate issue registers or multiple 
 The 22 section files are published. Complete the whole-document consistency review, address identified contradictions and verify cross-references and architecture survival. Then determine and record V2.2 supersession of V2.1. Do not infer supersession merely from the presence of published sections. The finished governance text is to be written as operative architecture, not as a collection of tentative or status-labelled drafts.
 
 **Coverage:** Sections 01–21 contain ten chapters each; Section 22 contains Chapters 211–215.
+
+## Whole-document consistency review
+
+- **Coverage check:** 22 published sections contain the consecutive Chapter 1–215 headings, with no missing or duplicated chapter heading in the published files.
+- **Editorial cleanup:** inherited source/audit labels removed from Sections 07–09; other published sections screened for the same marker patterns.
+- **Architecture reconciliation:** Chapter 61 subsidiarity clarified to prohibit automatic GTP-based higher authority. Initial targeted checks of triadic ballot completion, expanded voting, emergency timing and GTP geometry found the established boundaries represented in the sections inspected.
+- **Still to verify before supersession:** exhaustive cross-chapter semantic consistency, cross-reference destinations, complete V1/V2 source survival and unresolved cross-domain implementation boundaries. These are not certified by the structural or marker checks.
