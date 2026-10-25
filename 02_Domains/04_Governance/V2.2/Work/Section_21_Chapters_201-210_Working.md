@@ -157,7 +157,6 @@ It may reflect judgement that another mechanism is:
 
 ## 201.14 Functional obsolescence and non-perpetuation
 
-**Source basis:** Legitimate Function and the Authority Justification Chain §§12–13,20–23,29–32.
 
 An office's prior usefulness does not establish its current necessity. Periodically re-evaluate whether the original civil problem persists, the function is still required, ordinary consent or alternate means suffice, and the mandate remains proportionate. When function ends, function-derived authority ends; a new function needs fresh justification. **[LOCAL ISSUE:]** independent sunset trigger, surviving duties and institutional wind-down.
 
@@ -490,7 +489,6 @@ They should not create incentives to:
 
 ## 203.17 Recovered cross-source governance interface
 
-**Source basis:** Governance Operating Boundary and Authority Lifecycle §18; Constitutional Emergency V2 Chapters 245–250.
 
 Correction is constitutional loyalty. Preserve original records, distinguish justified adverse outcomes from negligence and misconduct, and provide separate remedy. Learning may conclude no amendment is needed; emergency powers must sunset. **[LOCAL ISSUE:]** Remedy and sunset owners.
 
@@ -498,7 +496,6 @@ Correction is constitutional loyalty. Preserve original records, distinguish jus
 
 ## 203.18 Outlier sampling against challenge triage capture
 
-**Audit source:** Epistemic Independence Adversarial Audit §§47–48 (historical adversarial evidence; not adopted law).
 
 The epistemic audit proposes independent sampling of low-ranked challenges to measure what the triage process misses. Monitor queue length, review delay, duplicate ratio, unresolved high-impact cases, concentrated sources, failed forecasts and reversals; these are diagnostic signals, not automatic truths. **[LOCAL ISSUE:]** protected sampling and reviewer independence.
 
@@ -664,7 +661,6 @@ Simulation, experiment, comparison and field evidence remain necessary where app
 
 ## 204.15 Epistemic humility in governance
 
-**Source basis:** Governance Operating Boundary and Authority Lifecycle §§16–20; Constitutional Emergency V2 Chapters 14–18,254–256.
 
 Uncertainty is a recordable condition, not a licence for arbitrary confidence. Preserve rival explanations, counterevidence, model limitations, assumptions and consequences; treat apparent consensus from shared evidence sources cautiously. An adverse result does not retrospectively prove earlier reasoning misconduct. **[LOCAL ISSUE:]** independent evidence review and calibration.
 
@@ -672,7 +668,6 @@ Uncertainty is a recordable condition, not a licence for arbitrary confidence. P
 
 ## 204.16 Attention scarcity and diagnostic contestability
 
-**Audit source:** Triadic Epistemics Direct Adversarial Audit §§15–20,157–166 (historical adversarial evidence, not adopted law).
 
 The Triadic Epistemics audit warns that anomaly overload can make the investigator or triage queue a de facto sovereign. A 2–1 epistemic split is diagnostic, never a truth vote; persistent minority outliers should remain discoverable without granting unlimited veto or investigation resources. Test proportionate triage and attention capture rather than presuming every discrepancy requires full inquiry. **[LOCAL ISSUE:]** independent anomaly prioritisation and anti-starvation.
 
@@ -1061,7 +1056,6 @@ Therefore:
 
 ## 206.19 Emergency access and contextual closure
 
-**Source basis:** Bounded Contextual Authority §§2.3,2.5,9–12.
 
 Emergency entry and protected-space transit are limited to the necessary protective function. Neither authorises unrelated records access or continued presence after the condition ends. Later work requires its own justification. **[LOCAL ISSUE:]** access enforcement and safe exit.
 
@@ -1603,7 +1597,6 @@ Legitimate authority is therefore best understood as a bounded responsibility.
 
 ## 208.16 Boundaries on governance power
 
-**Recovered source:** Governance Operating Boundary and Authority Lifecycle §§2–13,21–23.
 
 Governance authority is a traceable chain from legitimate civil function through demonstrable need to minimum sufficient bounded action. Coarser spatial scale, emergency declaration, model recommendation, office tenure, wealth, reputation and control of infrastructure do not supply new sovereignty. Where function, need or context ends, authority contracts or terminates unless independently re-justified. **[LOCAL OPEN:]** automated termination and owner state verification.
 
@@ -1934,7 +1927,6 @@ Safeguards require review like every other mechanism.
 
 ## 209.24 Identity is not authority
 
-**Audit source:** Concord Citizen ID — Threat, Privacy and Misuse Audit §§4–5,21–26,33–36; historical research evidence, not adopted law.
 
 Citizen ID refers to continuing civil identity, not a blanket entitlement, authentication credential, routing endpoint or governance permission. A participant may retain identity despite lost credentials and may be reachable without revealing location. Candidate design favours opaque, nonenumerable, never-reassigned identifiers, with technical and legal implementation still unresolved. **[LOCAL ISSUE:]** issuance, identity continuity and recognition.
 
@@ -2114,7 +2106,6 @@ and
 
 ## 210.13 Continuity without institutional perpetuation
 
-**Recovered source:** Constitutional Emergency V2 Chapters 166–190,245–260.
 
 Constitutional functions and duties survive office replacement; an institution's survival is not the civil objective. Successors require independent authority and records; emergency powers do not persist by inertia. **[LOCAL ISSUE:]** duty ledger and sunset.
 
