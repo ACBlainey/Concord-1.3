@@ -1517,30 +1517,11 @@ It helps prevent category confusion.
 
 <!-- BEGIN G05 SOURCE INTERFACES AND LIMITATIONS -->
 
-## Interfaces requiring authoritative source resolution
-- **Governance V1 triadic mechanics and V2.1 chapter patches:** independent steward reasoning, decision aggregation, local competent context, lateral coordination, authority limits and recusal.
-- **GTP:** spatial intersections and resource collision identifiers must not silently become jurisdictions.
-- **Constitutional Emergency V2:** issuer competence, necessity, proportionality, time limits, review and emergency exit; these are NOT specified by Python fixtures.
-- **BTA portable module:** actual 28-field contract and transition owner-system semantics, including six quarantined legacy-only names.
-- **KCS/SMM/Civilisation Clock:** authentic state changes, stale dependency detection and independent emergency operational time.
-- **Historical/Continuity:** record ownership, privacy wrappers, immutable provenance, survivorship and authorised duty closure.
-- **Civil Contact:** discoverability and routing, not adjudication.
-- **Stewardship Selection and Allocation:** steward qualification/appointment must not be invented locally.
+## 198.20a Cross-System Jurisdiction and Implementation Boundaries
 
-## Integration gaps and limitations — do not silently graduate
-1. **No end-to-end harness:** stages currently validate small isolated Python models; no integrated owner-system BTA/KCS/GTP/emergency run.
-2. **Attestations are booleans in prototypes:** cryptographic identity, authorisation scope, issuer trust and tamper-evident provenance are not implemented.
-3. **Duty registers are in-memory:** no durable transactional storage, concurrent edits, conflict resolution, privacy enforcement, retention or archival chain of custody.
-4. **087 initial CI failure:** five test constructors lacked restriction_kind; corrected after inspecting GitHub Actions logs. Re-run must pass before claiming 087 validated.
-5. **Restoration equivalence:** user-provided verification flags are not independent proof of functional, custodial and historical equivalence.
-6. **Strict YAML parsing:** duplicate-key rejection, full 28-field schema validation and robust legacy-semantic reconciliation remain incomplete.
-7. **Cumulative-control thresholds:** no constitutionally approved threshold, scope harmonisation, aggregation of different restriction kinds or independent review protocol.
-8. **Orphan protection:** no mechanism for a real authority to issue, revoke, contest or appeal mandates; model must not autonomously intervene.
-9. **Governance reconstruction:** the 215-chapter V2 source and recovered V1 triadic provisions have not been fully incorporated or graduated. This document is an interface chapter, not a claim of full governance completeness.
+Jurisdiction must be checked independently of spatial identification. Triadic selection, independent voting, lawful aggregation, recusal and authority limits apply within the competent decision field; GTP intersections and resource-collision identifiers do not themselves confer jurisdiction. Emergency mandates require a competent issuer, necessity, proportionality, independent expiry and review. Knowledge, maturity and Civilisation Clock systems provide evidence and state context, not new authority. Historical and Continuity preserve provenance and surviving duties, while Civil Contact may route requests without adjudicating them. Steward qualifications and appointments require their own lawful selection process.
 
-<!-- END G05 SOURCE INTERFACES AND LIMITATIONS -->
-
-
+**Architecture to be designed — cross-owner jurisdiction:** Specify the operational interfaces among jurisdiction, steward selection, consequential transitions, knowledge-change propagation, emergency timing, custody, privacy and protected communications. Require independently authenticated and scoped owner attestations, durable concurrent records, idempotent replay, versioned schema validation, conflicting-owner remedies and lawful orphan-duty referrals. Prototype verification flags or simulated acknowledgements are not proof of authorisation, durable integration, recovery equivalence or constitutional approval. Define aggregate restriction thresholds and independent review without creating a universal surveillance power.
 
 ## 198.21 Spatial address, authority and jurisdictional conflicts
 
