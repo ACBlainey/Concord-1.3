@@ -628,26 +628,23 @@ It should eventually be resolved.
 
 > **Source completeness is established by traceable survival of substantive information, not by page count, polish or confidence. Every meaningful Governance element should have an explicit architectural fate.**
 
-## 213.14 Recovered cross-source governance interface
+## 213.14 Cross-Version Source Preservation
 
+The V1 governance recovery map, restoration material and adaptive GTP provisions remain sources to compare against current operational chapters. Neither a source label nor a simulation certifies incorporation or lawful adoption. Missing substantive provisions require placement in the appropriate operational chapter, with their source and any unresolved conflict traceable outside the operational rule itself.
 
-The V1 recovery map G-R01–G-R15 and adaptive GTP components are recovery obligations, not completion certification. Source labels, simulations and source-survival audits do not establish final adoption. Incorporate omitted provisions into their chapters with local flags. **Architecture to be designed — source-survival review:** Exhaustive cross-version coverage.
+**Architecture to be designed — source-survival review:** Establish exhaustive cross-version coverage, independent checking and disposition of genuinely missing provisions.
 
+## 213.15 Adversarial Review and Triadic Independence
 
+Governance mechanisms must be examined for false independence, predictable two-of-three coalitions, cross-layer capture, participant manipulation, attention overload and minority evidence becoming undiscoverable. Such risks do not invalidate the triadic decision process by themselves; they require bounded, independent review and implementation evidence. Adversarial analysis is not proof of deployment or constitutional authorisation.
 
-## 213.15 Adversarial source-survival status
+**Architecture to be designed — independent validation:** Specify audit-to-clause traceability, owner-controlled testing and protected challenge routes.
 
+## 213.16 Authority Justification and Unresolved Meta-Authority
 
-The BCA audit examined 100 attacks and concluded the operator survived only in refined form, not as a self-sufficient theory of legitimacy. The Triadic Epistemics audit found no fatal logical contradiction but called for simulation of false independence, 2-of-3 and cross-layer capture, participant manipulation, overload and minority invisibility before any canonical claim. These are historical audit conclusions, not implementation validations. **[LOCAL ISSUE:]** audit-to-clause completeness and owner testing.
+Authority justification remains subject to scrutiny of self-validation, manufactured necessity, aggregation, epistemic monopoly, temporal manipulation and recursive review. Higher-level review must not create a permanent superior authority. The competence, stopping conditions and independent remedy of meta-authority remain design questions. Research findings and tests cannot themselves grant constitutional authority.
 
-
-
-## 213.16 Adversarial research status and unresolved meta-authority
-
-
-The Authority Justification Chain audit finds transitions T1–T6 survive only with qualifications, while T7 meta-authority remains unresolved. The epistemic audit preserves non-sovereignty only with privacy minimisation, provisional finality and contestable triage. The integrated threat loop remains vulnerable to epistemic monopoly, aggregate authority accumulation and temporal manipulation. None of these audits constitutes implementation validation or constitutional adoption. **[LOCAL ISSUE:]** source-to-clause traceability and owner validation.
-
-
+**Architecture to be designed — meta-authority:** Specify bounded reviewer competence, recursion stopping conditions, source-to-clause traceability, independent remedies and owner validation.
 
 # Chapter 214 — Governance Operational Status and Continuing Development
 
