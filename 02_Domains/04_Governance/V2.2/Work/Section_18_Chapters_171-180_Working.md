@@ -227,11 +227,11 @@ Rollback should not automatically restore obsolete operational conditions withou
 
 > **Governance change control should preserve versioning, provenance, semantic source survival and recoverability so constitutional development does not accidentally erase safeguards, mechanisms or historical reasoning through editing, compression, AI rewriting or technical file operations.**
 
-# Chapter 172 — The Governance V1 Preservation Rule
+# Chapter 172 — Governance Source Preservation Rule
 
 ## 172.1 Purpose
 
-The current reconstruction exists partly because an earlier V2 draft became substantially shorter than Governance V1.
+The governance preservation programme arose partly because an earlier V2 draft became substantially shorter than Governance V1.
 
 Shorter is not automatically worse.
 
@@ -250,11 +250,11 @@ had been compressed or omitted.
 
 ## 172.2 Current Rule
 
-For this reconstruction:
+For governance reconstruction and future source-survival reviews:
 
 > **No substantive Governance V1 information should be removed merely for brevity, elegance, document length or perceived redundancy.**
 
-The same preservation principle now applies to the 498-page Governance V2 preservation baseline.
+The same preservation principle applies to historical Governance V2 source material and later superseded versions.
 
 The reconstruction should preserve information first.
 
@@ -262,7 +262,7 @@ Editorial consolidation can occur only after source-survival analysis.
 
 ## 172.3 Preservation Baseline
 
-The current Governance V2 Complete Draft is treated as the preservation baseline for this reconstruction.
+The preserved Governance V1 and V2 texts and their substantive restoration material are source-survival baselines, not parallel current authority.
 
 Its substantive content should survive.
 
@@ -270,15 +270,13 @@ Restoration material is additive.
 
 The current working relation is:
 
-**Governance V2 Preservation Baseline**
+**Preserved historical source**
 
-- **Restoration Packages**
+- **Restoration packages and recovered architecture**
+- **Genuinely additive later improvements**
+- **Integrated current operational Governance text**
 
-# **Genuinely Additive Later Improvements**
-
-- **Governance V2 Full Preservation Reconstruction**
-
-The result should therefore normally be larger, not smaller, than the preservation baseline.
+The result should preserve the information content of the baseline; document length alone is not proof of completeness.
 
 ## 172.4 Permissible Transformation
 
@@ -306,7 +304,7 @@ Where clarification provides a stronger constitutional principle, the principle 
 
 ## 172.6 Restoration
 
-Material missing from the current baseline but substantively present in earlier Governance should be restored where still relevant.
+Material missing from current operational Governance but substantively present in earlier versions should be restored where still relevant.
 
 Restoration should not overwrite stronger later material unnecessarily.
 
@@ -341,7 +339,7 @@ after cross-system review.
 
 ## 172.9 Provisional Material
 
-Provisional and unfinished material should also survive where it records a genuine unresolved Governance problem.
+Incomplete architecture should remain visible where it records a genuine unresolved Governance problem, with the specific design question identified at the relevant provision.
 
 A section should not disappear merely because it is incomplete.
 
