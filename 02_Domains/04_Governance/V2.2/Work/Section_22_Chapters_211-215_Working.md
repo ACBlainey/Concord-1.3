@@ -216,21 +216,19 @@ Distinguish observations, interpretations, simulations, recovered sources, autho
 
 # Chapter 212 — Governance Development Boundary
 
-Governance V2 should distinguish:
+Governance development must distinguish:
 
 **SOURCE PRESERVATION**
 
 from
 
-**CANONICAL CONSOLIDATION**
+**OPERATIONAL CONSOLIDATION**
 
 and from
 
 **VALIDATION**.
 
-The present reconstruction primarily performs the first two tasks.
-
-It does not convert the architecture into validated governance merely by making it more complete.
+Preservation and operational consolidation do not establish empirical validation. Operational authority depends on lawful adoption and scope, not the completion of every test.
 
 ## 212.1 Source Preservation
 
@@ -251,9 +249,9 @@ It concerns:
 
 A polished document can fail source preservation.
 
-## 212.2 Canonical Consolidation
+## 212.2 Operational Consolidation
 
-Canonical consolidation asks:
+Operational consolidation asks:
 
 **How should surviving information be organised into the current working architecture?**
 
@@ -371,7 +369,7 @@ Examples include:
 
 These should be tested wherever practical.
 
-## 212.9 Provisional Canonicality
+## 212.9 Operational Status and Evidence
 
 A mechanism may become the current working architecture before high-level validation is possible.
 
@@ -826,7 +824,7 @@ A preserved historical source and a working integration manuscript may both be s
 
 
 
-# Chapter 215 — Interim Closing Statement
+# Chapter 215 — Governance Closing Principles
 
 The Concord’s Governance architecture does not assume that civilisation can eliminate:
 
@@ -1110,7 +1108,7 @@ The deeper principle is:
 
 ## 215.12 Canonicality
 
-No future declaration of canonical status should erase the recursive requirement.
+No designation of current operational status should erase the recursive requirement.
 
 Therefore:
 
@@ -1190,7 +1188,7 @@ The central recursive requirement is therefore:
 
 > **Governance must govern power, but it must also govern the mechanisms by which power is justified, delegated, measured, preserved, challenged, expanded, corrected and ultimately relinquished.**
 
-## 215.17 Interim End State
+## 215.17 Continuing Constitutional Responsibility
 
 This reconstruction does not mark the end of Governance development.
 
