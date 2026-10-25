@@ -1362,7 +1362,7 @@ Independence should be substantive.
 
 > **Governance should separate, where consequence warrants, the exercise of authority from exclusive control over the metrics, evidence, interpretation and renewal process used to justify that authority.**
 
-## 177.11 Recovered cross-source governance interface
+## 177.11 Independent Authority Justification Interface
 
 
 Authority cannot certify its own necessity by invoking its prior powers or effects caused by its own interventions. Require independent examination of feedback loops and alternative explanations; function-derived authority contracts when need ends. **Architecture to be designed — self-certification:** Specify an independent evaluator and protected access.
@@ -1586,7 +1586,7 @@ Dependence on one actor, infrastructure, budget, model or knowledge store can yi
 ## 178.17 BCA systemic fairness and combined authority
 
 
-The 100-attack BCA audit distinguishes local legitimacy from systemic fairness (BCA-R10). Many lawful, narrowly scoped actions can impose concentrated burdens or combine into unreviewed effective power. Audit cross-actor consequences, dependency and delegation chains as well as individual permissions. **Architecture to be designed — systemic fairness:** Specify the aggregation graph, rights-impact monitoring and independent review.
+Local legitimacy must be distinguished from systemic fairness. Many lawful, narrowly scoped actions can impose concentrated burdens or combine into unreviewed effective power. Audit cross-actor consequences, dependency and delegation chains as well as individual permissions. **Architecture to be designed — systemic fairness:** Specify the aggregation graph, rights-impact monitoring and independent review.
 
 
 
