@@ -649,9 +649,9 @@ The Authority Justification Chain audit finds transitions T1–T6 survive only w
 
 
 
-# Chapter 214 — Interim Reconstruction Status
+# Chapter 214 — Governance Operational Status and Continuing Development
 
-The current V2 reconstruction now contains a substantially broader body of Governance material than the first compressed V2 draft.
+The current governance architecture incorporates a substantially broader body of material than the earlier compressed V2 draft.
 
 It includes:
 
@@ -721,13 +721,7 @@ It additionally incorporates substantial restoration and extension concerning:
 - constitutional interpretation;
 - and explicit separation of influence from authority.
 
-This is much closer to the intended information-preserving V2.
-
-It should nevertheless remain:
-
-**ACTIVE DEVELOPMENT / UPDATED DRAFT**
-
-until the explicit source-survival audit is completed and the later operational systems have been individually reviewed.
+This breadth supports the current operational text but does not certify source completeness, cross-system integration or empirical validation. Continued correction and design work remain obligations within the governing framework.
 
 ## 214.1 Current Strength
 
@@ -766,8 +760,8 @@ Dedicated Concord validation remains future work.
 
 Known unresolved areas remain, including:
 
-- final Steward selection;
-- final Triad architecture;
+- remaining implementation details of Steward qualification, appointment and lawful replacement;
+- verification and implementation of established Triad selection and voting mechanics;
 - AI constitutional standing;
 - Resource Stewardship completion;
 - interplanetary Governance;
@@ -780,25 +774,13 @@ Known unresolved areas remain, including:
 
 These should remain visible rather than being hidden by the document’s breadth.
 
-## 214.4 Reconstruction Is Not Final Consolidation
+## 214.4 Preservation and Ongoing Correction
 
-Some repetition currently remains intentionally.
-
-The preservation phase has prioritised information survival over editorial elegance.
-
-Future consolidation should occur only after:
-
-- source-survival audit;
-- system-by-system recursion;
-- and failure analysis.
+Substantive architecture must not be lost through stylistic compression. Genuine duplication may be removed while preserving source provenance and chapter-level traceability. Further cross-domain reconciliation, source comparison and failure analysis are continuing work, not conditions that automatically suspend current operational provisions.
 
 ## 214.5 Current Classification
 
-The present reconstructed Governance should therefore be classified as:
-
-**ACTIVE / SOURCE-PRESERVING RECONSTRUCTION / NON-FINAL CANONICAL CANDIDATE**
-
-rather than final constitutional doctrine.
+The current operational Governance text governs within its lawful scope while preserving identified gaps and routes for lawful correction. Historical versions are evidence for recovery, not parallel sources of current authority. No claim of complete implementation or empirical validation follows from operational status.
 
 ## 214.6 Next Development Sequence
 
@@ -834,16 +816,16 @@ The next major work should include:
 ↓  
 **Validation design**  
 ↓  
-**Future canonical candidate**
+**Documented correction and implementation evidence**
 
-## 214.7 Interim Status Principle
+## 214.7 Operational Status Principle
 
-> **The Governance reconstruction is now broad enough to function as a serious source-preserving constitutional architecture, but breadth must not be mistaken for completeness or validation. Its next test is whether every source idea survived and whether the resulting mechanisms remain coherent when confronted with neighbouring Concord systems and adversarial failure.**
+> **Operational status identifies the governance architecture in force, not an assertion of completeness or empirical validation. Source survival, cross-system coherence, independent review and correction remain continuing constitutional obligations.**
 
 ## 214.8 Source-complete is not implementation-complete
 
 
-A preserved historical source and a working integration manuscript may both be substantial without being validated. Distinguish source recovery, clause incorporation, cross-system reconciliation, owner implementation, adversarial test and constitutional adoption. No 'canonical' label or successful prototype silently passes a later gate. Emergency preservation reconstruction itself states source-survival audit to its then-current standard but not empirical validation. **[LOCAL OPEN:]** exhaustive chapter-by-chapter source traceability, versioned conflict disposition and owner evidence.
+A preserved historical source and a working integration manuscript may both be substantial without being validated. Distinguish source recovery, clause incorporation, cross-system reconciliation, owner implementation, adversarial test and constitutional adoption. No 'canonical' label or successful prototype silently passes a later gate. Emergency preservation reconstruction itself states source-survival audit to its then-current standard but not empirical validation. **Architecture to be designed — validation provenance:** Specify exhaustive chapter-by-chapter source traceability, versioned conflict disposition and independently attributable owner evidence.
 
 
 
