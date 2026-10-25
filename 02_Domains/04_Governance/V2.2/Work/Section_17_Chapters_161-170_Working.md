@@ -333,19 +333,15 @@ The authority to identify failure is distinct from authority to determine every 
 
 ## 162.14 Recursive oversight without sovereign reviewers
 
-**Source basis:** Constitutional Emergency V2 Chapter 254; Governance Operating Boundary and Authority Lifecycle §§14–20.
-
 Review mechanisms must themselves be bounded, contestable and reviewable; their existence cannot self-certify indefinite power. Escalate on evidence of capture, errors or systemic failure, not simply because a coarser GTP triangle exists. The reviewer's access and action authority remain separate. **[LOCAL ISSUE:]** independent reviewer appointment and recursive stopping boundary.
 
 
 
 ## 162.15 Adversarial review of meta-authority
 
-**Audit source:** BCA Adversarial Attack and Falsification Audit §§48–54 (historical adversarial evidence, not adopted law).
-
 The BCA audit identifies authority to define, interpret or validate authority as authority itself, subject to bounded contextual review (BCA-R11). Recursive oversight cannot be made legitimate merely by adding another review office. Record independent function legitimacy, review mandate, appeal, termination and evidence. **[LOCAL ISSUE:]** recursive stopping condition and jurisdictional conflict resolution.
 
-## 162.16 Existing bounded recursive-review and non-compositional authority interface
+## 162.16 Bounded Recursive Review and Non-Compositional Authority
 
 Concord **State Triggered Review Architecture** separates a review trigger from the authority to decide; **Multi-Key Authority** (§17) prohibits composition of independently bounded mandates into a higher ungranted authority; **Fault-Tolerant Accountability and Responsibility Continuity** (§§9–13) supports lawful successor eligibility without permanent oversight incumbency. Recursive oversight may inspect an earlier review's provenance, competence, conflicts and consequences, but cannot recursively manufacture an unlimited appellate sovereign. Each review tier needs an independently justified remit, stopping/return condition, record custody, protected challenge and explicit remedy owner. **[LOCAL ISSUE — FI-064:]** constitutional reviewer appointment, recursion stop rule, meta-authority and independent remedy remain open.
 
@@ -487,17 +483,13 @@ KCS classification therefore requires:
 
 > **Governance should preserve the epistemic status, provenance and revision history of the knowledge upon which it acts. Knowledge classification may inform decisions without becoming policy authority, and the institutions assigning epistemic status must themselves remain transparent, contestable and reviewable.**
 
-## 163.12 Recovered cross-source governance interface
-
-**Source basis:** V1 Governance Component Recovery Map G-R15; Governance Operating Boundary and Authority Lifecycle §§11–13, 23.
+## 163.12 Cross-System Knowledge Change Interface
 
 KCS change propagation must preserve authoritative ownership and distinguish changed evidence, changed competence, changed mandate and actual new authority. A propagated update or Historical record does not itself revoke an already committed official ballot, appoint a Steward or authorise execution. Dependencies affected by a change must be reassessed under their own state machines and contextual bounds; unknown and pending states remain visible. **[LOCAL DEPENDENCY:]** Owner mapping, receipt propagation, replay and recovery under a paused Civilisation Clock remain implementation questions.
 
 
 
 ## 163.13 Epistemic correction propagation
-
-**Source basis:** Epistemic Independence, Contestability and Provenance §§23,47–49.
 
 A withdrawn material claim should trigger dependency search, affected-decision identification and review, not automatic cancellation of committed governance outcomes. KCS propagation distinguishes a changed evidence object from a new lawful state change; review has its own competence and provenance. Historical retains previous claims and corrections; epistemic knowledge persistence is not authority persistence. **[LOCAL ISSUE:]** owner triggers and state-machine handoff.
 
@@ -657,19 +649,15 @@ The transition should include:
 
 ## 164.13 Constitutional continuity without permanent emergency power
 
-**Recovered source:** Constitutional Emergency V2 Chapters 1–14, 166–190; G05 Variable Civilisational Clock 059.
-
 Emergency operational time and event-driven state machines remain responsive while the variable Civilisation Clock is paused. Emergency authority must be function-specific, minimally sufficient, recorded, reviewable and self-terminating when necessity ends. Preserve the distinction between continued infrastructure function, office succession, surviving obligations and exceptional political power; restoration is an active constitutional phase. **[LOCAL OPEN:]** operational timer, event gates, owner-state integration and independent sunset enforcement.
 
 
 
 ## 164.14 Civil identity continuity and emergency communication
 
-**Audit source:** Concord Citizen ID — Threat, Privacy and Misuse Audit §§25–30,35–36; historical research evidence, not adopted law.
-
 Loss of authentication credentials must not terminate civil identity. Official communication should support store-and-forward reachability without requiring disclosure of physical location, including remote and deep-space settings. Exceptional routing and credential recovery require separate purpose-limited authorisation and accessible review. **[LOCAL ISSUE:]** offline recovery, cross-jurisdiction routing and identity continuity.
 
-## 164.15 Existing continuity and protected routing boundaries
+## 164.15 Continuity and Protected Routing Boundaries
 
 Concord **Fault-Tolerant Accountability and Responsibility Continuity** (§§9–13), **Concord Bounded Participant Runtime** (§21), and **Concord Information Black Box** (§16) distinguish restoration of a service from restoration of its authority or protected master access. A prequalified successor is not automatically activated; a recovered backup is not necessarily current operational state. Civil Contact can route a request or alert, while Historical preserves appropriately controlled provenance and Continuity handles recovery: none of those functions alone appoints a Steward, authorises cross-jurisdiction action or grants a new credential. Use protected projections and owner-specific attestations for recovery/credential changes. **[LOCAL ISSUE — FI-020, FI-048, FI-052, FI-065:]** identity recovery issuer, outage pathway, owner acceptance and privacy-preserving audit remain unresolved.
 
@@ -772,15 +760,11 @@ This follows the wider Ratchet boundary:
 
 ## 165.9 Decision provenance and correction
 
-**Recovered source:** V1 Governance Component Recovery Map G-R15; Constitutional Emergency V2 Chapter 14.
-
 Preserve decision question, mandate, evidence, uncertainty, ballots, dissent, result, separately authorised execution and actual effects as distinct linked events. Corrections append and cannot rewrite official votes; Historical custody does not confer political control. **[LOCAL ISSUE:]** event schema and ACK reconciliation.
 
 
 
 ## 165.10 Traceable summaries and evidence-at-decision
-
-**Audit source:** Epistemic Independence Adversarial Audit §§38–39 (historical adversarial evidence; not adopted law).
 
 A summary is not a substitute for source ancestry, model lineage and decision-time evidence. Preserve the exact evidence snapshot that justified an action, with later corrections appended rather than backdated. Source lineage should allow challenge without exposing unnecessary participant identities. **[LOCAL ISSUE:]** CWA projections and KCS dependency index.
 
@@ -871,8 +855,6 @@ It is to preserve significant reasoning that may become relevant later.
 > **Governance should preserve significant developmental reasoning, failed experiments, superseded mechanisms and major dissent separately from current authority. Civilisation needs both an operational architecture describing what governs now and a recoverable developmental record explaining how that architecture came to exist.**
 
 ## 166.9 Cross-scale epistemic referral is not jurisdiction transfer
-
-**Source basis:** Triadic Epistemics — Recursive GTP Mesh §§14–29,53–56.
 
 An anomaly may be investigated locally, laterally, at finer GTP detail, at coarser spatial context and across functional network connections without transferring decision authority. Referral should preserve provenance, uncertainty, dissent and the original context's retained lawful mandate. A higher spatial abstraction is a comparison view, not a superior governance office. **[LOCAL ISSUE:]** cross-resolution query permissions and owner interface.
 
@@ -971,9 +953,7 @@ Important source material should remain independently accessible.
 
 > **Civilisation should preserve its constitutional and developmental knowledge without requiring every current participant to carry the entire historical archive. Current, historical and developmental layers should remain distinguishable, searchable and connected so accessibility does not require destructive compression.**
 
-## 167.10 BCA-01 to BCA-12 candidate rules
-
-**Source basis:** Bounded Contextual Authority §20.
+## 167.10 Bounded Contextual Authority Research Questions
 
 Recover twelve research candidate rules: legitimate function; proportional bounds; no permission propagation; capability not authority; traceability; functional sunset; continuing justification; successor re-scoping; emergency limits; bounded delegation; context reassessment; and misuse distinct from underlying function. They are candidate research, not automatically adopted law. **[LOCAL ISSUE:]** owner implementation mapping.
 
@@ -1078,7 +1058,7 @@ Dependency mapping should therefore include provisional foundations.
 
 > **Unresolved architectural work may legitimately remain while higher-priority development proceeds, but development debt should remain visible, traceable and connected to the systems that depend upon it. Provisional architecture must not become permanent merely because its unresolved status was forgotten.**
 
-## 168.10 Existing contextual authority diagnostic interface
+## 168.10 Contextual Authority Diagnostic Interface
 
 Concord **Multi-Key Authority**, **Fractal Permission Architecture**, **Bounded Transition Architecture** and **Concord Bounded Participant Runtime** already separate legitimate authority, permission, operational capability, consequential transition and owner revalidation. A Bounded Contextual Authority diagnostic can classify a proposed action by actor, scope, lawful basis, conditions, current state, expiry and effects, but the diagnostic does not issue or renew authority. Materially changed targets, effects, policy or rights constraints require current checks at commit. **[LOCAL ISSUE — FI-067, FI-069:]** host owner mapping, formal candidate rules, classification calibration and enforcement proof remain open.
 
