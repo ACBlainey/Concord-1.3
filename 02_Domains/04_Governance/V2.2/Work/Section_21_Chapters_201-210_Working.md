@@ -160,7 +160,7 @@ It may reflect judgement that another mechanism is:
 
 An office's prior usefulness does not establish its current necessity. Periodically re-evaluate whether the original civil problem persists, the function is still required, ordinary consent or alternate means suffice, and the mandate remains proportionate. When function ends, function-derived authority ends; a new function needs fresh justification. **Architecture to be designed — functional sunset:** Specify independent sunset triggers, surviving duties and institutional wind-down.
 
-## 201.15 — Existing lifecycle and responsibility-continuity interfaces
+## 201.15 Lifecycle and Responsibility-Continuity Interfaces
 
 Institutional usefulness, legal existence, active mandate and continuing obligations are separate lifecycle states. Under Lifecycle Stewardship Review, an office or function that has become unnecessary must undergo bounded review, lawful sunset, orderly handover or retirement rather than self-perpetuation. The Bounded Transition Architecture records owner-specific pending, partial and completed transitions without assuming that all affected domains change state simultaneously. An expired mandate cannot be prolonged merely because dependent work remains unfinished.
 
@@ -487,7 +487,7 @@ They should not create incentives to:
 
 > **Governance should treat correction capacity as institutional strength. Good-faith error, negligence and misconduct should remain distinct; disclosure should not be punished in ways that reward concealment; and loyalty to the Concord requires allowing evidence to challenge current mechanisms rather than protecting institutional reputation from reality.**
 
-## 203.17 Recovered cross-source governance interface
+## 203.17 Cross-System Correction and Remedy Interface
 
 
 Correction is constitutional loyalty. Preserve original records, distinguish justified adverse outcomes from negligence and misconduct, and provide separate remedy. Learning may conclude no amendment is needed; emergency powers must sunset. **Architecture to be designed — correction remedies:** Specify remedy and sunset owners.
@@ -497,7 +497,7 @@ Correction is constitutional loyalty. Preserve original records, distinguish jus
 ## 203.18 Outlier sampling against challenge triage capture
 
 
-The epistemic audit proposes independent sampling of low-ranked challenges to measure what the triage process misses. Monitor queue length, review delay, duplicate ratio, unresolved high-impact cases, concentrated sources, failed forecasts and reversals; these are diagnostic signals, not automatic truths. **Architecture to be designed — challenge sampling:** Specify protected sampling and reviewer independence.
+Independent sampling of low-ranked challenges should measure what the triage process misses. Monitor queue length, review delay, duplicate ratio, unresolved high-impact cases, concentrated sources, failed forecasts and reversals; these are diagnostic signals, not automatic truths. **Architecture to be designed — challenge sampling:** Specify protected sampling and reviewer independence.
 
 
 
@@ -669,7 +669,7 @@ Uncertainty is a recordable condition, not a licence for arbitrary confidence. P
 ## 204.16 Attention scarcity and diagnostic contestability
 
 
-The Triadic Epistemics audit warns that anomaly overload can make the investigator or triage queue a de facto sovereign. A 2–1 epistemic split is diagnostic, never a truth vote; persistent minority outliers should remain discoverable without granting unlimited veto or investigation resources. Test proportionate triage and attention capture rather than presuming every discrepancy requires full inquiry. **Architecture to be designed — epistemic triage:** Specify independent anomaly prioritisation and anti-starvation safeguards.
+Anomaly overload can make the investigator or triage queue a de facto sovereign. A 2–1 epistemic split is diagnostic, never a truth vote; persistent minority outliers should remain discoverable without granting unlimited veto or investigation resources. Test proportionate triage and attention capture rather than presuming every discrepancy requires full inquiry. **Architecture to be designed — epistemic triage:** Specify independent anomaly prioritisation and anti-starvation safeguards.
 
 
 
@@ -1061,7 +1061,7 @@ Emergency entry and protected-space transit are limited to the necessary protect
 
 
 
-# Chapter 207 — Provisional Governance Kernel
+# Chapter 207 — Governance Constitutional Kernel
 
 The Governance architecture reconstructed so far can be represented as:
 
@@ -1342,7 +1342,7 @@ Every stage remains subject to:
 
 No step lies outside possible failure.
 
-## 207.18 Provisional Kernel Principle
+## 207.18 Constitutional Kernel Principle
 
 > **Concordian Governance is a recursive chain in which ethical constraints shape legitimate authority, authority acts through evidence and deliberation, action is measured and reviewed, failure can be corrected, learning is preserved and the resulting architecture remains capable of future revision.**
 
@@ -1602,7 +1602,7 @@ Governance authority is a traceable chain from legitimate civil function through
 
 ## 208.17 Bounded Power Retirement and Non-Propagating Continuity
 
-Concord **Lifecycle Stewardship Review** (§§8, 15–16), **Bounded Transition Architecture** (§§12, 17, 19) and **Fault-Tolerant Accountability and Responsibility Continuity** (§§9–13) jointly provide an existing interface for retiring a mandate or institution without erasing records, remedy, confidentiality, compensation or other surviving duties. A useful continuing function does not confer immortality on its present holder. Eligibility for a successor, physical possession of records or a restored runtime is not a transfer of discretionary authority. Where safe continuation cannot be lawfully achieved, the function enters a bounded safe state with named duty and remedy owners. **Architecture to be designed — institutional retirement:** Specify legal sunset, affected-party standing, successor appointment and enforced closure conditions.
+Institutional lifecycle review, bounded transitions and responsibility-continuity processes must support retirement of a mandate or institution without erasing records, remedies, confidentiality, compensation or other surviving duties. A useful continuing function does not confer immortality on its present holder. Eligibility for a successor, physical possession of records or a restored runtime is not a transfer of discretionary authority. Where safe continuation cannot be lawfully achieved, the function enters a bounded safe state with named duty and remedy owners. **Architecture to be designed — institutional retirement:** Specify legal sunset, affected-party standing, successor appointment and enforced closure conditions.
 
 # Chapter 209 — Governance Failure Boundary
 
