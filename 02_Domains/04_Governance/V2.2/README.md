@@ -32,3 +32,11 @@ The 22 section files are published. Complete the whole-document consistency revi
 - **Editorial cleanup:** inherited source/audit labels removed from Sections 07–09; other published sections screened for the same marker patterns.
 - **Architecture reconciliation:** Chapter 61 subsidiarity clarified to prohibit automatic GTP-based higher authority. Initial targeted checks of triadic ballot completion, expanded voting, emergency timing and GTP geometry found the established boundaries represented in the sections inspected.
 - **Still to verify before supersession:** exhaustive cross-chapter semantic consistency, cross-reference destinations, complete V1/V2 source survival and unresolved cross-domain implementation boundaries. These are not certified by the structural or marker checks.
+
+### Cross-reference and authority-boundary pass (2026-10-25)
+
+- **Chapter 61 corrected:** subsidiarity now distinguishes event-specific lawful wider-scope decisions from any supposed automatic GTP superior office.
+- **Numbered references:** inspected subsection reference targets in Sections 01–10; locally scoped explicit §-references checked in those sections resolve to existing numbered headings. This is a bounded syntactic check, not a full semantic or cross-domain citation audit.
+- **Triadic rule spot check:** Chapter 12 distinguishes two-matching-ballot mathematical determinacy from mandatory ordinary third-ballot completion; separately authorised emergency action remains the narrow exception. No rewrite needed in the inspected passages.
+- **Implementation authority spot check:** Chapter 12 distinguishes consumed consequential exercises from bounded continuing functions, and separately handles grant revocation at the host-effect boundary; no change made.
+- **Next:** inspect remaining cross-chapter references and higher-scale, recusal, emergency and authority-consumption statements, then decide whether any confirmed contradictions require chapter-level correction. Do not equate these checks with exhaustive source recovery or validation.
