@@ -607,7 +607,7 @@ They should trigger investigation rather than replace constitutional judgement.
 
 > **Metrics should remain evidence rather than invisible policy-makers. Once a measure becomes a target, incentive or authority trigger, Governance should presume its behaviour may have changed, preserve qualitative and independent evidence, and prevent the measured institution from becoming the sole judge of its own metric-defined success.**
 
-## 183.17 Recovered cross-source governance interface
+## 183.17 Cross-System Metric and Knowledge Interface
 
 
 Metrics inform judgement but cannot replace constitutional legitimacy. Improvement on safety or efficiency does not justify displaced rights; examine gaming, exclusions, denominators and provenance. **Architecture to be designed — metric contestation:** Specify independent metric challenge and correction.
@@ -619,9 +619,9 @@ Metrics inform judgement but cannot replace constitutional legitimacy. Improveme
 
 Capture can occur at agenda, measurement, model, access, credential, publication, commission or provenance layers. A high-confidence label on a report may conceal weak causal or authority claims. Distinguish the C0–C7 claim chain and test shared-source dependency before treating consensus or forecast metrics as constitutional justification. **Architecture to be designed — epistemic challenge:** Specify independent claim challenge and protected disclosure.
 
-## 183.19 Existing contested metric and knowledge-dependency interface
+## 183.19 Contested Metrics and Knowledge Dependencies
 
-Concord **State and Maturity Mapping** (§§10–16, 21–26) prohibits treating multidimensional maturity as a universal score; **KCS Change Propagation** (§§16, 20) records source corrections and dependent review without giving data suppliers governance authority. Public C0–C7 or other constitutional performance claims should preserve metric owner, source/version, methodology, uncertainty, challenge route and correction history. Disputed measures cannot become self-validating authority merely through repetition or dashboard visibility. Protected whistleblower evidence may require a purpose-bounded projection and independent reviewer rather than general publication. **[LOCAL ISSUE — FI-071, FI-044:]** independent calibration, whistleblower protection, contested metric standards and remedy competence remain open.
+Concord **State and Maturity Mapping** (§§10–16, 21–26) prohibits treating multidimensional maturity as a universal score; **KCS Change Propagation** (§§16, 20) records source corrections and dependent review without giving data suppliers governance authority. Public C0–C7 or other constitutional performance claims should preserve metric owner, source/version, methodology, uncertainty, challenge route and correction history. Disputed measures cannot become self-validating authority merely through repetition or dashboard visibility. Protected whistleblower evidence may require a purpose-bounded projection and independent reviewer rather than general publication. **Architecture to be designed — metric oversight:** Specify independent calibration, whistleblower protection, contested metric standards and remedy competence.
 
 # Chapter 184 — Governance Capture Through Reputation
 
@@ -1454,9 +1454,9 @@ What should not persist automatically is:
 
 Emergency classification and urgency can be exploited to extend power. Every grant requires specific necessity, time bounds, independent review and de-escalation. The institution exercising emergency authority cannot alone certify its continued necessity; recovery and ordinary governance must return. **Architecture to be designed — emergency expiry:** Specify independently authorised renewal and sunset enforcement.
 
-## 188.15 — State-triggered emergency expiry without authority renewal by trigger
+## 188.15 State-Triggered Emergency Expiry Without Automatic Renewal
 
-Concord **State Triggered Review Architecture** (§§9, 14) already separates condition detection, review due and authorised substantive action. Emergency review should be triggered by material changes in danger, affected rights, evidence, capability or dependency, with an independently progressing temporal backstop for stale or paused conditions. The variable Civilisation Clock is not a reliable sole emergency expiry or activation timebase. A review-due event cannot extend an expiring mandate: **Multi-Key Authority** (§§21–23) requires independently legitimate emergency activation and current-predicate verification at consequential commit. If authority expires, any continuing preservation action must have its own lawful source; no automatic emergency inheritance follows from useful infrastructure. **[LOCAL ISSUE — FI-011, FI-012, FI-032, FI-074:]** renewal issuer, review independence, hard expiry enforcement and exceptional rights-limitation thresholds remain open.
+Concord **State Triggered Review Architecture** (§§9, 14) already separates condition detection, review due and authorised substantive action. Emergency review should be triggered by material changes in danger, affected rights, evidence, capability or dependency, with an independently progressing temporal backstop for stale or paused conditions. The variable Civilisation Clock is not a reliable sole emergency expiry or activation timebase. A review-due event cannot extend an expiring mandate: **Multi-Key Authority** (§§21–23) requires independently legitimate emergency activation and current-predicate verification at consequential commit. If authority expires, any continuing preservation action must have its own lawful source; no automatic emergency inheritance follows from useful infrastructure. **Architecture to be designed — emergency oversight:** Specify renewal issuers, independent review, enforceable expiry and exceptional rights-limitation thresholds.
 
 # Chapter 189 — Governance Capture Through Security
 
