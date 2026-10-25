@@ -40,3 +40,10 @@ The 22 section files are published. Complete the whole-document consistency revi
 - **Triadic rule spot check:** Chapter 12 distinguishes two-matching-ballot mathematical determinacy from mandatory ordinary third-ballot completion; separately authorised emergency action remains the narrow exception. No rewrite needed in the inspected passages.
 - **Implementation authority spot check:** Chapter 12 distinguishes consumed consequential exercises from bounded continuing functions, and separately handles grant revocation at the host-effect boundary; no change made.
 - **Next:** inspect remaining cross-chapter references and higher-scale, recusal, emergency and authority-consumption statements, then decide whether any confirmed contradictions require chapter-level correction. Do not equate these checks with exhaustive source recovery or validation.
+
+### Later-section cross-reference and succession review (2026-10-25)
+
+- **Sections 11–22:** explicit locally scoped numbered §-references checked against numbered headings; no unresolved local targets detected by this syntactic check.
+- **Confirmed conflict corrected:** Chapter 210 §210.7 previously implied inheritance of defined emergency powers. Chapter 116 §116.9 contained the same ambiguity. Both now require independently lawful, expressly transferable and unexpired emergency authorisation; succession alone does not transfer exceptional authority. Protective duties and records survive separately.
+- **Targeted later-section review:** inspected recusal, expanded-triad constituent votes, ordinary three-ballot completion, emergency/Clock separation, jurisdiction and GTP nonhierarchy statements. No other confirmed direct conflict was established in the passages inspected.
+- **Remaining limits:** syntactic checks do not validate every external or cross-chapter pointer; exhaustive semantic comparison, duplicate-rule disposition and source-to-rule preservation are not yet certified.
