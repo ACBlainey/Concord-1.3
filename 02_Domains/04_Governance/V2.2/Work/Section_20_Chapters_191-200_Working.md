@@ -1,9 +1,5 @@
 # Governance V2.2 — Section 20 — Chapters 191–200
 
-# V2.1 Section 20 — Subsection Integration Draft 004
-
-**Developmental; not canonical.** All original source retained. Proposed insertions occur at precise subsection boundaries and are fully reversible.
-
 # Chapter 191 — Governance Capture Through Oversight
 
 ## 191.1 Oversight Power
@@ -1545,7 +1541,7 @@ It helps prevent category confusion.
 <!-- END G05 SOURCE INTERFACES AND LIMITATIONS -->
 
 
-<!-- V2.1 INTEGRATION 2026-10-13: AUTHORIAL SOURCE RECONCILIATION; DEVELOPMENTAL; REVERSIBLE -->
+
 ## 198.21 Spatial address, authority and jurisdictional conflicts
 
 A GTP spatial address locates participants and consequences; it does not prove authority or exhaust jurisdiction. Every proposed decision must identify subject, participants, geographic reach, material externalities, time and delegated mandate. Overlapping GTP fields do not merge voting rights. Positive jurisdiction conflicts follow the constitutional conflict procedure, not a presumption that larger triangles outrank smaller ones. Negative conflicts require legitimate referral or bounded coordination rather than improvised general power. Origin-included or origin-excluded expanded triads must establish issue-specific decision authority.
