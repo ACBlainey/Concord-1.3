@@ -219,7 +219,6 @@ Patterns may reveal structural capture.
 
 ## 181.17 Agenda control as governance capture
 
-**Recovered source:** V1 Governance Component Recovery Map G-R04,G-R09,G-R13; Governance Operating Boundary and Authority Lifecycle §§14–15.
 
 Control of intake, framing, admissible evidence, question wording, priority and scheduling can determine outcomes without casting a ballot. Preserve original civil submissions and rejected alternatives with provenance; require contestable reasons for classification and routing. Civilisation Clock priority must not change vote weight or permanently starve inconvenient matters. An agenda owner cannot transform procedural control into new substantive authority. **[LOCAL OPEN:]** independent priority review, anti-starvation and protected intake.
 
@@ -395,7 +394,6 @@ It may represent genuine learning.
 
 ## 182.14 Framing and manufactured civil problems
 
-**Source basis:** Legitimate Function and the Authority Justification Chain §§5–7,14–16.
 
 The first frame may conceal the actual civil problem. An institution may present resistance caused by its own restrictions as new instability or more detected minor violations as evidence for expanded surveillance. Preserve original observations, rights impacts, alternative causal explanations and proposed remedies. Where the authority materially creates the condition used to justify expansion, require independent examination. **[LOCAL ISSUE:]** independent framing challenge and feedback attribution.
 
@@ -403,7 +401,6 @@ The first frame may conceal the actual civil problem. An institution may present
 
 ## 182.15 Authority-generated evidence and causal independence
 
-**Audit source:** Authority Justification Chain Direct Adversarial Audit §§25–32 (historical adversarial evidence; not adopted law).
 
 The Authority Justification Chain adversarial audit requires checking whether existing power created, amplified or selectively revealed the condition used to justify more power. Its proposed AJC-01–AJC-10 rules add non-self-validation, non-manufacture, alternative functions, minimum effective scope, current justification, aggregation, irreversibility, provisional emergency response and bounded meta-authority. **[LOCAL ISSUE:]** independent causal examiner and rights review.
 
@@ -612,7 +609,6 @@ They should trigger investigation rather than replace constitutional judgement.
 
 ## 183.17 Recovered cross-source governance interface
 
-**Source basis:** Governance Operating Boundary and Authority Lifecycle §§14–20; Constitutional Emergency V2 Chapters 248–250.
 
 Metrics inform judgement but cannot replace constitutional legitimacy. Improvement on safety or efficiency does not justify displaced rights; examine gaming, exclusions, denominators and provenance. **[LOCAL ISSUE:]** Independent metric contestation.
 
@@ -620,7 +616,6 @@ Metrics inform judgement but cannot replace constitutional legitimacy. Improveme
 
 ## 183.18 Claim capture and confidence laundering
 
-**Source basis:** Epistemic Independence, Contestability and Provenance §§13–14,20,30,39–40.
 
 Capture can occur at agenda, measurement, model, access, credential, publication, commission or provenance layers. A high-confidence label on a report may conceal weak causal or authority claims. Distinguish the C0–C7 claim chain and test shared-source dependency before treating consensus or forecast metrics as constitutional justification. **[LOCAL ISSUE:]** independent claim challenge and protected disclosure.
 
@@ -911,7 +906,6 @@ Those questions require separate analysis.
 
 ## 185.13 Epistemic capture across triadic channels
 
-**Source basis:** Triadic Epistemics — Independent Measurement §§18–48; Recursive GTP Mesh §§33–40.
 
 Three nominally independent metrics may share sensors, training data, models, funding, infrastructure, definitions or incentives. Participant evidence can be manipulated or selectively sampled. Review common-mode failure, coordinated capture, false consensus, threshold manipulation and the ability of an epistemic institution to convert informational dominance into political power. **[LOCAL ISSUE:]** independence audit and protected whistleblowing.
 
@@ -1084,7 +1078,6 @@ And:
 
 ## 186.14 Cross-layer 2-of-3 capture risk
 
-**Audit source:** Triadic Epistemics Direct Adversarial Audit §§157–165 (historical adversarial evidence, not adopted law).
 
 The Triadic Epistemics audit identifies predictable 2-of-3 coalitions across epistemic, governance and review layers as a potential systemic capture path. Reusing triadic form for compatibility is not proof of independence. Investigate permanent vertical alignment, shared appointments, vendors, data, budgets and reviewer dependencies; cross-layer coalition risk does not alter the legitimate triadic Steward voting rule. **[LOCAL ISSUE:]** layer-specific independence assessment and cross-layer capture experiment.
 
@@ -1291,7 +1284,6 @@ The principle remains:
 
 ## 187.17 AI-enabled capture
 
-**Recovered source:** Governance Operating Boundary and Authority Lifecycle §§8,14–16.
 
 AI recommendations can become de facto decisions if accepted without independent reasoning, alternative evidence or meaningful refusal. Advice is not a fourth ballot. Audit model dependence, gatekeeping and execution. **[LOCAL ISSUE:]** independent challenge.
 
@@ -1459,7 +1451,6 @@ What should not persist automatically is:
 
 ## 188.14 Emergency capture and expiry
 
-**Source basis:** Constitutional Emergency V2 Chapters 5–14,41–50,211–244.
 
 Emergency classification and urgency can be exploited to extend power. Every grant requires specific necessity, time bounds, independent review and de-escalation. The institution exercising emergency authority cannot alone certify its continued necessity; recovery and ordinary governance must return. **[LOCAL ISSUE:]** independent renewal and sunset owner.
 
@@ -1596,7 +1587,6 @@ It should not create independence from constitutional accountability.
 
 ## 189.13 Security justification and identity-system capture
 
-**Audit source:** Concord Citizen ID — Threat, Privacy and Misuse Audit §§9–20,27–32; historical research evidence, not adopted law.
 
 Fraud prevention can be used to justify permanent exceptional access, identity scoring, unnecessary data correlation or location retention. Insider administrators and automated systems can create these harms even without declared hostile intent. Audit the effective power to correlate, classify and re-identify as well as the stated security objective. **[LOCAL ISSUE:]** independent access oversight, controlled linking and termination of exceptional access.
 
