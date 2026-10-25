@@ -402,7 +402,7 @@ The first frame may conceal the actual civil problem. An institution may present
 ## 182.15 Authority-generated evidence and causal independence
 
 
-The Authority Justification Chain adversarial audit requires checking whether existing power created, amplified or selectively revealed the condition used to justify more power. Its proposed AJC-01–AJC-10 rules add non-self-validation, non-manufacture, alternative functions, minimum effective scope, current justification, aggregation, irreversibility, provisional emergency response and bounded meta-authority. **Architecture to be designed — causal challenge:** Specify an independent causal examiner and rights review.
+Review of authority justification must check whether existing power created, amplified or selectively revealed the condition used to justify more power. Relevant safeguards include non-self-validation, non-manufacture, consideration of alternative functions, minimum effective scope, continuing justification, aggregation checks, irreversibility, separately bounded emergency response and bounded meta-authority. **Architecture to be designed — causal challenge:** Specify an independent causal examiner and rights review.
 
 
 
@@ -621,7 +621,7 @@ Capture can occur at agenda, measurement, model, access, credential, publication
 
 ## 183.19 Contested Metrics and Knowledge Dependencies
 
-Concord **State and Maturity Mapping** (§§10–16, 21–26) prohibits treating multidimensional maturity as a universal score; **KCS Change Propagation** (§§16, 20) records source corrections and dependent review without giving data suppliers governance authority. Public C0–C7 or other constitutional performance claims should preserve metric owner, source/version, methodology, uncertainty, challenge route and correction history. Disputed measures cannot become self-validating authority merely through repetition or dashboard visibility. Protected whistleblower evidence may require a purpose-bounded projection and independent reviewer rather than general publication. **Architecture to be designed — metric oversight:** Specify independent calibration, whistleblower protection, contested metric standards and remedy competence.
+Multidimensional maturity must not be reduced to a universal score; knowledge-change propagation must record source corrections and dependent review without giving data suppliers governance authority. Public C0–C7 or other constitutional performance claims should preserve metric owner, source/version, methodology, uncertainty, challenge route and correction history. Disputed measures cannot become self-validating authority merely through repetition or dashboard visibility. Protected whistleblower evidence may require a purpose-bounded projection and independent reviewer rather than general publication. **Architecture to be designed — metric oversight:** Specify independent calibration, whistleblower protection, contested metric standards and remedy competence.
 
 # Chapter 184 — Governance Capture Through Reputation
 
@@ -1079,7 +1079,7 @@ And:
 ## 186.14 Cross-layer 2-of-3 capture risk
 
 
-The Triadic Epistemics audit identifies predictable 2-of-3 coalitions across epistemic, governance and review layers as a potential systemic capture path. Reusing triadic form for compatibility is not proof of independence. Investigate permanent vertical alignment, shared appointments, vendors, data, budgets and reviewer dependencies; cross-layer coalition risk does not alter the legitimate triadic Steward voting rule. **Architecture to be designed — cross-layer capture:** Specify layer-specific independence assessment and cross-layer capture testing.
+Predictable 2-of-3 coalitions across epistemic, governance and review layers are a potential systemic capture path. Reusing triadic form for compatibility is not proof of independence. Investigate permanent vertical alignment, shared appointments, vendors, data, budgets and reviewer dependencies; cross-layer coalition risk does not alter the legitimate triadic Steward voting rule. **Architecture to be designed — cross-layer capture:** Specify layer-specific independence assessment and cross-layer capture testing.
 
 
 
