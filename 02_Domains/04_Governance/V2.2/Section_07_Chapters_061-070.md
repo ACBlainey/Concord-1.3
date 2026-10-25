@@ -895,7 +895,6 @@ The principle is:
 
 ## 64.5 Triadic Observation Does Not Constitute Governance Voting
 
-**Source basis:** Triadic Epistemics — Independent Measurement §§5–15 (candidate research).
 
 The research candidate distinguishes three differentiated formal observation pathways and a participant-derived evidence stream; these remain an evidential design candidate rather than a prescribed governance institution. These are epistemic channels, not three governance Stewards, and participant reports are not a fourth vote. Compare formal and lived evidence; persistent disagreement or silence requires diagnosis, not automatic suppression or compulsory response. **Architecture to be designed — independent observation interface:** Define evidence ownership, participant privacy and independence of observation channels.
 
@@ -1327,7 +1326,6 @@ Where material, AI-derived interpretation should remain traceable.
 
 ## 65.20 Recovered cross-source governance interface
 
-**Source basis:** V1 Governance Component Recovery Map G-R04, G-R08, G-R15; Governance Operating Boundary and Authority Lifecycle §§16–18.
 
 The decision record distinguishes proposal, mandate, competent context, evidence provenance, independent official ballots, abstention/dissent, resultant, implementation authority, receipts, observed effects and review triggers. Preliminary nonofficial reasoning and any separately authorised conference material are distinct from irrevocable official ballots. Historical custody and Research interpretation do not confer governance authority. **[LOCAL DEPENDENCY:]** Protected record projections, provenance schema and receipt reconciliation require host implementation.
 
@@ -1335,7 +1333,6 @@ The decision record distinguishes proposal, mandate, competent context, evidence
 
 ## 65.21 Claim-Level Evidence Record and Thresholds — Research Candidate
 
-**Source basis:** Epistemic Independence, Contestability and Provenance §§3–5,13–14,36 (preliminary research).
 
 The preliminary Civil Evidence architecture distinguishes C0 observation, C1 derived measurement, C2 interpretation, C3 prediction, C4 causal claim, C5 civil-relevance claim, C6 functional claim and C7 authority claim. Confidence attaches to individual claims, not a whole report. Its provisional thresholds E0 notice, E1 inquiry, E2 material concern, E3 functional justification and E4 special-authority justification are different evidential burdens, not automatic numeric grades. Preserve provenance and dependency across transitions; evidence sufficient to investigate is not necessarily sufficient to authorise. **Architecture to be designed — civil evidence interface:** Define domain-specific evidential standards and claim-level evidence schema.
 
@@ -1343,7 +1340,6 @@ The preliminary Civil Evidence architecture distinguishes C0 observation, C1 der
 
 ## 65.22 Triadic Epistemic Falsification Boundary — Adversarial Evidence
 
-**Audit source:** Triadic Epistemics Direct Adversarial Audit §§162–166 (historical adversarial evidence, not adopted law).
 
 The direct adversarial audit reports survival of plural observation only with material refinements: layer-specific dependency awareness, open external correction, no 2–1 truth rule, auditable anomaly triage and calibration against actual outcomes. A three-office design alone does not demonstrate independent evidence. **Architecture to be designed — adversarial validation:** Compare plural observation with simpler and open-network alternatives using independently reviewable evidence.
 
@@ -1900,7 +1896,6 @@ Review conditions should be proportionate to consequence.
 
 ## 66.26 Proposal registration and decision-field routing
 
-**Recovered source:** V1 Governance Component Recovery Map G-R02,G-R04,G-R06–G-R08 and mesh reinterpretation.
 
 A proposal begins as a defined civil problem, not a claim of power. Record the observed condition, proposed state change, affected persons and rights, evidence provenance, uncertainty, functional context and anticipated externalities. Identify the minimum competent governance context or combination of contexts, then verify its mandate. Expand information before expanding authority where feasible. If the matter crosses functional, geographic or resource boundaries, coordinate laterally or across resolutions; a constitutional question takes the independent constitutional route. A coarser GTP resolution has no inherent power over a finer one. Separate decision authority, implementation authority and retained local authority. **Architecture to be designed — cross-context proposal interface:** Define proposal schema, competing-context routing, information-access gates and cross-context consent.
 
@@ -1908,7 +1903,6 @@ A proposal begins as a defined civil problem, not a claim of power. Record the o
 
 ## 66.27 Threat Provenance Before Authority — Audit-Derived Candidate
 
-**Audit source:** Integrated Threat-Governance Loop Adversarial Audit §§37–39 (historical adversarial evidence; not adopted law).
 
 The integrated threat-governance audit proposes an end-to-end Threat Provenance Record: observation, sources, metric and proxy definitions, trigger, investigator and dependencies, competing analyses, confidence, temporal horizon, preparation lead time, alternative framings/functions, chosen civil objective, authority need/vector, aggregate effects, review, outcome and independent evaluation. Detection is not an authority grant. **Architecture to be designed — threat provenance interface:** Define minimum record fields and independent owner custody.
 
@@ -2165,7 +2159,6 @@ Governance should therefore review classification when practical effect changes.
 
 ## 67.16 Decision classification and consequence topology
 
-**Recovered source:** V1 Governance Component Recovery Map G-R04,G-R09.
 
 Classify a proposed decision by state change, severity, reversibility, rights, uncertainty, jurisdiction, urgency and dependencies. Priority affects processing order, not Steward vote weight. Distinguish ordinary, experimental, cross-context, emergency and constitutional-review routes; verify separate competence. **Architecture to be designed — classification interface:** Define thresholds, queue fairness and anti-starvation safeguards.
 
@@ -2333,7 +2326,6 @@ A restricted decision should remain capable of examination by authorised indepen
 
 ## 68.11 Articulability under urgency
 
-**Source basis:** Constitutional Emergency V2 Chapters 14–18; Governance Operating Boundary and Authority Lifecycle §§16–18.
 
 Even when urgency compresses procedure, significant decisions should record the question, available evidence, uncertainty, constitutional purpose, rights impact, alternatives, bounded power, responsible decision-holder, expected duration and later outcome. An AI model or specialist recommendation is not an authority transfer. Where contemporaneous detail is impossible, record the limitation and complete review when safe, without retrospectively rewriting what was known. **Architecture to be designed — emergency decision record:** Define minimum contemporaneous record and owner custody.
 
@@ -2603,7 +2595,6 @@ These questions remain open.
 
 ## 69.18 Functional Legitimacy Audit and Fiduciary Justification — Research Candidate
 
-**Source basis:** Legitimate Function and the Authority Justification Chain §§12–14,29–32 (research candidate, not adopted constitutional test).
 
 The research candidate proposes a ten-test legitimate-function audit for assessment and possible authorised adoption, not an independently binding constitutional test: LF-01 upstream traceability to rights and civil objective; LF-02 non-circularity; LF-03 rights compatibility; LF-04 functional specificity; LF-05 demonstrable need; LF-06 proportionality; LF-07 alternative means; LF-08 current relevance; LF-09 non-self-perpetuation; LF-10 reviewability. A declared mission or an existing office cannot certify its own legitimacy. Failed tests initiate scrutiny, not automatic erasure of a potentially legitimate function whose records are incomplete. **Architecture to be designed — legitimate-function assessment:** Define competent assessor, independent review and appeal for contested findings.
 
@@ -2611,7 +2602,6 @@ The research candidate proposes a ten-test legitimate-function audit for assessm
 
 ## 69.19 BCA Adversarial Qualifications to Legitimate Function — Audit Findings
 
-**Audit source:** BCA Adversarial Attack and Falsification Audit §§48–55, BCA-R1–R5 (historical adversarial evidence, not adopted law).
 
 The 100-attack BCA audit challenges a self-grounding function claim; its proposed refinements require independent adoption before becoming operative architecture. The audit distinguishes declared function from legitimate function and challenges unilateral authentication of high-impact activating conditions by the authority holder. Its proposed refinements are BCA-R1 legitimate function, R2 non-circularity, R3 fresh review on expansion, R4 independent validation of high-impact self-activation and R5 successor-function re-scoping. **Architecture to be designed — independent function recognition:** Define independent competence and authority without recursive self-certification.
 
@@ -2830,7 +2820,6 @@ Impartiality does not require absence of worldview.
 
 ## 70.13 Conflict, recusal and abstention
 
-**Source basis:** V1 Governance Component Recovery Map G-R10; Expanded Triadic Governance Reconstruction 001.
 
 Disclose material conflict. Abstention is not vacancy or Against; do not substitute simply to obtain a preferred vote. Recusal requires separate legal status and replacement authority; origin-triad conflicts may warrant exclusion from expanded field. Two matching valid official votes may already determine the mathematical majority, but all three official ballots remain mandatory before ordinary outcome effect; only separately authorised emergency action may proceed after two matching votes. **Architecture to be designed — recusal and substitution:** Define eligibility, lawful substitution and independent conflict review without treating abstention as vacancy.
 
