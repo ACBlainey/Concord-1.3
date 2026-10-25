@@ -903,7 +903,7 @@ The wider principle is:
 ## 174.27 Broken authority chain classification
 
 
-Use the research candidate diagnostic categories BC-1 missing evidence, BC-2 missing need, BC-3 excess scope, BC-4 obsolete function, BC-5 mission drift, BC-6 circular function, BC-7 rights conflict, BC-8 untraceable authority. Trace existing authority backwards to function, objective, rights-relevant problem and observed condition. A broken documentary chain triggers review, not automatic invalidation: the cause may be lost records or an unarticulated legitimate function. **Architecture to be designed — authority-chain review:** Specify independent classification and corrective authority.
+An authority-chain review may use diagnostic categories BC-1 missing evidence, BC-2 missing need, BC-3 excess scope, BC-4 obsolete function, BC-5 mission drift, BC-6 circular function, BC-7 rights conflict, BC-8 untraceable authority. Trace existing authority backwards to function, objective, rights-relevant problem and observed condition. A broken documentary chain triggers review, not automatic invalidation: the cause may be lost records or an unarticulated legitimate function. **Architecture to be designed — authority-chain review:** Specify independent classification and corrective authority.
 
 ## 174.28 Existing independent challenge to self-validating authority
 
@@ -1253,7 +1253,7 @@ Examine the causal chain from a lawful initial intervention through newly genera
 ## 176.16 Multidimensional authority vector and aggregate load
 
 
-The integrated audit proposes candidate authority vector A={P,G,T,C,I,R,D,S,V}: population, geography, time, coercion, information, resources, delegation, secrecy and reversibility. Each dimension requires independent necessity justification. Cumulative emergency powers, surveillance, secrecy and central resource control may trigger constitutional review, not automatic cancellation. **Architecture to be designed — authority vector:** Specify vector calibration and cross-office aggregation.
+A diagnostic authority vector A={P,G,T,C,I,R,D,S,V} may represent: population, geography, time, coercion, information, resources, delegation, secrecy and reversibility. Each dimension requires independent necessity justification. Cumulative emergency powers, surveillance, secrecy and central resource control may trigger constitutional review, not automatic cancellation. **Architecture to be designed — authority vector:** Specify vector calibration and cross-office aggregation.
 
 
 
