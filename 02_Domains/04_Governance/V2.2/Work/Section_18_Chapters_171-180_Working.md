@@ -408,21 +408,13 @@ It remains civilisational knowledge.
 
 > **Governance reconstruction should preserve substantive ideas, mechanisms, examples, safeguards, failure modes, implementation detail, developmental reasoning and unresolved questions before attempting consolidation. Brevity, elegance and apparent repetition are not sufficient reasons for deletion.**
 
-# Chapter 173 — The Governance V2 Draft Status
+# Chapter 173 — Governance Document Status and Correction
 
-## 173.1 Updated Draft
+## 173.1 Current Operational Status
 
-Governance V2 is an updated draft.
+Governance documents must accurately identify their current operational role and their historical relationship to superseded versions. Source preservation, validation and cross-system reconciliation are distinct activities; incomplete testing does not by itself suspend the operation of a lawfully adopted governance document.
 
-It is not yet the final canonical Governance document.
-
-This remains true even after source-complete reconstruction.
-
-Source completeness is one stage.
-
-Validation and cross-system reconciliation remain later stages.
-
-## 173.2 Why Finalisation Is Premature
+## 173.2 Why Continued Correction Is Necessary
 
 Several major Concord systems were developed after much of Governance V1.
 
@@ -443,7 +435,7 @@ Development is recursive.
 
 ## 173.3 Source Completeness Is Not Validation
 
-A source-complete Governance V2 may successfully preserve the architecture while remaining empirically unvalidated.
+A source-complete governance document may preserve its architecture while remaining empirically unvalidated.
 
 The distinction is:
 
@@ -463,7 +455,7 @@ Each requires separate examination.
 
 The intended sequence is:
 
-**Governance V2 source-complete reconstruction**  
+**Governance source-preservation and integration**  
 ↓  
 **Review Judiciary**  
 ↓  
@@ -493,21 +485,17 @@ The intended sequence is:
 ↓  
 **Validation design**  
 ↓  
-**Future canonical candidate**
+**Current operational text and documented future corrections**
 
 The exact order may change if dependencies make another sequence more useful.
 
 ## 173.5 Judiciary Gate
 
-Governance should not proceed into full Judiciary reconstruction on the assumption that Governance is already complete.
-
-The reconstructed Governance source should first pass preservation audit.
-
-This reduces the risk of building Judiciary against an accidentally incomplete Governance architecture.
+Judiciary reconstruction must identify the governance provisions it relies upon and check their source preservation and current operational status. Missing architecture must be recorded and addressed without treating a superseded version as current authority. This reduces the risk of building Judiciary against accidentally incomplete governance architecture.
 
 ## 173.6 Final Audit
 
-Before Governance is treated as a canonical candidate, it should be compared against:
+During governance source-preservation and subsequent correction reviews, compare the current document against:
 
 - the preservation baseline;
 - earlier Governance source material;
@@ -517,15 +505,9 @@ Before Governance is treated as a canonical candidate, it should be compared aga
 
 Unexplained accidental MISSING classifications should be eliminated.
 
-## 173.7 Canonical Candidate
+## 173.7 Meaning of Current Operational Status
 
-A future canonical candidate should mean:
-
-**Current best operational Governance architecture after preservation, reconciliation, failure analysis and validation appropriate to its evidence level.**
-
-It should not mean:
-
-**Finished forever.**
+Current operational status identifies the governance architecture in force, not a claim that it is complete, error-free or permanently fixed. Later corrections require the applicable lawful change process and traceable provenance.
 
 ## 173.8 Loyalty to Correction
 
@@ -533,11 +515,11 @@ The governing developmental principle remains:
 
 > **Loyalty to the Concord means loyalty to correction, not loyalty to any current document, institution or mechanism.**
 
-Therefore Governance V2 should be preserved strongly enough to learn from it and revisable enough to correct it.
+Therefore current and superseded governance texts must be preserved strongly enough to learn from them and revisable through lawful, traceable correction.
 
-## 173.9 Draft Status Principle
+## 173.9 Operational Status Principle
 
-> **Governance V2 remains a developmental constitutional architecture until source survival, neighbouring-system reconciliation, adversarial failure analysis and appropriate validation have been completed. Canonical status, when eventually assigned, means current rather than final.**
+> **The current operational Governance document is authoritative within its lawful scope even while source-survival reviews, cross-system reconciliation, adversarial analysis and validation continue. Superseded versions remain historical evidence, not parallel operational authority. Correction is an ongoing obligation, not a reason to mislabel the governing text as merely developmental.**
 
 # Chapter 174 — Immediate Ratchet-Derived Governance Amendments
 
