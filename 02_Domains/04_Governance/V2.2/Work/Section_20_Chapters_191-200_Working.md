@@ -1515,7 +1515,7 @@ It helps prevent category confusion.
 
 > **Authority should operate within defined geographic, functional, institutional, personal, technological or issue-specific jurisdiction. Overlaps require coordination, gaps require legitimate assignment, and neither first action, technical capability nor delegated implementation should create jurisdiction that the constitutional architecture did not confer.**
 
-<!-- BEGIN G05 SOURCE INTERFACES AND LIMITATIONS -->
+
 
 ### Cross-System Jurisdiction and Implementation Boundaries
 
