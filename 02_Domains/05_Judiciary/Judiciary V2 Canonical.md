@@ -28121,16 +28121,15 @@ Any reduced panel should record:
 
 # Chapter 1434 — Incomplete Triad
 
-Illness, recusal, communication failure or catastrophe may leave a Triad incomplete.
+Illness, recusal, communication failure or catastrophe may leave a Judicial Triad incomplete. An incomplete Triad cannot exercise authority that requires a complete three-Steward configuration. Loss of a Steward automatically triggers restoration of the lawful configuration, not relaxation of the authority requirements.
 
-The system requires rules for:
+Where case Stewards are selected by random selection, an unavailable, incapacitated or lawfully recused Steward is automatically replaced by a newly and independently randomly selected eligible Steward from the appropriate pool. Eligibility, competence, jurisdiction, conflicts, independence and any applicable exclusion or anti-manipulation rules must be checked before selection is accepted. The replacement occupies the vacant position and does not create an additional vote or decision unit. Remaining lawfully selected Stewards retain their positions unless separately disqualified.
 
-- replacement;
-- delay;
-- reduced operation;
-- or transfer.
+The case enters a non-decision-authorised restoration state while the required configuration is incomplete. The replacement receives the lawful case record and necessary opportunity for independent reasoning and participation. Once the complete configuration and all case-specific authority gates are satisfied, the state machine permits the case to resume. Selection and replacement events must be recorded with provenance.
 
-These rules should not be improvised during politically sensitive cases.
+If no eligible replacement is available in the immediate pool, the system must automatically invoke the next lawfully authorised alternate pool, extension or reassignment route rather than improvise reduced authority. It must not treat urgency or an incomplete panel as independent sources of authority.
+
+**To be designed/finalised:** exact selection-pool order, timeouts, anti-gaming safeguards, rules for replacement after deliberation or a submitted decision, exhaustion of eligible pools, and the state-machine interface for reconstitution and resumption.
 
 # Chapter 1435 — Recusal Cascades
 
