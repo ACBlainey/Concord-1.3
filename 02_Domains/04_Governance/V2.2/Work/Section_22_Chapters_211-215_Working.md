@@ -384,7 +384,7 @@ Current necessity should not be rewritten as proven superiority.
 ## 212.11 Development is not adoption
 
 
-Research, prototypes, simulation and blind module transfer can justify candidate specifications but not grant legal authority. Each mechanism must preserve provenance, source conflict and adoption status. Where historical work is omitted in migration, recover it without treating old labels as final precedence. **[LOCAL ISSUE:]** cross-version inventory and graduation criteria.
+Research, prototypes, simulation and blind module transfer can justify candidate specifications but not grant legal authority. Each mechanism must preserve provenance, source conflict and adoption status. Where historical work is omitted in migration, recover it without treating old labels as final precedence. **Architecture to be designed — development evidence:** Specify cross-version inventory, adoption provenance and implementation-evidence criteria.
 
 
 
@@ -551,7 +551,7 @@ It is useful for development history but no longer operational.
 
 The idea remains but now belongs principally to another Concord system or section.
 
-### CANDIDATE-IMPLEMENTATION
+### IMPLEMENTATION DESIGN REQUIRED
 
 The idea remains valuable as a possible implementation rather than constitutional requirement.
 
