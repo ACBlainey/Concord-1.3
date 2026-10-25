@@ -6875,6 +6875,16 @@ The relevant question is whether patterns suggest:
 
 Therefore individual changes should not become personal performance scores.
 
+## 7.7 Constitutional decision-unit equivalence and equal weighting
+
+For constitutional determination, **each complete Judicial Triad acts as one decision unit**, fulfilling the role that a single judicial decision-maker would fulfil in a non-Concord institution. Three Triads therefore constitute **three equal decision units**, not a nine-Steward aggregate vote. This is the same decision-unit conservation principle used for extended triads in Governance.
+
+Each Triad's internal three-Steward process supplies independent reasoning, resilience, anti-capture, anti-bias and deadlock resistance. Its internal 3:0 or 2:1 agreement is recorded as reasoning, confidence and provenance information; it does **not** increase or decrease that Triad's authority or weighting relative to another valid Triad.
+
+At the higher constitutional level, each valid Triad determination contributes **one** of the three equal inputs. Ordinary concordance of two of the three Triad determinations establishes the higher-level result where the determinations are substantively compatible and the applicable jurisdictional and procedural conditions are satisfied. Counting nine individual Steward preferences instead, weighting a Triad by its internal majority, or adding an extra vote for parallel participation would alter the constitutional decision unit and is not permitted.
+
+**To be designed/finalised:** precise treatment of abstention, incompatible or non-binary Triad findings, incomplete Triads and higher-level deadlock. These cases must preserve three equal decision units and may not be resolved by silently reverting to nine-person aggregation.
+
 # Chapter 142 — Measurement of the 3×3 Constitutional Court
 
 The Recursive Triadic Constitutional Court permits analysis at several levels:
