@@ -462,7 +462,6 @@ Governance should therefore preserve accountability for administrative influence
 
 ## 82.17 Routine administrative authority and its bounds
 
-**Source basis:** Legitimate Function and the Authority Justification Chain §§18–19,24,26.
 
 Routine low-impact civil functions may use low-friction standing operational permissions where the lawful mandate, permitted action, information access, resource, duration and termination are clear. Routine status is not immunity from audit; material change in impact, rights, consent or context requires revalidation. The authority to investigate whether power is needed must itself be bounded and must not presume the investigative result. **Architecture to be designed — routine versus exceptional authority:** Define impact thresholds and independently bounded investigative access.
 
@@ -821,7 +820,6 @@ Its purpose is to address failure of the reviewing architecture itself.
 
 ## 83.24 Appeal and review do not rewrite committed ballots
 
-**Source basis:** V1 Governance Component Recovery Map G-R13–15; Governance Operating Boundary and Authority Lifecycle §18.
 
 A review may examine validity, rights, evidence, implementation and remedy without altering the historical official vote. If new action is justified it needs its own authority and event. Judiciary review, governance correction and Historical custody have distinct functions. **Architecture to be designed — review and remedy:** Define review competence, independent jurisdiction and available remedies.
 
@@ -829,7 +827,6 @@ A review may examine validity, rights, evidence, implementation and remedy witho
 
 ## 83.25 Bounded Epistemic Appeal and Provisional Finality — Audit-Derived Proposal
 
-**Audit source:** Epistemic Independence Adversarial Audit §§38,45–46 (historical adversarial evidence; not adopted law).
 
 The epistemic adversarial audit proposes CH-0 authenticity through CH-8 authority-consequence challenge classes, and a bounded appeal sequence for possible lawful adoption rather than an already authorised appellate jurisdiction: initial assessment, material challenge, independent reconsideration, provisional finality, later reopening for new material evidence or process failure. Contestability is not veto or indefinite delay. **Architecture to be designed — epistemic appeals:** Define materiality thresholds, independent reviewers and protected evidence access.
 
@@ -1050,7 +1047,6 @@ For example, an institution rewarded for reducing complaints may make complaint 
 
 ## 84.14 Formal and Participant Evidence Discrepancy States — Research Candidate
 
-**Source basis:** Triadic Epistemics — Independent Measurement §§8–15 (candidate research).
 
 The research candidate's TE-1–TE-6 cross-channel states distinguish strong convergence, formal convergence with experiential absence, formal absence with experiential convergence, internal formal divergence, universal apparent convergence and universal uncertainty. Silence is ambiguous; apparent unanimity may hide shared dependencies or capture. Treat these as anomaly prompts, not automatic rights restrictions. **Architecture to be designed — cross-channel anomaly assessment:** Define thresholds, independent sampling, privacy and verification.
 
@@ -1058,7 +1054,6 @@ The research candidate's TE-1–TE-6 cross-channel states distinguish strong con
 
 ## 84.15 Identity Collision Is an Inquiry Trigger, Not Guilt — Audit Findings
 
-**Audit source:** Citizen ID Threat, Privacy and Misuse Audit §§9–13,34–35 (historical research evidence; not adopted law).
 
 Duplicate-use signals may reflect credential theft, fraud, stale sessions, mistaken linkage or legitimate hidden AI branching. No automatic penalty or public accusation follows a signal. Investigations should compare competing hypotheses with privacy-minimised evidence, and guard against fraudsters exploiting branching exceptions. **Architecture to be designed — identity anomaly review:** Define independent review and privacy-preserving re-key or branching reconciliation.
 
@@ -1216,7 +1211,6 @@ Quietly replacing inaccurate public explanations can weaken provenance.
 
 ## 85.12 Right to challenge and duty to answer
 
-**Source basis:** Epistemic Independence, Contestability and Provenance §§9–12,21–22.
 
 When material governance depends on a contestable factual or predictive claim, a competent evidence-based challenge should receive a reasoned response proportionate to consequence, urgency, relevance and uncertainty. Contestability is not universal veto. Preserve challenge, evidence, layer challenged, reviewer, disposition, reasons and effect on confidence or decision; a challenge to evidence is not automatic revocation of an immutable official ballot. **Architecture to be designed — material evidence challenge:** Define competent independent reviewer and bounded urgent response procedure.
 
@@ -1396,7 +1390,6 @@ The principle remains:
 
 ## 86.12 Safe termination of operational authority
 
-**Source basis:** Bounded Contextual Authority §§5–7,16.
 
 Operational authority may end with completed function, withdrawn consent, expiry, changed competence or end of emergency. Safe stopping may require independently justified transitional action. This is distinct from the consumed official Steward ballot, which cannot be revoked. **Architecture to be designed — safe stopping:** Define lawful consent withdrawal, bounded transition authority and safe-stop records without revoking a consumed ballot.
 
@@ -1551,7 +1544,6 @@ AI systems should remain subject to:
 
 ## 87.12 Public trust through correction
 
-**Source basis:** Constitutional Emergency V2 Chapters 14–18; Governance Operating Boundary and Authority Lifecycle §§16–19.
 
 Public trust is not obedience. Truthful communication acknowledges uncertainty, errors and dissent; subsequent correction preserves original evidence. Manipulative reassurance and self-certifying institutional claims are capture risks. **Architecture to be designed — public trust and disclosure:** Define privacy-safe disclosures and independent contestation.
 
@@ -2091,7 +2083,6 @@ The correction can become the next failure mechanism.
 
 ## 88.31 Governance Failure Classification and Cross-Domain Correction
 
-**Source basis:** V1 Governance Component Recovery Map G-R13; Governance Operating Boundary and Authority Lifecycle §§14–20.
 
 Governance failure must distinguish individual error, collective triad failure, institutional capture, information distortion, systemic design defects, failure to act and failure of restraint. Indicators such as repeated abstention or correlated recommendations are signals for independent examination, not automatic guilt. Corrective measures should isolate harmful authority, preserve provenance, support lawful review and restore ordinary operation without creating an unreviewable recovery office. **Architecture to be designed — governance failure correction:** Define independent reviewer constitution, proportionate protective restrictions and lawful correction triggers.
 
@@ -2353,7 +2344,6 @@ The answer may reveal a second failure in the detection architecture.
 
 ## 89.13 Governance failure detection without automatic condemnation
 
-**Recovered source:** V1 Governance Component Recovery Map G-R13; Governance Operating Boundary and Authority Lifecycle §§14–20.
 
 Detect both wrongful action and harmful inaction; watch for repeated abstention, unexplained procedural delay, evidence exclusion, correlated reasoning, unusual authority accumulation, information monopoly and persistent dependency. These are investigation triggers, not proof of wrongdoing. Preserve competing explanations, evidence available at the time and individual versus architectural causes. Distinguish governance-health monitoring from the independent authority to restrict or remove an officeholder. **Architecture to be designed — governance monitoring:** Define independent monitoring owner, thresholds and escalation without automatically restricting an officeholder.
 
@@ -2361,7 +2351,6 @@ Detect both wrongful action and harmful inaction; watch for repeated abstention,
 
 ## 89.14 BCA Audit Failure Classes and Aggregated Capability — Audit Findings
 
-**Audit source:** BCA Adversarial Attack and Falsification Audit §§3–25,48–51 (historical adversarial evidence, not adopted law).
 
 The adversarial audit exposed invented functions, self-declared emergencies, endless successor functions, combined partial authorities producing major power, surveillance required to enforce sunset, conflicts among legitimate functions and authority concealed in defaults. A single actor's permission may be bounded while aggregate capability is not. **Architecture to be designed — bounded authority aggregation:** Assess audit-derived aggregation, conflict resolution and privacy-preserving oversight proposals before lawful adoption.
 
@@ -2550,7 +2539,6 @@ This allows later revision.
 
 ## 90.12 Diagnosis and source-specific failure causes
 
-**Recovered source:** V1 Governance Component Recovery Map G-R13; Governance Operating Boundary and Authority Lifecycle §§16–20.
 
 Investigate whether failure arises from invalid mandate, bad evidence, inappropriate framing, missing affected parties, coordinated capture, flawed procedure, execution defect, dependency loss or unanticipated effects. Mirrored alternative explanations should remain open until evidence differentiates them. Review must not equate minority dissent, abstention or an adverse outcome with guilt. **Architecture to be designed — independent diagnosis:** Define bounded investigative access and independent diagnostic ownership.
 
@@ -2558,7 +2546,6 @@ Investigate whether failure arises from invalid mandate, bad evidence, inappropr
 
 ## 90.13 Adversarial anomaly overload and investigator capture
 
-**Audit source:** Triadic Epistemics Direct Adversarial Audit Attack Classes C–G,L–N (historical adversarial evidence, not adopted law).
 
 Anomaly flooding, outlier weaponisation and manipulated participant reports can consume finite investigation capacity and crowd out genuine severe harms. Investigators themselves can be captured through appointment, funding, shared evidence or stakeholder interests. Keep anomaly prioritisation contestable and preserve the ability to inspect low-frequency catastrophic outliers. **Architecture to be designed — anomaly triage:** Define anti-starvation protections, escalation and accountable triage ownership.
 
