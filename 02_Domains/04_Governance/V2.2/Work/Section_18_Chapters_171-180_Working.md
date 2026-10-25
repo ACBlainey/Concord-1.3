@@ -902,7 +902,6 @@ The wider principle is:
 
 ## 174.27 Broken authority chain classification
 
-**Source basis:** Legitimate Function and the Authority Justification Chain §§12,29–32.
 
 Use the research candidate diagnostic categories BC-1 missing evidence, BC-2 missing need, BC-3 excess scope, BC-4 obsolete function, BC-5 mission drift, BC-6 circular function, BC-7 rights conflict, BC-8 untraceable authority. Trace existing authority backwards to function, objective, rights-relevant problem and observed condition. A broken documentary chain triggers review, not automatic invalidation: the cause may be lost records or an unarticulated legitimate function. **[LOCAL ISSUE:]** independent classification and corrective authority.
 
@@ -1052,7 +1051,6 @@ Ignoring it does not eliminate it.
 
 ## 175.13 De facto authority beyond formal grants
 
-**Recovered source:** Governance Operating Boundary and Authority Lifecycle §§14–15,19–20.
 
 Funding, information, access, infrastructure, expertise and dependency can enable effective control without lawful mandate. Review aggregate power rather than only isolated grants. **[LOCAL ISSUE:]** independent capability graph.
 
@@ -1247,7 +1245,6 @@ Governance should determine whether an accumulating-power loop:
 
 ## 176.15 Authority accumulation through feedback
 
-**Recovered source:** Governance Operating Boundary and Authority Lifecycle §§10–15,19–20.
 
 Examine the causal chain from a lawful initial intervention through newly generated data, metrics, dependency, requests for expanded resources and subsequent grants. A policy's own outputs cannot independently certify its necessity or continuation. Audit cumulative capability across credentials, infrastructure and domain grants, not only each isolated permission. Require independent evidence and bounded successor-function justification before renewed authority. **[LOCAL OPEN:]** aggregate control graph and independent audit access.
 
@@ -1255,7 +1252,6 @@ Examine the causal chain from a lawful initial intervention through newly genera
 
 ## 176.16 Multidimensional authority vector and aggregate load
 
-**Audit source:** Integrated Threat-Governance Loop Adversarial Audit §§38–39 (historical adversarial evidence; not adopted law).
 
 The integrated audit proposes candidate authority vector A={P,G,T,C,I,R,D,S,V}: population, geography, time, coercion, information, resources, delegation, secrecy and reversibility. Each dimension requires independent necessity justification. Cumulative emergency powers, surveillance, secrecy and central resource control may trigger constitutional review, not automatic cancellation. **[LOCAL ISSUE:]** vector calibration and cross-office aggregation.
 
@@ -1368,7 +1364,6 @@ Independence should be substantive.
 
 ## 177.11 Recovered cross-source governance interface
 
-**Source basis:** Governance Operating Boundary and Authority Lifecycle §§4–5,10–12,19.
 
 Authority cannot certify its own necessity by invoking its prior powers or effects caused by its own interventions. Require independent examination of feedback loops and alternative explanations; function-derived authority contracts when need ends. **[LOCAL ISSUE:]** Independent evaluator and access.
 
@@ -1583,7 +1578,6 @@ Its existence increases practical autonomy.
 
 ## 178.16 Capture through dependency
 
-**Source basis:** Governance Operating Boundary and Authority Lifecycle §§14–15,19–20; Constitutional Emergency V2 Chapters 211–244.
 
 Dependence on one actor, infrastructure, budget, model or knowledge store can yield de facto command despite formally distributed offices. Identify alternative suppliers, portability, independent custody, exit routes and cumulative authority; require independent evidence before continued concentration. **[LOCAL ISSUE:]** dependency graph and remedies.
 
@@ -1591,7 +1585,6 @@ Dependence on one actor, infrastructure, budget, model or knowledge store can yi
 
 ## 178.17 BCA systemic fairness and combined authority
 
-**Audit source:** BCA Adversarial Attack and Falsification Audit §§8,48–51 (historical adversarial evidence, not adopted law).
 
 The 100-attack BCA audit distinguishes local legitimacy from systemic fairness (BCA-R10). Many lawful, narrowly scoped actions can impose concentrated burdens or combine into unreviewed effective power. Audit cross-actor consequences, dependency and delegation chains as well as individual permissions. **[LOCAL ISSUE:]** aggregation graph, rights-impact monitoring and independent review.
 
