@@ -519,19 +519,11 @@ Therefore current and superseded governance texts must be preserved strongly eno
 
 > **The current operational Governance document is authoritative within its lawful scope even while source-survival reviews, cross-system reconciliation, adversarial analysis and validation continue. Superseded versions remain historical evidence, not parallel operational authority. Correction is an ongoing obligation, not a reason to mislabel the governing text as merely developmental.**
 
-# Chapter 174 — Immediate Ratchet-Derived Governance Amendments
+# Chapter 174 — Governance Safeguards Against Authority Capture
 
 ## 174.1 Purpose
 
-The first major system consolidation completed before this Governance reconstruction was Ratchet V4.2.
-
-Ratchet exposed several governance questions that should not wait for the final cross-system audit.
-
-They are therefore explicitly incorporated here.
-
-These amendments do not give Ratchet Governance authority.
-
-They represent Governance learning from failure modes revealed during Ratchet development.
+Cross-system experience identifies recurring risks of authority capture through reputation, contribution, wealth, capability, participation and institutional dependence. The safeguards in this chapter are governance rules in their own right. No external system, including Ratchet, acquires governance authority merely because its development helped expose these risks.
 
 ## 174.2 Reputation Does Not Create Authority
 
