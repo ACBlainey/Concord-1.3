@@ -292,7 +292,6 @@ Expertise evidence should preserve relevant version provenance.
 
 ## 71.16 Dependency-Aware Epistemic Independence — Research-Derived Safeguards
 
-**Source basis:** Epistemic Independence, Contestability and Provenance §§2,6–9,15–17.
 
 Expertise has evidential weight but never sovereign power. Different institutions or AIs may share the same data, model, funding, assumptions, source, infrastructure or governance control; apparent convergence should be discounted for common-mode dependencies. Independence does not require isolation, but known dependency, diversity and contestability. Preserve minority evidence without treating all objections as equally valid. **Architecture to be designed — evidence independence:** Define common-source dependency assessment and protected dependency metadata without treating shared evidence as independent corroboration.
 
@@ -300,7 +299,6 @@ Expertise has evidential weight but never sovereign power. Different institution
 
 ## 71.17 Independent Expertise Under Shared Infrastructure — Audit Findings
 
-**Audit source:** Triadic Epistemics Direct Adversarial Audit Attack Class A (historical adversarial evidence, not adopted law).
 
 The audit attacks three different offices using one dataset, foundation model, assumption, sensor or supplier. Different organisational names do not establish independent evidence; track source, model, infrastructure, incentive and personnel overlap. Independence is relative to the failure being tested. **Architecture to be designed — dependency provenance:** Define auditable dependency maps, privacy-safe disclosure and protected source custody.
 
@@ -630,7 +628,6 @@ A highly active participant does not gain additional constitutional standing mer
 
 ## 72.21 Pseudonymous Participation and Accountable Civil Standing — Audit-Derived Safeguards
 
-**Audit source:** Citizen ID Threat, Privacy and Misuse Audit §§24–28,31–36 (historical research evidence; not adopted law).
 
 A civil identity must not become compulsory disclosure for every social interaction. Preserve legitimate anonymous and pseudonymous participation while allowing serious rights violations to be investigated through a separately authorised, auditable bridge. Identity uniqueness does not itself grant voting eligibility or office mandate; eligibility remains context-dependent. **Architecture to be designed — civil identity and participation:** Define anonymous petition access, identity challenge, and independently authorised accountability thresholds.
 
@@ -874,7 +871,6 @@ The appropriate architecture depends upon the role.
 
 ## 73.18 Delegation and retained local authority in the mesh
 
-**Recovered source:** V1 Governance Component Recovery Map G-R05–G-R08 and mesh reinterpretation.
 
 Delegation is purpose-specific and cannot transfer more authority than the delegator lawfully possesses. When a matter moves to an expanded decision field, identify the originating context, participating contexts, temporary decision authority, unaffected retained local authority and separate implementation mandate. Larger area, geometric containment, expert advice or cross-resolution coordination is not political seniority. A decision made across contexts may be implemented by local authorised actors without centralising execution. **Architecture to be designed — delegation and handoff:** Define overlapping-mandate resolution, lawful delegation acceptance and handoff receipts. Delegated mandates may expire or be separately withdrawn under their own rules; consumed official Steward ballots cannot be revoked or recast.
 
@@ -1250,7 +1246,6 @@ It is to create a selection architecture whose failure modes are visible and cor
 
 ## 74.25 Recovered cross-source governance interface
 
-**Source basis:** Stewardship Selection and Allocation README §§3–13; V1 Governance Component Recovery Map G-R10–12.
 
 Shared Steward selection architecture distinguishes participant tier, Education accreditation, function-specific competence, current eligibility, selection/allocation, appointment, mandate and contextual exercise. Historical holds protected provenance; Research may develop valid evaluation methods but neither system appoints. Parallel Stewards may build independently frozen reasoning records as a preferred ascension pathway, but shadow votes are never official votes, experience never guarantees promotion and no universal performance score is presently justified. **Architecture to be designed — Steward appointment:** Define lawful selector, competing-candidate process, vacancies, rotation and domain-specific appointment rules; accreditation or parallel service cannot themselves appoint.
 
@@ -1609,7 +1604,6 @@ Competence review should therefore preserve appropriate:
 
 ## 75.19 Competence is function-specific
 
-**Source basis:** Stewardship Selection and Allocation README §§3–13; Governance Operating Boundary and Authority Lifecycle §§3–9.
 
 Competence is evidenced for the actual decision class and context, not assumed from seniority, popularity, credentials alone or geometric GTP scale. Education accreditation, selection, appointment and live authority are distinct. Parallel service can provide independently recorded performance evidence but never an automatic office grant. **Architecture to be designed — competence assessment:** Define function-specific evaluation, independent assessment and the lawful appointment owner.
 
@@ -1893,7 +1887,6 @@ A persuasive AI explanation should not silently become constitutional interpreta
 
 ## 76.17 GTP Four-Direction Evidence Check — Research Candidate
 
-**Source basis:** Triadic Epistemics — Recursive GTP Mesh §§11–29 (candidate research).
 
 For material anomalies compare (1) internal independent observations, (2) lateral geographic and functional neighbours, (3) finer GTP spatial resolution and (4) larger-area context. These are epistemic perspectives, not votes or a parent-governance hierarchy. The geometric GTP parent/child terminology is strictly spatial. Widening observation must not silently expand political mandate. **Architecture to be designed — observation mesh:** Define appropriate spatial resolutions and functional-network evidence access without creating GTP command hierarchy.
 
@@ -2224,7 +2217,6 @@ Security should preserve information integrity without creating unreviewable inf
 
 ## 77.21 Overlapping authority contexts
 
-**Source basis:** Bounded Contextual Authority §§14–15.
 
 Simultaneous responder, employee, visitor and information-holder roles retain separate purpose and scope. Their permissions do not merge into unlimited authority. Delegation normally carries the delegator's bounds; a separately granted mandate requires its own justification. **Architecture to be designed — overlapping contexts:** Define bounded intersection of permissions and independently verified delegation evidence.
 
@@ -2449,7 +2441,6 @@ An emergency should not permanently collapse Governance into only the immediate 
 
 ## 78.16 Time horizons and non-starvation
 
-**Recovered source:** V1 Governance Component Recovery Map G-R09; Constitutional Emergency V2 Chapters 7–10; G05 Variable Civilisational Clock 059.
 
 The variable Civilisation Clock orders ordinary governance transitions but cannot be assumed to tick during emergencies. Record ageing and unresolved duration; priority classes affect order, not substantive vote weight. Urgent operations need independently progressing time and bounded state-machine activation; repeated deferral cannot indefinitely silence unpopular matters. **Architecture to be designed — temporal coordination:** Define independent emergency timers, urgency evidence, priority ageing and reconciliation on Civilisation Clock resumption.
 
@@ -2457,7 +2448,6 @@ The variable Civilisation Clock orders ordinary governance transitions but canno
 
 ## 78.17 Preparation Lead Time and Temporal Capture — Audit Findings
 
-**Audit source:** Integrated Threat-Governance Loop Adversarial Audit §§32–41 (historical adversarial evidence; not adopted law).
 
 Long-horizon threats may require preparation before visible harm; a claimed lead time can also be manipulated to justify premature or enduring exceptional power. Preserve horizon, confidence, preparation time, current action value and alternatives. Capability preparation does not automatically authorise coercion. **Architecture to be designed — threat lead-time review:** Define independent verification of preparation lead time and bounded Civilisation Clock interfaces.
 
@@ -2746,7 +2736,6 @@ Before critical deployment, Governance should consider:
 
 ## 79.18 Reversibility and optionality
 
-**Source basis:** Governance Operating Boundary and Authority Lifecycle §§17–22; Constitutional Emergency V2 Chapters 31–40.
 
 Where evidence is incomplete, prefer sufficient, proportionate and reversible interventions where available. Irreversible harm increases the need for independent evidence, bounded authority, alternatives and later review. A new state change that reverses an earlier outcome requires separate legitimate authority; an official ballot is not revoked. **Architecture to be designed — reversible execution:** Define decision-class reversibility, owner-issued execution receipts and independent effect verification.
 
@@ -2754,7 +2743,6 @@ Where evidence is incomplete, prefer sufficient, proportionate and reversible in
 
 ## 79.19 BCA Adversarial Irreversibility and Legibility — Audit Findings
 
-**Audit source:** BCA Adversarial Attack and Falsification Audit §§45,51 (historical adversarial evidence, not adopted law).
 
 The BCA audit's attacks 96–97 challenge the assumption that bounded scope alone justifies irreversible destruction; they recommend stronger evidence, proportionality and review as consequence increases. These audit findings do not independently create a new authority threshold. BCA-R9 proposes reasonably understandable operational authority rules and R12 proposes stronger review as irreversibility rises; their implementation requires lawful adoption and defined competent reviewers. **Architecture to be designed — irreversible consequence safeguards:** Define consequence thresholds and narrowly bounded urgency exceptions, without treating an audit proposal as an existing authority grant.
 
@@ -2979,7 +2967,6 @@ Dependency should inform dissolution design without creating institutional immor
 
 ## 80.14 Institutional creation and functional redundancy
 
-**Source basis:** Legitimate Function and the Authority Justification Chain §§8–11,20–23.
 
 Before establishing an institution, show that its function follows from a rights-relevant problem and legitimate civil objective; compare ordinary voluntary or consensual performance, existing institutional capability and competing means. Functional redundancy may improve resilience but can also duplicate authority, obscure accountability or manufacture institutional survival interests. A created institution receives only independently justified, bounded mandates; existence is not proof of need. **Architecture to be designed — institutional lifecycle:** Define establishment and termination authority, independent function assessment and resilience-versus-capture review.
 
