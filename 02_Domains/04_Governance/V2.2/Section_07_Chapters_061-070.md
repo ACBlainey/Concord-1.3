@@ -142,18 +142,15 @@ Neither eliminates constitutional constraint.
 
 Governance should occur at the lowest competent level.
 
-Higher authority should intervene where necessary, including where lower levels:
+Where a matter exceeds the competence or lawful scope of its immediate decision field, a separately authorised, event-specific wider-scope decision may be required, including where the affected field:
 
-- lack competence;
-- lack authority;
-- create wider externalities;
-- cannot resolve conflict;
-- or threaten constitutional rights.
+- lacks competence;
+- lacks authority;
+- creates wider externalities;
+- cannot resolve a cross-boundary conflict;
+- or threatens constitutional rights.
 
-Subsidiarity therefore protects both:
-
-- local autonomy;
-- and legitimate escalation.
+This is not an automatic upward transfer of authority through GTP spatial levels. Wider coordination or escalation must identify its own mandate, affected participants, competence and bounded decision procedure. Subsidiarity protects local autonomy while permitting lawful, event-specific escalation.
 
 ## 61.9 Horizontal Expansion
 
