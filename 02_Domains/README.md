@@ -36,3 +36,16 @@ The normal operating architecture assumes functioning qualification, eligibility
 - Existing related architecture includes Governance V2.2 §12.29.10 (first-Steward appointment boundary), Judiciary V2 Chapters 1414–1421 (appointment capture and provenance), and Education's *Judicial Education, Qualification and Stewardship Readiness Architecture 001* (knowledge → training → qualification → eligibility → appointment → bounded authority).
 
 **Development disposition:** Preserve this as an explicit cross-domain first-run architecture issue for future implementation planning. Do not reopen or alter the established steady-state domain systems solely to resolve the bootstrap question now.
+
+## Cross-domain operational architecture and development separation
+
+This rule applies to **all Concord domains, systems and operational architecture documents**.
+
+- **Operational documents describe the system itself:** its functions, requirements, states, authority boundaries, interfaces and procedures. Do not include working drafts, consolidation commentary, editorial status labels (such as “candidate”, “unfinalised”, “non-canonical” or “unverified”), audit narratives or speculative development discussion as descriptions of the architecture.
+- **Locate each genuine gap where its mechanism belongs.** At the precise relevant provision, use a concise marker such as **“To be designed”** or **“To be finalised”**, stating exactly which rule, interface, procedure or decision remains outstanding. Preserve all established surrounding architecture. Do not downgrade an entire system because one mechanism remains unresolved.
+- **Develop and reconcile outside operational documents.** Research, alternative designs, source comparisons, failure testing, editorial status, issues and author decisions belong in separately identifiable development/work records. Once resolved, incorporate the agreed operational rule into its proper location, replacing the gap marker and removing development commentary.
+- **Source labels do not decide architectural validity.** Earlier “canonical”, “non-canonical”, “candidate” or similar editorial labels are not grounds for ignoring architecture. Assess the substantive provisions and reconcile actual conflicts without silent deletion.
+- **Distinguish operational terms from editorial labels.** Terms such as “provisional” or “interim” are permitted where they define a real, bounded operational state or authority (for example, an interim emergency judicial order). Do not use them merely to imply that the operational text is a draft.
+- **Cross-domain ownership:** Where a missing mechanism spans domains, mark the relevant interface at its operational location and carry out the shared design work separately. Incorporate the resulting rule consistently at each affected interface, using cross-references instead of unnecessary duplication.
+
+**Operational rule:** The documents show **what the Concord does and what remains specifically to be designed**, not the history or process of developing it.
