@@ -1517,7 +1517,7 @@ It helps prevent category confusion.
 
 <!-- BEGIN G05 SOURCE INTERFACES AND LIMITATIONS -->
 
-## 198.20a Cross-System Jurisdiction and Implementation Boundaries
+### Cross-System Jurisdiction and Implementation Boundaries
 
 Jurisdiction must be checked independently of spatial identification. Triadic selection, independent voting, lawful aggregation, recusal and authority limits apply within the competent decision field; GTP intersections and resource-collision identifiers do not themselves confer jurisdiction. Emergency mandates require a competent issuer, necessity, proportionality, independent expiry and review. Knowledge, maturity and Civilisation Clock systems provide evidence and state context, not new authority. Historical and Continuity preserve provenance and surviving duties, while Civil Contact may route requests without adjudicating them. Steward qualifications and appointments require their own lawful selection process.
 
@@ -1773,60 +1773,21 @@ The principle remains:
 
 > **Concord systems may legitimately disagree because they answer different questions and operate under different functions. Governance should integrate their evidence without allowing Science, Judiciary, Metrics, KCS, Ratchet, Roadway, AI, Planning or another subsystem to become an automatic master authority outside its constitutional jurisdiction.**
 
-<!-- BEGIN G05 GRADUATION REQUIREMENTS -->
+## 199.18 Independent Owner Acknowledgement and Disagreement
 
-## Graduation gate
-Do not promote this candidate to canonical governance until: (a) source-resolution against preserved V1/V2 and graduated modules; (b) explicit owner and constitutional review; (c) real integrated negative/positive tests with tamper, concurrency, expiry and privacy scenarios; (d) audit of overlapping mandates and surviving duties; (e) tracked chapter-patch integration and section assembly; and (f) documented independent validation and change provenance.
+Cross-system reconciliation requires an event identifying the competent source owners, relevant source revisions, mandate, affected duties and protected provenance. Each owner must independently authenticate and check scope before accepting or rejecting its part. Duplicate identical acknowledgements may be idempotent; stale, conflicting or replayed acknowledgements require review. Agreement among owner projections is not itself a custody transfer, duty discharge, substantive decision or constitutional authority. An owner's absence or disagreement must remain visible rather than being treated as consent.
 
-**Preservation rule:** `../Governance V2 Canonical.md` remains unchanged. This file provides modular V2.1 incorporation and a traceable integration boundary, not an overwrite.
+## 199.19 Protected Cross-System Reconciliation
 
-<!-- END G05 GRADUATION REQUIREMENTS -->
+Where a transfer or recovery affects custody, succession, orphan obligations, identity or protected beneficiary records, each domain retains its own authoritative state and lawful duties until a separately authorised transition is confirmed. Public duty status must be separable from private beneficiary identifiers; any privileged projection requires current, purpose-bounded access checks. Historical preserves provenance; Continuity addresses recovery; Civil Contact supports lawful routing. None of these services independently confers a steward appointment, jurisdiction or right to terminate an obligation.
 
-<!-- BEGIN G05 INTEGRATION STATE AND GRADUATION 003 -->
+**Architecture to be designed — owner reconciliation:** Specify authenticated owner attestations, durable concurrent updates, revision conflict and revocation handling, idempotent journal replay, privacy-enforced projections, lawful custody transfer, independent duty closure and orphan referrals. Define cross-domain acceptance, owner-specific remedies and state-machine handoff for partial or unknown outcomes.
 
-## Integration state
-| Boundary | Status | Remaining dependency |
-| --- | --- | --- |
-| GTP spatial mesh and triadic governance | Documented interface | Source-resolution against V1 triadic mechanics and V2 chapter patches |
-| BTA partial transitions | Candidate tests | Graduated BTA contract and real owner-system transition events |
-| KCS dependency invalidation | Candidate tests | Authenticated change feed and revalidation |
-| Emergency/Clock separation | Candidate tests | Constitutional Emergency V2 mandate/issuer/clock semantics |
-| Continuing duties and orphan referral | Candidate tests | Durable owner records and privacy-safe projections |
-| Custody reconciliation | Stages 088–089 passed | Authoritative identity, signatures, conflict and revocation |
-| Multi-owner acknowledgements | Stage 090 candidate | Actual owner services, atomic compare-and-swap, durable ledger |
-| Cumulative/distributed restriction review | Stages 086–087 passed | Constitutional review criteria and cross-kind aggregation |
-| Historical/Continuity/Civil Contact | Interface only | Explicit acceptance by respective domain owners |
+## 199.20 Evidence and Implementation Boundary
 
-## Acknowledgement contract candidate
-A proposed reconciliation event names the competent source owners. Each owner independently accepts or rejects the event after authenticating the sender, checking scope and source revision, and preserving provenance. Duplicate identical acknowledgements are idempotent; conflicting or replayed acknowledgements are held for review. All required acknowledgements permit only a **projection-consensus report**, never automatic custody assignment, discharge of duties, or constitutional authority.
+A passing simulation, test fixture, acknowledgement journal or privacy projection demonstrates only the behaviour actually tested. It cannot certify deployed identity verification, cryptographic trust, owner-service integration, atomic transitions, privacy enforcement or lawful authority. Operational evidence must distinguish tested components from live, owner-authorised transitions and include adverse cases such as stale revisions, conflicting attestations, concurrent edits, interrupted custody transfers and a paused Civilisation Clock.
 
-Stage 090 intentionally uses externally asserted booleans for authentication and scope. It **does not implement cryptographic signatures**, durable storage, a secure transport, real atomic transactions or owner-service integration. The journal's owner list is supplied by the caller; it is not an authoritative owner registry.
-
-## Graduation sequence
-1. Complete source-to-rule traceability across V1/V2, graduated BTA, GTP, KCS, Constitutional Emergency, Historical, Continuity and Civil Contact.
-2. Validate privacy projections and redaction of beneficiary references.
-3. Build independent owner-service adapters with authenticated attestations, idempotent event IDs, conflict/revocation and audit logging.
-4. Run real end-to-end failure/recovery cases, including concurrent edits and paused Civilisation Clock.
-5. Integrate approved rules into appropriate Governance V2.1 chapter patches and ten-chapter sections, preserving the 215-chapter V2 canonical source.
-6. Obtain owner/constitutional review before marking anything canonical.
-
-**Never treat a passing synthetic CI test as proof of system integration or authority.**
-
-<!-- END G05 INTEGRATION STATE AND GRADUATION 003 -->
-
-<!-- BEGIN G05 STAGES 088-091 CROSS-SYSTEM EVIDENCE BOUNDARY -->
-
-### G05 Stages 088–091 — Cross-system evidence and remaining integration boundary
-
-The verified prototype sequence comprises Stage 088 (12 cross-stage tests), Stage 089 (18 custody reconciliation tests), Stage 090 (20 acknowledgement-journal tests), and Stage 091 (16 privacy-projection tests), with 21 successful CI stages and 299 passing tests across G05 stages 070 and 072–091, as recorded in `Validation/README.md`. These counts describe fixture coverage only, not deployed system integration.
-
-Stage 088 demonstrates that independently owned duty, succession and orphan records can diverge after a custody transfer. Stage 089 checks proposed reconciliation records for identity, provenance, revision and attestation consistency, without mutating owner ledgers. Stage 090 checks independent acknowledgement, replay, stale revisions and conflicts; unanimous acknowledgements mean projection consensus, not authority or discharge. Stage 091 separates public duty status from beneficiary references but relies on a caller-supplied access-verification boolean, not actual authentication or contextual wrappers.
-
-**Integration requirements remain:** independently authenticated and scoped owner attestations; durable, concurrent, idempotent projection updates and revocation; owner-authorised custody transfer and duty closure; contextual-wrapper privacy enforcement; Historical archival provenance; Continuity and Civil Contact routing; BTA transition semantics; KCS dependency changes; independent emergency mandate expiry during Civilisation Clock pauses; and cross-controller cumulative restriction review. No passing fixture can itself establish any of these authorities or capabilities.
-
-**Provenance:** `G05 — Custody Reconciliation Protocol 002.md`, `G05 — Integration and Graduation Register 003.md`, `Validation/README.md`, and Stage 091 implementation/tests. This is an explicit source-to-section integration boundary; it does not overwrite or reinterpret the preserved Governance V2 source.
-
-<!-- END G05 STAGES 088-091 CROSS-SYSTEM EVIDENCE BOUNDARY -->
+**Architecture to be designed — cross-system validation:** Specify independently controlled owner services, durable authenticated transport and storage, protected records, negative and positive end-to-end tests, surviving duties, emergency expiry independent of the Civilisation Clock, cumulative restrictions across controllers, constitutional review and traceable correction. No integration or validation result may independently enlarge authority.
 
 # Chapter 200 — Governance as Integration
 
