@@ -1017,7 +1017,7 @@ Emergency succession may require accelerated transfer.
 
 The No Emergency Inheritance principle remains:
 
-> **A successor inherits only the defined emergency authority constitutionally attached to the office or emergency condition, not the accumulated discretionary authority or informal power of the previous officeholder.**
+> **A successor does not automatically inherit emergency authority. Any transfer requires an expressly transferable, still-valid emergency mandate and independent satisfaction of appointment, competence, scope, review and expiry conditions; otherwise fresh lawful emergency authorisation is required. Surviving duties continue without renewing discretionary emergency powers.**
 
 ## 116.10 Transfer and Accountability
 
