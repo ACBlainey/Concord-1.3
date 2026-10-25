@@ -2048,9 +2048,9 @@ Succession should not become inheritance of personal discretion.
 
 ## 210.7 Emergency Succession
 
-The principle remains:
+**Emergency authority is not inherited merely through succession.** A successor may exercise only the remaining scope of an independently lawful, expressly transferable and still-active emergency mandate, after satisfying the applicable appointment, competence, confirmation, review and expiry conditions. If that mandate does not authorise transfer, fresh emergency authority is required; ordinary office succession alone conveys none. No successor receives accumulated discretion, a restarted emergency clock, an enlarged jurisdiction or an exemption from ordinary governance. Surviving protective duties and records continue even where emergency discretionary authority expires.
 
-> **A successor inherits defined emergency authority, not accumulated discretionary authority.**
+> **Succession preserves lawful continuity of duties; it does not automatically transfer or renew exceptional emergency powers.**
 
 ## 210.8 Functional Migration
 
