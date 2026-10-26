@@ -5323,6 +5323,16 @@ If all judges rotate simultaneously, jurisprudential memory and institutional co
 
 Staggered rotation may therefore improve resilience.
 
+## 93.4 Fixed Terms, Rotation and Educational Renewal
+
+Judicial Steward offices have fixed terms, with term duration **to be finalised**. Terms should be staggered to preserve institutional continuity. Completion of a term ends the particular appointment and its office mandate; it does not automatically erase the Steward's earned qualification or Historical accreditation.
+
+A qualified former Judicial Steward may apply for a further judicial appointment, subject to renewed eligibility, capacity, competence and independence checks. Reappointment to the same judicial position or area in an immediately consecutive term is not permitted; rotation to a different eligible area or position limits local entrenchment. **To be finalised:** term length, geographical or jurisdictional boundaries defining the same area, and any longer-term return or lifetime occupancy restrictions.
+
+End of term is the ordinary opportunity for **patch education**: structured updating of knowledge and competence concerning changes in law, constitutional interpretation, judicial process, relevant technology, cross-domain interfaces and operational learning. Education assesses updated competence through the existing qualification and accreditation pathway; it does not appoint Stewards or impose ideological conformity. Completing patch education does not itself grant office or case-specific decision authority.
+
+Early removal remains distinct from normal term expiry. It requires defined conduct, fitness, incapacity or disqualification grounds and an independent lawful process. Unpopular lawful judgments, disagreement and good-faith reasoning do not constitute removal grounds.
+
 ## 93.3 Renewal Risk
 
 Where terms are renewable, reappointment can become a pressure mechanism.
