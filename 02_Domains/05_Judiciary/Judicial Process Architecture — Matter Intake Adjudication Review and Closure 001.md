@@ -775,6 +775,14 @@ Possible grounds:
 
 ---
 
+## 58A. Appeal registration, evidence-development interval and urgent review
+
+Where an appeal is automatic under the applicable rules, it is registered and preserved without a discretionary new merits gate. Immediate registration does not require an immediate substantive appellate hearing. In particular, fast AI adjudication must not deprive participants, investigators or fiduciaries of meaningful time to discover evidence, investigate changed circumstances or prepare independent review. The ordinary interval and its state-machine conditions remain to be designed; three to six months are candidate periods, not a universal rule. A lawful shorter or longer interval may be appropriate for the case.
+
+Registration, preservation of evidence and the appeal right are distinct from substantive hearing readiness. Interim measures, stays, custody, safety and irreversible consequences require independently authorised, timely decisions while an appeal is pending. An urgent accelerated review path must exist when waiting would create serious or irreversible harm, without defeating procedural fairness. An appeal may also concern legal or procedural error even when no new evidence appears. See Judiciary V2 Section 79.2 for the corresponding appeal-timing architecture.
+
+---
+
 ## 59. Appeal != retrial automatically
 
 Review may:
