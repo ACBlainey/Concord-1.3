@@ -866,6 +866,14 @@ Enforcement itself requires bounded authority.
 
 ---
 
+## 63A. Official communications handoff for enforcement
+
+Judiciary and the lawful executing system each have an official endpoint under the *Official Concord Communications System — Cross-Domain Channel Architecture 001* (02_Domains). Judiciary transmits a signed, provenance-linked order identifying the decision and version, operative scope, affected case, applicable stay/appeal conditions and authorised recipient. The executing system acknowledges receipt and independently checks its own authority, permissions and current state-machine conditions before execution. Receipt does not confer authority, and Judiciary does not take operational control of the recipient.
+
+The recipient returns a distinct accepted, executed, pending, rejected or impossible status with provenance. Missing acknowledgements and conflicting, stale or superseded orders trigger defined exception handling; they are never presumed executed. Appeals, stays and changes to orders are communicated as linked state updates. Special-purpose channels may be introduced later without changing these boundaries.
+
+---
+
 ## 64. Enforcement scope
 
 Enforcement agent must act within:
