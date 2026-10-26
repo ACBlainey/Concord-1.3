@@ -1402,6 +1402,10 @@ The Concord does not attempt to eliminate the tension.
 
 It attempts to govern it.
 
+## 9.3 Procedural finality and independent exceptional correction
+
+The operational boundary for recursive review is set out in Section 11, Chapter 389.1. A lawful decision may be procedurally final without claiming epistemic certainty. Ordinary appeals have finite authorised routes; repeated challenges to the same act on unchanged grounds do not generate new authority merely by targeting successive reviewers. Exceptional correction requires a genuinely new material ground and independent, bounded admission. Disciplinary, audit, educational and historical learning may continue after finality but cannot themselves alter a judgment. Every reopening or correction is a separate authorised decision with its own provenance; original committed votes are never silently revised.
+
 # Chapter 10 — No Branch Owns the Truth
 
 The constitutional separation between Governance and Judiciary rests upon a broader epistemic principle.
