@@ -1347,6 +1347,10 @@ Repeated recusal could disable the Court.
 
 The architecture therefore requires a lawful mechanism for extreme conflict cases.
 
+## 1435.1 Recusal cascade recovery and anti-manipulation
+
+A recusal cascade invokes Chapter 1434's automatic restoration state, including lawful conflict screening and alternate-pool escalation. Where no independently eligible panel can be formed, the case remains RECOVERY BLOCKED / NO DECISION AUTHORITY until a lawful recovery route becomes available. An interested party's asserted conflict is not by itself an adjudicated disqualification: allegations are independently assessed and recorded before a Steward is removed from a case. Selection-pool extensions must preserve randomisation, competence and independence; neither a litigant nor a conflicted official may choose a favourable replacement. Urgent protection requires a separately valid authority, not an exception manufactured by the failed panel.
+
 # Chapter 1436 — Court-Packing Through Recusal
 
 Actors may attempt to manufacture conflicts to remove unwanted judges.
