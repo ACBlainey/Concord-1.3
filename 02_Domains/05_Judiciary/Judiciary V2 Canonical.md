@@ -1134,6 +1134,14 @@ This guarantee does not apply automatically to a multi-outcome question. Three d
 
 A complete Triad with an unavailable Steward must use the lawful replacement and revalidation mechanism before casting its decision; missing inputs cannot be counted as votes. Where the case presents genuinely non-binary alternatives, their lawful decomposition into separate questions, or a separate explicitly authorised resolution process, remains **to be designed/finalised**. No decomposition may erase material legal distinctions or predetermine an outcome. The three equal decision units and their provenance remain intact.
 
+## 7.3B Judicial decisions as bounded actions and non-authorisation
+
+Every judicial decision is an action changing, confirming or declining to change a lawful state. In a criminal merits decision, the proposed coercive action is conviction. The court must establish the applicable legal and evidential conditions and obtain the required lawful triadic support before the conviction state may activate. A failure to authorise conviction is not a voting deadlock and may never be treated as permission to convict.
+
+For example, one vote to convict, one vote against conviction and one reasoned abstention yields only one of three Stewards supporting conviction (33⅓% vote-support confidence), below a two-of-three authorisation threshold. This percentage records agreement/support among decision units, **not** a calibrated probability of guilt and **not** a substitute for the independent burden and standard of proof. An abstention is not silently converted into a conviction vote or removed from the denominator.
+
+The state machine must distinguish (a) a complete, lawful merits determination in which conviction is not authorised, from (b) a procedurally incomplete or invalid configuration requiring restoration, replacement or further lawful process. Whether a completed failure to convict is recorded as acquittal or another defined final disposition must follow the applicable criminal procedure and finality rules; no second attempt may be manufactured merely to obtain a preferred verdict. Constitutional review and other judicial remedies likewise require an explicit authorised action and valid decision gate, but do not automatically inherit criminal conviction's presumption or proof standard.
+
 ## 7.4 Independence Between Triads
 
 The three Triads must be meaningfully independent.
