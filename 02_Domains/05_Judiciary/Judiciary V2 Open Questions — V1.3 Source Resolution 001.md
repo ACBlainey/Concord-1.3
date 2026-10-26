@@ -34,6 +34,26 @@ This document classifies each Chapter 1215 question as:
 
 ---
 
+## 1A. Subsequent source-recovery findings (October 2026)
+
+This register's original OPEN classifications describe its earlier source-resolution snapshot, **not** the current operational status of every item. Subsequent Judiciary V2, Judicial Process, Education, Research and cross-domain communications work has established fixed terms and rotation principles; public-by-default end-of-term appraisal; competence renewal; automatic restoration of unavailable case Stewards; three-month ordinary substantive appeal scheduling with expedited procedural-defect exceptions; binary triadic decision non-deadlock; and official inter-domain order/receipt channels.
+
+Further existing architecture relevant to remaining gaps has been located:
+
+| Remaining interface | Reusable Concord source | Status after source check |
+| --- | --- | --- |
+| Judicial selection and appointment | Education judicial qualification/readiness; Governance Operating Boundary and Authority Lifecycle; Bounded Contextual Authority | Qualification and bounded-authority prerequisites exist; independent appointment selector and founding bootstrap still require lawful design |
+| Judicial conduct, suspension and removal | Judiciary V2 Chapter 93; Governance authority lifecycle; Bounded Contextual Authority (functional sunset, revocation and safe termination) | Grounds, independence and competence interfaces exist; independent investigator/adjudicator, suspension threshold and appeal remain |
+| Exceptional case states and replacement | Judiciary V2 case-Steward automatic replacement; Continuity Protocol Companion Upgrade 001 (recovery, succession, minimum acceptable function) | Normal automatic replacement exists; exhausted eligible pools, correlated failures and safe degraded operation require explicit case-state mapping |
+| Recursive oversight finality | Governance authority lifecycle (review and termination); Bounded Contextual Authority (inherent functional sunset); Judiciary appeal finality | General authority-termination principles exist; bounded challenge termination and independence across recursive reviews require cross-domain resolution |
+| Ordinary appellate routing | Judiciary V2 appellate architecture; Judicial Process Part VIII; Judiciary V2 Section 79.3 | Appeal function and timing exist; exact levels, routes, panels and permission/as-of-right conditions remain |
+| Cross-domain judicial enforcement | Official Concord Communications System — Cross-Domain Channel Architecture 001; Judicial Process Section 63A | Official authenticated handoff and receipt states exist; executing-system authority and detailed failure handling remain |
+| Evidential standards | Research Judicial Evidence and Standards of Proof — Research Interface 001; Education Section 28B; Judicial Process Section 48A | Responsibility chain established; specific lawfully adopted case-type standards still require substantive research and procedure |
+
+These are **source matches, not assertions that the interfaces are already fully implemented**. Development and historical source material may inform design but does not supersede current operational documents. Portable Modules do not govern operational architecture.
+
+---
+
 # PART I — INSTITUTIONAL JUDICIARY
 
 ## A. Judicial Steward Selection
