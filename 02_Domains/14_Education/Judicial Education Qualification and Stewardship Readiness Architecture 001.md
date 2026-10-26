@@ -651,7 +651,9 @@ Education receives appropriately protected lessons from Judicial Steward end-of-
 
 Education evaluates educational implications independently and may not change judgments, impose discipline, appoint or remove Judicial Stewards, or require conformity to preferred legal outcomes. Changes to Judiciary procedures remain within Judiciary's lawful processes. Case confidentiality, privacy, provenance and independence apply to all transfers. Repeated patterns across cases and Stewards should be assessed without treating a single adverse outcome as a disqualifying score.
 
-**To be designed/finalised:** structured referral format, protected-information boundaries, aggregate pattern analysis, review cadence and interfaces with Judiciary and Historical.
+Educational case-study intake uses existing Historical purpose-bound access, privacy classification, identity-restricted provenance and separate correlation permissions, and the contextual-access and minimum-necessary projection principles already established for Health records. Education receives only the protected case extract needed for its training or competence-assessment purpose, not automatic access to complete judicial records. Any identity linkage, access expansion or disclosure requires its own legitimate basis and auditable provenance; rare or unusual cases must be reviewed for re-identification risk.
+
+**To be designed/finalised:** structured referral format, mapping of educational roles to existing Historical access permissions and minimum-necessary case projections, aggregate pattern analysis, review cadence and interfaces with Judiciary and Historical.
 
 ---
 
