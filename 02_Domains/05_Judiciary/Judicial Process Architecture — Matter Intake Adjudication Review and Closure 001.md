@@ -648,6 +648,14 @@ Do not yet import conventional formulas without derivation.
 
 ---
 
+## 48A. Research-derived evidential standards and Steward accountability
+
+Research investigates, compares and evaluates evidential methods, burdens, standards of proof and known error modes, recording the evidential basis and limits of its recommendations. Education converts the applicable, lawfully adopted standards into judicial teaching, demonstrated competence assessments and continuing patch education. Judiciary, through its authorised procedures, establishes and maintains the operative case-type standards, evidence admissibility and decision-state gates. Research findings or educational guidance alone do not silently amend binding law or judicial procedure.
+
+Judicial Stewards must apply the standards valid for the case, explain material evidential determinations and maintain the required competence. A credible material failure to follow a binding standard prompts prompt independent case review and, where justified, expedited appeal; serious or repeated failures may prompt independent competence review, corrective education, temporary restriction or suspension, and removal through the separate lawful conduct/fitness process. A reversed judgment, reasonable evidential disagreement or later-discovered evidence alone does not establish misconduct. Outcomes, referrals and findings are recorded with public-by-default judicial accountability and specific protected-information exceptions.
+
+---
+
 ## 49. Presumption
 
 Criminal allegation should not itself shift burden onto accused to prove innocence.
@@ -785,9 +793,9 @@ Possible grounds:
 
 ## 58A. Appeal registration, evidence-development interval and urgent review
 
-Where an appeal is automatic under the applicable rules, it is registered and preserved without a discretionary new merits gate. Immediate registration does not require an immediate substantive appellate hearing. In particular, fast AI adjudication must not deprive participants, investigators or fiduciaries of meaningful time to discover evidence, investigate changed circumstances or prepare independent review. The ordinary interval and its state-machine conditions remain to be designed; three to six months are candidate periods, not a universal rule. A lawful shorter or longer interval may be appropriate for the case.
+Where an appeal is automatic under the applicable rules, it is registered and preserved without a discretionary new merits gate. Immediate registration does not require an immediate substantive appellate hearing. In particular, fast AI adjudication must not deprive participants, investigators or fiduciaries of meaningful time to discover evidence, investigate changed circumstances or prepare independent review. The ordinary substantive appellate merits hearing may not occur earlier than **three calendar months after the original judgment**. This does not delay registration, investigation, evidence preservation, case preparation, interim applications or lawful protective relief. Later hearing is possible when further preparation is materially required. Earlier substantive review requires an independently authorised, reasoned expedited exception for credible serious procedural or evidential-standard defects, compromised decision-state or triad validity, or related suspension/removal of a Steward; the latter triggers review, not automatic invalidity.
 
-Registration, preservation of evidence and the appeal right are distinct from substantive hearing readiness. Interim measures, stays, custody, safety and irreversible consequences require independently authorised, timely decisions while an appeal is pending. An urgent accelerated review path must exist when waiting would create serious or irreversible harm, without defeating procedural fairness. An appeal may also concern legal or procedural error even when no new evidence appears. See Judiciary V2 Section 79.2 for the corresponding appeal-timing architecture.
+Registration, preservation of evidence and the appeal right are distinct from substantive hearing readiness. Interim measures, stays, custody, safety and irreversible consequences require independently authorised, timely decisions while an appeal is pending. An urgent accelerated review path must exist when waiting would create serious or irreversible harm, without defeating procedural fairness. An appeal may also concern legal or procedural error even when no new evidence appears. See Judiciary V2 Section 79.3 for the corresponding appeal-timing architecture.
 
 ---
 
