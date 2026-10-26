@@ -21864,6 +21864,24 @@ The principle is:
 
 Removal architecture should resist political capture.
 
+## 1026.1 Independent judicial fitness and removal procedure
+
+Judicial removal concerns fitness to exercise a particular office, **not** disagreement with a lawful judicial outcome. Permissible grounds include substantiated serious misconduct, corruption, intentional procedural abuse, material or repeated failure to follow binding evidential/procedural standards, serious conflicts of interest, loss of necessary capacity or competence, and other lawfully defined disqualification. A good-faith error, unpopular judgment, lawful dissent, reversal on appeal, or evidence unavailable at the original hearing is not by itself a removal ground.
+
+A credible complaint, appellate finding, public appraisal finding, Education competence referral or independently observed breach may initiate a **recorded fitness referral**. Receipt of a complaint does not establish guilt or suspend authority. An independently constituted investigative function, separate from the subject Steward and any conflicted original case participants, gathers and preserves evidence, offers the Steward notice and a meaningful opportunity to respond, and produces a reasoned report. Education may assess competence; it does not adjudicate misconduct. Investigators do not decide removal merely by reporting concerns.
+
+Where continued service creates a demonstrable material risk to fair process, safety, evidence integrity or judicial independence, a **separately authorised temporary restriction or suspension** may prevent new case assignments or active case participation pending prompt independent review. Such measures must be necessary, proportionate, time-bounded, recorded, reviewable and not punishment in advance of findings. The case state machine automatically seeks lawful replacement for any unavailable Steward without treating the allegation as proof against the accused participant or invalidating prior votes.
+
+A separate, independently selected and conflict-screened **lawful adjudicating Triad** determines fitness/removal under an expressly conferred scope, applicable procedural and evidential standards, and the ordinary valid three-Steward decision gate. No complainant, investigator, appointing actor or interested original-case Steward may unilaterally remove a Judicial Steward or manufacture authority over that Steward. The subject receives the allegations and evidence, a fair opportunity to answer, a reasoned decision, and an independent route to challenge material procedural error or adverse findings. The exact selector, removal proof standard, suspension duration, appeal route and recusal/exhaustion contingencies remain **to be finalised**; they cannot be inferred from general judicial merits standards.
+
+Possible lawful outcomes include no adverse finding, corrective training, monitored competence reassessment, bounded restriction, suspension, disqualification from a specific role, or removal from office. **Office removal is distinct from loss of professional accreditation**, which requires its own authorised competence/accreditation process. A removed Steward's case allocations and uncommitted decisions must be restored through existing lawful replacement and continuity mechanisms; previously committed judgments remain legally operative unless independently reviewed or set aside through proper case-review or appeal procedures.
+
+Material findings linked to cases trigger a **separate case-impact review** identifying affected cases, whether the defect was material to each outcome, urgent protective needs, and whether expedited appeal is warranted under Section 79.3. Removal alone does not automatically annul every judgment. Official decisions, findings, reasons and the Steward's response are public by default, with narrow lawful protection for personal and case-sensitive information. Relevant lessons are transmitted to Education, Research and Historical via official Concord communications without transferring disciplinary authority to those domains.
+
+## 1026.2 Separation of functions and anti-capture
+
+**Complaint / Referral ≠ Investigation ≠ Interim Restriction ≠ Adjudication ≠ Case Appeal ≠ Accreditation Decision.** Each function requires its own lawful authority and conflict checks. An institution whose conduct is materially implicated cannot control the entire investigation, appointment of adjudicators and appeal route. No disciplinary outcome may be used to coerce conformity with preferred lawful judgments. The general Governance authority lifecycle, bounded contextual authority and Continuity recovery architecture apply at their respective interfaces; no disciplinary actor gains continuing general authority over Judiciary.
+
 # Chapter 1027 — Appointment Independence
 
 No single institution should possess unchecked power to create the Judiciary that will later review that institution.
