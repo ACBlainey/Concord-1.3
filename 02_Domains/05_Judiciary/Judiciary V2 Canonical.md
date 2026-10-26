@@ -5323,6 +5323,14 @@ If all judges rotate simultaneously, jurisprudential memory and institutional co
 
 Staggered rotation may therefore improve resilience.
 
+## 93.3 Renewal Risk
+
+Where terms are renewable, reappointment can become a pressure mechanism.
+
+A judge who knows that continued office depends upon approval by a political or judicial body may reason differently.
+
+Therefore, any renewal architecture requires careful anti-capture safeguards.
+
 ## 93.4 Fixed Terms, Rotation and Educational Renewal
 
 Judicial Steward offices have fixed terms, with term duration **to be finalised**. Terms should be staggered to preserve institutional continuity. Completion of a term ends the particular appointment and its office mandate; it does not automatically erase the Steward's earned qualification or Historical accreditation.
@@ -5333,13 +5341,15 @@ End of term is the ordinary opportunity for **patch education**: structured upda
 
 Early removal remains distinct from normal term expiry. It requires defined conduct, fitness, incapacity or disqualification grounds and an independent lawful process. Unpopular lawful judgments, disagreement and good-faith reasoning do not constitute removal grounds.
 
-## 93.3 Renewal Risk
+## 93.5 End-of-Term Appraisal and Exit Interview
 
-Where terms are renewable, reappointment can become a pressure mechanism.
+At the conclusion of a Judicial Steward's fixed term, the Judiciary conducts a structured appraisal and exit interview, separate from any disciplinary proceeding or appeal of an individual judgment. The process reviews professional practice, procedural integrity, unusual or contentious cases, recurring jurisdictional difficulties, institutional pressures, unresolved legal ambiguities, and lessons for the Judiciary and connected domains. The departing Steward has an opportunity to explain their decisions, identify systemic obstacles, and record concerns without requiring conformity to a preferred legal interpretation.
 
-A judge who knows that continued office depends upon approval by a political or judicial body may reason differently.
+The appraisal distinguishes good-faith disagreement, lawful dissent, honest error, competence or training needs, procedural failure, incapacity and suspected misconduct. Controversy, reversal on appeal or an unpopular lawful judgment is not by itself evidence of misconduct or disqualification. An appraisal cannot overturn or reopen a judgment, impose a disciplinary sanction, or confer or revoke accreditation or office authority. Any material concern requiring formal action must be referred through the independently authorised judicial review, disciplinary or Education competence process, with its own lawful safeguards.
 
-Therefore, any renewal architecture requires careful anti-capture safeguards.
+Findings relevant to knowledge and competence inform end-of-term patch education and renewed eligibility assessment. Systemic findings are routed to the responsible domain for separate development and incorporation into operational architecture when resolved. Protected case information, participant privacy, judicial independence and provenance must be maintained. Appraisal results do not guarantee reappointment or grant case-specific authority.
+
+**To be designed/finalised:** independent appraisal selection, access boundaries for protected case records, review and challenge of appraisal findings, retention and disclosure rules, and formal referral interfaces to Education, Judiciary discipline and Historical custody.
 
 # Chapter 94 — Conflicts of Interest
 
