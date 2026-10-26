@@ -682,6 +682,14 @@ A judgment should identify:
 
 ---
 
+## 51A. Conviction authorisation and non-authorisation
+
+A criminal conviction is a judicial action requiring both the applicable legal/evidential standard and valid triadic authorisation. If the required vote support is not achieved, conviction is not authorised; this is not a numerical deadlock. One vote to convict, one against and one reasoned abstention supplies only one of three votes supporting conviction (33⅓% support), not authority to convict. Vote-support confidence is not a probability of guilt and cannot replace the criminal standard of proof. Abstention does not count as assent.
+
+The process distinguishes a complete valid merits determination failing to authorise conviction from an invalid or incomplete judicial configuration needing lawful restoration. The final disposition and any bar on renewed proceedings must follow defined acquittal/finality safeguards; a fresh vote cannot be sought merely to reverse an unwelcome lawful outcome. See Judiciary V2 Section 7.3B.
+
+---
+
 ## 52. Reason-giving
 
 > **Authority To Decide Creates Responsibility To Explain Consequential Decision.**
