@@ -1027,6 +1027,20 @@ No single infinite hierarchy is required.
 
 The exact termination architecture remains an open Concord problem.
 
+## 389.1 Bounded recursive judicial review and terminal states
+
+Recursive oversight means that a court, investigator, appellate body and oversight mechanism remain answerable for their **own authorised acts**; it does not create an endlessly superior court or grant a reviewer general authority over the institution reviewed. Each review is a distinct, case-scoped function with its own jurisdiction, independent eligibility, reasons, provenance and inherent termination when that function is completed.
+
+A challenge proceeds through the **applicable finite authorised review route**. At each stage, the receiving body first determines standing, jurisdiction, admissibility, available remedy and whether the challenged act is already final. An attempted repeat with the same parties, operative facts, grounds and requested relief does not restart the chain merely by obtaining a new case identifier, renaming the complaint, or targeting the preceding reviewer. A decision reaches **PROCEDURALLY FINAL** when its lawful ordinary review opportunities are exhausted, waived or expire and no authorised exceptional ground is established. Procedural finality is not a claim of infallibility.
+
+A genuinely **new and material** ground—such as newly available decisive evidence, fraud, corruption, a demonstrable invalid decision configuration, or serious denial of required procedure—may be considered only under a separately defined extraordinary reopening jurisdiction. The new proceeding has a new decision ID, independently tested threshold and bounded scope; it does not retroactively revoke the earlier decision by mere filing. A case may be rejected for insufficient new grounds with a reasoned recorded disposition. Extraordinary reopening cannot become automatic indefinite relitigation.
+
+**Separate accountability from case reopening.** Public criticism, independent audits, Education reassessment, Research review, historical correction and disciplinary investigation may continue after a judgment becomes final, but none independently changes the judgment or commands a fresh appeal. They may submit new evidence to an authorised judicial gateway. Findings of misconduct in a reviewer trigger independent review of that reviewer's conduct and material case impacts, not automatic annulment of all prior outcomes.
+
+**Terminal and correction states:** ordinary appeal exhausted; procedurally final; extraordinary petition received; exceptional ground admitted or refused; independent extraordinary review; new lawful disposition; and closed with recorded provenance. Any stays, urgent protection, enforcement changes and participant rights require separately authorised state transitions. No finality state bars lawful future correction on a genuinely recognised exceptional ground, and no correction claim grants perpetual suspension of an otherwise operative judgment.
+
+**To be designed/finalised:** exact number and route of ordinary appellate stages, who independently admits extraordinary reopening, case-identity and materiality tests, limitations and safeguards against abuse, finality effects on enforcement, and handling an exceptional failure of the terminal review body. These are cross-domain interface questions; they must not be resolved by inventing a permanent supreme overseer.
+
 # Chapter 390 — Safeguard Capture
 
 A safeguard may itself become a source of power.
