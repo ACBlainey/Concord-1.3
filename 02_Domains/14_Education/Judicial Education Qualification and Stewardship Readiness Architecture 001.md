@@ -657,6 +657,14 @@ Education may use public judicial records and appraisal findings directly for la
 
 ---
 
+## 28B. Research-derived evidence standards and continuing judicial competence
+
+Research develops and evaluates evidential standards, proof thresholds, methods, failure modes and their supporting knowledge, without independently making them binding judicial rules. Judiciary determines and procedurises the applicable lawful standards for each case type and judicial action. Education teaches those adopted standards, assesses practical application and maintains patch education when standards or knowledge change. The operative version applicable to a case must be identifiable.
+
+A material failure by a Judicial Steward to maintain or apply an operative evidential or procedural standard is referred promptly to the independent judicial case-review and competence processes, without waiting for end-of-term appraisal. Education assesses whether retraining or renewed demonstration of competence is necessary. Serious or repeated failure may inform a separately lawful fitness, suspension or removal proceeding, but Education itself neither removes Stewards nor reopens judgments. An appellate reversal, good-faith evidential disagreement or evidence discovered only later is not itself misconduct. Public professional findings and protected personal records remain distinct.
+
+---
+
 ## 29. Development result
 
 The judicial qualification problem is not an isolated Judiciary problem.
