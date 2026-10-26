@@ -645,6 +645,16 @@ JED-31 Need To Verify Judicial Qualification != Need For Complete Educational Hi
 
 ---
 
+## 28A. Judicial appraisal feedback into education
+
+Education receives appropriately protected lessons from Judicial Steward end-of-term appraisals, exit interviews, appeal-reversal reviews and timely referrals of serious defects. It uses these findings to identify recurring competence gaps, develop case studies, revise initial judicial training and assessments, and provide patch education for experienced Stewards seeking further appointments. Reviews distinguish later-discovered evidence, reasonable legal disagreement, procedural or individual errors, and systemic defects; an overturned judgment is not by itself proof of incompetence.
+
+Education evaluates educational implications independently and may not change judgments, impose discipline, appoint or remove Judicial Stewards, or require conformity to preferred legal outcomes. Changes to Judiciary procedures remain within Judiciary's lawful processes. Case confidentiality, privacy, provenance and independence apply to all transfers. Repeated patterns across cases and Stewards should be assessed without treating a single adverse outcome as a disqualifying score.
+
+**To be designed/finalised:** structured referral format, protected-information boundaries, aggregate pattern analysis, review cadence and interfaces with Judiciary and Historical.
+
+---
+
 ## 29. Development result
 
 The judicial qualification problem is not an isolated Judiciary problem.
