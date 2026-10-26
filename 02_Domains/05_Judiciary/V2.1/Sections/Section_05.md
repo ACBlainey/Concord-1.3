@@ -421,6 +421,10 @@ Therefore:
 
 > **Removal addresses fitness for office, not disagreement with lawful judgement.**
 
+## 99.2 Independent fitness adjudication and case-impact separation
+
+The independent judicial fitness and removal process is specified in Section 15A, Chapter 1026.1–1026.2. A recorded complaint does not establish misconduct. Investigation, independently authorised interim restriction, separate conflict-screened Triadic fitness adjudication, disciplinary appeal, and Education competence assessment require distinct decision gates. A case affected by suspension or removal invokes the existing automatic lawful Steward replacement procedure. Completed judgments are reviewed individually for material defects through ordinary or exceptional judicial routes, not collectively annulled by the removal of a Steward. No disciplinary procedure may become a disguised appeal against lawful dissent or unpopular judgments. The bounded recursive review/finality boundary is described in Section 11, Chapter 389.1.
+
 # Chapter 100 — Restoration After Suspension or Error
 
 Where a Judicial Steward is suspended during investigation and later cleared, the architecture should provide appropriate restoration.
