@@ -621,6 +621,14 @@ Specialist input may be needed without transferring decision authority automatic
 
 ---
 
+## 46A. Fitness referral and active-case continuity
+
+A credible material concern about a sitting Judicial Steward's misconduct, competence or serious procedural breach is referred through the independent judicial fitness process in Judiciary V2 Section 1026.1. Referral alone neither establishes misconduct nor invalidates the case. Independently authorised temporary restriction or suspension must be communicated as a case-participation state change. Where a selected Steward becomes lawfully unavailable, the state machine invokes the existing automatic random eligible replacement procedure, revalidates the full Triad and preserves the independent votes of unaffected Stewards as permitted by the applicable case state. If no lawful replacement exists, the case cannot invent a substitute or proceed under an invalid decision gate; it enters an explicit continuity/recovery state.
+
+A finding that misconduct or procedural error may have affected a completed case triggers a separate case-impact assessment and, where material, urgent interim relief or expedited appeal under Judiciary V2 Section 79.3. A Steward's suspension or removal does not by itself vacate a prior judgment. The fitness process, case review and appeal maintain distinct decision IDs, lawful authority and records.
+
+---
+
 ## 47. Fact and law
 
 Adjudication should distinguish:
