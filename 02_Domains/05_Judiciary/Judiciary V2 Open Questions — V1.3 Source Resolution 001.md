@@ -34,6 +34,12 @@ This document classifies each Chapter 1215 question as:
 
 ---
 
+## 1B. Judicial continuity integration
+
+Judicial Process Section 73A now specifies RESTORATION REQUIRED and RECOVERY BLOCKED / NO DECISION AUTHORITY, automatic lawful replacement/recovery, verification before resumption, and separate urgent protective authority. This draws on Judiciary V2 Chapter 1434 and the Continuity Protocol Companion Upgrade 001; it does not invent a separate judicial continuity domain. Remaining detailed parameters are ordered replacement pools, exhaustion routing, post-vote replacement, recovery timing and evidence-loss safeguards.
+
+---
+
 ## 1A. Subsequent source-recovery findings (October 2026)
 
 This register's original OPEN classifications describe its earlier source-resolution snapshot, **not** the current operational status of every item. Subsequent Judiciary V2, Judicial Process, Education, Research and cross-domain communications work has established fixed terms and rotation principles; public-by-default end-of-term appraisal; competence renewal; automatic restoration of unavailable case Stewards; three-month ordinary substantive appeal scheduling with expedited procedural-defect exceptions; binary triadic decision non-deadlock; and official inter-domain order/receipt channels.
