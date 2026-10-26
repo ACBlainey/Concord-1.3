@@ -4886,6 +4886,14 @@ The remaining design question is therefore not whether appellate reasoning shoul
 
 No final validation claim is made.
 
+## 79.2 Automatic appeal registration and evidence-development interval
+
+Where the applicable judicial architecture grants an automatic appeal, the right and appeal record activate without a fresh discretionary merits gate. **Automatic appeal entitlement and immediate registration do not require immediate substantive rehearing.** Judicial processing speed, including all-AI proceedings, must not remove the opportunity for evidence gathering, independent investigation, relevant changes in circumstances and meaningful preparation by participants or their fiduciaries.
+
+An ordinary evidence-development interval separates initial judgment from substantive appellate determination. Its duration and start/end conditions are **to be designed/finalised**; three to six months are candidate durations for consideration, not established universal limits. The interval may be shortened or extended through independently lawful, reasoned procedures appropriate to the matter and participants. Mere passage of time does not guarantee new evidence, and lack of new evidence does not by itself invalidate a legitimate appeal on legal or procedural grounds.
+
+Registration immediately preserves the appellate right, case record, evidence provenance and relevant deadlines. The system separately determines the effect of the initial judgment while appeal is pending, including stays, liberty, safety, reversible remedies and other protected interests. Urgent interim or accelerated review is available through separately authorised state gates where delay risks serious or irreversible harm; acceleration does not erase due process or manufacture decision authority. Appeal attrition safeguards remain applicable.
+
 # Chapter 80 — Appeal Attrition
 
 A wealthy or powerful party may use repeated appeals to exhaust a weaker opponent.
