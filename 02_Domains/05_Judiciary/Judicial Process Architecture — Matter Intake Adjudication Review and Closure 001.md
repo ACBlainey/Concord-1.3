@@ -1046,6 +1046,16 @@ Transitions may branch, terminate early, return for correction or bypass ordinar
 
 ---
 
+## 73A. Judicial continuity and recovery sub-states
+
+When an unavailable Steward, recusal, loss of lawful credentials, missing evidence or infrastructure failure prevents a valid case decision, the state machine enters **RESTORATION REQUIRED** and blocks affected decision authority. It automatically preserves case provenance, invokes lawful random replacement or other pre-authorised recovery routes, checks competence and conflicts, verifies a complete three-Steward configuration, restores meaningful participation and resumes only when every case gate is valid. A record being preserved, a candidate being available, or a recovery plan existing is not the same as a verified operational judicial function.
+
+If lawful replacement pools are exhausted or a correlated failure prevents restoration, the case enters **RECOVERY BLOCKED / NO DECISION AUTHORITY**, with recorded reasons, appropriate notice, retries and lawful escalation; it cannot manufacture reduced quorum or expanded jurisdiction. Any urgent interim protection requires separately valid judicial authority. Continuity's recovery-state, minimum-acceptable-function and succession methods supply the recovery interface; Judiciary supplies the case-validity and procedural-rights conditions. Official Concord communications carry status and provenance. Restoration never silently alters committed votes or judgments.
+
+To be finalised: authorised pool hierarchy, stage-specific replacement after voting, timeouts, evidence-loss handling, case reassignment, recovery targets and cross-region/planetary interruptions.
+
+---
+
 ## 74. Early termination states
 
 A matter may end before adjudication due to:
