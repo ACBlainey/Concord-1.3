@@ -1126,6 +1126,14 @@ rather than merely:
 
 > How many individual judges voted each way?
 
+## 7.3A Decision-state validity and mathematical deadlock boundary
+
+A valid Constitutional Court decision gate must define the precise question and permissible outcome states before votes are accepted. Where three complete, equal Triad decision units each return one of **two mutually exclusive, exhaustive, lawful outcomes for that same question**, at least two must agree. Ordinary numerical deadlock is therefore mathematically impossible at that gate. The state machine shall not declare a valid binary vote deadlocked or create an extra deciding vote.
+
+This guarantee does not apply automatically to a multi-outcome question. Three distinct findings, incomparable remedies, abstention reasons, or different questions answered by different Triads are not three valid binary inputs merely because three Triads participated. Jurisdiction, ripeness, admissibility and other threshold findings must be distinguished from a merits decision; a reasoned 'Not Ripe' result must not be silently counted as 'Constitutional'. Before a substantive vote, the authorised process must establish a common, lawful decision field and gate eligibility. A failure to establish one remains a recorded non-decision or other authorised procedural state, not a manufactured substantive majority.
+
+A complete Triad with an unavailable Steward must use the lawful replacement and revalidation mechanism before casting its decision; missing inputs cannot be counted as votes. Where the case presents genuinely non-binary alternatives, their lawful decomposition into separate questions, or a separate explicitly authorised resolution process, remains **to be designed/finalised**. No decomposition may erase material legal distinctions or predetermine an outcome. The three equal decision units and their provenance remain intact.
+
 ## 7.4 Independence Between Triads
 
 The three Triads must be meaningfully independent.
@@ -6921,7 +6929,7 @@ Each Triad's internal three-Steward process supplies independent reasoning, resi
 
 At the higher constitutional level, each valid Triad determination contributes **one** of the three equal inputs. Ordinary concordance of two of the three Triad determinations establishes the higher-level result where the determinations are substantively compatible and the applicable jurisdictional and procedural conditions are satisfied. Counting nine individual Steward preferences instead, weighting a Triad by its internal majority, or adding an extra vote for parallel participation would alter the constitutional decision unit and is not permitted.
 
-**To be designed/finalised:** precise treatment of abstention, incompatible or non-binary Triad findings, incomplete Triads and higher-level deadlock. These cases must preserve three equal decision units and may not be resolved by silently reverting to nine-person aggregation.
+For a properly constituted binary decision gate with three complete, equal Triad inputs, ordinary numerical deadlock is impossible (Section 7.3A). **To be designed/finalised:** authorised treatment and lawful question decomposition for genuinely non-binary or incompatible findings, reasoned abstention and threshold states, and failed configuration or incomplete Triads. These are state-validity and decision-field questions, not evidence of numerical deadlock; nine-person aggregation is prohibited.
 
 # Chapter 142 — Measurement of the 3×3 Constitutional Court
 
