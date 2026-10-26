@@ -1325,6 +1325,20 @@ If no eligible replacement is available in the immediate pool, the system must a
 
 **To be designed/finalised:** exact selection-pool order, timeouts, anti-gaming safeguards, rules for replacement after deliberation or a submitted decision, exhaustion of eligible pools, and the state-machine interface for reconstitution and resumption.
 
+## 1434.1 Automatic recovery and blocked-state architecture
+
+Judicial recovery consumes the existing Continuity Domain's *Continuity Protocol Companion Upgrade 001 — Operational Recovery and Verification Architecture* without allowing Continuity to decide cases or determine judicial authority. The continuity distinctions RECORDED, ACCESSIBLE, INTERPRETABLE, ACTIONABLE, RECOVERABLE and OPERATIONAL describe the case's ability to function; preserving records or identifying a replacement is not equivalent to restored judicial decision authority.
+
+**Automatic restoration trigger.** Absence, recusal, incapacity, lawful suspension, credential compromise, unavailable evidence or communications, or a correlated infrastructure failure that invalidates a mandatory judicial function places the affected case in **RESTORATION REQUIRED**. The state machine blocks the affected decision gate, preserves case/vote/selection/evidence provenance, and automatically invokes the lawful recovery path. No two-person configuration is deemed a valid three-person Triad.
+
+**Restoration sequence.** Identify the lost function and last verified lawful state; determine whether the original Steward can resume; if not, select an eligible successor by the already authorised independent random-selection process, progressing automatically through lawfully authorised alternate pools or reassignment paths. Validate competence, jurisdiction, conflicts, independence, credentials and the successor's opportunity to examine the case independently. Verify three lawful selected Stewards and all required case gates before resumption. A successor does not acquire an extra vote or retroactively alter a committed vote; replacement after any committed vote requires a separately defined stage-specific rule.
+
+**Pool exhaustion.** When no lawful replacement can be found, the case enters **RECOVERY BLOCKED / NO DECISION AUTHORITY**. Preserve rights, notice, evidence, timing and the precise failure reason; retry or escalate only along authorised pools, transfers or continuity routes. Do not create a reduced quorum, relax conflict checks, infer jurisdiction from urgency, or treat Continuity's recovery function as judicial authority. Urgent protective relief, if necessary, requires a separately competent and valid decision-maker.
+
+**Verified return.** Record trigger, recovery attempts, successor provenance, case-state continuity, restored evidence access, participant notice and verification. Resumption is a separate state change after restoration, not a presumed consequence of replacement. Judiciary specifies the recovery time objective, tolerable loss of case state and minimum acceptable judicial function through its own lawful procedure. Official Concord communications carry restoration notifications, receipts and status.
+
+**To be designed/finalised:** authorised alternate-pool order and exhaustion route, timeouts, post-vote replacement conditions, evidence loss and inaccessible participants, correlated regional failure, and independent emergency interim relief. These details may not silently weaken the three-Steward requirement.
+
 # Chapter 1435 — Recusal Cascades
 
 A major constitutional dispute may implicate many judges.
