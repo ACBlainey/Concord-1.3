@@ -5355,7 +5355,9 @@ Appraisal findings are routed by function. Education receives appropriately prot
 
 Serious defects identified during a case, appeal or ongoing service must be referred promptly through the appropriate independent process rather than held until the end-of-term appraisal. Periodic appraisal also considers patterns across cases and Stewards, distinguishing isolated incidents from recurring systemic weaknesses. Feedback does not itself reopen cases, impose discipline, amend law or confer authority; any such action requires its separate lawful process.
 
-**To be designed/finalised:** independent appraisal selection, access boundaries for protected case records, review and challenge of appraisal findings, retention and disclosure rules, and formal referral interfaces to Education, Judiciary discipline and Historical custody.
+Judicial appraisal information access and feedback transfer use existing Historical purpose-bound access, privacy classification, provenance, identity-restricted records, access/correlation separation and controlled disclosure, together with Health's contextual-access and minimum-necessary record-projection principles where applicable. Historical custody does not itself authorise inspection. Education and Judiciary receive function-specific protected projections rather than automatic access to complete case records; authorised access expansion, transformation and disclosure remain provenance-visible. Unusual-case detail and linked case patterns must be assessed for re-identification and correlation risk even after pseudonymisation.
+
+**To be designed/finalised:** independent appraisal selection, mapping of appraisal roles and case-record classes to existing Historical access permissions and Health-style contextual projections, review and challenge of appraisal findings, applicable retention and disclosure schedules, and formal referral interfaces to Education, Judiciary discipline and Historical custody.
 
 # Chapter 94 — Conflicts of Interest
 
