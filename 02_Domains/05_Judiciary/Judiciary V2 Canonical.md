@@ -5351,6 +5351,10 @@ Judgments overturned or materially modified on appeal are specifically included 
 
 Findings relevant to knowledge and competence inform end-of-term patch education and renewed eligibility assessment. Systemic findings are routed to the responsible domain for separate development and incorporation into operational architecture when resolved. Protected case information, participant privacy, judicial independence and provenance must be maintained. Appraisal results do not guarantee reappointment or grant case-specific authority.
 
+Appraisal findings are routed by function. Education receives appropriately protected findings on competence gaps, recurring errors, new case examples, appellate reasoning and changing requirements to improve initial Judicial Steward training, assessments and patch education. Judiciary receives findings on case management, evidence handling, procedural safeguards, jurisdictional coordination and systemic failures to evaluate and improve judicial processes through its own authorised procedures. Historical preserves the appropriate provenance and lessons under applicable privacy and access controls. Neither receiving domain gains authority to alter another domain's decisions by virtue of receiving feedback.
+
+Serious defects identified during a case, appeal or ongoing service must be referred promptly through the appropriate independent process rather than held until the end-of-term appraisal. Periodic appraisal also considers patterns across cases and Stewards, distinguishing isolated incidents from recurring systemic weaknesses. Feedback does not itself reopen cases, impose discipline, amend law or confer authority; any such action requires its separate lawful process.
+
 **To be designed/finalised:** independent appraisal selection, access boundaries for protected case records, review and challenge of appraisal findings, retention and disclosure rules, and formal referral interfaces to Education, Judiciary discipline and Historical custody.
 
 # Chapter 94 — Conflicts of Interest
