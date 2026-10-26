@@ -974,6 +974,10 @@ For an **ordinary substantive appeal**, the minimum evidence-development interva
 
 Urgent protection of liberty, safety and reversible remedies, including stays and release from custody where lawfully justified, is available promptly and separately from the ordinary merits hearing minimum. The system determines the original judgment's operative effect pending appeal through authorised state gates. Appeals and case reviews are communicated through official Concord channels with linked decision IDs and provenance. Appeal attrition safeguards and finality protections continue to apply.
 
+## 79.4 Finite appellate route and exceptional reopening boundary
+
+An ordinary appeal follows the lawfully defined finite appellate route and the three-calendar-month ordinary merits interval in Section 79.3, subject to its independently authorised expedited exceptions. Completion or lawful exhaustion of ordinary review establishes procedural finality, not proof of infallibility. A later application must identify a genuinely new material exceptional ground and pass a separate independent admissibility gate; renaming a previously rejected claim or complaining about the reviewer does not itself renew the original appeal. Independent disciplinary, audit and educational processes cannot set aside judgments without an authorised judicial decision. See Section 11, Chapter 389.1 for recursive oversight and terminal states. **To be designed/finalised:** exact appellate levels, admission selector and standards, extraordinary reopening jurisdiction and enforcement/stay effects.
+
 # Chapter 80 — Appeal Attrition
 
 A wealthy or powerful party may use repeated appeals to exhaust a weaker opponent.
