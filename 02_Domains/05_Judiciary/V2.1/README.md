@@ -41,3 +41,11 @@ V2.1 is the **current Judiciary sectional development workspace**. Supersession 
 - Section 15D now includes Chapter 1434.1 automatic recovery, exhausted-pool blocked state and Chapter 1435.1 recusal-cascade anti-manipulation controls, aligned with Judicial Process Section 73A and Continuity.
 - **Source-text baseline preservation applies to the initial split**; subsequent V2.1 edits intentionally diverge from preserved V2. The full reconstruction check of the initial uploaded split has not yet been performed.
 - Remaining major work: independently constituted removal adjudicator selection, recursive oversight finality, appellate routing, and substantive evidential proof standards.
+
+## Further reconciliation — recursive oversight and finality
+
+- Section 11 Chapter 389.1 establishes bounded recursive review, ordinary procedural finality and independently gated exceptional reopening without an infinite appellate hierarchy.
+- Section 01 Chapter 9.3 points to that mechanism from the foundational finality rule.
+- Section 04 Chapter 79.4 connects ordinary appeals and the three-month scheduling rule to finality and extraordinary review.
+- Section 05 Chapter 99.2 connects suspension/removal and affected-case review without treating discipline as an automatic appeal.
+- Unresolved implementation: ordinary appellate levels, independent extraordinary-review selector, materiality/admissibility criteria, enforcement effects, and rare terminal-body failure.
