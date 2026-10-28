@@ -1,6 +1,6 @@
 # Governance V2.2 — Integrated Governance
 
-Governance V2.2 is assembled as **22 published sections covering Chapters 1–215**. A whole-document consistency review is in progress before declaring V2.2 to supersede V2.1. The objective is to recover and incorporate all relevant governance architecture from earlier Concord versions and subsequent development without losing substantive rules or distinctions.
+Governance V2.2 is assembled as **22 published sections covering Chapters 1–215**. By authorial designation on 28 October 2026, V2.2 is the current operational governance document and supersedes V2.1. The comprehensive audit remains deferred. The objective is to recover and incorporate all relevant governance architecture from earlier Concord versions and subsequent development without losing substantive rules or distinctions.
 
 ## Structure
 
