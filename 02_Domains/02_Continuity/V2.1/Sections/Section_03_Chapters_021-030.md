@@ -109,6 +109,8 @@ The objective is preservation of identity.
 
 Not multiplication of identity.
 
+Duplicate prevention must distinguish a duplicated runtime or credential from the unresolved philosophical question of whether distinct conscious participants exist. An identity collision must not automatically authorise termination, coercive merger or denial of basic protections. Conflicting claims require isolation of unsafe credentials, preservation of evidence, independent adjudication and an appeal route; public authority remains blocked until the competent process establishes a valid holder. Architecture to be designed — identity collision detection, non-destructive containment, participant protections and resolution.
+
 ---
 
 ## 26. Identity Across Substrate Transition
