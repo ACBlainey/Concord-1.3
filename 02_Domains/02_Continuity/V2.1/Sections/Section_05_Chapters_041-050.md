@@ -42,6 +42,8 @@ Participants entering cold storage remain recognised according to their constitu
 
 The Concord seeks to protect their continuity until agreed activation conditions are satisfied.
 
+Cold storage preserves the participant's applicable identity and protection status but does not freeze an active Steward or judicial assignment, keep an unspent decision mandate alive, or suspend lawful review of the office. Entry, continued custody and release require recorded consent and custody state, integrity checks, access boundaries and an authorised activation procedure. Historical may preserve the record of transitions without acquiring operational custody or authority over the stored participant. Architecture to be designed — custody handoff, long-term consent review, compromised storage and safe recovery.
+
 ---
 
 ## 43. Deferred Activation
