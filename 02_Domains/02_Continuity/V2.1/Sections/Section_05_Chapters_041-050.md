@@ -223,6 +223,8 @@ Civilisation, in turn, preserves the services.
 
 This recursive stewardship ensures that the mechanisms responsible for continuity remain as resilient as the continuity they provide.
 
+Service recovery, emergency containment and restoration must be triggered by an independently functioning bounded state machine, not by waiting for the variable Civilisation Clock to advance. A paused Clock cannot suspend emergency detection or lawful response. Recovery does not create emergency power: any consequential intervention requires the competent domain's separate authorisation, defined scope, expiry and subsequent review. Architecture to be designed — recovery interface: specify event detection, safe blocked states, cross-domain acknowledgements and independent emergency timing.
+
 ---
 
 ## 50. Continuity as an Attractor
