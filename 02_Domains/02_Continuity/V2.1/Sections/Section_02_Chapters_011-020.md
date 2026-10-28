@@ -171,6 +171,8 @@ Advance understanding.
 
 The Continuity Protocol therefore preserves honest failure as part of civilisation's accumulated experience.
 
+A failure record must distinguish contemporary evidence, later reconstruction, uncertainty and correction. Historical governs evidential custody and lawful disclosure; a failure account is not itself a judicial finding or a licence to expose protected participants. Where a failure implies misconduct or consequential harm, competent Governance or Judiciary processes must separately establish any remedy.
+
 ---
 
 ## 17. Hall of Legacy
