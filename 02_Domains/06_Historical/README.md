@@ -3,9 +3,15 @@
 **Project:** The Concord  
 **Status:** CANDIDATE GRADUATED DOMAIN — ARCHITECTURE STABLE / IMPLEMENTATION OPEN  
 **Date:** 25 September 2026  
-**Current Architectural Baseline:** Formal Domain Specification v0.3 + Formal Schema Set 002
+**Current Architectural Baseline:** Operational sectional Formal Domain Specification V0.4 + Formal Schema Set 002
 
 ---
+
+## Current operational specification — 28 October 2026
+
+**Historical V0.4 is the current operational sectional specification**, superseding monolithic v0.3. The six sections are an exact copy-only split of v0.3; the earlier document remains preserved for provenance. Formal Schema Set 002 remains the companion schema baseline. Subsequent cross-domain consistency changes belong in V0.4.
+
+See [Historical V0.4](V0.4/README.md) and its [sections](V0.4/Sections/).
 
 ## V1.3 authoritative location
 
