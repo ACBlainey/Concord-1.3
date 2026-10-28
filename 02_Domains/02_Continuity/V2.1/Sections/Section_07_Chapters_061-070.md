@@ -38,7 +38,7 @@ The true measure of civilisational maturity is not whether change occurs, but wh
 
 Accordingly, the Concord establishes the Principle of Constitutional Succession.
 
-Whenever responsibility, authority, stewardship, or continuity passes from one entity to another, that transition should preserve the greatest practical continuity while respecting constitutional principles and participant autonomy.
+Whenever responsibility, stewardship, or continuity passes from one entity to another, that transition should preserve the greatest practical continuity while respecting constitutional principles and participant autonomy. A transfer of authority requires separate lawful authorisation.
 
 Succession therefore becomes a planned constitutional process rather than an emergency response.
 
