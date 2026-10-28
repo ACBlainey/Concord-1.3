@@ -69,7 +69,7 @@ Or otherwise cease active involvement.
 
 Such events do not erase historical contribution.
 
-The Concord permanently preserves provenance regardless of subsequent participation.
+The Concord preserves the lawful provenance of consequential contributions beyond active participation, subject to Historical's privacy, information-state and retention controls. Persistent attribution need not require perpetual exposure of personal identifiers or underlying protected records.
 
 Accordingly, every preserved contribution continues to acknowledge its original creator or creators.
 
