@@ -2,11 +2,11 @@
 
 **Status:** ESTABLISHED / SUBSTANTIAL ARCHITECTURE
 
-## Current governance authority — 16 October 2026
+## Current governance authority — 28 October 2026
 
-**Governance V2.1 is the CURRENT OPERATIONAL GOVERNANCE DOCUMENT and supersedes Governance V2.** The former V2 document is erroneous due to omission of substantial essential original architecture; it is retained solely as superseded historical provenance. V2.1 is authoritative without a graduation process, perfection, software deployment or validation requirement. Remaining issues are handled ad hoc as encountered.
+**Governance V2.2 is the CURRENT OPERATIONAL GOVERNANCE DOCUMENT and supersedes V2.1 by express authorial designation.** It consists of 22 published sections covering Chapters 1–215. V2.1 and V2 remain preserved as historical provenance. The comprehensive audit is deferred and is not a condition of V2.2's operational status.
 
-See [Governance V2.1](V2.1/README.md) and its sectional manuscripts for the current governance architecture.
+See [Governance V2.2](V2.2/README.md) and its published sections for current governance architecture.
 
 ## Persistent function
 
