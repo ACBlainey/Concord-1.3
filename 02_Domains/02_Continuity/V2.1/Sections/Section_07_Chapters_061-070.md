@@ -192,6 +192,8 @@ A constitutional fork allows one civilisation to become two.
 
 Each branch preserves shared constitutional heritage while pursuing differing constitutional development.
 
+A constitutional fork requires a separately authorised constitutional process, explicit treatment of participant consent and status, jurisdiction, records and obligations, and bounded inter-branch interfaces. Shared ancestry does not confer governance authority over another branch. Neither branch may silently transfer a participant's rights, personal records or decision mandates to the other. Architecture to be designed — lawful fork initiation, consent, shared obligations, dispute routing and recognition.
+
 This should not automatically be regarded as failure.
 
 Properly managed, it represents diversification.
