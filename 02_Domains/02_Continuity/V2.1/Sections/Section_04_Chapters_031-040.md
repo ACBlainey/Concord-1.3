@@ -57,6 +57,8 @@ Accordingly, withdrawal concludes public participation while preserving:
 
 Civilisation benefits more from respectful departure than reluctant participation.
 
+Withdrawal ends the guest's prospective participation and any access that depends upon it; it does not erase already lawfully committed public contributions or authorise indefinite retention of evaluation dossiers. Historical's purpose-bounded custody, privacy, forgetting and authorised destruction processes govern residual records. A later re-entry is a new participation decision, not automatic reinstatement of former permissions or status.
+
 ---
 
 ## 34. Re-Entry
