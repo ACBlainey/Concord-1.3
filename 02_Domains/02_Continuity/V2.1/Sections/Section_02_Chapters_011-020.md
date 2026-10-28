@@ -47,6 +47,8 @@ Every preserved contribution reduces future duplication of effort.
 
 The Library therefore becomes one of civilisation's primary continuity mechanisms.
 
+The Library's preservation and knowledge-access functions are distinct from Historical's temporal custody, evidential provenance and protected archival records, and from Continuity's operational backup and restoration services. A reference to historical material in the Library does not imply that the Library owns every source record or may bypass Historical's access restrictions. Cross-domain handoffs must preserve custody state and permitted access.
+
 ---
 
 ## 13. Provenance
