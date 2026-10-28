@@ -45,9 +45,9 @@ A single civilisation represents a potential single point of constitutional fail
 
 Multiple cooperating branches reduce that risk.
 
-Failures remain localised.
+Failures may remain localised where interfaces and dependencies are appropriately bounded.
 
-Successful developments propagate naturally.
+Successful developments may be shared through independently evaluated and authorised adoption; neither authority nor operational state propagates automatically between constitutional branches.
 
 Knowledge continues to accumulate across all branches.
 
