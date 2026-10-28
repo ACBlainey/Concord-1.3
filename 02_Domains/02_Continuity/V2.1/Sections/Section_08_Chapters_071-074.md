@@ -31,6 +31,8 @@ Shared constitutional heritage continues through:
 
 Forks therefore diversify implementation while preserving civilisational cohesion.
 
+Shared libraries and mutual assistance require explicit custody, access and permission boundaries. Historical records must retain their original branch, decision context, provenance and later corrections without importing one branch's current authority into another. Protected personal information and emergency coordination require separately lawful disclosure and action in each affected jurisdiction.
+
 The objective is not separation.
 
 It is resilient evolution.
