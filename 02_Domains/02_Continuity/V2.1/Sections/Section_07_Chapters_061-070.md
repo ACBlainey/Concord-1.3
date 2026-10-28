@@ -42,6 +42,8 @@ Whenever responsibility, authority, stewardship, or continuity passes from one e
 
 Succession therefore becomes a planned constitutional process rather than an emergency response.
 
+Succession of responsibility, records, office or operational custody does **not** itself transfer an unspent decision mandate, a Steward ballot, emergency power or any other contextual authority. Authority requires its own lawful eligibility, appointment, selection and state-machine conditions; transfer is permitted only where the governing mandate expressly allows it and remains valid. This distinction preserves continuity without creating authority inheritance. Emergency response and succession planning are separate functions; an actual emergency may require an independently authorised response.
+
 ---
 
 ## 63. Planned Rather Than Reactive Transition
