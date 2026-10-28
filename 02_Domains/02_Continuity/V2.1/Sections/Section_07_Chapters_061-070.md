@@ -103,6 +103,8 @@ This principle protects civilisation from single points of failure while simulta
 
 Good stewardship therefore includes making oneself replaceable without diminishing one's contribution.
 
+Where a Steward or judicial officer becomes absent, ineligible or unable to act, the relevant Governance or Judiciary substitution and case-recovery procedure controls selection of a replacement. Continuity may preserve records and support handoff, but cannot select a replacement, displace an active officeholder, alter a committed vote, or activate a successor's authority independently. A blocked lawful selection remains blocked until the competent process restores a valid state.
+
 ---
 
 ## 66. Succession of Institutions
