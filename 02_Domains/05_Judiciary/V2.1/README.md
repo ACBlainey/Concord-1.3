@@ -1,8 +1,8 @@
-# Judiciary V2.1 — Sectional Working Edition
+# Judiciary V2.1 — Operational Sectional Edition
 
 ## Purpose
 
-Judiciary V2.1 is the editable, section-based successor development line to the large Judiciary V2 book. It follows the sectional working approach used for Governance. **The original `../Judiciary V2 Canonical.md` remains unchanged and preserved as source.** This initial split is copy-only; it does not itself settle conflicts, validate the architecture or declare V2 superseded.
+**Status: CURRENT OPERATIONAL JUDICIARY DOCUMENT (28 October 2026).** Judiciary V2.1 supersedes the monolithic Judiciary V2 by express authorial designation. V2.1 is the editable, section-based operational successor to the large Judiciary V2 book. It follows the sectional working approach used for Governance. **The original `../Judiciary V2 Canonical.md` remains unchanged and preserved as source.** The original split was copy-only; subsequent edits are recorded in the sections. Supersession does not imply that all unresolved architecture is completed or validated.
 
 ## Sections and reading order
 
@@ -33,7 +33,7 @@ These 22 files together represent the complete source-text sequence. No chapters
 3. Reconcile Judiciary V2.1's judicial discipline/removal, three-month appeal and proof-standard interfaces against recent updates to V2 and companion documents.
 4. Address independent disciplinary adjudicator selection, exhausted replacement pools, bounded recursive oversight and ordinary appellate routing.
 
-V2.1 is the **current Judiciary sectional development workspace**. Supersession of V2 is a separate authorial decision after sufficient integration.
+V2.1 is the **current operational Judiciary sectional edition**. Remaining architectural and implementation issues are addressed in V2.1 as work proceeds; they do not reinstate V2 as concurrent operational authority.
 
 ## Integration progress — 26 October 2026
 
