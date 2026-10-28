@@ -66,6 +66,8 @@ Such arrangements reduce unnecessary resource consumption while preserving valua
 
 Deferred participation therefore represents another form of continuity rather than absence.
 
+A participant's deferred activation instruction governs their own continuity preference; it does not authorise access to protected records, compel third-party action, or activate a public office or emergency mandate. Activation conditions require authenticated event evidence, current consent and safety checks, and independently lawful execution authority where consequential. Architecture to be designed — deferred activation interface: specify verification, conflicting declarations, failed triggers, safe blocked states and accountable review.
+
 ---
 
 ## 44. Hazardous Missions
