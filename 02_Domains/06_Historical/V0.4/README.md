@@ -9,10 +9,12 @@
 3. [Section 03 — Chapters 21–30](Sections/Section_03_Chapters_021-030.md)
 4. [Section 04 — Chapters 31–40](Sections/Section_04_Chapters_031-040.md)
 5. [Section 05 — Chapters 41–50](Sections/Section_05_Chapters_041-050.md)
-6. [Section 06 — Chapters 51–57](Sections/Section_06_Chapters_051-057.md)
+6. [Section 06 — Chapters 51–58](Sections/Section_06_Chapters_051-057.md)
 
 ## Preservation and follow-on review
 
 The six published sections are a copy-only partition of v0.3. Sequential concatenation was verified to match the complete original source exactly (61,383 characters). Original headings, appendages, and historical draft-status text are preserved inside the sections as source text, not independent current-status declarations.
 
 Future consistency review and corrections belong in V0.4 sections, with particular attention to Governance V2.2, Judiciary V2.1, Continuity V2.1, authority-state separation, archival privacy, provenance and cross-domain record custody. Unresolved architectural questions remain identified as such; operational designation does not imply implementation completion or exhaustive validation.
+
+**Chapter numbering note:** The inherited Section 06 filename ends in `057`, but its contents include Chapter 58. The complete source was preserved; the section's actual coverage is Chapters 51–58. The filename is retained to avoid breaking existing links until a deliberate rename.
