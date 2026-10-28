@@ -384,5 +384,7 @@ The preservation of memory allows civilisation to retain lessons that no single 
 
 Civilisation therefore remembers what individuals inevitably forget.
 
+Civilisational memory is not an unrestricted central dossier. Historical determines archival qualification, custody, reconstruction context, purpose-bounded access and lawful forgetting. Continuity may preserve operational recovery evidence and knowledge without silently assuming Historical's evidential role or authorising surveillance of participants. An archived record describes a past state; it does not itself establish present operational truth or activate past authority.
+
 ---
 
