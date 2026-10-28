@@ -226,5 +226,7 @@ Unsuccessful approaches likewise provide valuable knowledge.
 
 Reality therefore becomes the evaluator.
 
+An experimental branch is not exempt from participant protections, independent lawful authority, evidential accountability or agreed inter-branch safety boundaries. Its outcomes remain evidence for evaluation, not automatic instructions to other branches. Architecture to be designed — independent evaluation, shared-risk containment and lawful adoption of tested changes.
+
 ---
 
