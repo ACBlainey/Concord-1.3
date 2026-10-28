@@ -173,6 +173,8 @@ Just as a city's walls protect every resident rather than only those who built t
 
 Security therefore represents a constitutional service rather than institutional privilege.
 
+Protective secrecy must have a lawful purpose, bounded scope, accountable custodian, review and expiry or renewed justification. It cannot erase decision provenance, permanently defeat independent judicial oversight, or confer authority on the continuity service. Historical custody and authorised redacted disclosure remain distinct from operational control.
+
 ---
 
 ## 48. Accountability
