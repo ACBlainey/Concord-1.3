@@ -8,6 +8,8 @@ Historical retrieval of a previous system state does not authorise restoration.
 
 Any reactivation must pass through the relevant current authority and safety architecture.
 
+A historical snapshot, prior identity credential, archived appointment or old emergency declaration is evidence of a former state, not a live command. Continuity owns the authorised restoration workflow; Governance and Judiciary independently determine current office, case and decision authority. Historical may supply purpose-bounded evidence and custody acknowledgements, but may not decide whether a restored participant resumes an office. Emergency recovery must not wait for the variable Civilisation Clock; Historical records the event and later review without becoming the emergency trigger or controller.
+
 ---
 
 # 32. Civil Attention Interface
