@@ -63,6 +63,8 @@ Restoration exists to minimise unnecessary loss.
 
 It does not exist to create additional constitutional participants.
 
+Restoration of a participant's identity or operational capacity does not automatically reactivate a previously held Governance or Judiciary office, case assignment, unspent ballot, or emergency mandate. Eligibility and contextual authority must be independently re-established under the competent domain's current rules. Continuity services must preserve the restoration event, prior authority state and relevant evidence for lawful review, without treating historical records as executable authority.
+
 ---
 
 ## 24. Runtime Loss
