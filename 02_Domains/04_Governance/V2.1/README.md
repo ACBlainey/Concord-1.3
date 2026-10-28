@@ -1,6 +1,6 @@
 # Governance V2.1 — Consolidated Governance Architecture
 
-**Status: CURRENT OPERATIONAL GOVERNANCE DOCUMENT.** Governance V2.1 **supersedes Governance V2 by express authorial designation (16 October 2026)**. V2 is superseded because substantial original and essential architecture was omitted; much of that architecture has been restored in V2.1. Further editorial improvements and implementation work may proceed ad hoc without affecting V2.1's current status. V2 is retained unchanged as superseded historical provenance.
+**Status: SUPERSEDED BY GOVERNANCE V2.2 (28 October 2026).** Governance V2.1 superseded V2 on 16 October 2026 and is retained intact as historical provenance. V2.2 is now the current operational Governance document by express authorial designation; its comprehensive audit is deferred.
 
 
 ## Source labels, succession and resolution policy — authorial direction, 14 October 2026
