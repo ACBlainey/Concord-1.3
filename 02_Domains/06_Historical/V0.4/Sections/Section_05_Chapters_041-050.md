@@ -198,6 +198,8 @@ Historical should return a custody acknowledgement or equivalent provenance-bear
 
 Detailed interface schemas remain implementation work.
 
+A custody acknowledgement must identify the handoff mode (transfer, dual custody or reference preservation), the accepted object/version, the accountable operational and archival custodians, the effective transition and any rejected or pending obligations. An acknowledgement of receipt is not proof that live operational responsibility ended. Historical must not activate an archived decision, replace a Governance or Judiciary authority state, or initiate Continuity restoration. Architecture to be designed — authenticated handoff, retries, duplicate messages, failed acknowledgements, access restrictions and recovery after interrupted transfer.
+
 ---
 
 # 49. Historical Query Contract
