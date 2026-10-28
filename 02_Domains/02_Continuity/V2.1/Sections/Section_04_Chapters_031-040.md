@@ -34,6 +34,8 @@ Participants demonstrating responsible collaboration may gradually receive incre
 
 Each increase reflects demonstrated stewardship rather than assumption.
 
+Progressive access to services is not a grant of public decision authority. Eligibility, capability, permission and contextual authority remain distinct; a continuity provider cannot promote a guest or participant into an office, expand a Steward vote, or bypass independent accreditation and selection. Increased trust must remain purpose-bounded, reviewable and reversible through a lawful process.
+
 The Concord therefore develops continuity through experience rather than expectation.
 
 ---
