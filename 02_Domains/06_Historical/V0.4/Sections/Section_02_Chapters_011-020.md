@@ -123,6 +123,8 @@ Correlatable
 
 A record may legitimately occupy different states across these dimensions.
 
+A valid judicial disclosure order, Governance request or Continuity recovery request must still be evaluated against its actual bounded mandate, subject, purpose, protected scope and effective time. The existence of a court case, emergency or archived authority receipt does not itself create unrestricted search or correlation rights. Where evidence is required for review, Historical should provide an independently permitted projection or sealed review path, preserving provenance and a record of disclosure without revealing unrelated participant information. Architecture to be designed — request authentication, competing restrictions, sealed judicial access and appeal.
+
 ---
 
 # 16. Purpose-Bounded Retrieval
