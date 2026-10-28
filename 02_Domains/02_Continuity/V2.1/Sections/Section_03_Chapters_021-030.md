@@ -145,6 +145,8 @@ It concludes according to constitutional principles or participant choice.
 
 Accordingly, constitutional identity becomes one of civilisation's most carefully protected forms of continuity.
 
+Identity verification and constitutional status must not be conflated with universal visibility of a participant's history, location, relationships or activities. Identity evidence should be purpose-bounded and privacy-minimised, with protected adjudication of disputes and separation between Historical's past-state record and the current competent identity authority. Architecture to be designed — privacy-preserving status attestations, disputed claims and restoration acknowledgements.
+
 ---
 
 ## 28. Continuity Beyond the Individual
