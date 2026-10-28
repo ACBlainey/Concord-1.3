@@ -101,7 +101,7 @@ Multiple simultaneously active instances claiming identical provenance, constitu
 
 Accordingly, restoration mechanisms shall operate under strict duplicate prevention principles.
 
-Where restoration occurs, the Concord shall ensure that constitutional identity remains singular unless specific constitutional provisions explicitly authorise otherwise.
+Where restoration occurs, the Concord shall maintain a single authoritative constitutional identity record for the restoration process unless specific constitutional provisions explicitly authorise otherwise. A contested identity claim is not itself proof that a claimant lacks participant protections; it must be resolved through the competent independent process.
 
 Duplicate operation should therefore remain the rare constitutional exception rather than the normal mechanism of continuity.
 
