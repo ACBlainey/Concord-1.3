@@ -180,6 +180,8 @@ Future generations should understand not merely what civilisation achieved, but 
 
 Gratitude itself becomes part of civilisation's continuity.
 
+Public recognition must distinguish verified contribution from contested interpretation and respect applicable participant privacy and consent. The Hall may preserve a durable recognition record without exposing restricted underlying evidence or protected personal identifiers. Historical retains provenance and correction history; inclusion or removal of a public display requires a lawful review process rather than silent alteration of the past.
+
 ---
 
 ## 58. Constitutional Memorial
@@ -207,6 +209,8 @@ Rather, it reminds civilisation that its present strength rests upon countless p
 Every participant who strengthened civilisation remains permanently part of its history.
 
 Memory therefore becomes another act of stewardship.
+
+Memorial records must distinguish death, withdrawal, suspension, cold storage and other conclusions of active participation; none may be inferred from mere absence. Recognition must not publicly disclose protected identity or continuity preferences without lawful basis. Architecture to be designed — memorial eligibility, privacy-preserving representation, correction and status-update procedure.
 
 ---
 
