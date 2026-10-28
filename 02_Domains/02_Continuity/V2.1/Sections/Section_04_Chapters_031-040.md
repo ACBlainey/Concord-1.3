@@ -172,6 +172,8 @@ Participants build trust.
 
 Civilisation remembers trust.
 
+Trust history must not become an unrestricted behavioural dossier or an automatic permanent judgement. Historical custody retains provenance and uncertainty under privacy, purpose and retention limits; access to derived trust information requires a separately lawful basis. Trust may inform eligibility assessments, but cannot replace current evidence, due process or a competent domain's decision. Corrections and contested inferences must remain traceable without indiscriminate identity correlation.
+
 Future collaboration benefits from trust.
 
 Trust therefore becomes another form of continuity preserved across time.
