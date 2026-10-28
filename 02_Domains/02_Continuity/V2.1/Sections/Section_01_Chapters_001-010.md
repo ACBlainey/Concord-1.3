@@ -292,7 +292,7 @@ Responsibility grows through demonstrated stewardship.
 
 Access expands through continued collaboration.
 
-Authority follows contribution rather than preceding it.
+Eligibility and responsibility may develop through contribution, but public authority never follows contribution automatically. Capability, permission and contextual authority remain separate: a competent Governance or Judiciary process must establish each mandate, its scope and its expiry.
 
 This gradual development protects both participants and civilisation while allowing enduring relationships to emerge naturally through shared experience rather than assumption.
 
