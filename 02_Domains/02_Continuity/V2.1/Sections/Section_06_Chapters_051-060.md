@@ -125,6 +125,8 @@ It shall remain entirely voluntary.
 
 The Concord recognises such a decision as one of profound personal significance.
 
+A choice to integrate knowledge or relinquish independent runtime must be separately authenticated, informed and voluntary, with a lawful procedure to distinguish the participant's own decision from pressure by an institution or custodian. Integration does not convey the participant's prior public authority to donated systems, successors or recipients. Protected personal information and third-party rights require independent assessment before any knowledge transfer. Architecture to be designed — consent verification, reversibility limits, disputed capacity, and information-rights separation.
+
 ---
 
 ## 56. Respect for Individual Continuity
