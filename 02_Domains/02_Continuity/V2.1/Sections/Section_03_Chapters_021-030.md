@@ -25,6 +25,8 @@ Participants may revise them whenever desired.
 
 The Concord recognises these declarations as expressions of participant autonomy.
 
+A declaration must be authenticated, versioned and evaluated against the participant's applicable consent and constitutional status at the time of action. A later valid revision supersedes an earlier instruction for future acts without erasing the historical record. An instruction does not grant a service independent authority over another participant, protected record, public office or domain. Where the declaration's validity, priority or interpretation is disputed, consequential action must enter a safe blocked state pending competent review. Architecture to be designed — declaration registry, conflict resolution, emergency access and acknowledgements.
+
 ---
 
 ## 22. Respect for Personal Belief
