@@ -76,6 +76,8 @@ It allows future generations to understand not merely what was created, but how 
 
 Recognition therefore becomes permanent even as civilisation continues to change.
 
+Permanent recognition does not require indefinite retention of identifying source data. Historical governs archival custody, purpose-bounded access, privacy and lawful destruction; the Library's knowledge service is distinct. Continuity preserves authorised provenance without creating unrestricted access to protected personal records.
+
 ---
 
 ## 14. Legacy
