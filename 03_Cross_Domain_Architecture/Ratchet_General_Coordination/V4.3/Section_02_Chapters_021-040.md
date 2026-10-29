@@ -197,6 +197,10 @@ For high-consequence claims, Ratchet should value genuine independence rather th
 
 ---
 
+### 27.1 Verification Independence and Evidence Ancestry
+
+Verification records must distinguish the number of reports from the number of independent evidence paths. Shared data, models, institutions, incentives or upstream claims can make apparently separate confirmations dependent. Ratchet should preserve known evidence ancestry and uncertainty, rather than treating repeated assertions as additional independent proof. The competent assessment process determines confidence; Ratchet's records do not create authority through numerical agreement.
+
 # 28. Conflict of Interest
 
 A verifier may have incentives affecting their judgement.
