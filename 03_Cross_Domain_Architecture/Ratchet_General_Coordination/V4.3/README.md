@@ -43,3 +43,7 @@ Chapters 109 and 110 now bound administrative burden and protected reporting. Ch
 ## Final structural audit checkpoint
 
 All 178 numbered chapters occur once, in order, across nine sections (20 chapters in each of Sections 01–08 and 18 in Section 09). The V4.2 source remains intact. Chapters 2 and 172 now distinguish historical status labels from current V4.3 operational interpretation; Chapter 137 distinguishes knowledge validity, access, review and economic effect. Structural chapter coverage is complete. A full independent domain-by-domain semantic comparison remains separate work.
+
+## Participation and stewardship interfaces
+
+Chapter 58 retains general P0–P5 civil progression, the first-mover reciprocal trust bootstrap, separate domain-owned eligibility and civil benefit classes. It now also incorporates the source-resolved participant-facing status/correction loop, contextual self-stewardship and rehabilitation. Governance V2.2 Chapter 30.10.1, Judiciary V2.1 Chapter 91.3 and Education's judicial readiness architecture preserve independent office qualification, appointment and bounded authority. **No fixed temporal progression periods have been specified.**
