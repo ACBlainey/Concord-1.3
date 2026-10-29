@@ -18,6 +18,10 @@ A system that works only under ideal infrastructure conditions may lack civilisa
 
 ---
 
+### 141.1 Degraded Mode Is Not Expanded Authority
+
+Offline recording, local exchange and recovery procedures may continue only within pre-authorised limits. Loss of connectivity does not create new voting, treasury, identity or adjudicative powers. Operations whose required verification, authorisation or resource state cannot be established must be deferred or explicitly marked pending. Recovery must reconcile provisional local records with the authoritative versioned state and preserve conflicts for competent review rather than silently overwriting them. **Offline limits and reconciliation protocol remain to be designed with Continuity.**
+
 # 142. Data Loss and Corruption
 
 Ratchet should use appropriate mechanisms for:
