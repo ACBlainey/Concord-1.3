@@ -488,19 +488,20 @@ Restriction is not automatically punishment.
 
 # 60. Economic Exit
 
-If Ratchet includes an economic layer, voluntary participation requires meaningful rules for exit.
+Economic participation must permit meaningful exit without arbitrary loss of basic rights or the use of retained balances, reputation or personal data as coercive leverage.
 
-A functioning implementation should define what happens to:
+An exit procedure must account for:
 
-- balances;
-- outstanding obligations;
-- contracts;
-- backing records;
-- reputation records;
-- contribution records;
-- unresolved disputes.
+- participant balances, pending settlements and lawful ownership claims;
+- outstanding contracts and obligations, with any dispute routed to the competent adjudicative process;
+- contribution and backing records needed for lawful accounting;
+- reputation correction, access restrictions and protected personal-data retention;
+- obligations to other participants that survive withdrawal;
+- re-entry where applicable, without treating historical reputation as an automatic bar.
 
-A system should not describe itself as voluntary while making economic exit practically impossible.
+Ratchet may calculate and administer exit within its mandate, but it may not unilaterally extinguish contested rights or adjudicate debts. An unresolved dispute must not justify indefinite retention of unrelated assets or unnecessary personal information.
+
+**To be designed with Economy, Judiciary, Historical and Continuity:** settlement deadlines, disputed-funds safeguards, continuity of contracts, data-deletion and redaction procedures, and recovery when an exit occurs during system failure.
 
 ---
 
