@@ -1,6 +1,6 @@
 # KCS V2.0 — Section 05: Chapters 25–30
 
-**Source:** original KCS specification, unchanged chapter text; companion integration pending.
+**Source:** original KCS specification, unchanged chapter text; cross-domain companion integration incorporated; reconciliation ongoing.
 
 ## 25. Compression Without Loss of Provenance
 
