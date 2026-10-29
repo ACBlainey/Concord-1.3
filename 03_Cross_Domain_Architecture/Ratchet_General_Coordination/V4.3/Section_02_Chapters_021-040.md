@@ -1,6 +1,6 @@
 # Ratchet V4.3 — Section 02: Chapters 21–40
 
-**Migration:** V4.2 text preserved; reconciliation to follow.
+**Version:** Ratchet V4.3
 
 # 21. Provenance Is Not Proof of Usefulness
 
