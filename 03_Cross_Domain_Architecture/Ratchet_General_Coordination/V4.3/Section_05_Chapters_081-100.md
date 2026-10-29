@@ -398,6 +398,14 @@ The presence of universal participation does not logically require one specific 
 
 ---
 
+### 95.1 Participation opportunity, protected access and income separation
+
+Universal participation concerns meaningful opportunity to enter and contribute to civil and economic life, including access to relevant information, accessible interfaces, suitable tasks and fair consideration. It does not require equal contribution, compulsory labour, a single participation pathway or automatic progression to a higher P0–P5 civil band. The fundamental protection floor remains distinct from progressive participation benefits and independently qualified functions.
+
+Universal income, if adopted, is a **separate distributive mechanism** requiring its own eligibility, funding, allocation, adjustment and review rules. Neither a participant's lack of recognised contribution nor an unfavourable Personal Backing Ratio can, by itself, eliminate fundamental protections or create an unadopted income exclusion. A participation metric cannot be used as a substitute for the lawful decision rule governing economic support.
+
+**To be designed with the relevant civil benefits, economic and Education owners:** practical access guarantees, capability-aware participation routes, baseline support eligibility and funding if an income scheme is adopted, and participant notification and remedies.
+
 # 96. Long-Term Provision, Retirement and Reduced Capability
 
 Earlier Ratchet architecture considered pensions.
