@@ -219,6 +219,10 @@ This should be a major MVP and pilot metric.
 
 ---
 
+### 109.1 Minimum Necessary Administrative Burden
+
+Verification, provenance and oversight requirements must be proportional to the consequence and risk of each activity. A low-impact contribution should not inherit the full burden of treasury-scale auditing. Record review effort, delays, access barriers and participant exclusion alongside detected fraud or improved outcomes. Where the administrative cost exceeds demonstrated coordination benefit, the mechanism requires simplification, redesign or discontinuation. Privacy-sensitive information must not be collected merely because it might make future scoring easier.
+
 # 110. Whistleblowing
 
 Ratchet depends upon participants being able to expose:
