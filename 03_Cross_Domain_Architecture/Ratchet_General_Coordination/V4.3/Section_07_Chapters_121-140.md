@@ -367,6 +367,10 @@ Ratchet should not become its own permanent knowledge repository.
 
 ---
 
+### 136.1 Knowledge and Dependency Interface
+
+Ratchet supplies versioned activity, evidence, decisions, corrections and their context to the appropriate records systems. KCS may represent their provenance, scoped knowledge state and material dependencies, including review signals when an upstream assumption changes. KCS does not determine economic validity or participant entitlement; Ratchet does not acquire custody or access authority over all historical records. Restricted evidence and dependency details remain purpose-bounded. A missing KCS record does not establish that a dependency or contribution never existed.
+
 # 137. Knowledge States
 
 Ratchet records may inherit KCS-style states such as:
