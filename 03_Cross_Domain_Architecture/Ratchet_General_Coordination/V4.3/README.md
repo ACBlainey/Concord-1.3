@@ -1,6 +1,6 @@
-# Ratchet V4.3 — Operational Architecture
+# Ratchet V4.3 — Sections
 
-**Status:** Current operational Ratchet architecture in Concord-1.3. V4.2 is retained unchanged for provenance.
+V4.2 is retained unchanged for provenance.
 
 ## Sections
 
