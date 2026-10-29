@@ -254,7 +254,9 @@ Such interventions must consider:
 - market manipulation;
 - unintended concentration.
 
-Buybacks or supply reductions require a competent treasury mandate, a recorded purpose, lawful funding source, bounded quantity and duration, market-abuse safeguards and a reviewable settlement trail. The transaction must not be initiated merely because a Ratchet metric indicates an imbalance. **To be designed with the treasury interface:** execution rules, reserve floors, exposure limits and safeguards against concentration or manipulation.
+Buybacks or supply reductions require a defined competent Treasury function, a recorded purpose, lawful funding source, bounded quantity and duration, market-abuse safeguards and a reviewable settlement trail. The designated operator may execute compliant actions under that functional mandate without a fresh Governance vote for each transaction, subject to current-state checks and any expressly required exceptional approval. A Ratchet metric indicating imbalance does not independently authorise a transaction.
+
+**A buyback is not necessarily currency retirement:** acquired units may remain in Treasury custody and must be accounted for separately from units finally retired, outstanding monetary supply and assets committed as backing. The settlement event must prevent duplicate spending or retirement on retries; a change in transaction identifier cannot authorise replay. Voluntary Give Back, compulsory collection, buyback and final retirement retain their distinct legal and accounting bases. **To be designed with Treasury and monetary-policy owners:** execution rules, custody and supply categories, reserve floors, exposure limits, settlement finality and safeguards against concentration or manipulation.
 
 ---
 
