@@ -446,6 +446,14 @@ Issuance rules should be:
 
 The proposed monetary issuance and backing mechanisms are design propositions, not established empirical guarantees. Any operational issuance must first have defined authority, accounting, eligibility, resource constraints, inflation and abuse controls, dispute routes, and independent verification. Currency issuance does not create the physical resources it represents. Ratchet's coordination architecture may operate without currency, as specified by the minimum viable design in Chapter 160. **Issuance implementation and quantitative policy are to be designed and tested before activation.**
 
+### 79.2 Issuance function, authorisation and act-time limits
+
+Once the competent monetary architecture expressly defines an issuance function, its designated operator has a functional mandate to perform issuance within the adopted rules; no fresh general Governance decision is required for every compliant issuance. The operator does not thereby obtain personal ownership of issuance policy, Treasury assets or authority to invent additional backing. A proposal, policy indicator, metric, contribution score or emergency declaration cannot itself enlarge the issuance function.
+
+Each issuance must verify the current lawful rule/version, eligible recipient or destination, applicable backing and resource state, amount and rate limits, responsible actor, non-duplication state, and any exceptional approval actually required by the rule. Issuance changes the monetary ledger and must produce an auditable, uniquely identifiable event. A repeated request or altered event identifier cannot lawfully duplicate an already completed issuance. An instruction to edit the monetary specification is not itself an issuance transaction.
+
+**To be designed with Treasury and the competent monetary-policy owners:** the actual issuance formula, source and verification of backing, quantitative caps, exceptional approval triggers, settlement and reversal boundaries, and handling of offline or uncertain execution.
+
 # 80. Circulation
 
 Currency must remain sufficiently usable to function as a medium of exchange.
