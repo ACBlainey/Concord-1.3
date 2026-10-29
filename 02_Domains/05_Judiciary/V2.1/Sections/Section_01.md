@@ -64,6 +64,12 @@ Its purpose, however, extends beyond dispute resolution alone.
 
 The Judiciary also protects the constitutional boundaries within which legitimate authority operates.
 
+## Concord-wide Presumption of No Authority and Burden of Proof
+
+Across every Concord domain, a participant or institution has no authority over others by default. A claimant must demonstrate the explicitly documented constitutional method, valid context, bounded mandate and state permitting the disputed act. No affected party is required to prove that undocumented authority does not exist. Office, custody, technical capability, claimed necessity or an emergency does not independently create authority.
+
+Where an actor intervenes without a valid mandate, the action remains unauthorised and open to judicial review. The Judiciary may examine necessity, proportionality, personal rights (including lawful self-defence), actual injury and applicable law, and may order remedies or adjudicate potential prosecution through competent procedures and standards of proof. These considerations do not retroactively confer institutional authority, and an allegation does not itself establish guilt. The Judiciary's own acts likewise require explicit valid contextual authority.
+
 It provides mechanisms through which individuals and institutions may challenge exercises of power.
 
 It interprets law.
