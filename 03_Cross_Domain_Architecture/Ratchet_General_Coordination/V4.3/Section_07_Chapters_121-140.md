@@ -146,11 +146,11 @@ A mechanism rewrite is not automatically a constitutional amendment; conversely,
 
 ---
 
-### 126.1 Authorial development and operational change records
-
-Citizen Zero, the Founder and Architect of Concord, retains unrestricted authorial editing authority over the authored Ratchet specification; an AI development instance acting under Citizen Zero's instruction may edit within that delegated authorial scope. Neither the existence of an operational Ratchet administrator nor a requirement for a live Governance decision gives that administrator a veto over the author's repository edits. Conversely, editing a specification does not itself execute a live monetary transaction, change a participant's operational state or cast an official Steward vote.
+### 126.1 Operational change records
 
 For changes applied to an operating system, the applicable functional mandate or competent decision identified above controls execution. Every consequential operational change has a new identifiable event, rule version, scope, justification, effective state, correction route and material dependencies. An earlier vote or completed transaction is not retroactively rewritten, and an altered event identifier cannot recreate consumed authority. **To be designed with Governance and affected domains:** materiality thresholds, rule-version adoption into a live implementation, affected-domain notification and treatment of mixed-scope changes.
+
+---
 
 # 127. Parameter Drift
 
