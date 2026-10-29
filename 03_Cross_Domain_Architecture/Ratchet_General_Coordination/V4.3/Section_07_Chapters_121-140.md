@@ -123,6 +123,10 @@ There is no assumption that the first reviewer is infallible.
 
 When a verifier, reputation provider, treasury reviewer and governance adviser share the same underlying data, model, operator or incentive, their apparent agreement may mask one common failure. Ratchet should preserve material dependency links and flag common-cause exposure for competent review, using KCS dependency records where appropriate. A failure signal triggers bounded investigation, not automatic invalidation of every downstream result. Corrections propagate only when the changed fact is material to the dependent decision.
 
+### 125.2 Capture Detection and Independent Review
+
+Evidence of capture may include correlated verifier decisions, beneficial-control concentration, unexplained exclusion, circular treasury allocations or systematic suppression of corrections. Such signals must be preserved with context and uncertainty and referred to a competent independent review route. Ratchet cannot declare an institution captured, dismiss a steward or seize treasury control solely on the basis of its own metrics. Reviewers must not depend exclusively on the institution under examination for their evidence.
+
 # 126. Ratchet Self-Modification
 
 Ratchet may need to modify its own mechanisms.
