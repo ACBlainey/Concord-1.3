@@ -81,6 +81,16 @@ Ratchet administration should not become its own final court.
 
 Ratchet may correct routine records and review assessments within its assigned functional mandate. Where a dispute concerns legal rights, coercive consequences, steward misconduct, jurisdiction or contested authority, Ratchet must refer the matter to the competent Judiciary or other established review process. Referral does not transfer judicial powers to Ratchet. A challenged economic assessment retains its provenance and uncertainty, and any materially dependent action must be reviewed under the applicable rules. **Specific referral thresholds and procedural interfaces remain to be designed with Judiciary.**
 
+### 144.2 Consequential decisions, notice and bounded challenge
+
+A consequential Ratchet assessment or action must identify its competent decision owner, rule/version, material evidence, scope, authority basis, affected participant or resource, outcome and available correction or challenge route. Administrative fact correction, policy interpretation, eligibility recomputation, allocation decisions, disciplinary findings and judicial remedies are different acts; a shared record or complaint interface does not merge their powers.
+
+Where an assessment changes participation access, entitlement, allocation, employment opportunity or entrusted-function eligibility, the affected participant must receive timely notice and a meaningful explanation, subject to lawful privacy and security restrictions. They should be able to inspect the consequential record, supply correcting evidence and reach the responsible decision-maker through Civil Contact without having to identify the institutional routing themselves. Historical preserves applicable provenance; KCS identifies material downstream dependencies and routes selective review, rather than automatically reversing every dependent decision.
+
+Ratchet's competent administrator may correct records or reconsider a decision within its existing mandate. An unresolved legal-rights dispute, coercive sanction, serious exclusion, contested jurisdiction or allegedly unlawful authority goes through the established independent Judiciary route. An appeal or complaint does not itself confer authority to freeze unrelated resources, erase history, punish a complainant or reverse a judgment. Interim protection, suspension and enforcement changes require their own lawful authority. The finite ordinary appeal and exceptional reopening boundaries remain those of Judiciary V2.1, Chapter 79.4 and Chapter 389.1, not a new Ratchet appellate hierarchy.
+
+**To be designed with Judiciary, Civil Contact and the affected domains:** materiality and referral thresholds, participant notice timing, appeal filing/acknowledgement, stays and interim remedies, restricted evidence disclosure, corrections affecting settled transfers and compensation after unlawful exclusion.
+
 # 145. Relationship to the Ethical Kernel
 
 Ratchet remains subordinate to the Ethical Kernel.
