@@ -420,6 +420,10 @@ Any authority exercised through Ratchet must arise through separately defined go
 
 ---
 
+### 8.1 Standing Functional Mandates and Bounded Authority
+
+Ratchet's routine coordination, recording, matching and verification functions may operate under an expressly assigned standing functional mandate. Such a mandate is bounded by function, scope, applicable rules and oversight; it does not require a new triadic governance vote for each ordinary permitted operation. A participant's capability, contribution, reputation or possession of records does not confer that mandate. Ratchet cannot enlarge its own mandate, command other domains or create emergency authority. Decisions outside the mandate require the competent existing authorisation process.
+
 # 9. Universal Opportunity Rather Than Uniform Output
 
 Ratchet should seek broad opportunity to participate.
