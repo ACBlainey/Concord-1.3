@@ -451,6 +451,10 @@ Retention should therefore be:
 
 Ratchet's operational need to retain evidence does not create unlimited visibility or permanent retention rights. The applicable participant-data and Historical custody rules determine protected access, redaction, retention and lawful deletion. Corrections preserve appropriate provenance without perpetuating an inaccurate current classification. Where lawful policy requires deletion without residual metadata, Ratchet must not manufacture a shadow record.
 
+### 139.2 Failure Records and Restoration Boundaries
+
+Failure records should distinguish detection, operational containment, authorised correction, evidence custody and later review. Restoration of a service must not silently restore expired delegations, revoked credentials or superseded policy parameters. The Continuity domain determines applicable recovery architecture; Ratchet supplies its dependency, transaction and participation records within lawful access limits. Where a dependency cannot be restored, degraded operation must be explicitly scoped and must not imply full functionality.
+
 # 140. Relationship to Continuity
 
 Ratchet depends upon infrastructure and institutions that may fail.
