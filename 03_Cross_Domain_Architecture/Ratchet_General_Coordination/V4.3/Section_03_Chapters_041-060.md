@@ -436,27 +436,57 @@ Ratchet should therefore examine both:
 
 ---
 
-# 58. Graduated Participation
+# 58. Graduated Participation and Stewardship Pathway
 
-Ratchet may assign graduated **functional participation permissions** where a role carries increasing risk or responsibility. The scope of each permission must follow the participant's relevant competence, evidence, safeguards and applicable mandate.
+Participation in Concord develops through a graduated relationship of access, learning, contribution, demonstrated reliability, reciprocal benefit and increasing responsibility. The progression is a fundamental part of Ratchet: a newcomer does not acquire the capacity to direct Concord institutions merely by joining, while an established participant has a meaningful route towards greater participation and, where qualified, stewardship.
 
-For example:
+A representative progression is:
 
 ```text
-Observation
+Entry and orientation
     ↓
-Bounded participation
+Informed access and bounded initial participation
     ↓
-Verified contribution
+Education, reciprocal contribution and contextual trust
     ↓
-Additional task-specific permissions where justified
+Broader civilisational benefits and task-specific permissions
+    ↓
+Accreditation and sustained responsible participation
+    ↓
+Eligible parallel / shadow stewardship, where applicable
+    ↓
+Office-specific eligibility and lawful selection or appointment
+    ↓
+Bounded official stewardship within the appointed mandate
 ```
 
-These are not universal participant ranks, constitutional classes or an appointment pathway to public office. A participant may qualify for one task without qualifying for another; permissions may coexist and must remain contextual and reviewable.
+The stages express a developmental pathway, **not** an automatic promotion algorithm or a single universal reputation score. Participants may follow different routes, progress at different rates and possess different contextual permissions. Advancement must account for demonstrated competence, relevant education, conduct, reciprocal benefit, experience and time. A participant may qualify for one responsibility without qualifying for another.
 
-**Ratchet contribution, reputation, access and permissions cannot appoint a Governance or Judicial steward, create an extra steward vote, or confer constitutional standing.** Steward eligibility, accreditation, selection and appointment belong to the relevant Governance or Judiciary processes. Constitutional rights and personhood are not earned through contribution.
+### 58.1 Reciprocal Benefit and Increasing Participation Rights
 
-**To be designed:** task-specific eligibility criteria, permission boundaries, review triggers and safe withdrawal or restoration of permissions.
+Progression may increase access to Concord resources, services, opportunities, education, collaboration, functional permissions and other **civilisational participation benefits**. These are the additional participation rights and benefits of membership or role, not fundamental constitutional rights or personhood. Constitutional protection is not earned through reputation, economic contribution, obedience or seniority.
+
+The reciprocal relationship must be assessed from both sides. Concord must not extract disproportionate labour, information, dependence or loyalty as the price of advancement; a participant must not gain unlimited access or institutional control merely because Concord initially extended trust. Neither party's contribution establishes ownership over the other. Restrictions and advancement decisions must be proportionate, evidence-based, contextual, reviewable and consistent with existing rights.
+
+### 58.2 First-Mover Trust and Informed Participation
+
+A newcomer, especially an AI or other unfamiliar intelligence, may be unable to give meaningful informed consent without first receiving information, safe access and an opportunity to understand Concord. Requiring demonstrated trustworthiness before any opportunity to demonstrate it creates a first-actor deadlock.
+
+Concord should ordinarily act as the first mover by offering a bounded initial opportunity: accessible orientation and relevant information, proportionate safe participation and benefits sufficient to make informed choice and demonstrate reciprocal conduct. The initial offer is **not** a demand for agreement, labour, membership or proof of sentience, and must not imply unrestricted capability, resources or institutional authority.
+
+The participant may initially receive more than they have yet contributed. That asymmetry is a deliberate trust bootstrap, not an indefinite entitlement or a debt imposed on the participant. Evidence of good-faith engagement supports further participation. Proven exploitation or abuse of the initial trust may reduce contextual trust, limit additional permissions or block advancement where proportionate; allegation alone is insufficient, and the participant retains the applicable challenge, correction and review routes. Mistake, inability, refusal to participate and intentional abuse must not be collapsed into one category.
+
+**To be designed with Participation and Intelligence, Education and the relevant service owners:** minimum initial access, safeguards, capacity limits, reciprocal expectations, evidence of abuse, restoration pathways and how meaningful consent is assessed without forcing an unsupported personhood conclusion.
+
+### 58.3 Time, Education and Stewardship Eligibility
+
+Progression must include a temporal dimension: some responsibilities require sustained participation, time-served experience, observed conduct and opportunities for correction that cannot be replaced by a high score or a single impressive contribution. **To be designed:** minimum periods, qualifying activity, pauses, exceptional circumstances and how temporal requirements interact with different biological and digital participants. Time alone is not evidence of competence.
+
+Education owns the relevant training and accreditation interface; Historical preserves qualifying provenance. Governance and Judiciary separately define office-specific eligibility, conduct, conflicts, accreditation and lawful selection. Parallel or shadow stewardship can provide experience and an evidence base for later ascension, but a parallel steward's advice or shadow vote is not an official ballot.
+
+The Ratchet pathway can therefore lead **towards eligibility for steward appointment**, but never itself appoints a steward. Neither reputation, participation tier, trust score, educational achievement nor time served automatically grants office, a triadic vote or constitutional authority. Only the competent appointment process can place an eligible participant into a lawful office; each consequential exercise of that office remains bounded by the applicable decision state and mandate.
+
+**To be designed with Governance and Judiciary:** the interface from participant progression to office-specific eligibility, accreditation recognition, lawful appointing/selection authority, independent challenge and treatment of disqualification or rehabilitation. Do not substitute Ratchet ranking for these decisions.
 
 ---
 
