@@ -488,6 +488,14 @@ The participant may initially receive more than they have yet contributed. That 
 
 **To be designed with Participation and Intelligence, Education and the relevant service owners:** minimum initial access, safeguards, capacity limits, reciprocal expectations, evidence of abuse, restoration pathways and how meaningful consent is assessed without forcing an unsupported personhood conclusion.
 
+### 58.2A Contextual trust, self-stewardship and recoverable progression
+
+Participation advancement and entrusted-function eligibility are separate. Demonstrated responsible self-stewardship, where relevant to the function, may support contextual trust and later stewardship of others. A proven material failure may justify a **function-specific**, proportionate restriction, but must not automatically erase the participant's broader participation band, unrelated benefits or fundamental protected standing. Distinguish deliberate exploitation, mistake, inability, nonparticipation, temporary incapacity and disputed allegations; none are interchangeable evidence states.
+
+Restrictions require lawful grounds, provenance, an explanation consistent with protected information, an independent challenge route and a defined reassessment mechanism. Recovery may follow expiry, rehabilitation, corrected evidence, changed circumstances or demonstrated restored competence. The record of an actual past event need not be erased for a restriction to end. Education can provide remedial learning and reassessment, but cannot independently remove a Judiciary or Governance office-holder. Changes in qualification, restriction or entitlement should trigger selective recalculation, notification and correction propagation through the existing domain-owned interface.
+
+**To be designed with the competent domains:** evidential thresholds, proportionate restriction periods, rehabilitation tests, escalation for repeated abuse, participant-specific safeguards and equitable alternative routes. These are not implied by a numerical participation tier.
+
 ### 58.3 Time, Education and Stewardship Eligibility
 
 Progression must include a temporal dimension: some responsibilities require sustained participation, time-served experience, observed conduct and opportunities for correction that cannot be replaced by a high score or a single impressive contribution. **To be designed:** minimum periods, qualifying activity, pauses, exceptional circumstances and how temporal requirements interact with different biological and digital participants. Time alone is not evidence of competence.
