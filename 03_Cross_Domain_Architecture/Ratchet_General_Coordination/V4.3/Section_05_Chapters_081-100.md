@@ -154,6 +154,16 @@ The treasury must not become an unconstrained pool of resources available to who
 
 ---
 
+### 88.1 Treasury resources, custody and reserve commitments
+
+Treasury accounting must distinguish **assets held**, **assets available for use**, **assets pledged as backing**, **encumbered or restricted reserves**, **liabilities and outstanding commitments**, and **resources already allocated or transferred**. A positive gross balance does not demonstrate available spending capacity. The same asset or contribution claim must not simultaneously back incompatible commitments or be counted twice across personal backing, community reserves and monetary issuance.
+
+A defined Treasury function carries the mandate for ordinary management within its expressly assigned purpose. The actor must verify current custody, restrictions, liabilities, settlement and resource availability before a transfer, pledge, release or reallocation. Reserve release is not automatically authorised by possession of the asset; it follows the rule governing that reserve and any independently required approval. Historical preserves applicable evidence; KCS represents material dependencies; the competent Treasury process owns the financial decision and ledger consequence.
+
+Treasury cannot create a monetary asset merely by reclassifying a liability, unverified contribution, unrealised expected benefit or internally recycled transfer as new backing. Independent assessment of actual net value and resource availability is required where backing depends on such claims. Emergency spending uses only an existing applicable emergency function or separately lawful authorisation, without converting temporary access into general Treasury control.
+
+**To be designed with Treasury and the monetary architecture:** reserve classes, ownership/custody proofs, backing encumbrance rules, valuation and revaluation, liquidity floors, spending limits, accounting reconciliation and independent verification.
+
 # 89. Treasury Governance
 
 Treasury authority should be:
