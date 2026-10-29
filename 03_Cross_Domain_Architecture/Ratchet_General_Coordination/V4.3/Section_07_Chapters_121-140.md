@@ -403,6 +403,10 @@ This allows the system to preserve historical information without pretending tha
 
 ---
 
+### 137.1 Independent Record Dimensions
+
+A Ratchet record must not collapse knowledge validity, review status, access permission, historical supersession and operational availability into one linear status. A disputed claim may remain accessible to authorised reviewers; a reliable record may still be restricted; a superseded record may retain historical evidential value. KCS and Historical provide the relevant classification and custody interfaces, while the competent Ratchet process determines the economic or participation consequence. A knowledge-state change does not automatically revoke a participant's rights or invalidate every dependent decision.
+
 # 138. Data Correction and Historical Integrity
 
 When a Ratchet record is shown to be wrong, the current state should be corrected.
