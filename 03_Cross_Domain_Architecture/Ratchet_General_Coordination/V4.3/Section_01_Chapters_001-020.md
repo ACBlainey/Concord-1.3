@@ -8,7 +8,7 @@
 
 **Author:** Alexander C. Blainey  
 **Framework:** The Concord  
-**Version:** 4.2  
+**Version:** 4.3  
 **Domain:** Coordination, Participation, Contribution, Trust and Economic Architecture
 
 ---
@@ -87,8 +87,6 @@ Its role is narrower:
 
 # 2. Ratchet Architecture
 
-Ratchet is an operational coordination architecture.
-
 The architecture contains several different epistemic classes of material:
 
 ### Established Concordian principles
@@ -117,9 +115,9 @@ Principles developed through Ratchet's internal evolution, including:
 - reciprocal participation;
 - controlled persistence.
 
-### Candidate mechanisms
+### Economic and implementation mechanisms
 
-Mechanisms requiring practical testing, including:
+Mechanisms with specific design, implementation and evaluation requirements include:
 
 - Progressive Monetary Backing;
 - Personal Backing Balance;
@@ -133,9 +131,9 @@ Mechanisms requiring practical testing, including:
 
 Problems for which Ratchet does not yet claim a satisfactory solution.
 
-### Experimental propositions
+### Evaluation requirements
 
-Mechanisms that should be tested through simulation, controlled experiments, pilot systems or other empirical methods before operational deployment.
+Mechanisms whose consequences must be evaluated through suitable simulation, controlled experiments, pilot systems or other empirical methods.
 
 Ratchet must preserve these distinctions.
 
