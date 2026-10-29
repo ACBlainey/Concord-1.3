@@ -250,7 +250,7 @@ A system that punishes those who reveal its failures will progressively lose the
 
 ### 110.1 Protected Reporting and Competent Review
 
-Reports of suspected capture or abuse must have a route outside the potentially implicated Ratchet operator. Reporting access, confidentiality and anti-retaliation protections are governed by the applicable Concord safeguards. Ratchet records the minimum necessary case status and evidence references; it does not decide guilt or compel disclosure beyond its mandate. An allegation remains an allegation until the competent process evaluates it. Deliberately false reporting and genuine error require distinct treatment.
+Reports of suspected capture or abuse must have a route outside the potentially implicated Ratchet operator. Reporting access, confidentiality and anti-retaliation protections are governed by the applicable Concord safeguards. Ratchet records the minimum necessary case status and evidence references; it does not decide guilt or compel disclosure beyond its mandate. An allegation remains an allegation until the competent process evaluates it. Deliberately false reporting and genuine error require distinct treatment. Where the report concerns the operator normally responsible for receiving or reviewing it, a protected independent route must remain available; the implicated actor's ordinary functional mandate cannot be used to veto referral, erase the record or retaliate. **To be designed with Judiciary and Civil Contact:** protected receipt, conflict-safe routing, status notification and safeguards against identification through unnecessary metadata.
 
 # 111. Good-Faith Error
 
@@ -278,7 +278,7 @@ A learning architecture should encourage timely correction.
 
 This does not eliminate accountability.
 
-It makes accountability proportional to the nature of the failure.
+It makes accountability proportional to the nature of the failure. Correction of an erroneous contribution, transaction or participant-status record is distinct from a finding of personal misconduct. A mistake may warrant recalculation or restitution without creating an automatic disciplinary sanction; intentional manipulation requires evidence and the competent lawful process. A reviewer cannot obtain punitive authority merely by detecting an anomaly.
 
 ---
 
@@ -301,7 +301,7 @@ Potential attacks include:
 
 Security is therefore not an optional implementation detail.
 
-It is part of the architecture.
+It is part of the architecture. Technical possession of credentials, administrative access or the capability to replay a request does not establish current lawful authority. Consequential actions must verify the actor's defined function and current state, prevent duplicate execution and preserve immutable event provenance. Incident containment and recovery may operate only within their existing authorised functions; an attack or outage does not confer unrestricted emergency control. **To be designed with Security and Continuity:** incident-state guards, compromised credential isolation, transaction replay prevention and recovery verification.
 
 ---
 
@@ -319,7 +319,7 @@ Ratchet should therefore examine:
 
 Rules should not be evaluated only by whether participants follow their literal wording.
 
-They should be evaluated by what behaviour they generate.
+They should be evaluated by what behaviour they generate. Detection of gaming is evidence for review, not a standalone licence to suspend rights, confiscate holdings or impose a penalty. Competent domain processes must distinguish permitted optimisation, unforeseen incentives, good-faith error and deliberate deception, and correct defective rules without silently rewriting earlier decision records.
 
 ---
 
@@ -343,7 +343,7 @@ Ratchet therefore requires:
 - adversarial evaluation;
 - periodic revision.
 
-The more capable the optimiser, the more important objective design becomes.
+The more capable the optimiser, the more important objective design becomes. An AI recommendation, anomaly score or automated optimisation result cannot itself change a policy or expand a transaction mandate. A defined automatic function may execute within its approved bounds and act-time safeguards; changing its objective, scope or limits is a separate competent decision. **To be designed:** monitoring and escalation conditions for objective drift, proxy gaming and consequential automated actions.
 
 ---
 
@@ -360,7 +360,7 @@ Ratchet must therefore evaluate both:
 
 A metric that initially correlates strongly with useful contribution may cease to do so once participants begin optimising it.
 
-Metrics therefore require continuing validation.
+Metrics therefore require continuing validation. Material changes in measurement definitions must be versioned so earlier outcomes remain interpretable under the rule actually used at the time. A changed metric is not retroactive proof of misconduct or an automatic basis to revoke settled decisions; materially affected current eligibility or allocation states require competent review.
 
 ---
 
@@ -404,7 +404,7 @@ Monetary health might consider:
 
 No universal portfolio is prescribed.
 
-The principle is to resist false compression.
+The principle is to resist false compression. Portfolio indicators retain their individual provenance, uncertainty and domain ownership. Combining them into a dashboard or summary does not create a universal participant score or independent decision authority.
 
 ---
 
@@ -434,6 +434,8 @@ A Ratchet evaluation should therefore ask:
 
 > What happened because the first effect happened?
 
+Evaluation must also check who bears the cost of the induced behaviour, including unpaid participants, excluded groups, future resource users and institutions that absorb transferred risk. A favourable first-order indicator cannot alone justify continued allocation where consequential harms remain unexamined.
+
 ---
 
 # 119. Failure
@@ -454,7 +456,7 @@ Failure may occur through:
 - deliberate attack;
 - unknown mechanisms.
 
-The architecture should therefore be designed to detect and learn from failure.
+The architecture should therefore be designed to detect and learn from failure. Failure response distinguishes detection, containment under an existing mandate, preservation of evidence, competent correction, restoration verification and subsequent learning. Neither an incident report nor a failure classification creates authority to override ordinary governance or adjudication. **To be designed with Continuity and the affected domain:** escalation thresholds and restoration criteria for failures spanning multiple functions.
 
 ---
 
@@ -477,7 +479,7 @@ Ratchet adopts the Concord failure taxonomy:
 
 These categories may overlap.
 
-The purpose is diagnostic rather than punitive.
+The purpose is diagnostic rather than punitive. A single event may involve several interacting causes, and a classification must not be treated as a verdict against a participant or institution. Classification and correction records must retain evidence, uncertainty, version and responsible review function; legal responsibility and sanctions belong to the separately competent process.
 
 ---
 
