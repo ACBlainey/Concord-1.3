@@ -8,6 +8,17 @@ A domain is a persistent civilisational problem-space or responsibility with its
 
 The eighteen domain roots are numbered for navigation only. Directory order does not indicate precedence, rank or authority.
 
+
+## Concord-wide presumption of no authority — all domains
+
+**The default state of every participant and system is no authority over others.** This applies throughout every Concord domain, office, service, cross-domain interface and emergency arrangement, not only Governance. Public, institutional or delegated authority exists and may be exercised solely through an explicitly documented constitutional method that establishes a valid context, mandate, scope and conditions. Where no method exists, no authority exists. It cannot be assumed, arrogated, inherited, transferred, seized or inferred from an assigned responsibility, technical capability, urgency or perceived necessity.
+
+**The burden of demonstrating authority always rests with the actor claiming or exercising it.** The affected participant does not bear the burden of proving the absence of authority. Personal authority derived directly from individual rights, including lawful self-defence, is distinct and remains bounded by those rights.
+
+**Emergency necessity does not automatically supply a missing mandate.** An action taken without an applicable authorisation remains unauthorised, even where an actor believes it necessary. The facts, necessity, proportionality, harm and any applicable personal rights may be examined by the competent Judiciary; they do not retrospectively create institutional authority. Such conduct is open to judicial review, remedy for injured parties and potential prosecution where the applicable law and evidential standards warrant it. No guilt or remedy is presumed without due process.
+
+**Review instruction:** Identify the actual explicit authority mechanism and verify its state and scope. Do not repeatedly audit imagined authority pathways that Concord has never created. Examine real technical bypasses, coercion, impersonation and unauthorised acts as conduct or implementation failures, not as lawful authority. This cross-domain rule governs interpretation of all domain texts; an exception requires an explicit constitutional provision, not an inference.
+
 ## Concord-wide founding and first-run stewardship bootstrap — architectural issue
 
 **Scope:** Every domain or function requiring appointed Stewards or other qualified officeholders at initial Concord implementation. This is a cross-domain founding dependency, not a special rule owned by Governance or Judiciary.
