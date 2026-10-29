@@ -35,3 +35,11 @@ Civil State Map and developmental topology may consume scoped dependencies and r
 A protected dependency relation is not universally visible merely because its existence is useful. Access, correlation, retention and disclosure remain purpose-bounded; KCS must not convert dependency mapping into surveillance or cross-domain ownership. Where a review depends on assumed graph completeness, expose the search boundary and unknown/missing edges. Consequential relation claims are inspectable and contestable through legitimate review processes; correction is versioned rather than erasing the previous historical claim.
 
 **Implementation detail to be designed:** shared event/review serialization, thresholds supplied by host domains, protected-context routing, acknowledgement semantics and cross-domain regression criteria. These open interfaces do not suspend the standing KCS functions described above.
+
+### 33.1 Selective Propagation Sequence
+
+The operational sequence is **record → traverse → filter → classify → route for competent review → record outcome → propagate if material → stop**. KCS preserves the reason for each stopping or escalation decision. Unknown dependency completeness does not by itself compel review; consequential uncertainty is referred under the receiving domain's applicable thresholds. Freshness and review intervals are likewise supplied by the competent domain, not invented by KCS.
+
+### 33.2 Dependency Review Interfaces
+
+The Civil State Map consumes scoped, potentially coexistent states without flattening them into a universal status. The Civilisation Clock may consume bounded review signals but retains its own timing and transition functions. Continuity evaluates recovery and identity through its own architecture. Protected dependency records carry purpose-bounded visibility without KCS taking over access control. Active Development receives candidate reviews without automatic changes to operational architecture. Each interface must preserve provenance, context, uncertainty and an acknowledgement or unresolved state where appropriate.
