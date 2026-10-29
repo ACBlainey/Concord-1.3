@@ -36,6 +36,8 @@ Historical should support reasonable means to determine:
 
 Historical must not convert absence of authenticity evidence into automatic falsity.
 
+Authenticity of a document, signature or archived credential is distinct from validity of the authority it purports to describe. A genuine record can describe an expired, invalid or unauthorised act; a verified historical appointment does not establish current authority. Any actor claiming a live mandate bears the burden of proving the explicitly documented mechanism and applicable state. Historical may authenticate evidence for competent review but cannot itself validate or create the mandate.
+
 ---
 
 # 43. Cultural and Living Knowledge
