@@ -2,13 +2,12 @@
 
 **Version:** Ratchet V4.3
 
-# Ratchet V4.2
+# Ratchet
 
 ## A General Coordination, Contribution, Trust and Reciprocal Participation Protocol
 
 **Author:** Alexander C. Blainey  
 **Framework:** The Concord  
-**Status:** OPERATIONAL  
 **Version:** 4.2  
 **Domain:** Coordination, Participation, Contribution, Trust and Economic Architecture
 
@@ -37,7 +36,7 @@ Ratchet began as an economic and monetary proposal. Through recursive developmen
 
 These questions expanded Ratchet beyond its original monetary purpose.
 
-Ratchet V4.2 therefore treats the monetary architecture as one application of a more general coordination protocol.
+Ratchet treats monetary architecture as one application of a more general coordination protocol.
 
 The Ratchet architecture is concerned with:
 
