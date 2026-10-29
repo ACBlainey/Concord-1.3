@@ -120,6 +120,10 @@ That distinction must remain explicit.
 
 ---
 
+### 165.1 Evidence Status and Evaluation-Space Completeness
+
+Architectural consistency, internal criticism, simulation, controlled pilot results and independent replication are different evidence categories. A favourable result in one category must not be presented as proof in another. Before declaring a mechanism adequate, review plausible alternatives, untested populations, common-cause failures, adverse outcomes and material unanswered questions. This completeness check is a safeguard against premature closure, not a demand that every uncertainty be eliminated before bounded experimentation.
+
 # 166. Ratchet as a Methodological Case Study
 
 Ratchet's own development provides a useful case study of the Concord development method.
