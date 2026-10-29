@@ -30,6 +30,16 @@ The objective is to make the civilisation itself **remember what matters**.
 
 ---
 
+### 13.1 Bounded Retrieval and Negative Search
+
+Consequential retrieval preserves task/query scope, access boundary, time/version scope, relevant current orientation, directly material objects, uncertainty and dispute, provenance/history pointers, known search limitations and legitimate routes to deeper material. No universal ranking algorithm is required.
+
+Where absence may affect a decision, KCS can retain a bounded negative-search record stating query, time, sources/indexes searched, permissions, result, limitations and unresolved alternatives. **Not retrieved or not found does not mean nonexistent.** If later evidence finds an object, the original search remains an accurate record of its bounded search context, linked to the later finding rather than silently overwritten.
+
+### 13.2 Reusable Capability Status
+
+For software, models, procedures, tools and datasets, distinguish stored availability, activation/operational state, dependencies, compatibility, validation currency and externally supplied authorisation. Retrieval alone cannot reactivate dormant capability. The competent operational domain determines whether dependencies, runtime, interfaces, licences, security, safety and validation permit use; Continuity determines recoverability, not KCS storage status.
+
 ## 14. Resource Stewardship
 
 Knowledge storage is not free.
