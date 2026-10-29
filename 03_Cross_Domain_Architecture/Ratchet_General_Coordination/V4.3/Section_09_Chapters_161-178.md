@@ -78,6 +78,10 @@ Without comparison, improvement may be difficult to establish.
 
 ---
 
+### 163.1 Comparative Evaluation and Stopping Rules
+
+Comparisons should predefine relevant outcomes, costs, failure rates, distributional effects, privacy burdens and second-order effects. A mechanism that improves one metric while worsening constitutional standing, accessibility or capture risk cannot be declared superior on the single favourable measure. Test reports must distinguish observed results from extrapolation, and retain unsuccessful or inconclusive findings. Repeated failure or material harm triggers redesign or suspension rather than automatic continuation.
+
 # 164. Replication
 
 A result obtained once by Ratchet's developers is not sufficient evidence of general reliability.
