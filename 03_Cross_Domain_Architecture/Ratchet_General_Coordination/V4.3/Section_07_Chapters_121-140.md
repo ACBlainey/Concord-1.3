@@ -479,5 +479,15 @@ Ratchet implementations should therefore plan for:
 - verifier disappearance;
 - institutional dissolution.
 
+### 140.1 Continuity dependency and act-state reconciliation
+
+For each consequential Ratchet function, Continuity planning must identify the minimum dependencies required for lawful execution: current authoritative state, actor eligibility and mandate, relevant rule version, resource or account state, evidence integrity and a route to record the completed act. A service may be technically accessible yet unable to establish one of those prerequisites; accessibility alone must not be represented as operational readiness.
+
+Following outage or restoration, the responsible function must determine whether each interrupted transaction or decision was **not executed, executed, or unresolved** before issuing a new act. Acknowledgements and retries reconcile the existing event and cannot recreate consumed authority, double-spend resources or repeat a completed Steward vote. A degraded mode may perform only the subset of functions whose prerequisites remain verified, and must visibly identify its restrictions.
+
+Where a verifier, custodian, identity provider or institution disappears, succession or replacement must use the separately competent appointment, custody and access rules. Restoring historical records does not automatically restore expired mandates, compromised credentials or superseded operational parameters. Emergency detection and response must remain independent of the variable Civilisation Clock.
+
+**To be designed with Continuity, Treasury, Governance, Historical and KCS:** per-function readiness checks, interrupted-act reconciliation, degraded-mode scope, independent evidence recovery and lawful succession triggers.
+
 ---
 
