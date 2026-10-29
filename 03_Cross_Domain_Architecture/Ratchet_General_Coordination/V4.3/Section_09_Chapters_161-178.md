@@ -495,37 +495,7 @@ Ratchet V4.2 is a general protocol for:
 
 Its monetary system remains an important application.
 
-Its economic mechanisms remain hypotheses requiring testing.
-
-Its coordination principles require independent evaluation.
-
-Its governance mechanisms require adversarial examination.
-
-Its AI mechanisms contain significant unresolved questions.
-
-Its own development provides evidence about the Concord methodology operating in practice, but not proof that the resulting system will succeed.
-
-Ratchet should therefore be neither dismissed as merely speculative nor presented as proven.
-
-Its correct status is:
-
-> **an operational Concord coordination architecture subject to evidence-based review and improvement.**
-
----
-
-# Status Summary
-
-**Document:** Ratchet V4.2  
-**Status:** OPERATIONAL  
-**Primary domain:** Coordination and Economy  
-**Architecture:** Integrated  
-**Historical source consolidation:** Completed through V4.2 audit  
-**Internal consistency audit:** Incorporated  
-**Economic mechanisms:** Subject to applicable design and implementation requirements  
-**Coordination architecture:** Developed / Requires external testing  
-**Methodological evidence:** Present through development history  
-**Independent validation:** Not yet established  
-**Next formal stage:** Adversarial Failure Challenge and empirical test design
+Specific mechanisms require the testing, safeguards and further design identified in their respective chapters.
 
 ---
 
