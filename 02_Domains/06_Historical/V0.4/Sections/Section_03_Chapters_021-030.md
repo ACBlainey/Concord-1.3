@@ -222,5 +222,7 @@ Historical preserves temporal state, provenance, transitions and reconstruction 
 
 A document can legitimately exist in both contexts with different metadata, permissions and lifecycle rules.
 
+Historical's standing mandate permits it to maintain the archival copy and its provenance, while Library's own defined functions govern knowledge-service access. A Library publication or access entitlement does not automatically open a sealed Historical record, and Historical's lawful custody does not authorise publication through Library. Cross-system copies and references must preserve the applicable source permissions, retention obligations and distinct current custodians.
+
 ---
 
