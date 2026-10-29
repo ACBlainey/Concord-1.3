@@ -195,6 +195,8 @@ Different mechanisms have different reversibility and epistemic consequences.
 
 The least irreversible mechanism adequate to the legitimate purpose should be preferred where other constraints permit.
 
+Historical's standing functional mandate includes implementing a valid, authorised information-state transition within its custody. It does not include independently deciding that a participant has forfeited privacy or that a lawful destruction requirement may be disregarded for historical interest. Requests must be assessed against the relevant retention, rights and custody rules; where the mandate or entitlement is disputed, Historical preserves the existing protected state pending the competent decision rather than granting itself adjudicative authority.
+
 ---
 
 # 19. Destruction
