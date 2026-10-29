@@ -153,6 +153,10 @@ The exact thresholds require integration with the Concord's constitutional archi
 
 ---
 
+### 126.1 Self-Modification Authority and Versioned Decisions
+
+Ratchet may propose and record changes within its mandate, but cannot promote its own proposals into constitutional authority. Routine parameter changes require a pre-existing bounded mandate; mechanism changes and cross-domain effects require the competent processes; constitutional changes remain outside Ratchet's authority. Every consequential change is a new identifiable decision instance with version, scope, justification, effective state, rollback or correction path and affected dependencies. A previous decision is not retroactively rewritten. **The thresholds separating these classes remain to be designed with Governance and Judiciary.**
+
 # 127. Parameter Drift
 
 A system can change substantially without formally changing its rules.
