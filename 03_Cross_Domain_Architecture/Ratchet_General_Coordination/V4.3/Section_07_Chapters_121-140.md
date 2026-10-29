@@ -22,11 +22,11 @@ LEARNING
 ARCHITECTURAL REVISION
 ```
 
-Not every failure requires every stage at the same scale.
+Not every failure requires every stage at the same scale. Detection and the preservation of material evidence must not wait until after correction where that delay would destroy provenance. The diagram describes a logical learning cycle, not permission to delay urgent lawful containment or to rewrite the record of an earlier act.
 
-A trivial failure may be corrected immediately.
+A trivial failure may be corrected immediately within an existing operational mandate. A systemic failure may require independent investigation or constitutional review, but neither the classification of an incident nor the assembly of a response group generates new authority. Containment, correction, restoration and rule amendment are distinct acts, each requiring the competent functional mandate or decision where applicable. Where a transfer, vote or other consequential act may have completed before a failure, recovery must reconcile its actual state rather than repeat it under a fresh identifier.
 
-A systemic failure may require constitutional review.
+**To be designed with Continuity and affected domain owners:** evidence-preservation triggers, incident severity and routing, uncertain-execution reconciliation, and verification of restored functionality.
 
 ---
 
