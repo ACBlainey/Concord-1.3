@@ -439,6 +439,14 @@ The issue remains part of the economic architecture.
 
 ---
 
+### 96.1 Capability-aware provision and non-punitive transitions
+
+A participant's capacity to perform conventional paid work is not a universal measure of contribution, trustworthiness, eligibility for fundamental protections or worth. Retirement, disability, illness, unpaid care and temporary interruption of work may affect the kind and amount of economic activity a person can undertake without extinguishing their civil standing or unrelated qualifications.
+
+Where a defined support, pension, insurance or community-provision function exists, its designated operator has authority to perform the specified allocation and administration within its mandate. A change in a participant's circumstances must be assessed against the actual function's rules; an automated drop in contribution or backing measures does not itself authorise withdrawal of essential support. Changes in capability, available resources and need require proportionate review, notice, correction and lawful transition handling. Care work and non-market contributions should not be silently treated as non-participation simply because conventional wage evidence is absent.
+
+**To be designed with the relevant benefits, Health, Education, Treasury and Judiciary interfaces:** eligibility and assessment standards, privacy-preserving evidence, continuity of support during review, funding and sustainability, transitions between support mechanisms, and independent challenge routes.
+
 # 97. Corporate Participation
 
 Companies and other organisations may participate in Ratchet.
