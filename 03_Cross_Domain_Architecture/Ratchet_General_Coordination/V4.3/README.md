@@ -14,6 +14,14 @@ V4.2 is retained unchanged for provenance.
 8. [08 — Chapters 141–160](Section_08_Chapters_141-160.md): cross-domain interfaces, technical governance and minimum viable Ratchet.
 9. [09 — Chapters 161–178](Section_09_Chapters_161-178.md): development, testing, evidence status, open questions and final boundaries.
 
+## Cross-section consistency review
+
+The review covers **all nine sections, Chapters 1–178**. Routine operational mandates are distinct from rule-changing decisions and one-use Steward votes; administrative delegation may be withdrawn for future acts but cannot revoke a completed vote. Civil participation progression has no universal time gate and is distinct from domain accreditation, appointment and authority. Monetary issuance, Treasury custody, Give Back, buyback and final retirement remain separate accounting and execution events. Failure recovery, emergency expiry, backups and cross-domain records cannot recreate consumed authority or replay completed transactions.
+
+The repository-root `AUTHORIAL_AUTHORITY.md` is the sole framework-wide authorial rule; it is not repeated in Ratchet operational chapters. Ratchet's operational functions and their lawful interfaces remain defined in the relevant sections.
+
+**Remaining structural issue:** Section 09 contains development-history and methodological narrative alongside Chapters 161–178. The operational rules and historical explanation have not yet been separated into a companion document. Preserve the material and provenance during any future copy-only extraction; do not silently discard or rewrite it. The remaining detailed economic formulas, eligibility thresholds, Continuity procedures and cross-domain implementations are identified at their relevant chapters.
+
 ## Migration integrity
 
 The nine section bodies, concatenated in order without their new section headings/migration notes, reproduce the original V4.2 text **exactly: 96,962 characters**. This includes the introductory text and final architectural summary. The source file remains unchanged.
