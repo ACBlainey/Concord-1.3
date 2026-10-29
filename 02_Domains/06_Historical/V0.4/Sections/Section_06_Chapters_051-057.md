@@ -33,7 +33,7 @@ Open questions are part of the specification state and must not be silently trea
 
 # 52. Development and Validation Requirements
 
-Before graduation, this specification should be tested against representative cases including:
+Further implementation and validation should test this operational specification against representative cases including:
 
 - ordinary public records;
 - private participant records;
