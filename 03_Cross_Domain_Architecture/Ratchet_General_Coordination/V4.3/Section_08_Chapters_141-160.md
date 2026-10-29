@@ -143,7 +143,7 @@ Software implementation
 Observed behaviour
 ```
 
-A mismatch between these layers is itself a governance problem.
+A mismatch between these layers is itself a governance problem. An operationally specified function supplies its actor with the standing mandate to execute compliant acts, subject to current state and defined safeguards; source-code access, deployment privileges and technical capability alone do not create that mandate. Release and deployment controls must distinguish software correction, authorised parameter execution and a substantive change to the governing operational rule. **To be designed with Governance and Security:** implementation conformance checks, release attestations, emergency patch constraints and independent discrepancy reporting.
 
 ---
 
@@ -159,7 +159,7 @@ An implementation error is not legitimate because:
 
 > that is what the code says.
 
-Code should therefore remain subordinate to constitutional specification and review.
+Code should therefore remain subordinate to constitutional specification and review. When implementation behaviour diverges from the applicable rule, the event and its actual consequences must be preserved for competent correction rather than treated as lawful solely because the program accepted it. A patch cannot retroactively make an unauthorised past transaction valid, nor can replay under patched code create authority that was already consumed.
 
 ---
 
@@ -197,7 +197,7 @@ Potential dependencies include:
 
 Proprietary technology may be used.
 
-But constitutionally significant functions should remain independently auditable to the extent reasonably possible.
+But constitutionally significant functions should remain independently auditable to the extent reasonably possible. Auditability must include verifiable inputs, relevant rule versions, outcome provenance, accountable operator and the ability to challenge a consequential result without relying exclusively on the supplier's own assertion. Supplier confidentiality does not automatically authorise disclosure of participant secrets, and commercial dependence does not create governance authority. **To be designed with procurement, Security and Continuity:** independent audit access, provider replacement, evidence escrow where lawful and failure-mode operation.
 
 ---
 
@@ -213,7 +213,7 @@ Ratchet should document critical dependencies such as:
 - identity infrastructure;
 - payment infrastructure.
 
-These dependencies should inform Continuity and Legacy Ladder planning.
+These dependencies should inform Continuity and Legacy Ladder planning. Dependency records must distinguish a service that is reachable from one that is trustworthy and legally capable of supporting a particular act. Single points of failure, shared providers, resource limits and the absence of independent verification should inform degraded-mode readiness under Chapters 140–142. A backup provider's availability does not establish the legitimacy of its recovered state.
 
 ---
 
@@ -229,7 +229,7 @@ Interoperability may require common standards for:
 - contribution records;
 - exchange.
 
-Interoperability should not require complete institutional uniformity.
+Interoperability should not require complete institutional uniformity. Exchanging an attestation or contribution record across implementations must preserve its source, context, rule version, evidence limits, participant permissions and any dispute status. Recognition of a foreign record does not automatically transfer local eligibility, create a second benefit claim, replicate an official vote or delegate authority to the originating implementation. **To be designed with identity, KCS, Treasury and Governance:** cross-instance identity matching, duplicate-claim detection, trusted verification and lawful refusal or appeal.
 
 ---
 
