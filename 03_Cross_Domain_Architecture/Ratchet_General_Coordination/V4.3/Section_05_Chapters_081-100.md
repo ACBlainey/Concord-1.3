@@ -406,9 +406,7 @@ Universal income, if adopted, is a **separate distributive mechanism** requiring
 
 # 96. Long-Term Provision, Retirement and Reduced Capability
 
-Long-term economic provision includes pensions and other arrangements for periods when conventional earning capacity changes.
-
-The underlying question extends beyond pensions to long-term provision across changing participant capabilities.
+Long-term provision must address pensions and other arrangements for periods when participants' capabilities and conventional earning capacity change.
 
 A viable economic architecture must consider participants who:
 
