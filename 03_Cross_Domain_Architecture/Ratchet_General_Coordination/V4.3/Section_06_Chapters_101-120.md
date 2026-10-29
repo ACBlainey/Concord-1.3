@@ -1,6 +1,6 @@
 # Ratchet V4.3 — Section 06: Chapters 101–120
 
-**Migration:** V4.2 text preserved; reconciliation to follow.
+**Version:** Ratchet V4.3
 
 # 101. Subsidiarity
 
