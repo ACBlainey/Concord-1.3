@@ -119,6 +119,10 @@ There is no assumption that the first reviewer is infallible.
 
 ---
 
+### 125.1 Recursive Failure and Independence
+
+When a verifier, reputation provider, treasury reviewer and governance adviser share the same underlying data, model, operator or incentive, their apparent agreement may mask one common failure. Ratchet should preserve material dependency links and flag common-cause exposure for competent review, using KCS dependency records where appropriate. A failure signal triggers bounded investigation, not automatic invalidation of every downstream result. Corrections propagate only when the changed fact is material to the dependent decision.
+
 # 126. Ratchet Self-Modification
 
 Ratchet may need to modify its own mechanisms.
