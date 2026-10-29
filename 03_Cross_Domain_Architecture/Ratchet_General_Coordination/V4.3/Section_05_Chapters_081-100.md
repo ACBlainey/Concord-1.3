@@ -558,5 +558,13 @@ A governance role therefore carries obligations to:
 
 Authority is not entitlement.
 
+### 100.1 Steward function and act-specific authority
+
+Selection, appointment, accreditation and participation progression may establish eligibility for a Steward position, but do not create unrestricted personal authority. A Steward acts only within a separately defined Governance function and the particular lawful decision state. The official vote consumes the applicable bounded decision authority when committed; its result and provenance remain fixed. A new decision on the same issue requires a new lawful decision instance, not revocation or replay of the original vote.
+
+Administrative Ratchet personnel and parallel or shadow Stewards may contribute evidence, recommendations and independent assessments without gaining an official Governance vote from that activity. A Steward's economic contribution, backing ratio, reputation or control of a Ratchet service cannot expand the scope or number of their official votes. Larger GTP spatial scope is not a standing higher office, and emergency authority does not take over ordinary Governance.
+
+**To be designed with Governance:** the exact classification and referral of Ratchet-specific matters that exceed routine functional mandates and require an official Steward decision, including cross-domain effects.
+
 ---
 
