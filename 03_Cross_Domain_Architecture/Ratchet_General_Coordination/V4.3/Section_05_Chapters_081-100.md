@@ -76,6 +76,14 @@ Authority
 
 ---
 
+### 83.1 Ratio interpretation and non-authority boundary
+
+A Personal Backing Ratio is a defined calculation over specified economic inputs and a stated accounting period; it cannot be interpreted independently of the numerator, denominator, valuation basis, uncertainty and current record status. Ratios computed from missing, disputed, obsolete or differently valued inputs must disclose those limits rather than presenting false precision. No fixed formula, universal desirable value or advancement threshold is established by this chapter.
+
+A PBR may inform a monetary or economic decision **only where that decision's competent operational rule expressly makes the ratio relevant**. It does not independently determine civil participation band, access to fundamental protections, employment eligibility, Education accreditation, Steward appointment, voting rights or personal worth. A change in PBR is a measurement event, not an authorisation event. Any adjustment to issuance, allocation or backing requires the separately defined function and its act-time conditions.
+
+**To be designed with the monetary architecture:** PBR formula and input definitions, zero or negative denominator treatment, treatment of liabilities and pledged backing, update frequency, uncertainty representation and specific authorised uses.
+
 # 84. System-Level Backing
 
 Individual backing relationships must be distinguished from system-level monetary backing.
