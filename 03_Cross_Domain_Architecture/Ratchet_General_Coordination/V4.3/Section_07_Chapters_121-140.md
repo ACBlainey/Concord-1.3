@@ -470,7 +470,7 @@ Continuity provides architecture for:
 - degraded operation;
 - institutional recovery.
 
-Ratchet implementations should therefore plan for:
+Ratchet implementations should therefore plan for the dependencies and failure cases below. The per-function readiness and interrupted-act reconciliation rules in Chapter 140.1 apply alongside the degraded-mode restoration checks in Chapter 141.2; neither is a separate grant of emergency or economic decision authority.
 
 - data loss;
 - network outage;
