@@ -424,6 +424,10 @@ This would allow the core coordination hypothesis to be tested before introducin
 
 The initial Ratchet trial should be voluntary, non-monetary and limited in scope. It must establish a lawful participation and data-handling basis, independent review of consequential assessments, accessible exit, clear evidence requirements and an explicit stop condition. A successful coordination pilot does not prove monetary stability, constitutional legitimacy or suitability for compulsory deployment. Those claims require separate tests and competent authorisation.
 
+Trial records should distinguish the participant's voluntary consent, participation band, the function's eligibility rules, verified contributions, contested assessments and the actual reciprocal benefit. The trial must not use one universal trust score as a substitute for those separate states. A participant who declines a task or exits the pilot must not thereby lose fundamental protections or unrelated civil eligibility.
+
+The pilot's stop condition must identify who can lawfully suspend new trial acts, how already committed rewards or obligations are reconciled, how participants receive notice, and how evidence is retained or deleted. **To be designed for the first implementation:** measurable coordination benefit and burden, baseline comparisons, independent correction routes, participant exit, data retention and shutdown reconciliation.
+
 # 160. Why the MVP Should Initially Avoid Currency
 
 Currency introduces additional variables:
