@@ -75,6 +75,8 @@ Historical requires periodic self-audit covering at least:
 
 Audit findings themselves enter Historical custody according to applicable rules.
 
+Self-audit is limited to Historical's actual custody, retrieval, disclosure, retention, correction and interface mechanisms. It must not repeatedly hypothesise undocumented authority pathways in other domains: where no explicit constitutional method exists, there is no authority to audit as though granted. Actual unauthorised access, coercion, forged mandates or implementation bypasses remain reviewable as concrete events. An audit may preserve evidence and refer a matter to competent oversight, but does not acquire investigative, prosecutorial or judicial authority by conducting the audit.
+
 ---
 
 # 45. Failure Modes
