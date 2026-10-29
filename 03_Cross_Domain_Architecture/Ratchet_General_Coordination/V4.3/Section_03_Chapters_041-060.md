@@ -21,6 +21,10 @@ Provenance, evidence, independent verification and anti-gaming analysis should t
 
 ---
 
+### 41.1 Repeated Claims and Reciprocal Verification
+
+A contribution claim must retain an identifiable underlying activity and its material outcome so that repackaging, splitting or reciprocal endorsement does not silently create additional value. Review should detect reused evidence, circular attestations and common beneficial control. A valid contribution is not disqualified merely because related participants cooperate; the assessment concerns independently supported net usefulness and applicable incentives. Consequential disputes follow the existing competent review route.
+
 # 42. Difficulty Levels
 
 Earlier Ratchet designs proposed contribution difficulty levels, potentially using a 1–5 scale.
