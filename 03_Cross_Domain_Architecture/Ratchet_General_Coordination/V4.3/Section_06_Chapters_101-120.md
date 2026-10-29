@@ -24,7 +24,7 @@ Constitutional consequence
 Constitutional review
 ```
 
-Subsidiarity helps balance decentralisation with accountability.
+Subsidiarity helps balance decentralisation with accountability. **The diagram describes scope and coordination, not a hierarchy that automatically transfers authority upward.** A defined local administrative function may act under its existing operational mandate. Only a matter outside that mandate, competence or lawful spatial scope requires referral to the appropriate decision process. Larger GTP-scale decisions are singular, matter-bounded events and do not confer continuing regional control. **To be designed with Governance:** criteria and referral procedure for Ratchet matters whose effects exceed the lowest competent function or GTP area.
 
 ---
 
@@ -48,7 +48,7 @@ Decentralisation does not eliminate capture.
 
 Local institutions can also be captured.
 
-Therefore all levels remain subject to constitutional constraints.
+Therefore all levels remain subject to constitutional constraints. A captured local operator cannot use its functional mandate to suppress complaints, change the eligibility rules for its own reviewers, or prevent lawful independent review. Referral of an alleged rights violation does not automatically grant a higher-level actor control of unrelated local functions. **To be designed with Governance and Judiciary:** independent referral and protective measures where the normal local route is itself implicated.
 
 ---
 
@@ -113,7 +113,7 @@ This is especially important for:
 - critics;
 - unconventional contributors.
 
-Ratchet's reputation systems must therefore contain anti-popularity-bias safeguards.
+Ratchet's reputation systems must therefore contain anti-popularity-bias safeguards. Reputation evidence must be kept separate from constitutional protection, eligibility for independently qualified functions and the lawful determination of misconduct. Unpopular speech, minority position or protected reporting cannot itself justify a negative standing decision. A contested adverse classification requires a competent decision owner, accessible correction route and proportionate handling of downstream consequences. **To be designed:** anti-retaliation evidence safeguards and thresholds for independent review of discriminatory scoring.
 
 ---
 
@@ -133,7 +133,7 @@ Higher reputation
 More authority
 ```
 
-Ratchet must actively prevent this form of recursive capture.
+Ratchet must actively prevent this form of recursive capture. Reputation can inform only those specific eligibility or allocation rules that lawfully name it as relevant evidence; a score is not authority, and the scorer cannot thereby appoint itself, expand its functional mandate or acquire an official Steward vote. Changing the reputation rule and applying an existing rule are distinct authorised acts.
 
 Possible safeguards include:
 
@@ -165,6 +165,8 @@ More recognised contribution
 Ratchet therefore requires a strong boundary:
 
 > **Economic contribution does not automatically create constitutional authority.**
+
+Contribution records may support economic recognition or independently specified eligibility evidence, but cannot substitute for Education accreditation, lawful office selection or the act-time authority state of a Steward decision. An actor controlling contribution verification must not be able to award itself governance authority through that verification.
 
 ---
 
@@ -215,7 +217,7 @@ Therefore implementations should measure:
 
 > **coordination overhead relative to coordination benefit.**
 
-This should be a major MVP and pilot metric.
+This should be a major MVP and pilot metric. Administrative efficiency is not permission to eliminate necessary provenance, privacy protection, independent review or lawful authority checks. Conversely, the existence of a review function does not justify imposing its maximum procedural burden on every low-risk act.
 
 ---
 
