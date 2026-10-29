@@ -362,7 +362,7 @@ A new system need not necessarily begin with complete endogenous backing.
 
 Instead, backing may develop over time.
 
-This remains a monetary hypothesis requiring simulation and empirical testing.
+The backing mechanism requires simulation and empirical testing before claims of monetary stability or resource sufficiency can be supported. These tests assess its performance; they do not determine the operational standing of this specification.
 
 ---
 
