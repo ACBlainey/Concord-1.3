@@ -1,0 +1,37 @@
+# KCS V2.0 — Section 06: Chapters 31–33
+
+**Operational integration:** dependency and change-propagation architecture derived from KCS Companion Upgrades 001–002 and KMDI-001B. Source files remain preserved; further detailed reconciliation is required.
+
+## 31. Material Dependency Representation
+
+KCS represents not only knowledge objects and their epistemic states but also materially consequential relations among civilisational functions, architectures, capabilities, software, standards, evidence, infrastructure, interfaces and legitimately represented participant capabilities. A document may evidence a dependency without itself being the dependent function.
+
+The dependency layer may be expressed as **K(t) = (V, R, P, S, H)**: objects, typed relations, provenance, current represented states and historical change records. A material dependency record (MDR) identifies dependent, prerequisite, required capability/function, relation type, materiality, state, applicability/scope, evidence, confidence, owner/reviewer, time/version, visibility, review trigger and correction/supersession links, where relevant. Unknown fields remain unknown; no universal mandatory database schema is implied.
+
+Relations may include DEPENDS_ON, REQUIRES, SUPPLIES, INTERFACES_WITH, ENABLES, BLOCKS, PROPAGATES_TO, CORRECTS, REVIEWS, SUPERSEDES, ALTERNATIVE_TO, RECOVERS, PRESERVES, EVIDENCES and REFERENCES. **REFERENCES is not EVIDENCES**: pointing to an object need not imply substantive reliance on its contents. The wider knowledge/provenance relations in Chapter 10 are not automatically material dependencies.
+
+Functional dependency types include existential, enabling, quality/reliability, evidential, interface, developmental, continuity and constraint dependencies. Materiality is context-dependent and may be critical, high, moderate, low, immaterial, unknown or disputed. Preserve relevant consequence, alternatives, recovery difficulty, time sensitivity, reversibility and correlated exposure rather than reducing everything to one score.
+
+Distinguish the state of a recorded *relation* (for example verified, disputed, incomplete, superseded or broken) from the *operational condition* of its prerequisite (for example active, satisfied, degraded, blocking, failed or alternative available). **A dependency's existence does not itself mean it is blocking.** State and materiality may be scope-qualified and coexist. Absence of an MDR never proves absence of a real dependency; search completeness is separate.
+
+## 32. Change Events, Selective Propagation and Review
+
+A consequential change event preserves changed object, old/new state, change type, changed property, reason, evidence, actor/source, confidence, time and bounded scope (instance, version, deployment, configuration, jurisdiction or interval as applicable).
+
+**Change(x) → CandidateReview(y), not AutomaticRejection(y).** KCS identifies potentially affected downstream objects through material relations and issues bounded review triggers. KCS does not itself rewrite dependent systems, revoke their authority or decide their operational validity.
+
+For each candidate, assess whether the changed property actually affects the capability required by the dependent; the applicable context, scope and time; materiality; available alternatives and their *externally verified* equivalence; and uncertainty. A reference-only link does not automatically trigger substantive review. Conversely, storage, transmission, caching, display and publication can be materially affected even without transforming the content. A recorded alternative is not proof of functional equivalence.
+
+Propagation may stop where evidence shows no material effect, an applicable verified alternative satisfies the requirement, the relation is superseded or the changed scope does not apply. It escalates through the legitimate domain interface when high-consequence uncertainty, shared bottlenecks, silent failure or rights/constitutional consequences warrant attention. UNKNOWN does not automatically mean REVIEW_REQUIRED; thresholds belong to the responsible domain. Age alone is not a universal staleness rule.
+
+A review may produce coexistent scoped results such as REVIEW_REQUIRED, ALTERNATIVE_AVAILABLE and UNKNOWN_EFFECT. Consequential review provenance records the change, dependent, relation, changed property, context, alternatives, evidence, confidence, outcome, resulting state, further-propagation decision, reviewer/source, time and scope. Further propagation follows only a material downstream state change. Corrections and supersessions preserve prior state and historical provenance; no uncontrolled cascade or repository-wide rollback follows from a single upstream edit.
+
+## 33. Ownership, Authority and Cross-Domain Use
+
+KCS maintains dependency visibility and routes review attention; it does not own the systems whose relations it records. Domain ownership, classification authority, operational decisions, retention/access entitlements and emergency authority remain with the competent constitutional functions. Its explicitly assigned indexing, state, retrieval and change-notification work is a bounded **standing functional mandate**, not a new vote required for each routine operation. An actor claiming powers beyond that mandate bears the burden of establishing them.
+
+Civil State Map and developmental topology may consume scoped dependencies and review states without inheriting KCS authority. Civilisation Clock may use them as evidence for its own timing/prioritisation but cannot make KCS sovereign or vice versa. Continuity may use prerequisite maps to assess restoration candidates; **recorded dependencies do not prove functional recoverability**. Emergency systems may inspect threatened functions and known critical dependencies but acquire no authority through KCS. Induction and research may retrieve task-relevant prerequisite maps. Resource-steering models may use documented assumptions and dependencies without KCS allocating resources itself.
+
+A protected dependency relation is not universally visible merely because its existence is useful. Access, correlation, retention and disclosure remain purpose-bounded; KCS must not convert dependency mapping into surveillance or cross-domain ownership. Where a review depends on assumed graph completeness, expose the search boundary and unknown/missing edges. Consequential relation claims are inspectable and contestable through legitimate review processes; correction is versioned rather than erasing the previous historical claim.
+
+**Implementation detail to be designed:** shared event/review serialization, thresholds supplied by host domains, protected-context routing, acknowledgement semantics and cross-domain regression criteria. These open interfaces do not suspend the standing KCS functions described above.
