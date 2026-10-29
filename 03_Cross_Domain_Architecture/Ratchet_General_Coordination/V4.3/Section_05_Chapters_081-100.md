@@ -408,7 +408,7 @@ Universal income, if adopted, is a **separate distributive mechanism** requiring
 
 # 96. Long-Term Provision, Retirement and Reduced Capability
 
-Earlier Ratchet architecture considered pensions.
+Long-term economic provision includes pensions and other arrangements for periods when conventional earning capacity changes.
 
 The underlying question extends beyond pensions to long-term provision across changing participant capabilities.
 
