@@ -664,5 +664,5 @@ The domain should preserve enough of the Humanity Machine that future civilisati
 **Synthesis 002:** Complete.  
 **Adversarial Boundary Test 001:** Complete.  
 **Cross-Domain Interface Tests 001–004:** Complete.  
-**Formal Domain Specification v0.3:** Integrated development draft.  
-**Next Development Stage:** Formal schema extraction and targeted validation of the v0.3 objects/interfaces before considering domain graduation.
+**Historical V0.4:** Current operational sectional edition, retaining the v0.3 source and its development provenance.  
+**Further work:** Formal schema extraction, targeted implementation and interface validation, and resolution of identified design questions; no separate graduation condition applies.
