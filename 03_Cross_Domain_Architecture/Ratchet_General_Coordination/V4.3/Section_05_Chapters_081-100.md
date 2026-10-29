@@ -20,6 +20,16 @@ Currency retirement should not become arbitrary confiscation.
 
 ---
 
+### 81.1 Retirement, buyback and supply-state accounting
+
+Currency retirement removes an identified amount of monetary capacity from active circulation only through a defined lawful mechanism. **A buyback, voluntary Give Back, transfer to Treasury custody and final retirement are different transactions.** A buyback exchanges Treasury assets for currency and may place the acquired units in custody; it does not automatically destroy or retire them. Currency held by Treasury must be accounted for separately from circulating supply, outstanding obligations and units irrevocably retired. A currency unit cannot be represented as both retired and available for reissuance without a separately authorised issuance event.
+
+Once a competent monetary rule defines a retirement or buyback function, its designated operator may perform transactions within that function's mandate without a fresh Governance vote for every compliant act. Each act must verify the current lawful rule, actor, source balance, ownership or consent, amount, available Treasury resources, settlement state, and any special approval. It must consume or update the relevant state atomically where possible, preserve a unique event and prevent duplicate execution on retries. Unsettled or disputed transactions remain pending competent reconciliation, not silently final.
+
+**Voluntary Give Back does not authorise compulsory surrender.** Mandatory collection, cancellation of a participant's lawful holding, forced exchange or confiscation requires an expressly defined and independently justified legal function, with notice, challenge and applicable protections. No supply target, backing ratio or emergency label alone creates such a power.
+
+**To be designed with Treasury and monetary-policy owners:** buyback pricing and eligibility, funding source, custody treatment, settlement finality, circulation/supply definitions, retirement proofs, correction and compensation routes, and emergency suspension boundaries.
+
 # 82. Personal Backing Balance
 
 Personal Backing Balance, or PBB, is an accounting mechanism inherited from earlier Ratchet architecture.
