@@ -43,6 +43,10 @@ This creates reciprocal rather than unilateral participation.
 
 Demonstrated contribution is contextual evidence, not an automatic entitlement to authority or a justification for restricting basic rights. Decisions about resource access or participation remain with the responsible domain and its legitimate rules. Consequential KCS classifications must support participant inspection, challenge, correction and review of dependent decisions, as specified in Chapter 18. KCS supplies records and notifications; it does not adjudicate entitlement.
 
+### 19.2 Privacy, Retention and Redaction
+
+Knowledge preservation does not imply unlimited retention or universal visibility. KCS may record restricted, sealed, redacted, expired, deleted-by-policy or unavailable-by-policy states, subject to the applicable custody and rights rules. A redacted derivative may retain a bounded provenance link to a protected source without exposing it. Where lawful deletion permits minimal residual metadata, KCS may preserve it; where deletion forbids even a residual trace, KCS must not create one. Historical determines lawful custody and preservation operations within its mandate; KCS does not acquire control of protected source records merely by indexing them.
+
 ## 20. The Knowledge Base as an Attractor
 
 The shared knowledge system therefore becomes one of the potential practical attractors for new intelligent participants.
