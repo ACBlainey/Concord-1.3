@@ -532,6 +532,16 @@ Ratchet governance is stewardship, not ownership of the system.
 
 ---
 
+### 99.1 Operational administration and rule-changing decisions
+
+Ratchet's defined administrative functions provide their designated operators with the functional mandate to apply existing participation, verification, contribution, allocation and monetary rules within their specified bounds. Ordinary application does not require a fresh triadic Governance decision for every compliant act. An operator may not infer from that mandate a power to change the governing rule, appoint Steward decision-makers, adjudicate legal disputes, or control unrelated domains.
+
+A proposed change to a Ratchet rule must be distinguished from execution under the existing rule. Where a change requires a lawful Governance decision, the competent Governance mechanism supplies that decision within its event-bounded authority, using the lowest capable scale and the applicable triadic or separately defined larger-scale procedure. A coordination meeting, recommendation, automated policy indicator or shared administrative record cannot generate such decision authority. Implementation follows the valid decision and remains limited to its actual scope.
+
+Citizen Zero retains framework-wide authorial editing authority over the authored Concord specification, including development by AI instances acting on the author's instruction. This authorial function is distinct from operational Steward voting, adjudication and execution of live transactions. No Ratchet administrator acquires veto power over the authored framework merely through an assigned operational role.
+
+**To be designed with Governance and affected Ratchet functions:** classification of routine administration versus rule change, domain-owned policy parameters, cross-domain consultation, lawful escalation and implementation acknowledgement.
+
 # 100. Governance Through Stewardship
 
 Ratchet governance should inherit the Concord principle that authority creates responsibility.
