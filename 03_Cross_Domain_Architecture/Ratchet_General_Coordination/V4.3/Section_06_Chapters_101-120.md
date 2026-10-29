@@ -458,7 +458,7 @@ The architecture should therefore be designed to detect and learn from failure.
 
 # 120. Failure Taxonomy
 
-Ratchet adopts the provisional Concord failure taxonomy:
+Ratchet adopts the Concord failure taxonomy:
 
 1. individual failure;
 2. group failure;
