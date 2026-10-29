@@ -48,6 +48,14 @@ It is an economic accounting mechanism.
 
 ---
 
+### 82.1 Personal backing accounting and lawful effects
+
+A Personal Backing Balance is a scoped accounting state, not a participant's general trust, civil status, disposable wealth or entitlement to office. Its entries must identify the competent source of recognised backing, the corresponding issuance or obligation, relevant valuation assumptions, provenance, corrections and any encumbrance. A claim may not be counted repeatedly as fresh backing merely because it passes through contribution recognition, Treasury accounting or a community project.
+
+The participant must be able to inspect and challenge consequential PBB entries through the applicable record and correction interfaces. A correction may require the competent economic function to recompute a dependent backing measure; it does not automatically authorise seizure, denial of fundamental services, loss of civil participation band or revocation of a separate qualification. Any economic restriction or allocation based on PBB requires its own expressly defined functional rule and review route.
+
+**To be designed with monetary accounting, Treasury and participant-status owners:** the precise PBB ledger, recognised backing categories, ownership and liability treatment, valuation changes, correction propagation and permitted consequences of a negative or disputed balance.
+
 # 83. Personal Backing Ratio
 
 A Personal Backing Ratio may represent the relationship between relevant issued economic capacity and recognised backing.
