@@ -1,6 +1,6 @@
 # Ratchet V4.3 — Section 09: Chapters 161–178
 
-**Migration:** V4.2 text preserved; reconciliation to follow.
+**Version:** Ratchet V4.3
 
 # 161. Experimental Development Path
 
@@ -102,7 +102,7 @@ This is particularly important because the Concord has largely developed interna
 
 # 165. Evidence Status
 
-Ratchet V4.2 should not be described as empirically validated.
+Ratchet mechanisms are subject to ongoing evaluation and correction.
 
 The current evidence primarily consists of:
 
@@ -198,7 +198,7 @@ This is why Concord V1.1 should preserve ideas rather than every historical docu
 
 The detailed development history of Ratchet should remain in a separate companion paper.
 
-The canonical V4.2 specification should answer:
+The Ratchet architecture should answer:
 
 > **What is Ratchet now?**
 
@@ -304,11 +304,11 @@ These include, but are not limited to:
 
 These questions are part of Ratchet, not embarrassments to be hidden.
 
-A canonical architecture should make its uncertainty visible.
+The architecture should make its uncertainty visible.
 
 ---
 
-# 171. Canonical Status of Economic Mechanisms
+# 171. Economic Mechanisms
 
 The following mechanisms are retained in V4.2 because they are substantive Ratchet concepts:
 
@@ -324,17 +324,9 @@ The following mechanisms are retained in V4.2 because they are substantive Ratch
 - universal-income possibilities;
 - pension/long-term provision possibilities.
 
-Their presence does not imply validation.
-
-Their current status is:
-
-> **CANDIDATE / EXPERIMENTAL ECONOMIC ARCHITECTURE**
-
-unless and until stronger evidence justifies another classification.
-
 ---
 
-# 172. Canonical Status of Coordination Principles
+# 172. Coordination Principles
 
 The following are more mature conceptual principles within Ratchet:
 
@@ -354,13 +346,9 @@ The following are more mature conceptual principles within Ratchet:
 
 These should still remain open to criticism and revision.
 
-Canonical does not mean immutable.
+Operational architecture remains open to correction.
 
 ---
-
-### 172.1 Current Interpretation of Mechanism Status
-
-Chapters 171–172 preserve V4.2's historical classification vocabulary. For V4.3, coordination principles are operational design constraints subject to current Concord authority boundaries; named economic mechanisms remain substantive design subjects, not activated policies or validated implementations. Inclusion in this architecture is not a claim that a mechanism is safe, economically viable, authorised or ready for deployment. Testing and competent approval remain separate requirements. No historical status label can override a current operational domain specification.
 
 # 173. Ratchet and the Concord Development Process
 
@@ -383,7 +371,7 @@ Evidence
         ↓
 Revision
         ↓
-Updated canonical architecture
+Updated architecture
 ```
 
 V4.2 is therefore a stage in Ratchet's development rather than an endpoint.
@@ -521,19 +509,19 @@ Ratchet should therefore be neither dismissed as merely speculative nor presente
 
 Its correct status is:
 
-> **a developed, internally audited, canonically specified and explicitly testable Concord architecture awaiting systematic external and empirical validation.**
+> **an operational Concord coordination architecture subject to evidence-based review and improvement.**
 
 ---
 
 # Status Summary
 
 **Document:** Ratchet V4.2  
-**Status:** ACTIVE / CANONICAL DEVELOPMENT VERSION  
+**Status:** OPERATIONAL  
 **Primary domain:** Coordination and Economy  
 **Architecture:** Integrated  
 **Historical source consolidation:** Completed through V4.2 audit  
 **Internal consistency audit:** Incorporated  
-**Economic mechanisms:** Candidate / Experimental  
+**Economic mechanisms:** Subject to applicable design and implementation requirements  
 **Coordination architecture:** Developed / Requires external testing  
 **Methodological evidence:** Present through development history  
 **Independent validation:** Not yet established  
@@ -541,7 +529,7 @@ Its correct status is:
 
 ---
 
-## Canonical Ratchet Summary
+## Ratchet Summary
 
 ```text
 ETHICAL KERNEL
