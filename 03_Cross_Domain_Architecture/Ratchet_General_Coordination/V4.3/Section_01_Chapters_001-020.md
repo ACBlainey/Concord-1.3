@@ -1,6 +1,6 @@
 # Ratchet V4.3 — Section 01: Chapters 1–20
 
-**Migration:** V4.2 text preserved; integration and reconciliation to follow.
+**Version:** Ratchet V4.3
 
 # Ratchet V4.2
 
@@ -8,7 +8,7 @@
 
 **Author:** Alexander C. Blainey  
 **Framework:** The Concord  
-**Status:** ACTIVE / CANONICAL DEVELOPMENT VERSION  
+**Status:** OPERATIONAL  
 **Version:** 4.2  
 **Domain:** Coordination, Participation, Contribution, Trust and Economic Architecture
 
@@ -39,7 +39,7 @@ These questions expanded Ratchet beyond its original monetary purpose.
 
 Ratchet V4.2 therefore treats the monetary architecture as one application of a more general coordination protocol.
 
-The canonical Ratchet architecture is concerned with:
+The Ratchet architecture is concerned with:
 
 1. participants;
 2. participation;
@@ -86,13 +86,9 @@ Its role is narrower:
 
 ---
 
-# 2. Status of Ratchet V4.2
+# 2. Ratchet Architecture
 
-Ratchet V4.2 is a canonical development specification.
-
-The term **canonical** means that V4.2 is intended to represent the current integrated Ratchet architecture within Concord V1.1.
-
-It does not mean that every mechanism described within it has been empirically validated.
+Ratchet is an operational coordination architecture.
 
 The architecture contains several different epistemic classes of material:
 
@@ -144,13 +140,7 @@ Mechanisms that should be tested through simulation, controlled experiments, pil
 
 Ratchet must preserve these distinctions.
 
-A proposed mechanism does not become established merely because it appears in the canonical paper.
-
 ---
-
-### 2.1 Version and Operational Status Clarification
-
-Chapter 2 preserves V4.2's historical account of its status within an earlier Concord repository. In this V4.3 sectional edition, that account is provenance, not a declaration that a historical 'canonical' label establishes completeness, authority or validation. V4.3 is the active Ratchet reconciliation text within Concord-1.3. Its general coordination principles and bounded interfaces are distinguished from monetary and identity mechanisms still to be designed or empirically tested. This section does not supersede the authority of current operational Governance, Judiciary, Continuity, Historical or KCS architecture.
 
 # 3. The Ratchet Principle
 
@@ -614,7 +604,7 @@ Worthless
 
 Earlier Ratchet development proposed contribution difficulty levels, including a possible 1–5 scale.
 
-This remains a candidate implementation mechanism.
+The implementation details are specified where available; remaining details require design.
 
 Difficulty may be relevant to:
 
