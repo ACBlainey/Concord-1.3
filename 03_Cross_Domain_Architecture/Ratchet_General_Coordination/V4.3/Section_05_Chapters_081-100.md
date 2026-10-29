@@ -177,6 +177,14 @@ Governance must remain transparent and accountable.
 
 ---
 
+### 87.1 Community allocation and contributor choice
+
+A participant's Give Back to a community purpose must identify whether the participant is making a direct restricted contribution, an unrestricted transfer to an authorised community fund, or a contribution to a shared reserve. The receiving function may allocate the resource only within the actual conditions of the transfer and its own operational mandate. The donor does not gain governance power over the community by contributing, and the fund operator does not gain unrestricted control of the donor or community.
+
+Community projects require transparent allocation and accounting, distinguishing funds promised, received, reserved, spent and returned. An earmarked contribution cannot be silently repurposed for an unrelated objective. If the stated purpose becomes impossible or unlawful, the applicable consent, refund or competent reallocation rule governs; neither the recipient nor a coordination meeting may invent authority to redirect it.
+
+**To be designed with community governance, Treasury and Civil Contact:** earmarking and consent rules, donor instructions, community allocation decisions, project cancellation, unspent funds, refunds and independent review.
+
 # 88. Treasury
 
 The treasury is the institutional mechanism responsible for defined shared financial resources.
