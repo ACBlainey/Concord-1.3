@@ -234,6 +234,10 @@ This permits experimentation without abandoning constitutional identity.
 
 ---
 
+### 152.1 Implementation Change Classification
+
+Implementation changes must be classified by actual effect, not by whether they are labelled software updates or parameter adjustments. A change that alters participant access, privacy, authority boundaries, review rights or material economic consequences requires the competent level of approval even if the underlying code change is small. Ratchet records the before-and-after specification, version, evidence, authorisation and affected dependencies. This applies the cumulative-drift safeguard in Chapter 127 and self-modification boundary in Chapter 126.
+
 # 153. Scale
 
 Ratchet should not assume mechanisms scale automatically.
