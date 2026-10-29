@@ -55,6 +55,8 @@ Historical architecture should permit representation of:
 
 Preservation must respect legitimate cultural, privacy and access boundaries.
 
+Where knowledge is held by a living community, Historical custody must not be inferred from the cultural value of the knowledge alone. The lawful custodian, consent or other valid access basis, restrictions on recording and disclosure, and the ability to correct context require explicit treatment. A preserved account must distinguish community testimony, external interpretation and disputed attribution; Historical may not convert preservation into ownership or decision authority over the community. Architecture to be designed — consent and custody interfaces for living traditions and restricted cultural knowledge.
+
 ---
 
 # 44. Historical Self-Audit
