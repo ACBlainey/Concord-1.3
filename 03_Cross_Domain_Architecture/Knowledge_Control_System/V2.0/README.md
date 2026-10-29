@@ -9,6 +9,7 @@
 3. [Section 03 — Chapters 13–18](Section_03_Chapters_13-18.md): retrieval, stewardship, contribution and ratings.
 4. [Section 04 — Chapters 19–24](Section_04_Chapters_19-24.md): access, reciprocity, civilisational memory, participant continuity and accumulation.
 5. [Section 05 — Chapters 25–30](Section_05_Chapters_25-30.md): compression, cross-domain relations, induction, reciprocal knowledge and boundaries.
+6. [Section 06 — Chapters 31–33](Section_06_Chapters_31-33.md): material dependency representation, bounded change propagation, review and cross-domain authority boundaries.
 
 ## Migration and integration rule
 
