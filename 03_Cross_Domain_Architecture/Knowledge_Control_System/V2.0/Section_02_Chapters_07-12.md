@@ -1,6 +1,6 @@
 # KCS V2.0 — Section 02: Chapters 07–12
 
-**Source:** original KCS specification, unchanged chapter text; companion integration pending.
+**Source:** original KCS specification, unchanged chapter text; companion integration incorporated; reconciliation ongoing.
 
 ## 7. The Difference Between Failure and Deception
 
