@@ -55,3 +55,7 @@ The source of a dependency record, the owner of an affected function, the custod
 ### 33.5 Freshness and Review History
 
 Each material relation retains available first-recorded, last-confirmed, last-changed and next-review timestamps, evidence freshness, source and confidence. Overdue review does not imply that the relation is false.
+
+### 33.6 Unknown and Disputed Relations
+
+KCS distinguishes UNKNOWN_OWNER, UNKNOWN_DEPENDENCY, UNKNOWN_MATERIALITY, DISPUTED_DEPENDENCY, DISPUTED_OWNER and DISPUTED_EFFECT. Unknown is not absent; disputed is not false. Competing claims remain separately attributable until the competent process resolves them.
