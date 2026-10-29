@@ -460,7 +460,7 @@ Office-specific eligibility and lawful selection or appointment
 Bounded official stewardship within the appointed mandate
 ```
 
-The stages express a developmental pathway, **not** an automatic promotion algorithm or a single universal reputation score. Participants may follow different routes, progress at different rates and possess different contextual permissions. Advancement must account for demonstrated competence, relevant education, conduct, reciprocal benefit, experience and time. A participant may qualify for one responsibility without qualifying for another.
+The stages express a developmental pathway, **not** an automatic promotion algorithm or a single universal reputation score. Participants may follow different routes, progress at different rates and possess different contextual permissions. Advancement must account for demonstrated competence, relevant education, conduct, reciprocal benefit and experience, with time-served evidence considered only where relevant to the particular responsibility. This does not impose a universal minimum-duration gate or require every participant to seek Steward office. A participant may qualify for one responsibility without qualifying for another.
 
 ### 58.0 Civil participation bands and independent eligibility dimensions
 
