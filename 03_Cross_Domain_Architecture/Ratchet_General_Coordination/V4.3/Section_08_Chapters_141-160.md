@@ -46,6 +46,12 @@ Data preservation must remain balanced against privacy.
 
 Creating unlimited copies of sensitive data is not automatically resilience.
 
+### 142.1 Recovery copies, lawful access and record reconciliation
+
+Backup and replication preserve availability only if the recovered record can be authenticated, interpreted under its actual rule version and accessed by the competent function. A backup must not silently restore an earlier participant restriction, obsolete entitlement, spent balance, expired authority or superseded identity credential as current state. Recovery should reconcile later valid corrections and committed events before a recovered snapshot becomes actionable.
+
+Sensitive copies remain subject to purpose-specific access, retention and deletion constraints. Recovery custodians may verify integrity without thereby acquiring the authority to decide economic claims or expose protected records. **To be designed with Historical, Continuity and Security:** backup validity evidence, recovery-key separation, lawful deletion propagation, restoration ordering and handling of unresolved post-backup events.
+
 ---
 
 # 143. Relationship to Recursive Oversight
