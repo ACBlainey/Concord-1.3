@@ -1,6 +1,6 @@
 # KCS V2.0 — Section 03: Chapters 13–18
 
-**Source:** original KCS specification, unchanged chapter text; companion integration pending.
+**Source:** original KCS specification, unchanged chapter text; companion integration incorporated; reconciliation ongoing.
 
 ## 13. Retrieval Rather Than Total Retention
 
