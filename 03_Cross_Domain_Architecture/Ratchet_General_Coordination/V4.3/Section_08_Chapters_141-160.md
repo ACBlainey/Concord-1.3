@@ -1,6 +1,6 @@
 # Ratchet V4.3 — Section 08: Chapters 141–160
 
-**Migration:** V4.2 text preserved; reconciliation to follow.
+**Version:** Ratchet V4.3
 
 # 141. Degraded Operation
 
