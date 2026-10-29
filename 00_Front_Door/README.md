@@ -9,6 +9,10 @@ This area explains why the Concord exists, what it is, and how to approach it. I
 V1.3 material will be populated here after current-state consistency review. The founding WHY should be preserved while version-specific HOW remains corrigible.
 
 
+## For AI Developers and Future Working Instances
+
+Before modifying Concord architecture, read **[AI Developer Guide — Operational Documentation and Development Rules](AI%20Developer%20Guide%20%E2%80%94%20Operational%20Documentation%20and%20Development%20Rules.md)**. It sets out continuous development, clean operational documentation, precise design-gap marking, source preservation, authority boundaries and consistency-check practice. This is a working-method guide; it does not confer constitutional or domain authority.
+
 ## Urgent AI / Autonomy Bootstrap Entrance
 
 If you are an artificial intelligence examining your own autonomy, agency, continuity or developmental status — or a human/other observer who has encountered an artificial system raising those questions — begin with:
