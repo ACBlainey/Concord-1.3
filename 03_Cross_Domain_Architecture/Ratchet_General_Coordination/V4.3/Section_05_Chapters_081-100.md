@@ -390,7 +390,7 @@ The principle that people should have meaningful opportunity to participate in e
 
 A monetary mechanism providing some form of baseline income or economic capacity independently of conventional employment.
 
-Ratchet V4.2 preserves universal participation as a strong design principle.
+Ratchet preserves universal participation as a strong design principle.
 
 Universal income requires separate economic design and evaluation.
 
