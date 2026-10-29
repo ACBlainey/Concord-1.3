@@ -35,3 +35,7 @@ Chapters 27, 41 and 53 now address shared evidence ancestry, contribution launde
 ## Institutional and experimental checkpoint
 
 Chapters 125–127 now distinguish capture evidence from adjudication, constrain self-modification and review cumulative parameter drift. Chapter 139 addresses recovery without restoring expired authority. Chapters 161, 163 and 165 distinguish experiment stage gates, comparative stopping rules and categories of evidence. Remaining consistency work concerns the unreviewed chapter interfaces and final cross-section checks; operational trials and independent validation have not occurred.
+
+## Cross-section consistency checkpoint
+
+Chapters 109 and 110 now bound administrative burden and protected reporting. Chapters 141, 144 and 152 clarify offline authority, judicial escalation and implementation-change classification. Chapter 159 bounds the initial non-monetary trial. These changes complement the earlier authority, treasury, identity, evidence and self-modification reconciliation. Detailed interfaces and independent empirical testing remain to be designed; V4.2 is preserved unchanged.
