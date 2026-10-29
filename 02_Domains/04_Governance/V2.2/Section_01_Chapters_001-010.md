@@ -107,6 +107,15 @@ Every steward acts under constitutionally defined responsibilities and a lawful 
 
 Authority originates from the constitutional order.
 
+### Default Absence of Authority — Explicit-Method Rule
+
+**Every participant's default position is no authority over any other participant or public matter.** All Concord institutional, delegated and collective authority is exclusively contextual and bounded. It exists and may be exercised only through a constitutionally described mechanism that establishes the relevant eligibility, valid state, purpose, scope, authorised act and termination or consumption conditions. Where no such method is specified, **no authority exists**: it cannot be assumed, arrogated, inherited, transferred, seized, inferred from necessity or created by an undocumented practice. Holding office, responsibility, expertise, capability, influence or custody does not independently supply authority.
+
+**Personal authority derived directly from individual rights is distinct.** A participant retains authority over the self and may exercise rights-based protections, including lawful self-defence, within the applicable rights and limits. These personal rights do not create institutional jurisdiction or an unrestricted power over others.
+
+**Interpretation and review rule:** An undocumented method of gaining or exercising authority is an absence of authority, not a latent permission or an architectural loophole to be filled by speculation. Reviews should test actual documented grants, state transitions, boundary enforcement and implementation failures. They must not presume an authority pathway merely because an abuse can be imagined. An attempted act outside an authorised method has no Concord authority; any actual coercion, impersonation or implementation bypass remains a separate safety and accountability concern.
+
+
 Election, appointment, qualification, selection, reputation, expertise or other processes may determine **who receives a delegation**.
 
 They do not independently create unlimited authority.
