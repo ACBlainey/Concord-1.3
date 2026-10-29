@@ -178,6 +178,18 @@ A mixed architecture may therefore be preferable.
 
 The exact mechanism remains an open design question requiring later development.
 
+## 91.3 Civil progression, qualification and judicial office
+
+Ratchet's general civil progression (P0 Observer, P1 Evaluator, P2 Contributor, P3 Collaborator, P4 Member, P5 Citizen) supplies a participant's broader participation relationship and may produce relevant evidence of reciprocal conduct, learning, sustained experience and contextual trust. **It does not appoint a Judicial Steward or require a participant to pursue stewardship.** The participant may instead progress in civil participation, education, employment or other qualified functions without entering judicial office.
+
+For an applicant who elects a judicial route, the separate sequence is: **general participation and opportunity → relevant judicial education and demonstrated competence → Education qualification/accreditation → role-specific eligibility and conflict/independence checks → eligible parallel or shadow judicial service where appropriate → independently lawful selection/appointment → particular judicial office → separately valid case-specific Triadic decision authority**. Historical retains provenance. The Judiciary defines the role's competence, independence, conduct and jurisdictional requirements; Education assesses and accredits, but does not appoint. Parallel/shadow decisions are training and comparative evidence, not official votes. No qualification, reputation, participation tier, time served or proximity to a vacancy automatically grants office.
+
+Participation and judicial fitness remain different statuses. Failure to qualify for office does not revoke civil membership or fundamental rights. A proven office-specific conduct or competence failure may restrict judicial eligibility or trigger independently authorised suspension/removal under Chapter 99 and Section 15A Chapter 1026.1, with review and proportionate rehabilitation; it does not automatically extinguish unrelated participation benefits. The participant should receive an understandable pathway to qualification, lawful explanation of denial, correction of inaccurate records and a challenge route. Changes in accreditation or restrictions must be communicated and selectively propagated to the affected appointment/case interfaces.
+
+**Temporal requirements are not yet specified.** The progression architecture recognises sustained participation and relevant time-served practice as potentially important, but no minimum number of days, years, stages or mandatory waiting periods is established by this section. Any future temporal gate must be function-related, justifiable, equitable across different kinds of participants, independently reviewable and defined by the competent authority. Time alone does not establish readiness.
+
+**To be designed/finalised:** role-specific participation thresholds (if any), qualification-to-appointment mapping, lawful independent selectors, parallel-service expectations, temporal minimums, equivalent experience, reinstatement and challenges. These are separate from the already defined requirement that a selected case Triad be valid before authority can be exercised.
+
 # Chapter 92 — Appointment Independence
 
 Appointment is not merely the moment a judge enters office.
