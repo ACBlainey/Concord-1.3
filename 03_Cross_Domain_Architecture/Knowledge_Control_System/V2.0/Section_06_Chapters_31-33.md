@@ -43,3 +43,7 @@ The operational sequence is **record → traverse → filter → classify → ro
 ### 33.2 Dependency Review Interfaces
 
 The Civil State Map consumes scoped, potentially coexistent states without flattening them into a universal status. The Civilisation Clock may consume bounded review signals but retains its own timing and transition functions. Continuity evaluates recovery and identity through its own architecture. Protected dependency records carry purpose-bounded visibility without KCS taking over access control. Active Development receives candidate reviews without automatic changes to operational architecture. Each interface must preserve provenance, context, uncertainty and an acknowledgement or unresolved state where appropriate.
+
+### 33.3 Correction, Supersession and Failure States
+
+When an upstream object is corrected, preserve its prior version, record the correction and identify materially dependent objects for bounded review. A reviewed dependent may remain valid, require migration, need further investigation or be unaffected. Supersession preserves the old object and may classify dependents as compatible with the replacement, migration required, legacy-dependent, review required or unknown. Failure review identifies direct and critical indirect dependents, available alternatives, recovery owners and degraded modes; alternatives remain subject to verification by the competent domain. Each subsequent propagation step requires a justified material effect rather than merely a graph connection.
