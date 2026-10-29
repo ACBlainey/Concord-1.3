@@ -184,6 +184,12 @@ It becomes a record of **civilisation's evolving path toward understanding**.
 
 ---
 
+### 3.5 Independent State Dimensions and Assignment Provenance
+
+KCS must not collapse different meanings of status into a single ranking. Where applicable, represent **epistemic**, **activity/retrieval**, **integrity**, **access/visibility** and **capability-operational** state independently. A record may be archived without being false, active without being true, integrity-compromised without being epistemically rejected, and stored without its capability being operational. State may be qualified by version, deployment, context and time.
+
+Consequential assignments retain the assigned state, bounded scope, evidence, assigning or reviewing source/process, time/version and material uncertainty. KCS records and exposes these assignments under its standing functional mandate; it does not create the external authority or evidential justification required for a consequential decision.
+
 ## 4. Knowledge States
 
 Not all knowledge should be treated equally.
