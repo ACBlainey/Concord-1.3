@@ -398,27 +398,25 @@ A Ratchet record must not collapse knowledge validity, review status, access per
 
 # 138. Data Correction and Historical Integrity
 
-When a Ratchet record is shown to be wrong, the current state should be corrected.
-
-Historical accountability may still require preserving the fact that the error occurred.
-
-The preferred pattern is:
+When a Ratchet record is corrected, the current operational view must reflect the correction while preserving the lawful historical evidence of the prior claim. A correction is a versioned event, not a silent rewrite.
 
 ```text
-Original record
+Original claim
     ↓
-Challenge
+Challenge or correction evidence
     ↓
-Review
+Competent review
     ↓
-Correction
+Versioned correction and current view
     ↓
-Current record updated
+KCS material-dependency review signal
     ↓
-Original retained as superseded/error where appropriate
+Affected Ratchet decisions reviewed where material
 ```
 
-This protects both participants and institutional memory.
+KCS identifies potentially affected dependencies and routes bounded review; it does not automatically reject every dependent record or reverse Ratchet decisions. The responsible Ratchet function determines the operational effect under its mandate, with rights-affecting disputes referred through the competent review route. Historical custody and applicable deletion, redaction and access rules govern what prior evidence may be retained.
+
+**To be designed:** Ratchet-specific materiality thresholds, correction acknowledgement, participant notification and treatment of pending transfers or rewards affected by a corrected claim.
 
 ---
 
