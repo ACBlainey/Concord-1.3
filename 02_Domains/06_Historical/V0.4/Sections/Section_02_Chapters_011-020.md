@@ -46,7 +46,7 @@ Operational systems retain operational responsibility until a defined handoff, d
 
 ---
 
-# 13. Candidate Custody States
+# 13. Custody States
 
 Historical shall be capable of representing states equivalent to:
 
