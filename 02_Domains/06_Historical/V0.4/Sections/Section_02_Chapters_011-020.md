@@ -86,6 +86,8 @@ Qualification does not automatically imply indefinite retention.
 
 The precise handoff threshold remains a design question requiring domain-specific companion rules.
 
+A qualification finding identifies possible historical value; it does not create a right to seize operational records, override consent or compel unrestricted retention. The source domain and Historical must apply the expressly authorised custody mode and any applicable privacy, retention and jurisdiction limits. Until a valid handoff is completed, operational custody remains with the responsible source system; an unresolved or failed handoff must not be treated as a completed transfer.
+
 ---
 
 # 15. Access Architecture
