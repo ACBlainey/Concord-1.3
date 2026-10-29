@@ -133,27 +133,16 @@ Ratchet may need to modify its own mechanisms.
 
 Self-modification creates different levels of consequence.
 
-The change hierarchy is:
+Classify each proposed change by its actual effect and the authority required, not by its technical name:
 
-```text
-Parameter change
-    ↓
-Ordinary bounded governance
+- **Parameter change within an existing mandate:** the authorised operator may act within the mandate's scope, limits and review requirements.
+- **Change exceeding a standing mandate:** obtain a new bounded decision from the competent process before implementation.
+- **Cross-domain or rights-affecting change:** obtain the decisions required by each affected authority boundary; Ratchet coordination does not replace them.
+- **Constitutional or Ethical Kernel change:** use the applicable constitutional process, never an internal Ratchet approval.
 
-Mechanism change
-    ↓
-Enhanced review
+A mechanism rewrite is not automatically a constitutional amendment; conversely, a small parameter adjustment may require constitutional review if its actual effects cross a constitutional boundary.
 
-Architectural change
-    ↓
-Constitutional review
-
-Ethical Kernel change
-    ↓
-Highest constitutional process
-```
-
-The exact thresholds require integration with the Concord's constitutional architecture.
+**To be designed with Governance and Judiciary:** materiality thresholds, affected-domain notification, escalation triggers and handling of mixed-scope changes.
 
 ---
 
