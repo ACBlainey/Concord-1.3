@@ -70,4 +70,7 @@ The 22 section files are published. Complete the whole-document consistency revi
 
 ## Mandatory authority interpretation for future reviews
 
+**Standing functional mandate clarification:** The absence-of-authority presumption does not negate a domain's expressly assigned functions. Those functions provide a bounded standing mandate for routine work within stated conditions; no new triadic vote is needed for each routine act. Holding another domain's records or transmitting its decisions does not confer the authority described in them. Reviewers must preserve existing operational functions while requiring an explicit additional mandate for any expansion beyond their scope. This rule applies across all Concord domains; see [`02_Domains/README.md`](../../README.md).
+
+
 Start with Chapter 1's **Default Absence of Authority — Explicit-Method Rule**. No participant possesses institutional authority by default. Only explicitly described, valid contextual mechanisms can create or exercise bounded authority; missing methods mean no authority exists, not an implicit power. Personal rights-based authority over the self, including lawful self-defence, is separate. Review actual documented mechanisms and real bypass risks; do not repeatedly invent hypothetical authority-granting pathways absent from Concord's design.
