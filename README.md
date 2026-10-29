@@ -10,6 +10,15 @@ Earlier versions were organised largely around the process of researching and de
 
 > **Research Develops; Domains Operate; Historical Remembers.**
 
+## Concord-wide authority and functional mandates
+
+The default for every participant and system is **no authority over others**. Institutional authority exists only through an explicitly described, valid and bounded constitutional mandate. The actor claiming authority bears the burden of demonstrating it; no one must prove the absence of an undocumented power. Personal authority derived from individual rights, including lawful self-defence, remains distinct. Emergency necessity alone does not create institutional authority; unauthorised actions remain subject to judicial review, possible remedies and applicable prosecution with due process.
+
+**A domain's expressly assigned operational functions are its standing bounded functional mandate.** Within the stated conditions, the domain can perform ordinary work without a new Governance vote for every action. This is not unlimited authority and does not override rights, custody, privacy or another domain's decisions. Possessing, storing or transmitting a document never transfers the powers described within it: Historical can preserve a court order without acquiring judicial authority.
+
+Future reviewers must preserve expressly defined operational functions, rather than silently delete them because an individual task lacks a repeated authority clause. They should test real mandates and actual bypasses, not imagine undocumented authority pathways. See [the cross-domain authority rules](02_Domains/README.md) for the governing interpretation.
+
+
 ## From research project to operating architecture
 
 V1.3 is now attempting to use the Concord's own methodologies, architecture and feedback processes for its continuing development and operation.
