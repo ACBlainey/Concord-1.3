@@ -18,3 +18,9 @@ The six published sections are a copy-only partition of v0.3. Sequential concate
 Future consistency review and corrections belong in V0.4 sections, with particular attention to Governance V2.2, Judiciary V2.1, Continuity V2.1, authority-state separation, archival privacy, provenance and cross-domain record custody. Unresolved architectural questions remain identified as such; operational designation does not imply implementation completion or exhaustive validation.
 
 **Chapter numbering note:** The inherited Section 06 filename ends in `057`, but its contents include Chapter 58. The complete source was preserved; the section's actual coverage is Chapters 51–58. The filename is retained to avoid breaking existing links until a deliberate rename.
+
+## Cross-domain reconciliation status
+
+The V0.4 operational sections have received targeted corrections for standing functional custody authority, non-inheritance of recorded mandates, valid handoff and acknowledgement, rights-bounded access, lawful forgetting and destruction, judicial appeal provenance, Continuity restoration boundaries, Library separation, authenticity, migration and historical reconstruction. Inherited candidate/graduation language was corrected where it could misstate the current edition's operational status.
+
+Remaining design questions in Chapter 51 and detailed schemas are implementation work, not a reason to suspend existing Historical functions. Future reviews should examine specific documented interfaces or concrete defects, preserving the operational architecture rather than restarting broad speculative authority audits.
