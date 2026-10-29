@@ -52,6 +52,10 @@ Therefore all levels remain subject to constitutional constraints.
 
 ---
 
+### 102.1 Governance Interface and Lowest Capable Level
+
+Ratchet may coordinate participation and expose evidence relevant to governance, but a community, meeting, marketplace or reputation provider cannot acquire constitutional decision authority through Ratchet. Governance decisions remain with the legitimately constituted steward process at the lowest capable level. A higher-level or expanded decision is a bounded event, not inheritance of continuing authority. Ratchet may record the decision identifier and permitted outcome, but cannot count contributions or reputation as extra steward votes. Emergency exceptions are governed by their independent authorised state machine, not by Ratchet metrics.
+
 # 103. Community Capture
 
 A community may become dominated by:
