@@ -438,35 +438,25 @@ Ratchet should therefore examine both:
 
 # 58. Graduated Participation
 
-Ratchet may use graduated participation where risk or responsibility increases with role.
+Ratchet may assign graduated **functional participation permissions** where a role carries increasing risk or responsibility. The scope of each permission must follow the participant's relevant competence, evidence, safeguards and applicable mandate.
 
-Earlier development proposed possible stages such as:
+For example:
 
 ```text
-Observer
+Observation
     ↓
-Evaluator
+Bounded participation
     ↓
-Participant
+Verified contribution
     ↓
-Contributor
-    ↓
-Trusted Collaborator
-    ↓
-Steward
-    ↓
-Constitutional Participant
+Additional task-specific permissions where justified
 ```
 
-The exact stages remain to be defined.
+These are not universal participant ranks, constitutional classes or an appointment pathway to public office. A participant may qualify for one task without qualifying for another; permissions may coexist and must remain contextual and reviewable.
 
-The underlying principle is:
+**Ratchet contribution, reputation, access and permissions cannot appoint a Governance or Judicial steward, create an extra steward vote, or confer constitutional standing.** Steward eligibility, accreditation, selection and appointment belong to the relevant Governance or Judiciary processes. Constitutional rights and personhood are not earned through contribution.
 
-> **Greater operational capability or responsibility may be granted progressively where relevant competence and reliability are demonstrated.**
-
-This does not mean constitutional personhood itself is earned through reputation.
-
-Operational permissions and constitutional status must remain distinct.
+**To be designed:** task-specific eligibility criteria, permission boundaries, review triggers and safe withdrawal or restoration of permissions.
 
 ---
 
