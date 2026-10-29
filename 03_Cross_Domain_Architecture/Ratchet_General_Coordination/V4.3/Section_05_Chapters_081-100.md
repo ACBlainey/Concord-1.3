@@ -410,7 +410,7 @@ Universal income, if adopted, is a **separate distributive mechanism** requiring
 
 Earlier Ratchet architecture considered pensions.
 
-V4.2 broadens the underlying question.
+The underlying question extends beyond pensions to long-term provision across changing participant capabilities.
 
 A viable economic architecture must consider participants who:
 
