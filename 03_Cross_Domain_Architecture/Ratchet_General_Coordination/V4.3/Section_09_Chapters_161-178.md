@@ -100,29 +100,15 @@ This is particularly important because the Concord has largely developed interna
 
 ---
 
-# 165. Evidence Status
+# 165. Evaluation Evidence
 
-Ratchet mechanisms are subject to ongoing evaluation and correction.
+Assessments of Ratchet mechanisms must distinguish conceptual analysis, simulation, controlled trials, independent replication and observed outcomes. Evidence for one claim must not be represented as evidence for a different claim.
 
-The current evidence primarily consists of:
+### 165.1 Evaluation-Space Completeness
 
-- conceptual development;
-- internal criticism;
-- recursive refinement;
-- comparison between versions;
-- methodological case evidence concerning how the system evolved.
-
-This provides evidence **about the operation of the development methodology**.
-
-It does not establish that the complete Ratchet architecture will work in real economies or communities.
-
-That distinction must remain explicit.
+Before accepting an assessment, examine plausible alternatives, untested populations, common-cause failures, adverse outcomes and material unanswered questions. This completeness check prevents premature closure without requiring every uncertainty to be eliminated before bounded action.
 
 ---
-
-### 165.1 Evidence Status and Evaluation-Space Completeness
-
-Architectural consistency, internal criticism, simulation, controlled pilot results and independent replication are different evidence categories. A favourable result in one category must not be presented as proof in another. Before declaring a mechanism adequate, review plausible alternatives, untested populations, common-cause failures, adverse outcomes and material unanswered questions. This completeness check is a safeguard against premature closure, not a demand that every uncertainty be eliminated before bounded experimentation.
 
 # 166. Ratchet as a Methodological Case Study
 
@@ -373,8 +359,6 @@ Revision
         ↓
 Updated architecture
 ```
-
-V4.2 is therefore a stage in Ratchet's development rather than an endpoint.
 
 ---
 
