@@ -115,6 +115,8 @@ Authority originates from the constitutional order.
 
 **Interpretation and review rule:** An undocumented method of gaining or exercising authority is an absence of authority, not a latent permission or an architectural loophole to be filled by speculation. Reviews should test actual documented grants, state transitions, boundary enforcement and implementation failures. They must not presume an authority pathway merely because an abuse can be imagined. An attempted act outside an authorised method has no Concord authority; any actual coercion, impersonation or implementation bypass remains a separate safety and accountability concern.
 
+**This presumption applies to every Concord domain, not solely Governance.** The claimant or actor bears the burden of demonstrating the valid authorising mechanism and mandate; an affected participant need not prove its absence. Emergency necessity alone does not create or retrospectively validate authority. An unauthorised act remains subject to competent judicial review, possible remedy for injured parties and potential prosecution under applicable law and due process; the court may evaluate necessity and individual rights without treating them as a blanket institutional mandate.
+
 
 Election, appointment, qualification, selection, reputation, expertise or other processes may determine **who receives a delegation**.
 
