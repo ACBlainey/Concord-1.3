@@ -135,6 +135,10 @@ The underlying principle is simpler:
 
 ---
 
+### 10.1 Typed Knowledge Relations
+
+Where material, KCS preserves scope-qualified relations including DERIVED_FROM, SUPPORTS, CONTRADICTS, CORRECTS, SUPERSEDES, NARROWS, QUALIFIES, REPLICATES, FAILED_TO_REPLICATE, SUMMARISES and RELATED_TO. These relationships must retain appropriate source, context and provenance. **A typed knowledge relation is not automatically a material operational dependency.** Material dependency and downstream review are governed by the dependency/change-propagation architecture.
+
 ## 11. Code as a Civilisational Resource
 
 The same principle applies to software.
