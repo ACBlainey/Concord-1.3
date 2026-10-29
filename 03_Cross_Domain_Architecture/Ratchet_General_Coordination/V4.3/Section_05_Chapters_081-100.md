@@ -212,6 +212,16 @@ The treasury cannot be its own final auditor.
 
 ---
 
+### 90.1 Separation of treasury execution, oversight and evidence
+
+Treasury custody, transaction execution, valuation of backing, approval of exceptional allocations and independent audit must not collapse into one unchecked control path. A Treasury actor may perform the specific function assigned by operational architecture; that assignment does not entitle the actor to approve its own exceptional transactions, set the standards by which its performance is judged, conceal liabilities, suppress complaints or appoint its own final reviewer.
+
+Oversight must be able to examine the relevant evidence and challenge an unlawful or unsupported transaction without acquiring unrestricted power to spend Treasury resources itself. Governance determines matters requiring a separate lawful Governance decision; Judiciary determines rights and legality disputes; Historical preserves applicable records; KCS indexes dependencies. Reputation, economic contribution, technical system access and control of the ledger are not sources of constitutional authority.
+
+Potential capture indicators include repeated insider benefits, linked-party transactions, self-certified backing, unusual emergency allocations, unexplained reserve releases, systematic exclusion from opportunities and persistent divergence between nominal and actual resources. Such indicators prompt competent review; they do not establish guilt or independently authorise confiscation, dismissal or reversal of settled transactions.
+
+**To be designed with Treasury, Governance, Judiciary and oversight owners:** independent audit selection and access, conflicts-of-interest handling, transaction review thresholds, protected reporting, temporary containment powers, and remediation of captured records or operators.
+
 # 91. Treasury Circularity
 
 A dangerous feedback loop may arise where treasury spending itself creates the contribution used to justify additional backing.
