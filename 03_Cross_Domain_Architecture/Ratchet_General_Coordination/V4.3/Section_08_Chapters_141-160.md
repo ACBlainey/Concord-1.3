@@ -22,6 +22,16 @@ A system that works only under ideal infrastructure conditions may lack civilisa
 
 Offline recording, local exchange and recovery procedures may continue only within pre-authorised limits. Loss of connectivity does not create new voting, treasury, identity or adjudicative powers. Operations whose required verification, authorisation or resource state cannot be established must be deferred or explicitly marked pending. Recovery must reconcile provisional local records with the authoritative versioned state and preserve conflicts for competent review rather than silently overwriting them. **Offline limits and reconciliation protocol remain to be designed with Continuity.**
 
+### 141.2 Continuity verification and lawful restoration
+
+For each consequential Ratchet function, recovery distinguishes **RECORDED, ACCESSIBLE, INTERPRETABLE, ACTIONABLE, RECOVERABLE and OPERATIONAL**. A surviving transaction log is not proof that identities, authorisations, currency backing, resource allocations, protected data access or dependent institutions are usable. The responsible Ratchet function must identify the disrupted service, required dependencies, last verified state, recovery source, lawful actor, recovery sequence, expected output, independent verification and failure route. Continuity supplies the recovery framework; it does not decide economic entitlement or confer emergency powers.
+
+Restoration must separately verify record integrity and version, current participant/office/mandate eligibility, unexpired delegated authority, applicable treasury limits and resource availability before reopening a consequential operation. Replaying records must not re-execute completed transfers, rewards, debits, authorisations or votes. Pending or disputed offline transactions must be reconciled against the authoritative state with provenance and participant notice; conflicting claims go to the competent decision process, not an automatic last-writer-wins overwrite.
+
+If dependencies or authorisation cannot be verified, the affected operation remains **RECOVERY BLOCKED** or operates only within a separately authorised degraded scope. Restoring access does not imply permission to transact, and successful data recovery does not imply operational recovery. Recovery and ordinary emergency coordination remain independent of the variable Civilisation Clock where time-critical action is required.
+
+**To be designed with Continuity, Treasury, identity owners and Judiciary:** per-function recovery time objectives, tolerable data/state loss, minimum acceptable service, offline transaction limits, duplicate-execution prevention, conflict reconciliation and participant remedies. These requirements are recorded at the affected operational interface rather than inventing universal limits.
+
 # 142. Data Loss and Corruption
 
 Ratchet should use appropriate mechanisms for:
