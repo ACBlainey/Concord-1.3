@@ -167,6 +167,10 @@ This creates a feedback loop between treasury policy and evidence.
 
 ---
 
+### 89.1 Treasury Mandate and Authorisation Boundary
+
+Routine treasury operations may execute under a defined standing functional mandate with recorded limits, provenance and audit. The mandate must specify permitted transactions, responsible actors, approval thresholds, exceptional decisions and review paths. Ratchet's exchange, contribution and reputation machinery supplies evidence but cannot itself issue treasury authority or convert economic influence into constitutional power. Actions exceeding the mandate require the competent authorisation process; a crisis alone does not expand the treasury's powers. **Detailed transaction thresholds and control interfaces remain to be designed.**
+
 # 90. Treasury Capture
 
 The concentration of resources creates incentives for capture.
