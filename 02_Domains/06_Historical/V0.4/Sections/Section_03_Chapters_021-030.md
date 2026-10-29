@@ -186,6 +186,8 @@ It must not silently inherit their powers.
 
 The constitutional default is no authority over others. Historical cannot grant or exercise authority by preserving a record, recognising a past office, or supplying evidence. Institutional authority exists only under an explicitly specified, valid and bounded constitutional method; absent that method, there is no authority to inherit, transfer, assume or reconstruct. Personal rights-based authority over the self, including lawful self-defence, is a separate category. Historical review must test real documented grants and actual custody or access violations, not speculate that an undocumented power somehow exists.
 
+This is a Concord-wide rule. An actor claiming authority must supply the explicit mandate and relevant state evidence; Historical's absence of a record does not place a burden on an injured party to prove the negative. Historical can preserve an alleged emergency justification, authorisation evidence, resulting injury and later judicial findings without converting necessity into lawful authority or prejudging prosecution or remedy.
+
 ---
 
 # 29. Knowledge Control System Interface
