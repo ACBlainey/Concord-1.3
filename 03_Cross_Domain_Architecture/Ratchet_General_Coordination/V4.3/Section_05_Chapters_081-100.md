@@ -102,6 +102,14 @@ System-level stability cannot be inferred solely from individual participant bal
 
 ---
 
+### 84.1 Consolidated backing and reconciliation
+
+System-level backing is not the sum of nominal Personal Backing Balances. Consolidation must distinguish independent assets, obligations, contingent claims, internal transfers, pledged reserves, illiquid holdings, recognised but unrealised contributions and the monetary supply actually outstanding. Claims that are the same underlying value at different stages of recognition must be eliminated or reconciled rather than added together.
+
+A system-level backing assessment must identify its valuation basis, reporting period, material dependencies and uncertainty, including real resource availability and external obligations. Treasury custody of currency and final retirement affect different supply categories. A favourable aggregate backing indicator cannot independently authorise new issuance, release protected reserves, impose compulsory Give Back or increase an operator's functional mandate.
+
+**To be designed with Treasury and monetary-policy owners:** consolidated balance-sheet definitions, double-count elimination, backing valuation and stress assumptions, audit evidence, reconciliation frequency and publication of uncertainty.
+
 # 85. Give Back
 
 Give Back is a mechanism through which participants voluntarily return currency or economic capacity to the system.
