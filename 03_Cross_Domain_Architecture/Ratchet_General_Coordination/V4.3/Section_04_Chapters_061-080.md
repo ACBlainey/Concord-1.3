@@ -434,6 +434,10 @@ Issuance rules should be:
 
 ---
 
+### 79.1 Monetary Mechanisms Remain Design-Dependent
+
+The proposed monetary issuance and backing mechanisms are design propositions, not established empirical guarantees. Any operational issuance must first have defined authority, accounting, eligibility, resource constraints, inflation and abuse controls, dispute routes, and independent verification. Currency issuance does not create the physical resources it represents. Ratchet's coordination architecture may operate without currency, as specified by the minimum viable design in Chapter 160. **Issuance implementation and quantitative policy are to be designed and tested before activation.**
+
 # 80. Circulation
 
 Currency must remain sufficiently usable to function as a medium of exchange.
