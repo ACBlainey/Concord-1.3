@@ -69,6 +69,10 @@ This applies whether the delegate is:
 
 ---
 
+### 63.1 Delegation Is Not Authority Creation
+
+A delegation record must identify the delegator's actual mandate, the function delegated, scope, expiry or review conditions, and accountability. A delegate cannot acquire powers the delegator did not hold. Delegated routine tasks may be performed under a valid standing functional mandate, but constitutional decisions and domain-specific authority remain subject to their own rules. Withdrawal of delegation affects future actions; it does not silently erase the provenance of completed authorised acts.
+
 # 64. Human–AI Participation
 
 Ratchet is intended to support coordination between entities with different capabilities and potentially different substrates.
