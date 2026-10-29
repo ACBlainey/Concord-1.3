@@ -129,6 +129,14 @@ If compulsory mechanisms exist, they should be named and constitutionally justif
 
 ---
 
+### 85.1 Voluntary return, consent and settlement
+
+Give Back requires an informed and voluntary participant instruction identifying the amount or economic capacity returned, the intended recipient or purpose, and the applicable treatment: Treasury transfer, community allocation, backing contribution or final retirement. These outcomes are not interchangeable and must be recorded distinctly. A transfer is not a completed retirement unless the applicable retirement function separately settles it. An operator executing a valid Give Back instruction has only the functional mandate necessary to process that instruction within its scope.
+
+Consent to one Give Back event does not authorise recurring deductions, future surrender, access to unrelated holdings or a compulsory obligation. The participant must be able to distinguish a voluntary contribution from a separately lawful tax, levy or other mandatory collection. Pressure through threats to fundamental rights, participation standing or unrelated essential benefits cannot be disguised as reciprocity. Corrections, failed settlement, duplicate execution and contested consent follow the applicable competent review and restoration routes.
+
+**To be designed with Treasury, Civil Contact and monetary accounting:** participant instruction and acknowledgement format, settlement finality, revocation before commitment, cancellation and refund handling, recurring consent if permitted, and verification of destination and retirement.
+
 # 86. Give Back Incentives
 
 A Ratchet system may experiment with incentives for Give Back.
