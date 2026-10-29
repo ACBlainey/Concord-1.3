@@ -230,7 +230,7 @@ This distinction allows external evaluators to inspect what has already been int
 
 # 170. Open Questions
 
-Ratchet V4.2 retains substantial unresolved questions.
+Ratchet retains substantial unresolved questions.
 
 These include, but are not limited to:
 
@@ -310,7 +310,7 @@ The architecture should make its uncertainty visible.
 
 # 171. Economic Mechanisms
 
-The following mechanisms are retained in V4.2 because they are substantive Ratchet concepts:
+The following mechanisms form part of Ratchet:
 
 - Progressive Monetary Backing;
 - Personal Backing Balance;
@@ -489,7 +489,7 @@ Before a contribution-backed economy can operate, the system must answer:
 
 The resulting architecture is therefore broader than currency.
 
-Ratchet V4.2 is a general protocol for:
+Ratchet provides a general protocol for:
 
 > **participation, contribution, provenance, evidence, contextual trust, reciprocity, exchange, feedback and controlled persistence.**
 
