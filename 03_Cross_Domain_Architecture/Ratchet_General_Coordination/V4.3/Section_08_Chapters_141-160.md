@@ -394,7 +394,7 @@ Around this process sit:
 - Roadway;
 - Reality Trees.
 
-Ratchet is therefore a coordination layer within a wider constitutional ecosystem.
+Ratchet is therefore a coordination layer within a wider constitutional ecosystem. The diagram is a conceptual sequence, not a mandatory linear progression for every participant or an authority chain. A participant may access fundamental protections before contributing or earning contextual trust; qualification for entrusted functions remains separate from the economic coordination cycle. KCS, Historical, Governance, Judiciary, Continuity and the other domains retain their own defined responsibilities. A Ratchet record, score or coordination recommendation does not transfer their authority to Ratchet.
 
 ---
 
