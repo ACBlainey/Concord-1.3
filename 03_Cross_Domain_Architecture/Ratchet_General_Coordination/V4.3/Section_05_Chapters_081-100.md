@@ -1,6 +1,6 @@
 # Ratchet V4.3 — Section 05: Chapters 81–100
 
-**Migration:** V4.2 text preserved; reconciliation to follow.
+**Version:** Ratchet V4.3
 
 # 81. Currency Retirement
 
@@ -22,7 +22,7 @@ Currency retirement should not become arbitrary confiscation.
 
 # 82. Personal Backing Balance
 
-Personal Backing Balance, or PBB, is a candidate accounting mechanism inherited from earlier Ratchet architecture.
+Personal Backing Balance, or PBB, is an accounting mechanism inherited from earlier Ratchet architecture.
 
 It represents a relationship between economic capacity issued to a participant and recognised backing associated with that participation.
 
@@ -42,7 +42,7 @@ It is an economic accounting mechanism.
 
 A Personal Backing Ratio may represent the relationship between relevant issued economic capacity and recognised backing.
 
-Its exact calculation remains a candidate design problem.
+Its exact calculation remains to be designed.
 
 Ratchet explicitly rejects using PBR as a universal ranking of participants.
 
@@ -78,7 +78,7 @@ System-level stability cannot be inferred solely from individual participant bal
 
 # 85. Give Back
 
-Give Back is a candidate mechanism through which participants voluntarily return currency or economic capacity to the system.
+Give Back is a mechanism through which participants voluntarily return currency or economic capacity to the system.
 
 Possible purposes include:
 
@@ -304,7 +304,7 @@ A monetary mechanism providing some form of baseline income or economic capacity
 
 Ratchet V4.2 preserves universal participation as a strong design principle.
 
-Universal income remains a candidate economic mechanism requiring separate evaluation.
+Universal income requires separate economic design and evaluation.
 
 The presence of universal participation does not logically require one specific universal-income model.
 
@@ -339,7 +339,7 @@ Possible mechanisms may include:
 
 Ratchet does not yet establish which mechanism is optimal.
 
-The issue remains part of the canonical economic architecture rather than disappearing from it.
+The issue remains part of the economic architecture.
 
 ---
 
