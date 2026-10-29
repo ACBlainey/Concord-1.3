@@ -39,3 +39,7 @@ Chapters 125–127 now distinguish capture evidence from adjudication, constrain
 ## Cross-section consistency checkpoint
 
 Chapters 109 and 110 now bound administrative burden and protected reporting. Chapters 141, 144 and 152 clarify offline authority, judicial escalation and implementation-change classification. Chapter 159 bounds the initial non-monetary trial. These changes complement the earlier authority, treasury, identity, evidence and self-modification reconciliation. Detailed interfaces and independent empirical testing remain to be designed; V4.2 is preserved unchanged.
+
+## Final structural audit checkpoint
+
+All 178 numbered chapters occur once, in order, across nine sections (20 chapters in each of Sections 01–08 and 18 in Section 09). The V4.2 source remains intact. Chapters 2 and 172 now distinguish historical status labels from current V4.3 operational interpretation; Chapter 137 distinguishes knowledge validity, access, review and economic effect. Structural chapter coverage is complete. A full independent domain-by-domain semantic comparison and operational validation remain separate work; neither is claimed complete by this checkpoint.
