@@ -35,6 +35,14 @@ No stage automatically creates the next stage's authority.
 
 ---
 
+## 1A. General participation and the judicial qualification route
+
+Ratchet's P0 Observer → P1 Evaluator → P2 Contributor → P3 Collaborator → P4 Member → P5 Citizen progression describes general civil participation. It may help a willing participant access learning, demonstrate reciprocal responsibility and pursue further opportunities, but it is not a judicial training curriculum, an accreditation scale, a compulsory route into stewardship or a source of constitutional authority.
+
+Education owns judicial training, assessment, recognition of equivalent learning, accreditation, reassessment and competence renewal. Judiciary determines role-specific judicial competence and independently lawful office selection; Historical preserves provenance. A qualified participant may enter eligible parallel/shadow judicial experience where applicable, but neither shadow work nor Education's accreditation creates an official judicial appointment or vote. The case state machine independently verifies valid decision authority.
+
+The participant should be able to understand their judicial learning pathway and which qualifications or experience remain necessary, without an invented universal trust score or a fixed progression clock. **Minimum temporal requirements are to be designed**; sustained relevant practice may be assessed, but no specific duration or mandatory interval is established here. Restrictions after proven material failures must be function-related and reviewable, with appropriate education, rehabilitation and requalification opportunities. Changes in qualifications and restrictions require provenance, notification and selective correction of affected eligibility records.
+
 ## 2. Source-resolved ownership
 
 ### Historical
