@@ -205,7 +205,7 @@ Ratchet may report economic threats and execute already-authorised emergency fun
 
 # 129. Emergency Expiry
 
-Extraordinary authority should normally contain automatic expiry or mandatory review.
+Every extraordinary Ratchet authorisation must have a bounded termination condition and an enforceable expiry or renewal process. Review alone does not extend expired authority.
 
 Emergency mechanisms should define:
 
@@ -217,7 +217,7 @@ Emergency mechanisms should define:
 - review;
 - termination.
 
-Emergency measures should not silently become ordinary governance.
+Emergency measures must terminate when their authorisation expires or the required emergency state ceases. Continuing an intervention requires a new competent authorisation; a prior emergency decision does not become standing authority through repetition.
 
 ---
 
