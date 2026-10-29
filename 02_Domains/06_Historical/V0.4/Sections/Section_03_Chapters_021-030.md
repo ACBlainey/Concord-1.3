@@ -204,7 +204,7 @@ The Knowledge Control System may provide general infrastructure for:
 
 Historical applies such capabilities specifically to temporal custody and reconstruction.
 
-Candidate separation:
+Functional separation:
 
 > **KCS governs how knowledge objects are controlled and related; Historical governs how civilisational state remains interpretable across time.**
 
