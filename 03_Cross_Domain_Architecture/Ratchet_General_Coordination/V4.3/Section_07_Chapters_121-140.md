@@ -194,6 +194,10 @@ They do not erase the Ethical Kernel.
 
 ---
 
+### 128.1 Emergency Authority Separation
+
+Ratchet may report economic threats and execute already-authorised emergency functions, but an emergency does not itself grant new powers. Emergency decisions must use the competent Concord emergency state machine, independent of the variable Civilisation Clock. Temporary treasury or monetary measures require a defined authorisation, scope, expiry and review route; the Ratchet record does not create that authorisation.
+
 # 129. Emergency Expiry
 
 Extraordinary authority should normally contain automatic expiry or mandatory review.
