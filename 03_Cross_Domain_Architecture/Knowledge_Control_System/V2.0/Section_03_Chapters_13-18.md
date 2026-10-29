@@ -199,3 +199,7 @@ This distinction is fundamental.
 
 ---
 
+
+### 18.1 Review of Consequential Classifications
+
+When a KCS classification materially affects participant opportunities, the affected participant must have an appropriate route to inspect, challenge and seek correction through existing Concord processes. KCS records the dispute and any authorised correction, and notifies affected domains for consequential review. KCS does not itself decide entitlements or judicial remedies.
