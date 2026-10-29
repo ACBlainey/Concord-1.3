@@ -31,3 +31,7 @@ Chapter 8 now distinguishes bounded standing functional mandates from participat
 ## Verification and identity checkpoint
 
 Chapters 27, 41 and 53 now address shared evidence ancestry, contribution laundering and contextual reputation portability. Chapters 63 and 69 clarify delegation, AI instances and beneficial control. Chapter 125 records common-cause failure and selective dependency review. These are operational interface clarifications; identity-continuity algorithms and empirical validation remain to be designed.
+
+## Institutional and experimental checkpoint
+
+Chapters 125–127 now distinguish capture evidence from adjudication, constrain self-modification and review cumulative parameter drift. Chapter 139 addresses recovery without restoring expired authority. Chapters 161, 163 and 165 distinguish experiment stage gates, comparative stopping rules and categories of evidence. Remaining consistency work concerns the unreviewed chapter interfaces and final cross-section checks; operational trials and independent validation have not occurred.
