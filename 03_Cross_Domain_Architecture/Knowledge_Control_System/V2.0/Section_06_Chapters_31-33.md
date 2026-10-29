@@ -59,3 +59,7 @@ Each material relation retains available first-recorded, last-confirmed, last-ch
 ### 33.6 Unknown and Disputed Relations
 
 KCS distinguishes UNKNOWN_OWNER, UNKNOWN_DEPENDENCY, UNKNOWN_MATERIALITY, DISPUTED_DEPENDENCY, DISPUTED_OWNER and DISPUTED_EFFECT. Unknown is not absent; disputed is not false. Competing claims remain separately attributable until the competent process resolves them.
+
+### 33.7 Multiple Suppliers and Recursive Indexing
+
+Material dependencies may involve PRIMARY, CO-OWNER, DISTRIBUTED_SUPPLIER, DELEGATED, INTERFACE_SUPPLIER or FALLBACK roles. These describe supply arrangements, not inherited authority. KCS also indexes its own material prerequisites, including provenance, storage, retrieval, review and correction capabilities. Changes to its relation schema remain versioned and reviewable.
