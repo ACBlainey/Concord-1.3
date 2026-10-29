@@ -154,6 +154,14 @@ The system should avoid turning voluntary stewardship into status competition.
 
 ---
 
+### 86.1 Incentive accounting and anti-coercion
+
+Give Back incentives must be expressly defined as particular economic or community benefits, with their cost, eligibility, limits and resource source visible. Recognition of a voluntary return is evidence of that event, not evidence of superior human worth, general reliability, entitlement to office or constitutional standing. An incentive may affect a participant's economic accounting only through the competent monetary rule; it does not automatically alter the participant's P0–P5 civil progression, qualifications or voting authority.
+
+An incentive becomes suspect where essential access or otherwise lawful entitlements are conditioned on surrendering resources, where the same contribution is counted repeatedly, or where Treasury-funded rewards manufacture backing used to justify further rewards. Such effects require independent economic review and correction rather than a presumption that participation is genuinely voluntary.
+
+**To be designed with the relevant economic and civil benefit owners:** permitted incentive classes, funding and valuation, participant-facing disclosure, double-count controls and review of coercive effects.
+
 # 87. Community Give Back
 
 Give Back may also support collective projects or shared reserves.
