@@ -1,6 +1,6 @@
 # Ratchet V4.3 — Section 03: Chapters 41–60
 
-**Migration:** V4.2 text preserved; reconciliation to follow.
+**Version:** Ratchet V4.3
 
 # 41. Contribution Laundering
 
@@ -29,7 +29,7 @@ A contribution claim must retain an identifiable underlying activity and its mat
 
 Earlier Ratchet designs proposed contribution difficulty levels, potentially using a 1–5 scale.
 
-V4.2 preserves this as a candidate implementation mechanism.
+This implementation mechanism requires its detailed design to be completed.
 
 A difficulty classification might consider:
 
@@ -458,7 +458,7 @@ Steward
 Constitutional Participant
 ```
 
-The exact stages remain provisional.
+The exact stages remain to be defined.
 
 The underlying principle is:
 
