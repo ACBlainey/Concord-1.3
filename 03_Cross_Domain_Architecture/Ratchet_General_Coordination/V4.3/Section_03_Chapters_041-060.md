@@ -27,9 +27,7 @@ A contribution claim must retain an identifiable underlying activity and its mat
 
 # 42. Difficulty Levels
 
-Earlier Ratchet designs proposed contribution difficulty levels, potentially using a 1–5 scale.
-
-This implementation mechanism requires its detailed design to be completed.
+Contribution difficulty may be classified using a context-specific scale, potentially 1–5. The classification mechanism, calibration and permissible effects are to be designed; no numeric scale is established as an automatic reward or eligibility rule.
 
 A difficulty classification might consider:
 
