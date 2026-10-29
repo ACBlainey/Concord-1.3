@@ -252,7 +252,7 @@ Such interventions must consider:
 - market manipulation;
 - unintended concentration.
 
-The mechanism requires defined implementation and evaluation.
+Buybacks or supply reductions require a competent treasury mandate, a recorded purpose, lawful funding source, bounded quantity and duration, market-abuse safeguards and a reviewable settlement trail. The transaction must not be initiated merely because a Ratchet metric indicates an imbalance. **To be designed with the treasury interface:** execution rules, reserve floors, exposure limits and safeguards against concentration or manipulation.
 
 ---
 
