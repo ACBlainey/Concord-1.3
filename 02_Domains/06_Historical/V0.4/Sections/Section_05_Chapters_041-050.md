@@ -17,6 +17,8 @@ Migration procedures should preserve, as applicable:
 
 Migration loss must be recorded where detected.
 
+Migration must preserve the distinction between the original decision-time record, later corrections, and the current operational state. Reformatting or rehosting a Governance vote, Judiciary case, Continuity declaration or authority receipt cannot reissue its mandate, change its effective time or make a superseded state executable. Where the source system remains operational, Historical's migrated copy is not the current authority source. If custody, permissions or provenance cannot be verified, the affected material must remain restricted pending competent review rather than silently acquiring a more permissive state.
+
 ---
 
 # 42. Authenticity
