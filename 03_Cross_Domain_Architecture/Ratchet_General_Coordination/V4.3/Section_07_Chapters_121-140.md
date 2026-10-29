@@ -176,6 +176,10 @@ Ratchet governance must therefore monitor parameter drift as well as formal rule
 
 ---
 
+### 127.1 Cumulative Drift Review
+
+A sequence of individually authorised small changes may create an unauthorised aggregate effect. Ratchet must retain a versioned baseline and evaluate cumulative effects on eligibility, reward, privacy, authority boundaries, treasury exposure and participant access. Crossing a material boundary triggers review by the competent authority before further change; a long sequence of routine adjustments cannot substitute for approval of an architectural change. Unknown aggregate effects must be recorded, not assumed harmless.
+
 # 128. Emergency Measures
 
 Ratchet may encounter emergencies requiring temporary changes to:
