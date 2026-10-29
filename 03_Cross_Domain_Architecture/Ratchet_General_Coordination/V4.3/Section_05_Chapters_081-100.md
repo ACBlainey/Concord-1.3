@@ -220,6 +220,10 @@ The resulting contribution must be independently assessed.
 
 ---
 
+### 91.1 Circular Backing Control
+
+Treasury-funded activity, recorded contribution, backing and new issuance must be accounted for as distinct events. A claim that spending created additional backing requires independent evidence of net value and must exclude circular reuse of the same claim, double counting and liabilities concealed as assets. Review must consider real resources, liquidity and downstream obligations, not merely positive ledger balances. Ratchet records the evidence; the authorised treasury and monetary processes determine the consequences. **Accounting controls and verification thresholds are to be designed and tested.**
+
 # 92. Dynamic Monetary Policy
 
 Ratchet may use dynamic monetary policy responding to observed system conditions.
