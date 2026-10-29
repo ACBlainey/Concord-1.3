@@ -336,6 +336,10 @@ Temporal weighting should therefore be contextual rather than automatic.
 
 ---
 
+### 53.1 Contextual Reputation Review
+
+Trust assessments must identify their domain, evidence basis, applicable context, date and uncertainty. A receiving domain may examine portable evidence but must not inherit another provider's judgement as a universal score or an authority credential. Conflicting assessments may coexist with separate provenance. Recovery, correction and changed circumstances should be reflected in current assessments without erasing history where retention is lawful. No reputation record alone confers eligibility for governance office or changes constitutional standing.
+
 # 54. Appeal and Correction
 
 Participants must be able to challenge significant Ratchet assessments affecting them.
