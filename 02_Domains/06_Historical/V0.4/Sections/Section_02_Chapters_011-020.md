@@ -251,5 +251,7 @@ Present-Best Reconstruction(T)
 
 Neither should overwrite the other.
 
+Both modes fall within Historical's standing functional mandate when applied to records it may lawfully process. They produce evidence-based reconstructions, not operational restorations, judicial verdicts or renewed authority. Where the reconstruction concerns a disputed decision, the output must identify the decision-time evidence separately from later evidence and any competent adjudication; it cannot silently rewrite the original state.
+
 ---
 
