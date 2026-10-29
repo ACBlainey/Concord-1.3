@@ -196,5 +196,7 @@ Where compression is used, Historical should consider preserving:
 
 A summary must not silently replace its source where the source remains required.
 
+A compressed account of a Governance vote or Judiciary case must preserve the distinction between each steward's recorded act, the aggregate outcome, the authority state at decision time, and any later correction or appeal. A summary must not convert confidence or incomplete voting records into a different decision, or infer that the archived outcome supplies fresh authority. Where protected case evidence is withheld, a permitted summary must explicitly preserve its disclosure and completeness limitations.
+
 ---
 
