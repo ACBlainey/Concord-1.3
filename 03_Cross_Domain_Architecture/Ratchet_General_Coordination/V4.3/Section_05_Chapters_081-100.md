@@ -250,6 +250,14 @@ No single indicator should control policy automatically without appropriate safe
 
 Monetary indicators may trigger review, not automatically authorise intervention. Changes require a competent mandate, recorded assumptions, bounded monitoring and a correction route. Quantitative thresholds remain to be designed.
 
+### 92.2 Policy review is distinct from execution
+
+Where the adopted monetary rules define an automatic or routinely administered adjustment within bounded parameters, the designated operator may execute it under that function's mandate, provided the current conditions and safeguards are satisfied. The existence of a feedback indicator does not independently authorise a new policy, exceed a permitted adjustment range, transfer Treasury resources outside their defined purpose or acquire Governance decision authority.
+
+Changing the monetary rule itself is distinct from applying an existing rule. A material change beyond the operator's mandate requires the competent policy decision process, with the affected domains' lawful interfaces preserved. A decision to change policy is recorded separately from the subsequent ledger actions implementing it. Repeated execution of the same policy event must not duplicate its economic effect.
+
+**To be designed with monetary policy and Treasury:** which adjustments are pre-authorised, parameter bounds, evidence thresholds, escalation triggers, and handling of policy changes during unsettled transactions.
+
 # 93. No Single Economic Score
 
 Ratchet rejects the idea that economic health can be reduced to one number.
