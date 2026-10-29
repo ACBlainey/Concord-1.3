@@ -431,6 +431,10 @@ Retention should therefore be:
 
 ---
 
+### 139.1 Privacy, Retention and Correction
+
+Ratchet's operational need to retain evidence does not create unlimited visibility or permanent retention rights. The applicable participant-data and Historical custody rules determine protected access, redaction, retention and lawful deletion. Corrections preserve appropriate provenance without perpetuating an inaccurate current classification. Where lawful policy requires deletion without residual metadata, Ratchet must not manufacture a shadow record.
+
 # 140. Relationship to Continuity
 
 Ratchet depends upon infrastructure and institutions that may fail.
