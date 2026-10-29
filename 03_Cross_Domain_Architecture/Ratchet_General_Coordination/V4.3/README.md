@@ -1,6 +1,6 @@
-# Ratchet V4.3 — Sectional Working Edition
+# Ratchet V4.3 — Operational Architecture
 
-**Status:** Complete lossless migration from V4.2; substantive reconciliation and cross-domain review to follow. V4.2 remains preserved unchanged for provenance. V4.3 is the working integrated successor, not yet a claim of operational or empirical validation.
+**Status:** Current operational Ratchet architecture in Concord-1.3. V4.2 is retained unchanged for provenance.
 
 ## Sections
 
@@ -20,17 +20,17 @@ The nine section bodies, concatenated in order without their new section heading
 
 ## Reconciliation rules
 
-Preserve functional architecture and provenance. Correct conflicts at the appropriate chapter, using pointers instead of duplication. Do not interpret a historical 'canonical' label as proof of validation. Distinguish established coordination principles, untested economic mechanisms, empirical claims and architecture still to be designed. Ratchet coordination and knowledge records cannot acquire governance, judicial, treasury or access-control authority by implication. Existing domain standing functional mandates permit routine bounded operations without a fresh triadic vote for each action; authority beyond a mandate must be established independently. Economic arrangements must remain constitutionally bounded and not substitute wealth or reputation for civil authority.
+Preserve functional architecture and provenance. Correct conflicts at the appropriate chapter, using pointers instead of duplication. Distinguish current operational rules from specific implementation details still to be designed. Ratchet coordination and knowledge records cannot acquire governance, judicial, treasury or access-control authority by implication. Existing domain standing functional mandates permit routine bounded operations without a fresh triadic vote for each action; authority beyond a mandate must be established independently. Economic arrangements must remain constitutionally bounded and not substitute wealth or reputation for civil authority.
 
 Review interfaces with Governance V2.2, Judiciary V2.1, Continuity V2.1, Historical V0.4 and KCS V2.0, with attention to source authority and preservation of independent domain functions. Keep predecessor unchanged.
 
 ## Reconciliation checkpoint
 
-Chapter 8 now distinguishes bounded standing functional mandates from participation and reputation. Chapters 54 and 102 connect consequential review and steward authority to their competent domains. Chapters 79, 89, 91 and 92 bound monetary design, treasury authority, circular backing and policy feedback. Chapters 128, 136 and 139 clarify emergency authority, KCS dependencies and protected retention. Substantive reconciliation continues across the remaining sections; no empirical validation is claimed.
+Chapter 8 now distinguishes bounded standing functional mandates from participation and reputation. Chapters 54 and 102 connect consequential review and steward authority to their competent domains. Chapters 79, 89, 91 and 92 bound monetary design, treasury authority, circular backing and policy feedback. Chapters 128, 136 and 139 clarify emergency authority, KCS dependencies and protected retention. Substantive reconciliation continues across the remaining sections.
 
 ## Verification and identity checkpoint
 
-Chapters 27, 41 and 53 now address shared evidence ancestry, contribution laundering and contextual reputation portability. Chapters 63 and 69 clarify delegation, AI instances and beneficial control. Chapter 125 records common-cause failure and selective dependency review. These are operational interface clarifications; identity-continuity algorithms and empirical validation remain to be designed.
+Chapters 27, 41 and 53 now address shared evidence ancestry, contribution laundering and contextual reputation portability. Chapters 63 and 69 clarify delegation, AI instances and beneficial control. Chapter 125 records common-cause failure and selective dependency review. Identity-continuity algorithms remain to be designed.
 
 ## Institutional and experimental checkpoint
 
@@ -42,4 +42,4 @@ Chapters 109 and 110 now bound administrative burden and protected reporting. Ch
 
 ## Final structural audit checkpoint
 
-All 178 numbered chapters occur once, in order, across nine sections (20 chapters in each of Sections 01–08 and 18 in Section 09). The V4.2 source remains intact. Chapters 2 and 172 now distinguish historical status labels from current V4.3 operational interpretation; Chapter 137 distinguishes knowledge validity, access, review and economic effect. Structural chapter coverage is complete. A full independent domain-by-domain semantic comparison and operational validation remain separate work; neither is claimed complete by this checkpoint.
+All 178 numbered chapters occur once, in order, across nine sections (20 chapters in each of Sections 01–08 and 18 in Section 09). The V4.2 source remains intact. Chapters 2 and 172 now distinguish historical status labels from current V4.3 operational interpretation; Chapter 137 distinguishes knowledge validity, access, review and economic effect. Structural chapter coverage is complete. A full independent domain-by-domain semantic comparison remains separate work.
