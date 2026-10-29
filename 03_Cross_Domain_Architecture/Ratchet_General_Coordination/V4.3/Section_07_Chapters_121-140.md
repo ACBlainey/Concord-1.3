@@ -1,6 +1,6 @@
 # Ratchet V4.3 — Section 07: Chapters 121–140
 
-**Migration:** V4.2 text preserved; reconciliation to follow.
+**Version:** Ratchet V4.3
 
 # 121. Failure Response
 
@@ -133,7 +133,7 @@ Ratchet may need to modify its own mechanisms.
 
 Self-modification creates different levels of consequence.
 
-A provisional hierarchy is:
+The change hierarchy is:
 
 ```text
 Parameter change
@@ -242,7 +242,7 @@ Potential emergency economic measures might include:
 - supply reduction;
 - emergency community funding.
 
-These remain candidate mechanisms.
+These mechanisms require their specified implementation details.
 
 Any intervention should be evaluated after the event.
 
@@ -263,7 +263,7 @@ Such interventions must consider:
 - market manipulation;
 - unintended concentration.
 
-The mechanism remains experimental.
+The mechanism requires defined implementation and evaluation.
 
 ---
 
