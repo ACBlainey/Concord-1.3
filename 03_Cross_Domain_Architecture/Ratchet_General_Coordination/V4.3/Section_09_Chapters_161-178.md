@@ -358,6 +358,10 @@ Canonical does not mean immutable.
 
 ---
 
+### 172.1 Current Interpretation of Mechanism Status
+
+Chapters 171–172 preserve V4.2's historical classification vocabulary. For V4.3, coordination principles are operational design constraints subject to current Concord authority boundaries; named economic mechanisms remain substantive design subjects, not activated policies or validated implementations. Inclusion in this architecture is not a claim that a mechanism is safe, economically viable, authorised or ready for deployment. Testing and competent approval remain separate requirements. No historical status label can override a current operational domain specification.
+
 # 173. Ratchet and the Concord Development Process
 
 Ratchet itself should continue through the Concord development process:
