@@ -148,6 +148,10 @@ A proposed mechanism does not become established merely because it appears in th
 
 ---
 
+### 2.1 Version and Operational Status Clarification
+
+Chapter 2 preserves V4.2's historical account of its status within an earlier Concord repository. In this V4.3 sectional edition, that account is provenance, not a declaration that a historical 'canonical' label establishes completeness, authority or validation. V4.3 is the active Ratchet reconciliation text within Concord-1.3. Its general coordination principles and bounded interfaces are distinguished from monetary and identity mechanisms still to be designed or empirically tested. This section does not supersede the authority of current operational Governance, Judiciary, Continuity, Historical or KCS architecture.
+
 # 3. The Ratchet Principle
 
 A mechanical ratchet permits movement in one direction while resisting uncontrolled reversal.
