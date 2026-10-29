@@ -504,6 +504,14 @@ Constitutional authority requires separate justification.
 
 ---
 
+### 98.1 Effective economic control and authority separation
+
+Formal limits on voting and office do not by themselves prevent economic actors from exercising effective control through essential infrastructure, concentrated employment, supply chains, exclusive data access, financial dependence or control of technical execution. Ratchet must distinguish **lawful operational function**, **actual capability to influence outcomes** and **constitutional authority**. Evidence of influence is a capture or dependency signal, not a grant of legitimate decision power.
+
+Where an organisation or participant controls a critical dependency, the relevant competent domain must be able to identify concentration and continuity risks, disclose material conflicts and route appropriate independent review. Countermeasures must themselves have defined lawful mandates; concern about capture does not automatically authorise expropriation, compelled access, punishment or emergency takeover. Authorial control of Concord's specification by Citizen Zero, including editing by instructed AI developers, is separate from economic ownership or live operational control.
+
+**To be designed with Governance, Continuity, economic and competition-related functions:** concentration indicators, dependency disclosure, independent verification, proportionate remedies, anti-retaliation safeguards and escalation for systemic capture.
+
 # 99. Governance
 
 Ratchet requires governance because its rules cannot administer themselves.
