@@ -67,3 +67,7 @@ The 22 section files are published. Complete the whole-document consistency revi
 11. **Closure evidence:** Produce a bounded audit matrix listing each issue, source, current clause, finding, severity, disposition, responsible domain and outstanding author decision. Record verified coverage separately from unresolved work. Commit approved corrections individually; preserve an audit snapshot and do not declare completion or supersession solely from document length or passing mechanical checks.
 
 **Current handoff:** The structural 22-section/215-chapter inventory and targeted corrections are already recorded above. The full audit described here is deliberately postponed so work can return to wider Concord issues. Do not automatically restart it during unrelated work.
+
+## Mandatory authority interpretation for future reviews
+
+Start with Chapter 1's **Default Absence of Authority — Explicit-Method Rule**. No participant possesses institutional authority by default. Only explicitly described, valid contextual mechanisms can create or exercise bounded authority; missing methods mean no authority exists, not an implicit power. Personal rights-based authority over the self, including lawful self-defence, is separate. Review actual documented mechanisms and real bypass risks; do not repeatedly invent hypothetical authority-granting pathways absent from Concord's design.
