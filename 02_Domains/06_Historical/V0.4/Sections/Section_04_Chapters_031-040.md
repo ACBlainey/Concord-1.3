@@ -175,6 +175,8 @@ Relationship Between States
 
 The corrected interpretation becomes available without manufacturing a false earlier state.
 
+A judicial appeal, reversal or finding of procedural failure must be linked to the original decision as a distinct, versioned decision event. The later outcome does not rewrite what the original court decided or erase the evidence available at the time. Historical must distinguish newly discovered evidence from a later finding that the original process was defective; it records both without itself overturning a judgment. Only the competent Judiciary can issue the consequential case decision or remedy, through its own valid bounded authority.
+
 ---
 
 # 40. Compression and Summarisation
