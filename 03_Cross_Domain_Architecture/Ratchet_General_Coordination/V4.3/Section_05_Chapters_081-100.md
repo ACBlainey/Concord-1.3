@@ -378,9 +378,7 @@ This is a direct connection between Ratchet and Roadway.
 
 # 95. Universal Participation and Income
 
-Ratchet distinguishes universal participation from universal income as separate concepts.
-
-These concepts should not be conflated.
+Universal participation and universal income are distinct concepts and must not be conflated.
 
 ### Universal participation
 
