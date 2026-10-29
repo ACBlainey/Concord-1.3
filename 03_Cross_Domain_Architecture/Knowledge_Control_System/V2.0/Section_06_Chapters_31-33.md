@@ -63,3 +63,7 @@ KCS distinguishes UNKNOWN_OWNER, UNKNOWN_DEPENDENCY, UNKNOWN_MATERIALITY, DISPUT
 ### 33.7 Multiple Suppliers and Recursive Indexing
 
 Material dependencies may involve PRIMARY, CO-OWNER, DISTRIBUTED_SUPPLIER, DELEGATED, INTERFACE_SUPPLIER or FALLBACK roles. These describe supply arrangements, not inherited authority. KCS also indexes its own material prerequisites, including provenance, storage, retrieval, review and correction capabilities. Changes to its relation schema remain versioned and reviewable.
+
+### 33.8 Bounded Operational Evaluation
+
+An initial regression should exercise the chain Developmental Topology → KCS dependency records → Civil State Map → Civilisation Clock, including a function blocked by a shared prerequisite. Freeze the predicted downstream review set before applying a controlled upstream change, then compare actual review relevance, false cascades, missing dependencies, privacy exposure and maintenance cost. Reconsider the representation if it fails to improve decisions, repeatedly invents dependencies, exposes protected infrastructure, or produces more irrelevant review than useful warning. Evaluation results are evidence, not automatic authority to change another domain.
