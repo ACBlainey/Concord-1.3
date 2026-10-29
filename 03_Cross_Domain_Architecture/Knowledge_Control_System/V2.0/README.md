@@ -37,3 +37,9 @@ KCS's expressly assigned knowledge-state, provenance, dependency and propagation
 - Companions 001–002 and KMDI-001B: core dependency graph, material dependency records, scoped change events, bounded propagation, review and cross-domain interfaces incorporated into Section 06. Detailed schema choices and host-specific thresholds remain implementation work.
 - Consequential classification correction: participant challenge and competent review interfaces incorporated into Chapters 18–19; downstream remedy mechanisms remain owned by the competent domain.
 - All predecessor and companion documents remain unchanged for provenance. Integration requires a final source-to-section completeness and contradiction pass; this progress record is not a claim of exhaustive validation.
+
+## Source-to-section reconciliation
+
+The original KCS chapters 1–30 were migrated without textual loss before integration. The three companion upgrades have been reconciled by function: general knowledge-state/provenance/retrieval provisions in Sections 01–04; material dependencies, change events, selective propagation, distributed ownership, corrections, supersession and failure handling in Section 06. KMDI-001B supplies the material-dependency record, typed functional relations and cross-domain retrieval/interface refinements; the consequential-classification correction is incorporated in Chapters 18–19.
+
+Companion testing and operational dependency datasets remain separate supporting evidence, not new governing operational sections. Detailed interface serialization, threshold selection and implementation-specific regression remain to be designed or verified by the competent systems. This is a structural and semantic reconciliation, not a claim that implementation or empirical validation is complete.
