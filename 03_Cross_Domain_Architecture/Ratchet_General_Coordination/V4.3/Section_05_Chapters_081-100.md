@@ -475,6 +475,14 @@ Corporate participants require clear beneficial-control and responsibility recor
 
 ---
 
+### 97.1 Organisation identity, beneficial control and accountable acts
+
+Organisational participation must identify the legal or operational entity, its responsible representatives, applicable beneficial controllers, relevant delegations, and the function under which each consequential act is performed. The organisation's resources, reputation and contribution records must not be silently merged with those of its employees, customers, members, shareholders or deployed AI systems. A person or AI acting for an organisation may execute only the defined organisational function and actual delegated scope, subject to the current authorisation state.
+
+The system must distinguish the organisation's own obligations from the personal rights of individuals affected by its conduct. Organisational size, control of infrastructure or possession of multiple accounts does not multiply constitutional votes, create additional Steward offices or confer a general right to set Ratchet rules. Changes in beneficial control and delegated representation must propagate to affected operational permissions without rewriting completed historical transactions.
+
+**To be designed with organisational identity, employment, Governance, Treasury and Judiciary owners:** representation credentials, beneficial-control disclosure, conflicts of interest, corporate groups and related parties, AI-agent attribution, liability, and continuity of outstanding obligations after restructuring or dissolution.
+
 # 98. Economic Power vs Constitutional Authority
 
 Ratchet explicitly rejects the conversion of economic power into automatic constitutional authority.
