@@ -51,3 +51,7 @@ When an upstream object is corrected, preserve its prior version, record the cor
 ### 33.4 Distributed Responsibility and Dependency Review
 
 The source of a dependency record, the owner of an affected function, the custodian of supporting evidence and the reviewer of a consequential classification may be different actors. KCS must represent these distinctions rather than assigning central ownership to the dependency index. Review notifications are directed to the competent owner or authorised review process. Missing, disputed or stale ownership is recorded as uncertainty and routed through the applicable coordination interface; it does not transfer decision authority to KCS. Historical custody and KCS dependency indexing may coexist without either system inheriting the other's powers.
+
+### 33.5 Freshness and Review History
+
+Each material relation retains available first-recorded, last-confirmed, last-changed and next-review timestamps, evidence freshness, source and confidence. Overdue review does not imply that the relation is false.
