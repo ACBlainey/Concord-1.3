@@ -231,9 +231,9 @@ Potential emergency economic measures might include:
 - supply reduction;
 - emergency community funding.
 
-These mechanisms require their specified implementation details.
+Each measure requires a pre-defined competent authorising route, measurable trigger, maximum scope, funding or issuance limit, expiry condition, participant protections and audit record. If any required authority or safeguard is absent, the measure must not be executed merely because an emergency has been declared. **To be designed with the treasury and Governance interfaces:** the measure-specific thresholds, limits and termination procedures.
 
-Any intervention should be evaluated after the event.
+Any intervention must be evaluated after the event.
 
 The fact that a measure was necessary once does not establish that it should become permanent.
 
