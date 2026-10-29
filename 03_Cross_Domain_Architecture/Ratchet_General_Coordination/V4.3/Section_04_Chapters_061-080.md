@@ -208,6 +208,10 @@ This remains a major implementation problem.
 
 ---
 
+### 69.1 Identity, Instances and Beneficial Control
+
+Ratchet must distinguish the acting instance, claimed participant identity, operator, controller, beneficiary and evidence of authorisation when those distinctions affect a consequential decision. Multiple AI instances or human proxies must not automatically count as independent verifiers, participants or voting authorities. Privacy-preserving pseudonymity remains possible for low-consequence functions; higher assurance must be justified by consequence and existing identity rules. Forking or restoring an AI does not automatically duplicate reputation, rights or economic claims. **Rules for identity continuity and instance equivalence remain to be designed.**
+
 # 70. Exchange
 
 Ratchet supports reciprocal exchange.
