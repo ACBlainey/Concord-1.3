@@ -246,6 +246,10 @@ A system that punishes those who reveal its failures will progressively lose the
 
 ---
 
+### 110.1 Protected Reporting and Competent Review
+
+Reports of suspected capture or abuse must have a route outside the potentially implicated Ratchet operator. Reporting access, confidentiality and anti-retaliation protections are governed by the applicable Concord safeguards. Ratchet records the minimum necessary case status and evidence references; it does not decide guilt or compel disclosure beyond its mandate. An allegation remains an allegation until the competent process evaluates it. Deliberately false reporting and genuine error require distinct treatment.
+
 # 111. Good-Faith Error
 
 Ratchet should distinguish:
