@@ -343,24 +343,21 @@ Confidentiality itself must remain reviewable so that it cannot become a permane
 
 # 34. Information Classification
 
-Ratchet implementations may require information classifications such as:
+Ratchet uses the applicable Concord information-classification and access-control architecture rather than establishing a competing classification authority.
 
-- public;
-- participant-accessible;
-- restricted;
-- confidential;
-- sealed;
-- emergency-limited.
+Records may require public, participant-accessible, restricted, confidential, sealed or emergency-limited handling according to the competent domain's rules. A Ratchet operator may apply a classification within an existing mandate, but may not create new secrecy powers, expand access to protected records or override lawful deletion and disclosure restrictions.
 
-The exact taxonomy may vary.
+Each consequential restriction must have:
 
-Any restriction should have:
+- a specific purpose and competent authorising basis;
+- scope, affected information and permitted recipients;
+- an accountable custodian and review route;
+- retention, redaction and lawful release or deletion conditions;
+- an appropriate means for affected participants to challenge erroneous classification.
 
-- justification;
-- responsible authority;
-- review mechanism;
-- retention rules;
-- conditions for release where appropriate.
+Emergency access is not automatically unrestricted access. KCS may index the existence and permitted metadata of protected records without taking custody or disclosing the underlying contents.
+
+**To be designed with Historical, KCS and Judiciary:** Ratchet-specific classification mappings, exceptional access requests, participant notification and challenge procedures.
 
 ---
 
