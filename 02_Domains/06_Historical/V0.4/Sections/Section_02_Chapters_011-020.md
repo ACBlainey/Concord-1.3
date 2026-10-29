@@ -217,6 +217,8 @@ Authorised destruction must record, where lawful and safe:
 
 A destruction marker must not preserve the sensitive substance whose destruction was required.
 
+Historical has functional authority to carry out destruction within its own lawful custody when the applicable mandate and retention conditions require or permit it. This does not confer authority to destroy another domain's operational source, order the deletion of judicial evidence, or override a preservation obligation. The authorising decision, execution, surviving derivatives and any failed or partial destruction must remain distinguishable. Where disclosure of the destruction record would defeat the protection, only a lawful minimal provenance marker may survive.
+
 ---
 
 # 20. Reconstruction Services
