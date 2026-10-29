@@ -288,7 +288,7 @@ Scale changes:
 - data;
 - participation burden.
 
-Testing should therefore include multiple scales.
+Testing should therefore include multiple scales. Scaling a coordination function does not automatically scale its authority: broader geographic effects, treasury exposure, concentration or rights consequences require the competent scope and safeguards. Tests should measure shared-provider dependencies, administrative burden, delayed correction, minority exclusion and whether a low-level function remains capable at larger participation volumes. **To be designed with Governance and Continuity:** material scaling thresholds and transition safeguards.
 
 ---
 
@@ -300,7 +300,7 @@ Ratchet should preserve universal constitutional constraints while permitting le
 
 A universal contribution taxonomy may create hidden cultural bias.
 
-The architecture should therefore avoid assuming that one community's preferred forms of contribution exhaust all useful contribution.
+The architecture should therefore avoid assuming that one community's preferred forms of contribution exhaust all useful contribution. Context-specific recognition may vary, but the rules for evidence, challenge and economic effect must remain intelligible and non-discriminatory. Translation or cultural interpretation cannot silently convert a local reputation assessment into a universal eligibility or authority ranking.
 
 ---
 
@@ -315,7 +315,7 @@ Ratchet systems should be accessible to participants with differing:
 
 A system that theoretically allows participation but practically requires inaccessible interfaces is not meaningfully inclusive.
 
-Accessibility should therefore be considered part of implementation quality.
+Accessibility should therefore be considered part of implementation quality. Meaningful access includes understandable notice, alternative interaction and evidence routes, and a way to challenge consequential outcomes without being forced into a single technical interface. An accommodation does not create extra Steward votes or waive the lawful conditions of an act; it makes the same permitted participation practicable. **To be designed with Civil Contact and Education:** accessible identity verification, supported decision notices and non-digital alternatives.
 
 ---
 
@@ -325,7 +325,7 @@ Graduated participation mechanisms should not automatically be applied to childr
 
 Developmental protection, guardianship, autonomy and rights require separate constitutional treatment.
 
-Ratchet may support appropriate participation mechanisms but does not resolve these questions independently.
+Ratchet may support appropriate participation mechanisms but does not resolve these questions independently. Age, development, dependency and guardianship must be assessed through the competent constitutional and protection architecture; a P0–P5 participation band is not a substitute for those protections. A guardian or representative may perform only the specific acts lawfully delegated to them, and the developing participant's own interests, privacy and emerging autonomy remain distinct from the representative's preferences.
 
 ---
 
@@ -339,7 +339,7 @@ Ratchet should avoid unnecessary assumptions that all participants will be:
 - monetarily motivated;
 - human-like.
 
-The architecture should remain extensible to future participants while making no unsupported claims about entities that do not yet exist or whose nature remains unknown.
+The architecture should remain extensible to future participants while making no unsupported claims about entities that do not yet exist or whose nature remains unknown. Access to information and a bounded initial opportunity to participate may be necessary before meaningful consent or demonstrated reciprocity is possible. Such first-mover trust must remain scoped, observable and revisable rather than becoming an assumption of full eligibility or a universal score. An AI or other future participant does not gain Steward authority through technical capability or mere access to the system; the separate qualification, appointment and act-state rules still apply.
 
 ---
 
