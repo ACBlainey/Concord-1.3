@@ -378,7 +378,7 @@ This is a direct connection between Ratchet and Roadway.
 
 # 95. Universal Participation and Income
 
-Earlier Ratchet development explored both universal participation and universal income mechanisms.
+Ratchet distinguishes universal participation from universal income as separate concepts.
 
 These concepts should not be conflated.
 
