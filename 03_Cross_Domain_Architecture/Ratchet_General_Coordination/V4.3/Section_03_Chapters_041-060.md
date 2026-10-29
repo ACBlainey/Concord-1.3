@@ -353,6 +353,10 @@ A major exclusion or high-value economic judgement may require substantial proce
 
 ---
 
+### 54.1 Consequential Assessments and Existing Review Routes
+
+Ratchet must not establish a competing adjudicative authority. Where an assessment materially affects access, standing, resources or participation, preserve the affected participant's inspectability, opportunity to challenge, evidence and uncertainty, competent review, authorised correction and reconsideration of materially dependent consequences. The appropriate route is supplied by existing participant-data, domain review and Judiciary architecture according to consequence and jurisdiction. Ratchet records and communicates review status under its mandate; it cannot declare a disputed assessment final merely because it maintains the record. Confidential third-party evidence remains protected.
+
 # 55. Reciprocity
 
 Ratchet is based upon reciprocal participation rather than identical exchange.
