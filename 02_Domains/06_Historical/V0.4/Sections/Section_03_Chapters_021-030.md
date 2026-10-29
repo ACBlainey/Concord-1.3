@@ -26,6 +26,8 @@ User interfaces may summarise this information, but the underlying provenance sh
 
 Where a negative search result materially supports a conclusion, the result must remain scoped to the evaluated search space. "No record found" must not silently become "the event did not occur."
 
+Equally, the absence of an archived authority grant must not be treated as proof that an undocumented authority might exist. Concord's constitutional default is no authority: the actor claiming a mandate must demonstrate its explicit lawful mechanism and valid state. A Historical search can report which records were or were not found within its scope; it does not reverse that burden or adjudicate the legal validity of a claimed mandate.
+
 
 For consequential historical research, audits or reconstruction, Historical should be capable of recording:
 
