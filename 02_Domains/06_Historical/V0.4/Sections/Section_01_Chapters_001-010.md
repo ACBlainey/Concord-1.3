@@ -2,7 +2,7 @@
 
 **Project:** The Concord  
 **Domain:** Historical  
-**Status:** FORMAL DOMAIN SPECIFICATION / DEVELOPMENT DRAFT  
+**Status:** OPERATIONAL — Historical V0.4 sectional edition (original v0.3 source basis retained)  
 **Version:** 0.3  
 **Date:** 25 September 2026  
 **Primary Basis:** Historical Source Resolutions 001–042; Historical Synthesis 001; Historical Synthesis 002; Evaluation-Space Completeness Problem (ESCP); Adversarial Boundary Test 001; Cross-Domain Interface Tests 001–004; Bounded Contextual Authority (BCA); Constitutional Emergency V2  
