@@ -67,6 +67,10 @@ Ratchet administration should not become its own final court.
 
 ---
 
+### 144.1 Administrative Correction and Judicial Escalation
+
+Ratchet may correct routine records and review assessments within its assigned functional mandate. Where a dispute concerns legal rights, coercive consequences, steward misconduct, jurisdiction or contested authority, Ratchet must refer the matter to the competent Judiciary or other established review process. Referral does not transfer judicial powers to Ratchet. A challenged economic assessment retains its provenance and uncertainty, and any materially dependent action must be reviewed under the applicable rules. **Specific referral thresholds and procedural interfaces remain to be designed with Judiciary.**
+
 # 145. Relationship to the Ethical Kernel
 
 Ratchet remains subordinate to the Ethical Kernel.
