@@ -1,6 +1,6 @@
 # KCS V2.0 — Section 04: Chapters 19–24
 
-**Source:** original KCS specification, unchanged chapter text; companion integration pending.
+**Source:** original KCS specification, unchanged chapter text; companion integration incorporated; reconciliation ongoing.
 
 ## 19. Access and Reciprocity
 
