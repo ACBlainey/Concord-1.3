@@ -175,6 +175,10 @@ A participant should not necessarily be penalised because it works in a domain w
 
 ---
 
+### 17.1 Contextual Contribution Evidence
+
+Where person-linked contribution evidence is consequential, retain the relevant domain, time and context, evidential basis, uncertainty, dispute/correction state, provenance and legitimate access purpose. Contribution evidence is not personal worth; reliability evidence is not authority; recorded utility is not entitlement. KCS must not aggregate these dimensions into a permanent universal participant score.
+
 ## 18. Rating Should Not Become Punishment
 
 The existence of ratings introduces a serious danger.
