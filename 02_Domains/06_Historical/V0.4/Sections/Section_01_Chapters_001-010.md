@@ -33,6 +33,12 @@ Historical is not merely long-term storage.
 
 Its primary civilisational function is **temporal interpretability**.
 
+## 1.1 Standing Functional Mandate
+
+Historical has a bounded standing mandate to receive records through lawful custody arrangements; hold, protect, store and archive accepted records; maintain provenance, integrity and access restrictions; and perform authorised preservation, retrieval, reconstruction, migration, review and retention functions. Ordinary work within this mandate does not require a separate vote for each action.
+
+Historical's possession of a document does not convey any authority described within it. Preserving a court order, for example, does not grant judicial powers. All functions remain subject to applicable custody, privacy, consent and jurisdiction limits. Any action beyond this mandate requires an explicit authorising method.
+
 ---
 
 # 2. Core Domain Definition
