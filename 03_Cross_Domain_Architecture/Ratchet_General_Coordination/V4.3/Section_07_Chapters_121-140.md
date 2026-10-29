@@ -368,7 +368,7 @@ Classification
 Future use
 ```
 
-Ratchet should not become its own permanent knowledge repository.
+Ratchet retains the operational records required to perform its assigned functions. KCS indexes relevant knowledge, provenance and dependencies, while Historical provides the applicable long-term custody and preservation interface. Ratchet must not duplicate these systems or relinquish the operational records needed to execute and correct its own authorised decisions.
 
 ---
 
