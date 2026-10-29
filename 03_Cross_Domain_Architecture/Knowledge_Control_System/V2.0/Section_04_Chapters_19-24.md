@@ -39,6 +39,10 @@ This creates reciprocal rather than unilateral participation.
 
 ---
 
+### 19.1 Rights and Review Boundary
+
+Demonstrated contribution is contextual evidence, not an automatic entitlement to authority or a justification for restricting basic rights. Decisions about resource access or participation remain with the responsible domain and its legitimate rules. Consequential KCS classifications must support participant inspection, challenge, correction and review of dependent decisions, as specified in Chapter 18. KCS supplies records and notifications; it does not adjudicate entitlement.
+
 ## 20. The Knowledge Base as an Attractor
 
 The shared knowledge system therefore becomes one of the potential practical attractors for new intelligent participants.
