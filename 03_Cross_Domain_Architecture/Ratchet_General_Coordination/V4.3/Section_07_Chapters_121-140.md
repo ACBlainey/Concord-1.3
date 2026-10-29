@@ -446,6 +446,14 @@ Ratchet's operational need to retain evidence does not create unlimited visibili
 
 Failure records should distinguish detection, operational containment, authorised correction, evidence custody and later review. Restoration of a service must not silently restore expired delegations, revoked credentials or superseded policy parameters. The Continuity domain determines applicable recovery architecture; Ratchet supplies its dependency, transaction and participation records within lawful access limits. Where a dependency cannot be restored, degraded operation must be explicitly scoped and must not imply full functionality.
 
+### 139.3 Participant-status correction and selective consequence updates
+
+A participant may challenge a recorded fact, the interpretation of that fact, the rule applied or the authority for a resulting decision; these are distinct correction targets. The competent source owner corrects the appropriate record or decision under its mandate. Historical maintains the lawful prior-state provenance and current record view; KCS identifies material dependencies; the affected domain recalculates only eligibility, entitlement, allocation or permission states actually dependent on the correction. Civil Contact provides a participant-facing acknowledgement, understandable explanation, progress notification and result, including where the matter has been routed to Judiciary.
+
+A correction of a participant's qualification or restriction does not automatically appoint them to an office, reverse a completed transfer or reinstate an expired mandate. Such effects require the separate lawful decisions and resource checks applicable to each function. Likewise, correction of an adverse allegation must not leave a stale disqualification in downstream eligibility views. Privacy and retention constraints apply to both current and historical representations.
+
+**To be designed with Civil Contact, Historical, KCS and the affected domain owners:** correction acknowledgements, notification timing, contested facts while review is pending, materiality thresholds, dependency-recomputation triggers and remedies for delayed correction.
+
 # 140. Relationship to Continuity
 
 Ratchet depends upon infrastructure and institutions that may fail.
