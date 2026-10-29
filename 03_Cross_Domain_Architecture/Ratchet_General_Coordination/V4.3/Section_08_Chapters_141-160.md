@@ -394,6 +394,10 @@ This would allow the core coordination hypothesis to be tested before introducin
 
 ---
 
+### 159.1 Minimum Viable Trial Boundaries
+
+The initial Ratchet trial should be voluntary, non-monetary and limited in scope. It must establish a lawful participation and data-handling basis, independent review of consequential assessments, accessible exit, clear evidence requirements and an explicit stop condition. A successful coordination pilot does not prove monetary stability, constitutional legitimacy or suitability for compulsory deployment. Those claims require separate tests and competent authorisation.
+
 # 160. Why the MVP Should Initially Avoid Currency
 
 Currency introduces additional variables:
