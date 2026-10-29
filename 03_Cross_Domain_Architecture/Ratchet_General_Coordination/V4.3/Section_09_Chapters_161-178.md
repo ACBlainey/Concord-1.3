@@ -38,6 +38,10 @@ Failure at one stage should generate revision rather than automatic escalation.
 
 ---
 
+### 161.1 Stage Gates and Failure Outcomes
+
+Each experimental stage must define the mechanism under test, predicted result, comparison baseline, material failure conditions, evidence capture, participant protections and competent go/no-go decision before testing begins. Failure, inconclusive results and unavailable evidence are distinct outcomes. Advancement requires evidence relevant to the next stage, not merely completion of the previous trial. Non-monetary coordination tests cannot by themselves validate monetary issuance or treasury solvency.
+
 # 162. Adversarial Testing
 
 Ratchet should be tested by participants explicitly trying to break it.
