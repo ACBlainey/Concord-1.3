@@ -19,6 +19,14 @@ The eighteen domain roots are numbered for navigation only. Directory order does
 
 **Review instruction:** Identify the actual explicit authority mechanism and verify its state and scope. Do not repeatedly audit imagined authority pathways that Concord has never created. Examine real technical bypasses, coercion, impersonation and unauthorised acts as conduct or implementation failures, not as lawful authority. This cross-domain rule governs interpretation of all domain texts; an exception requires an explicit constitutional provision, not an inference.
 
+## Standing functional mandates
+
+A domain's expressly assigned operational functions form its bounded mandate to perform those functions under their stated conditions. Routine acts within that mandate do not each require a fresh Governance vote. The mandate does not extend to another domain's decisions or override applicable rights and restrictions.
+
+Holding a record never transfers the authority described by its contents. Historical may preserve a judicial order without gaining judicial powers. The same distinction applies to every domain that stores, processes or transmits another domain's records.
+
+Reviewers must preserve expressly assigned functions and their limits; they must not delete necessary operational architecture merely because each routine action lacks a separately repeated authority clause. Any material expansion beyond those functions requires an explicit authorisation method.
+
 ## Concord-wide founding and first-run stewardship bootstrap — architectural issue
 
 **Scope:** Every domain or function requiring appointed Stewards or other qualified officeholders at initial Concord implementation. This is a cross-domain founding dependency, not a special rule owned by Governance or Judiciary.
