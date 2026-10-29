@@ -599,9 +599,7 @@ Easy
 Worthless
 ```
 
-Earlier Ratchet development proposed contribution difficulty levels, including a possible 1–5 scale.
-
-The implementation details are specified where available; remaining details require design.
+Contribution difficulty may be represented by a context-specific scale, potentially 1–5. The exact classification, evidence and consequences are to be designed in the contribution mechanism; the scale alone does not determine usefulness or reward.
 
 Difficulty may be relevant to:
 
