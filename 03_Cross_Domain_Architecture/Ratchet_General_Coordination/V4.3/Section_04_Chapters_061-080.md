@@ -1,6 +1,6 @@
 # Ratchet V4.3 — Section 04: Chapters 61–80
 
-**Migration:** V4.2 text preserved; reconciliation to follow.
+**Version:** Ratchet V4.3
 
 # 61. Community Exit and Mobility
 
@@ -206,7 +206,7 @@ Ratchet must therefore distinguish where relevant between:
 - controller;
 - beneficiary.
 
-No universal technical solution is assumed in V4.2.
+No universal technical solution is assumed.
 
 This remains a major implementation problem.
 
@@ -344,7 +344,7 @@ The coordination architecture can be evaluated before the monetary architecture 
 
 # 76. Progressive Monetary Backing
 
-Progressive Monetary Backing, or PMB, is a candidate Ratchet monetary mechanism.
+Progressive Monetary Backing, or PMB, is a Ratchet monetary mechanism.
 
 Its original purpose was to allow a monetary system to increase the proportion of its backing through:
 
@@ -431,7 +431,7 @@ Potential factors may include:
 - productive capacity;
 - community activity.
 
-The exact issuance mechanism remains experimental.
+The exact issuance mechanism remains to be designed.
 
 Issuance rules should be:
 
