@@ -122,7 +122,7 @@ Historical architecture must explicitly guard against:
 
 ---
 
-# 46. Candidate Top-Level Architecture
+# 46. Top-Level Functional Architecture
 
 The Historical Domain should contain services or components corresponding to:
 
