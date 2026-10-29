@@ -271,6 +271,8 @@ A previous exercise may materially alter the next context without authorising th
 
 Historical retrieval reconstructs the authority event. It does not recreate the context that generated it.
 
+The standing functional mandate of Historical is separate from each authority event it records. That mandate permits lawful custody, protection, preservation, indexing and authorised reconstruction without a fresh triadic decision for every routine action. The recorded event's authority is never imported into Historical through possession, authenticity, custody or retrieval. A purported mandate must be proven by the actor claiming it; the archive need not prove the absence of an undocumented power.
+
 ## 57.5 Claimed, Exercised and Adjudicated Authority
 
 Historical should preserve distinctions between:
