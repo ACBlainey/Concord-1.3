@@ -207,7 +207,7 @@ Ratchet may report economic threats and execute already-authorised emergency fun
 
 # 129. Emergency Expiry
 
-Every extraordinary Ratchet authorisation must have a bounded termination condition and an enforceable expiry or renewal process. Review alone does not extend expired authority.
+Every extraordinary Ratchet authorisation must have a bounded termination condition and an enforceable expiry or renewal process. Review alone does not extend expired authority. A pending renewal, unresolved incident or continued emergency designation likewise cannot preserve a consumed or expired operational mandate. At termination, the system must stop initiating new acts under that extraordinary authorisation, while preserving records and reconciling transactions already committed. Any separate recovery or participant-support function continues only under its own existing mandate; expiry does not erase lawful obligations created before termination.
 
 Emergency mechanisms should define:
 
