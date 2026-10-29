@@ -27,3 +27,7 @@ Review interfaces with Governance V2.2, Judiciary V2.1, Continuity V2.1, Histori
 ## Reconciliation checkpoint
 
 Chapter 8 now distinguishes bounded standing functional mandates from participation and reputation. Chapters 54 and 102 connect consequential review and steward authority to their competent domains. Chapters 79, 89, 91 and 92 bound monetary design, treasury authority, circular backing and policy feedback. Chapters 128, 136 and 139 clarify emergency authority, KCS dependencies and protected retention. Substantive reconciliation continues across the remaining sections; no empirical validation is claimed.
+
+## Verification and identity checkpoint
+
+Chapters 27, 41 and 53 now address shared evidence ancestry, contribution laundering and contextual reputation portability. Chapters 63 and 69 clarify delegation, AI instances and beneficial control. Chapter 125 records common-cause failure and selective dependency review. These are operational interface clarifications; identity-continuity algorithms and empirical validation remain to be designed.
