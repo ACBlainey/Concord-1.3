@@ -244,6 +244,10 @@ No single indicator should control policy automatically without appropriate safe
 
 ---
 
+### 92.1 Policy Feedback and Authority
+
+Monetary indicators may trigger review, not automatically authorise intervention. Changes require a competent mandate, recorded assumptions, bounded monitoring and a correction route. Quantitative thresholds remain to be designed.
+
 # 93. No Single Economic Score
 
 Ratchet rejects the idea that economic health can be reduced to one number.
